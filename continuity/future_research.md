@@ -83,10 +83,13 @@ See **[`continuity/phase_1f_bononia_e3_plan.md`](phase_1f_bononia_e3_plan.md)**
 See **[`continuity/post_development_cold_read_1d6.md`](post_development_cold_read_1d6.md)**  
 Verdict: **Gate B** — structure sound for targeted house-style pass; no P0 ordeal wave; 45–70k retired as success gate (~29.9k body, quality > quota).
 
-### 2. Phase 1G — Targeted house-style pass (next)
-Craft I3 + cold-read P1-d: non-native *weather/filed/was how*; soft future borders; SC-95 thesis tone; optional P1-b/c micro-seeds only if still needed.  
+### 2. Phase 1G — Targeted house-style pass — COMPLETE
+See **[`continuity/phase_1g_house_style_plan.md`](phase_1g_house_style_plan.md)**  
+- [x] Non-native *weather/filed/was how* cut (preserve F4/OCT/Nysa/Laberius + Ch 14 SAMPLE-1)  
+- [x] Soft future borders; Laberius opener variance; SC-95 / Bononia thesis soft  
+- [x] Light P1-b/c/e micro-seeds (Decimus Plancus silence; Plancus tablet; Brutus purse refuse)  
 ### 3. Optional second polish / human line edit (1H)  
-*(After 1G + spot-check.)*  
+*(Spot-check Acts 4–5; then compress vs SAMPLE-1.)*  
 ### 4. Appian funeral-gesture VERIFY when sources handy (P2)
 
 ### 2. After each batch

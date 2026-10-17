@@ -44,7 +44,7 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-They said—someone always said—that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship weather for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+They said—someone always said—that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
 “Balbus,” he told the empty room, because Atticus was not there and the room would not contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
@@ -52,7 +52,7 @@ He was wrong about the floater. Wrong guesses were still useful; they proved the
 
 He did not imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man—himself, confessedly—timed the Philippics of the soul correctly. Parthia was a clock for Caesar. For Cicero it was still a topic.
 
-He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him. Comfort was how intelligent men stayed blind while still feeling busy.
+He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him. Intelligent men stayed blind that way and still felt busy.
 
 Outside, a courier waited. Cicero sealed nothing urgent. Urgency, he believed, belonged to other men’s panic.
 

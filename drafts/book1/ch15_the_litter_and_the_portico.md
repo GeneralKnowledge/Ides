@@ -29,7 +29,7 @@ Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost
 
 In the atrium the painted pediment—still whole, still smiling its public smile—seemed to lean. Calpurnia knew that was her mind. She also knew minds could be right while looking foolish.
 
-A physician’s slave arrived with a message no one had requested: if Caesar felt the old swimming in the skull, rest was piety. The message was late on purpose. Late advice was how careful men stayed employed after disasters.
+A physician’s slave arrived with a message no one had requested: if Caesar felt the old swimming in the skull, rest was piety. The message was late on purpose. Careful men stayed employed that way after disasters.
 
 Calpurnia sent the slave away with courtesy sharp enough to cut.
 
@@ -63,7 +63,7 @@ The litter swayed. Caesar sat as he sat in triumphs and in mud—half present, h
 
 “Short session,” he said again, because repetition was a kind of rope. “You dismiss them if the birds offend you. You will have been seen. That is what matters.”
 
-Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule—petitions, lists, the city’s endless paper hunger. Decimus did not look too long at the stack. Looking too long was how men with knives under togas started sweating through wool.
+Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule—petitions, lists, the city’s endless paper hunger. Decimus did not look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
 
 Near the turning toward the Campus, a man pressed in—Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. He pushed a small sealed tablet toward Caesar’s hands.
 

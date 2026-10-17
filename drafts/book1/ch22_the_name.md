@@ -21,7 +21,7 @@ Atia’s hands found the cushion seam and worried it open a thread. “They will
 
 Octavius—he still heard himself as Octavius in the bones—looked at Agrippa. Agrippa did not nod. He waited. Waiting was a vote. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard; he stopped twisting because that, too, was information.
 
-“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is a kind of theft from the dead.” He hated the polish. Polish was how you survived rooms like this. “I will take what is mine. The name included.”
+“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is a kind of theft from the dead.” He hated the polish. Rooms like this required it. “I will take what is mine. The name included.”
 
 Atia’s mouth opened and closed. Philippus looked toward the sea as if the sea might offer a legal opinion. The gardener’s shears stopped. Silence was worse than clipping.
 

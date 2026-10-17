@@ -40,11 +40,11 @@ Maps rolled like sleeping snakes. Boots. Lists in hands that were not hers. Talk
 
 Nysa understood only that the house was aiming at a horizon with a name. Clocks made of crates still counted. Phileros cursed a missing strap and called it omen; the cook called it thieves; Dama claimed the chickens had opinions. Nysa called it work.
 
-She kept count of who entered the tablinum without being announced. Announced men were theatre. Unannounced men were weather. A clerk argued about grain for ships; another about which boots survived salt. The argument was not glorious. It was a clock you could trip over.
+She kept count of who entered the tablinum without being announced. Announced men were theatre. Unannounced men were pressure. A clerk argued about grain for ships; another about which boots survived salt. The argument was not glorious. It was a clock you could trip over.
 
 A strap was found. Phileros claimed victory over chaos. Nysa claimed nothing. She only noted that the house could still pretend packing was ordinary while everyone’s shoulders said otherwise.
 
-Calpurnia’s corridor stayed quieter than the packing noise. Quiet did not mean calm. Nysa carried water and filed the East as a pressure in the house’s bones—something that made doors hurry and made fear wear the face of logistics.
+Calpurnia’s corridor stayed quieter than the packing noise. Quiet did not mean calm. Nysa carried water and set the East beside the other pressures in the house’s bones—something that made doors hurry and made fear wear the face of logistics.
 
 ---
 

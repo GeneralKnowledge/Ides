@@ -19,7 +19,7 @@ Antony did not need a poet. He needed a corpse, a toga that could still show hol
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money, gardens, grief, spectacle—the four truths of the city.
 
-Antony spoke as a consul speaks when he intends the words to become weather: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He did not invent the crowd’s anger. He aimed it.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He did not invent the crowd’s anger. He aimed it.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
@@ -79,7 +79,7 @@ She saw the cloth. She heard the refrains. She smelled the first wrong smoke—n
 
 A man lifted a child to see the fire and laughed, and Nysa thought of Calpurnia’s lap in the dream and had to look away.
 
-She did not see Antony as clever or monstrous. She saw a large man steering weather with his arms. She did not see Brutus at all. Height had become irrelevance.
+She did not see Antony as clever or monstrous. She saw a large man steering the crowd with his arms. She did not see Brutus at all. Height had become irrelevance.
 
 When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her ribs. She kept it. Relics were stupid. She was allowed one stupidity.
 
@@ -138,7 +138,7 @@ She took the wax fragment from her tunic at last, looked at its incomplete warni
 
 It changed nothing. That was why she could finally burn it.
 
-Outside, Rome practised the new weather: smoke, lists forming in mouths, amnesty becoming a word you said while packing.
+Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty becoming a word you said while packing.
 
 ---
 

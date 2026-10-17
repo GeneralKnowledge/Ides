@@ -29,11 +29,11 @@ Brutus watched a knot of women shove a knot of men and felt the first cold thoug
 
 He did not say it. Saying it would make it a motion.
 
-A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus filed each report under *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
+A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
 
 Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament.
 
-He drafted, in his head, the speech he might later write down so the day would have a cleaner spine than it deserved. Writing was how you forced the Republic to sit still.
+He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Writing might force the Republic to sit still—or only force the page.
 
 Cassius said, “We cannot sleep on this rock and call it victory.”
 
