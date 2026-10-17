@@ -18,7 +18,7 @@ Marcus Seius Vestalis had come to the baths with a grievance polished like a sho
 
 Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Seia Prima had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
 
-In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice—or a man who spoke Basilus’s weather—kept the pitch careful: not knives, never knives, only *friends who refuse to watch Rome become a household*.
+In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice—or a man who spoke Basilus’s careful pitch—kept soft: not knives, never knives, only *friends who refuse to watch Rome become a household*.
 
 “You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
 
@@ -54,13 +54,13 @@ A. Visellius Ralla’s tablet sat among the honest ones—interest tidy, excuses
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 
-Hordeonius did not laugh. Laughing at piety was how bankers became tavern stories.
+Hordeonius did not laugh. Bankers who laughed at piety ended as tavern stories.
 
 “I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
 
 Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal.
 
-“Seals are older than liberty,” Hordeonius continued, gentle, as if instructing a nephew. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus—if Basilus is in this weather—pays as written too.”
+“Seals are older than liberty,” Hordeonius continued, gentle, as if instructing a nephew. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus—if Basilus is in this bargain—pays as written too.”
 
 Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue.
 
@@ -84,7 +84,7 @@ Hordeonius went himself, because a banker who only sent Sosia learned too late w
 
 Visellius Ralla was on the floor with his throat opened by someone who had not cared about neatness. Hordeonius washed his hands in a basin that was not clean enough and still washed them.
 
-The tablets were not hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit—Paullus’s perfume weather made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, an Antonian cash-rat Hordeonius knew from uglier markets.
+The tablets were not hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit—Paullus’s perfume talk made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, an Antonian cash-rat Hordeonius knew from uglier markets.
 
 Neighbours already filled the stair with theories: debt, jealousy, politics, a wrong name at a door. Hordeonius filed all of them. He was not a judge. He was a man of seals, and seals had been broken with a knife.
 

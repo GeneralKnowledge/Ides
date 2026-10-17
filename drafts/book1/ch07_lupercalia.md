@@ -26,7 +26,7 @@ Not once only—refused in a way that let every watcher invent a script: humilit
 
 “He already is!” someone else shouted, not relieved.
 
-In the press Antony saw a familiar face go pale—Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Antony filed the pallor as useful weather in a crowd: some men already smelled stairs they did not want to climb. Beside Seius a freedman was mouthing Parthia and crowns in the same breath. Antony let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale—Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. Beside Seius a freedman was mouthing Parthia and crowns in the same breath. Antony let the mouths blur back into Forum.
 
 Afterward he drank and laughed and said the symbol was temporary. He could already hear what Fulvia would do with that word—price it, not correct it—and he laughed harder so the hearing would have to wait.
 
@@ -59,7 +59,7 @@ Overhear risk: Medium-High
 
 They chose a colonnade where shadows made faces honest and mouths careful. The festival was still sticky in the city’s teeth—the diadem’s ghost, the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder.
 
-Cassius did not begin with murder. He began with the difference between name and power, because that was how you invited a careful man to stop being careful.
+Cassius did not begin with murder. He began with the difference between name and power—the only door a careful man would open without smelling steel.
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? Latin?”
 
@@ -83,3 +83,5 @@ They walked on as if they had been talking about rain. In Rome, that was often t
 - A4 hit; conspiracy disclosure begun after Lupercalia.  
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
 **1F / E3:** Antony POV borders; Fulvia marked beat.
+**1G:** Antony filed/weather cut; Cassius *was how* cut.
+

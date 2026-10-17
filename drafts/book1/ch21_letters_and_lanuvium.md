@@ -16,7 +16,7 @@ Overhear risk: Letter couriers
 
 Cicero wrote as other men breathed.
 
-The tablet under his palm was still warm from the last courier’s bag. Wax took fingerprints. He liked that—proof that news had a body before it became opinion. *The deed was fair,* he told Atticus in one of the versions that would not survive intact, *the result is nothing.* He scratched it out. He wrote it again softer. Softness was how you stayed invited.
+The tablet under his palm was still warm from the last courier’s bag. Wax took fingerprints. He liked that—proof that news had a body before it became opinion. *The deed was fair,* he told Atticus in one of the versions that would not survive intact, *the result is nothing.* He scratched it out. He wrote it again softer. Softness kept invitations open.
 
 From Fundi’s shade he demanded the city’s gossip in teaspoonfuls: who dined with Antony, who smiled at Brutus’ name, what the bakers said about gardens not yet walked. Couriers arrived dusty and left dustier. One boy’s sandals had cracked; Cicero tipped him as if tipping could buy a Republic and then asked, sharply, whether the seal on Antony’s latest posting had looked fresh or tired. Fresh seals meant industry. Tired seals meant theatre.
 
@@ -64,7 +64,7 @@ He drafted speeches for a city that would not let him deliver them. Ink dried on
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and did not burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” The client nodded as if that were a date.
+Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left offended. Offence was cheaper than a letter that made Brutus Antony’s petitioner. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if it were a date.
 
 He practised a line for a Senate that might never hear him: *We killed a king so that we would not need one.* The hedges did not applaud. Hedges were honest that way.
 
@@ -76,3 +76,5 @@ It was not a date. It was a cage with a view of hills that looked like freedom i
 - Liberators bottled in Latium; Cicero sees force-gap via letter-objects.  
 - **1D.5:** Cicero visitor clash (throat/fists); Octavius-not-yet margin; Brutus hears Campania name laugh.  
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
+**1G / P1-e:** Brutus returns purse unopened (behavioural cost).
+

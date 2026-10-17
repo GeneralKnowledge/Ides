@@ -39,10 +39,13 @@ Brutus’ face was pale under soot. “They burned Helvius for a name.”
 
 He left before philosophy answered.
 
+On the road north he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance; one to a man who owed Lepidus a favour. Plancus’s reply arrived soft—praise, delay, no date. The Lepidus channel returned nothing but a messenger who would not meet his eyes. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already practising absence.
+
 ---
 
 ## Continuity notes (SC-52)
 - Split: Decimus → Cisalpine track; Brutus/Cassius → East track (EXIT-1 seed).  
+- **1G / P1-b:** Plancus soft delay + Lepidus silence seed ally-evaporation before Ch 29.  
 - Property damage shown; which house burns = flex, keep generic elite street.  
 
 ---
@@ -66,7 +69,7 @@ Caesarion asked, in the frank cruelty of children, whether Father would come to 
 
 “Father belongs to their Forum now,” Cleopatra said, and hated the polish of it. Softness later. Ships first.
 
-Ammonius—or a man who did Ammonius’ work—spoke of Cicero’s old rudeness, of books unpaid, of Romans who smiled with inventory in their eyes. Cleopatra filed him under useful irritant.
+Ammonius—or a man who did Ammonius’ work—spoke of Cicero’s old rudeness, of books unpaid, of Romans who smiled with inventory in their eyes. Cleopatra kept him as useful irritant.
 
 “We do not beg intermediaries,” she said. “We leave before intermediaries invent a price.”
 

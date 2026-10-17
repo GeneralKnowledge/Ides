@@ -32,7 +32,7 @@ Lepidus cleared his throat. “He still has friends who write.”
 
 “Then they can write his epitaph,” Antony said. “Or they can join him.”
 
-Who had first thought the name—traditions would disagree even inside this tent’s own air. What happened on the wood was simpler: the name stood, and no one struck it out. Contested was honest. Silence was a vote.
+Who had first thought the name did not matter on the wood. The name stood, and no one struck it out. Contested was honest. Silence was a vote.
 
 “We buy the war with this,” Antony said, tapping the tablet.
 
@@ -68,7 +68,7 @@ Hordeonius acquired a neighbour’s leases—and a widow’s garden rights—thr
 
 Nysa saw a slave—Festus, or a man using Festus’s method—sell a household with a sentence. Informers priced breath. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong—laughter that sounded like March smoke returning.
 
-Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated—coin versus chalk—then rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction was how you joined the wood.
+Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated—coin versus chalk—then rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction joined you to the wood.
 
 Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name—reading every name invited your own onto the wood—and still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
@@ -78,3 +78,5 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - Lex Titia; proscriptions; Cicero naming contested (C) — dramatised as Antony shapes, OCT does not strike out.  
 - **1F / I2:** Bononia moral pause + Lepidus nudge; chalk-wall street beat so Formiae feels bought.  
 - MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
+**1G:** historiographic “traditions would disagree” removed.
+

@@ -80,9 +80,9 @@ Octavian thought of Italy as promises made by dead men and living soldiers.
 
 Fever had eased into a thin clarity. “They will want farms,” Agrippa said.
 
-“They will want farms that belong to someone else,” Octavian said. “That is the next war’s shape—whether or not anyone names it war yet.” He did not need a future city-name to feel the geometry of stolen fields. He kept Sextus in the corner of the mental map: sea knife, unfinished. Antony’s Eastern pull sat opposite like a weight on a scale that would not stay honest. Cold between victors was already a draft under every tent flap.
+“They will want farms that belong to someone else,” Octavian said. “That is the next war’s shape—whether or not anyone names it war yet.” He felt the geometry of stolen fields without dressing it in destiny. He kept Sextus in the corner of the mental map: sea knife, unfinished. Antony’s Eastern pull sat opposite like a weight on a scale that would not stay honest. Cold between victors was already a draft under every tent flap.
 
-He was still young in his own head—still learning which fears to show—and he kept farms, fasces, and fever in the same argument without needing a prettier noun.
+He was still young in his own head—still learning which fears to show—and he kept farms, fasces, and fever in the same argument.
 
 ---
 
@@ -96,15 +96,13 @@ Overhear risk: Sailors / street
 
 ---
 
-In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. OPEN-0 stayed open: civil war did not file cold cases for bankers. Hordeonius, if he heard the ash talk, would have called it archaeology and gone home to fields that still refused to let him sleep.
+In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers. Hordeonius, if he heard the ash talk, would have called it archaeology and gone home to fields that still refused to let him sleep.
 
 Harbour talk kept Sextus alive: sails, grain fear, a western knife that had not sheathed itself when Brutus fell. A sailor swore he had seen Pompeian colours; another swore the first sailor drank. Both stories moved grain prices by morning.
 
 Land assignments moved through ledgers. Antony’s name pulled East; the young Caesar’s pulled toward Italian promises that would need other men’s soil. Cold between victors was already a rumour you could buy drinks with.
 
-On the plain, after Brutus, silence did the finishing. Liberty’s brand cracked. Caesar’s name multiplied. Private truths burned for kindling. The unpaid bill waited in the soil.
-
-Hooks only—not the next volume written here: land · sea · Eastern weight · cold between men who had just won together.
+On the plain, after Brutus, silence did the finishing. The unpaid bill waited in the soil: land, sea, Eastern weight, and the draft under every tent the victors still shared.
 
 ---
 
@@ -112,3 +110,5 @@ Hooks only—not the next volume written here: land · sea · Eastern weight · 
 - SERIES-1 satisfied; sequel hooks only; no Actium plotting; OCT ill/not genius; Brutus death experiential.  
 - MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.  
 **Phase 1D.2:** SC-92 Brutus ordeal + OCT fever orders; SC-93–95 hooks lean; templates cut.
+**1G:** anti-Actium wink cut; SC-95 thesis lean softened; hooks held.
+

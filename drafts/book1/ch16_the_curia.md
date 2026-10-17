@@ -75,7 +75,7 @@ What Caesar said—if he said—Brutus already knew he would not keep the same a
 
 Brutus did not answer. Answers were for courts.
 
-Caesar folded at the base of Pompey’s statue as if the old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. The number of wounds would become a story; Brutus did not count. Counting was how you stayed in the room. He needed to leave the room as liberty, not as butcher.
+Caesar folded at the base of Pompey’s statue as if the old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. The number of wounds would become a story; Brutus did not count. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
 
 “People—Senate—” His voice sounded written. He hated that. “The tyrant is dead. There is nothing to fear—”
 
@@ -105,7 +105,7 @@ Overhear risk: She is the overhear
 
 ---
 
-Nysa had not meant to follow the litter far. Following was how girls became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes,” as if news were a fishmonger’s tray.
+Nysa had not meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes,” as if news were a fishmonger’s tray.
 
 She was still on the edge of the Campus crowd when the Curia began to spit men.
 
@@ -132,7 +132,7 @@ In a street that smelled of garum and wet stone she told a woman with bread unde
 
 The woman clutched the bread. “Both?”
 
-“Both,” Nysa said, and felt the story settle into the city like dust. She did not know if it was true. That was how such stories travelled: on the legs of people who thought they were being precise.
+“Both,” Nysa said, and felt the story settle into the city like dust. She did not know if it was true. Such stories travelled on the legs of people who thought they were being precise.
 
 By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella and, somehow, a list. Lists always arrived early in panics. Lists made fear feel organised.
 

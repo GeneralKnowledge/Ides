@@ -16,7 +16,7 @@ Overhear risk: N/A
 
 Octavian stood where important men’s shadows fell and practiced being invisible on purpose.
 
-Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. Heat came off the stone steps into Octavian’s thin shoes. He listened more than he spoke. Listening was how a boy without legions borrowed a map.
+Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. Heat came off the stone steps into Octavian’s thin shoes. He listened more than he spoke. A boy without legions borrowed maps with his ears.
 
 Caesar’s glance found him once—brief as a list check, not unkind, not enough. No prophecy in it. Octavian felt the glance land and leave, the way a stylus taps a wax edge and moves on. He filed it under *seen, not weighed*.
 
@@ -26,7 +26,7 @@ Agrippa at his shoulder said nothing useful and everything loyal: a presence tha
 
 “Good,” Octavian said. “Names that arrive early get spent.”
 
-A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian filed the mistake without correcting it. Corrections announced you wanted space you had not earned.
+A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian kept the mistake quiet. Corrections announced you wanted space you had not earned.
 
 He inventoried faces: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection. Waiting was not passivity. Waiting was inventory. When the ceremony ended he was still publicly irrelevant—and privately richer by a list.
 
@@ -46,7 +46,7 @@ On the Illyrian coast he studied war like homework for a test someone else might
 
 Agrippa drilled until sweat made honesty cheaper than speech. Octavian’s body complained; he did not narrate the complaint. Weakness spoken aloud became other men’s tool. He asked questions that sounded younger than his calculations—supply, winds, what older officers feared when they joked about the East.
 
-Those officers brightened at Parthia talk—months east, glory, the map widening. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian felt the distance from Rome as safety and insult both. Safety: fewer dinners where he must be furniture. Insult: the real weather was elsewhere, and he was still a spare cloak in someone else’s packing list. He copied the erased route in his mind anyway. Dust maps still taught.
+Those officers brightened at Parthia talk—months east, glory, the map widening. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian felt the distance from Rome as safety and insult both. Safety: fewer dinners where he must be furniture. Insult: the real campaign was elsewhere, and he was still a spare cloak in someone else’s packing list. He copied the erased route in his mind anyway. Dust maps still taught.
 
 “When he calls us,” Agrippa said once, meaning Caesar.
 

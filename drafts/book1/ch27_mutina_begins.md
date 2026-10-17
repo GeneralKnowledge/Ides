@@ -42,6 +42,8 @@ They parted without clasping. The truce ended when the first boot left the ditch
 
 “He might have,” Decimus said. “I cannot un-eat what we have already not eaten.”
 
+That night a courier brought Plancus’s newest courtesy: admiration for Mutina’s hinges, regret that his own columns were “not yet free to join,” a promise dated after a thaw that had not begun. Decimus set the tablet under the same stone as Antony’s old threats. Soft allies weighed the same as hard enemies when the smoke count was already short.
+
 ### Antony
 
 He rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day—not mercy, timing. Timing kept soldiers paid long enough to hate the right wall.
@@ -93,3 +95,5 @@ Cicero went home certain he had saved the Republic with a clever adoption of for
 - OCT as Senate sword; not-Augustus held.  
 - MUST_EXPRESS: C5, C7, A10. Next: Ch 28 Mutina field.  
 **Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.
+**1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
+

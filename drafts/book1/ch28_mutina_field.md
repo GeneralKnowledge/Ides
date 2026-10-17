@@ -16,7 +16,7 @@ Overhear risk: High camp
 
 Laberius’ world narrowed to mud, shield rim, and which eagle still stood.
 
-They would call it a great success in rooms with clean sandals. In the ditch it was screaming and the Martians refusing to be held and someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out hard—hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius did not see strategy. He saw a standard tilt and a friend open at the neck. Blood mixed with meltwater until colour became argument.
+In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming and the Martians refusing to be held and someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out hard—hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius did not see strategy. He saw a standard tilt and a friend open at the neck. Blood mixed with meltwater until colour became argument.
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
@@ -69,3 +69,5 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 - MUST_EXPRESS: B4, A6, D4. Next: Ch 29.  
 **Phase 1D.1:** SC-80 fact vs rumour split; plains future-lean cut; SC-81 AMB-2 held.  
 **1F / E3:** re-check — no narrator history-wink residue; Laberius/Hordeonius “later” = present speculation only.
+**1G:** “great success” softened to present ditch irony.
+

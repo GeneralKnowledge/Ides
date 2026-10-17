@@ -16,7 +16,7 @@ Overhear risk: Nysa possible
 
 Calpurnia had begun to dread sleep the way other women dreaded childbirth—necessary, costly, not optional.
 
-The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him—alive—sorting tablets as if wax could outrun weather.
+The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him—alive—sorting tablets as if wax could outrun dread.
 
 Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and did not meet her eyes too long. The household had started treating Calpurnia’s face like a sky: look, then prepare.
 
@@ -24,7 +24,7 @@ Pallas dressed her in the mornings with the quiet of someone who had learned not
 
 “The house listens,” she said. “So do I.”
 
-She did not have Senate words. She had body words: the ache behind the eyes, the taste of metal before dawn, the sense that the Domus Publica’s public smile on the Sacra Via was a painted lie about safety. Toward the night that would break her, she stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife did not keep when the city used their bedroom as a rumour mill.
+She did not have Senate words. She had body words: the ache behind the eyes, the taste of metal before dawn, the sense that the Domus Publica’s public smile on the Sacra Via was a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife did not keep when the city used their bedroom as a rumour mill.
 
 ---
 
@@ -87,3 +87,5 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 - **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.  
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.  
 - Next: Ch 13 GO night (+ SC-32).
+**1G:** soft future “night that would break her” cut; wax/dread not weather.
+

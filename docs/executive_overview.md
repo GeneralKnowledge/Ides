@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Mid-tier **M1–M5** complete; Phase **1B/1C** done; **1D** + **1F** merged; **1D.6** Gate B. Not publication-ready.
+**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Mid-tier **M1–M5** complete; Phase **1B/1C/1D/1F/1G** done; **1D.6** Gate B. Not publication-ready.
 
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
@@ -151,7 +151,7 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ## Q. Recommended next stage
 
-Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier **M1–M5** complete. Phase **1B/1C** logged; **1D** + **1F** merged; **1D.6** cold read → **Gate B**. Next: Phase **1G** targeted house-style. See `continuity/post_development_cold_read_1d6.md`.
+Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier **M1–M5** complete. Phase **1D–1G** complete (Gate B → house-style). Next: optional **1H** line edit / VERIFY. See `continuity/post_development_cold_read_1d6.md`.
 
 
 **Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; Book 1 ends at Philippi; close-third past tense.

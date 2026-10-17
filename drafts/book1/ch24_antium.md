@@ -28,7 +28,7 @@ Antony’s man offered wine from a skin that had travelled. Octavian’s man off
 
 “Stand with the name,” the boy’s man said. “The name still pays when the consul forgets.”
 
-Laberius looked at both mouths and chose neither. Commitment was how you got the wrong eagle. Listening was a veteran’s first weapon after the gladius. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius did not turn. Turning was half a yes.
+Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. Listening was a veteran’s first weapon after the gladius. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius did not turn. Turning was half a yes.
 
 ---
 
@@ -71,7 +71,7 @@ Favonius muttered about civil war’s cost. No one appointed him captain. Porcia
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators would not recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light would not wait for his next letter to invent an army.
 
-He left praising everyone. Praise was how you exited rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 

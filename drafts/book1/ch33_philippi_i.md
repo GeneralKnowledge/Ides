@@ -48,7 +48,7 @@ A standard dipped, rose, dipped again in the marsh glare. Antony cursed once—s
 
 ### F3 — Laberius
 
-Laberius’ world narrowed to dust, shield rim, and which eagle still stood.
+Dust found every gap in Laberius’ teeth; the eagle staff was the only upright fact he trusted.
 
 He saw a signal, or thought he did—flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’ side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms. Plains lied through mouths that needed the story more than the mud did.
 
@@ -94,3 +94,5 @@ On another part of the field the day was not finished. Messengers were still lyi
 - Cassius dead on bad INF (M18); fog held; no casualty tables; Laberius eagle as local fact.  
 - MUST_EXPRESS: F12, A6. Next: Ch 34.  
 **Phase 1D.2:** SC-90 Antony competence + F3 fact; SC-91 ordeal dwell before steel.
+**1G:** Laberius opener differed from Mutina (P2-a).
+

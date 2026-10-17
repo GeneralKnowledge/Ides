@@ -24,7 +24,7 @@ A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orb
 
 “Archaeology,” Hordeonius said gently. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
 
-The whisperer left offended. Offence was free. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He felt virtuous for foresight. Virtue, in his religion, was a rate that cleared. He almost smiled at his own seriousness, then did not. Smiling at seriousness was how clerks became funny in taverns.
+The whisperer left offended. Offence was free. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He felt virtuous for foresight. Virtue, in his religion, was a rate that cleared. He almost smiled at his own seriousness, then did not. Clerks who smiled at seriousness became funny in taverns.
 
 ---
 
@@ -40,7 +40,7 @@ Overhear risk: Extreme staff
 
 The Domus Publica filled with new footsteps wearing old authority.
 
-Nysa packed what Calpurnia ordered packed and watched men she did not know break seals she had once guarded with her body. A steward appointed by Antony’s weather—or by the house’s new legal fiction—spoke kindly while taking.
+Nysa packed what Calpurnia ordered packed and watched men she did not know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking.
 
 “These are the people’s now,” he said of a chest. “In a manner of speaking.”
 
@@ -48,7 +48,7 @@ Phileros laughed once, short, and then looked at the outer key as if it had chan
 
 She thought of her burned fragment and felt no righteousness. Righteousness was for men with names on decrees. She hid one blank tablet in her tunic out of habit, then put it back on the shelf. Blankness was not safety anymore. Blank wax in the wrong hands became someone else’s law.
 
-In the corridor a clerk recited inventory like a prayer. Inventory was how grief became administration. Nysa carried oil and kept her eyes on doors. Doors still mattered. Doors were the only politics she trusted.
+In the corridor a clerk recited inventory like a prayer. Grief was becoming administration line by line. Nysa carried oil and kept her eyes on doors. Doors still mattered. Doors were the only politics she trusted.
 
 ---
 
@@ -66,7 +66,7 @@ Seius congratulated a Liberator’s cousin with wine-bright eyes and a spine alr
 
 “Liberty,” he said, and meant *I almost stood near the fire and did not burn.*
 
-The cousin clasped his arm too hard. Seius clasped back harder, then softer—etiquette as weather vane. At home he told no one he had been sounded for recruitment in the baths weeks ago. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions, and questions might reveal that honesty was not his strongest crop.
+The cousin clasped his arm too hard. Seius clasped back harder, then softer—etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths weeks ago. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions, and questions might reveal that honesty was not his strongest crop.
 
 When a petition circulated for “open support,” Seius developed a stomach illness of exquisite timing. He cancelled two dinners and accepted a third far from anyone who could ask him to stand in a Forum. Majority cowardice, he named prudence in the privacy of his own skull. For the room he called it dinner, then indigestion, then the sacred duty of staying alive long enough to be useful later.
 

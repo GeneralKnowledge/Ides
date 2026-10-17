@@ -46,7 +46,7 @@ Overhear risk: Extreme street
 
 Nysa carried bundles through a city drunk on spectacle.
 
-Captives, gold, painted lies on wagons—Rome swallowing Africa as parade. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s weather. She understood tasks. She did not understand why men needed wagons to prove they had already won.
+Captives, gold, painted lies on wagons—Rome swallowing Africa as parade. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She did not understand why men needed wagons to prove they had already won.
 
 A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
 
@@ -54,7 +54,7 @@ Nysa filed the spit beside the cheers. Cheers were loud; spit lasted.
 
 Children screamed at elephants or at the idea of elephants. A woman in the crowd named a captive wrongly and was corrected with pride. Rumour walked faster than the procession. Nysa kept both wrong names; wrong names were how the street remembered.
 
-Caesar passed as weather. She saw only the edge of him—enough to know the house she served was tied to this noise. He did not look at her. Great men did not look at errands. She preferred it. Looking made you responsible for what you saw.
+Caesar passed at the edge of sight. She saw only enough to know the house she served was tied to this noise. He did not look at her. Great men did not look at errands. She preferred it. Looking made you responsible for what you saw.
 
 Back in the service court she set down the oil and told Dama nothing about land. Land talk belonged to men with scars and empty hands. She belonged to doors, basins, and the habit of listening until listening became a kind of armour.
 

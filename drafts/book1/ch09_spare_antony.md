@@ -53,7 +53,7 @@ Decimus counted doors in his head—Curia threshold, portico shoulder, the place
 
 “Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
 
-Brutus held the spare. Cassius stored the loss like interest—visible in the jaw, filed for later collection. A slave’s foot scuffed beyond the hedge—too near. Conversation became weather chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated. Almost. The conspiracy’s favourite weather.
+Brutus held the spare. Cassius stored the loss like interest—visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge—too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated. Almost.
 
 They left with a decision that wore mercy’s face: Antony would live through the knives. Trebonius would be the door that stayed closed on a consul’s back.
 
