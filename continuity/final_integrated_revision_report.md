@@ -25,16 +25,16 @@
 
 | Ch | Before | After | Δ | Mechanism |
 |----|------:|------:|--:|-----------|
-| 5 | 537 | ~651 | +~114 | Attendant resists reserved place |
-| 11 | 549 | ~677 | +~128 | Cicero refuses Hirtius live dinner |
-| 20 | 914 | ~1053 | +~139 | Timing quarrel; grain refusal |
-| 21 | 842 | ~1047 | +~205 | Seal refused; town prices absence |
-| 22 | 983 | ~942 | −~41 | Cut narrator cost-preview |
-| 23 | 626 | ~853 | +~227 | Petition refusal as event |
-| 26 | 919 | ~1008 | +~89 | Plancus refuses grain/cohorts |
-| 29 | 995 | ~1181 | +~186 | Voice split Decimus / OCT |
-| 32 | 673 | ~852 | +~179 | Elder half-now + weighed sack |
-| 34 | 1035 | ~840 | −~190 | Ending compressed to open wax |
+| 5 | 537 | 651 | +114 | Attendant resists reserved place |
+| 11 | 549 | 677 | +128 | Cicero refuses Hirtius live dinner |
+| 20 | 914 | 1053 | +139 | Timing quarrel; grain refusal |
+| 21 | 842 | 1047 | +205 | Seal refused; town prices absence |
+| 22 | 983 | 942 | −41 | Cut narrator cost-preview |
+| 23 | 626 | 853 | +227 | Petition refusal as event |
+| 26 | 919 | 1008 | +89 | Plancus refuses grain/cohorts |
+| 29 | 995 | 1181 | +186 | Voice split Decimus / OCT |
+| 32 | 673 | 852 | +179 | Elder half-now + weighed sack |
+| 34 | 1035 | 838 | −197 | Ending compressed to open wax |
 
 Success judged by dramatic mechanism, not length.
 
