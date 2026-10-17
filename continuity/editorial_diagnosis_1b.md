@@ -4,7 +4,7 @@
 **Inspected commit:** `32556b9` — *Execute mid-tier Batch M5: gold-spine polish*  
 **Branch at inspection:** `cursor/mid-tier-m5-gold-polish-cb1d` (clean; M1–M5 present in tree)  
 **Working tree:** 34 chapter files under `drafts/book1/`; no uncommitted chapter edits during reconnaissance  
-**Method:** Full chronological read of Ch 1–34 against `canon.md`, `CHAPTER_MAP.md`, `MUST_EXPRESS.md`, voice samples, and mid-tier logs. Progress notes used only when chapter text confirmed them.
+**Method:** Full chronological read of Ch 1–34 against `canon.md`, `CHAPTER_MAP.md`, `MUST_EXPRESS.md`, voice samples, and mid-tier logs. Progress notes used only when chapter text confirmed them. Parallel act cross-checks (Ch 1–7, 8–13, 14–20, 21–34) confirmed the same verdict; concrete local flags from those reads are folded into §E–F below.
 
 **Scope of this milestone:** Diagnosis and planning only. No chapter rewrites.
 
@@ -55,16 +55,16 @@ Word counts are approximate body prose (headers, scene-card meta, continuity bul
 | 1 | Cato and Spectacle | ~520 | Open on moral shock + land hunger via market/street | F4 solemn comedy; Nysa spit/land seed | Opening problem is civic/market more than intimate human stake; year-jump begins | expand (care hook) | P1 |
 | 2 | Debt | ~630 | Patronage machine; F2 trap; F4 voice | Salutatio + Batiatus tone | — | retain | none |
 | 3 | Munda | ~510 | Veteran truth vs Rome myth; Sextus escapes | Laberius mud epistemology | Brief for first war set-piece; Sextus shrug is correct but thin for later hook | expand lightly | P2 |
-| 4 | Clemency Whisper | ~730 | Plant Chain 1: ancestors / slight / heir whisper | Three distinct pressures in one chapter | Decimus “second line” unease is sketch; trust not yet thick enough for Ch 14 betrayal | expand (Decimus) | P1 |
+| 4 | Clemency Whisper | ~730 | Plant Chain 1: ancestors / slight / heir whisper | Three distinct pressures in one chapter | Brutus hinge abstract vs Cassius/Decimus; Decimus trust still thin for Ch 14 | expand (Brutus beat + Decimus) | P1 |
 | 5 | Edge of the Ceremony | ~530 | OCT peripheral; Apollonia/Agrippa | Inventory patience; no destiny voice | Correct seed; still hard to *care* about the boy yet | retain / light expand | P2 |
-| 6 | Perpetuo | ~620 | Honours inflation + Parthia clock + offices grievance | Parthia urgency as conspiracy fuel | — | retain | none |
-| 7 | Lupercalia | ~650 | Diadem Public panic → disclosure walk | Forum pitch-change; Cassius invitation craft | — | retain | none |
+| 6 | Perpetuo | ~620 | Honours inflation + Parthia clock + offices grievance | Parthia urgency as conspiracy fuel | Cicero scene under-embodied (doorway essay) | expand (Cicero beat) | P1 |
+| 7 | Lupercalia | ~650 | Diadem Public panic → disclosure walk | Forum pitch-change; Cassius invitation craft | SC-16 tagged Antony but carries Seius interior + Fulvia later aside (POV leak) | clarify (POV borders) | P1 |
 | 8 | Recruitment | ~810 | Mandate personal; Brutus tips | Galba scene; ruined-letter behaviour | Still recruitment as montage; coalition plurality shown more than lived | expand | P1 |
 | 9 | Spare Antony | ~640 | Access key + mercy decision (M6) | Garden argument; Trebonius Monday | — | retain | none |
 | 10 | Almost / Soften / Body | ~875 | F2 flinch; F4 refuse; SIDE-1 open | Body discovery without solving Ides | SIDE-1 strong here; later echoes thin (by design OPEN-0, but reader may forget case) | clarify later echoes | P2 |
 | 11 | Omens Manufactured | ~540 | Kitchen prodigies + OMEN-1 trial balloon | AMB-3 held; Cicero wrong floater | Short; manufactured prophecy lands once then fades | retain | none |
-| 12 | Dread / Fragment / Weather | ~630 | Cal dread; Nysa half-truth; Caesar opacity | Calpurnia body-knowledge | Caesar “weather” scene still postcard vs Ch 14 | expand into Ch 14 approach | P2 |
-| 13 | GO | ~800 | Trebonius task; Cicero blind; veterans; GO | SC-32 blindness; Decimus key-turn | Multi-card packing feels checklisty in places | clarify / light expand | P2 |
+| 12 | Dread / Fragment / Weather | ~630 | Cal dread; Nysa half-truth; Caesar opacity | Calpurnia body-knowledge | SC-29 overhear too clean (“Spare the consul… danger from friends”) for a half-truth meant to mislead | clarify (muddy fragment) | P1 |
+| 13 | GO | ~800 | Trebonius task; Cicero blind; veterans; GO | SC-32 blindness; Decimus key-turn | SC-34 opens as roster inventory — GO can feel tallied not chosen | expand (one friction/cost beat) | P1 |
 | 14 | The House Wakes Wrong | ~2320 | Dream morning; Decimus fetch; Nysa blocked | Gold density; DREAM-1; betrayal voltage | Disproportionate vs neighbours (strength, not flaw) | retain | none |
 | 15 | Litter and Portico | ~1300 | Unread note; persuasion; Antony delayed | CHOREO/NOTE dual; Trebonius hold | — | retain | none |
 | 16 | The Curia | ~1170 | Murder; false Antony-dead | Fight physics; disputed last sound; rumour mutation | — | retain | none |
@@ -77,15 +77,15 @@ Word counts are approximate body prose (headers, scene-card meta, continuity bul
 | 23 | Prices and Cowards | ~610 | Bribe market; house seals; majority flinch | F2 career-of-flinch | — | retain | none |
 | 24 | Antium | ~710 | Veterans listen; Servilia soft power | Soft power rearranges Cicero | Antium is load-bearing; still lean for a set-piece | expand | P1 |
 | 25 | Philippics and Ships | ~620 | Oratory wager; East departure | Cicero heat vs Cassius necessity | Philippics as *war* underfelt; East board short | expand | P0 |
-| 26 | Provinces and Shadows | ~610 | Decimus Cisalpine; CLEO off; Sextus shadow | Decimus hinge/oil; CLEO policy | Three orbits in one short chapter = summary risk | expand / split energy | P0 |
-| 27 | Mutina Begins | ~620 | Siege lit; OCT as Senate sword | OCT hilt/metal thought | Mutina ignition deserves more siege weather | expand | P0 |
-| 28 | Mutina Field | ~610 | Mud battle; Pansa rumour-only | Laberius ditch truth; AMB-2 | “Great success” arrives as yell; strategic stakes abstract | expand | P0 |
-| 29 | Isolation and Fasces | ~620 | Decimus death-road; OCT consul | Death without speech; fasces sickness | Decimus end is powerful but abrupt after sparse Act 4 presence | expand | P0 |
+| 26 | Provinces and Shadows | ~610 | Decimus Cisalpine; CLEO off; Sextus shadow | Decimus hinge/oil; CLEO policy | Clearest Act 4 summary cluster (three exits, little collision) | expand Decimus; fold/cut Sextus if needed | P0 |
+| 27 | Mutina Begins | ~620 | Siege lit; OCT as Senate sword | OCT hilt/metal thought | Antony/Decimus parley still beat-sheet | expand (one failed-parley exchange) | P0 |
+| 28 | Mutina Field | ~610 | Mud battle; Pansa rumour-only | Laberius ditch truth; AMB-2 | Strategic Mutina only via yell — keep fog; add one fact Laberius *can* know | expand | P0 |
+| 29 | Isolation and Fasces | ~620 | Decimus death-road; OCT consul | Death without speech; fasces sickness | Death “ditch’s logic” reported more than witnessed; soft joint into Bononia | expand (sensory trap beat) | P0 |
 | 30 | Lists | ~730 | Bononia bargain; proscription economy | Triptych F2/F4/F1; contested Cicero naming | Bononia moral horror could go deeper | expand | P1 |
 | 31 | Formiae Road | ~620 | Cicero death; Chain 6 closes | Stillness as last client; no trophy aside | — | retain / light enrich | P2 |
 | 32 | Eastern Ledger | ~620 | Liberty as tax; *EID MAR* crack | Cassius solvency danger; Brutus coin doubt | War machine still offstage | expand | P1 |
 | 33 | Philippi I | ~730 | Blood land; fog battle; Cassius INF-death | M18 info-death; F4 sleep bill | First Philippi day too brief vs Curia murder | expand | P0 |
-| 34 | Philippi II and Hooks | ~740 | Brutus end; hooks only | SERIES-1 held; underestimation habit | Emotional climax thinner than Ch 16; Brutus death almost reported | expand | P0 |
+| 34 | Philippi II and Hooks | ~740 | Brutus end; hooks only | SERIES-1 held; underestimation habit | Softest Philippi spot: “He ended after the second day”; SC-95 essay-adjacent | expand Brutus ordeal; keep hooks lean | P0 |
 
 **Pattern:** Retain the gold spine. Prioritise expansion where consequence must *hurt* (25–29, 33–34). Do not expand Ch 14–16 for symmetry.
 
@@ -155,13 +155,15 @@ No **hard canon breach** found that requires silent rewrite. Flags for verificat
 | FUNERAL-1 | Antony funeral gesture detail vs Appian (refrain-only may be thin) | Ch 19 | `will_funeral_cinna_pack.md`, `batch_a_screening.md` | P2 VERIFY |
 | LATIN | Any kept letter phrasing needs VERIFY pass | Ch 21, 25, 26 | `unresolved_questions.md` | P2 |
 | OCT voice | Ch 27 “hilt/metal” and Ch 34 land geometry are sharp — watch for accidental Augustus calm in future expands | Ch 27, 29, 34 | `canon.md` OCT≠Augustus | Vigilance |
-| Ch 1 | “period he would later write better” is mild future-lean (present vanity mostly OK) | Ch 1 | VOICE-1 | Soft; optional compress |
+| Ch 1 | “period he would later write better” is mild future-lean | Ch 1 | VOICE-1 | Soft; compress on touch |
+| Ch 7 | SC-16 Antony-tagged POV carries Seius gut-drop + Fulvia later judgment | Ch 7 | VOICE-1 / POV borders | P1 clarify (not plot error) |
+| Ch 12 | SC-29 overhear nearly a clean memo (“Spare the consul… danger from friends”) — risks spoon-feeding NOTE-1 | Ch 12 | NOTE-1 | P1 muddy language |
 | Ch 28 | “plains would later” is narrator simile leaning forward | Ch 28 | VOICE-1 | Soft |
-| SIDE-1 | Must remain non-explanatory of Ides (currently held) | Ch 10, 18, 23, 33–34 | `canon.md` SIDE-1 | Held |
+| SIDE-1 | Must remain non-explanatory of Ides (currently held; Ch 10 states it) | Ch 10, 18, 23, 33–34 | `canon.md` SIDE-1 | Held |
 | AMB-2 | Pansa poison rumour-only (held in Ch 28) | Ch 28 | AMB-2 | Held |
 | SERIES-1 | No Actium; hooks only (held Ch 34) | Ch 34 | SERIES-1 | Held |
 | CHOREO-1 | Staging matches lock (Tillius→Casca→cascade→Pompey base) | Ch 16 | CHOREO-1 | Held |
-| NOTE-1 | Dual tracks held (Nysa ≠ Curia unread) | Ch 14–15, 19–20 | NOTE-1 | Held |
+| NOTE-1 | Dual tracks held (Nysa ≠ Curia unread); incompleteness must stay misreadable | Ch 12, 14–15, 19–20 | NOTE-1 | Held + Ch 12 watch |
 
 Do **not** resolve SIDE-1b, M1 Caesar-knowledge, or Pansa as facts in the next prose pass.
 
@@ -179,12 +181,12 @@ Do **not** resolve SIDE-1b, M1 Caesar-knowledge, or Pansa as facts in the next p
 - **Done when:** A cold read of Ch 20→34 feels like continuous novel consequence; Philippi death of Cassius/Brutus hurts at least as much as Curia knives; Decimus’s road-death feels prepared by Cisalpine pressure.
 
 ### P0-2 — Pre-Ides earning pass (selective Act 1–2)
-- **Problem:** Ch 14 Decimus betrayal and Ch 16 Brutus look are high voltage; earlier friendship/coalition deposit is insufficient.
-- **Evidence:** Ch 4 Decimus whisper; Ch 8 recruitment montage; limited shared Decimus–Caesar scenes before fetch.
+- **Problem:** Ch 14 Decimus betrayal and Ch 16 Brutus look are high voltage; earlier friendship/coalition deposit is insufficient; GO can feel tallied.
+- **Evidence:** Ch 4 Brutus hinge abstract vs Cassius/Decimus; Ch 8 recruitment montage; Ch 13 SC-34 roster inventory; limited Decimus–Caesar texture before fetch.
 - **Why it matters:** Without care, Ides is spectacle; with care, it is tragedy.
-- **Intervention:** Expand Ch **4, 8** (and light Ch 1 care-hook / Ch 9 already strong). Add behavioural trust and plural motives — not essays.
+- **Intervention:** Expand Ch **4, 8, 13** (friction before GO seal); light Ch 6 Cicero embodiment; Ch 9 already strong. Add behavioural trust and plural motives — not essays.
 - **Must not change:** Spare-Antony outcome; conspirator non-hive-mind; no SIDE-1→Ides.
-- **Done when:** A reader who finishes Ch 9 can dread Ch 14 for Decimus specifically, not only for history.
+- **Done when:** A reader who finishes Ch 9–13 can dread Ch 14 for Decimus specifically, and GO feels chosen rather than checked off.
 
 ### P1-1 — Name-war friction (Ch 21–24 band)
 - **Problem:** Name acceptance and Antium land, but street/army contest underplayed.
@@ -196,12 +198,16 @@ Do **not** resolve SIDE-1b, M1 Caesar-knowledge, or Pansa as facts in the next p
 - **Intervention:** Deepen bargain discomfort + one more street beat; keep contested Cicero naming.
 - **Done when:** Ch 31 feels inevitable from Ch 30’s market, not merely sequential.
 
+### P1-3 — Local continuity/voice fixes (small, high leverage)
+- **Ch 7:** Restore Antony close-third borders (Seius/Fulvia as observed or separate marked beats).
+- **Ch 12:** Muddy SC-29 overheard language so NOTE-1 fragment stays dangerous *and* misreadable.
+- Soft VOICE-1 future-leans in Ch 1 / 28 when those files are touched.
+
 ### P2 — Verification / hygiene
-- Appian funeral-gesture VERIFY (Ch 19).
+- Appian funeral-gesture VERIFY (Ch 19); optional one concrete cloth/crowd beat if funeral must match Ch 14 investment — no blank verse.
 - Latin letter VERIFY if verbatim lines kept.
-- Soft VOICE-1 future-leans in Ch 1 / 28.
 - Optional SIDE-1 ash reminder between Ch 23 and 33 so OPEN-0 reads as erasure, not author forgetfulness.
-- Do **not** expand Ch 14–16 for length symmetry.
+- Do **not** expand Ch 14–16 for length symmetry; if cutting Ch 14 later, trim Caesar-dream metaphors before Decimus/Nysa.
 
 ---
 
