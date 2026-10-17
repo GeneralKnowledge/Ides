@@ -93,7 +93,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 | F9 | Octavian accepts name | SC-62 | ✓ Ch 22 |
 | F10 | Antium consilium | SC-68a | ✓ Ch 24 |
 | F11 | Proscriptions + Cicero death | SC-85–86 | ✓ Ch 30–31 |
-| F12 | Cassius dies on bad information | SC-91 | ✓ Ch 33 |
+| F12 | Cassius dies on bad information | SC-91 | ✓ Ch 33 (1D.2 ordeal dwell) |
 
 ---
 
@@ -125,6 +125,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Act 5 Ch 28–34 mid-tier expanded (Batch M4): AMB-2; Decimus death fog; proscriptions; Cicero death; liberty-as-tax; M18 Cassius; SERIES-1 Philippi end  
 - Gold spine polish done (Batch M5): Ch 7, 9, 14–20, 22, 24  
 - Phase **1D.1** Mutina/Decimus cost: Ch 26–29 dramatised (envoy+levy; failed parley; Laberius fact vs rumour; death ordeal; OCT consul without Augustus mind)  
+- Phase **1D.2** Philippi ordeal: Ch 33–34 (Antony competence; Laberius eagle fact; Cassius INF-death dwell; Brutus second-day weight; OCT fever/not genius; SERIES-1 hooks lean)  
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
 

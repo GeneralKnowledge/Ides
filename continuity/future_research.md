@@ -69,8 +69,8 @@ Adds prose/scene/psychology method; renames former “1C development” → **Ph
 ### 1. Phase 1D — Consequence ordeal development
 Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.1** Mutina / Decimus cost — Ch 26–29 (`phase_1d1_mutina_plan.md`)  
-- [ ] **1D.2** Philippi ordeal — Ch 33–34 (after 1D.1 review)  
-- [ ] **1D.3** Selective connective — Ch 25 + 22/24/30/32 as needed  
+- [x] **1D.2** Philippi ordeal — Ch 33–34 (`phase_1d2_philippi_plan.md`)  
+- [ ] **1D.3** Selective connective — Ch 25, 30, 32  
 - [ ] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (craft E2)  
 Intermediate aim ~45–70k then reassess.
 
