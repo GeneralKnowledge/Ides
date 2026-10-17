@@ -16,6 +16,11 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 4 | 104 | ~721 | M2 | Three distinct pressures: ancestors / slight / heir whisper |
 | 5 | 167 | ~518 | M2 | OCT peripheral inventory; Apollonia; destiny wink softened |
 | 6 | 262 | ~613 | M2 | Perpetuo compliance; Parthia crates; offices futures grievance |
+| 21 | 327 | ~635 | M3 | Letters as objects; Lanuvium cage |
+| 23 | 313 | ~600 | M3 | Bribe market; scavenged seals; F2 hides |
+| 25 | 253 | ~610 | M3 | Philippics wager; East departure EXIT-1 |
+| 26 | 241 | ~601 | M3 | Cisalpine; Cleopatra offstage; Sextus shadow |
+| 27 | 262 | ~605 | M3 | Mutina lit; OCT as Senate sword (not-Augustus) |
 
 ## Hygiene
 | ID | Status | Notes |
@@ -29,6 +34,6 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 |-------|--------|
 | M1 Act 2 bridge | done |
 | M2 Act 1 Ch 1–6 | done |
-| M3 Act 4 | pending |
+| M3 Act 4 connective | done |
 | M4 Act 5 | pending |
 | M5 gold polish | pending |

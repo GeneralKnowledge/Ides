@@ -54,7 +54,8 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] Hygiene: SC-32 in Ch 13; dossier INDEX fixed  
 - [x] **Batch M1** Act 2 bridge: Ch 8, 10–13 expanded  
 - [x] **Batch M2** Act 1 foundations: Ch 1–6 expanded  
-- [ ] Batch M3 Act 4 · M4 Act 5 · M5 gold polish
+- [x] **Batch M3** Act 4 connective: Ch 21, 23, 25–27 expanded  
+- [ ] Batch M4 Act 5 · M5 gold polish
 
 ### 1. Optional second polish on remaining lean chapters for even rhythm  
 *(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  
