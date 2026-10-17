@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Mid-tier **M1–M5** complete; Phase **1B** diagnosis + Craft Pass **1C** done. Next: Phase **1D** consequence development. Not publication-ready.
+**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Mid-tier **M1–M5** complete; Phase **1B/1C** done; **1D.1** Mutina/Decimus (Ch 26–29) developed. Next: **1D.2** Philippi after review. Not publication-ready.
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
 
@@ -150,7 +150,7 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ## Q. Recommended next stage
 
-Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier **M1–M5** complete. Phase **1B** (~26k below novel form) + Craft Pass **1C** (prose/scene method) logged. Next: Phase **1D** consequence ordeal development — see `continuity/craft_editorial_pass_1c.md` §J and `future_research.md`.
+Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier **M1–M5** complete. Phase **1B/1C** logged; **1D.1** (Ch 26–29 Mutina/Decimus) drafted. Next after review: **1D.2** Philippi — see `continuity/future_research.md`.
 
 **Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; Book 1 ends at Philippi; close-third past tense.
 

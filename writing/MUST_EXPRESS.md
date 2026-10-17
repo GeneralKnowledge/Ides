@@ -41,11 +41,11 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 
 | # | Idea | How it should show | Done? |
 |---|------|--------------------|-------|
-| C1 | Decimus = highest betrayal voltage | Trust + persuasion + secondary heir irony | ✓ Ch 14–15 fetch; Ch 18 will |
+| C1 | Decimus = highest betrayal voltage | Trust + persuasion + secondary heir irony | ✓ Ch 14–15 fetch; Ch 18 will; Ch 26–29 Mutina cost + death ordeal (1D.1) |
 | C2 | Brutus = ancestral script + hesitation + money contradiction | Philosophy vs lending/exaction | ✓ Ch 7/9/16/17; Ch 32 ledger doubt |
 | C3 | Cassius = sharper ops + personal fuel | Recruitment engine; Philippi info-death | ✓ Ch 7–8; Ch 33 |
 | C4 | Antony = soldier-politician, not cartoon drunk | Funeral skill; underestimates OCT | ✓ Ch 15–19; Ch 22 |
-| C5 | Octavian young, scared, learning, name as resource | Refuses future-Augustus voice | ✓ Ch 5, 20, 22 |
+| C5 | Octavian young, scared, learning, name as resource | Refuses future-Augustus voice | ✓ Ch 5, 20, 22, 27, 29 (1D.1 fasces/learning) |
 | C6 | Caesar opaque, not omniscient | Danger-as-weather; unread note; trusts Decimus | ✓ Ch 14–16 |
 | C7 | Cicero brilliant and wrong | Letters; Philippics wager; death | ✓ Ch 17, 21, 25, 31 |
 | C8 | Cleopatra dynastic/grain lens, not soap villain | Brief Rome exit; Caesarion fuse | ✓ Ch 20, 26 |
@@ -124,6 +124,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Act 4 connective Ch 21/23/25–27 mid-tier expanded (Batch M3): D3 letters; F2 cowardice; Philippics wager; EXIT-1; CLEO-1; Mutina A10; OCT not-Augustus  
 - Act 5 Ch 28–34 mid-tier expanded (Batch M4): AMB-2; Decimus death fog; proscriptions; Cicero death; liberty-as-tax; M18 Cassius; SERIES-1 Philippi end  
 - Gold spine polish done (Batch M5): Ch 7, 9, 14–20, 22, 24  
+- Phase **1D.1** Mutina/Decimus cost: Ch 26–29 dramatised (envoy+levy; failed parley; Laberius fact vs rumour; death ordeal; OCT consul without Augustus mind)  
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
 
