@@ -59,14 +59,18 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] **Batch M5** gold polish (Ch 7, 9, 14–20, 22, 24): TODO_EDITOR cleared/deferred; Ch 22/24 strengthened; voice/compress pass
 
 ### 0b. Phase 1B — Whole-manuscript editorial diagnosis — COMPLETE
-See **[`continuity/editorial_diagnosis_1b.md`](editorial_diagnosis_1b.md)** (inspected commit `32556b9`, ~26.2k prose).  
-Verdict: mid-tier 1A complete; manuscript not yet novel-form. Next = **Phase 1C** controlled novel-length development (consequence-first), not polish.
+See **[`continuity/editorial_diagnosis_1b.md`](editorial_diagnosis_1b.md)** (~26.2k prose).  
+Verdict: mid-tier 1A complete; manuscript not yet novel-form.
 
-### 1. Phase 1C — Controlled novel-length development (NEXT)
-Consequence ordeal pass (Ch 25–29, 33–34 + selective 22/24/30/32) and pre-Ides earning (Ch 4, 8). Do not bulk-expand gold spine. Intermediate aim ~45–70k then reassess. Rules in diagnosis §G.
+### 0c. Craft Editorial Pass 1C — COMPLETE
+See **[`continuity/craft_editorial_pass_1c.md`](craft_editorial_pass_1c.md)** (twenty-book craft synthesis; analysis only).  
+Adds prose/scene/psychology method; renames former “1C development” → **Phase 1D** to avoid label collision.
+
+### 1. Phase 1D — Consequence ordeal development (NEXT)
+Execute craft backlog E1 (+ E3 when files open): Ch 25–29, 33–34 + selective 22/24/30/32. Then E2 pre-Ides earning (Ch 4, 8, 13). Do not bulk-expand gold spine. Intermediate aim ~45–70k then reassess. Rules: diagnosis §G + craft report §J.
 
 ### 2. Optional second polish / human line edit  
-*(Only after 1C readiness checklist in diagnosis §H.)*  
+*(Only after readiness checklists in diagnosis §H and craft §J stages 1G–1H.)*  
 ### 3. Appian funeral-gesture VERIFY when sources handy (P2)
 
 ### 2. After each batch

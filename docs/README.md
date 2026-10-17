@@ -2,7 +2,7 @@
 
 **Project:** Large-scale historical fiction centred on Julius Caesar’s assassination (Ides of March, 44 BC) and the final years of the Roman Republic (c. 46–42 BC, with framework extending toward Actium/Principate).
 
-**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Mid-tier Batches **M1–M5** complete; Phase **1B** whole-manuscript diagnosis logged (`continuity/editorial_diagnosis_1b.md`). Next: Phase **1C** controlled novel-length development. Not publication-ready.
+**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Mid-tier **M1–M5** complete; Phase **1B** diagnosis + Craft Pass **1C** logged. Next: Phase **1D** consequence ordeal development. Not publication-ready.
 
 **Intended feel:** Sprawling political ensemble with incomplete information, competing loyalties, espionage, and long consequence chains — historically constrained, not fantasy-Rome-as-Westeros.
 
@@ -62,6 +62,7 @@ Never quietly promote C→A or D→A.
 | `mid_tier_pass_plan.md` | 1A expansion plan (batches M1–M5) |
 | `mid_tier_pass_log.md` | Before/after prose tracking |
 | `editorial_diagnosis_1b.md` | Phase 1B whole-manuscript editorial diagnosis |
+| `craft_editorial_pass_1c.md` | Craft Pass 1C (20-book synthesis) |
 
 ### `/drafts` — Book 1 prose
 | Path | Contents |
