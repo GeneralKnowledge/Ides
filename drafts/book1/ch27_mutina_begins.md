@@ -1,38 +1,62 @@
 # Chapter 27 — Mutina Begins
 
-**Mid-tier pass** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
+**Phase 1D.1** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
 
 ---
 
 # SC-73 — Walls
 
-POV: Antony / Decimus (split scenes) · Mutina  
-Date / place: Siege winter approach · walls / camp  
+POV: Antony / Decimus (split: parley shared ground, then separate aftermaths) · Mutina  
+Date / place: Siege winter approach · ditch between lines / walls / camp  
 Canon refs: A10 · M6 aftermath  
-Info ENTER: Negotiation failed · EXIT: Siege lit  
-Overhear risk: Sentinels
+Info ENTER: Last talk attempted · EXIT: Siege lit  
+Overhear risk: Sentinels / heralds
 
 ---
 
+### Between the lines
+
+They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
+
+Snow threatened without committing. A herald’s voice cracked on a title; someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of “terms” that had already been refused twice in writing.
+
+Antony came on foot the last stretch—body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old optics habit, as if cheer could still open a morning.
+
+“Last talk,” Antony said, not loud. Loud was for walls. “Yield Mutina. Keep your skin. I take the province the consul needs. You take a road south that isn’t a grave.”
+
+“I hold a legal command,” Decimus said. “The Senate—”
+
+“The Senate writes music,” Antony said. “I write pay. Your grain weeks are shorter than your letters to Cicero admit. I have counted your smoke. Cooking smoke, not forge smoke. You are eating carefully. Careful men surrender while they can still walk.”
+
+Decimus felt the hit. He had not known Antony’s count was that close. He kept his face officer-flat. “Hirtius will come.”
+
+“Hirtius will come if Rome remembers how to send men,” Antony said. “Until then you have hinges and hope. Hope freezes.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
+
+That was not negotiation. That was a ledger opened in public. Decimus’s throat tightened—the old key turning. He did not climb down. Climbing down would have looked like confession.
+
+“No,” Decimus said. “Not for breakfast. Not for your count of my smoke.”
+
+Antony’s mouth did something almost like a smile. “Then we introduce you to winter.”
+
+They parted without clasping. The truce ended when the first boot left the ditch mud. Behind Decimus, the aide whispered, “He bluffed the grain.”
+
+“He might have,” Decimus said. “I cannot un-eat what we have already not eaten.”
+
 ### Antony
 
-Antony looked at Mutina’s walls and saw a stubborn man inside them wearing Decimus’ face.
+He rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day—not mercy, timing. Timing kept soldiers paid long enough to hate the right wall.
 
-Snow threatened without committing. Horses stamped. Smoke from cookfires rose straight, then bent—wind learning the siege. “Last talk,” he told a tribune. “Then we teach masonry who the consul is.”
-
-The parley failed in the usual way: law citations, insults dressed as courtesy, neither side able to climb down without looking climbable. A herald’s voice cracked on a title; someone laughed on Antony’s side and was glared quiet. Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day—not mercy, timing. Timing was how soldiers stayed paid long enough to hate the right wall.
-
-A scout reported smoke from the town’s edge—cooking, not surrender. Antony nodded as if smoke were a client. “Decimus thinks a province is a personality,” he said. “We will introduce him to winter.”
+A scout reported smoke from the town’s edge—cooking, not surrender. Antony nodded. “He thinks a province is a personality,” he told Pacuvius. “Personalities starve.”
 
 ### Decimus
 
-Decimus watched the lines tighten and wrote fewer letters that pretended optimism.
+He watched the lines tighten and wrote fewer letters that pretended optimism.
 
-“Hirtius will come,” an aide said.
+“Hirtius will come,” the aide said again, needing it.
 
-“Hirtius will come if Cicero’s Rome remembers how to send men,” Decimus said. “Until then we eat carefully and count hinges.”
+“Until then we eat carefully and count hinges,” Decimus said.
 
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate—like a debt he still owed a corpse who had trusted his cheer. Trust had been the key. Keys, under siege, looked like jokes. An aide offered wine; Decimus refused, then took half a cup anyway—humanity as logistics. He checked a gate twice and did not tell anyone why the second check felt like apology.
+He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate—a debt owed a corpse who had trusted his cheer. An aide offered wine; Decimus refused, then took half a cup anyway. He checked a gate twice and did not tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now: the face that had counted his smoke.
 
 ---
 
@@ -50,18 +74,22 @@ Cicero argued Octavian into usefulness the way he argued clauses into laws.
 
 “The young Caesar”—he still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” Senators who feared Antony more than they feared boys voted with their sweat. Someone muttered about adoption and armies in the same breath as if grammar could make them one animal. Cicero felt the room tip toward him and mistook the tip for virtue’s return.
 
-Octavian, present enough to be seen, young enough to be underestimated twice, listened to himself become a tool and filed the sensation without blinking. Apollodorus hovered with a cloak. Agrippa’s absence was a fact Octavian carried like a spare knife—needed elsewhere, trusted. A clerk miswrote his age on a note; Octavian corrected the number and left the tone alone.
+Octavian, present enough to be seen, young enough to be underestimated twice, listened to himself become a tool. Apollodorus hovered with a cloak. Agrippa’s absence was a fact Octavian carried like a spare knife—needed elsewhere, trusted. A clerk miswrote his age on a note; Octavian corrected the number and left the tone alone.
 
-Privately he thought: *They think they hold the sword. They hold the hilt. I am learning where metal meets skin.* He did not think *empire*. He thought *survive the week without looking grateful for their fear.* Fear was a kind of capital. He refused to spend his face showing he knew that. When Cicero’s gaze sought approval, Octavian gave a nod calibrated to be readable as obedience and nothing else.
+He did not think *empire*. He thought *survive the week without looking grateful for their fear.* When Cicero’s gaze sought approval, Octavian gave a nod calibrated to be readable as obedience and nothing else.
 
 He did not smile. Smiling would have looked like a man who already owned the morning. He owned only a boy’s face, a borrowed name, and legions beginning to smell him as paymaster.
 
 After the session a senator clasped Octavian’s arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure.
 
-Cicero went home certain he had saved the Republic with a clever adoption of force. He drafted a letter to Atticus that congratulated the day’s prudence. Certainty was his favourite mistake. Outside his litter, a vendor sold hot food and called no one Caesar. Octavian filed that too: names were weather, and weather could be waited out—or worn.
+A courier from the north had brought only fragments: Decimus holding; Antony digging; no hours Decimus would have trusted. Octavian kept the fragments separate in his head—incomplete on purpose. Complete stories were how other men sold you.
+
+Cicero went home certain he had saved the Republic with a clever adoption of force. He drafted a letter to Atticus that congratulated the day’s prudence. Certainty was his favourite mistake. Outside his litter, a vendor sold hot food and called no one Caesar. Octavian heard the vendor and did not correct him. Names could wait. Waiting was not passivity. Waiting was not getting spent early.
 
 ---
 
 ## Continuity
-- Mutina lit; OCT as Senate sword; not-Augustus held (no destiny smile).  
-- MUST_EXPRESS: C5, C7, A10. Act 4 exit. Next: Batch M4 Ch 28+.
+- Parley dramatised: grain-count pressure; Decimus refuses; siege lit.  
+- OCT as Senate sword; not-Augustus held.  
+- MUST_EXPRESS: C5, C7, A10. Next: Ch 28 Mutina field.  
+**Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.

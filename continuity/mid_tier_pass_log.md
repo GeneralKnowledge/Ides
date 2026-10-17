@@ -55,3 +55,18 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | M3 Act 4 connective | done |
 | M4 Act 5 war→Philippi | done |
 | M5 gold polish | done |
+
+## Phase 1D development batches
+| Batch | Status | Notes |
+|-------|--------|-------|
+| 1D.1 Mutina / Decimus cost | done | Ch 26–29 dramatised; start `eb776a8`; see `phase_1d1_mutina_plan.md` |
+| 1D.2 Philippi ordeal (33–34) | pending | After 1D.1 review |
+| 1D.3 Pre-Ides earning (4, 8, 13) | pending | Craft E2 |
+
+### 1D.1 word counts (approx body)
+| Ch | Before | After |
+|----|--------|-------|
+| 26 | ~608 | ~919 |
+| 27 | ~622 | ~896 |
+| 28 | ~611 | ~797 |
+| 29 | ~621 | ~995 |

@@ -66,8 +66,13 @@ Verdict: mid-tier 1A complete; manuscript not yet novel-form.
 See **[`continuity/craft_editorial_pass_1c.md`](craft_editorial_pass_1c.md)** (twenty-book craft synthesis; analysis only).  
 Adds prose/scene/psychology method; renames former “1C development” → **Phase 1D** to avoid label collision.
 
-### 1. Phase 1D — Consequence ordeal development (NEXT)
-Execute craft backlog E1 (+ E3 when files open): Ch 25–29, 33–34 + selective 22/24/30/32. Then E2 pre-Ides earning (Ch 4, 8, 13). Do not bulk-expand gold spine. Intermediate aim ~45–70k then reassess. Rules: diagnosis §G + craft report §J.
+### 1. Phase 1D — Consequence ordeal development
+Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
+- [x] **1D.1** Mutina / Decimus cost — Ch 26–29 (`phase_1d1_mutina_plan.md`)  
+- [ ] **1D.2** Philippi ordeal — Ch 33–34 (after 1D.1 review)  
+- [ ] **1D.3** Selective connective — Ch 25 + 22/24/30/32 as needed  
+- [ ] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (craft E2)  
+Intermediate aim ~45–70k then reassess.
 
 ### 2. Optional second polish / human line edit  
 *(Only after readiness checklists in diagnosis §H and craft §J stages 1G–1H.)*  

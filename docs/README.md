@@ -2,7 +2,7 @@
 
 **Project:** Large-scale historical fiction centred on Julius Caesar’s assassination (Ides of March, 44 BC) and the final years of the Roman Republic (c. 46–42 BC, with framework extending toward Actium/Principate).
 
-**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Mid-tier **M1–M5** complete; Phase **1B** diagnosis + Craft Pass **1C** logged. Next: Phase **1D** consequence ordeal development. Not publication-ready.
+**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Mid-tier **M1–M5** complete; Phase **1B/1C** logged; Phase **1D.1** Mutina/Decimus development done (Ch 26–29). Next: review, then **1D.2** Philippi. Not publication-ready.
 
 **Intended feel:** Sprawling political ensemble with incomplete information, competing loyalties, espionage, and long consequence chains — historically constrained, not fantasy-Rome-as-Westeros.
 
