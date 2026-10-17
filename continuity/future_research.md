@@ -72,7 +72,7 @@ Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.2** Philippi ordeal — Ch 33–34 (`phase_1d2_philippi_plan.md`)  
 - [x] **1D.3** Selective connective — Ch 25, 30, 32 (`phase_1d3_connective_plan.md`)  
 - [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (`phase_1d4_pre_ides_plan.md`)  
-- [ ] **1D.5** Name-war friction — Ch 22/24 if still thin after review  
+- [x] **1D.5** Name-war friction — Ch 21, 22, 24 (`phase_1d5_name_war_plan.md`)  
 
 Intermediate aim ~45–70k then reassess.
 
