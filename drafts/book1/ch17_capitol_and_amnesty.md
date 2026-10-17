@@ -140,9 +140,7 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again, which was not a dream so much as a habit.
 
-On the seventeenth, when the shape of settlement had begun to harden, he allowed himself a thin satisfaction. The state had not immediately become a slaughterhouse. That was a kind of immortality.
-
-He did not stand in the future and watch the funeral. He stood in the present and congratulated the present on taking his advice.
+On the seventeenth, when the shape of settlement had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and did not dream of funerals. He dreamed, again, that he was consul.
 
 ---
 

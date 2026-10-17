@@ -106,7 +106,7 @@ Brutus’s money sat outside the door like a creditor not invited. A note had ar
 
 “If anyone talks between now and dawn,” Cassius said, “we are not liberators. We are a joke that bleeds.”
 
-Brutus looked at his own hands. They were clean. Clean hands were the brand’s favourite lie. “For the Republic,” he said—and heard how thin the sentence was without a cost attached.
+Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm as if dirt might appear and explain him. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
 
 Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
@@ -120,7 +120,7 @@ Cassius’s nod was small. Small nods moved mornings. He named the redistributed
 
 Brutus nodded once. The ancestral gesture. He did not sleep well after. Sleep was for mornings that were not knives. Cassius slept worse and called it planning.
 
-They left the room separately. The city outside still believed in ordinary March. That belief was the conspiracy’s last luck—and the price of the missing cousin, the unpaid Kalends, and the breath Brutus had finally spent.
+They left the room separately. Outside, a baker’s boy argued with a customer about ordinary March prices, and neither man looked twice at the two who had just spent a breath on knives.
 
 ---
 

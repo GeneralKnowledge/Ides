@@ -38,11 +38,11 @@ Brutus held the tablet above the lamp until the edge blackened and the host’s 
 
 “Regrets are still courtesy,” Porcia said. “Burning is nearer the truth.”
 
-He did not decide on knives. He decided, smaller and worse, that refusal of the ancestral script had become a debt—and that tonight he had paid the first coin the creditor would recognise: a dinner he would not attend, a smile he would not owe. Debts preferred to be paid in the currency the creditor named. The masks preferred fire to philosophy.
+He did not decide on knives. He decided, smaller and worse, on a dinner he would not attend and a smile he would not owe. He scraped the blackened tablet into the ash pan so no slave would have to invent a cleaner story for the house.
 
-Porcia did not thank him. Silence was not yet action. It was only the end of a certain kind of lying.
+Porcia did not thank him.
 
-He looked at the masks until looking felt like assent. The script grew louder without a speech to mark the hinge.
+He looked at the masks and stopped looking before the paint could answer.
 
 ---
 

@@ -34,7 +34,7 @@ Water ran into his boots. He had stopped noticing wet hours ago; noticing return
 
 A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it. Leaving was becoming the day’s second skill.
 
-He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried a friend’s boots—left boot split at the heel, still warm somehow—and did not call it glory. Glory was what rooms invented when they needed to sleep. He knew Hirtius was dead. He knew Antony’s near shields had thinned. He did not know what Rome would buy with those two facts, and he did not trust the gallopers to sell them honestly.
+He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried a friend’s boots—left boot split at the heel, still warm somehow—and did not invent a noun for them. He knew Hirtius was dead. He knew Antony’s near shields had thinned. What Rome would buy with those two facts, he left to the gallopers and did not follow their dust.
 
 ---
 

@@ -16,11 +16,11 @@ Overhear risk: Camp
 
 ### Brutus
 
-Grief for Cassius sat under his ribs like unpaid tax.
+Brutus pressed two fingers under his ribs where the reports had lodged and found no relief there.
 
-He had the reports in incompatible versions: Cassius broken; Cassius mistaken; Cassius ended by his own hand on a lie the plain told. Brutus kept all three. Complete stories were how other men sold you courage you could not cash. What the versions shared was enough: Cassius was gone, and the numbers Cassius had trusted had killed him.
+He had the versions in incompatible shapes: Cassius broken; Cassius mistaken; Cassius ended by his own hand on a lie the plain told. Brutus kept all three without choosing. What they shared was enough: Cassius was gone.
 
-Brutus did not deliver a speech about it. Speeches were for rooms. This was weight and breath and a line that still needed bodies.
+He did not deliver a speech about it. This was weight and breath and a line that still needed bodies.
 
 He fought as if philosophy could stiffen a shield-wall. For a while it did—faces that had minted *EID MAR* with him held because holding was the last clean noun left. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear.
 
@@ -28,7 +28,7 @@ Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s gr
 
 “Hold what you can,” he said—not a period, not an antithesis, only an order with the paint worn off.
 
-He held what he could until what he could was a shrinking knot and a decision that did not need Latin. He ended without arranging his last posture for witnesses. The men nearest him already disagreed with their eyes about what they were seeing; Brutus was past caring which story won. On the ground the restoration army was broken into names and baggage. Liberty’s brand lay in the dust with the rest of the metal. If he thought of Cassius’ contempt for delay one last time, he did not say it. Saying it would have made it a motion.
+He held what he could until what he could was a shrinking knot. He ended without arranging his last posture for witnesses. The men nearest him already disagreed with their eyes about what they were seeing. On the ground the restoration army was broken into names and baggage. An *EID MAR* coin lay in the dust with the rest of the metal. If he thought of Cassius’ contempt for delay one last time, he did not say it.
 
 ### Octavian
 
@@ -40,7 +40,7 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and did not bow. Survival was becoming his craft—ugly, practical, unfinished. He was still young enough to feel the unfinished as shame and old enough, suddenly, not to show it.
+When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and did not bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
 
 ---
 

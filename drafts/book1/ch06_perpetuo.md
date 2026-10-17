@@ -22,7 +22,7 @@ In private Cicero dissected: forever was not a republican word; forever was what
 
 He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted.
 
-Disgust was a letter. Compliance was a life. He practiced both until they felt like one skill—and congratulated himself, quietly, for still noticing the difference. Noticing, he told himself, was almost courage. Almost was the coin he had always spent well.
+He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once—still warm—and left it unsent in the drawer.
 
 ---
 

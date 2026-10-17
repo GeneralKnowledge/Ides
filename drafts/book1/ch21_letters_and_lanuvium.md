@@ -28,11 +28,11 @@ The visitor—some neighbour with a taste for Athens—smiled as if force were a
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-Sphaerus brought a note from Hirtius’s orbit—polite, useless, full of men congratulating themselves for surviving March. Cicero answered with courtesy that congratulated itself louder. At night he catalogued his own courage on the Capitol’s first day and found it larger in memory than in the hour. That was allowed. Memory was a kind of consulship.
+Sphaerus brought a note from Hirtius’s orbit—polite, useless, full of men congratulating themselves for surviving March. Cicero answered with courtesy that congratulated itself louder. At night he catalogued his own courage on the Capitol’s first day and found it larger in memory than in the hour. He did not correct the catalogue.
 
-A second courier brought news that was already half false: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished. Cicero kept both halves. Incomplete information was still information if you labelled it. He asked the boy one more question before dismissing him: whether anyone in the Forum had yet said *Octavius* as if the name were money. The boy looked blank. Blank was an answer. Cicero wrote *not yet* in the margin of a draft and underlined it twice.
+A second courier brought news that was already half false: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished. Cicero kept both halves on separate scraps and labelled neither *true*. He asked the boy one more question before dismissing him: whether anyone in the Forum had yet said *Octavius* as if the name were money. The boy looked blank. Cicero wrote *not yet* in the margin of a draft and underlined it twice.
 
-He stacked finished letters by the door like spears he could not throw. The stack made him feel armed. Feeling armed was not the same as having an army. He knew the difference and wrote faster anyway—ink as substitute for cohorts, sentences as substitute for pay.
+He stacked finished letters by the door until the pile reached his knee. Then he wrote another—faster, as if speed could thicken wax into steel.
 
 ---
 
@@ -60,11 +60,11 @@ Porcia did not waste comfort. “They call you immortal in the same breath they 
 
 “Peace required a plan,” she answered, and left him the word *plan* like a debt.
 
-He drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges. He received word that Antony’s veterans drank in the Forum as if the Forum were a camp, and he felt the old ancestral pressure turn sideways into something like nausea.
+He drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and did not burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left offended. Offence was cheaper than a letter that made Brutus Antony’s petitioner.
+Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us—or you.”
 

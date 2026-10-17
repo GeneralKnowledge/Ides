@@ -32,7 +32,7 @@ Ser. Galba came at the hour Cassius had named—not early, not late, the etiquet
 
 “I saw a joke that forgot it was a joke,” Galba answered.
 
-Cassius watched Galba’s hands. Hands lied less than mouths. “Jokes with diadems become habits. Habits become law. Law becomes a throne with better manners.” He let the next line arrive without poetry. “We need men who can stand in a room and finish what a petition starts.”
+Cassius watched Galba’s hands—no cup, no fidget, one ring turned once and stopped. “We need men who can stand in a room and finish what a petition starts.”
 
 Galba’s mouth tightened. Not refusal. Calculation. “And Brutus?”
 

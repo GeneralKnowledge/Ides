@@ -23,7 +23,7 @@ Decimus smelled his own street before he saw the damage—pitch, cloth, the swee
 
 Enough was the city’s new measure.
 
-Decimus did not ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the calm he had used on the Ides morning, and the calm felt like a borrowed cloak with blood on the hem.
+Decimus did not ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he could not get the smell off.
 
 Cisalpine Gaul was no longer a promotion. It was a wall with legions behind it—if he could reach it, if Antony’s hunger for provinces did not become a noose first. Decimus packed maps, not speeches.
 
@@ -102,7 +102,7 @@ Overhear risk: Companions (Agrippa orbit)
 
 The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises. They told you when the wind would let a ship leave.
 
-He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke, which Octavian already understood as a kind of loyalty.
+He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
 
 They had been going in to dinner when the man found them—a freedman with dust that did not match a calm road, and a letter’s weight in his manner even before the wax showed. Dust was the first sentence.
 
