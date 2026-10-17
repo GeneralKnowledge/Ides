@@ -21,6 +21,13 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 25 | 253 | ~610 | M3 | Philippics wager; East departure EXIT-1 |
 | 26 | 241 | ~601 | M3 | Cisalpine; Cleopatra offstage; Sextus shadow |
 | 27 | 262 | ~605 | M3 | Mutina lit; OCT as Senate sword (not-Augustus) |
+| 28 | 179 | ~601 | M4 | Mutina mud; Pansa poison rumour-only (AMB-2) |
+| 29 | 266 | ~602 | M4 | Decimus death-road fog; OCT consul learning |
+| 30 | 198 | ~715 | M4 | Bononia lists; proscription economy triptych |
+| 31 | 263 | ~607 | M4 | Cicero Formiae; Chain 6 closed; HUMOR-1 off |
+| 32 | 147 | ~613 | M4 | Liberty as tax; *EID MAR* crack; F5 skipped |
+| 33 | 247 | ~714 | M4 | Blood land; Philippi fog; Cassius INF-death (M18) |
+| 34 | 270 | ~727 | M4 | Philippi II; SERIES-1 hooks only; no Actium |
 
 ## Hygiene
 | ID | Status | Notes |
@@ -35,5 +42,5 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | M1 Act 2 bridge | done |
 | M2 Act 1 Ch 1–6 | done |
 | M3 Act 4 connective | done |
-| M4 Act 5 | pending |
+| M4 Act 5 war→Philippi | done |
 | M5 gold polish | pending |

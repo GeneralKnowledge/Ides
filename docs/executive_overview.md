@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Edit pass 1 + Ides read-through done; mid-tier **M1–M3** complete; **M4–M5** remain. Not publication-ready.
+**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Edit pass 1 + Ides read-through done; mid-tier **M1–M4** complete; **M5** remains. Not publication-ready.
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
 
@@ -150,7 +150,7 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ## Q. Recommended next stage
 
-Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier Batches **M1–M3** are complete. Next: **M4–M5** per `continuity/mid_tier_pass_plan.md`.
+Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier Batches **M1–M4** are complete. Next: **M5** gold-spine polish per `continuity/mid_tier_pass_plan.md`.
 
 **Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; Book 1 ends at Philippi; close-third past tense.
 
