@@ -1,6 +1,6 @@
 # Chapter 7 — Lupercalia
 
-**Edit pass 1 · read-through** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15  
+**M5 polish** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15  
 *(Chronological: diadem first, then disclosure walk.)*
 
 ---
@@ -71,4 +71,5 @@ They walked on as if they had been talking about the weather. In Rome, that was 
 
 ## Continuity
 - A4 hit; conspiracy disclosure begun after Lupercalia.  
-- MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.
+- MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
+**M5 polish:** header + voice spot-check; density held (no bulk expand).

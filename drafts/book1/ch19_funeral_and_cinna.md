@@ -1,6 +1,6 @@
 # Chapter 19 — Funeral and Cinna
 
-**Edit pass 1** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
+**M5 polish** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
 
 ---
 
@@ -19,13 +19,13 @@ Antony did not need a poet. He needed a corpse, a toga that could still show hol
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money, gardens, grief, spectacle—the four truths of the city.
 
-Antony spoke as a consul speaks when he intends the words to become weather: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He did not have to invent the crowd’s anger. He had to aim it.
+Antony spoke as a consul speaks when he intends the words to become weather: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He did not invent the crowd’s anger. He aimed it.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
-Someone sobbed. Someone cursed Brutus by name. Someone cursed all praetors. Antony kept his face in the register between mourning and command. Too much tears and he was soft. Too little and he was a usurper of grief.
+Someone sobbed. Someone cursed Brutus by name. Antony kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
 
-The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. Antony did not waste breath pretending he controlled every spark. He controlled the permission structure: no massacre on the Capitol on day one; yes, this heat now.
+The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. Antony did not pretend he controlled every spark. He controlled permission: no massacre on the Capitol on day one; yes, this heat now.
 
 When the first shops began to burn toward Liberators’ houses, Antony felt the old campaign clarity: the enemy’s city had become the enemy.
 
@@ -89,7 +89,7 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.  
 - Antony calculated-but-not-omniscient.  
 - Triple lens: ANT / F3 / F1.  
-- // TODO_EDITOR: Compress or expand Antony’s speech per taste; keep refrain not blank verse.
+- // M5: Antony speech held as refrain (lightly compressed); not blank verse.
 
 ---
 
@@ -149,4 +149,5 @@ Outside, Rome practised the new weather: smoke, lists forming in mouths, amnesty
 
 # Chapter 19 — End matter
 
-**Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).
+**Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).  
+**M5 polish:** funeral speech compressed; TODO_EDITOR cleared.

@@ -66,4 +66,4 @@ It was not a date. It was a cage with a view of hills that looked like freedom i
 
 ## Continuity
 - Liberators bottled in Latium; Cicero sees force-gap via letter-objects.  
-- MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name (M5 polish later).
+- MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.

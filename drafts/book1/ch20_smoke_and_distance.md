@@ -1,6 +1,6 @@
 # Chapter 20 — Smoke and Distance
 
-**Edit pass 1 · read-through** · SC-52, SC-53, SC-54 (+ SC-54b echo)  
+**M5 polish** · SC-52, SC-53, SC-54 (+ SC-54b echo)  
 **Canon:** EXIT-1 seed · CLEO-1 · A8 · SERIES hooks only  
 **Dates:** late March 44 → days after Ides (OCT track delayed)
 
@@ -77,7 +77,7 @@ At night she walked the dark paths once, memorising the smell of Italian wet ear
 ## Continuity notes (SC-53)
 - CLEO-1 lodging; departure plan; Caesarion present.  
 - No dagger-circle claim; dynastic lens.  
-- // TODO_EDITOR: *regina* debate stays out of her POV.
+- // M5: *regina* debate kept out of Cleopatra POV — verified.
 
 ---
 
@@ -100,7 +100,7 @@ They had been going in to dinner when the man found them—a freedman with dust 
 
 “Caesar,” the man said, and then the rest came broken: knives, Senate, Pompey’s place, Brutus, blood, the city upside down. A mother’s hand in the urgency—come home; she did not know what would happen next.
 
-Octavian’s first feeling was not destiny. It was the childish, humiliating drop of the floor—the sense that the adult arrangement of the world had been a prop. His second feeling was colder: who benefits, who moves, who lies in the first report.
+Octavian’s first feeling was not fate-music. It was the childish, humiliating drop of the floor—the sense that the adult arrangement of the world had been a prop. His second feeling was colder: who benefits, who moves, who lies in the first report.
 
 “Say it again,” he said. “Slower. Without the parts you wish were true.”
 
@@ -138,4 +138,5 @@ The sealed tablet pressed on Caesar in the litter (Ch 15) remained unread among 
 ## Act 3 exit info state (card)
 Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capital · OCT elsewhere · SIDE-1 unsolved.
 
-**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds.
+**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds.  
+**M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.

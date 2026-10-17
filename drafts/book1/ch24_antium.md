@@ -1,6 +1,6 @@
 # Chapter 24 — Antium
 
-**Edit pass 1** · SC-67, SC-68a · May–8 June 44  
+**M5 polish** · SC-67, SC-68a · May–8 June 44  
 **Set-piece:** Antium consilium (*Att.* 15.11)
 
 ---
@@ -14,13 +14,13 @@ Info ENTER: Murder rage · EXIT: Listens for paymaster of the name
 
 In a colony’s dusty forum Laberius heard two agents in one afternoon.
 
-Antony’s man spoke of continuity, of the consul who still drank with soldiers, of land that would come if they held steady. Octavian’s man—younger, sharper, almost embarrassed by his own nerve—spoke the name *Caesar* as if it were a donative already weighed.
+Antony’s man spoke of continuity, of the consul who still drank with soldiers, of land that would come if they held steady. His voice had the gravel of someone who had marched and meant to keep marching under a familiar eagle. Octavian’s man—younger, sharper, almost embarrassed by his own nerve—spoke the name *Caesar* as if it were a donative already weighed. He kept touching a sealed tablet the way a man touches a charm.
 
 “Which one buried him?” a corporal asked.
 
 “Neither,” Laberius said. “Philosophers buried him. These two are arguing over the will.”
 
-He did not commit. Commitment was how you got the wrong eagle. He listened. Listening was a veteran’s first weapon after the gladius.
+Dust stuck to his tongue. Somewhere a smith hammered a rhythm that could have been a march if you wanted it to be. Laberius did not commit. Commitment was how you got the wrong eagle. He listened for which purse sounded heavier when the agents stopped talking: Antony’s continuity had wine behind it; the boy’s name had hunger and speed. Listening was a veteran’s first weapon after the gladius. He kept both men’s words in different pockets of his mind and walked away before either could call that friendship.
 
 ---
 
@@ -33,13 +33,13 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 
 Antium’s light was pretty. Pretty light made disasters look arranged.
 
-Brutus asked Cicero to speak as if speech could still be strategy. The room held Porcia’s severity, Tertulla’s stillness, Favonius’ moral cough—and Servilia, who listened the way bankers listened to interest.
+Brutus asked Cicero to speak as if speech could still be strategy. The room held Porcia’s severity, Tertulla’s stillness, Favonius’ moral cough—and Servilia, who listened the way bankers listened to interest. A steward (Hilarus, if Cicero’s memory of names still worked) poured wine that nobody truly tasted.
 
 Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions—Asia’s scraps, Sicily’s corn—as tools rather than humiliations? Better tools than open war with empty hands. He heard himself navigating and mistook navigation for statesmanship.
 
-Porcia’s mouth tightened at every compromise. Tertulla watched Cassius’ empty place as if absence were an argument. Favonius coughed morality into the pauses.
+Porcia’s mouth tightened at every compromise. Tertulla watched Cassius’ empty place as if absence were an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’ dust to Favonius’ virtue.
 
-Cassius arrived mid-flow—late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust.
+Cassius arrived mid-flow—late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust. He did not apologise for lateness. Apology was for men who still believed calendars were shared.
 
 Cicero tried to resume. Cassius did not resume; he cut.
 
@@ -47,18 +47,19 @@ Cicero tried to resume. Cassius did not resume; he cut.
 
 Brutus’ face did the old slow collapse into resolve. The Rome-return balloon—Cicero’s prettiest paragraph—died in Brutus’ throat. East became less a choice than a harbour with a direction.
 
-Servilia cut in—not loud. Loud was for men who needed to be seen cutting. “That clause in the decree,” she said, naming the thorn without asking permission. “It can be managed. I will see it managed.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels.
+Servilia cut in—not loud. Loud was for men who needed to be seen cutting. “That clause in the decree,” she said, naming the thorn without asking permission. “It can be managed. I will see it managed.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 
 Cicero felt the ship take water. He had been invited to advise and had become furniture in a family firm’s emergency meeting. Soft power was not soft when it rearranged your sentences after you spoke them.
 
-Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus as if measuring how much of Cato remained.
+Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus as if measuring how much of Cato remained—and how much would survive a ship east.
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators would not recover the capital by cleverness alone, and his cleverness had just been politely shelved.
 
-He left praising everyone. Praise was how you exited rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page.
+He left praising everyone. Praise was how you exited rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 
 ## Continuity
 - Antium locks East path + Servilia agency. Batch B complete.  
-- Next: Ch 25 Philippics + East departure.
+- Next: Ch 25 Philippics + East departure.  
+**M5 polish:** Laberius listen-beat thickened; Antium room sensory/agency pass; Hilarus present.

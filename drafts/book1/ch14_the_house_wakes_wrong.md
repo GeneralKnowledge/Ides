@@ -1,6 +1,6 @@
 # Chapter 14 — The House Wakes Wrong
 
-**Edit pass 1** · SC-35, SC-35b  
+**M5 polish** · SC-35, SC-35b  
 **Canon:** DREAM-1 · NOTE-1 · HOUSE-1 · DEC-PERS-1 · DIO-OMEN-1 · AMB-1 · AMB-3 · VOICE-1 · TONE-1 · HUMOR-1 (near-off)  
 **Soft date:** night of 14 March → dawn 15 March 44 BC · Domus Publica (Sacra Via)
 
@@ -257,4 +257,5 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 # Chapter 14 — End matter
 
 **Rollup:** Dread max · attendance locked · NOTE-1 dual held · public still routine.  
-**Edit pass 1 / read-through:** cut future-wink (Nicolaus); Nysa = SC-35d; “history” wording softened.
+**Edit pass 1 / read-through:** cut future-wink (Nicolaus); Nysa = SC-35d; “history” wording softened.  
+**M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).

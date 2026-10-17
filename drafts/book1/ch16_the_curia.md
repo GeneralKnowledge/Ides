@@ -1,6 +1,6 @@
 # Chapter 16 — The Curia
 
-**Edit pass 1** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off  
+**M5 polish** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off  
 **Place:** Curia Pompeia / Forum–Subura streets
 
 ---
@@ -149,4 +149,5 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 
 # Chapter 16 — End matter
 
-**Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).
+**Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).  
+**M5 polish:** header pass; last-words ambiguity held (AMB).

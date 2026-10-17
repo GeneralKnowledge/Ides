@@ -1,7 +1,6 @@
 # Chapter 18 — Paper and Heirs
 
-**Edit pass 1**  
-**Scene cards:** SC-48, SC-49  
+**M5 polish** · SC-48, SC-49  
 **Canon:** A6 · FS05 · FS21 · SIDE-1 echo · HUMOR-1 medium (F4) · TONE-1  
 **Dates:** ~18 March 44 (will opened / leaked) per soft chronology
 
@@ -49,7 +48,7 @@ He blotted the wax, neat as virtue, and waited for the next fool to ask him whet
 ## Continuity notes (SC-48)
 - F4 Batiatus ego-humour on; SIDE-1 blackmail fizzles (OPEN-0 path).  
 - Will rumour hits markets before/as formal reading.  
-- // TODO_EDITOR: Exact sesterce figure can stay as street talk.
+- // M5: HS figure stays street talk (C mush OK).
 
 ---
 
@@ -98,7 +97,7 @@ Phileros, hearing the same news at the vestibule, whispered, “The house will b
 
 Calpurnia, somewhere deeper in the Domus, did not come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 
-In the street the clauses mutated before sundown: the sum grew; the gardens acquired fountains; the boy acquired a destiny Nysa did not believe in because destinies were what rich men sold to each other when they were bored.
+In the street the clauses mutated before sundown: the sum grew; the gardens acquired fountains; the boy acquired a future other people tried to sell as fate—Nysa did not buy. Futures were what rich men sold to each other when they were bored.
 
 She kept her incomplete wax. It had become a relic of a morning when paper still might have mattered differently.
 
@@ -107,10 +106,11 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 ## Continuity notes (SC-49)
 - Suet. 83: Antony’s house; Piso; Vestals; Octavius ¾; Pedius+Pinarius ¼; adoption; Decimus 2nd degree; gardens + 300 HS.  
 - Leak cascade via F1/market.  
-- // TODO_EDITOR: Formal vs street timing can stay slightly mushy (C).
+- // M5: Formal vs street timing left intentionally mushy (C).
 
 ---
 
 # Chapter 18 — End matter
 
-**Edit pass 1 / read-through:** holds. Will / markets / Decimus irony intact.
+**Edit pass 1 / read-through:** holds. Will / markets / Decimus irony intact.  
+**M5 polish:** TODO_EDITOR cleared; destiny→street-fate sell softened.
