@@ -65,6 +65,7 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 1D.4 Pre-Ides earning | done | Ch 4, 8, 13; `phase_1d4_pre_ides_plan.md` |
 | 1D.5 Name-war | done | Ch 21, 22, 24; `phase_1d5_name_war_plan.md` |
 | 1F Bononia I2 + E3 | done | Ch 30 + Ch 7/12/1/28; `phase_1f_bononia_e3_plan.md` |
+| 1D.6 cold-read gate | done | `post_development_cold_read_1d6.md` — Gate B (~29.9k body) |
 
 ### 1D.1 word counts (approx body)
 | Ch | Before | After |

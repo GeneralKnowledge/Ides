@@ -79,11 +79,15 @@ See **[`continuity/phase_1f_bononia_e3_plan.md`](phase_1f_bononia_e3_plan.md)**
 - [x] **I2** Proscription peak — Ch 30 deepen  
 - [x] **E3** Ch 7 POV borders; Ch 12 muddy NOTE-1; Ch 1/28 future-leans  
 
-Intermediate aim ~45–70k then reassess (cold read next).
+### 1c. Phase 1D.6 — Post-development cold read — COMPLETE
+See **[`continuity/post_development_cold_read_1d6.md`](post_development_cold_read_1d6.md)**  
+Verdict: **Gate B** — structure sound for targeted house-style pass; no P0 ordeal wave; 45–70k retired as success gate (~29.9k body, quality > quota).
 
-### 2. Optional second polish / human line edit  
-*(Only after readiness checklists in diagnosis §H and craft §J stages 1G–1H.)*  
-### 3. Appian funeral-gesture VERIFY when sources handy (P2)
+### 2. Phase 1G — Targeted house-style pass (next)
+Craft I3 + cold-read P1-d: non-native *weather/filed/was how*; soft future borders; SC-95 thesis tone; optional P1-b/c micro-seeds only if still needed.  
+### 3. Optional second polish / human line edit (1H)  
+*(After 1G + spot-check.)*  
+### 4. Appian funeral-gesture VERIFY when sources handy (P2)
 
 ### 2. After each batch
 - Tick `MUST_EXPRESS.md`  

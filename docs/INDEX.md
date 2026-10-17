@@ -65,4 +65,5 @@
 | Phase 1D.4 pre-Ides earning scene plan | `continuity/phase_1d4_pre_ides_plan.md` |
 | Phase 1D.5 name-war scene plan | `continuity/phase_1d5_name_war_plan.md` |
 | Phase 1F Bononia I2 + E3 plan | `continuity/phase_1f_bononia_e3_plan.md` |
+| Phase 1D.6 post-development cold read | `continuity/post_development_cold_read_1d6.md` |
 
