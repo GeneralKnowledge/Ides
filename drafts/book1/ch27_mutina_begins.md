@@ -74,7 +74,7 @@ Overhear risk: Curia
 
 Cicero argued Octavian into usefulness the way he argued clauses into laws.
 
-“The young Caesar”—he still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” Senators who feared Antony more than they feared boys voted with their sweat. Someone muttered about adoption and armies in the same breath as if grammar could make them one animal. Cicero felt the room tip toward him and mistook the tip for virtue’s return.
+“The young Caesar”—he still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” Senators who feared Antony more than they feared boys voted with their sweat. Someone muttered about adoption and armies in the same breath as if grammar could make them one animal. Cicero watched three undecided mouths close into agreement and mistook the closing for virtue’s return.
 
 Octavian, present enough to be seen, young enough to be underestimated twice, listened to himself become a tool. Apollodorus hovered with a cloak. Agrippa’s absence was a fact Octavian carried like a spare knife—needed elsewhere, trusted. A clerk miswrote his age on a note; Octavian corrected the number and left the tone alone.
 
@@ -84,9 +84,9 @@ He did not smile. Smiling would have looked like a man who already owned the mor
 
 After the session a senator clasped Octavian’s arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure.
 
-A courier from the north had brought only fragments: Decimus holding; Antony digging; no hours Decimus would have trusted. Octavian kept the fragments separate in his head—incomplete on purpose. Complete stories were how other men sold you.
+A courier from the north had brought only fragments: Decimus holding; Antony digging; no hours Decimus would have trusted. Octavian kept the fragments separate and did not ask the courier to choose one.
 
-Cicero went home certain he had saved the Republic with a clever adoption of force. He drafted a letter to Atticus that congratulated the day’s prudence. Certainty was his favourite mistake. Outside his litter, a vendor sold hot food and called no one Caesar. Octavian heard the vendor and did not correct him. Names could wait. Waiting was not passivity. Waiting was not getting spent early.
+Cicero went home certain he had saved the Republic with a clever adoption of force. He drafted a letter to Atticus that congratulated the day’s prudence. Outside his litter, a vendor sold hot food and called no one Caesar. Octavian heard the vendor and did not correct him.
 
 ---
 

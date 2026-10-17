@@ -39,7 +39,7 @@ The follower left as if dismissed from a temple. Cicero, visiting the neighbourh
 
 “Neither will I,” Cicero said lightly, and meant it as taste, not prophecy.
 
-Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking because shaking was information enemies could use. He practised the name under his breath until it felt less like costume and more like a weapon he was not yet strong enough to lift cleanly. Agrippa found him there and said nothing useful—only stood where a friend stood when a friend had decided something irreversible. That was enough. Decisions needed witnesses more than they needed applause.
+Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there and said nothing. He stood within reach and did not look away.
 
 ---
 

@@ -14,11 +14,9 @@ Overhear risk: Dwindling staff
 
 ---
 
-Victory tasted like abandonment.
+Decimus left Mutina’s relief into a map where Plancus hesitated, Lepidus smiled wrong, and Antony—bleeding but unbroken—slid toward friends Decimus could not buy. He looked for a destination mark on the wax itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing.
 
-Decimus left Mutina’s relief into a map where Plancus hesitated, Lepidus smiled wrong, and Antony—bleeding but unbroken—slid toward friends Decimus could not buy. The siege broken should have felt like breath. Instead it felt like being handed a road with no destination stamped on it.
-
-Cicero’s praise arrived like perfume on a corpse: sweet, late, useless for horses. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady—gates held, honour intact. His hand knew better than his sentences. He did not send a second copy. Second copies were for men who still believed paper multiplied safety.
+Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady—gates held, honour intact—and stopped mid-sentence when his hand cramped. He did not send a second copy.
 
 Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another counted betrayals and got a higher number. A third asked whether they should wait for Cassius from the East.
 
@@ -40,13 +38,13 @@ Near a river ford the map promised a contact who could pass them toward the moun
 
 He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible. Optics, even here.
 
-They asked for his name as if they did not know it. He gave it because lying would have bought minutes, not miles. A purse changed hands—not his purse. Someone else’s coin for his head. He saw the metal. He understood the arithmetic before the knives moved.
+They asked for his name as if they did not know it. He gave it because lying would have bought minutes, not miles. A purse changed hands—not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved—enough metal for a short road and a long silence.
 
-There was no speech. Speeches had been other men’s luxury. He went for the horse because horses were logistics, and logistics was the last language he trusted. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and insultingly ordinary—meltwater, a broken rein, the smell of wet wool.
+There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and ordinary—meltwater, a broken rein, the smell of wet wool.
 
-He did not make a line about the Republic. If he thought of Caesar’s laugh one last time, the thought stayed inside where no one could steal it. Pain was brief and specific and unpaid by meaning.
+If he thought of Caesar’s laugh one last time, the thought stayed inside. Pain was brief and specific.
 
-Word would reach Rome late and wrong in places. The fact would be simple enough for bakers: Decimus Albinus was gone. The man who had opened a dictator’s morning with a clean hand had ended as meat on a priced road.
+Word would reach Rome late and wrong in places. Bakers would get the short version: Decimus Albinus was gone.
 
 ---
 
@@ -62,7 +60,7 @@ Overhear risk: Soldiers + Senate terror
 
 Octavian entered the politics of force with hands that still remembered shaking in Apollonia.
 
-A courier brought Decimus’s end as three incompatible stories: ditch, Alps, Lepidus’s smile, Antony’s purse, no purse, a speech, no speech. Octavian kept all three. Incomplete was safer than a single neat corpse. What the stories shared was enough: the Liberator who had held Mutina was no longer a piece on the board. Soldiers heard that shared core before senators finished arguing which version was virtuous.
+A courier brought Decimus’s end as three incompatible stories: ditch, Alps, Lepidus’s smile, Antony’s purse, no purse, a speech, no speech. Octavian kept all three on separate scraps and did not let the clerks merge them. What the stories shared was enough for the ranks: the Liberator who had held Mutina was gone. Soldiers heard that shared core before senators finished arguing which version was virtuous.
 
 “They will say you failed to save him,” Agrippa said.
 

@@ -18,9 +18,9 @@ Octavian stood where important men’s shadows fell and practiced being invisibl
 
 Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. Heat came off the stone steps into Octavian’s thin shoes. He listened more than he spoke. A boy without legions borrowed maps with his ears.
 
-Caesar’s glance found him once—brief as a list check, not unkind, not enough. No prophecy in it. Octavian felt the glance land and leave, the way a stylus taps a wax edge and moves on. He filed it under *seen, not weighed*.
+Caesar’s glance found him once—brief as a list check, not unkind, not enough. No prophecy in it. Octavian’s shoulders stayed still until the glance moved on. Only then did he let out the breath he had been holding as if it were inventory. He did not look at Agrippa to confirm he had been seen. Looking would have spent the moment.
 
-Agrippa at his shoulder said nothing useful and everything loyal: a presence that said *I saw you not being seen.* Apollodorus, somewhere behind with cloaks, fidgeted like a man who wanted his principal to be larger than the hour allowed.
+Agrippa at his shoulder said nothing. Apollodorus, somewhere behind with cloaks, fidgeted like a man who wanted his principal to be larger than the hour allowed.
 
 “They don’t know your name yet,” Agrippa murmured.
 
@@ -28,7 +28,7 @@ Agrippa at his shoulder said nothing useful and everything loyal: a presence tha
 
 A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian kept the mistake quiet. Corrections announced you wanted space you had not earned. A moment later the same attendant returned with a reserved place nearer the rail—meant for Caesar’s kin—and offered it to Agrippa again, eyes skipping Octavian as if the boy were a cloak-stand. Agrippa did not take the place. He tipped his chin a fraction toward Octavian. The attendant’s face flickered annoyance, then blankness, then a bow that arrived late and wrong.
 
-Octavian stepped into the gap anyway, thin shoes on hotter stone, and felt the attendant’s reluctance like a hand on his shoulder that would not quite push. He inventoried that too: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection, who could not yet see which shadow belonged to which man. When the ceremony ended he was still publicly irrelevant—and privately richer by a list that now included how easily a reserved place could be aimed at the wrong chest.
+Octavian stepped into the gap anyway, thin shoes on hotter stone. The attendant’s arm stayed a half-breath too long in the way, then withdrew without apology. Octavian counted faces from the new angle: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection. When the ceremony ended he was still publicly irrelevant. In his head the reserved place had already been entered beside the wrong chest.
 
 ---
 
@@ -46,17 +46,17 @@ On the Illyrian coast he studied war like homework for a test someone else might
 
 Agrippa drilled until sweat made honesty cheaper than speech. Octavian’s body complained; he did not narrate the complaint. Weakness spoken aloud became other men’s tool. He asked questions that sounded younger than his calculations—supply, winds, what older officers feared when they joked about the East.
 
-Those officers brightened at Parthia talk—months east, glory, the map widening. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian felt the distance from Rome as safety and insult both. Safety: fewer dinners where he must be furniture. Insult: the real campaign was elsewhere, and he was still a spare cloak in someone else’s packing list. He copied the erased route in his mind anyway. Dust maps still taught.
+Those officers brightened at Parthia talk—months east, glory, the map widening. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian copied the erased lines before the boot finished. Then he looked at the sea long enough that Agrippa followed his gaze, as if the water might explain why Rome’s dinners and this packing list never shared a shore.
 
 “When he calls us,” Agrippa said once, meaning Caesar.
 
-“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then did not. Clever fear liked to dress as foresight. He refused the costume. He filed only what he owned: lessons, distances, Agrippa’s stubborn loyalty.
+“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust route, the wind, Agrippa’s stubborn loyalty.
 
-An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile of a person who had decided not to argue with furniture metaphors.
+An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile and did not correct the furniture.
 
 “Keep close,” Octavian said to Agrippa, awkward with warmth.
 
-Agrippa nodded as if given an order about water. Some friendships were already logistics. Octavian slept that night sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He did not dream of crowns. He dreamed of missing a drill step and being laughed at by men whose names he needed.
+Agrippa nodded as if given an order about water. Octavian slept that night sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He did not dream of crowns. He dreamed of missing a drill step and being laughed at by men whose names he needed.
 
 ---
 

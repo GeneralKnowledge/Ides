@@ -20,13 +20,13 @@ Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens h
 
 “And Spurinna,” the washerwoman added, pleased with the name, “told him to beware the Ides. Beware is a priest’s whole trade.”
 
-Nysa kept both stories and understood neither Senate nor gods. She understood that the house listened harder to fear. Fear made people careful with doors. Careful doors meant fewer beatings for incomplete messages.
+Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb—habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. Nysa filed that beside the bird and the chickens. Filing was not belief. Belief was for people who could afford to be wrong in public.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. Nysa put that beside the bird and the chickens and did not decide which was true.
 
 Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
-Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment—only the habit of listening. The habit was older than any omen. Omens came and went. Listening kept you fed.
+Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment—only the habit of listening. Listening kept you fed.
 
 Later she told Medullina, in the Subura, that the house was full of birds and priests. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
 
@@ -62,7 +62,7 @@ The courier hesitated. “He asked for you in the room, not on the tablet.”
 
 “Then he may read my tablet in the room,” Cicero said, and sealed nothing that committed his body to anyone’s test balloon.
 
-“Only a king,” he murmured afterward, and the distaste still felt like wisdom. He had spent a live invitation to keep his calm. In that season, many men confused the two.
+“Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
 
 ---
 

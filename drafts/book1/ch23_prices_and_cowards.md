@@ -24,7 +24,7 @@ A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orb
 
 “Archaeology,” Hordeonius said gently. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
 
-The whisperer left offended. Offence was free. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He felt virtuous for foresight. Virtue, in his religion, was a rate that cleared. He almost smiled at his own seriousness, then did not. Clerks who smiled at seriousness became funny in taverns.
+The whisperer left offended. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
 ---
 
@@ -46,9 +46,9 @@ Nysa packed what Calpurnia ordered packed and watched men she did not know break
 
 Phileros laughed once, short, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
 
-She thought of her burned fragment and felt no righteousness. Righteousness was for men with names on decrees. She hid one blank tablet in her tunic out of habit, then put it back on the shelf. Blankness was not safety anymore. Blank wax in the wrong hands became someone else’s law.
+She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf—blank wax in the wrong hands had already become someone else’s line item.
 
-In the corridor a clerk recited inventory like a prayer. Grief was becoming administration line by line. Nysa carried oil and kept her eyes on doors. Doors still mattered. Doors were the only politics she trusted.
+In the corridor a clerk recited inventory like a prayer. Nysa carried oil and kept her eyes on doors.
 
 ---
 

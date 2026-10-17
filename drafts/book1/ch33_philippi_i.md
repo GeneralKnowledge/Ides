@@ -54,9 +54,9 @@ He saw a signal, or thought he did—flags in dust, an eagle dipping toward a di
 
 He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Trophies mid-fight got men killed decorated.
 
-One fact he could keep: his own eagle still stood. He put his hand on the staff once—wood, sweat, a crack he had known since Mutina’s ditch—and that was more certain than any shout about Cassius’ hill. He did not know Cassius’ hill. He knew thirst, the next order that might be wrong, and that wrong orders obeyed together were still a kind of life.
+His own eagle still stood. He put his hand on the staff once—wood, sweat, the crack that had been there since Mutina’s ditch—and kept it there while the shouts about Cassius’ hill cancelled each other. He did not know Cassius’ hill. He knew thirst and the next order that might be wrong.
 
-Pay would come later, if later existed—farms promised by dead men and living boys. For now the eagle was the only theology that fit in a hand.
+Pay would come later, if later existed—farms promised by dead men and living boys. For now the staff fit in a hand. That was enough geometry for the dust.
 
 ---
 

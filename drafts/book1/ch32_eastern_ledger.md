@@ -26,7 +26,7 @@ An elder with a staff stepped forward before the interpreters could varnish him.
 
 The interpreter began, “What he means—”
 
-“I heard what he means,” Cassius said. He had an officer weigh the nearest sack on the spot—grain, not rhetoric. The weight came short of the tablet’s claim by enough to insult geometry. The elder did not look away. Cassius felt the room wait for a shout. He gave them a number instead: half now, sealed; the rest in thirty days under hostage sureties from two merchant houses already in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
+“I heard what he means,” Cassius said. He had an officer weigh the nearest sack on the spot—grain, not rhetoric. The weight came short of the tablet’s claim by enough to insult geometry. The elder did not look away. Cassius let three breaths pass without raising his voice—long enough for a shout that did not come. He gave them a number instead: half now, sealed; the rest in thirty days under hostage sureties from two merchant houses already in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
 
 The elder’s mouth worked. He took the half and the sureties. Hatred stayed on the young clerk’s face; survival stayed on the elder’s. Cassius signed for ships on that arithmetic.
 
@@ -50,7 +50,7 @@ Overhear risk: Officers
 
 The dies showed daggers and the pileus—*EID MAR*—as if a date could be a sacrament.
 
-Brutus held a fresh coin. Pretty. Clean. Lies were often clean. The metal still held the heat of striking. Around him, officers argued yields and marches with the same mouths that praised ancestors. One man weighed a sack and called the weight patriotic. Brutus did not correct the adjective. Correction would have required a philosophy the sack could not carry. He thought of Porcia, of masks at home, of soft chains that had once felt like clemency, of Lanuvium’s gravel—and shut the thoughts before they became speeches no army would wait for.
+Brutus held a fresh coin. The metal still held the heat of striking. Around him, officers argued yields and marches with the same mouths that praised ancestors. One man weighed a sack and called the weight patriotic. Brutus’s thumb stayed on the *EID MAR* lettering and did not lift to correct the adjective. He thought of Porcia, of masks at home, of Lanuvium’s gravel—and shut the thoughts before they became speeches no army would wait for.
 
 “We are not pirates,” an officer said, too loud, as if volume could wash the tax roads clean.
 
