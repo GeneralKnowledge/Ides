@@ -48,10 +48,12 @@
 
 ## Recommended next
 
-### 0. Mid-tier expansion pass (LOCKED approach) — START HERE
-See **[`continuity/mid_tier_pass_plan.md`](mid_tier_pass_plan.md)**  
+### 0. Mid-tier expansion pass (LOCKED approach)
+See **[`continuity/mid_tier_pass_plan.md`](mid_tier_pass_plan.md)** · log: [`mid_tier_pass_log.md`](mid_tier_pass_log.md)  
 Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside locks**.  
-Order: hygiene (SC-32, dossier INDEX) → Act 2 bridge Ch 8/10–13 → Act 1 → Act 4 → Act 5 → gold-spine polish.
+- [x] Hygiene: SC-32 in Ch 13; dossier INDEX fixed  
+- [x] **Batch M1** Act 2 bridge: Ch 8, 10–13 expanded  
+- [ ] Batch M2 Act 1 · M3 Act 4 · M4 Act 5 · M5 gold polish
 
 ### 1. Optional second polish on remaining lean chapters for even rhythm  
 *(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  
