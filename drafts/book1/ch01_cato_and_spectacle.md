@@ -1,6 +1,6 @@
 # Chapter 1 — Cato and Spectacle
 
-**Mid-tier pass** · SC-01, SC-02 · 46 BC · A1 · FS10
+**Phase 1F** · SC-01, SC-02 · 46 BC · A1 · FS10
 
 ---
 
@@ -24,7 +24,7 @@ He adjusted grain expectations with solemn grief. “A man like Cato,” he told
 
 The client wanted a moral. Hordeonius gave him a rate.
 
-Across the way Cicero received the same fact as a bruise to the Republic’s imagination. Cato dead by his own hand—Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period he would later write better; for now he only stood among men who were already converting a suicide into a slogan.
+Across the way Cicero received the same fact as a bruise to the Republic’s imagination. Cato dead by his own hand—Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it—the right clause refusing to arrive while lesser men were already converting a suicide into a slogan.
 
 “They will make him marble before the week is out,” someone muttered.
 
@@ -63,4 +63,5 @@ Back in the service court she set down the oil and told Dama nothing about land.
 ## Continuity
 - A1 landed: Thapsus/Cato moral shock via market + Cicero bruise.  
 - FS10 land hunger seeded (veteran spit). Competing interpretations held.  
+- **1F / E3:** soft future-lean on Cicero’s “later write better” → present inadequacy.  
 - MUST_EXPRESS: A1, B4 seed. Next: Ch 2 debt.

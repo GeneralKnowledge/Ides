@@ -67,4 +67,5 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 ## Continuity
 - Mutina costly; Hirtius death as Laberius-knowable fact; Pansa cause open (AMB-2). No fake OB.  
 - MUST_EXPRESS: B4, A6, D4. Next: Ch 29.  
-**Phase 1D.1:** SC-80 fact vs rumour split; future-lean cut; SC-81 AMB-2 held.
+**Phase 1D.1:** SC-80 fact vs rumour split; plains future-lean cut; SC-81 AMB-2 held.  
+**1F / E3:** re-check — no narrator history-wink residue; Laberius/Hordeonius “later” = present speculation only.
