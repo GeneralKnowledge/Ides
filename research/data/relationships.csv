@@ -1,0 +1,43 @@
+from,to,edge_types,intensity_1to5,certainty,notes,active_from,active_to
+Caesar,Antony,"MIL|POL|FRI",5,A,Core lieutenant pre-Ides,49BC,15Mar44
+Caesar,Decimus,"MIL|PAT|will",5,A,Trusted; secondary heir; betrayal,Gaul,15Mar44
+Caesar,Lepidus,"POL|MIL",4,A,Senior Caesarian,pre44,15Mar44
+Caesar,Brutus,"PAT|IDE|RES?",4,B,Clemency beneficiary,48BC,15Mar44
+Caesar,Cassius,"PAT|RES",4,B,Clemency; personal hostility trad.,48BC,15Mar44
+Caesar,Calpurnia,"MAR",5,A,Wife; Domus Publica,59BC?,15Mar44
+Caesar,Cleopatra,"SEX|POL|FIN",4,A,Alliance; Caesarion,48BC,44BC
+Caesar,Servilia,"SEX|POL|INF",4,B,Long association,60sBC,44BC
+Caesar,Octavian,"FAM|PAT",3,A,Intensity jumps after will,pre44,forever
+Caesar,Cicero,"POL|FRI_thin",2,A,Accommodation,mid50s,15Mar44
+Caesar,Trebonius,"MIL|PAT",3,A,Ex-Caesarian conspirator,Gaul/civil,15Mar44
+Brutus,Cassius,"FAM|POL|MIL",5,A,Brothers-in-law; conspiracy axis,45BC?,42BC
+Brutus,Porcia,"MAR|IDE",4,A,Cato memory pressure,~45BC,42BC
+Brutus,Servilia,"FAM|PAT",5,A,Mother,birth,42BC
+Cassius,Junia_Tertia,"MAR",4,A,Servilia daughter,?,42BC
+Decimus,Brutus,"FAM|POL",3,B,Junii link; not identical motives,pre44,43BC
+Antony,Fulvia,"MAR|POL",5,A,Political partnership,~47BC,40BC
+Antony,Cicero,"ENM|IDE",5,A,Philippics war,44BC,43BC
+Antony,Octavian,"RIV|POL|MIL",5,A,Oscillates alliance/war,44BC,30BC
+Antony,Trebonius,"POL|trap",3,B,Ides delay,15Mar44,15Mar44
+Antony,veterans,"MIL|PAT",5,A,Contested with Octavian,44BC,30BC
+Octavian,Agrippa,"FRI|MIL",3,B,Rises over time,45BC,forever
+Octavian,Cicero,"POL",3,A,Instrumental 43 then betrayal structure,44BC,43BC
+Octavian,Lepidus,"POL",3,A,Triumvir junior,43BC,36BC
+Octavian,Atia,"FAM",5,A,Mother counsel,birth,forever
+Cicero,Atticus,"FRI|FIN|INF",5,A,Letter hub,lifelong,43BC
+Cicero,Tiro,"PAT|INF",4,A,Freedman secretary,lifelong,43BC
+F1_Nysa,Calpurnia,"PAT|INF",4,D,Household access,pre44,44BC
+F1_Nysa,Caesar,"PAT",2,D,Distant dominus,pre44,15Mar44
+F2_Seius,F4_Hordeonius,"FIN|DEB",4,D,Creditor pressure,45BC,43BC
+F2_Seius,Cassius_orbit,"POL|almost",2,D,Almost-recruit,Feb44,Mar44
+F3_Laberius,Caesar,"MIL",5,D,Oath memory,Gaul,15Mar44
+F3_Laberius,Antony,"MIL",3,D,Charisma pull,44BC,42BC
+F3_Laberius,Octavian,"MIL|PAT",2,D,Rises with donatives,44BC,42BC
+F4_Hordeonius,Basilus_orbit,"FIN|SIDE1",3,D,Debt + murder tablets,Feb44,open
+F4_Hordeonius,Antian_agent,"FIN|SIDE1",3,D,Named on tablets,Feb44,open
+Cleopatra,Caesarion,"FAM",5,A,Dynastic,47BC,30BC
+Sextus,Pompeian_memory,"POL|MIL",4,A,Naval remnant,45BC,35BC
+Hirtius,Cicero,"POL|FRI",3,A,Letters 44,44BC,43BC
+Pansa,Cicero,"POL",2,A,Consul orbit,44BC,43BC
+Servilia,Brutus,"FAM|INF",5,A,Incl. Antium consilium,birth,42BC
+Servilia,Cassius,"FAM",3,A,Son-in-law,marriage,42BC
