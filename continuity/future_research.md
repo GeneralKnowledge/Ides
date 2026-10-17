@@ -70,8 +70,10 @@ Adds prose/scene/psychology method; renames former “1C development” → **Ph
 Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.1** Mutina / Decimus cost — Ch 26–29 (`phase_1d1_mutina_plan.md`)  
 - [x] **1D.2** Philippi ordeal — Ch 33–34 (`phase_1d2_philippi_plan.md`)  
-- [ ] **1D.3** Selective connective — Ch 25, 30, 32  
+- [x] **1D.3** Selective connective — Ch 25, 30, 32 (`phase_1d3_connective_plan.md`)  
 - [ ] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (craft E2)  
+- [ ] **1D.5** Name-war friction — Ch 22/24 if still thin after review  
+
 Intermediate aim ~45–70k then reassess.
 
 ### 2. Optional second polish / human line edit  
