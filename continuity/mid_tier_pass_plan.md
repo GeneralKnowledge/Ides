@@ -213,12 +213,12 @@ Ch **7, 9, 14–20, 22, 24** — already mid/thick.
 ```
 
 ### Definition of done (whole 1A pass)
-- [ ] H1–H3 complete  
-- [ ] All Batch M1–M4 chapters in target band  
-- [ ] Batch M5 TODO_EDITOR cleared or explicitly deferred in edit log  
-- [ ] MUST_EXPRESS A–G re-ticked with chapter evidence for dramatization  
-- [ ] `continuity/mid_tier_pass_log.md` started (one row per chapter: before/after words, notes)  
-- [ ] No canon lock broken; SIDE-1b still OPEN-0; SERIES-1 held  
+- [x] H1–H3 complete  
+- [x] All Batch M1–M4 chapters in target band  
+- [x] Batch M5 TODO_EDITOR cleared or explicitly deferred in edit log  
+- [x] MUST_EXPRESS A–G re-ticked with chapter evidence for dramatization  
+- [x] `continuity/mid_tier_pass_log.md` started (one row per chapter: before/after words, notes)  
+- [x] No canon lock broken; SIDE-1b still OPEN-0; SERIES-1 held  
 
 ---
 

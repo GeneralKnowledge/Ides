@@ -1,6 +1,6 @@
 # Chapter 9 — Spare Antony
 
-**Edit pass 1 · read-through** · SC-22, SC-23 · M6 · CHOREO-1 prep · B2
+**M5 polish** · SC-22, SC-23 · M6 · CHOREO-1 prep · B2
 
 ---
 
@@ -63,4 +63,5 @@ Decimus washed the garden-dirt from his hands at a basin and thought, absurdly, 
 
 ## Continuity
 - F2 set-piece; M6 live; Trebonius delay seeded for Ch 13/15.  
-- Next: Ch 10 SIDE-1.
+- Next: Ch 10 SIDE-1.  
+**M5 polish:** header + voice spot-check; mercy-decision density held.

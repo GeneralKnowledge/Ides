@@ -56,7 +56,7 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] **Batch M2** Act 1 foundations: Ch 1–6 expanded  
 - [x] **Batch M3** Act 4 connective: Ch 21, 23, 25–27 expanded  
 - [x] **Batch M4** Act 5: Ch 28–34 expanded  
-- [ ] Batch M5 gold polish (Ch 7, 9, 14–20, 22, 24)
+- [x] **Batch M5** gold polish (Ch 7, 9, 14–20, 22, 24): TODO_EDITOR cleared/deferred; Ch 22/24 strengthened; voice/compress pass
 
 ### 1. Optional second polish on remaining lean chapters for even rhythm  
 *(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  

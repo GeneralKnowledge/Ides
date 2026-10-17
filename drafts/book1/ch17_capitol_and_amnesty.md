@@ -1,7 +1,6 @@
 # Chapter 17 — Capitol and Amnesty
 
-**Edit pass 1**  
-**Scene cards:** SC-45, SC-46, SC-47  
+**M5 polish** · SC-45, SC-46, SC-47  
 **Canon:** M11 · A5 aftermath · Digest 14.14 energy · HUMOR-1 low  
 **Dates:** 15 March afternoon → 16–17 March
 
@@ -49,7 +48,7 @@ Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who p
 ## Continuity notes (SC-45)
 - Liberty optics fail to convert populus.  
 - Capitol linger = strategic mistake shown, not lectured.  
-- // TODO_EDITOR: Optional fragment of Capitol oration later as written reconstruction.
+- // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 
 ---
 
@@ -80,7 +79,7 @@ Antony looked at the man’s hope and found it childish. Childish things started
 
 “I noticed.” Antony’s voice came out flatter than grief. Grief would come when he had time to drink it properly. “They also left me alive. That was their first gift. I am not going to repay it by becoming their excuse.”
 
-Lepidus spoke carefully, as Lepidus always did when weight leaned on him. “Negotiation preserves options.”
+Lepidus spoke carefully, as Lepidus always did when weight leaned on him—not weak, not heroic, only present where maps got drawn. “Negotiation preserves options.”
 
 “Negotiation preserves my throat,” Antony said. “And yours. And the chance to make the people choose us when they see the body.”
 
@@ -100,9 +99,9 @@ Antony spat blood from a bitten cheek he did not remember biting and stared towa
 
 ## Continuity notes (SC-46)
 - M11: force available, massacre not chosen.  
-- Antony already thinking funeral/body optics — calculated without Shakespeare.  
+- Antony thinking funeral/body optics — calculated, not verse performance.  
 - False death rumour noted.  
-- // TODO_EDITOR: Keep Lepidus neither hero nor cartoon weakling.
+- // M5: Lepidus held as present/careful — neither hero nor cartoon.
 
 ---
 
@@ -154,4 +153,5 @@ He did not stand in the future and watch the funeral. He stood in the present an
 
 # Chapter 17 — End matter
 
-**Edit pass 1 / read-through:** cut Cicero “later he would invent” future-lean.
+**Edit pass 1 / read-through:** cut Cicero “later he would invent” future-lean.  
+**M5 polish:** TODO_EDITOR cleared/deferred; Lepidus dial checked.

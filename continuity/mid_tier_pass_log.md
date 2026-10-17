@@ -28,6 +28,17 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 32 | 147 | ~613 | M4 | Liberty as tax; *EID MAR* crack; F5 skipped |
 | 33 | 247 | ~714 | M4 | Blood land; Philippi fog; Cassius INF-death (M18) |
 | 34 | 270 | ~727 | M4 | Philippi II; SERIES-1 hooks only; no Actium |
+| 7 | ~670 | ~663 | M5 | Header/voice spot-check; density held |
+| 9 | ~650 | ~638 | M5 | Header/voice spot-check; M6 mercy held |
+| 14 | ~2370 | ~2367 | M5 | Header pass; SAMPLE-1 density intact |
+| 15 | ~1340 | ~1340 | M5 | Header pass; CHOREO/NOTE dual held |
+| 16 | ~1195 | ~1194 | M5 | Header pass; last-words AMB held |
+| 17 | ~1170 | ~1147 | M5 | TODO_EDITOR cleared/deferred; Lepidus dial |
+| 18 | ~900 | ~879 | M5 | TODO_EDITOR cleared; destiny sell softened |
+| 19 | ~1040 | ~1003 | M5 | Funeral refrain compressed; TODO cleared |
+| 20 | ~905 | ~894 | M5 | *regina* out of CLEO POV; fate-music soft |
+| 22 | ~434 | ~714 | M5 | Name accept + Antony underestimation thickened |
+| 24 | ~524 | ~710 | M5 | Laberius listen + Antium agency thickened |
 
 ## Hygiene
 | ID | Status | Notes |
@@ -43,4 +54,4 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | M2 Act 1 Ch 1–6 | done |
 | M3 Act 4 connective | done |
 | M4 Act 5 war→Philippi | done |
-| M5 gold polish | pending |
+| M5 gold polish | done |

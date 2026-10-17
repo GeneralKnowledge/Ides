@@ -1,6 +1,6 @@
 # Chapter 15 — The Litter and the Portico
 
-**Edit pass 1** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)  
+**M5 polish** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)  
 **Canon:** HOUSE-1 · DEC-PERS-1 · CHOREO-1 · NOTE-1 · M4 · M6 · AMB-3 · HUMOR-1 near-off  
 **Continues:** Ch 14 litter departure
 
@@ -159,4 +159,5 @@ He ran—not toward philosophy, toward the door—and the crowd ran with him and
 # Chapter 15 — End matter
 
 **Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.  
-**Edit pass 1:** cut “history to happen” wording from Decimus.
+**Edit pass 1:** cut “history to happen” wording from Decimus.  
+**M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
