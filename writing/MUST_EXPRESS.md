@@ -119,7 +119,9 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 ## Gaps / soft notes (not blocking)
 
 - Appian funeral-gesture VERIFY (refrain vs physical gesture detail) — Ch 19 working  
-- Act 2 bridge Ch 8, 10–13 mid-tier expanded (Batch M1); Act 1/4/5 lean chapters still await M2–M4  
+- Act 2 bridge Ch 8, 10–13 mid-tier expanded (Batch M1)  
+- Act 1 Ch 1–6 mid-tier expanded (Batch M2): A1/B4/B5/C5/C7/C9 seeds dramatized in opening; Chain 1 clemency→access in Ch 4  
+- Act 4/5 lean chapters still await M3–M4; gold spine polish awaits M5  
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
 

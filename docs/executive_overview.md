@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage complete:** First-pass research/architecture. **No novel prose.**
+**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Edit pass 1 + Ides read-through done; mid-tier **M1** + **M2** complete; **M3–M5** remain. Not publication-ready.
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
 
@@ -150,15 +150,15 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ## Q. Recommended next stage
 
-Stages 2–4 foundation are **done**; the project is **draft-ready** for a constrained LLM first pass.
+Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier Batches **M1** (Act 2 bridge) and **M2** (Act 1 Ch 1–6) are complete. Next: **M3–M5** per `continuity/mid_tier_pass_plan.md`.
 
 **Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; Book 1 ends at Philippi; close-third past tense.
 
-**Drafting entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `MUST_EXPRESS.md` + `CHAPTER_MAP.md` + `scene_cards/`.
+**Drafting / expansion entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `MUST_EXPRESS.md` + `CHAPTER_MAP.md` + `scene_cards/` + `continuity/mid_tier_pass_plan.md`.
 
 **Audit idea coverage:** `writing/MUST_EXPRESS.md` and `writing/GAPS_AND_SUGGESTIONS.md`.
 
-Generate **one chapter at a time**; human-edit afterward. Do not one-shot the novel.
+Expand **one chapter at a time**; human-edit afterward. Do not one-shot the novel.
 
 ---
 

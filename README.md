@@ -4,4 +4,5 @@ Research, story planning, and **Book 1 first-pass draft** (Ch 1–34) for a Rome
 
 **Start reading:** [`docs/INDEX.md`](docs/INDEX.md) · [`docs/README.md`](docs/README.md)  
 **Draft chapters:** [`drafts/book1/`](drafts/book1/)  
+**Mid-tier plan / log:** [`continuity/mid_tier_pass_plan.md`](continuity/mid_tier_pass_plan.md) · [`continuity/mid_tier_pass_log.md`](continuity/mid_tier_pass_log.md)  
 **Continuity / next steps:** [`continuity/future_research.md`](continuity/future_research.md)
