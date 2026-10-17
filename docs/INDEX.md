@@ -56,3 +56,4 @@
 | Locked story decisions | `continuity/canon.md` |
 | Open questions | `continuity/unresolved_questions.md` |
 | What to research next | `continuity/future_research.md` |
+| Mid-tier expansion plan (1A + locks) | `continuity/mid_tier_pass_plan.md` |

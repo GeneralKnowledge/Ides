@@ -87,10 +87,11 @@ Never quietly promote C→A or D→A.
 2. `continuity/canon.md`
 3. `story/historical_anchors.md`
 4. `writing/LLM_WRITING_BRIEF.md` + `MUST_EXPRESS.md` ← **if drafting**
-5. `writing/CHAPTER_MAP.md` + `story/scene_cards/`
-6. `story/pov_lock.md` + `characters/`
-7. `research/` as needed (timeline, dossiers, matrix, topography, digests)
-8. `story/mysteries.md` + `information_network.md`
+5. `continuity/mid_tier_pass_plan.md` ← **if expanding lean chapters (1A)**
+6. `writing/CHAPTER_MAP.md` + `story/scene_cards/`
+7. `story/pov_lock.md` + `characters/`
+8. `research/` as needed (timeline, dossiers, matrix, topography, digests)
+9. `story/mysteries.md` + `information_network.md`
 
 ## Drafting
 
