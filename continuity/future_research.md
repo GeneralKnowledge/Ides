@@ -48,7 +48,13 @@
 
 ## Recommended next
 
+### 0. Mid-tier expansion pass (LOCKED approach) — START HERE
+See **[`continuity/mid_tier_pass_plan.md`](mid_tier_pass_plan.md)**  
+Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside locks**.  
+Order: hygiene (SC-32, dossier INDEX) → Act 2 bridge Ch 8/10–13 → Act 1 → Act 4 → Act 5 → gold-spine polish.
+
 ### 1. Optional second polish on remaining lean chapters for even rhythm  
+*(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  
 ### 2. Human edit pass (tone vs SAMPLE-1; compression; Latin VERIFY)  
 ### 3. Appian funeral-gesture VERIFY when sources handy
 
