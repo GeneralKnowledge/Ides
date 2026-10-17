@@ -60,7 +60,7 @@ Hordeonius acquired a neighbour’s leases—and a widow’s garden rights—thr
 
 Nysa saw a slave—Festus, or a man using Festus’s method—sell a household with a sentence. Informers priced breath. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong—laughter that sounded like March smoke returning.
 
-Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals were how new law pretended to be old. She passed a posted list without reading every name—reading every name invited your own onto the wood—and still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
+Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name—reading every name invited your own onto the wood—and still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
 ---
 
