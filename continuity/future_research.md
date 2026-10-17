@@ -53,7 +53,8 @@ See **[`continuity/mid_tier_pass_plan.md`](mid_tier_pass_plan.md)** · log: [`mi
 Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside locks**.  
 - [x] Hygiene: SC-32 in Ch 13; dossier INDEX fixed  
 - [x] **Batch M1** Act 2 bridge: Ch 8, 10–13 expanded  
-- [ ] Batch M2 Act 1 · M3 Act 4 · M4 Act 5 · M5 gold polish
+- [x] **Batch M2** Act 1 foundations: Ch 1–6 expanded  
+- [ ] Batch M3 Act 4 · M4 Act 5 · M5 gold polish
 
 ### 1. Optional second polish on remaining lean chapters for even rhythm  
 *(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  

@@ -2,7 +2,7 @@
 
 **Project:** Large-scale historical fiction centred on Julius Caesar’s assassination (Ides of March, 44 BC) and the final years of the Roman Republic (c. 46–42 BC, with framework extending toward Actium/Principate).
 
-**Stage:** Worldbuilding / research database only. No novel prose. No chapter drafts. No dialogue scenes.
+**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Edit pass 1 and Ides read-through logged; mid-tier Batches **M1** (Act 2 bridge) and **M2** (Act 1 Ch 1–6) complete; **M3–M5** remain. Not publication-ready.
 
 **Intended feel:** Sprawling political ensemble with incomplete information, competing loyalties, espionage, and long consequence chains — historically constrained, not fantasy-Rome-as-Westeros.
 
@@ -59,6 +59,13 @@ Never quietly promote C→A or D→A.
 | `unresolved_questions.md` | Open research/story questions |
 | `contradictions.md` | Source conflicts to preserve |
 | `future_research.md` | Next research priorities |
+| `mid_tier_pass_plan.md` | 1A expansion plan (batches M1–M5) |
+| `mid_tier_pass_log.md` | Before/after prose tracking |
+
+### `/drafts` — Book 1 prose
+| Path | Contents |
+|------|----------|
+| `book1/ch01`…`ch34` | First-pass / mid-tier chapter files |
 
 ### `/docs`
 | File | Contents |
@@ -93,6 +100,7 @@ Never quietly promote C→A or D→A.
 8. `research/` as needed (timeline, dossiers, matrix, topography, digests)
 9. `story/mysteries.md` + `information_network.md`
 
-## Drafting
+## Drafting / expansion
 
-See `/writing/README.md`. Generate **one chapter at a time** with `STARTER_PROMPT.md`.
+See `/writing/README.md`. First pass used `STARTER_PROMPT.md` one chapter at a time.  
+Ongoing mid-tier work: `continuity/mid_tier_pass_plan.md` + log.
