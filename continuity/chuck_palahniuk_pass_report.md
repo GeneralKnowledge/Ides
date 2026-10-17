@@ -12,7 +12,7 @@
 |------|--------|
 | Starting `main` HEAD | `b376471` — *Final integrated revision before author cold read (#20)* |
 | Branch | `cursor/chuck-palahniuk-pass-cb1d` |
-| Ending commit | *(this PR)* |
+| Ending commit | `b49cba94a765552eece7626582536f123b4458aa` |
 | Working tree | Untracked `exports/` preserved; prior audits / cold-read packet **not** rewritten |
 | Integrated revision | **Already implemented** on `main` before this pass — not re-combined silently |
 | Chapters inspected | All 34 under `drafts/book1/` |
