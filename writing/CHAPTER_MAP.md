@@ -29,7 +29,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 10 | SC-24, SC-25, SC-25b | F2, F4 | Almost-recruit; debt ask; **SIDE-1 body** |
 | 11 | SC-26, SC-27 | F1, CIC | Omens; **manufactured Sibylline talk** |
 | 12 | SC-28, SC-29, SC-30 | CAL, F1, CAE | Dread; fragment; Caesar opacity |
-| 13 | SC-31, SC-33, SC-34 | TRE/DEC, F3, BRU/CAS | Delay assignment; veterans; GO |
+| 13 | SC-31, SC-32, SC-33, SC-34 | TRE/DEC, CIC, F3, BRU/CAS | Delay assignment; Cicero blind calm; veterans; GO |
 | 14 | SC-35a–d | CAL/CAE/DEC, F1 | **Dreams + Decimus fetch**; Nysa tablet blocked (35d) |
 
 ---

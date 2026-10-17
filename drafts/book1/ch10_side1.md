@@ -1,50 +1,105 @@
-# Chapter 10 — Side Tablet
+# Chapter 10 — Almost / Soften / Body
 
-**First-pass** · SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44
+**Mid-tier pass** · SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
 
 ---
 
 # SC-24 — Almost
 
-POV: F2 Seius · baths / side-room · Favonius parallel  
-Info ENTER: Grievance ready · EXIT: Flinches; knows *something* hangs
+POV: F2 Seius · baths side-room  
+Date / place: Early Feb 44 · quiet room off the palaestra  
+Canon refs: F2 · Plut. Favonius/Statilius parallel  
+Info ENTER: Grievance ready · EXIT: Flinches; knows *something* hangs  
+Overhear risk: Medium
 
 ---
 
-They sounded him with liberty talk and a smile that wanted a knife behind it.
+Marcus Seius Vestalis had come to the baths with a grievance polished like a shoe.
 
-Seius almost said yes. Then he saw his own funeral in the steam and congratulated himself later for cowardice dressed as wisdom. He left knowing too little and too much.
+Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Seia Prima had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
+
+In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice—or a man who spoke Basilus’s weather—kept the pitch careful: not knives, never knives, only *friends who refuse to watch Rome become a household*.
+
+“You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
+
+Seius’s heart performed a small treason of excitement. He saw himself named later in a clean story. Then he saw Antony’s face in some remembered dinner, and Cassius’s dryness, and his own body’s talent for sweating through tunic wool.
+
+“What moment?” Seius asked, and hated that his voice cracked like a boy’s.
+
+“You will know if you are meant to know,” the man said. “For now—listen harder. Speak less. If you cannot bear weight, do not pick it up.”
+
+A laugh burst from the main hall—someone’s joke about a wrestler. Seius laughed too late, then too loud. The recruiter’s eyes cooled.
+
+“I am with the Republic,” Seius said, which was what men said when they meant *I am with my skin*.
+
+“Of course,” the man answered, already done with him.
+
+Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way to the street. Prudence tasted like relief and cowardice mixed, and he could not tell which spice was stronger.
 
 ---
 
 # SC-25 — Soften the Debt
 
-POV: F4 · taberna  
-Info ENTER: Normal ledgers · EXIT: Asked to ease Basilus-orbit debt for “friend of liberty”
+POV: F4 Hordeonius · taberna near Janus medius  
+Date / place: Same week · afternoon ledgers  
+Canon refs: SIDE-1 overlap · Basilus orbit · TONE-1  
+Info ENTER: Normal ledgers · EXIT: Asked to ease Basilus-orbit debt for “a friend of liberty”  
+Overhear risk: Low–Medium
 
 ---
 
-“For liberty,” the middleman said.
+L. Hordeonius Felix preferred numbers that arrived on the Kalends.
 
-Hordeonius heard *for a discount* and frowned sacredly. “Liberty that cannot pay interest,” he observed, “is a festival, not a contract.”
+A. Visellius Ralla’s tablet sat among the honest ones—interest tidy, excuses few. Hordeonius respected a freedman’s son who paid. Respect, in his religion, was a rate.
 
-He eased a fraction anyway—curiosity as investment.
+L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
+
+Hordeonius did not laugh. Laughing at piety was how bankers became tavern stories.
+
+“I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
+
+Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal.
+
+“Seals are older than liberty,” Hordeonius continued, gentle, as if instructing a nephew. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus—if Basilus is in this weather—pays as written too.”
+
+Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue.
+
+Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He had not. That was the trouble with truth: it sometimes wore humour’s clothes without asking.
 
 ---
 
 # SC-25b — Body
 
-POV: F4 · Subura fringe · SIDE-1  
-Info ENTER: Client late · EXIT: Visellius dead; tablets name Basilus orbit + Antonian agent
+POV: F4 Hordeonius · Subura-edge insula  
+Date / place: Two nights later · stair-stink, cheap lamp  
+Canon refs: SIDE-1 · OPEN-0 · D5 rhyme seed  
+Info ENTER: Client late on interest · EXIT: Body; tablets name Basilus orbit + Antonian agent  
+Overhear risk: High (neighbours → rumour)
 
 ---
 
-The room smelled of ended wine. Visellius—punctual once—was meat.
+Visellius did not arrive on the Kalends.
 
-Tablets incomplete, seals broken, two orbits named like a trap that wanted witnesses. Hordeonius mourned a good payer and opened five theories without crowning one.
+Hordeonius went himself, because a banker who only sent Sosia learned too late when a ledger had become a corpse. The room smelled of cheap oil, old wine, and the metal tang men pretend is only coins.
 
-“Sacred seals,” he whispered, and meant it, and did not solve anything.
+Visellius Ralla was on the floor with his throat opened by someone who had not cared about neatness. Hordeonius washed his hands in a basin that was not clean enough and still washed them.
+
+The tablets were not hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit—Paullus’s perfume weather made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, an Antonian cash-rat Hordeonius knew from uglier markets.
+
+Neighbours already filled the stair with theories: debt, jealousy, politics, a wrong name at a door. Hordeonius filed all of them. He was not a judge. He was a man of seals, and seals had been broken with a knife.
+
+“He was,” Hordeonius told the silent mess, “a credit to his father’s manumission. Paid on the Kalends. Do you know how rare that is in this city of philosophers?”
+
+Nobody answered. The dead never did. That was why ledgers needed the living.
+
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour. Rumour was interest you paid without a contract.
+
+SIDE-1 had begun. It would not explain the Ides. It would only teach the city, again, that tablets could kill as quietly as speeches.
 
 ---
 
-## Next: Ch 11 omens / Sibylline.
+## Continuity
+- F2 almost-recruit flinch (F3 set-piece).  
+- F4 refuse softness; SIDE-1 body; tablets implicate Basilus orbit + Bucco; killer unknown (≥3 theories).  
+- OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
+- Next: Ch 11 omens / Sibylline.
