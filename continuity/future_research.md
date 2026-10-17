@@ -71,7 +71,7 @@ Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.1** Mutina / Decimus cost — Ch 26–29 (`phase_1d1_mutina_plan.md`)  
 - [x] **1D.2** Philippi ordeal — Ch 33–34 (`phase_1d2_philippi_plan.md`)  
 - [x] **1D.3** Selective connective — Ch 25, 30, 32 (`phase_1d3_connective_plan.md`)  
-- [ ] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (craft E2)  
+- [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (`phase_1d4_pre_ides_plan.md`)  
 - [ ] **1D.5** Name-war friction — Ch 22/24 if still thin after review  
 
 Intermediate aim ~45–70k then reassess.

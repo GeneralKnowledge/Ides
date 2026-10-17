@@ -1,6 +1,6 @@
 # Chapter 13 — GO
 
-**Mid-tier pass** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
+**Phase 1D.4** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
 
 ---
 
@@ -46,7 +46,7 @@ Overhear risk: N/A
 
 Cicero wrote to Atticus about games.
 
-Not only games—also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs—but games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship weather, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
+Not only games—also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs—but games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
 “The city is theatrical,” he wrote, then sharper: “Theatre is what remains when men of standing refuse to stage a Republic.”
 
@@ -92,21 +92,35 @@ Overhear risk: Must be near-zero
 
 ---
 
-Names checked. Roles set.
+Names checked. Roles set—almost.
 
 Tillius for the petition—brother’s exile on the tongue, hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn.
 
-Cassius said, “Enough delay. Parthia will not wait for our conscience.”
+Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened. He sent fever instead. Or a man who smelled like fever.”
 
-Brutus said, “For the Republic.”
+Brutus waited. Missing men made rooms louder.
 
-Neither speech was enough. They both knew it. The room was small enough that fear had to stand close and pretend it was resolve. Brutus’s money worries sat somewhere outside the door like a creditor not invited; Cassius’s contempt for hesitation sat inside like a second lamp.
+“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, he becomes a different kind of fever.”
+
+Brutus’s money sat outside the door like a creditor not invited. A note had arrived that afternoon—polite, exact, a lender who still smiled when he named the Kalends. Brutus had not answered. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
 
 “If anyone talks between now and dawn,” Cassius said, “we are not liberators. We are a joke that bleeds.”
 
+Brutus looked at his own hands. They were clean. Clean hands were the brand’s favourite lie. “For the Republic,” he said—and heard how thin the sentence was without a cost attached.
+
+Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
+
+The room was small enough that fear had to stand close and pretend it was resolve. Brutus’s hesitation was not a speech. It was a breath held past comfort, then released.
+
+“GO,” Brutus said.
+
+Not inventory. Choice. The word tasted like metal and unpaid interest.
+
+Cassius’s nod was small. Small nods moved mornings. He named the redistributed door once, checked Trebonius’s leash in principle, and stopped talking before talk became a way to unmake the lock.
+
 Brutus nodded once. The ancestral gesture. He did not sleep well after. Sleep was for mornings that were not knives. Cassius slept worse and called it planning.
 
-They left the room separately. The city outside still believed in ordinary March. That belief was the conspiracy’s last luck.
+They left the room separately. The city outside still believed in ordinary March. That belief was the conspiracy’s last luck—and the price of the missing cousin, the unpaid Kalends, and the breath Brutus had finally spent.
 
 ---
 
@@ -114,6 +128,7 @@ They left the room separately. The city outside still believed in ordinary March
 - Trebonius delay tasked (CHOREO-1 / M6).  
 - **SC-32** Cicero blind calm: elite rumour only; still not ops; games/letter posture.  
 - F3 land powder (FS10) soft for funeral rage.  
-- GO locked; into Ch 14 dream night.  
+- **1D.4:** GO friction — missing Ligarius cousin; money creditor; last doubt before lock; GO chosen not tallied.  
+- Spare-Antony / no hive mind held.  
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.  
 - Chapter map updated to include SC-32.

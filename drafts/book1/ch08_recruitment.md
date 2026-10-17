@@ -1,6 +1,6 @@
 # Chapter 8 — Recruitment
 
-**Mid-tier pass** · SC-20, SC-21 · post-Lupercalia · FT3 · A4
+**Phase 1D.4** · SC-20, SC-21 · post-Lupercalia · FT3 · A4
 
 ---
 
@@ -38,11 +38,21 @@ Galba’s mouth tightened. Not refusal. Calculation. “And Brutus?”
 
 “Brutus is the brand,” Cassius said. “Brands do not recruit. They bless. I recruit.”
 
-A slave crossed the far end of the portico with a basket. Both men spoke for a breath about rain. The basket passed. Cassius named two other doors Galba might tap—softly—and did not name the full list. Compartments kept corpses from becoming libraries.
+A slave crossed the far end of the portico with a basket. Both men spoke for a breath about rain. The basket passed.
+
+Galba did not leave clean. He took from his sleeve a small note—wax already soft from being carried too long—and held it where Cassius could see the seal of a Caesarian patron who still paid Galba’s brother’s grain debts.
+
+“If I tap doors for you,” Galba said, quiet, “this man hears a silence where my gratitude used to live. He will not forgive silence. He will call in the brother’s debt before the next Kalends.”
+
+“Then choose which debt you prefer,” Cassius said. “Grain that keeps a brother soft, or a city that keeps making kings out of jokes.”
+
+Galba’s thumb cracked the seal. He tore the note once, then again, until the patron’s compliments were scraps too small to reassemble into courtesy. He let them fall between the tiles. “Name the doors,” he said. “Softly. If Brutus blesses, I stand. If he only watches, I still stand—but you will owe me the brother’s winter.”
+
+Cassius named two other doors Galba might tap—and did not name the full list. Compartments kept corpses from becoming libraries. He did not promise the brother’s winter with poetry. He nodded once, as men nod when a price has entered the room and refused to leave.
 
 When Galba left, Cassius finally drank. The wine was ordinary. That pleased him. Ordinary tools for an ordinary surgery: cut the growth before Parthia took the surgeon east and left the city with a king’s calendar and no king’s absence.
 
-He began a second list in his head—Ligarius at dusk, a note to Decimus that was not yet a note—and felt the mandate settle into his shoulders like a pack he had chosen.
+He began a second list in his head—Ligarius at dusk, a note to Decimus that was not yet a note—and felt the mandate settle into his shoulders like a pack he had chosen. Somewhere a brother’s debt had just changed owners. Recruitment, Cassius thought, was not persuasion. It was teaching men which creditor to fear first.
 
 ---
 
@@ -70,7 +80,7 @@ Brutus walked the corridor where the older Brutus of the stories lived in paint 
 
 Servilia’s mouth almost smiled. Almost. “The city knows what a procession is for. Do not confuse the two.”
 
-She did not ask about Cassius. She did not need to. Mothers who had survived Caesar’s old weather learned to smell weather changing again.
+She did not ask about Cassius. She did not need to. Mothers who had survived Caesar’s old seasons learned to smell a season changing again.
 
 Brutus sat. He did not make a speech. Speeches were how he postponed. Instead he took a letter draft from the side table—some polite refusal to dine with a man who talked too freely of crowns—and held it above the lamp until the wax edge softened and the names blurred. He set the ruined thing down carefully, as if neatness could make arson into housekeeping.
 
@@ -86,7 +96,8 @@ He slept little. When he did, he dreamed of nothing useful—only a Forum that w
 
 ## Continuity
 - Recruitment personal (Cassius); Brutus commitment tipped without clean speech.  
-- Servilia overhears social weather, not ops (FT13 lives).  
+- **1D.4:** Galba burns Caesarian patron note / brother’s debt cost; recruitment price on the page.  
+- Servilia overhears social season, not ops (FT13 lives).  
 - Galba first approach; Ligarius queued; compartments held.  
 - MUST_EXPRESS: C3 recruitment engine; B2 plural motives begun.  
 - Next: Ch 9 Decimus + spare Antony (already mid).
