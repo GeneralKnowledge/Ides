@@ -47,7 +47,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 | C4 | Antony = soldier-politician, not cartoon drunk | Funeral skill; underestimates OCT | ✓ Ch 15–19; Ch 22 |
 | C5 | Octavian young, scared, learning, name as resource | Refuses future-Augustus voice | ✓ Ch 5, 20, 22, 27, 29 (1D.1 fasces/learning) |
 | C6 | Caesar opaque, not omniscient | Danger-as-weather; unread note; trusts Decimus | ✓ Ch 14–16 |
-| C7 | Cicero brilliant and wrong | Letters; Philippics wager; death | ✓ Ch 17, 21, 25, 31 |
+| C7 | Cicero brilliant and wrong | Letters; Philippics wager; death | ✓ Ch 17, 21, 25 (1D.3 marked copy), 31 |
 | C8 | Cleopatra dynastic/grain lens, not soap villain | Brief Rome exit; Caesarion fuse | ✓ Ch 20, 26 |
 | C9 | F4 unintentional comic (Batiatus × ledger) | Solemn money-as-virtue; never mugs; SIDE-1 as accounts | ✓ Ch 2, 10, 18, 33 |
 | C10 | GOT personality blends as lenses only | Behavioural echoes, not Westeros cosplay / proper nouns | ✓ Tone file; no Westeros nouns |
@@ -126,6 +126,8 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Gold spine polish done (Batch M5): Ch 7, 9, 14–20, 22, 24  
 - Phase **1D.1** Mutina/Decimus cost: Ch 26–29 dramatised (envoy+levy; failed parley; Laberius fact vs rumour; death ordeal; OCT consul without Augustus mind)  
 - Phase **1D.2** Philippi ordeal: Ch 33–34 (Antony competence; Laberius eagle fact; Cassius INF-death dwell; Brutus second-day weight; OCT fever/not genius; SERIES-1 hooks lean)  
+- Phase **1D.3** connective: Ch 25 Philippics body-risk; Ch 30 Bononia Cicero naming dramatised; Ch 32 west-courier bridge  
+
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
 
