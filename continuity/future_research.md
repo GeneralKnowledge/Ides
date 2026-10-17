@@ -58,10 +58,16 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] **Batch M4** Act 5: Ch 28–34 expanded  
 - [x] **Batch M5** gold polish (Ch 7, 9, 14–20, 22, 24): TODO_EDITOR cleared/deferred; Ch 22/24 strengthened; voice/compress pass
 
-### 1. Optional second polish on remaining lean chapters for even rhythm  
-*(Superseded in priority by mid-tier plan §5 Batches M1–M4.)*  
-### 2. Human edit pass (tone vs SAMPLE-1; compression; Latin VERIFY)  
-### 3. Appian funeral-gesture VERIFY when sources handy
+### 0b. Phase 1B — Whole-manuscript editorial diagnosis — COMPLETE
+See **[`continuity/editorial_diagnosis_1b.md`](editorial_diagnosis_1b.md)** (inspected commit `32556b9`, ~26.2k prose).  
+Verdict: mid-tier 1A complete; manuscript not yet novel-form. Next = **Phase 1C** controlled novel-length development (consequence-first), not polish.
+
+### 1. Phase 1C — Controlled novel-length development (NEXT)
+Consequence ordeal pass (Ch 25–29, 33–34 + selective 22/24/30/32) and pre-Ides earning (Ch 4, 8). Do not bulk-expand gold spine. Intermediate aim ~45–70k then reassess. Rules in diagnosis §G.
+
+### 2. Optional second polish / human line edit  
+*(Only after 1C readiness checklist in diagnosis §H.)*  
+### 3. Appian funeral-gesture VERIFY when sources handy (P2)
 
 ### 2. After each batch
 - Tick `MUST_EXPRESS.md`  
