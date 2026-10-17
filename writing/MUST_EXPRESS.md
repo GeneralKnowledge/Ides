@@ -122,7 +122,8 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Act 2 bridge Ch 8, 10–13 mid-tier expanded (Batch M1)  
 - Act 1 Ch 1–6 mid-tier expanded (Batch M2): A1/B4/B5/C5/C7/C9 seeds dramatized in opening; Chain 1 clemency→access in Ch 4  
 - Act 4 connective Ch 21/23/25–27 mid-tier expanded (Batch M3): D3 letters; F2 cowardice; Philippics wager; EXIT-1; CLEO-1; Mutina A10; OCT not-Augustus  
-- Act 5 lean chapters await M4; gold spine polish awaits M5  
+- Act 5 Ch 28–34 mid-tier expanded (Batch M4): AMB-2; Decimus death fog; proscriptions; Cicero death; liberty-as-tax; M18 Cassius; SERIES-1 Philippi end  
+- Gold spine polish awaits M5  
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
 
