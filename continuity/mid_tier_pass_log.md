@@ -64,6 +64,7 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 1D.3 Selective connective | done | Ch 25, 30, 32; `phase_1d3_connective_plan.md` |
 | 1D.4 Pre-Ides earning | done | Ch 4, 8, 13; `phase_1d4_pre_ides_plan.md` |
 | 1D.5 Name-war | done | Ch 21, 22, 24; `phase_1d5_name_war_plan.md` |
+| 1F Bononia I2 + E3 | done | Ch 30 + Ch 7/12/1/28; `phase_1f_bononia_e3_plan.md` |
 
 ### 1D.1 word counts (approx body)
 | Ch | Before | After |
@@ -99,4 +100,13 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 21 | ~635 | ~792 |
 | 22 | ~714 | ~986 |
 | 24 | ~710 | ~887 |
+
+### 1F word counts (approx full file)
+| Ch | Before | After | Notes |
+|----|--------|-------|-------|
+| 30 | ~954 | ~1151 | I2 Bononia + chalk-wall beat |
+| 7 | ~751 | ~860 | E3 POV borders (Fulvia marked) |
+| 12 | ~820 | ~896 | E3 muddy NOTE-1 |
+| 1 | ~661 | ~673 | E3 future-lean soft |
+| 28 | ~924 | ~940 | E3 re-check / continuity note |
 

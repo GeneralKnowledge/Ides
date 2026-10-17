@@ -1,6 +1,6 @@
 # Chapter 12 — Dread / Fragment / Weather
 
-**Mid-tier pass** · SC-28, SC-29, SC-30 · lead-in to Ides week · NOTE-1 prep · AMB-1 · AMB-3
+**Phase 1F** · SC-28, SC-29, SC-30 · lead-in to Ides week · NOTE-1 prep · AMB-1 · AMB-3
 
 ---
 
@@ -40,17 +40,17 @@ Overhear risk: She *is* the overhear
 
 Nysa was resetting a latch when the visitor’s attendant muttered.
 
-The visitor himself—Decimus’s weather, or Trebonius’s; she never got the face clean—was in the atrium speaking cheerfully about schedules. Cheerful men were furniture in this house. The attendant, waiting with a cloak, spoke to another cloak as if stone could not hear:
+The visitor himself—someone Decimus-shaped, or Trebonius-shaped; she never got the face clean—was in the atrium speaking cheerfully about schedules. Cheerful men were furniture in this house. The attendant, waiting with a cloak, spoke to another cloak as if stone could not hear:
 
-“Spare the consul. Not the other. Friends—danger from friends—stay—”
+“—not the consul—spare—no—friends first—danger—if he stays—”
 
-The sentence broke. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth.
+The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*—she could not tell which noun owned the verb. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth.
 
-She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *danger from friends* · *spare consul* · *stay*. Incomplete. Ugly. Hers.
+She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends* · *spare?* · *stay / danger* · *consul?* Incomplete. Ugly. Misfiled even as she wrote it—she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
 
-She wrapped the fragment in linen and set it against her ribs. She did not understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door.
+She wrapped the fragment in linen and set it against her ribs. She did not understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door—and that she might already have the wrong half.
 
-Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. This was not rumour yet. This was a splinter.
+Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. This was not rumour yet. This was a splinter that could mean mercy or trap depending on which word you stressed.
 
 ---
 
@@ -64,7 +64,7 @@ Overhear risk: Medium
 
 ---
 
-Caesar did not keep an enemies list the way novelists later wished he had.
+Caesar did not keep an enemies list. He kept work.
 
 He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Fear was in the house—Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional *beware*—and he treated it like March weather: real, inconvenient, not a reason to cancel the city’s work.
 
@@ -82,7 +82,8 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 
 ## Continuity
 - Calpurnia lesser nightmares → toward DREAM-1.  
-- Nysa NOTE-1 fragment seeded (incomplete; not Artemidorus note).  
+- Nysa NOTE-1 fragment seeded (incomplete; misreadable emphasis; not Artemidorus note).  
 - Caesar opacity: danger-as-weather; AMB-1 held; trusts Decimus habit.  
+- **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.  
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.  
 - Next: Ch 13 GO night (+ SC-32).

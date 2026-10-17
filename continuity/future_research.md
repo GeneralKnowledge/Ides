@@ -74,7 +74,12 @@ Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (`phase_1d4_pre_ides_plan.md`)  
 - [x] **1D.5** Name-war friction — Ch 21, 22, 24 (`phase_1d5_name_war_plan.md`)  
 
-Intermediate aim ~45–70k then reassess.
+### 1b. Phase 1F — Bononia I2 + E3 local craft — COMPLETE
+See **[`continuity/phase_1f_bononia_e3_plan.md`](phase_1f_bononia_e3_plan.md)**  
+- [x] **I2** Proscription peak — Ch 30 deepen  
+- [x] **E3** Ch 7 POV borders; Ch 12 muddy NOTE-1; Ch 1/28 future-leans  
+
+Intermediate aim ~45–70k then reassess (cold read next).
 
 ### 2. Optional second polish / human line edit  
 *(Only after readiness checklists in diagnosis §H and craft §J stages 1G–1H.)*  

@@ -1,6 +1,6 @@
 # Chapter 30 — Lists
 
-**Phase 1D.3** · SC-84, SC-85 · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
+**Phase 1F** · SC-84, SC-85 · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
 
 ---
 
@@ -20,19 +20,27 @@ Antony brought soldier gravity and a hunger that still smelled like Ops unlocked
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed; conversation became rain and cousins for three breaths, then returned to blood accounting. Paper took names faster than mouths could soften them.
 
-Antony’s stylus paused. He did not look up when he shaped the next name—old hatred visiting a favourite wound. “Cicero.”
+Antony’s stylus paused on a lesser enemy first—a man who had borrowed money and returned sermons. Easy. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
 
-The tent’s air did three things at once. Lepidus looked at his hands as if hands could abstain from history. Octavian’s face did not move enough to save anyone. Saving the orator would have cost a different war—one with Antony still armed and the boy’s own lists thinner. Octavian kept the cost behind his teeth. He corrected nothing. He offered no period.
+“Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-Who had first thought the name—traditions would disagree even inside this tent’s own air. What happened on the wood was simpler: the name stood, and no one struck it out.
+The tent’s air did three things at once. Lepidus looked at his hands as if hands could abstain from history. Octavian’s face did not move enough to save anyone. For a breath the boy’s own inventory argued: the orator had aimed him like a sword; swords that talk too well cut both ways; sparing him meant keeping Antony’s favourite wound open and the boy’s lists thinner when the next Kalends asked for blood.
+
+Saving the orator would have cost a different war—one with Antony still armed and the coalition already smelling of unfinished business. Octavian kept the cost behind his teeth. He corrected nothing. He offered no period.
+
+Lepidus cleared his throat. “He still has friends who write.”
+
+“Then they can write his epitaph,” Antony said. “Or they can join him.”
+
+Who had first thought the name—traditions would disagree even inside this tent’s own air. What happened on the wood was simpler: the name stood, and no one struck it out. Contested was honest. Silence was a vote.
 
 “We buy the war with this,” Antony said, tapping the tablet.
 
 “The war buys us,” Octavian answered, too soft to be a quip, too true to unsay.
 
-They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. Contested was honest. They sealed what could be sealed. Seals did not wash.
+They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
-Antony poured wine that did not taste like celebration. Octavian did not drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew.
+Antony poured wine that did not taste like celebration. Octavian did not drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew—and somewhere south of the tent, a road toward Formiae had already begun to matter.
 
 ---
 
@@ -60,11 +68,13 @@ Hordeonius acquired a neighbour’s leases—and a widow’s garden rights—thr
 
 Nysa saw a slave—Festus, or a man using Festus’s method—sell a household with a sentence. Informers priced breath. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong—laughter that sounded like March smoke returning.
 
+Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated—coin versus chalk—then rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction was how you joined the wood.
+
 Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name—reading every name invited your own onto the wood—and still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
 ---
 
 ## Continuity
 - Lex Titia; proscriptions; Cicero naming contested (C) — dramatised as Antony shapes, OCT does not strike out.  
-- MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.  
-**Phase 1D.3:** SC-84 naming beat; SC-85 light voice pass.
+- **1F / I2:** Bononia moral pause + Lepidus nudge; chalk-wall street beat so Formiae feels bought.  
+- MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.

@@ -1,6 +1,6 @@
 # Chapter 7 — Lupercalia
 
-**M5 polish** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15  
+**Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15  
 *(Chronological: diadem first, then disclosure walk.)*
 
 ---
@@ -26,16 +26,26 @@ Not once only—refused in a way that let every watcher invent a script: humilit
 
 “He already is!” someone else shouted, not relieved.
 
-In the press, Seius (F2) felt his stomach drop—the sensation of a door opening onto a stair he did not want to climb. He told himself it was only festival. Festival was how politics practised in costume. Beside him a freedman muttered about Parthia and crowns in the same breath, as if the east were a wardrobe.
+In the press Antony saw a familiar face go pale—Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Antony filed the pallor as useful weather in a crowd: some men already smelled stairs they did not want to climb. Beside Seius a freedman was mouthing Parthia and crowns in the same breath. Antony let the mouths blur back into Forum.
 
-Afterward Antony drank and laughed and said the symbol was temporary. Fulvia, hearing the laugh later, did not correct him. Temporary symbols were the ones that started wars.
+Afterward he drank and laughed and said the symbol was temporary. He could already hear what Fulvia would do with that word—price it, not correct it—and he laughed harder so the hearing would have to wait.
 
 By night the city’s elite rooms had a new oxygen: fear of *regnum*, whether or not a diadem had ever truly fit.
 
 ---
 
+### Beat — Fulvia hears (marked)
+
+POV: Fulvia · later that evening · overheard report  
+Info ENTER: Antony’s laugh · EXIT: Temporary symbols noted
+
+Fulvia heard the laugh secondhand and did not smile. Temporary symbols were the ones that started wars. She did not say so to the messenger. Saying so early made you the woman who rusted a husband’s joke. She stored the word *temporary* where she stored unpaid debts.
+
+---
+
 ## Continuity notes (SC-16)
-- A4 Public king-panic. Seius present. Fulvia hears laugh.
+- A4 Public king-panic. Seius observed from Antony; Fulvia marked beat.  
+- **1F / E3:** POV borders restored (no Seius/Fulvia interior inside Antony block).
 
 ---
 
@@ -65,11 +75,11 @@ Brutus’ silence lasted long enough to be an answer forming. A cart rattled pas
 
 “Law’s face,” Cassius agreed, and tasted the first shared permission. No daggers yet. Only contempt with a schedule beginning to grow underneath—men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could open a door.
 
-They walked on as if they had been talking about the weather. In Rome, that was often the same conversation.
+They walked on as if they had been talking about rain. In Rome, that was often the same conversation.
 
 ---
 
 ## Continuity
 - A4 hit; conspiracy disclosure begun after Lupercalia.  
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
-**M5 polish:** header + voice spot-check; density held (no bulk expand).
+**1F / E3:** Antony POV borders; Fulvia marked beat.

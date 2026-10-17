@@ -129,6 +129,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Phase **1D.3** connective: Ch 25 Philippics body-risk; Ch 30 Bononia Cicero naming dramatised; Ch 32 west-courier bridge  
 - Phase **1D.4** pre-Ides earning: Ch 4 Brutus burned dinner courtesy + Decimus–Caesar road-trust; Ch 8 Galba patron-note / brother’s debt cost; Ch 13 GO friction (missing man, creditor, last doubt)  
 - Phase **1D.5** name-war: Ch 21 force-gap visitor clash; Ch 22 follower *Caesar* greeting + Antony dismisses veteran pay-door; Ch 24 Laberius dual-offer refuse + Antium Cassius cut  
+- Phase **1F** Bononia I2 + E3: Ch 30 bargain discomfort + chalk-wall street; Ch 7 Antony POV borders; Ch 12 muddy NOTE-1; Ch 1/28 future-leans soft  
 
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
