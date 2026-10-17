@@ -44,7 +44,7 @@ Nysa packed what Calpurnia ordered packed and watched men she did not know break
 
 “These are the people’s now,” he said of a chest. “In a manner of speaking.”
 
-Phileros laughed once, short, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa filed chickens under *noise* and chests under *danger*.
+Phileros laughed once, short, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
 
 She thought of her burned fragment and felt no righteousness. Righteousness was for men with names on decrees. She hid one blank tablet in her tunic out of habit, then put it back on the shelf. Blankness was not safety anymore. Blank wax in the wrong hands became someone else’s law.
 
@@ -66,16 +66,35 @@ Seius congratulated a Liberator’s cousin with wine-bright eyes and a spine alr
 
 “Liberty,” he said, and meant *I almost stood near the fire and did not burn.*
 
-The cousin clasped his arm too hard. Seius clasped back harder, then softer—etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths weeks ago. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions, and questions might reveal that honesty was not his strongest crop.
+The cousin clasped his arm too hard. Seius clasped back harder, then softer—etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths weeks ago. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions.
 
-When a petition circulated for “open support,” Seius developed a stomach illness of exquisite timing. He cancelled two dinners and accepted a third far from anyone who could ask him to stand in a Forum. Majority cowardice, he named prudence in the privacy of his own skull. For the room he called it dinner, then indigestion, then the sacred duty of staying alive long enough to be useful later.
+After the second course a neighbour—Quintus from the next block, a man who borrowed tools and returned gossip—leaned in with wine on his breath and a tablet half-hidden under his sleeve. “Sign,” Quintus said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
 
-On the way home he rehearsed congratulations he might need if Liberators won cleanly, and apologies he might need if they did not. Rehearsal was his only steel.
+Seia Prima’s eyes found Seius across the lamps. Expectation was a kind of trap.
 
-Useful later was the prayer of men who had flinched once and meant to make a career of the flinch.
+Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Quintus was another door: the cousin would hear; the dinner circuit would adjust; someone would remember Seius as weather that would not commit.
+
+“My stomach,” Seius began, and hated the cue even as he used it.
+
+“Your stomach was fine for the toast,” Quintus said.
+
+Seius set down his cup carefully, as if care were virtue. “I will not sign tonight. Ask me when the Forum has decided which knives are fashion.”
+
+Quintus’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
+
+“I am with my household,” Seius said. “That is as plain as I get.”
+
+He left before dessert. Seia Prima followed without speaking until the street. “Quintus will tell them you flinched,” she said.
+
+“Let him,” Seius said. “Flinching keeps the door on its hinges.”
+
+By morning the petition had four names without his, and Quintus had already begun telling the block that Seius congratulated with wine and vanished with excuses. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent a neighbour’s goodwill to keep his name off a list that could kill him—and the block now had a story about him that was almost true.
+
+On the way to the far dinner he did not rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one.
 
 ---
 
 ## Continuity
 - Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).  
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
+**Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
