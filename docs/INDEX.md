@@ -58,3 +58,4 @@
 | What to research next | `continuity/future_research.md` |
 | Mid-tier expansion plan (1A + locks) | `continuity/mid_tier_pass_plan.md` |
 | Phase 1B whole-manuscript editorial diagnosis | `continuity/editorial_diagnosis_1b.md` |
+| Craft editorial pass 1C (20-book synthesis) | `continuity/craft_editorial_pass_1c.md` |

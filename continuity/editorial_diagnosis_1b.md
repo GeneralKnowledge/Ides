@@ -213,7 +213,8 @@ Do **not** resolve SIDE-1b, M1 Caesar-knowledge, or Pansa as facts in the next p
 
 ## G. Recommended next milestone
 
-### **Phase 1C — Controlled novel-length development pass (consequence-first)**
+### **Phase 1D — Controlled novel-length development pass (consequence-first)**
+*(Label updated after Craft Pass 1C: see [`craft_editorial_pass_1c.md`](craft_editorial_pass_1c.md). Formerly called “Phase 1C” here.)*
 
 **Why this precedes the others:**
 - Structure/order is already good → not a reorder milestone.
