@@ -127,6 +127,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 - Phase **1D.1** Mutina/Decimus cost: Ch 26–29 dramatised (envoy+levy; failed parley; Laberius fact vs rumour; death ordeal; OCT consul without Augustus mind)  
 - Phase **1D.2** Philippi ordeal: Ch 33–34 (Antony competence; Laberius eagle fact; Cassius INF-death dwell; Brutus second-day weight; OCT fever/not genius; SERIES-1 hooks lean)  
 - Phase **1D.3** connective: Ch 25 Philippics body-risk; Ch 30 Bononia Cicero naming dramatised; Ch 32 west-courier bridge  
+- Phase **1D.4** pre-Ides earning: Ch 4 Brutus burned dinner courtesy + Decimus–Caesar road-trust; Ch 8 Galba patron-note / brother’s debt cost; Ch 13 GO friction (missing man, creditor, last doubt)  
 
 - Latin letter lines: VERIFY if kept verbatim in human pass  
 - SC-32 Cicero blind calm now in Ch 13 (C7 blindness dramatized)  
