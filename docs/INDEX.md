@@ -63,4 +63,5 @@
 | Phase 1D.2 Philippi scene plan | `continuity/phase_1d2_philippi_plan.md` |
 | Phase 1D.3 connective scene plan | `continuity/phase_1d3_connective_plan.md` |
 | Phase 1D.4 pre-Ides earning scene plan | `continuity/phase_1d4_pre_ides_plan.md` |
+| Phase 1D.5 name-war scene plan | `continuity/phase_1d5_name_war_plan.md` |
 

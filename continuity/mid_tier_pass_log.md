@@ -63,7 +63,7 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 1D.2 Philippi ordeal | done | Ch 33–34; see `phase_1d2_philippi_plan.md` |
 | 1D.3 Selective connective | done | Ch 25, 30, 32; `phase_1d3_connective_plan.md` |
 | 1D.4 Pre-Ides earning | done | Ch 4, 8, 13; `phase_1d4_pre_ides_plan.md` |
-| 1D.5 Name-war | pending | Ch 22/24 optional |
+| 1D.5 Name-war | done | Ch 21, 22, 24; `phase_1d5_name_war_plan.md` |
 
 ### 1D.1 word counts (approx body)
 | Ch | Before | After |
@@ -92,4 +92,11 @@ Prose words = body only (strip headers / card meta / continuity bullets) when pr
 | 4 | ~721 | ~1060 |
 | 8 | ~786 | ~1020 |
 | 13 | ~788 | ~1030 |
+
+### 1D.5 word counts (approx body)
+| Ch | Before | After |
+|----|--------|-------|
+| 21 | ~635 | ~792 |
+| 22 | ~714 | ~986 |
+| 24 | ~710 | ~887 |
 
