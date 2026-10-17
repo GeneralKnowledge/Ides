@@ -42,7 +42,9 @@ In the yard he found the levy spokesman—an older miles with a Caesarian scar a
 
 Decimus looked at the chest. The chest was not empty. It was becoming honest about its bottom. He ordered a partial donative for the gate cohorts—coin he had meant to hold for spring—and watched the spokesman’s shoulders drop half an inch. Loyalty bought today might still open a gate tomorrow. He scheduled the rest of the pay talk for morning and hated that mornings now had prices.
 
-He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply—and knew, privately, that praise was thinner than grain. A courier asked whether to answer Antony’s latest written “request” with softness. Decimus chose a sentence that sounded like law and felt like a door barred from inside.
+He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply—and knew, privately, that praise was thinner than grain. The same week he wrote Plancus again—shorter, less perfume—asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road. Plancus’s answer arrived in a prettier hand than the ask: admiration, a warning that Antony’s appetite was “understood,” and a regret that neither grain nor cohorts could be spared “while his own theatre remained unsettled.” No date. Decimus set the pretty tablet beside Antony’s pressure-letters. Soft refusal and hard threat stacked the same height on the table.
+
+A courier asked whether to answer Antony’s latest written “request” with softness. Decimus chose a sentence that sounded like law and felt like a door barred from inside.
 
 At night he walked the wall-walk and tasted snow early. The key in his chest cut both ways: it had opened Caesar’s morning; it might yet open his own throat. He checked a hinge twice and did not tell the sentry why.
 
@@ -96,3 +98,4 @@ He sealed the letter. Sealing still felt like action. Outside, a thrush made a s
 - Decimus entrenched after refusing Antonian envoy; pay cost shown; Cleopatra offstage (CLEO-1); Sextus shadow only.  
 - MUST_EXPRESS: C8, A10 seed, FS11, C1 residual. Next: Ch 27 Mutina begins.  
 **Phase 1D.1:** SC-70 dramatised (envoy + levy pay); SC-71/72 kept brief.
+**Final integrated / Decimus seam:** Plancus refuses grain/cohorts “while his own theatre remained unsettled” — concrete non-support before Mutina, not omniscient betrayal.

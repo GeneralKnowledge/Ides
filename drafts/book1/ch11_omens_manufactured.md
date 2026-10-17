@@ -54,9 +54,15 @@ He did not imagine knives in a Curia. He imagined speeches, decrees, a Republic 
 
 He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him. Intelligent men stayed blind that way and still felt busy.
 
-Outside, a courier waited. Cicero sealed nothing urgent. Urgency, he believed, belonged to other men’s panic.
+Outside, a courier waited—Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
 
-“Only a king,” he murmured, and smiled at his own distaste. Distaste felt like wisdom. In that season, many men confused the two.
+He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.” Occupied. Clear. The words sounded like action and were a refusal to leave the desk.
+
+The courier hesitated. “He asked for you in the room, not on the tablet.”
+
+“Then he may read my tablet in the room,” Cicero said, and sealed nothing that committed his body to anyone’s test balloon.
+
+“Only a king,” he murmured afterward, and the distaste still felt like wisdom. He had spent a live invitation to keep his calm. In that season, many men confused the two.
 
 ---
 
@@ -65,3 +71,4 @@ Outside, a courier waited. Cicero sealed nothing urgent. Urgency, he believed, b
 - OMEN-1: manufactured Sibylline king/Parthia talk; Cicero treats as politics; wrong floater guess OK.  
 - MUST_EXPRESS: E1, E2.  
 - Next: Ch 12 dread / fragment / Caesar opacity.
+**Final integrated / E4:** SC-27 — Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.

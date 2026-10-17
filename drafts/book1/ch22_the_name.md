@@ -72,7 +72,7 @@ He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees tha
 
 A clerk asked whether the Campania rumour should be answered in writing. Antony waved him off. Writing gave squeaks a shape. He preferred them as jokes told over wine, already half forgotten by morning.
 
-The underestimation sat in the room like an unopened letter. The veteran’s careful sentence sat beside it. Antony did not open either. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a consul’s posting board—not to a thin boy practising syllables by the sea. The cost of that thought would not arrive as a letter. It would arrive later, as men who had already chosen which Caesar paid.
+The veteran’s careful sentence sat in the room like an unopened letter. Antony did not open it. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a posting board.
 
 ---
 
@@ -80,3 +80,4 @@ The underestimation sat in the room like an unopened letter. The veteran’s car
 - Name accepted; Antony misreads. Chain 5 lit. Next: Ch 23 street/money/majority.  
 - **1D.5:** Follower *Caesar* greeting aloud; Atia/Philippus pressure; veteran pay-door warning Antony dismisses.  
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
+**Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.

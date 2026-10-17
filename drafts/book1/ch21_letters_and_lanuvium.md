@@ -64,11 +64,23 @@ He drafted speeches for a city that would not let him deliver them. Ink dried on
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and did not burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left offended. Offence was cheaper than a letter that made Brutus Antony’s petitioner. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if it were a date.
+Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left offended. Offence was cheaper than a letter that made Brutus Antony’s petitioner.
 
-He practised a line for a Senate that might never hear him: *We killed a king so that we would not need one.* The hedges did not applaud. Hedges were honest that way.
+That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us—or you.”
 
-It was not a date. It was a cage with a view of hills that looked like freedom if you squinted—and beyond the hills, a name war beginning without him.
+Porcia, listening from the colonnade, said nothing. The silence was a question.
+
+Brutus saw the trap whole: a line that named him as guarantor of other men’s survival, useful to them now, useful to prosecutors later. “Write that your town stood with the Senate,” he said. “Do not write my name as if it were a roof.”
+
+The clerk’s smile died. “Without your name the tablet is weather.”
+
+“Then keep it blank,” Brutus said. “Blankness is safer than my seal on a road full of Antonian dust.”
+
+The clerk left without clasping arms. By evening Brutus learned—through the steward’s careful mouth—that the neighbouring town had already begun telling clients Lanuvium would not shield them. One refusal had priced his brand as local absence. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if it were a date, and did not offer a tablet.
+
+He did not practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
+
+It was not a date. It was a cage with a view of hills that looked like freedom if you squinted—and beyond the hills, a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
 
 ---
 
@@ -77,4 +89,5 @@ It was not a date. It was a cage with a view of hills that looked like freedom i
 - **1D.5:** Cicero visitor clash (throat/fists); Octavius-not-yet margin; Brutus hears Campania name laugh.  
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
+**Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable — new confinement cost beyond purse.
 

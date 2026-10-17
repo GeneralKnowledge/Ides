@@ -18,15 +18,21 @@ Cassius listened to a city’s elders explain poverty with practiced dignity.
 
 The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup as if auditing the room. “Liberty,” he said, “is not free. Rome’s disease is expensive. You will help cure it.” He did not raise his voice. Mathematics did not need volume.
 
-He let silence work after the sentence—Brutus’ tool, borrowed without credit. Silence made elders fill the air with offers.
+He let silence work after the sentence—Brutus’ tool, borrowed without credit. Silence made elders fill the air with offers—most of them dates that were not dates.
 
 Interpreters softened the edges—turned *pay* into *contribute*, *now* into *in due season*. Softening did not soften the silver leaving. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass—the recruitment engine turned tax engine without changing the face that had once counted dinner slight and dinner power.
 
-A young local clerk’s face did the arithmetic of hatred. An elder’s hand trembled on a staff that had seen other conquerors use prettier nouns. Cassius signed for ships anyway.
+An elder with a staff stepped forward before the interpreters could varnish him. “We can send half by the Kalends,” he said in Greek plain enough that Cassius needed no cushion. “The other half after harvest. Take half now and we remain a city. Take all now and you march past hungry walls that will not open for your return.”
+
+The interpreter began, “What he means—”
+
+“I heard what he means,” Cassius said. He had an officer weigh the nearest sack on the spot—grain, not rhetoric. The weight came short of the tablet’s claim by enough to insult geometry. The elder did not look away. Cassius felt the room wait for a shout. He gave them a number instead: half now, sealed; the rest in thirty days under hostage sureties from two merchant houses already in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
+
+The elder’s mouth worked. He took the half and the sureties. Hatred stayed on the young clerk’s face; survival stayed on the elder’s. Cassius signed for ships on that arithmetic.
 
 Before the audience closed, a courier from the west—dust, salt, a seal cracked by too many hands—brought news that arrived as three incompatible tablets: Mutina won and lost; consuls dead; lists in Italy; Decimus gone; the boy with fasces; Antony still breathing. Cassius kept all three. Incomplete west-news was still useful if you labelled it. He did not halt the extraction for a rumour’s sake. Philippi was a place on a road, not a prophecy—only a field where numbers would have to stand up and fight.
 
-An officer asked if they were becoming what they killed. Cassius said, “We are becoming solvent. Solvency is liberty the Forum never priced honestly.” He meant it. That was the danger. He dismissed the elders with courtesy sharp enough to cut.
+An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He did not offer the Forum a prettier noun. He dismissed the elders with courtesy sharp enough to cut.
 
 On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and smiled without kindness. Papers that escaped became rumours. Rumours became prices. He preferred prices he set himself.
 
@@ -62,3 +68,4 @@ Cassius, somewhere else on the same war, would call this necessity. Brutus calle
 - Liberty as tax; *EID MAR* crack; F5 skipped; west courier incomplete (Mutina/lists/fasces).  
 - MUST_EXPRESS: B7, C2/C3. Next: Philippi.  
 **Phase 1D.3:** SC-87 courier bridge + template trim; SC-88 Italy-rumour echo.
+**Final integrated / E5:** SC-87 — elder refuses full immediate take; sack weighed short; Cassius imposes half-now + sureties. Solvency epigram trimmed; immediate pressure before Philippi.

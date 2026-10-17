@@ -56,13 +56,11 @@ Overhear risk: Officers
 
 Antony drank the win without sweetness.
 
-Dust still lived in his teeth; wine only moved it around. “We divide,” he said. “We settle veterans. We keep the East from coughing blood.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies. Someone toasted the plain. Someone toasted the name Caesar as if the name were a single man and not a quarrel.
+Dust still lived in his teeth; wine only moved it around. “We divide,” he said. “We settle veterans. We keep the East from coughing blood.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies.
 
 A tribune mentioned Italian land assignments—farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “Italy will wait. Italy always complains. The East is bleeding now.”
 
-Underestimation had worked for him before—with a boy who practiced a name by the sea, with a morning portico, with a Forum that preferred a corpse’s gardens. It was becoming a habit with a body count. He did not hear the complaint under the congratulations. He heard the congratulations.
-
-Outside the tent, a horse stamped as if impatient with geography. Antony laughed once, short, and went back to dividing a world that was already inventing new debts.
+He did not hear the complaint under the congratulations. He heard the congratulations. Outside the tent, a horse stamped. Antony laughed once, short, and went back to the map.
 
 ---
 
@@ -76,13 +74,9 @@ Overhear risk: Advisors
 
 ---
 
-Octavian thought of Italy as promises made by dead men and living soldiers.
-
 Fever had eased into a thin clarity. “They will want farms,” Agrippa said.
 
-“They will want farms that belong to someone else,” Octavian said. “That is the next war’s shape—whether or not anyone names it war yet.” He felt the geometry of stolen fields without dressing it in destiny. He kept Sextus in the corner of the mental map: sea knife, unfinished. Antony’s Eastern pull sat opposite like a weight on a scale that would not stay honest. Cold between victors was already a draft under every tent flap.
-
-He was still young in his own head—still learning which fears to show—and he kept farms, fasces, and fever in the same argument.
+“They will want farms that belong to someone else,” Octavian said. He did not dress the geometry. He kept one hand flat on the list of promised acres until the paper stopped fluttering in the road wind—as if paper could be made to hold still when the soil under it would not.
 
 ---
 
@@ -96,13 +90,9 @@ Overhear risk: Sailors / street
 
 ---
 
-In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers. Hordeonius, if he heard the ash talk, would have called it archaeology and gone home to fields that still refused to let him sleep.
+In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers.
 
-Harbour talk kept Sextus alive: sails, grain fear, a western knife that had not sheathed itself when Brutus fell. A sailor swore he had seen Pompeian colours; another swore the first sailor drank. Both stories moved grain prices by morning.
-
-Land assignments moved through ledgers. Antony’s name pulled East; the young Caesar’s pulled toward Italian promises that would need other men’s soil. Cold between victors was already a rumour you could buy drinks with.
-
-On the plain, after Brutus, silence did the finishing. The unpaid bill waited in the soil: land, sea, Eastern weight, and the draft under every tent the victors still shared.
+On the plain, after Brutus, a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. He left the wax open to the weather—and to the next man who would have to price Italian soil that still carried other men’s names, while the East pulled one victor and a list of promised acres fluttered in another’s hand.
 
 ---
 
@@ -111,4 +101,5 @@ On the plain, after Brutus, silence did the finishing. The unpaid bill waited in
 - MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.  
 **Phase 1D.2:** SC-92 Brutus ordeal + OCT fever orders; SC-93–95 hooks lean; templates cut.
 **1G:** anti-Actium wink cut; SC-95 thesis lean softened; hooks held.
+**Final integrated / E6:** SC-93–95 compressed; ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis. Sextus/harbour kept as light ambient only if needed — cut from SC-95 to avoid syllabus stack; FS11 remains available in prior chapters / Ch 26.
 

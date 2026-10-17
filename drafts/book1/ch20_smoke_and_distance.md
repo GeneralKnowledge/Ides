@@ -33,19 +33,24 @@ Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
 “You and Cassius,” Decimus said. “I take the nearer knife. Someone has to hold a road in Italy.”
 
-Brutus’ face was pale under soot. “They burned Helvius for a name.”
+Brutus’ face was pale under soot. “They burned Helvius for a name. If you take Cisalpine now, you take Antony’s hunger with it. Come east with us first. Let the nearer knife wait until the Forum’s heat cools.”
 
-“They will burn worse for worse names.” Decimus clasped Brutus’ forearm once—friend, co-murderer, stranger. “Do not wait for the Forum to love you. It loved a corpse more.”
+“If I wait, the road fills with his veterans,” Decimus said. “You want me safe. I want a gate that still opens for our side. Those are not the same schedule.”
+
+Brutus looked at the broken street as if it were a Senate. “Then do not ask me to bless the nearer knife as wisdom.”
+
+“I am not asking for a blessing.” Decimus clasped Brutus’ forearm once—friend, co-murderer, stranger already arguing about timing. “Do not wait for the Forum to love you. It loved a corpse more.”
 
 He left before philosophy answered.
 
-On the road north he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance; one to a man who owed Lepidus a favour. Plancus’s reply arrived soft—praise, delay, no date. The Lepidus channel returned nothing but a messenger who would not meet his eyes. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already practising absence.
+On the road north he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft—praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who would not meet his eyes and would not take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they would not send.
 
 ---
 
 ## Continuity notes (SC-52)
 - Split: Decimus → Cisalpine track; Brutus/Cassius → East track (EXIT-1 seed).  
 - **1G / P1-b:** Plancus soft delay + Lepidus silence seed ally-evaporation before Ch 29.  
+- **Final integrated:** Decimus/Brutus timing disagreement (east-first vs nearer knife); Plancus refuses grain “yet”; Lepidus channel will not take a return tablet.  
 - Property damage shown; which house burns = flex, keep generic elite street.  
 
 ---

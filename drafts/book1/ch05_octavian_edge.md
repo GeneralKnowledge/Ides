@@ -26,9 +26,9 @@ Agrippa at his shoulder said nothing useful and everything loyal: a presence tha
 
 “Good,” Octavian said. “Names that arrive early get spent.”
 
-A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian kept the mistake quiet. Corrections announced you wanted space you had not earned.
+A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian kept the mistake quiet. Corrections announced you wanted space you had not earned. A moment later the same attendant returned with a reserved place nearer the rail—meant for Caesar’s kin—and offered it to Agrippa again, eyes skipping Octavian as if the boy were a cloak-stand. Agrippa did not take the place. He tipped his chin a fraction toward Octavian. The attendant’s face flickered annoyance, then blankness, then a bow that arrived late and wrong.
 
-He inventoried faces: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection. Waiting was not passivity. Waiting was inventory. When the ceremony ended he was still publicly irrelevant—and privately richer by a list.
+Octavian stepped into the gap anyway, thin shoes on hotter stone, and felt the attendant’s reluctance like a hand on his shoulder that would not quite push. He inventoried that too: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection, who could not yet see which shadow belonged to which man. When the ceremony ended he was still publicly irrelevant—and privately richer by a list that now included how easily a reserved place could be aimed at the wrong chest.
 
 ---
 
@@ -64,3 +64,4 @@ Agrippa nodded as if given an order about water. Some friendships were already l
 - OCT peripheral; no destiny voiceover; Agrippa planted (FS03); Apollonia distance.  
 - Softened future-wink vs earlier draft. MUST_EXPRESS: C5.  
 - Next: Ch 6 perpetuo.
+**Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.
