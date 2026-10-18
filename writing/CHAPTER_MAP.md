@@ -70,8 +70,8 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 30 | SC-84, SC-85 | ANT/OCT/LEP, F2/F4/F1 | Triumvirate; **proscriptions** |
 | 31 | SC-86 | CIC | **Cicero death** |
 | 32 | SC-87, SC-88 | CAS, BRU | Extraction; liberty brand crack |
-| 33 | SC-89, SC-90, SC-91 | F4, ANT/F3, CAS | Blood land; Philippi I; **Cassius info-death** |
-| 34 | SC-92, SC-93, SC-94, SC-95 | BRU/OCT, ANT, OCT, report | Philippi II; hooks only |
+| 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |
+| 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; lean SERIES-1 hooks |
 
 ---
 
