@@ -15,15 +15,16 @@
 ### Opening strategy
 **Recommend a carefully bounded private / semi-private gathering as the new dramatic front door — not Lupercalia as Chapter 1, and not a wholesale discard of the current street opening.**
 
-Preferred path (**Concept B**, with a controlled borrow from the current open):
+Preferred path (**Concept B**, placement refined in §11):
 
-1. **Open** on a sustained **Cassius-lens elite dinner** (clemency / pardon weather; invented host room already rehearsed in Ch 4 SC-08), where several interests collide through behaviour.  
-2. **Follow** with a **single-POV F4 street/market morning** that preserves the novel’s distinctive “sermons vs ledgers” altitude (current Ch 1 SC-01 energy), so the book still announces dual engines (elite quarrel + paper/grain Rome).  
-3. **Keep Lupercalia (A4) where it already earns its place** — roughly current Ch 7 — as the public monarchy-panic set-piece after private resentment and recruitment weather have begun, not as page one.
+1. **Rework the fictional dinner to late 46 BC** (post-triumph / Cleopatra newly across the river) and open **chronologically** — dinner as Ch 1 *or* F4 Thapsus shock then same-year dinner as Ch 2 — **without** jumping backward from 45 to 46.  
+2. Retool the dinner’s Spain-posting slight into an **Africa-favour** slight so motives stay intact; keep queen/child talk (sharper when the lodging is new).  
+3. Preserve F4 street INF in the same season; keep Lupercalia at ~Ch 7; push Porcia marriage pressure and Decimus will-whisper to their natural ~45 nest.
 
-**Do not** open on the eve-of-Ides Lepidus dinner (Suet. *Iul.* 87): historically real, dramatically disastrous as a book opening (over-promises omen/assassination thriller).
+**Do not** prefer “dinner in late 45 → flashback to 46” unless Spanish-posting texture is judged non-negotiable (§11).  
+**Do not** open on the eve-of-Ides Lepidus dinner (Suet. *Iul.* 87).
 
-If the author prefers brand continuity over earlier principal introductions, **the existing Ch 1 is already strong enough to keep** after a POV-rhythm pass; it is not “broken.” Concept B wins on *ensemble introduction in one room*; Concept A (current open, densified) wins on *distinctive INF voice and chronological honesty*.
+If the author prefers brand continuity over earlier principal introductions, **the existing Ch 1 is already strong enough to keep** after a POV-rhythm pass; it is not “broken.”
 
 ### POV policy
 Adopt a flexible combination (already half-stated as G1/G2 in `story_first_intrigue_plan.md`, underused in practice):
@@ -186,9 +187,10 @@ Moving Lupercalia to another year or inventing a second diadem day would be an *
 
 **E. Continuity implications.**
 - Fixed: clemency practice **A**; no A-event moved.  
-- Invented: host, New-Spain, exact dialogue (**D** — already soft-canon in Ch 4).  
-- Affected: Ch 4 SC-08 would be **promoted / reshaped / preceded**; Ch 1 market material **follows** as next morning/week; Ch 7 Lupercalia **stays**.  
-- Avoid duplicating Ch 4’s exact dinner later — merge or demote the later repeat.  
+- Invented: host, climber, exact dialogue (**D** — already soft-canon in Ch 4).  
+- **Placement (see §11):** prefer **late 46** rework (Africa-favour climber) for chronological open; late-45 New-Spain + jump-back is the fallback.  
+- Affected: Ch 4 SC-08 promoted/reshaped; F4 street same-year neighbour; Porcia / Decimus will-whisper decoupled to ~45; Ch 7 Lupercalia stays.  
+- Avoid duplicating the dinner later — merge or demote any remnant.  
 - Queen/child talk must remain rumour (no CLEO POV; no SIDE-1-as-Ides).
 
 **F. Risks.** Overcrowd with conspirators; portentous maxims; accidental AMB-1 (“he knows”); starting too late and orphaning A1/Munda emotional runway unless street follow-up carries Africa/Cato.
@@ -346,8 +348,8 @@ Treatments are design guidance for a later pass — **not** implemented here.
 
 **Do not rewrite chapters yet.**
 
-1. Author chooses: **Keep A** (street-first + rhythm pass) vs **Adopt B** (dinner-first + street second).  
-2. If B: produce a **one-page Opening Reorder Sketch** (scene list for new Ch 1–4 only) for approval.  
+1. Author confirms **§11 verdict** (chronological late-46 dinner rework) or overrides to jump-back Option 1.  
+2. Produce a **one-page Opening Reorder Sketch** for new Ch 1–4 (dates, POV, what retools vs moves) for approval.  
 3. Regardless: schedule a **bounded POV rhythm pass** targeting Ch 13 first, then Ch 4/12 — merges and deferrals only, no new beats.
 
 ---
@@ -355,7 +357,89 @@ Treatments are design guidance for a later pass — **not** implemented here.
 ## 10. Decisions this report enables (without making them)
 
 1. **Opening occasion:** current street (A) · clemency dinner gather (B) · seated honours (C) · Lupercalia-as-Ch1 (**not recommended**).  
-2. **POV rhythm:** retain mosaic habit · adopt one-dominant-default + crisis exceptions (**recommended**) · rigid character-block novel (**not recommended**).
+2. **Dinner placement (§11):** late-46 chronological rework (**recommended**) · late-45 dinner then signalled jump to 46 · keep current Ch 4 seat.  
+3. **POV rhythm:** retain mosaic habit · adopt one-dominant-default + crisis exceptions (**recommended**) · rigid character-block novel (**not recommended**).
+
+---
+
+## 11. Placement test — dinner-first jump vs chronological rework
+
+**Question:** Given Concept B, which works better?
+
+| Option | Shape |
+|--------|--------|
+| **1 — Jump** | Open on the current late-45 dinner energy → clearly signalled return to 46 BC (F4 Thapsus) → catch up |
+| **2 — Rework date** | Move/retool the fictional dinner earlier so the book can open chronologically without a backward jump |
+
+**Manuscript facts that decide it**
+- Current SC-08 depends on **“New-Spain”** (Spanish posting) → dramatically natural **after Munda (45)**, not in spring 46. Beat sheet B08 already parks the dinner in **late 45**.  
+- **Queen / child / Transtiberim** talk requires Cleopatra’s Roman lodging: soft anchor S2 = presence **46–44** (**B**); she arrives **late 46** after Caesar’s return/triumphs (Attalus year-46 lists; Suet. *Iul.* 52 / Dio 43.27 tradition). Gossip is usable from late 46 onward — **sharper** when the lodging is new.  
+- Ch 4 bundles three seasons in one chapter: Porcia pressure (marriage soft-anchor **~45**), Cassius dinner (Spain slight), Decimus will-whisper (FS05 **45–early 44**). Those need not stay glued together.  
+- Downstream callbacks (Ch 6 stalls, Ch 17–18 gardens/boy, Ch 20 Cleo payoff) need the *plant*, not the Spanish job title.
+
+### Option 1 — Dinner first, then return to 46
+
+**How it would work**
+- Ch 1: Cassius dinner (keep New-Spain, soft-chain slight, queen talk) dated **late 45**.  
+- Ch 2: Explicit temporal reset — chapter title + first-line date stamp + one didactic beat (“Two winters earlier, when Africa still smelled like a closed account…”) — into F4 Thapsus/Cato.  
+- Then chronological climb through triumph → Munda → reconnect to late 45 *without replaying* the dinner.
+
+**What it preserves**
+- Post-Munda posting economy (strongest current slight).  
+- Porcia / Decimus can stay in the late-45 nest beside the dinner.  
+- Ensemble on page one.
+
+**What it costs**
+- **Reader trust:** invests in Cassius’s geometry, then spends chapters in a past that the reader already knows leads to soft chains — A1’s moral shock lands as illustration, not discovery.  
+- **Reconnect tax:** when the timeline reaches late 45 again, the dinner must be treated as already lived (memory/echo only) or the open was a prologue cheat.  
+- Signaling must be industrial-strength; soft “meanwhile” will read as confusion, not design.
+
+**Verdict on Option 1:** Viable if Spanish-posting texture is judged essential. Inferior default for this manuscript’s dual-engine runway.
+
+### Option 2 — Rework dinner date/placement for chronology ★
+
+**Historically plausible rework (smallest change that unlocks chronology)**
+
+| Element | Current (late 45) | Late 46 rework |
+|---------|-------------------|----------------|
+| Clemency toast | Soft chains after civil war | Same — after Thapsus/Cato; mercy as spice still **A**-practice |
+| Climber’s posting | **New-Spain** | **New-Africa** (or “new grain / new Numidian favour”) — **D** rename |
+| Queen/child talk | Transtiberim rumour | Same content; **hotter** — lodging just opened |
+| Host / Cassius behaviour | Unchanged | Unchanged |
+| Porcia SC-07 | Same night as dinner | **Decouple** → ~45 with marriage pressure (S1) |
+| Decimus SC-09 will whisper | Same chapter | **Keep ~late 45** (FS05); do not force into 46 open |
+| F4 Thapsus street | Ch 1 now | Same year, **before or beside** dinner (spring/summer news → autumn dinner) |
+
+**Chronological open shapes (both OK)**
+- **2a:** Ch 1 = late-46 Cassius dinner → Ch 2 = same-week F4 market weather (sermons vs ledgers) — ensemble first, **no jump**.  
+- **2b:** Ch 1 = F4 Thapsus (spring/summer 46) → Ch 2 = late-46 dinner — chronological honesty + early ensemble without flashback.
+
+**Motivation check:** Cassius “forgiven into irrelevance” still holds in 46 (clemency after Pharsalus/Africa climate). The slight becomes *who got Africa’s spoils*, not Spain’s — same emotional geometry. Munda (Ch 3) then **ironises** the peace toast: the war was not finished. That is a gain, not a loss.
+
+**Continuity check:** Queen plant still predates Ch 6/17/18/20. SIDE-1 / AMB-1 / NOTE-1 untouched. No A-event moved. Only **D** dinner furniture retuned.
+
+**What it costs**
+- Lose New-Spain’s post-Munda specificity (replace with Africa-favour).  
+- Split Ch 4’s three-camera sample across years (good for POV rhythm anyway).
+
+### Head-to-head
+
+| Criterion | Option 1 Jump | Option 2 Rework date |
+|-----------|---------------|----------------------|
+| Ensemble on/near page one | Strong | Strong (2a) / strong-by-Ch2 (2b) |
+| Chronological clarity | Weak unless over-signalled | **Strong** |
+| Historical plausibility | High (keeps late-45 D) | High (late-46 D; Cleo arrival fits) |
+| Cassius motive integrity | High | High if Africa-favour retuned |
+| A1 Thapsus as lived discovery | Damaged (flashback) | Preserved (2b) or same-year neighbour (2a) |
+| Downstream continuity | Reconnect tax | Light retool only |
+| Accidental confusion risk | **High** | Low |
+
+### Recommendation
+**Option 2 works better.** Rework the fictional dinner to **late 46 BC**, swap New-Spain → Africa-favour, keep queen/child talk, decouple Porcia and Decimus will-whisper to ~45, and open chronologically (prefer **2a** if ensemble-first is the priority; **2b** if A1 discovery-first is the priority).
+
+Use Option 1 only if the author explicitly wants to keep the Spanish-posting slight and accepts a prologue-style open with a hard dated reset into 46.
+
+**Still not implementing prose.** Next concrete doc step remains the one-page Opening Reorder Sketch under the chosen option.
 
 ---
 
