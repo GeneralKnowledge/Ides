@@ -13,6 +13,13 @@
 **Touched:** Ch 7, 13, 20, 23 densify; Ch 25, 28 F4, 32, 34 SC-93 craft-noun/formula strip.  
 **Result:** Floor 0–1 cleared on densify targets; residual ledger still open; DOCX not automatic finished-line.
 
+## Decision cold-read DOCX
+
+**Branch:** `cursor/decision-docx-export-cb1d`  
+**Log:** `decision_docx_export_log.md`  
+**Exporter:** `tools/export_book1_docx.py`  
+**Result:** FULL + golden regenerated from `main` @ `83f2b4c` with residual-risk banner; densified-band anti-patterns verified absent in export. **Next:** author cold-read.
+
 ---
 
 ## S-B1 — Afterlife ownership (this pass)

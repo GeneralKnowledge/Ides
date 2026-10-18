@@ -49,7 +49,7 @@ Floor of audited 0–1 targets now clears the **zero 0–1** part of the critici
 
 ## DOCX decision
 
-**Not automatic YES.** Anti-formula was the higher-ROI lever and landed. Residual unpaid ledger from deep audit still open. Recommended next: brief author cold-read of densified Ch 7/13/20/23 (+ spot 25/28/32/34) before FULL + golden; or accept decision-read DOCX labeled residual-risk aware.
+**Followed through:** decision cold-read FULL + golden regenerated — see `decision_docx_export_log.md`. Residual unpaid ledger still open; packet is not finished-line.
 
 ---
 

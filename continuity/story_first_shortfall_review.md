@@ -15,7 +15,7 @@ Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + 
 Interim “decision cold-read yes” after gold dwell: **withdrawn** by deep audit.  
 Anti-formula densify: **done** — floor 0–1 targets (Ch 13/7/20/23) cleared on those files.
 
-**Current verdict:** criticism-resistant finished-line export still **not automatic** (residual ledger: Galba winter, humour desert, gravity). **Decision cold-read DOCX** after densified-band spot-check is now the live option — see `anti_formula_densify_pass_log.md`.
+**Current verdict:** criticism-resistant finished-line export still **not automatic** (residual ledger: Galba winter, humour desert, gravity). **Decision cold-read DOCX regenerated** — see `decision_docx_export_log.md`. Author read is the live next step.
 
 ---
 
@@ -103,21 +103,20 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 Act 5 ordeal + law sweep + gold dwell + deep audit + **anti-formula densify: done** (`anti_formula_densify_pass_log.md`).
 
-**Next (choose one):**
+**DOCX:** regenerated as decision cold-read (`decision_docx_export_log.md`).  
 
-1. Author cold-read densified Ch **7 / 13 / 20 / 23** (spot 25/28/32/34) — confirm delete-the-garnish holds in human reading.  
-2. Or export FULL + golden as **decision cold-read**, labeled residual-risk aware (Galba unpaid / humour desert / gravity still open).
+**Next:** Author cold-read — densified Ch **7 / 13 / 20 / 23** first, then FULL. Decide whether residual ledger needs another lever.
 
-**Not next:** another ≥2-laws sweep; second gold dwell; treating anti-formula as finished-line completion.
+**Not next:** another ≥2-laws sweep; second gold dwell; treating this packet as finished-line completion.
 
 Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
 
 ---
 
-## If you export anyway
+## Packet label (already on files)
 
-Label the DOCX: **“Story-first + Act5 + gold dwell + anti-formula densify. Residual ledger open.”** Cold-read densified Ch 7/13/20/23 first; do not treat residual humour desert / Galba / gravity as closed.
+**“Story-first + Act5 + gold dwell + anti-formula densify. Residual ledger open.”** Do not treat residual humour desert / Galba / gravity as closed.
 
 ---
 
-*End shortfall review. Next: densified-band cold-read or residual-risk DOCX decision.*
+*End shortfall review. Next: author cold-read of decision DOCX.*
