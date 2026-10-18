@@ -17,7 +17,7 @@ Overhear risk: Clients
 
 ---
 
-Decimus smelled his own street before he saw the damage—pitch, cloth, the sweet rot of a smashed oil jar. Beyond the immediate wreck a wider smoke stood toward the Tiber, dirtying the March light as if the river’s green claims were burning on rumour alone. A client met him with both hands empty and both eyes apologising; a steward hovered with a half-burned inventory tablet; a door-slave still held a bucket as if water could renegotiate veterans. Three bodies in a ruin that wanted to be a house.
+Decimus smelled his own street before he saw the damage—pitch, cloth, the sweet rot of a smashed oil jar. Beyond the immediate wreck a wider smoke stood toward the Tiber, dirtying the March light as if the river’s green claims were burning on rumour alone. A client met him with both hands empty and both eyes apologising; a steward hovered with a half-burned inventory tablet; a door-slave still held a bucket as if water could renegotiate veterans. The ruin wanted to be a house and would not be one again tonight.
 
 “They came for the door, not even for you,” the client said. “The door was enough.”
 
@@ -52,7 +52,7 @@ On the road north, while the Tiber smoke thinned behind him into other men’s p
 - **1G / P1-b:** Plancus soft delay + Lepidus silence seed ally-evaporation before Ch 29.  
 - **Final integrated:** Decimus/Brutus timing disagreement (east-first vs nearer knife); Plancus refuses grain “yet”; Lepidus channel will not take a return tablet.  
 - Property damage shown; which house burns = flex, keep generic elite street.  
-- **Law-sweep:** Ruin ≥3 (client + steward + door-slave); second-line will callback; Tiber smoke bridge toward SC-53; Decimus/Brutus bond by clasp + timing fight (no nametag).  
+- Second-line will callback; Tiber smoke bridge toward SC-53; Decimus/Brutus timing fight by clasp (no nametag).  
 
 ---
 
@@ -77,13 +77,13 @@ A Roman clerk from the house’s new legal weather arrived mid-morning with a po
 
 “I am taking my household’s linen,” Cleopatra said. “Trees stay. So do statues.”
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. The inspection became a price without naming one. Ammonius—or a man who did Ammonius’ work—started toward an argument; Cleopatra stopped him with two fingers. Arguing fed the smile. Three wills in one garden path: clerk with people’s interest, Ammonius with temper, queen with schedule.
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. The inspection became a price without naming one. Ammonius—or a man who did Ammonius’ work—started toward an argument; Cleopatra stopped him with two fingers. Arguing fed the smile.
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
-He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” His face held until the garden’s first turn hid him; then, to the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not—mark me when the ship wants a second price.”
+He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not—mark me when the ship wants a second price.”
 
-Ammonius’s jaw worked. Cleopatra paid the hour, not the petition, and filed the exit-complaint as weather she refused to answer.
+Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter’s news reached her as wind under the leaves; she did not turn back to answer wind.
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
@@ -102,7 +102,7 @@ At night she walked the dark paths once, memorising the smell of Italian wet ear
 - No dagger-circle claim; dynastic lens.  
 - **S-B1 / S8:** Cleopatra as **payoff** of prior gardens/queen/child gossip (not introduction); packing obstruction (clerk inspection); *regina* debate kept out of her POV.  
 - // M5: *regina* debate kept out of Cleopatra POV — verified.  
-- **Law-sweep:** Smoke bridge from SC-52; clerk + Ammonius + Cleopatra ≥3; polite inspection → porter exit-complaint; gardens/child payoff held; humour OFF (flight weather).
+- Smoke bridge from SC-52; clerk inspection / porter corridor bite; gardens/child payoff held; humour OFF (flight weather).
 
 ---
 
@@ -131,7 +131,7 @@ Octavian felt the floor drop—the childish, humiliating sense that the adult ar
 
 The courier tried again with a thinner story: Caesar dead; Liberators on a rock; Antony not clearly dead or alive in the first mouthful; no clean word of a will—only gardens and a boy muttered like prices without a seal.
 
-Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Three reactions in one breath: Agrippa’s silence, the curse, the hand—Octavian stood inside all of them without choosing comfort.
+Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 
 Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear—young. He hated that it sounded young. He did not reach for the old nickname anyone might offer as softness; hopeful shadows were for men who still thought inventory was a joke.
 
@@ -147,8 +147,9 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 - Delayed knowledge; will not fully known yet.  
 - Octavian scared/learning/cold seed — not Augustus.  
 - Agrippa foreshadow light.  
-- **Law-sweep:** Agrippa + companion + Octavian ≥3 on news; smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).  
+- Smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).  
 - **G1 note:** cameras bridged by shared Tiber/Italy smoke + will rumour, not collapsed; Brutus remains inside Decimus POV; SC-54b stamp only.  
+- **Anti-formula:** Three-census labels + “filed the exit-complaint” strip; timing / sandals / names-first centres held.  
 
 ---
 

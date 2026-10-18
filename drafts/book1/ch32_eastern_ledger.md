@@ -30,7 +30,7 @@ The interpreter began, “What he means—”
 
 The elder’s mouth worked. He took the half and the sureties with a bow that could have been gratitude. “The city’s thanks. Favourable gods on your road.” Hatred stayed on the young clerk’s face; survival stayed on the elder’s. On the hall’s outer step, once Cassius’s cuirass was a geometry moving away, the elder’s thanks thinned for the clerk and the nearest merchant surety: “He weighs our hunger and calls it cure. Half now. Hostages. Liberty that empties granaries still empties them—mark me when he needs the road open again.”
 
-Cassius signed for ships on the arithmetic and filed the shape of the exit-complaint without needing a translation. Paid was paid.
+Cassius signed for ships on the arithmetic. The elder’s step-talk needed no translation; paid was paid.
 
 Before the audience closed, a courier from the west—dust, salt, a seal cracked by too many hands—brought news that arrived as three incompatible tablets: Mutina won and lost; consuls dead; lists in Italy; the boy with fasces; Antony still breathing. One tablet named Decimus without poetry—gone, or going, or already a line item in someone else’s revenge. Cassius kept all three and didn't merge them for the hall. Privately the Decimus line cracked something the extraction had been keeping neat: the man who had opened Caesar’s morning with cheer, who had taken the nearer knife and Cisalpine as if a road were still a friendship, now traveled west as rumour ink—lists, fasces, a name that had once been access. Cassius had recruited doors through that access. The west was pricing the door-opener as meat. He didn't halt the silver for a rumour’s sake. He entered *Decimus: incomplete* beside *lists: Italy* in the only ledger he trusted—the one behind his eyes—and felt the entry as personal debit, not geography. Philippi was a place on a road, not a prophecy. The crack traveled with him anyway.
 
@@ -71,4 +71,4 @@ Cassius, somewhere else on the same war, would call this necessity—and would, 
 - MUST_EXPRESS: B7, C2/C3. Next: Philippi.  
 **Phase 1D.3:** SC-87 courier bridge + template trim; SC-88 Italy-rumour echo.
 **Final integrated / E5:** SC-87 — elder refuses full immediate take; sack weighed short; Cassius imposes half-now + sureties. Solvency epigram trimmed; immediate pressure before Philippi.  
-- **Law-sweep:** Hall ≥3 (elders + interpreters + clerk); elder thanks-face → step exit-complaint; west courier Decimus/lists as **personal ledger crack** (access/door-opener → revenge line item), not geography stamp; *EID MAR* + GO-night + Decimus rumour as paid callbacks; mint ≥3; humour OFF (extraction / brand crack).
+- Elder step-talk after thanks-face (no craft “filed exit-complaint”); west courier Decimus/lists as **personal ledger crack**; *EID MAR* + GO-night + Decimus rumour as paid callbacks; humour OFF (extraction / brand crack).

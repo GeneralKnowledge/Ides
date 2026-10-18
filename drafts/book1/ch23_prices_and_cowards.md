@@ -30,9 +30,9 @@ A Puteoli man and Sosia argued the next question in the same breath, same stool-
 
 “I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather—watch which weather arrives with coin.”
 
-The Puteoli man wiped his brow. “You talk as if the Republic were still a warehouse.”
+The Puteoli man wiped his brow. “You talk as if mourning were a price list.”
 
-“The only warehouse,” Hordeonius said, “large enough to hold our new mourning without confessing it is still appetite.” Sosia snorted—wine, chin, sleeve—the old accident of wit returning like interest. The Puteoli man laughed once despite himself, then looked guilty for laughing near sacred acts. Hordeonius did not smile. Smiling would have spoiled the sale of solemnity.
+“Mourning that refuses a price,” Hordeonius said, “is mourning that still wants a boy’s seal and a mother’s rewrite on the same stool.” Sosia’s mouth twitched toward a joke and died there—the Puteoli man was already leaning in for Servilia’s Antium talk, and jokes that named mothers out loud became line items. “Watch which veterans take the boy’s pay,” Hordeonius added, quieter. “Watch which paper arrives from Antium smelling like Servilia’s people. I do not sell you certainty. I sell you which rumour empties a purse first.”
 
 He priced the Puteoli question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
@@ -50,7 +50,7 @@ Overhear risk: Extreme staff
 
 The Domus Publica filled with new footsteps wearing old authority.
 
-Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking. Phileros hovered with the outer key. Dama watched from the chicken court as if birds were witnesses. Three staff orbits around one polite theft.
+Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking. Phileros hovered with the outer key. Dama watched from the chicken court as if birds were witnesses. Kindness that emptied chests still counted as kindness in the atrium’s mouth.
 
 “These are the people’s now,” he said of a chest. “In a manner of speaking. You will find us careful. Careful is kindness in a house between masters.”
 
@@ -113,4 +113,4 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.  
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
 **Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.  
-- **Law-sweep:** F4 stall ≥3 + warehouse-mourning humour with Sosia snort / Puteoli laugh (not only Seius); whisperer polite → pillar exit-complaint; Nysa/Phileros/Dama ≥3; steward kindness → corridor emptying-house complaint; NOTE-1 ash echo; Seius dinner petition held as third camera with own polite/refusal cost.
+- **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.

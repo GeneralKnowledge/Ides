@@ -2,7 +2,7 @@
 
 **Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15  
 *(Chronological: diadem first, then disclosure walk.)*  
-**Law-sweep / G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
+**G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
 
 ---
 
@@ -28,7 +28,7 @@ Not once only—refused in a way that let every watcher invent a script: humilit
 
 “He already is!” someone else shouted, not relieved.
 
-In the press Antony saw a familiar face go pale—Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Three mouths, one panic: Seius pale, freedman inventing east, boy selling the syllable up the press. Antony noted the pallor the way he noted a soft cohort—useful, not urgent—and let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale—Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort—useful, not urgent—and let the mouths blur back into Forum.
 
 A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
 
@@ -36,7 +36,7 @@ Antony clasped him like a brother of the afternoon. “Temporary symbol. Don’t
 
 The client’s smile held until Antony’s shoulder turned. Then, to the freedman and anyone else still pricing fear: “Temporary. That’s how they always name the thing that stays. Mark me—he’ll wear it in Parthia and call it weather.”
 
-Antony heard enough of the exit-complaint to file it under *city already writing the next act*, and laughed louder so the hearing would have to wait.
+Antony heard the word *temporary* travel behind his back already rewriting the afternoon, and laughed louder so the rewrite would have to wait.
 
 Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word—price it, not correct it.
 
@@ -57,7 +57,7 @@ Antony drank anyway. He stored her sentence where he stored unpaid cohorts: not 
 ## Continuity notes (SC-16)
 - A4 Public king-panic. Seius observed from Antony; Fulvia reaction held inside Antony camera (no separate POV cut).  
 - **1F / E3:** POV borders restored (no Seius/Fulvia interior as own blocks).  
-- **Law-sweep / G1:** Fulvia folded; Forum ≥3-mouth collision; polite client praise → exit-complaint on *temporary*; Fulvia prices the word by behaviour.
+- **G1:** Fulvia folded; Forum panic without census label; client corridor bite on *temporary*; Fulvia prices the word by behaviour.
 
 ---
 
@@ -117,4 +117,4 @@ Cassius filed *Monday* beside *Casca* and *law’s face* and did not go back to 
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
 **1F / E3:** Antony POV borders; Fulvia marked beat.  
 **1G:** Antony filed/weather cut; Cassius *was how* cut.  
-- **Law-sweep:** G1 Fulvia folded into Antony (2 cameras, not 3-POV mosaic); Forum ≥3-mouth king-panic collision; polite client → exit-complaint on *temporary*; Fulvia prices debt-word by behaviour; Cassius dwell extended (Galba/Ligarius plants for Ch 8; clemency furniture pressure); festival courtesy → Trebonius corridor complaint; Trebonius Monday/Casca humour with Cassius recognition; *temporary*/diadem sticky as paid echo into walk.
+- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius Monday/Casca humour kept.

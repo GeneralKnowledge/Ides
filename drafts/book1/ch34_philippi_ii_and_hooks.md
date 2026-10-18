@@ -68,7 +68,7 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments—farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “Italy will wait. Italy always complains. The East is bleeding now.”
 
-He didn't hear the complaint under the congratulations. He heard the congratulations. Outside the tent, a horse stamped. Antony laughed once, short, and went back to the map.
+Outside the tent-flap, while congratulations still filled the wine, a junior officer muttered to the horse-holder: “Italy always complains—until it bills you in veterans who already know which farms have owners. Mark me when the East stops bleeding and the maps still owe soil.” The horse stamped. Inside, Antony heard only the congratulations. He laughed once, short, and went back to the map.
 
 ---
 
@@ -95,4 +95,4 @@ On the plain, after Brutus, a clerk tried to enter victory in a clean column and
 **Act5 ordeal:** SC-92 Brutus refused cleaner hill as lived cost; grief weight in body; OCT vacuum/land in same camera breath.
 **1G:** anti-Actium wink cut; SC-95 thesis lean softened; hooks held.
 **Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
-- **Law-sweep:** Ordeal/grief — humour OFF on Brutus end; Antony tent congratulations → outside underheard complaint; land/Italy hook plant; SIDE-1b OPEN-0 ash; OCT breath folded (G1).
+- Ordeal/grief — humour OFF on Brutus end; SC-93 outside officer bite on Italy land (Antony hears only congratulations); land/Italy hook plant; SIDE-1b OPEN-0 ash; OCT breath folded (G1).

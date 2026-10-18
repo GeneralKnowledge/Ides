@@ -6,6 +6,15 @@
 
 ---
 
+## Anti-formula densify (post deep audit)
+
+**Branch:** `cursor/anti-formula-densify-cb1d`  
+**Log:** `anti_formula_densify_pass_log.md`  
+**Touched:** Ch 7, 13, 20, 23 densify; Ch 25, 28 F4, 32, 34 SC-93 craft-noun/formula strip.  
+**Result:** Floor 0–1 cleared on densify targets; residual ledger still open; DOCX not automatic finished-line.
+
+---
+
 ## S-B1 — Afterlife ownership (this pass)
 
 **Branch:** `cursor/sb1-afterlife-cb1d`  

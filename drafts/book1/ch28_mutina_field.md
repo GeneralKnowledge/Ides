@@ -54,17 +54,17 @@ Hordeonius recorded three explanations for Pansa’s death before the man had fi
 2. Antony’s smear  
 3. The boy’s friends prefer fewer consuls  
 
-He labeled all three *Rumour* in Greek abbreviation, because Latin made gossip look like minutes. A client wanted to buy the third as fact—wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet. Three appetites around one unconfirmed death.
+He labeled all three *Rumour* in Greek abbreviation, because Latin made gossip look like minutes. A client wanted to buy the third as fact—wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet.
 
 Hordeonius refused the sale and charged for the refusal.
 
 “Do not sell poison as fact,” he told the man, gentle as a father closing a child’s eyes. “I keep seals. Seals are not dinner cleverness. Pay for the refusal if you want a clean margin.”
 
-The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.” His face held until the basilica’s shade broke; then, to the runner who still wanted a dinner thesis: “He’ll bill you for not gossiping and call it piety. Ask him for poison and he sells you a sermon with interest.”
+The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.” Past the first pillar he caught the runner who still wanted a dinner thesis: “He’ll bill you for not gossiping and call it piety. Ask him for poison and he sells you a sermon with interest.”
 
-Sosia snorted into his cup—audible, unlovely—and wiped his mouth. “Charge for silence. Only you could make refusing a sale sound like a temple.”
+Sosia tipped his cup toward Hordeonius without drinking. “Only you could make refusing a sale sound like a temple tax.”
 
-Hordeonius did not smile. “Silence clears. Cleverness does not.” He almost added that dead consuls were a warehouse of other men’s certainty; he kept the warehouse off his tongue. Sosia’s snort had already paid the joke without a caption.
+Hordeonius did not smile. “Silence clears. Cleverness does not.” The silence-price was the joke; he did not need a second metaphor to sell it.
 
 Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic—Hirtius down as fact in one hand, Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*. The poison talk lived; the ledger did not. Laberius’s mud, if it could write, would have entered the same open mark.
 
@@ -78,5 +78,5 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 **Phase 1D.1:** SC-80 fact vs rumour split; plains future-lean cut; SC-81 AMB-2 held.  
 **1F / E3:** re-check — no narrator history-wink residue; Laberius/Hordeonius “later” = present speculation only.
 **1G:** “great success” softened to present ditch irony.  
-- **Law-sweep:** F4 ≥3 (client + Sosia + runner); polite refusal-as-wisdom → pillar exit-complaint; audible Sosia snort on silence-for-sale (humour ON in ledger only); mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.
+- **Anti-formula:** F4 silence-for-sale kept without census / face-held / snort-warehouse kit; mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.
 

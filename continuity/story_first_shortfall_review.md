@@ -9,12 +9,13 @@
 
 ## Verdict
 
-**Superseded 2026-10-18 by `deep_craft_audit.md` (Surface vs Integrated).**
+**Superseded 2026-10-18 by `deep_craft_audit.md`, then by `anti_formula_densify_pass_log.md`.**
 
 Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + book-wide law sweep.  
-Interim “decision cold-read yes” after `gold_act5_laws_pass_report.md` / gold dwell: **withdrawn**.
+Interim “decision cold-read yes” after gold dwell: **withdrawn** by deep audit.  
+Anti-formula densify: **done** — floor 0–1 targets (Ch 13/7/20/23) cleared on those files.
 
-**Current verdict:** FULL + golden **NO.** Law-sweep certified inject presence, not integration. Floor failures: Ch 13 = 0; Ch 7 / 20 / 23 = 1. Criticism-resistant bar (median ≥3 **and** zero 0–1s except lean stubs) fails. See `deep_craft_audit.md` §1–§6.
+**Current verdict:** criticism-resistant finished-line export still **not automatic** (residual ledger: Galba winter, humour desert, gravity). **Decision cold-read DOCX** after densified-band spot-check is now the live option — see `anti_formula_densify_pass_log.md`.
 
 ---
 
@@ -100,15 +101,14 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 ## Minimum work before a “criticism-resistant” export
 
-Act 5 ordeal + book-wide law sweep + gold spine dwell: **done**. They are **not** enough — see deep audit.
+Act 5 ordeal + law sweep + gold dwell + deep audit + **anti-formula densify: done** (`anti_formula_densify_pass_log.md`).
 
-**Next lever (single):** anti-formula densification — `deep_craft_audit.md` §6.
+**Next (choose one):**
 
-1. Ch **13** (score 0) → **20** → **23** → **7** (scores 1): strip `Three…` census / filed exit-complaint / warehouse redux; leave one human want that survives delete-the-garnish.  
-2. Craft-noun / formula flank strip: Ch **25 / 28 F4 / 32 / 34 SC-93**.  
-3. **Then** re-score delete-the-garnish on those files; only if floor ≥2 and median holds, export FULL + golden.
+1. Author cold-read densified Ch **7 / 13 / 20 / 23** (spot 25/28/32/34) — confirm delete-the-garnish holds in human reading.  
+2. Or export FULL + golden as **decision cold-read**, labeled residual-risk aware (Galba unpaid / humour desert / gravity still open).
 
-**Not next:** another ≥2-laws sweep; second gold dwell; gravity merges alone; Galba pay alone.
+**Not next:** another ≥2-laws sweep; second gold dwell; treating anti-formula as finished-line completion.
 
 Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
 
@@ -116,8 +116,8 @@ Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
 
 ## If you export anyway
 
-Do not. Deep audit says surface injects will still read as syllabus-with-garnish on Ch 7/13/20/23. If a partial packet is forced for process reasons only, label it **not criticism-resistant** and cold-read **only** Ch 3/8/10/11/22 as density controls — never as a whole-novel verdict.
+Label the DOCX: **“Story-first + Act5 + gold dwell + anti-formula densify. Residual ledger open.”** Cold-read densified Ch 7/13/20/23 first; do not treat residual humour desert / Galba / gravity as closed.
 
 ---
 
-*End shortfall review. Next phase: anti-formula densify per `deep_craft_audit.md`. No DOCX until that lands.*
+*End shortfall review. Next: densified-band cold-read or residual-risk DOCX decision.*

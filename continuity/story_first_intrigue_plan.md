@@ -306,8 +306,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 5. **Gold-edge + Act 5 ordeal + book-wide law sweep:** **Done** — see `gold_act5_laws_pass_report.md` / `story_first_law_sweep_log.md`.  
 6. **Gold spine dwell:** **Done** — Act-5-class density at SC-35c / 40 / 41 / 43-exit / 45 / 50a; locks held — see `gold_spine_dwell_pass_log.md`.  
 7. **Deep craft audit (surface vs integrated):** **Done** — delete-the-garnish Q1–Q5; verdict **NO DOCX** (Ch 13=0; 7/20/23=1) — see `deep_craft_audit.md`. Law-sweep ≥2-laws = false green.  
-8. **Anti-formula densify** — **Next** — Ch 13 → 20 → 23 → 7 (+ craft-noun strip 25/28F4/32/34); then re-score; **only then** FULL + golden DOCX.  
-9. Short log updates in `continuity/story_first_pass_log.md`.
+8. **Anti-formula densify:** **Done** — Ch 13 → 20 → 23 → 7 + craft-noun strip 25/28F4/32/34; floor 0–1 cleared on those files — see `anti_formula_densify_pass_log.md`.  
+9. **Author cold-read of densified band** (Ch 7/13/20/23 spot) **or** residual-risk DOCX decision — **Next**. Residual ledger (Galba winter, humour desert, gravity) still unpaid.  
+10. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
@@ -378,8 +379,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** **Anti-formula densify** (Ch 13 → 20 → 23 → 7 + craft-noun strip on 25/28F4/32/34) per `deep_craft_audit.md` §6. **No DOCX** until delete-the-garnish floor clears 0–1 scores.
+**Next implementation phase:** Author cold-read of densified Ch 7/13/20/23 (spot) **or** residual-risk-aware FULL + golden DOCX decision. Anti-formula floor clear — see `anti_formula_densify_pass_log.md`. Residual unpaid ledger from deep audit still open (not automatic finished-line export).
 
 ---
 
-*End of story-first intrigue plan. S-A0→S-B1 + gold-edge + Act5 + law-sweep + gold dwell + deep craft audit done; next anti-formula densify, then DOCX.*
+*End of story-first intrigue plan. S-A0→S-B1 + gold-edge + Act5 + law-sweep + gold dwell + deep craft audit + anti-formula densify done; next densified-band cold-read / DOCX decision.*

@@ -76,7 +76,7 @@ The factor waited. The tablet waited. Pay versus purity, on a deck that still sm
 
 Brutus looked at the numbers—honest enough to fund men, early enough to make the brand look like a tax before it looked like a cause. He had already left Rome’s corn-clerk insult behind. He would not leave the insult by becoming a clerk for cities that wanted a seal more than a Republic.
 
-“Not from this deck,” he said. “Collect when we have cities under our own count—not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened; the factor’s smile thinned into exit-complaint: “They will sell the same coin to whoever stamps first.”
+“Not from this deck,” he said. “Collect when we have cities under our own count—not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened; the factor’s smile thinned for the mate’s ear alone: “They will sell the same coin to whoever stamps first.”
 
 “Then let them hurry,” Brutus said. “We will not.”
 
@@ -94,4 +94,4 @@ They sailed. Behind them, Cicero’s sentences chased Antony through Rome—mark
 - MUST_EXPRESS: C7, C3, B7 seed. Next: Ch 26 Decimus (CLEO/Sextus folded).  
 **Phase 1D.3:** SC-68b public friction; SC-69 East held/tightened.
 **Act5 ordeal:** SC-68b scar+wider kept; SC-69 refused cost deepened.
-- **Law-sweep:** Deck ≥3 (Cassius/Brutus/factor); harbour polite → factor exit-complaint; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.
+- Deck refusal + factor corridor bite (no craft noun); Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.

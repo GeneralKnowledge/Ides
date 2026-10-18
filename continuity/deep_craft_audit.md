@@ -138,4 +138,4 @@ Ch **3, 10, 11, 22** score 4 — inhabited centres with little formula. Ch **21,
 
 ---
 
-*End deep craft audit. Next: anti-formula densify pass on Ch 13 → 20 → 23 → 7 (+ craft-noun strip on 25/28F4/32/34). No DOCX until that lands.*
+*End deep craft audit. **Follow-up done:** anti-formula densify — see `anti_formula_densify_pass_log.md` (Ch 13/20/23/7 + strip 25/28F4/32/34). Floor 0–1 targets cleared on those files; residual ledger still open; DOCX not automatic.*
