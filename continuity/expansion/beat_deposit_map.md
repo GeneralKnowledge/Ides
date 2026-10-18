@@ -80,13 +80,16 @@ If (5) fails → do not add. Prefer **INTEGRATE** marks above.
 
 ## Integration queue (prose later — not this planning pass)
 
-| Priority | ID | Smallest change |
-|----------|-----|-----------------|
+| Priority | ID / locus | Smallest change |
+|----------|------------|-----------------|
 | P1 | D2 | Replace shaped-voice labels with earned mouth or fold into banker corridor |
 | P1 | D16 | Delete meta warehouse-plant sentence; keep baker/Sosia centre |
 | P1 | D5 | Continuity/architecture only unless revising Ch 20 — do not invent Ch 26 Cleo scene |
+| P1 | Ch 15↔19 | Clarify Nysa “burned my copy” vs later physical burn |
+| P1 | Ch 29 open / T5 | One concrete post-Mutina-relief soft-ally absence (reuse Plancus/Lepidus messengers — **no new ID**) |
 | P2 | D12 | Tighten stillness into SC-74 want or leave |
 | P2 | D10/D13 | Leave or garnish-trim; no further densify |
+| P2 | Ch 32 | Optional Formiae/voice clause in west courier — only if cold-read asks |
 
 ---
 

@@ -108,8 +108,8 @@ Chapter map remains the unit; chains record only *meaningful* relationships — 
 
 ### Causal chains (compact)
 
-- **Mutina costly (Ch 28)** → relief without friends → Decimus isolation (Ch 29).  
-- **Named soft-ally zero wagons (Ch 29)** → west fork / ford → death → OCT vacuum → fasces.  
+- **Mutina costly (Ch 28)** → relief (currently under-dramatized) → soft allies still absent → Decimus isolation (Ch 29).  
+- **Named soft-ally zero wagons (Ch 29)** → west fork / ford → death → OCT vacuum → fasces. *(Plancus faced earlier; Lepidus still needs one messenger body before the count.)*  
 - **OCT assents Cicero on list (Ch 30)** → Formiae purchased (Ch 31) — Chain 6 closes as lived cost.  
 - **Seius near-cognomen refuse (Ch 30)** → majority cowardice pays Ch 10/23 flinch as street weather.  
 - **West courier *Decimus: incomplete* (Ch 32)** → Cassius personal debit → INF-death readiness (trusts broken numbers).  

@@ -30,9 +30,11 @@
 
 | Batch | Chapters | Method |
 |-------|----------|--------|
-| A | Ch 1–10 | Full sequential read of each file (structure, centres, Continuity, deposits) |
+| A | Ch 1–10 | Full sequential read (primary + corroborating pass) |
 | B | Ch 11–20 | Full sequential read; Engine A/B causality (NOTE-1, spare, will, funeral, split) |
 | C | Ch 21–34 | Full sequential read; name war → soft allies → Mutina → lists → Formiae → East → Philippi |
+
+Independent batch audits ([Batch A Ch1-10](bc-e9701d05-d87b-53e2-ae18-50124aa8b89e), [Batch B Ch11-20](bc-92a94e09-d4fa-56e7-9e2d-5873beb24338), [Batch C Ch21-34](bc-58d3d982-dee5-518a-b268-a154a02bdd41)) **corroborated zero P0** and supplied the additional P1 rows marked † below.
 
 **Word count at review:** ~50,747 body words across 34 chapter files.  
 **Unrelated working-tree noise preserved:** `exports/` (untracked DOCX) left untouched.
@@ -159,12 +161,17 @@ No accidental disappearance of a promised payoff. SIDE-1 remaining OPEN-0 is del
 | D16 Ch 2 | Redundant + craft leak | “Warehouse talk is plant only…” | Meta / garnish | Strip meta; keep baker/Sosia centre | **P1** |
 | D5↔Ch 26 | Over-promised continuity in map | D5 refuse real; Ch 26 courier confirmation only | Reader may expect Cleo scene that never comes | Clarify track/map: payoff = refuse intermediaries, not Ch 26 encounter | **P1** |
 | Ch 20 / 23 mosaic | Camera cuts vs sustained pressure | Triple SC exits; F4/F1/F2 triptych | Whiplash risk (shortfall already noted) | Revision/camera — **no new deposit** | **P1** |
+| Ch 15↔19 Nysa wax † | Continuity wobble | To Calpurnia: “I burned my copy”; fragment still physical until Ch 19 burn | Soft trust leak in household INF | Clarify lie / second copy / habit-only in Ch 15 line — **no new scene** | **P1** |
+| Ch 28→29 Mutina relief † | Relief ellipsed before isolation | Ch 29 opens “left Mutina’s relief…” after Laberius still sees closed wall | Soft-ally betrayal can feel like general fog | Densify Ch 29 open with one post-relief concrete absence (empty date / refused cohort) — revise existing, not new track | **P1** |
+| T5 Lepidus face † | Named in betrayal count; little prior body | Plancus has courier faces (Ch 20/26); Lepidus mostly blank + ford rumour | “Three soft allies” overweight vs dramatization | One brief Lepidus-orbit refusal in existing Ch 20/29 messenger beat | **P1** |
+| Ch 4 mosaic / Ch 8→9 vow † | Parallel Chain 1; “I will not recruit” thins at Decimus ask | Three elite rooms no shared encounter; Ch 9 Brutus present at ask | Mild pressure-transfer / vow-cost soft spots | Optional staging tighten only; **PROTECT** Ch 8 core — no reopen | **P2** |
 | D10 / D13 | Useful but light | Mate speech; Capua contubernium | Colour without new decision | DEFER further densify; optional trim on garnish pass | **P2** |
 | D12 Ch 27 | Under-integrated stillness | Agrippa paragraph on Curia fringe | Soft bolt-on | Tighten or leave; do not add third OCT scene | **P2** |
+| Formiae→East echo † | Cicero death barely reaches Philippi courier | Ch 32 west courier: lists/fasces/Decimus, not the voice ended | Philippics wager may not haunt East | Optional one courier clause — only if cold-read wants it | **P2** |
 | LEN-1 90–130k | Soft target ≠ story-complete | ~50.7k; deposits landed | Pressure to pad | Distinguish length from stopping rule; **do not deposit to chase band** | **P1** |
 | SIDE-1 / NOTE-1 / AMB-1 / Actium | Locks held | OPEN-0 ash Ch 34; dual warnings; no Actium | Mysteries unfinished on purpose | **Protect** — no third engine | — |
 
-**P0 count: zero.** No story-level break that materially damages comprehension or emotional causality was demonstrated.
+**P0 count: zero** (primary review + all three batch audits). No story-level break that materially damages comprehension or emotional causality was demonstrated.
 
 ---
 
@@ -189,15 +196,17 @@ No accidental disappearance of a promised payoff. SIDE-1 remaining OPEN-0 is del
 
 Not selective expansion toward LEN-1. Not “move toward completion” as if the novel were criticism-proof.
 
-**Bounded integration queue (prose later, separate PR):**
+**Bounded integration queue (prose later, separate PR — no new beat IDs required):**
 
 1. **P1:** Revise or fold D2 (“shaped” women’s mouths).  
 2. **P1:** Strip D16 meta warehouse-plant line; keep Ch 2 dramatic centre.  
-3. **P1:** Clarify D5 payoff in Continuity if revising Ch 20 (already clarified here in architecture).  
-4. **P1:** Camera/gravity pass on Ch 20 and Ch 23 only if cold-read still marks whiplash — no new subplot tracks.  
-5. **P2 optional:** Tighten D12; leave D10/D13 or trim garnish.
+3. **P1:** Clarify D5 payoff (architecture done; Continuity note if touching Ch 20).  
+4. **P1:** Fix Ch 15 Nysa “burned my copy” vs Ch 19 physical burn (lie / second copy / habit).  
+5. **P1:** Densify Ch 29 opening — one concrete post-relief soft-ally absence (Plancus date empty or Lepidus messenger refuse) so isolation follows *relief*, not fog.  
+6. **P1:** Camera/gravity on Ch 20 / 23 only if cold-read still marks whiplash.  
+7. **P2 optional:** Tighten D12; Ch 4/8–9 staging; Formiae echo in Ch 32 courier; trim D10/D13 garnish.
 
-After that queue, **apply the stopping rule** in `README.md`. Further LEN-1 growth requires a new beat that answers all three novelist questions (feel/wonder · human decision · why existing prose cannot do it). Default: leave the manuscript alone.
+After that queue, **apply the stopping rule** in `README.md`. Default: leave the manuscript alone. Do **not** invent a third soft-ally track or reopen Formiae / Philippi / Bononia / Curia.
 
 ---
 

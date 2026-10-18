@@ -94,7 +94,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Intersects:** A aftermath (who holds roads); Decimus death path  
 **End state:** Paid — evaporation earned socially; Lepidus **not** confirmed sole killer.  
 **Must not:** Omniscient betrayal narration.  
-**Integration note:** Track works; D1 Pacuvius/Lepidus pressure earned at Act 3 edge.
+**Integration note:** Plancus faces earned (Ch 20/26); **Lepidus still mostly named-not-shown** before Ch 29 count — densify existing messenger silence, don’t invent a Lepidus POV. Mutina **relief→isolation** needs one concrete absence at Ch 29 open so betrayal follows relief, not fog.
 
 ---
 
