@@ -103,7 +103,7 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 Act 5 ordeal + law sweep + gold dwell + deep audit + anti-formula + **residual tissue densify: done** (`residual_tissue_densify_pass_log.md`).
 
-**Next:** Integrate under-integrated deposits (D2, D16; clarify D5). Apply expansion stopping rule before any new beat. LEN-1 is scale, not a gate.
+**Next:** IR-1 P1 prose landed (`integration_revision_1_pass_log.md`). Re-apply expansion stopping rule; optional P2 only. LEN-1 is scale, not a gate.
 
 **Not next:** another ≥2-laws sweep; second gold dwell; padding to word count; treating architecture as finished novel.
 

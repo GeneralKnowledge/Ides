@@ -311,7 +311,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 10. **Soft-joint densify:** **Done** — Ch 20/34 gravity; Ch 25 humour; Ch 30 Seia play; exporter landed — see `soft_joint_densify_pass_log.md`.  
 11. **Full novel expansion architecture:** **Done (docs)** — `continuity/expansion/` + deepened character bible + subplot tracks + deposit map.  
 12. **Prose deposit waves:** Waves 1–3 + D22 fringe **LANDED** (~50.7k).  
-13. **Expansion Integration Review 2.0:** [`continuity/expansion/expansion_integration_review.md`](expansion/expansion_integration_review.md) — **integrate-first** (D2/D16/D5 clarification); stopping rule in expansion README; **no** new deposit wave toward LEN-1. Not finished-line.  
+13. **Expansion Integration Review 2.0:** [`continuity/expansion/expansion_integration_review.md`](expansion/expansion_integration_review.md) — stopping rule in expansion README; **no** new deposit wave toward LEN-1.  
+14. **Integration Revision 1.0:** [`continuity/integration_revision_1_pass_log.md`](integration_revision_1_pass_log.md) — P1 prose fixes done (D2/D16/D5/Nysa wax/Ch 29 soft-ally). Not finished-line.  
 13. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
@@ -383,7 +384,7 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** Integration revision of under-integrated deposits (see expansion review §6) — not another architecture dump, not a LEN-1 quota sprint. Locks held; SIDE-1 OPEN-0. Not finished-line.
+**Next implementation phase:** Re-apply expansion stopping rule; optional P2 only. Not a LEN-1 quota sprint. Locks held; SIDE-1 OPEN-0. Not finished-line.
 
 ---
 

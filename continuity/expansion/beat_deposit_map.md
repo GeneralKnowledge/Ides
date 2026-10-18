@@ -15,10 +15,10 @@ Disposition key: **Earned** · **Useful** · **Under-integrated** · **Redundant
 | ID | Ch | Track | Beat (want/cost) | Status | Disposition |
 |----|----|-------|------------------|--------|-------------|
 | D1 | 17 | T2/T5 | Lepidus/Pacuvius room: massacre vs funeral optics as group pressure | LANDED | **Earned** |
-| D2 | 17 | T2 | Fulvia/Servilia offstage corridor mouths pricing amnesty paper | LANDED → **INTEGRATE** | **Under-integrated** — “shaped” labels; revise or fold |
+| D2 | 17 | T2 | Fulvia/Servilia offstage corridor mouths pricing amnesty paper | **LANDED** (IR-1 revised) | **Earned** — Antony-house messenger + Servilia-orbit steward (no “shaped” labels) |
 | D3 | 18 | T3/T2 | Will-reading fringe ≥3 mouths before seal finishes | LANDED | **Earned** |
 | D4 | 19 | T4/T1 | Funeral mesh; Capua changed-cost veteran reply | LANDED | **Earned** |
-| D5 | 20 | T6/T7 | Cleo refuses intermediaries (Ammonius/Cicero books) | LANDED | **Useful / under-integrated** — payoff = refuse courtesy, **not** Ch 26 scene |
+| D5 | 20 | T6/T7 | Cleo refuses intermediaries (Ammonius/Cicero books) | **LANDED** (docs clarified) | **Earned as refuse** — Ch 26 = sail confirmation only (CLEO-1); not a reunion |
 | D6 | 21 | T2 | Porcia 3-voice; “plan” costs refusal | LANDED | **Earned** |
 | D7 | 22 | T6 | Agrippa–OCT ordinary after name-take | LANDED | **Earned** |
 | D8 | 23 | T1/T3 | Domus emptying; one staff want fails | LANDED | **Earned** |
@@ -43,7 +43,7 @@ Disposition key: **Earned** · **Useful** · **Under-integrated** · **Redundant
 
 | ID | Ch | Track | Beat | Status | Disposition |
 |----|----|-------|------|--------|-------------|
-| D16 | 1–2 | T3 | Money street origin densify | LANDED → **INTEGRATE** | **Redundant** + craft-leak — strip meta “plant only” |
+| D16 | 1–2 | T3 | Money street origin densify | **LANDED** (IR-1 meta stripped) | **Useful** — cake-seller Spain rate kept; meta plant-speech removed |
 | D17 | 4 | T2 | Servilia/women’s fringe at clemency house | LANDED | **Useful / under-integrated** — Antium already pays; don’t force second room |
 | D18 | 5 | T6 | Apollonia ordinary; soft-name ban lived | LANDED | **Earned** |
 | D19 | 8 | T2 | Core group room | **PROTECT** | **Protect** |
@@ -78,18 +78,17 @@ If (5) fails → do not add. Prefer **INTEGRATE** marks above.
 
 ---
 
-## Integration queue (prose later — not this planning pass)
+## Integration queue
 
-| Priority | ID / locus | Smallest change |
-|----------|------------|-----------------|
-| P1 | D2 | Replace shaped-voice labels with earned mouth or fold into banker corridor |
-| P1 | D16 | Delete meta warehouse-plant sentence; keep baker/Sosia centre |
-| P1 | D5 | Continuity/architecture only unless revising Ch 20 — do not invent Ch 26 Cleo scene |
-| P1 | Ch 15↔19 | Clarify Nysa “burned my copy” vs later physical burn |
-| P1 | Ch 29 open / T5 | One concrete post-Mutina-relief soft-ally absence (reuse Plancus/Lepidus messengers — **no new ID**) |
-| P2 | D12 | Tighten stillness into SC-74 want or leave |
-| P2 | D10/D13 | Leave or garnish-trim; no further densify |
-| P2 | Ch 32 | Optional Formiae/voice clause in west courier — only if cold-read asks |
+| Priority | ID / locus | Status |
+|----------|------------|--------|
+| P1 | D2 | **Done (IR-1)** — lived messenger/steward authority |
+| P1 | D16 | **Done (IR-1)** — meta plant-speech stripped |
+| P1 | D5 | **Done (docs + Ch 20 meta foreshadow strip)** — refuse ≠ Ch 26 reunion |
+| P1 | Ch 15↔19 | **Done (IR-1)** — Ch 15 lie; Ch 19 true burn |
+| P1 | Ch 29 open / T5 | **Done (IR-1)** — milestone wait + Lepidus-channel tablet return |
+| P1 | Ch 20 / 23 camera | **Left (IR-1)** — purposeful Act-3 exit / world-price triptych; no pressure loss requiring rewrite |
+| P2 | D12 / D10/D13 / Ch 32 echo | Still optional; not this pass |
 
 ---
 

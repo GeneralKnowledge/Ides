@@ -63,14 +63,15 @@ Pause generating new deposits when:
 
 Passing these conditions means the expansion phase has stopped inventing material without a compelling reason. It does **not** mean the novel is publication-ready.
 
-**Review 2.0 verdict:** conditions 1–4 largely met on the spine; residual work is **integration revision** of under-integrated deposits (D2, D16, map over-promise on D5) and optional camera passes — not a new wave toward LEN-1.
+**Review 2.0 verdict:** conditions 1–4 largely met on the spine; residual work was **integration revision** of under-integrated deposits.
+
+**IR-1 (Integration Revision 1.0):** P1 prose fixes landed — see [`../integration_revision_1_pass_log.md`](../integration_revision_1_pass_log.md). Re-apply this stopping rule before any new beat.
 
 ---
 
 ## Recommended next action
 
-**Integrate existing material first** (see review §6). Then re-apply this stopping rule.  
-Do not open a new prose implementation task unless a P1 item cannot be expressed by revising landed text.
+**Re-apply stopping rule.** Optional P2 only (D12 tighten, Formiae→East echo). Default: leave the manuscript alone. No LEN-1 deposit wave.
 
 ---
 

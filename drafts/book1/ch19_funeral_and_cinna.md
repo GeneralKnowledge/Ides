@@ -154,7 +154,8 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 ---
 
 ## Continuity notes (SC-51)
-- Helvius ≠ Cornelius praetor; ≥3 mob reads open; Nysa burns own fragment only.
+- Helvius ≠ Cornelius praetor; ≥3 mob reads open; Nysa burns own fragment only.  
+- **IR-1:** This is the true burn of the Ch 12/14 fragment; Ch 15 “I burned it” was a lie to Calpurnia (survival), not a second copy.
 
 ---
 
