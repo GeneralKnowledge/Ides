@@ -68,9 +68,37 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 5. Early-read hypothesis (author @ Ch 5) — who carries the story?
+
+**Caveat from author:** only through Chapter 5; may not hold for the whole book.
+
+**Feeling:**
+
+- No subconscious “main character” to follow.
+- Nothing is carrying the story yet.
+- Possible fixes floated: more Octavian in more situations; a grain throughline; some people have too much / too little; too much jammed into one book; maybe “too historical” without a dramatic through-line earning it.
+
+**What the manuscript is designed to do (for testing as you continue, not as a veto):**
+
+- **Ensemble by intention**, not a single protagonist. Regular historical rotation (Decimus, Brutus, Cassius, Antony, Cicero; Octavian peripheral early, rising later) plus fictional street/household cameras (Nysa, Seius, Laberius, Hordeonius).
+- **Ch 1–5 specifically:** Cassius dinner → Hordeonius/Nysa street → Seius debt → Laberius/Brutus/Decimus Spain–Rome → **first Octavian chapter**. So by Ch 5 you have already changed camera five times before any Ides machinery starts. That can feel like “nobody owns the book” even if later Decimus / name-war / Philippi threads thicken.
+- **Declared engines** (behavioural, not a person): (A) Ides incomplete-information detective; (B) who owns the dead man’s afterlife (will / name / heir). Grain, land, unpaid dirt are *weather and cost*, not currently a single named throughline with one follower.
+- **Octavian:** designed as furniture → claim → pay; heavy only from Act 4 onward. Moving him earlier would be a real structural choice, not a polish.
+
+**How to use this note while reading:**
+
+- Watch whether someone (or an engine) starts to *carry* you after Ch 7–9 (recruitment / Decimus door) or after the Ides / funeral / name chapters.
+- If by mid-book you still feel unmoored, the Ch 5 hypothesis graduates from “opening fog” to “architecture problem.”
+- If a follow-character or grain spine emerges for you later, the early fog was the cost of the ensemble start — still worth remembering, not automatically a redesign.
+
+**Do not yet:** redesign around Octavian, invent a grain quest, or split the book on the strength of Ch 1–5 alone.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
 - Do not reopen Chapters 1–3 without a concrete reason.
 - Do not commission another broad prose pass from this list alone.
 - Prefer finishing the read and gathering outside-reader feedback before large editorial decisions.
+- Treat §5 as an **open hypothesis** until more chapters have been read.
