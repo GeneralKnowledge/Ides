@@ -1,4 +1,4 @@
-# Story-First Pass Log — S-A0 / S-A1
+# Story-First Pass Log — S-A0 / S-A1 / S-A2
 
 **Date:** 2026-10-18  
 **Plan:** `continuity/story_first_intrigue_plan.md`  
@@ -6,7 +6,38 @@
 
 ---
 
-## S-A1 — Seeds (this pass)
+## S-A2 — Dwell / gravity (this pass)
+
+**Branch:** `cursor/sa2-dwell-cb1d`  
+**Pass:** **S-A2** (S5 + G1–G2 on Ch 1, 5, 6, 11)  
+**Rule:** Longer single-POV runs; second POV only on unfinished-question collision; no 3–4 POV mosaic under ~900w; **do not** collapse needed 3-person rooms into monologue.
+
+### Chapters touched
+
+| Ch | Before | After |
+|----|--------|-------|
+| **1** | ~606w · F4 + F1 postcard cut | Hordeonius primary **extended**; Cicero stays fringe (not a cut); Nysa second only as collision with *Africa: closed enough* → triumph/land; stall 3-voice + exit-complaint held |
+| **5** | ~678w · Octavian Forum / Apollonia as two stamps | **Sole Octavian POV**; Forum→coast bridged as continuous unfinished inventory; attendant gap + hopeful-shadow ban held |
+| **6** | ~736w · **3 POVs** (CIC / F1 / F4) — G2 fail | **2 POVs** (Cicero primary → F4 collision); SC-13 Nysa packing **folded** into F4 stall talk (FS22 held); doorway 3-voice + S-A1 queen/child seed held |
+| **11** | ~644w · Nysa / Cicero thin mosaic | Nysa primary kitchen dwell **extended** (Dama/Pasiphile/washerwoman room held); Cicero second as collision (who manufactures beware/king); Hirtius refuse + kitchen→courier bridge |
+
+### Locks / craft check (spot)
+
+- 3-person rooms not collapsed (Ch 1 stall; Ch 6 doorway + F4 stools; Ch 11 kitchen)  
+- CLEO-1 / S1 seed retained in Ch 6 F4  
+- AMB-3 / OMEN-1 held in Ch 11  
+- OCT≠Augustus / no destiny voice in Ch 5  
+- FS10 (land spit) and FS22 (Parthia clock) still land  
+
+### Not done (next)
+
+1. **S-B1** name/will/heir gossip + Cleopatra payoff  
+2. DOCX re-export (FULL + golden)  
+3. Book-wide humour / callback density beyond seeds  
+
+---
+
+## S-A1 — Seeds (prior)
 
 **Branch:** `cursor/sa1-seeds-cb1d`  
 **Pass:** **S-A1** (refined S1–S4 from §9 fan-theory audit)  
@@ -27,13 +58,6 @@
 - SIDE-1 OPEN-0 untouched (body/tablets orbit unchanged)  
 - CLEO-1: rumour travel only; no Cleo POV; no Actium  
 - No Decimus new hesitation speech; no Caesar-knows seed  
-
-### Not done (next)
-
-1. **S-A2** dwell / G1–G2 on Ch 1, 5, 6, 11  
-2. **S-B1** name/will/heir gossip + Cleopatra payoff  
-3. DOCX re-export (FULL + golden)  
-4. Book-wide humour / callback density beyond these seeds  
 
 ---
 

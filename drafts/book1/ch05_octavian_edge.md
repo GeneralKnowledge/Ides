@@ -1,16 +1,17 @@
 # Chapter 5 — Edge of the Ceremony
 
-**Mid-tier pass** · SC-10, SC-11 · 45–early 44 · FS01–03
+**S-A2 dwell** · SC-10 → SC-11 continuous · 45–early 44 · FS01–03 · G1
 
 ---
 
-# SC-10 — Nobody Watches
+# SC-10 / SC-11 — Nobody Watches → Apollonia
 
-POV: Octavian · Forum / temple steps  
-Date / place: Public ceremony edge · Rome  
-Canon refs: FS01 · C5  
-Info ENTER: Kin nobody watches · EXIT: Still irrelevant publicly  
-Overhear risk: N/A
+POV: Octavian (sole) · Forum / temple steps → Illyrian coast  
+Date / place: Public ceremony edge, Rome; then Apollonia drill/study  
+Canon refs: FS01–03 · C5 · Parthia prep  
+Info ENTER: Kin nobody watches · EXIT: Bond with Agrippa; far from Senate heat; still unfinished  
+Overhear risk: Low–N/A  
+**G1:** One primary POV; location change is dwell continuation, not mosaic cut
 
 ---
 
@@ -30,17 +31,7 @@ A senator’s attendant brushed past and apologised to Agrippa by mistake. Octav
 
 Octavian stepped into the gap anyway, thin shoes on hotter stone. The attendant’s arm stayed a half-breath too long in the way, then withdrew without apology. Octavian counted faces from the new angle: who leaned toward Caesar, who leaned toward money, who leaned only toward their own reflection. When the ceremony ended he was still publicly irrelevant. In his head the reserved place had already been entered beside the wrong chest.
 
----
-
-# SC-11 — Apollonia Plant
-
-POV: Octavian · Apollonia study/training  
-Date / place: Illyrian coast · drill ground / study room  
-Canon refs: FS02–03 · Parthia prep  
-Info ENTER: Parthia prep excitement · EXIT: Bond with Agrippa; far from Senate heat  
-Overhear risk: Low
-
----
+The unfinished inventory followed him off the steps. Rome’s dinners did not suddenly learn his name. Packing lists did. Within days the same thin shoes stood on ship plank instead of temple stone, and the wrong chest became a joke Agrippa refused to finish aloud. Apollonia was not a reward. It was distance with homework.
 
 On the Illyrian coast he studied war like homework for a test someone else might take.
 
@@ -50,7 +41,7 @@ Those officers brightened at Parthia talk—months east, glory, the map widening
 
 “When he calls us,” Agrippa said once, meaning Caesar.
 
-“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust route, the wind, Agrippa’s stubborn loyalty.
+“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust route, the wind, Agrippa’s stubborn loyalty—and the attendant’s late bow, filed where names that arrive early get spent.
 
 An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile and didn't correct the furniture.
 
@@ -66,7 +57,9 @@ Agrippa’s mouth twitched—caught, not cruel. “Noted. No shadows. Only drill
 
 Octavian almost laughed, then turned it into a cough so the older men would not own the sound. “Keep close,” he said, still awkward with warmth.
 
-Agrippa nodded as if given an order about water—and as if the nickname had been filed under *never again*. Octavian slept that night sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of missing a drill step and being laughed at by men whose names he needed.
+They drilled again until the erased dust-route lived in Octavian’s legs as much as in his head. An officer asked whether the boy would last a month east. Agrippa answered with water and another lap, which was clearer than speech. Octavian did not thank him in front of the men. Thanks announced need.
+
+That night he slept sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of the reserved place offered to the wrong chest, then of missing a drill step and being laughed at by men whose names he needed. Both dreams felt like the same inventory.
 
 ---
 
@@ -74,5 +67,6 @@ Agrippa nodded as if given an order about water—and as if the nickname had bee
 - OCT peripheral; no destiny voiceover; Agrippa planted (FS03); Apollonia distance.  
 - Softened future-wink vs earlier draft. MUST_EXPRESS: C5.  
 - **S-A0 / S18–S19:** nickname “hopeful shadow” planted + hated; Agrippa tease → ban; dry playfulness. Pay in Ch 22+.  
+- **S-A2 / S5 / G1:** Single Octavian POV; Forum→Apollonia bridged as continuous unfinished inventory (no mosaic cut). Attendant gap retained.  
 - Next: Ch 6 perpetuo.
 **Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.

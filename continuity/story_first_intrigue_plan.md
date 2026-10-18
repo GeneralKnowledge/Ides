@@ -239,7 +239,7 @@ flowchart LR
 | **S2** | **Ch 10 Seius done (S-A1)** | Non-conspirator soft-hour flinch cost (client notice + Seia Prima). Forever-offices anxiety still in Cassius shortlist (Ch 8) | Conspiracy feels like a city catching a cold |
 | **S3** | **Ch 10 F4 done (S-A1)** | Non-conspirator “civil-war insurance” / consul walks free of a bad morning. In-plot spare still Ch 7/9/13 | Audience ahead on stored mistake without spoiling Ch 15 |
 | **S4** | **Ch 12 Phileros near-miss done (S-A1)** | Household delay/near-catch on Nysa’s fragment — **without** merging with Artemidorus sealed note | Dual warnings stay dual; reader fears interception |
-| **S5** | Ch 1–6 dwell | Reduce camera cuts in soft mosaic chapters: longer single-POV runs where possible (esp. Ch 1, 5, 6) | Characters, not collage |
+| **S5** | **Ch 1, 5, 6, 11 done (S-A2)** | Longer single-POV runs; Ch 6 cut from 3 cameras to 2 (Nysa packing folded into F4); Ch 5 Forum→Apollonia continuous | Characters, not collage |
 | **S6** | Protect peaks | Ch 14–16, 19: intrigue seeds only at edges; do not rebuild gold spine choreography | Keep what already hooks |
 | **S12** | Ch 7–8 | **Group persuade Brutus**: multi-voice room; Brutus argues against; costly tip (rewrite Ch 8 tip away from caption-only) | Reluctance→conversion readable |
 | **S13** | Ch 4–9 | Strip relationship **tells**; replace with behaviour (esp. Decimus–Caesar key line; Brutus–Cassius permission captions) | Bonds felt |
@@ -300,8 +300,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 1. **Pass S-A0 (craft spine):** **Done** on branch merged via #27 (Ch 1–5, 7–9, 22 seeds).  
 2. **Pass S-A1 (seeds):** **Done** — refined S1–S4 from §9 fan-theory audit (Ch 6, 10, 12); standing craft laws continued.  
-3. **Pass S-A2 (dwell):** Next — G1–G2 on Ch 1, 5, 6, 11 — merge or extend runs **without** collapsing needed 3-person rooms into monologue.  
-4. **Pass S-B1:** S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint + humour.  
+3. **Pass S-A2 (dwell):** **Done** — G1–G2 on Ch 1, 5, 6, 11; 3-person rooms held; Ch 6 no longer a 3-POV mosaic under ~900w.  
+4. **Pass S-B1:** Next — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint + humour.  
 5. **Re-export DOCX** (FULL + golden).  
 6. Short log updates in `continuity/story_first_pass_log.md`.
 
@@ -374,8 +374,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** **S-A2** (dwell / G1–G2). No S-B1 / gravity in this audit pass.
+**Next implementation phase:** **S-B1** (name/will/heir gossip + Cleopatra payoff). Gravity continues light inside B.
 
 ---
 
-*End of story-first intrigue plan. S-A0 + S-A1 done; next S-A2.*
+*End of story-first intrigue plan. S-A0 + S-A1 + S-A2 done; next S-B1.*

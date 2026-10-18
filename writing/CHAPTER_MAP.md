@@ -15,7 +15,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 3 | SC-05, SC-06 | F3 | Munda hard fight; Sextus escapes |
 | 4 | SC-07, SC-08, SC-09 | BRU, CAS, DEC | Clemency tension; will whisper |
 | 5 | SC-10, SC-11 | OCT | Peripheral boy; Apollonia/Agrippa plant |
-| 6 | SC-12, SC-13, SC-14 | CIC, F1, F4 | Dictator perpetuo; Parthia clock; offices market |
+| 6 | SC-12, SC-14 (SC-13 folded into F4) | CIC, F4 | Dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
 
 ---
