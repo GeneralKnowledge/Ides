@@ -303,8 +303,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 2. **Pass S-A1 (seeds):** **Done** — refined S1–S4 from §9 fan-theory audit (Ch 6, 10, 12); standing craft laws continued.  
 3. **Pass S-A2 (dwell):** **Done** — G1–G2 on Ch 1, 5, 6, 11; 3-person rooms held; Ch 6 no longer a 3-POV mosaic under ~900w.  
 4. **Pass S-B1:** **Done** — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint.  
-5. **Re-export DOCX** (FULL + golden) — Next.  
-6. Short log updates in `continuity/story_first_pass_log.md`.
+5. **Gold-edge + Act 5 ordeal + book-wide law sweep:** **Done** — see `gold_act5_laws_pass_report.md` / `story_first_law_sweep_log.md`.  
+6. **Re-export DOCX** (FULL + golden) — **Authorised as decision cold-read** (not final line-edit).  
+7. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  

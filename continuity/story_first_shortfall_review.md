@@ -9,11 +9,11 @@
 
 ## Verdict
 
-**Do not re-export yet if the goal is “same criticism won’t recur.”**
+**Superseded 2026-10-18 by `gold_act5_laws_pass_report.md`.**
 
-S-A0–S-B1 planted **method proofs** in targeted bands (early social, intrigue seeds, light dwell, afterlife gossip). They did **not** make the standing craft laws book-wide. A cold read of a new DOCX would still hit checklist/whiplash feelings—especially **Ch 25–34** and any thin multi-POV mosaic outside the seeded chapters.
+Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + book-wide law sweep.  
 
-Export is fine only as a **progress snapshot** labeled “story-first seeds in; Act 5 ordeal + book-wide laws still open.”
+**Current verdict:** FULL + golden **yes** as a **decision cold-read**, labeled residual-risk aware — not as a finished line-edit. See pass report §4.
 
 ---
 
