@@ -72,11 +72,9 @@ Paullus left offended in the expensive way. Hordeonius blotted nothing. He only 
 
 Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't. That was the trouble with truth: it sometimes wore humour's clothes without asking.
 
-When the perfume had cleared, Hordeonius added, almost to the ledger, “Atmosphere is what men buy when they want a consul to walk free of a bad morning and still collect interest afterward. Call it civil-war insurance if it comforts you. I do not underwrite mornings I cannot invoice.”
+When the perfume had cleared, Sosia jerked a chin at the empty stool. “So if someone softens Basilus for liberty—”
 
-Sosia grunted. “So if someone softens Basilus for liberty—”
-
-“Then liberty owes me a name that bleeds,” Hordeonius said. “Otherwise the consul keeps his morning, and I keep my seals. Men who suddenly need soft hours are already pricing a storm. I sell umbrellas. I do not join the rain.”
+“Then bring me a name that bleeds,” Hordeonius said, already blotting. “Otherwise Visellius pays as written.” He entered *soft hours — storm weather* without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
 
 ---
 
@@ -114,7 +112,7 @@ A water-carrier at the stair mouth—jug dripping, no stake in Basilus or Bucco�
 - F2 almost-recruit flinch (F3 set-piece).  
 - **S-A1 / S2:** Seius pays non-conspirator social cost for soft-hour door-tapping (client notice + Seia Prima vinegar)—city catching a cold.  
 - F4 refuse softness; SIDE-1 body; tablets implicate Basilus orbit + Bucco; killer unknown (≥3 theories).  
-- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as civil-war insurance (non-conspirator mouth; no Trebonius/Monday spoil).  
+- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as uninsured morning / invoice refuse (non-conspirator mouth; no Trebonius/Monday spoil) — later-book pass: plant kept, atmosphere sermon cut.  
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
 - Next: Ch 11 omens / Sibylline.
 - **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).  

@@ -32,7 +32,7 @@ A Puteoli man and Sosia argued the next question in the same breath, same stool-
 
 The Puteoli man wiped his brow. “You talk as if mourning were a price list.”
 
-“Mourning that refuses a price,” Hordeonius said, “is mourning that still wants a boy’s seal and a mother’s rewrite on the same stool.” Sosia’s mouth twitched toward a joke and died there—the Puteoli man was already leaning in for Servilia’s Antium talk, and jokes that named mothers out loud became line items. “Watch which veterans take the boy’s pay,” Hordeonius added, quieter. “Watch which paper arrives from Antium smelling like Servilia’s people. I do not sell you certainty. I sell you which rumour empties a purse first.”
+Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool. Watch which veterans take the boy’s pay. Watch which paper arrives from Antium smelling like Servilia’s people.” Sosia’s mouth twitched toward a joke and died there—the Puteoli man was already leaning in, and jokes that named mothers out loud became line items. “I sell you which rumour empties a purse first. Certainty costs extra, and I don’t stock it.”
 
 He priced the Puteoli question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
