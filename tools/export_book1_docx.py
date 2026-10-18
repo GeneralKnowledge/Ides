@@ -187,8 +187,8 @@ def main() -> None:
     assert [n for n, _, _ in all_ch] == list(range(1, 35)), "Expected chapters 1–34"
 
     label = (
-        "DECISION COLD-READ · Story-first + Act5 + gold dwell + anti-formula + tissue/soft-joint densify · "
-        "Not finished-line (gravity/play/humour still residual)"
+        "Book 1 reading export · dinner-first opening · ends at Philippi · "
+        f"main @ {sha}"
     )
 
     full = build_doc(
