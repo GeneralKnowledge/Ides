@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage:** Research/architecture complete; **Book 1 first-pass draft** exists in `drafts/book1/` (Ch 1–34). Mid-tier **M1–M5** complete; Phase **1B/1C/1D/1F/1G** done; **1D.6** Gate B. Not publication-ready.
+**Stage:** Book 1 manuscript present in `drafts/book1/` (Ch 1–34, dinner-first). Development phases through house-style are complete (`archive/`). Not publication-ready. **Ends at Philippi.**
 
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
@@ -149,18 +149,19 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ---
 
-## Q. Recommended next stage
+## Q. Current project state
 
-Stages 2–4 foundation and Book 1 **first-pass prose** are **done**. Mid-tier **M1–M5** complete. Phase **1D–1G** complete (Gate B → house-style). Next: optional **1H** line edit / VERIFY. See `continuity/post_development_cold_read_1d6.md`.
+Book 1 **manuscript** (Ch 1–34) is present with dinner-first opening. Mid-tier expansion and later development phases (**1B–1G**) are **complete** — records live under `archive/`, not as the next-task list.
 
+Resume from the manuscript + `continuity/canon.md`. Optional later work (line edit, source VERIFY) is human judgment, not a queued phase plan.
 
-**Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; Book 1 ends at Philippi; close-third past tense.
+**Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; **Book 1 ends at Philippi**; close-third past tense.
 
-**Drafting / expansion entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `MUST_EXPRESS.md` + `CHAPTER_MAP.md` + `scene_cards/` + `continuity/mid_tier_pass_plan.md`.
+**Drafting entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `CHAPTER_MAP.md` + `story/scene_cards/` + `drafts/book1/`.
 
-**Audit idea coverage:** `writing/MUST_EXPRESS.md` and `writing/GAPS_AND_SUGGESTIONS.md`.
+**Idea coverage:** `writing/MUST_EXPRESS.md` and `writing/GAPS_AND_SUGGESTIONS.md`.
 
-Expand **one chapter at a time**; human-edit afterward. Do not one-shot the novel.
+Revise **one chapter or stitch at a time**. Do not one-shot the novel. Do not reopen completed archive plans as current work.
 
 ---
 
@@ -170,35 +171,17 @@ History constrains; mistakes matter; rumours err; characters lack future knowled
 
 ---
 
-## File tree
+## File tree (active)
 
 ```
-/docs/README.md
-/docs/INDEX.md
-/docs/executive_overview.md
-/research/historical_timeline.md
-/research/historical_sources.md
-/research/people.md
-/research/relationships.md
-/research/factions.md
-/research/locations.md
-/research/roman_daily_life.md
-/research/religion.md
-/research/economics.md
-/research/military.md
-/story/master_timeline.md
-/story/master_story_frame.md
-/story/information_network.md
-/story/mysteries.md
-/story/fictional_characters.md
-/story/pov_structure.md
-/story/consequence_chains.md
-/story/foreshadowing.md
-/story/historical_anchors.md
-/story/flexibility_zones.md
-/story/fan_theory_potential.md
-/continuity/canon.md
-/continuity/unresolved_questions.md
-/continuity/contradictions.md
-/continuity/future_research.md
+/README.md
+/docs/          entry + INDEX + this overview
+/drafts/book1/  manuscript (Ch 01–34)
+/continuity/    canon, questions, contradictions, future_research,
+                lock_architecture_audit, character_profiles/, expansion/
+/story/         architecture, beats, scene cards, mysteries, POV
+/writing/       drafting brief, chapter map, voice, reference
+/research/      historical evidence
+/archive/       completed plans, pass logs, reports
+/tools/         DOCX exporter
 ```

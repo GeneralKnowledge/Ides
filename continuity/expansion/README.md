@@ -1,8 +1,7 @@
 # Book 1 — Full Novel Expansion
 
-**Status:** Architecture live · Waves 1–3 + D22 fringe LANDED · **Integration Review 2.0** recommends *integrate-first*, not another deposit wave  
-**Branch lineage:** `cursor/novel-expansion-architecture-cb1d` → `cursor/expansion-integration-2-cb1d`  
-**Review:** [`expansion_integration_review.md`](expansion_integration_review.md)
+**Status:** Live architecture summaries for Book 1. Expansion deposit waves and Integration Review 2.0 are **complete** (see archive).  
+**Historical review:** [`expansion_integration_review.md`](../../archive/reports/expansion_integration_review.md)
 
 ---
 
@@ -14,7 +13,7 @@
 | [`act_summaries.md`](act_summaries.md) | Per-act dramatic question + **causal chains** |
 | [`subplot_tracks.md`](subplot_tracks.md) | T1–T7: promise, travel, payoff / open, engine intersect |
 | [`beat_deposit_map.md`](beat_deposit_map.md) | Beats + **disposition** (earned / under-integrated / …) |
-| [`expansion_integration_review.md`](expansion_integration_review.md) | Diagnosis 2.0, findings table, next action |
+| [`expansion_integration_review.md`](../../archive/reports/expansion_integration_review.md) | *(archive)* Diagnosis 2.0 — historical |
 | Character bible | [`../character_profiles/`](../character_profiles/) |
 
 ---
@@ -23,7 +22,7 @@
 
 1. **Architecture before dump.** Act summaries + subplot tracks + deposit map exist before *large new* prose dumps. Line fixes and INTEGRATE revisions of landed deposits do not require a new architecture pass.  
 2. **Want/cost first.** New scenes change someone’s next choice. No padding to hit LEN-1.  
-3. **Story-first craft laws still bind** ([`../story_first_intrigue_plan.md`](../story_first_intrigue_plan.md)): rooms, corridor truth, callbacks, humour, play, gravity — **no** `Three…` census / warehouse kit / craft “exit-complaint” stage-direction.  
+3. **Story-first craft laws still bind** ([`../story_first_intrigue_plan.md`](../../archive/plans/story_first_intrigue_plan.md)): rooms, corridor truth, callbacks, humour, play, gravity — **no** `Three…` census / warehouse kit / craft “exit-complaint” stage-direction.  
 4. **Subplots intersect Engines A/B** — they do not become a third mystery.  
 5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.  
 6. **Three novelist questions before any new beat.** What should the reader feel/wonder/understand? What human decision produces it? Why can’t existing prose do it? If any answer fails → **leave the manuscript alone.**
@@ -71,13 +70,13 @@ Passing these conditions means the expansion phase has stopped inventing materia
 
 **Review 2.0 verdict:** conditions 1–4 largely met on the spine; residual work was **integration revision** of under-integrated deposits.
 
-**IR-1 (Integration Revision 1.0):** P1 prose fixes landed — see [`../integration_revision_1_pass_log.md`](../integration_revision_1_pass_log.md). Re-apply this stopping rule before any new beat.
+**IR-1 (Integration Revision 1.0):** P1 prose fixes landed — see [`integration_revision_1_pass_log.md`](../../archive/pass_logs/integration_revision_1_pass_log.md). Re-apply this stopping rule before any new beat.
 
 ---
 
 ## Recommended next action
 
-**Re-apply stopping rule.** Optional P2 only (D12 tighten, Formiae→East echo). Default: leave the manuscript alone. No LEN-1 deposit wave.
+Default: **leave the manuscript alone** unless a reader-led problem appears. No LEN-1 deposit wave. No new expansion phase from this folder.
 
 ---
 

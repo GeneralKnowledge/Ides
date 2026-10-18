@@ -39,7 +39,7 @@ Left alone: Ch 28 field, Ch 31 Formiae.
 
 ## 3. Book-wide law sweep (not light)
 
-See `continuity/story_first_law_sweep_log.md`.
+See `story_first_law_sweep_log.md`.
 
 Active prose: Ch 2, 3, 6, 7, 12, 13, 17, 18, 20, 23, 28, 32 (+ continuity notes on the rest).  
 Ch 7 Fulvia folded (2 cameras). Ch 20 smoke-bridged (4 cameras retained but continuous).  

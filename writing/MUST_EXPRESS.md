@@ -4,7 +4,7 @@ Every item below must appear **in story behaviour**, not as essay narration. Edi
 
 **Authority:** Audit aid for behavioural coverage — **not** a forced inventory that forbids alternate scene delivery of the same requirement. Chapter citations below are evidence of landing, not permanent SC/chapter locks. See [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md).
 
-**Behaviour tick:** edit-pass / Ides read-through pass (`continuity/ides_readthrough.md`). Evidence = chapter where behaviour lands.
+**Behaviour tick:** edit-pass / Ides read-through pass (`../archive/pass_logs/ides_readthrough.md`). Evidence = chapter where behaviour lands.
 
 ---
 

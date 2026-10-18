@@ -1,70 +1,67 @@
-# Quick Index — Dramatic Needs → Files
+# Quick Index — Need → File
+
+Active working surface only. Completed plans and pass logs: [`../archive/`](../archive/).
+
+## Manuscript & guidance
+
+| If you need… | Go to… |
+|--------------|--------|
+| Current chapter prose | `drafts/book1/` |
+| Chapter ↔ scene-card map | `writing/CHAPTER_MAP.md` |
+| Drafting constraints | `writing/LLM_WRITING_BRIEF.md` |
+| Idea-coverage checklist | `writing/MUST_EXPRESS.md` |
+| Voice / tone samples | `writing/voice/` |
+| Soft chronology / Ides packs | `writing/reference/` |
+
+## Canon & continuity
+
+| If you need… | Go to… |
+|--------------|--------|
+| Locked fictional decisions | `continuity/canon.md` |
+| Lock tiers (protect ≠ immunity) | `continuity/lock_architecture_audit.md` |
+| Open questions | `continuity/unresolved_questions.md` |
+| Source conflicts to preserve | `continuity/contradictions.md` |
+| Research still worth doing | `continuity/future_research.md` |
+| Character profiles (full cast) | `continuity/character_profiles/` |
+| Expansion architecture summaries | `continuity/expansion/` |
+
+## Story architecture
 
 | If you need… | Go to… |
 |--------------|--------|
 | What must happen on the calendar | `story/historical_anchors.md`, `research/historical_timeline.md` |
 | What we can invent freely | `story/flexibility_zones.md` |
+| Act structure (no chapters) | `story/master_story_frame.md` |
+| Story-facing chronology | `story/master_timeline.md` |
+| Beat sheets | `story/beats/` |
+| Scene cards (info in/out) | `story/scene_cards/` |
+| Mysteries & ambiguity | `story/mysteries.md` |
+| How rumour moves | `story/information_network.md` |
+| Who knew what (14–15 Mar 44) | `story/ides_week_hour_map.md` |
+| Consequence chains | `story/consequence_chains.md` |
+| Plant / payoff | `story/foreshadowing.md` |
+| POV lock | `story/pov_lock.md`, `story/pov_structure.md` |
+| Fictional POV one-pagers | `story/characters/` |
+| SIDE-1 murder subplot | `story/side1_clue_schedule.md` |
+
+## Research
+
+| If you need… | Go to… |
+|--------------|--------|
 | Who a character is | `research/people.md`, `research/dossiers/` |
 | Conspirator roster + sources | `research/tables/conspirator_matrix.md` |
-| Who owes / loves / hates whom | `research/relationships.md` |
-| Overlapping political networks | `research/factions.md` |
-| How a rumour reaches the Forum | `story/information_network.md` |
-| Cicero as INF evidence | `research/cicero_letter_digest_44_43.md` |
-| Who knew what on 14–15 March 44 | `story/ides_week_hour_map.md`, `story/mysteries.md` |
-| Walking times in Rome | `research/rome_topography.md` |
-| Conspiracy as network (not scene) | `research/tables/conspirator_matrix.md`, `story/mysteries.md` |
-| Where scenes can be set | `research/locations.md`, `research/rome_topography.md` |
-| Food, baths, letters, etiquette | `research/roman_daily_life.md` |
-| Omens without confirmed magic | `research/religion.md` |
-| Money, debt, grain, patronage | `research/economics.md` |
-| Legions, veterans, travel of armies | `research/military.md` |
-| Source citations & disagreements | `research/historical_sources.md`, `continuity/contradictions.md` |
-| Plant-early / pay-off-late | `story/foreshadowing.md` |
-| Domino effects after events | `story/consequence_chains.md` |
-| POV design (locked) | `story/pov_lock.md`, `story/pov_structure.md` |
-| Fictional POV one-pagers | `story/characters/` |
-| Why invent a fictional person | `story/fictional_characters.md` |
-| Reader theory hooks | `story/fan_theory_potential.md` |
-| Act structure without chapters | `story/master_story_frame.md` |
-| Beat sheets (no prose) | `story/beats/` |
-| Scene cards (info in/out) | `story/scene_cards/` |
-| SIDE-1 murder subplot | `story/side1_clue_schedule.md` |
-| Citation verification | `research/citation_verification.md` |
-| Relationship edges (CSV) | `research/data/relationships.csv` |
-| **LLM first-pass drafting** | `writing/LLM_WRITING_BRIEF.md` |
-| **Draft prose (Book 1)** | `drafts/book1/` |
-| Draft-start decisions | `continuity/draft_start_decisions.md` |
-| Batch A screening report | `continuity/batch_a_screening.md` |
-| Batches B–D screening | `continuity/batch_bcd_screening.md` |
-| Edit pass 1 log | `continuity/edit_pass_1.md` |
-| Ides read-through log | `continuity/ides_readthrough.md` |
-| Will / funeral / Cinna sources | `writing/reference/will_funeral_cinna_pack.md` |
-| Octavian Apollonia news | `writing/reference/octavian_apollonia_pack.md` |
-| Ideas audit checklist | `writing/MUST_EXPRESS.md` |
-| Chapter map Ch 1–34 | `writing/CHAPTER_MAP.md` |
-| Gap status / suggestions | `writing/GAPS_AND_SUGGESTIONS.md` |
-| Voice gold sample | `writing/voice/SAMPLE_SC35_nysa.md` |
-| Spartacus + GRRM tone / GOT maps | `writing/voice/TONE_SPARTACUS_GRRM.md` |
-| F4 Batiatus humour chip | `writing/voice/SAMPLE_F4_batiatus_chip.md` |
-| POV diction | `writing/voice/POV_DICTION.md` |
-| Rome schematic map | `research/maps/rome_ides_schematic.svg` |
-| Domus Publica plan | `research/maps/domus_publica_plan.md` |
-| Soft dates (funeral / exits / Cleopatra) | `writing/reference/soft_chronology_pack.md` |
-| Ides morning Decimus + Dio omens | `writing/reference/ides_morning_sources.md` |
-| Philippi fog rules | `writing/reference/philippi_fog.md` |
-| Tier-B offices | `research/tables/tier_b_offices.md` |
-| Locked story decisions | `continuity/canon.md` |
-| Open questions | `continuity/unresolved_questions.md` |
-| What to research next | `continuity/future_research.md` |
-| Mid-tier expansion plan (1A + locks) | `continuity/mid_tier_pass_plan.md` |
-| Phase 1B whole-manuscript editorial diagnosis | `continuity/editorial_diagnosis_1b.md` |
-| Craft editorial pass 1C (20-book synthesis) | `continuity/craft_editorial_pass_1c.md` |
-| Phase 1D.1 Mutina/Decimus scene plan | `continuity/phase_1d1_mutina_plan.md` |
-| Phase 1D.2 Philippi scene plan | `continuity/phase_1d2_philippi_plan.md` |
-| Phase 1D.3 connective scene plan | `continuity/phase_1d3_connective_plan.md` |
-| Phase 1D.4 pre-Ides earning scene plan | `continuity/phase_1d4_pre_ides_plan.md` |
-| Phase 1D.5 name-war scene plan | `continuity/phase_1d5_name_war_plan.md` |
-| Phase 1F Bononia I2 + E3 plan | `continuity/phase_1f_bononia_e3_plan.md` |
-| Phase 1D.6 post-development cold read | `continuity/post_development_cold_read_1d6.md` |
-| Phase 1G house-style plan | `continuity/phase_1g_house_style_plan.md` |
+| Relationships / factions | `research/relationships.md`, `research/factions.md` |
+| Locations / topography | `research/locations.md`, `research/rome_topography.md` |
+| Daily life / religion / economics / military | `research/roman_daily_life.md`, `religion.md`, `economics.md`, `military.md` |
+| Sources & disagreements | `research/historical_sources.md` |
+| Cicero letters / Mutina index | `research/cicero_letter_digest_44_43.md`, `research/mutina_letters_index.md` |
+| Maps | `research/maps/` |
 
+## History (not next tasks)
+
+| If you need… | Go to… |
+|--------------|--------|
+| Completed pass logs | `archive/pass_logs/` |
+| Finished phase plans | `archive/plans/` |
+| Editorial audits & cold reads | `archive/reports/` |
+| Why the archive exists | `archive/README.md` |

@@ -4,7 +4,7 @@
 **Scope:** Expand lean Book 1 chapters to mid-tier prose density; fix continuity/docs hygiene; deepen story *within* existing scene cards and canon.  
 **Out of scope:** Novel-length rewrite to LEN-1 (90–130k); structure surgery (new acts, reopened A-locks, SIDE-1b crown, Actium).
 
-**Related:** [batch_bcd_screening.md](batch_bcd_screening.md) · [future_research.md](future_research.md) · [canon.md](canon.md) · [writing/CHAPTER_MAP.md](../writing/CHAPTER_MAP.md) · [writing/MUST_EXPRESS.md](../writing/MUST_EXPRESS.md)
+**Related:** [batch_bcd_screening.md](../pass_logs/batch_bcd_screening.md) · [future_research.md](../../continuity/future_research.md) · [canon.md](../../continuity/canon.md) · [writing/CHAPTER_MAP.md](../../writing/CHAPTER_MAP.md) · [writing/MUST_EXPRESS.md](../../writing/MUST_EXPRESS.md)
 
 ---
 
@@ -133,9 +133,9 @@ Before marking a chapter mid-tier done:
 
 | # | Task | File(s) | Done when |
 |---|------|---------|-----------|
-| H1 | **SC-32** — draft Cicero “blind calm” as a short beat inside Ch 13 (or Ch 12 if length prefers) | [drafts/book1/ch13_go.md](../drafts/book1/ch13_go.md), [writing/CHAPTER_MAP.md](../writing/CHAPTER_MAP.md), [story/scene_cards/act2_cards.md](../story/scene_cards/act2_cards.md) | SC-32 prose present; map lists it; ENTER/EXIT = elite rumour only, still not ops |
-| H2 | Fix dossier INDEX paths for D08–D15 | [research/dossiers/INDEX.md](../research/dossiers/INDEX.md) | Links point at `compressed_d08_d15.md` (or split files restored) |
-| H3 | Log this plan as next stage | [continuity/future_research.md](future_research.md), [docs/INDEX.md](../docs/INDEX.md) | Links work |
+| H1 | **SC-32** — draft Cicero “blind calm” as a short beat inside Ch 13 (or Ch 12 if length prefers) | [drafts/book1/ch13_go.md](../../drafts/book1/ch13_go.md), [writing/CHAPTER_MAP.md](../../writing/CHAPTER_MAP.md), [story/scene_cards/act2_cards.md](../../story/scene_cards/act2_cards.md) | SC-32 prose present; map lists it; ENTER/EXIT = elite rumour only, still not ops |
+| H2 | Fix dossier INDEX paths for D08–D15 | [research/dossiers/INDEX.md](../../research/dossiers/INDEX.md) | Links point at `compressed_d08_d15.md` (or split files restored) |
+| H3 | Log this plan as next stage | [continuity/future_research.md](../../continuity/future_research.md), [docs/INDEX.md](../../docs/INDEX.md) | Links work |
 
 **SC-32 craft note:** This beat is pure Cron/McKee — Cicero’s misbelief that the city is still a letter problem. Keep him brilliant and wrong (C7). No dagger knowledge.
 
@@ -217,7 +217,7 @@ Ch **7, 9, 14–20, 22, 24** — already mid/thick.
 - [x] All Batch M1–M4 chapters in target band  
 - [x] Batch M5 TODO_EDITOR cleared or explicitly deferred in edit log  
 - [x] MUST_EXPRESS A–G re-ticked with chapter evidence for dramatization  
-- [x] `continuity/mid_tier_pass_log.md` started (one row per chapter: before/after words, notes)  
+- [x] `../pass_logs/mid_tier_pass_log.md` started (one row per chapter: before/after words, notes)  
 - [x] No canon lock broken; SIDE-1b still OPEN-0; SERIES-1 held  
 
 ---

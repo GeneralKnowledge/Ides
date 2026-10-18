@@ -311,9 +311,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 10. **Soft-joint densify:** **Done** — Ch 20/34 gravity; Ch 25 humour; Ch 30 Seia play; exporter landed — see `soft_joint_densify_pass_log.md`.  
 11. **Full novel expansion architecture:** **Done (docs)** — `continuity/expansion/` + deepened character bible + subplot tracks + deposit map.  
 12. **Prose deposit waves:** Waves 1–3 + D22 fringe **LANDED** (~50.7k).  
-13. **Expansion Integration Review 2.0:** [`continuity/expansion/expansion_integration_review.md`](expansion/expansion_integration_review.md) — stopping rule in expansion README; **no** new deposit wave toward LEN-1.  
-14. **Integration Revision 1.0:** [`continuity/integration_revision_1_pass_log.md`](integration_revision_1_pass_log.md) — P1 prose fixes done (D2/D16/D5/Nysa wax/Ch 29 soft-ally). Not finished-line.  
-13. Short log updates in `continuity/story_first_pass_log.md`.
+13. **Expansion Integration Review 2.0:** [`archive/reports/expansion_integration_review.md`](../reports/expansion_integration_review.md) — stopping rule in expansion README; **no** new deposit wave toward LEN-1.  
+14. **Integration Revision 1.0:** [`../pass_logs/integration_revision_1_pass_log.md`](../pass_logs/integration_revision_1_pass_log.md) — P1 prose fixes done (D2/D16/D5/Nysa wax/Ch 29 soft-ally). Not finished-line.  
+13. Short log updates in `../pass_logs/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  

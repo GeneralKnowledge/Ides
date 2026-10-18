@@ -1,7 +1,7 @@
 # Story-First Pass Log — S-A0 / S-A1 / S-A2 / S-B1
 
 **Date:** 2026-10-18  
-**Plan:** `continuity/story_first_intrigue_plan.md`  
+**Plan:** `../plans/story_first_intrigue_plan.md`  
 **Author clarification:** Examples (nickname, Cleopatra, Brutus room, humour, etc.) are **general laws** for the whole book. Pass instance fixes are seeds/method proofs — **not** “done because one callback exists.”  
 
 ---

@@ -1,6 +1,6 @@
 # Mid-Tier Pass Log
 
-Track expansions against [`mid_tier_pass_plan.md`](mid_tier_pass_plan.md).  
+Track expansions against [`mid_tier_pass_plan.md`](../plans/mid_tier_pass_plan.md).  
 Prose words = body only (strip headers / card meta / continuity bullets) when practical.
 
 | Ch | Before | After | Batch | Notes |

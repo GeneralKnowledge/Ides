@@ -17,7 +17,7 @@
 - `story/historical_anchors.md`, `flexibility_zones.md`, `pov_lock.md`, `pov_structure.md`, `mysteries.md`
 - `writing/CHAPTER_MAP.md`, `MUST_EXPRESS.md`, `LLM_WRITING_BRIEF.md`
 - `continuity/expansion/` (README, summaries, tracks, deposit map, integration review)
-- `continuity/integration_revision_1_pass_log.md`
+- `../archive/pass_logs/integration_revision_1_pass_log.md`
 - Spot: `deep_craft_audit.md` §7 exclude list; `story_first_intrigue_plan.md` / shortfall hold-locks; `mid_tier_pass_plan.md` non-goals
 
 ### Rule families
@@ -199,7 +199,7 @@ Already well-designed (Acceptable / Unacceptable columns). **No change of substa
 | `writing/CHAPTER_MAP.md` | Map = preferred units; IR-1 flags cleaned |
 | `writing/LLM_WRITING_BRIEF.md` | Pointer to lock tiers / this audit |
 | `writing/MUST_EXPRESS.md` | One-line authority: checklist ≠ forced scene inventory |
-| `continuity/deep_craft_audit.md` | §7 exclude list marked as pass snapshot; pointer to this audit |
+| `../archive/reports/deep_craft_audit.md` | §7 exclude list marked as pass snapshot; pointer to this audit |
 | `continuity/lock_architecture_audit.md` | This file |
 
 **Not rewritten wholesale:** flexibility zones, mysteries.md (already ambiguity-friendly), integration review / pass-log historical text.

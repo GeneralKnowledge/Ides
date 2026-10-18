@@ -410,9 +410,9 @@ Missing scenes that would justify words: at most **one Decimus interstitial** an
 
 - Chapters: `drafts/book1/ch01_*.md` … `ch34_*.md` (34 files)  
 - Plans: `continuity/phase_1d{1,2,3,4,5}_*.md`, `phase_1f_bononia_e3_plan.md`  
-- Prior diagnosis: `continuity/editorial_diagnosis_1b.md` (hypotheses retested)  
-- Craft method: `continuity/craft_editorial_pass_1c.md`  
+- Prior diagnosis: `editorial_diagnosis_1b.md` (hypotheses retested)  
+- Craft method: `craft_editorial_pass_1c.md`  
 - Canon / map / express: `continuity/canon.md`, `writing/CHAPTER_MAP.md`, `writing/MUST_EXPRESS.md`  
-- Logs: `continuity/mid_tier_pass_log.md`, `continuity/future_research.md`  
+- Logs: `../pass_logs/mid_tier_pass_log.md`, `continuity/future_research.md`  
 
 *End of Phase 1D.6 cold read.*

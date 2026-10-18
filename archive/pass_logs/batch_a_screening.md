@@ -86,7 +86,7 @@ Batch A is **structurally sound** against anchors A5–A8 and locked mysteries.
 |------|------|
 | Will / funeral / Cinna | `writing/reference/will_funeral_cinna_pack.md` |
 | Octavian Apollonia news | `writing/reference/octavian_apollonia_pack.md` |
-| This report | `continuity/batch_a_screening.md` |
+| This report | `batch_a_screening.md` |
 
 ---
 

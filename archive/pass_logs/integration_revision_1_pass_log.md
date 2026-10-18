@@ -3,7 +3,7 @@
 **Date:** 2026-10-18  
 **Branch:** `cursor/integration-revision-1-cb1d`  
 **Base HEAD:** `9e30409` (Integration Review 2.0 on `main`)  
-**Authority:** [`continuity/expansion/expansion_integration_review.md`](expansion/expansion_integration_review.md)  
+**Authority:** [`archive/reports/expansion_integration_review.md`](../reports/expansion_integration_review.md)  
 **Pass type:** Focused prose revision of landed material. **No new scenes, chapters, beat IDs, or mystery engines.**
 
 ---

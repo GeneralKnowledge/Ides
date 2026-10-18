@@ -1,36 +1,47 @@
-# Drafts — Book 1 First Pass (Complete)
+# Drafts — Book 1 Manuscript
 
-All chapters Ch 1–34 present as first-pass prose for human edit. Canon and scene cards still govern.
+**Authoritative prose for what is presently written.** Canon and scene cards still constrain invention; the chapters govern what is on the page.
 
-## Order written
-1. Batch A Ch 14–20 (voice test / Ides) — screened  
-2. Batch B+bridge Ch 21–27  
-3. Batch C Ch 28–34  
-4. Batch D fill Ch 1–13  
+Book 1: 34 chapters, dinner-first opening (late-46 clemency dinner as Ch 1). Ends at Philippi.
 
-## Index
+## Chapter index
 
-| Ch | File | Cards |
-|----|------|-------|
-| 1 | `ch01_cato_and_spectacle.md` | SC-01–02 |
-| 2 | `ch02_debt.md` | SC-03–04 |
-| 3 | `ch03_munda.md` | SC-05–06 |
-| 4 | `ch04_clemency_whisper.md` | SC-07–09 |
-| 5 | `ch05_octavian_edge.md` | SC-10–11 |
-| 6 | `ch06_perpetuo.md` | SC-12–14 |
-| 7 | `ch07_lupercalia.md` | SC-15–16 |
-| 8 | `ch08_recruitment.md` | SC-20–21 |
-| 9 | `ch09_spare_antony.md` | SC-22–23 |
-| 10 | `ch10_side1.md` | SC-24–25b |
-| 11 | `ch11_omens_manufactured.md` | SC-26–27 |
-| 12 | `ch12_dread_fragment.md` | SC-28–30 |
-| 13 | `ch13_go.md` | SC-31,33–34 |
-| 14–20 | `ch14`…`ch20` | Batch A (screened) |
-| 21–27 | `ch21`…`ch27` | Name → Mutina |
-| 28–34 | `ch28`…`ch34` | War → Philippi |
+| Ch | File |
+|----|------|
+| 1 | `book1/ch01_clemency_dinner.md` |
+| 2 | `book1/ch02_cato_and_spectacle.md` |
+| 3 | `book1/ch03_debt.md` |
+| 4 | `book1/ch04_munda_and_soft_chains.md` |
+| 5 | `book1/ch05_octavian_edge.md` |
+| 6 | `book1/ch06_perpetuo.md` |
+| 7 | `book1/ch07_lupercalia.md` |
+| 8 | `book1/ch08_recruitment.md` |
+| 9 | `book1/ch09_spare_antony.md` |
+| 10 | `book1/ch10_side1.md` |
+| 11 | `book1/ch11_omens_manufactured.md` |
+| 12 | `book1/ch12_dread_fragment.md` |
+| 13 | `book1/ch13_go.md` |
+| 14 | `book1/ch14_the_house_wakes_wrong.md` |
+| 15 | `book1/ch15_the_litter_and_the_portico.md` |
+| 16 | `book1/ch16_the_curia.md` |
+| 17 | `book1/ch17_capitol_and_amnesty.md` |
+| 18 | `book1/ch18_paper_and_heirs.md` |
+| 19 | `book1/ch19_funeral_and_cinna.md` |
+| 20 | `book1/ch20_smoke_and_distance.md` |
+| 21 | `book1/ch21_letters_and_lanuvium.md` |
+| 22 | `book1/ch22_the_name.md` |
+| 23 | `book1/ch23_prices_and_cowards.md` |
+| 24 | `book1/ch24_antium.md` |
+| 25 | `book1/ch25_philippics_and_ships.md` |
+| 26 | `book1/ch26_provinces_and_shadows.md` |
+| 27 | `book1/ch27_mutina_begins.md` |
+| 28 | `book1/ch28_mutina_field.md` |
+| 29 | `book1/ch29_isolation_and_fasces.md` |
+| 30 | `book1/ch30_lists.md` |
+| 31 | `book1/ch31_cicero.md` |
+| 32 | `book1/ch32_eastern_ledger.md` |
+| 33 | `book1/ch33_philippi_i.md` |
+| 34 | `book1/ch34_philippi_ii_and_hooks.md` |
 
-**Start decisions:** `continuity/draft_start_decisions.md`  
-**Screening:** `batch_a_screening.md` + `batch_bcd_screening.md`  
-**Edit pass 1:** `continuity/edit_pass_1.md` — priority chapters polished  
-
-**Read first:** Ch 14–20, then 7 · 9 · 16 · 19 · 24 · 31 · 33–34 (all edit pass 1).
+Scene-card map: [`../writing/CHAPTER_MAP.md`](../writing/CHAPTER_MAP.md).  
+Export: `python tools/export_book1_docx.py`.

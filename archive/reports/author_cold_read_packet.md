@@ -4,7 +4,7 @@
 **Not a substitute for reading.** Hypotheses are questions, not assigned repairs.  
 **Prepared:** 2026-10-17  
 **Companion audits (do not rewrite while reading):**  
-`continuity/final_pre_review_audit.md` (Gate C) · `continuity/final_dramatic_engagement_audit.md` · `continuity/post_development_cold_read_1d6.md`
+`final_pre_review_audit.md` (Gate C) · `final_dramatic_engagement_audit.md` · `post_development_cold_read_1d6.md`
 
 ---
 
@@ -255,7 +255,7 @@ Material that should remain unchanged:
 
 ## G. Post-Read Revision Candidates
 
-From `continuity/final_dramatic_engagement_audit.md` §6. **All unconfirmed** until your notes say otherwise. You may reject any item if the scene works for you. Do not expand this list with new speculative projects during the read.
+From `final_dramatic_engagement_audit.md` §6. **All unconfirmed** until your notes say otherwise. You may reject any item if the scene works for you. Do not expand this list with new speculative projects during the read.
 
 ### P1 (high value — revisit only if your read confirms)
 

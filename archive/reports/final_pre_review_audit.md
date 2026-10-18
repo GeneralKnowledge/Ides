@@ -15,7 +15,7 @@
 | Working tree | Clean of tracked changes; untracked `exports/` (DOCX review artifact only — not part of manuscript) |
 | Chapter files | **34 / 34** under `drafts/book1/ch01_*.md` … `ch34_*.md` |
 | Body word count (see §F) | **30,057** |
-| Last whole-manuscript review | `continuity/post_development_cold_read_1d6.md` at `c40bd24` (pre-1G) |
+| Last whole-manuscript review | `post_development_cold_read_1d6.md` at `c40bd24` (pre-1G) |
 | Changes since that review | Phase **1G** house-style + light P1 micro-seeds (`fa43923`) |
 
 ### Completed development sequence (verified in `continuity/future_research.md` + logs)
@@ -32,7 +32,7 @@
 
 ### Documents examined
 
-`README.md`; `docs/INDEX.md`; `docs/README.md`; `docs/executive_overview.md`; `continuity/editorial_diagnosis_1b.md`; `continuity/craft_editorial_pass_1c.md`; `continuity/future_research.md`; `continuity/mid_tier_pass_log.md`; `continuity/post_development_cold_read_1d6.md`; all `phase_1d{1–5}_*.md`, `phase_1f_*.md`, `phase_1g_*.md`; `continuity/canon.md`; `continuity/unresolved_questions.md`; `writing/CHAPTER_MAP.md`; `writing/MUST_EXPRESS.md`; all 34 chapter drafts in reading order (spot-verified post-1G deltas; full prior cold read at 1D.6 retested against current HEAD).
+`README.md`; `docs/INDEX.md`; `docs/README.md`; `docs/executive_overview.md`; `editorial_diagnosis_1b.md`; `craft_editorial_pass_1c.md`; `continuity/future_research.md`; `../pass_logs/mid_tier_pass_log.md`; `post_development_cold_read_1d6.md`; all `phase_1d{1–5}_*.md`, `phase_1f_*.md`, `phase_1g_*.md`; `continuity/canon.md`; `continuity/unresolved_questions.md`; `writing/CHAPTER_MAP.md`; `writing/MUST_EXPRESS.md`; all 34 chapter drafts in reading order (spot-verified post-1G deltas; full prior cold read at 1D.6 retested against current HEAD).
 
 **Limitation:** This audit re-verifies counts, locks, and 1G-affected passages against HEAD; it does not pretend every sentence of Ch 1–34 was re-read line-by-line in this sitting. Where 1D.6 findings are carried forward, they are marked as **retested** or **updated after 1G**.
 

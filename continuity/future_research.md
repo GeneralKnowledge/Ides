@@ -1,4 +1,6 @@
-# Future Research & Next Stage
+# Future Research & Development Checklist
+
+Most items below are **complete**. Treat this as a checklist and research backlog, not a queue of unfinished expansion phases. Historical phase plans: [`../archive/plans/`](../archive/plans/).
 
 ## Completed — Stages 2–4 (foundation + draft-ready pack)
 
@@ -49,7 +51,7 @@
 ## Recommended next
 
 ### 0. Mid-tier expansion pass (LOCKED approach)
-See **[`continuity/mid_tier_pass_plan.md`](mid_tier_pass_plan.md)** · log: [`mid_tier_pass_log.md`](mid_tier_pass_log.md)  
+See **[`../archive/plans/mid_tier_pass_plan.md`](../archive/plans/mid_tier_pass_plan.md)** · log: [`mid_tier_pass_log.md`](../archive/pass_logs/mid_tier_pass_log.md)  
 Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside locks**.  
 - [x] Hygiene: SC-32 in Ch 13; dossier INDEX fixed  
 - [x] **Batch M1** Act 2 bridge: Ch 8, 10–13 expanded  
@@ -59,32 +61,32 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] **Batch M5** gold polish (Ch 7, 9, 14–20, 22, 24): TODO_EDITOR cleared/deferred; Ch 22/24 strengthened; voice/compress pass
 
 ### 0b. Phase 1B — Whole-manuscript editorial diagnosis — COMPLETE
-See **[`continuity/editorial_diagnosis_1b.md`](editorial_diagnosis_1b.md)** (~26.2k prose).  
+See **[`../archive/reports/editorial_diagnosis_1b.md`](../archive/reports/editorial_diagnosis_1b.md)** (~26.2k prose).  
 Verdict: mid-tier 1A complete; manuscript not yet novel-form.
 
 ### 0c. Craft Editorial Pass 1C — COMPLETE
-See **[`continuity/craft_editorial_pass_1c.md`](craft_editorial_pass_1c.md)** (twenty-book craft synthesis; analysis only).  
+See **[`../archive/reports/craft_editorial_pass_1c.md`](../archive/reports/craft_editorial_pass_1c.md)** (twenty-book craft synthesis; analysis only).  
 Adds prose/scene/psychology method; renames former “1C development” → **Phase 1D** to avoid label collision.
 
 ### 1. Phase 1D — Consequence ordeal development
 Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
-- [x] **1D.1** Mutina / Decimus cost — Ch 26–29 (`phase_1d1_mutina_plan.md`)  
-- [x] **1D.2** Philippi ordeal — Ch 33–34 (`phase_1d2_philippi_plan.md`)  
-- [x] **1D.3** Selective connective — Ch 25, 30, 32 (`phase_1d3_connective_plan.md`)  
-- [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 (`phase_1d4_pre_ides_plan.md`)  
-- [x] **1D.5** Name-war friction — Ch 21, 22, 24 (`phase_1d5_name_war_plan.md`)  
+- [x] **1D.1** Mutina / Decimus cost — Ch 26–29 ([`phase_1d1_mutina_plan.md`](../archive/plans/phase_1d1_mutina_plan.md))  
+- [x] **1D.2** Philippi ordeal — Ch 33–34 ([`phase_1d2_philippi_plan.md`](../archive/plans/phase_1d2_philippi_plan.md))  
+- [x] **1D.3** Selective connective — Ch 25, 30, 32 ([`phase_1d3_connective_plan.md`](../archive/plans/phase_1d3_connective_plan.md))  
+- [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 ([`phase_1d4_pre_ides_plan.md`](../archive/plans/phase_1d4_pre_ides_plan.md))  
+- [x] **1D.5** Name-war friction — Ch 21, 22, 24 ([`phase_1d5_name_war_plan.md`](../archive/plans/phase_1d5_name_war_plan.md))  
 
 ### 1b. Phase 1F — Bononia I2 + E3 local craft — COMPLETE
-See **[`continuity/phase_1f_bononia_e3_plan.md`](phase_1f_bononia_e3_plan.md)**  
+See **[`../archive/plans/phase_1f_bononia_e3_plan.md`](../archive/plans/phase_1f_bononia_e3_plan.md)**  
 - [x] **I2** Proscription peak — Ch 30 deepen  
 - [x] **E3** Ch 7 POV borders; Ch 12 muddy NOTE-1; Ch 1/28 future-leans  
 
 ### 1c. Phase 1D.6 — Post-development cold read — COMPLETE
-See **[`continuity/post_development_cold_read_1d6.md`](post_development_cold_read_1d6.md)**  
+See **[`../archive/reports/post_development_cold_read_1d6.md`](../archive/reports/post_development_cold_read_1d6.md)**  
 Verdict: **Gate B** — structure sound for targeted house-style pass; no P0 ordeal wave; 45–70k retired as success gate (~29.9k body, quality > quota).
 
 ### 2. Phase 1G — Targeted house-style pass — COMPLETE
-See **[`continuity/phase_1g_house_style_plan.md`](phase_1g_house_style_plan.md)**  
+See **[`../archive/plans/phase_1g_house_style_plan.md`](../archive/plans/phase_1g_house_style_plan.md)**  
 - [x] Non-native *weather/filed/was how* cut (preserve F4/OCT/Nysa/Laberius + Ch 14 SAMPLE-1)  
 - [x] Soft future borders; Laberius opener variance; SC-95 / Bononia thesis soft  
 - [x] Light P1-b/c/e micro-seeds (Decimus Plancus silence; Plancus tablet; Brutus purse refuse)  
