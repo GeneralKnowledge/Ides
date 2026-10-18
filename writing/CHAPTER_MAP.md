@@ -90,7 +90,7 @@ After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `co
 
 ## Expansion deposits (architecture-first)
 
-See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md) and [`continuity/expansion/expansion_integration_review.md`](../continuity/expansion/expansion_integration_review.md).  
+See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md) and [`archive/reports/expansion_integration_review.md`](../archive/reports/expansion_integration_review.md).  
 Update this map only after beats are marked **LANDED** there. Review 2.0: **integrate-first**; no new wave toward LEN-1.
 
 | Wave | Chapters | LANDED IDs | Integration flags |

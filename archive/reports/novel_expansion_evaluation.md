@@ -78,7 +78,7 @@ Gate C P1 mid-band / Decimus gap / Lanuvium stasis: addressed in the same pass. 
 
 ## 5. Zone map (Acts / six cold-read sections)
 
-Aligned with `continuity/author_cold_read_packet.md` §D.
+Aligned with `author_cold_read_packet.md` §D.
 
 | Zone | Chapters | What already carries | Where it still thins (provisional) |
 |------|----------|----------------------|-------------------------------------|
@@ -302,7 +302,7 @@ Use while finishing Ch 1–34. Mark each backlog ID. Do not diagnose mid-chapter
 | Q6 repeated patterns? | Preference craft, not expansion |
 | Q7 humour on/off? | Constraint on X2; never open humour-off zones |
 
-Copy the chapter-note template from `continuity/author_cold_read_packet.md` §E for raw reactions.
+Copy the chapter-note template from `author_cold_read_packet.md` §E for raw reactions.
 
 ---
 

@@ -1,0 +1,16 @@
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Generated reading exports (tool writes here; do not commit)
+exports/
+*.docx
+
+# Editor / local
+.cursor/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc

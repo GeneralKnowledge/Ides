@@ -1,28 +1,22 @@
-# Writing Pack — Index
+# Writing — Current Drafting Guidance
 
-For LLM first-pass drafting (human edit afterward).
+Concise, actionable conventions for continuing Book 1. Historical development plans live in [`../archive/`](../archive/).
 
 | File | Purpose |
 |------|---------|
-| `LLM_WRITING_BRIEF.md` | **Master constraints** — read first |
-| `MUST_EXPRESS.md` | Audit checklist of project ideas |
-| `CHAPTER_MAP.md` | Ch 1–34 ← scene cards |
-| `SCENE_TEMPLATE.md` | Output format per scene |
-| `STARTER_PROMPT.md` | Paste prompt for one chapter |
-| `STYLE_GLOSSARY.md` | Diction, Latin, VOICE-1 |
-| `NAMES_MINOR_CAST.md` | Frozen D names (expanded) |
-| `GAPS_AND_SUGGESTIONS.md` | Gap status + drafting suggestions |
-| `voice/SAMPLE_SC35_nysa.md` | **Tone gold sample** |
-| `voice/TONE_SPARTACUS_GRRM.md` | Spartacus + GRRM; GOT→Roman personality maps |
-| `voice/SAMPLE_F4_batiatus_chip.md` | Unintentional ego-humour calibration |
-| `voice/POV_DICTION.md` | Says / never says per POV (+ humour) |
-| `reference/soft_chronology_pack.md` | Funeral / exits / Cleopatra soft dates |
-| `reference/ides_morning_sources.md` | Decimus persuasion + Dio house omens |
-| `reference/philippi_fog.md` | Battle fog rules (no fake OB) |
-| `reference/` | Also: dreams, coins, proscriptions, games |
+| [`LLM_WRITING_BRIEF.md`](LLM_WRITING_BRIEF.md) | **Master constraints** — read first |
+| [`CHAPTER_MAP.md`](CHAPTER_MAP.md) | Ch 1–34 ↔ scene cards (dinner-first order) |
+| [`MUST_EXPRESS.md`](MUST_EXPRESS.md) | Idea-coverage checklist |
+| [`SCENE_TEMPLATE.md`](SCENE_TEMPLATE.md) | Output format per scene |
+| [`STYLE_GLOSSARY.md`](STYLE_GLOSSARY.md) | Diction, Latin, VOICE-1 |
+| [`NAMES_MINOR_CAST.md`](NAMES_MINOR_CAST.md) | Frozen minor names |
+| [`GAPS_AND_SUGGESTIONS.md`](GAPS_AND_SUGGESTIONS.md) | Gap status |
+| [`STARTER_PROMPT.md`](STARTER_PROMPT.md) | One-chapter paste prompt (historical first-pass) |
+| [`voice/`](voice/) | Tone gold, POV diction, humour chips |
+| [`reference/`](reference/) | Soft chronology, Ides packs, Philippi fog, etc. |
 
-**Maps:** `research/maps/` (SVG + Domus plan)  
-**Letters:** `research/mutina_letters_index.md`  
-**Offices:** `research/tables/tier_b_offices.md`
+**Manuscript:** [`../drafts/book1/`](../drafts/book1/)  
+**Canon:** [`../continuity/canon.md`](../continuity/canon.md)  
+**Research:** [`../research/`](../research/)
 
-**Generate one chapter at a time.** Do not one-shot the novel. Prefer Batch A (Ch 14–19) first.
+Generate or revise **one chapter (or stitch) at a time**. Do not one-shot the novel. Do not treat archived phase plans as the current to-do list.

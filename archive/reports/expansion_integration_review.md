@@ -19,10 +19,10 @@
 
 ### Surrounding authorities (read / spot-check)
 - `continuity/canon.md` (locks: AMB-1, NOTE-1, SIDE-1 OPEN-0, CLEO-1, LEN-1, OCT≠Augustus)
-- `continuity/story_first_intrigue_plan.md` (next-phase pointers)
-- `continuity/story_first_pass_log.md` / `story_first_shortfall_review.md`
-- `continuity/deep_craft_audit.md` / `anti_formula_densify_pass_log.md`
-- `continuity/novel_expansion_evaluation.md`
+- `../plans/story_first_intrigue_plan.md` (next-phase pointers)
+- `../pass_logs/story_first_pass_log.md` / `story_first_shortfall_review.md`
+- `deep_craft_audit.md` / `anti_formula_densify_pass_log.md`
+- `novel_expansion_evaluation.md`
 - `writing/CHAPTER_MAP.md`
 - Character profiles under `continuity/character_profiles/` (index + principals as bible context)
 

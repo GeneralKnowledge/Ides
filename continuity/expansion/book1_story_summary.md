@@ -58,4 +58,4 @@ Brutus dead without arranged posture; Cassius already ended on a lie; Antony dru
 ## Expansion vs completion
 
 LEN-1 (90–130k soft) and the old ~55–70k intermediate band are **scale records**, not story-completion criteria.  
-Expansion pauses when the [stopping rule](README.md) is met — currently: **integrate landed deposits first**, then stop inventing material without a beat that answers the three novelist questions. See [`expansion_integration_review.md`](expansion_integration_review.md).
+Expansion pauses when the [stopping rule](README.md) is met — currently: **integrate landed deposits first**, then stop inventing material without a beat that answers the three novelist questions. See [`expansion_integration_review.md`](../../archive/reports/expansion_integration_review.md).

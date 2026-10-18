@@ -129,7 +129,7 @@ Checks performed after edits:
 Caveats (not blockers):
 
 1. This pass implemented the justified high-priority mechanisms; it did **not** re-audit the whole manuscript line-by-line after 1G.  
-2. Use `continuity/author_cold_read_packet.md` as a reading aid for reaction notes — its revision candidates are now partly addressed; treat the packet as historical context, not an instruction to re-edit.  
+2. Use `author_cold_read_packet.md` as a reading aid for reaction notes — its revision candidates are now partly addressed; treat the packet as historical context, not an instruction to re-edit.  
 3. Do **not** launch another speculative expansion, humour quota, or structural pass unless the author’s notes identify a material defect.
 
 **Stop revising. Read.**

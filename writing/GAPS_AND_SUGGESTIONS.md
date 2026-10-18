@@ -36,7 +36,7 @@ Anchors · canon locks · scene cards 1–5 · chapter map · MUST_EXPRESS · LL
 ---
 
 ## Drafting begun → first pass complete
-- Start decisions: `continuity/draft_start_decisions.md`  
+- Start decisions: `../archive/plans/draft_start_decisions.md`  
 - **All Ch 1–34:** `drafts/book1/`  
 - Batches A–D screened; set-pieces F1–F12 ticked; edit phase next
 

@@ -36,4 +36,4 @@ Human-quality polish on the priority list from `batch_bcd_screening.md`, plus co
 - Full MUST_EXPRESS behaviour tick sheet for A–E rows  
 
 ## Reader path now
-Prefer **edit pass 1 + Ides read-through** chapters first; others remain valid first-pass. See `continuity/ides_readthrough.md`.
+Prefer **edit pass 1 + Ides read-through** chapters first; others remain valid first-pass. See `ides_readthrough.md`.

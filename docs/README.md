@@ -1,84 +1,47 @@
-# The Ides of March — Historical Fiction Foundation
+# Ides of March — Project Entry
 
-**Project:** Large-scale historical fiction centred on Julius Caesar’s assassination (Ides of March, 44 BC) and the final years of the Roman Republic (c. 46–42 BC, with framework extending toward Actium/Principate).
+Large-scale historical fiction centred on Caesar’s assassination (Ides of March, 44 BC) and the collapse of the Republic through Philippi (42 BC).
 
-**Stage:** Research foundation **plus** Book 1 first-pass draft (Ch 1–34) in `drafts/book1/`. Mid-tier **M1–M5** complete; Phase **1B/1C/1D/1F** logged; **1D.6** Gate B; **1G** house-style complete (next: optional 1H line edit). Not publication-ready.
+**Intended feel:** Political ensemble with incomplete information, competing private interests, and consequences nobody fully controls — historically constrained.
 
+**Stage:** Book 1 manuscript present (`drafts/book1/`, Ch 1–34). Development phases through house-style are complete; see [`../archive/`](../archive/) for that history. Resume from manuscript + canon.
 
-**Intended feel:** Sprawling political ensemble with incomplete information, competing loyalties, espionage, and long consequence chains — historically constrained, not fantasy-Rome-as-Westeros.
+**Book 1 ends at Philippi.** Later Actium/Principate material is series framework only.
 
 ---
 
-## Certainty Labels (use everywhere)
+## Certainty labels
 
 | Code | Meaning |
 |------|---------|
-| **A** | Firm historical fact (strongly established by surviving evidence) |
-| **B** | Strong historical probability (context/scholarship supports; not directly documented) |
-| **C** | Historically disputed / uncertain (conflicting sources or insufficient evidence) |
-| **D** | Fictional space (record silent; inventable if it does not contradict A/B) |
+| **A** | Firm historical fact |
+| **B** | Strong historical probability |
+| **C** | Disputed / uncertain |
+| **D** | Fictional space (must not contradict A/B) |
 
 Never quietly promote C→A or D→A.
 
 ---
 
-## Directory Map
+## Where things live
 
-### `/research` — Historical skeleton
-| File | Contents |
+| Need | Location |
 |------|----------|
-| `historical_timeline.md` | Chronology 46–42 BC (+ later anchors) |
-| `historical_sources.md` | Primary/secondary source register & provenance |
-| `people.md` | Historical character database |
-| `relationships.md` | Network graph (family, patronage, rivalry, debt) |
-| `factions.md` | Overlapping networks, not binary camps |
-| `locations.md` | Rome + provinces; travel/comms times |
-| `roman_daily_life.md` | Lived-in factual reference |
-| `religion.md` | Omens, priesthoods, ambiguous “fantasy” layer |
-| `economics.md` | Land, debt, patronage, grain, booty |
-| `military.md` | Armies, veterans, commands, logistics |
-
-### `/story` — Narrative architecture
-| File | Contents |
-|------|----------|
-| `master_timeline.md` | Story-facing chronology with info asymmetry |
-| `information_network.md` | How rumour and news actually move |
-| `mysteries.md` | Historical uncertainties + fictional interpretations |
-| `fictional_characters.md` | Function-first fictional role requirements |
-| `pov_structure.md` | POV architecture options |
-| `consequence_chains.md` | Event → reaction cascades |
-| `foreshadowing.md` | Early plant / late payoff database |
-| `historical_anchors.md` | Continuity bible: immovable events |
-| `flexibility_zones.md` | Safe invention playgrounds |
-| `master_story_frame.md` | High-level act/book structure (no chapters) |
-| `fan_theory_potential.md` | Reader-theory mysteries |
-
-### `/continuity` — Living project state
-| File | Contents |
-|------|----------|
-| `canon.md` | Locked fictional decisions |
-| `unresolved_questions.md` | Open research/story questions |
-| `contradictions.md` | Source conflicts to preserve |
-| `future_research.md` | Next research priorities |
-| `mid_tier_pass_plan.md` | 1A expansion plan (batches M1–M5) |
-| `mid_tier_pass_log.md` | Before/after prose tracking |
-| `editorial_diagnosis_1b.md` | Phase 1B whole-manuscript editorial diagnosis |
-| `craft_editorial_pass_1c.md` | Craft Pass 1C (20-book synthesis) |
-
-### `/drafts` — Book 1 prose
-| Path | Contents |
-|------|----------|
-| `book1/ch01`…`ch34` | First-pass / mid-tier chapter files |
-
-### `/docs`
-| File | Contents |
-|------|----------|
-| `executive_overview.md` | Concise framework summary (sections A–Q) |
-| `INDEX.md` | Quick navigation by dramatic need |
+| Current prose | [`../drafts/book1/`](../drafts/book1/) |
+| Locked decisions | [`../continuity/canon.md`](../continuity/canon.md) |
+| Open questions | [`../continuity/unresolved_questions.md`](../continuity/unresolved_questions.md) |
+| Historical invariants | [`../story/historical_anchors.md`](../story/historical_anchors.md) |
+| Story architecture | [`../story/`](../story/), [`../continuity/expansion/`](../continuity/expansion/) |
+| Characters | [`../continuity/character_profiles/`](../continuity/character_profiles/), [`../story/characters/`](../story/characters/) |
+| Writing brief | [`../writing/LLM_WRITING_BRIEF.md`](../writing/LLM_WRITING_BRIEF.md) |
+| Research | [`../research/`](../research/) |
+| Completed development records | [`../archive/`](../archive/) |
+| Need → file map | [`INDEX.md`](INDEX.md) |
+| Framework summary | [`executive_overview.md`](executive_overview.md) |
 
 ---
 
-## Creative Rules (non-negotiable)
+## Creative rules (non-negotiable)
 
 1. History constrains; it does not write the dialogue.
 2. Characters do not know the future.
@@ -91,19 +54,11 @@ Never quietly promote C→A or D→A.
 
 ---
 
-## Recommended reading order for collaborators
+## Recommended reading order
 
-1. `docs/executive_overview.md`
-2. `continuity/canon.md`
-3. `story/historical_anchors.md`
-4. `writing/LLM_WRITING_BRIEF.md` + `MUST_EXPRESS.md` ← **if drafting**
-5. `continuity/mid_tier_pass_plan.md` ← **if expanding lean chapters (1A)**
-6. `writing/CHAPTER_MAP.md` + `story/scene_cards/`
-7. `story/pov_lock.md` + `characters/`
-8. `research/` as needed (timeline, dossiers, matrix, topography, digests)
-9. `story/mysteries.md` + `information_network.md`
-
-## Drafting / expansion
-
-See `/writing/README.md`. First pass used `STARTER_PROMPT.md` one chapter at a time.  
-Ongoing mid-tier work: `continuity/mid_tier_pass_plan.md` + log.
+1. This page + [`INDEX.md`](INDEX.md)
+2. [`../continuity/canon.md`](../continuity/canon.md)
+3. [`../story/historical_anchors.md`](../story/historical_anchors.md)
+4. [`../writing/CHAPTER_MAP.md`](../writing/CHAPTER_MAP.md) + a few `drafts/book1/` chapters
+5. [`../writing/LLM_WRITING_BRIEF.md`](../writing/LLM_WRITING_BRIEF.md) if drafting
+6. [`../research/`](../research/) as questions arise
