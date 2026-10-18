@@ -6,12 +6,19 @@
 
 ---
 
+## Soft-joint densify
+
+**Branch:** `cursor/soft-joint-densify-cb1d`  
+**Log:** `soft_joint_densify_pass_log.md`  
+**Touched:** Ch 20, 25, 30, 34 gravity/humour/play; exporter + DOCX regen.  
+**Result:** Soft joints tightened; keep densifying without cold-read gate. Not finished-line.
+
 ## Residual tissue densify
 
 **Branch:** `cursor/residual-tissue-densify-cb1d`  
 **Log:** `residual_tissue_densify_pass_log.md`  
 **Touched:** Ch 12, 17–19, 24, 26–29 — Galba/Capua paid; warehouse Ch 18 strip; Act 5 humour; craft-noun leaks.  
-**Result:** Unpaid ledger items paid as cost; humour desert cracked; do **not** gate further densify on author cold-read. Not finished-line.
+**Result:** Unpaid ledger items paid as cost; humour desert cracked.
 
 ## Anti-formula densify (post deep audit)
 

@@ -68,31 +68,17 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments—farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “Italy will wait. Italy always complains. The East is bleeding now.”
 
-Outside the tent-flap, while congratulations still filled the wine, a junior officer muttered to the horse-holder: “Italy always complains—until it bills you in veterans who already know which farms have owners. Mark me when the East stops bleeding and the maps still owe soil.” The horse stamped. Inside, Antony heard only the congratulations. He laughed once, short, and went back to the map.
+Outside the tent-flap, while congratulations still filled the wine, a junior officer muttered to the horse-holder: “Italy always complains—until it bills you in veterans who already know which farms have owners—Capua dates, Mutina mud, the same unpaid dirt with new maps. Mark me when the East stops bleeding and the ledgers still owe soil.” The horse stamped. Inside, Antony heard only the congratulations. He laughed once, short, and went back to the map.
 
----
-
-# SC-95 — Ash Tablets
-
-POV: report / F4 echo · SIDE-1b OPEN-0  
-Date / place: Rome rumour / harbour talk  
-Canon refs: FS11 · SERIES-1  
-Info ENTER: Aftermath rumours · EXIT: Private murder erased; sequel hooks only  
-Overhear risk: Sailors / street
-
----
-
-In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers.
-
-On the plain, after Brutus, a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. He left the wax open to the weather—and to the next man who would have to price Italian soil that still carried other men’s names, while the East pulled one victor and a list of promised acres fluttered in another’s hand.
+On the plain a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. He left the wax open to the weather—and to the next man who would have to price Italian soil that still carried other men’s names, while the East pulled one victor and a list of promised acres fluttered in Antony’s unread tomorrow. In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers. The open wax and the ash tablet were the same unfinished question: who pays for dirt that already has owners.
 
 ---
 
 ## Continuity
 - SERIES-1 satisfied; sequel hooks only; no Actium plotting; OCT ill/not genius; Brutus death experiential body ordeal.  
-- SC-94 folded into SC-92 OCT breath (land seed); SC-93/95 stubs lean.  
+- SC-94 folded into SC-92 OCT breath (land seed); **SC-95 folded into SC-93** (gravity — open wax + SIDE-1b ash collide with Italy underestimation).  
 - MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.  
 **Act5 ordeal:** SC-92 Brutus refused cleaner hill as lived cost; grief weight in body; OCT vacuum/land in same camera breath.
-**1G:** anti-Actium wink cut; SC-95 thesis lean softened; hooks held.
+**1G:** anti-Actium wink cut; hooks held.
 **Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
-- Ordeal/grief — humour OFF on Brutus end; SC-93 outside officer bite on Italy land (Antony hears only congratulations); land/Italy hook plant; SIDE-1b OPEN-0 ash; OCT breath folded (G1).
+- Ordeal/grief — humour OFF on Brutus end; Capua/Mutina dirt echo in officer bite; SIDE-1b OPEN-0 ash; OCT breath folded (G1).

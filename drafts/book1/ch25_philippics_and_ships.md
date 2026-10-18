@@ -60,11 +60,11 @@ Pitch smelled honest. Italy smelled of appointments that had tried to turn Liber
 
 “They offered us corn routes and called it honour,” he told Brutus on a deck that flexed under boots. “Honour is what we mint when we have silver.”
 
-Brutus watched Italy shrink. A gull argued with another gull over a scrap that looked like neither bird’s. “We leave so we do not become the cause of war.”
+Brutus watched Italy shrink. A gull argued with another gull over a scrap that looked like neither bird’s. Brutus’s mouth twitched. “Even the birds have a lawsuit.”
 
-“We leave,” Cassius said, “so we can afford war if war is honest enough to come.”
+Cassius did not smile. “We leave so we can afford war if war is honest enough to come—not so we can become the cause of one we cannot pay.”
 
-Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. He already saw Asia’s taxes rearranging themselves—cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*—the republican word for other people’s coin.
+Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once—loud enough for the mate—and went back to rope; the snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves—cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*—the republican word for other people’s coin.
 
 A factor from the quay came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said—cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus as if the harbour itself were a ledger waiting to be corrected.
 
@@ -94,4 +94,5 @@ They sailed. Behind them, Cicero’s sentences chased Antony through Rome—mark
 - MUST_EXPRESS: C7, C3, B7 seed. Next: Ch 26 Decimus (CLEO/Sextus folded).  
 **Phase 1D.3:** SC-68b public friction; SC-69 East held/tightened.
 **Act5 ordeal:** SC-68b scar+wider kept; SC-69 refused cost deepened.
-- Deck refusal + factor corridor bite (no craft noun); Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.
+- Deck refusal + factor corridor bite; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.  
+- **Tissue:** Brutus gull-lawsuit twitch + crewman snort on “collecting” (humour ON, non-F4).

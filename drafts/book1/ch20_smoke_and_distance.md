@@ -41,9 +41,9 @@ Brutus looked at the broken street as if it were a Senate. “Then do not ask me
 
 “I am not asking for a blessing.” Decimus clasped Brutus’ forearm once—friend, co-murderer, stranger already arguing about timing. “Do not wait for the Forum to love you. It loved a corpse more.”
 
-He left before philosophy answered—forearm clasp still warm, east already a different country.
+He left before philosophy answered—forearm clasp still warm, east already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while the Tiber smoke thinned behind him into other men’s problems, he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft—praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who wouldn’t meet his eyes and wouldn’t take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they wouldn’t send. The will’s second line traveled with him like pitch he could not wipe: loved enough to ink, hated enough to burn.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft—praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who wouldn’t meet his eyes and wouldn’t take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they wouldn’t send. The will’s second line traveled with him like pitch he could not wipe: loved enough to ink, hated enough to burn.
 
 ---
 
@@ -93,7 +93,7 @@ Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had alrea
 
 “We do not beg intermediaries,” she said. “We leave before intermediaries invent a second price.”
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city—her face in Roman metal—and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk; the dinners could keep pricing her child; none of that was her exit. Exit was a schedule that survived inspection.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city—her face in Roman metal—and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk; the dinners could keep pricing her child; none of that was her exit. Exit was a schedule that survived inspection—and the unfinished question she took to water was whose mouth in Italy would finish her story first: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal.
 
 ---
 
@@ -129,17 +129,17 @@ Octavian felt the floor drop—the childish, humiliating sense that the adult ar
 
 “Names first,” he said. “Then places. Separate what you saw from what the road invented.”
 
-The courier tried again with a thinner story: Caesar dead; Liberators on a rock; Antony not clearly dead or alive in the first mouthful; no clean word of a will—only gardens and a boy muttered like prices without a seal.
+The courier tried again with a thinner story: Caesar dead; Liberators on a rock; Antony not clearly dead or alive in the first mouthful; no clean word of a will—only gardens and a boy muttered like prices without a seal. Smoke in Italy; a queen’s schedule unfinished in the same breath as the Forum’s heat—road invention or not, the unfinished questions had already boarded the same weather.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 
 Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear—young. He hated that it sounded young. He did not reach for the old nickname anyone might offer as softness; hopeful shadows were for men who still thought inventory was a joke.
 
-“We go when going is not suicide,” he said. “First we learn what name I still have.”
+“We go when going is not suicide,” he said. “First we learn what name I still have—and whether gardens and a boy’s hours are already writing it without us.”
 
 He didn’t say *son*. The word sat unused behind his teeth—kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
-Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses—and shut it away, because kindness wasn’t a plan.
+Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses—and shut it away, because kindness wasn’t a plan. The sealed tablet pressed on Caesar in the litter remained unread among other papers when the body was handled; a household fragment burned elsewhere was never that tablet. Dual tracks stood. Names first.
 
 ---
 
@@ -148,16 +148,8 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 - Octavian scared/learning/cold seed — not Augustus.  
 - Agrippa foreshadow light.  
 - Smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).  
-- **G1 note:** cameras bridged by shared Tiber/Italy smoke + will rumour, not collapsed; Brutus remains inside Decimus POV; SC-54b stamp only.  
+- **Gravity:** unfinished questions collide across cameras (Decimus gate / Cleo who-finishes-story / OCT name+gardens); NOTE-1 dual folded into OCT breath (no separate stamp collage).  
 - **Anti-formula:** Three-census labels + “filed the exit-complaint” strip; timing / sandals / names-first centres held.  
-
----
-
-# SC-54b echo — Among Other Papers (retrospective)
-
-POV: none new — narrator withheld; continuity stamp only
-
-The sealed tablet pressed on Caesar in the litter (Ch 15) remained unread among other papers when the body was handled. Nysa’s burned fragment was never that tablet. Dual-track NOTE-1 stands.
 
 ---
 
@@ -166,5 +158,5 @@ The sealed tablet pressed on Caesar in the litter (Ch 15) remained unread among 
 ## Act 3 exit info state (card)
 Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capital · OCT elsewhere · SIDE-1 unsolved.
 
-**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds.  
+**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds (now inside SC-54).  
 **M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.
