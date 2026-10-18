@@ -15,7 +15,7 @@ Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + 
 Interim “decision cold-read yes” after gold dwell: **withdrawn** by deep audit.  
 Anti-formula densify: **done** — floor 0–1 targets (Ch 13/7/20/23) cleared on those files.
 
-**Current verdict:** criticism-resistant finished-line export still **not automatic** (residual ledger: Galba winter, humour desert, gravity). **Decision cold-read DOCX** after densified-band spot-check is now the live option — see `anti_formula_densify_pass_log.md`.
+**Current verdict:** criticism-resistant finished-line still **not automatic**. Galba/Capua + warehouse Ch 18 + Act 5 humour cracks: **paid/started** in `residual_tissue_densify_pass_log.md`. Residual: gravity, cast-wide play, remaining desert. **Do not gate densify on author cold-read.**
 
 ---
 

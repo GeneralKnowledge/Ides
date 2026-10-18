@@ -60,9 +60,9 @@ When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He m
 
 Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-Laberius closed his fist on air, not wood. “I came for land,” he said. “Not for which door burns first.” He took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note.
+Laberius closed his fist on air, not wood. “I came for Capua,” he said—not the Forum’s poetry-Capua, the dated one, the after-Parthia promise that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note—and Capua unpaid had just learned it could walk without waiting for clerks.
 
-By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke—and Laberius had voted, by refusal, to keep his name off the first fire-list.
+By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke—and Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
 
 ---
 
@@ -157,4 +157,4 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 
 **Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).  
 **M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
-- **Law-sweep:** Funeral/Cinna — humour OFF; crowd ≥3 mouths; F3 land-powder pays Ch 13; will/gardens/300 callbacks; wrong-Cinna terror held; no comedy inject.
+- Funeral/Cinna — humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.

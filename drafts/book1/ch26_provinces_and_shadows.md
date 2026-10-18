@@ -18,7 +18,7 @@ Decimus read Antony’s pressure in dispatches before he heard it in hoofbeats.
 
 The tablets arrived with seals that looked like courtesy and read like a hand on a throat. One letter offered friendship in the same sentence as a deadline. Decimus set that letter under a stone so it couldn’t blow into the yard and become gossip.
 
-At mid-morning an envoy came anyway—cloak clean, smile practiced, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll; a levy clerk waited at the door with pay marks still wet. Three bodies in a room that wanted to be polite and was already a siege rehearsal.
+At mid-morning an envoy came anyway—cloak clean, smile practiced, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll; a levy clerk waited at the door with pay marks still wet. The room wanted to be polite and was already a siege rehearsal.
 
 “The consul asks only what the law already leans toward,” the envoy said. “Hand him Cisalpine in good order. Keep your honour. Keep your skin. Rome will find you another usefulness.”
 
@@ -42,7 +42,11 @@ In the yard he found the levy spokesman—an older miles with a Caesarian scar a
 
 “And pay?”
 
-Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly—honest about the bottom. He ordered a partial donative for the gate cohorts—coin he’d meant to hold for spring—and watched the spokesman’s shoulders drop half an inch. Loyalty bought today might still open a gate tomorrow. He scheduled the rest of the pay talk for morning and hated that mornings now had prices.
+Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly—honest about the bottom. He ordered a partial donative for the gate cohorts—coin he’d meant to hold for spring—and watched the spokesman’s shoulders drop half an inch. Loyalty bought today might still open a gate tomorrow.
+
+The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “That’s a word that tastes like next week’s apology.”
+
+Decimus almost grinned—the old cheer that had opened mornings—and stopped it before it became a performance. “Then taste it and still hold the hinge. Next week’s apology is still coin I have to find.” The spokesman barked once—short, surprised—and the yard heard it as weather, not mutiny. Decimus scheduled the rest of the pay talk for morning and hated that mornings now had prices.
 
 He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply—and knew, privately, that praise was thinner than grain. The same week he wrote Plancus again—shorter, less perfume—asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road. Plancus’s answer arrived in a prettier hand than the ask: admiration, a warning that Antony’s appetite was “understood,” and a regret that neither grain nor cohorts could be spared “while his own theatre remained unsettled.” No date. Decimus set the pretty tablet beside Antony’s pressure-letters. Soft refusal and hard threat stacked the same height on the table.
 
@@ -63,4 +67,5 @@ At night he walked the wall-walk and tasted snow early. The key in his chest cut
 - MUST_EXPRESS: C8, A10 seed, FS11, C1 residual, CLEO-1. Next: Ch 27 Mutina begins.  
 **Act5 ordeal:** SC-71/72 folded into SC-70 Decimus camera; one primary POV held.
 **Final integrated / Decimus seam:** Plancus refuses grain/cohorts “while his own theatre remained unsettled” — concrete non-support before Mutina, not omniscient betrayal.
-- **Law-sweep:** Envoy room ≥3; polite swap-talk → threshold exit-complaint; CLEO sail courier payoff; Plancus soft refuse callback; Sextus margin unease; sole Decimus dwell (G1).
+- Envoy swap-talk → threshold complaint; CLEO sail courier; Plancus soft refuse; Sextus margin unease; sole Decimus dwell (G1).  
+- **Tissue:** Levy “partial” bite + Decimus almost-cheer (humour ON, character-true); census label strip.

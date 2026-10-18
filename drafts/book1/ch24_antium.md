@@ -83,7 +83,7 @@ Favonius muttered about civil war’s cost. No one appointed him captain. Porcia
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators wouldn’t recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised furniture.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and the exit-complaint already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised furniture.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 

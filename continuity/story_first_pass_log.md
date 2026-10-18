@@ -6,12 +6,19 @@
 
 ---
 
+## Residual tissue densify
+
+**Branch:** `cursor/residual-tissue-densify-cb1d`  
+**Log:** `residual_tissue_densify_pass_log.md`  
+**Touched:** Ch 12, 17–19, 24, 26–29 — Galba/Capua paid; warehouse Ch 18 strip; Act 5 humour; craft-noun leaks.  
+**Result:** Unpaid ledger items paid as cost; humour desert cracked; do **not** gate further densify on author cold-read. Not finished-line.
+
 ## Anti-formula densify (post deep audit)
 
 **Branch:** `cursor/anti-formula-densify-cb1d`  
 **Log:** `anti_formula_densify_pass_log.md`  
 **Touched:** Ch 7, 13, 20, 23 densify; Ch 25, 28 F4, 32, 34 SC-93 craft-noun/formula strip.  
-**Result:** Floor 0–1 cleared on densify targets; residual ledger still open; DOCX not automatic finished-line.
+**Result:** Floor 0–1 cleared on densify targets.
 
 ---
 

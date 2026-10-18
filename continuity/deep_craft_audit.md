@@ -79,9 +79,9 @@ Legend: Q1 delete-garnish · Q2 changed-cost callback · Q3 person vs syllabus �
 
 | Item | Status |
 |------|--------|
-| **Galba brother’s winter** | Planted Ch 7–8; Ch 13 receipts only; **no post-Ides cost/absence** |
-| **Capua / colony-with-face** | Planted Ch 3; Ch 13 echo; Ch 19 generic land rage — not Capua by changed cost |
-| **Warehouse humour** | Plant Ch 2 → reprise Ch 18/23/28 — **band gag, not tissue** |
+| **Galba brother’s winter** | Planted Ch 7–8; **paid Ch 17** as Capitol absence (patron-called grain) — see residual tissue pass |
+| **Capua / colony-with-face** | Planted Ch 3; Ch 13 powder; **paid Ch 19/28** as named Capua cost (not generic land) |
+| **Warehouse humour** | Plant Ch 2; **Ch 18/23 stripped**; do not reintroduce as band gag |
 | **Hopeful-shadow / Monday / queen-child / second-line** | Actually paid (bright spots) |
 | **Gravity (G1/G2)** | Still weak: Ch 13 = 4-POV syllabus; Ch 20 = bridged 4-camera; Ch 34 end collage |
 | **Humour desert Ch 25–34** | **Confirmed** — no audible non-F4 joke that lands; F4 only in 28 (template) |

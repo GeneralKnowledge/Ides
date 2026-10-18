@@ -68,7 +68,7 @@ She had almost made the linen disappear under her tunic when Phileros turned the
 
 “Mats,” he said. “Before the atrium invents another omen.”
 
-She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night—under a loose tile, behind a water jar—and Phileros’s basket had stolen the minute. Delayed handoff; hunted feeling. In the court she passed Pallas again—two servants, one dread—and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter—mercy or trap depending on which word you stressed—and it hadn't yet grown legs as street rumour. It had only almost become a door-search. The attendant’s exit-complaint stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space. The house already knew that engine.
+She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night—under a loose tile, behind a water jar—and Phileros’s basket had stolen the minute. Delayed handoff; hunted feeling. In the court she passed Pallas again—two servants, one dread—and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter—mercy or trap depending on which word you stressed—and it hadn't yet grown legs as street rumour. It had only almost become a door-search. The attendant’s muttered truth stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space. The house already knew that engine.
 
 ---
 
@@ -105,7 +105,8 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 - Caesar opacity: danger-as-weather; AMB-1 held; trusts Decimus habit.  
 - **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.  
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.  
-- **Law-sweep:** Calpurnia dwell extended (nightmare inventory); dressing-room ≥3 (Calpurnia + Pallas + Nysa) with Spurinna/Decimus-door gossip; staff polite→service-slip complaint; atrium cheer → attendant cloak exit-complaint (spare/stay/Monday); Decimus-door + Spurinna echoes as plants toward Ch 14; relationships by pause/jug/pin behaviour; humour OFF (dread); NOTE-1 dual not merged; G1 cameras kept (extend, not collapse).  
+- Calpurnia dwell; dressing-room gossip (Spurinna/Decimus-door); atrium cheer → attendant cloak truth (spare/stay/Monday); humour OFF (dread); NOTE-1 dual not merged.  
+- **Anti-formula:** craft “exit-complaint” noun strip in narration.  
 - Next: Ch 13 GO night (+ SC-32).
 **1G:** soft future “night that would break her” cut; wax/dread not weather.
 
