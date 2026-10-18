@@ -16,7 +16,7 @@ Overhear risk: Low (guards)
 
 They met because none could kill the other two cheaply.
 
-Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. Octavian brought the name and a cold that still cracked sometimes when the room laughed wrong—crack, then seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. A table held bread nobody ate; appetite had moved to paper.
+Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. Across the table sat the Campania squeak grown into a man who could force a bargain—same cold face Antony had priced as thin shoes, now holding the name like a gate. Antony felt the old joke die in his throat and did not replace it. Octavian brought the name and a cold that still cracked sometimes when the room laughed wrong—crack, then seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. A table held bread nobody ate; appetite had moved to paper.
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed; conversation became rain and cousins for three breaths, then returned to blood accounting. Paper took names faster than mouths could soften them.
 
@@ -46,7 +46,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
-Antony poured wine that did not taste like celebration. Octavian didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew—and somewhere south of the tent, a road toward Formiae had already begun to matter.
+Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring—looking would have been an inventory of how wrong Ops had been. Octavian didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew—and somewhere south of the tent, a road toward Formiae had already begun to matter.
 
 ---
 
@@ -87,6 +87,7 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 ## Continuity
 - Lex Titia; proscriptions; Cicero naming contested (C) — Antony shapes; OCT assents aloud + seal-ring token; refuses quieter swap.  
 - **1F / I2:** Bononia moral pause + Lepidus nudge; chalk-wall street beat so Formiae feels bought.  
+- **Golden-read P1:** Antony feels Ops joke die across the table; will not look while pouring — misread without essay.  
 - **Act5 ordeal:** visible irreversible at table (assent + token) so Ch 31 death feels purchased by choice; F-triptych held.  
 - MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
 **1G:** historiographic “traditions would disagree” removed.

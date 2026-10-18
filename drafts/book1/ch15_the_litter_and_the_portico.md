@@ -17,7 +17,7 @@ Overhear risk: Extreme
 
 ---
 
-The vestibule still held the smell of the litter—wool, leather, the oil they rubbed into poles so the wood would not raise blisters on other men’s shoulders. Calpurnia stood in it like a woman who had missed a boat by the width of a hand.
+In the Domus Publica vestibule the litter’s smell still hung: wool, leather, the oil they rubbed into poles so the wood would not raise blisters on other men’s shoulders. Calpurnia stood in it like a woman who had missed a boat by the width of a hand.
 
 Phileros talked too much, which meant he was afraid. “The chickens were sullen, domina. The boy said so. And the exta—someone said the liver looked insulted.”
 

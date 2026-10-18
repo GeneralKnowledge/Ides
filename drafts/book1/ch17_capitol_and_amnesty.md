@@ -17,9 +17,9 @@ Overhear risk: Crowd below partial
 
 ---
 
-The Capitol was height, and height was supposed to mean clarity.
+On the Capitol’s rock above the Forum, height was supposed to mean clarity.
 
-Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches—and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument as if height could choose among them.
+Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly, theatre of virtue. Cassius kept his voice low and his eyes on approaches, and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument as if height could choose among them.
 
 Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 
@@ -29,7 +29,7 @@ Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant,
 
 Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* Under it, smaller and worse: *I killed a man who forgave me and kept me close.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
 
 He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
@@ -37,7 +37,7 @@ He almost ordered the linger as policy. Then he saw Decimus’s shoulder already
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms—as if eyes could make the spare into something other than blood. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
@@ -57,6 +57,7 @@ Brutus took the corridor truth without answering it in kind. Answering would hav
 - Liberty optics fail to convert populus.  
 - Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.  
 - **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor truth after Brutus’s public face.  
+- **Golden-read P1:** Behavioural guilt — killed the man who forgave/kept him close; will not look at palms.  
 - **Tissue:** Galba brother’s winter unpaid → Capitol absence (Ch 8 price paid as missing blade).  
 - // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 
@@ -97,13 +98,13 @@ He didn't yet know how he would show the body. He knew only that a corpse in the
 
 Pacuvius did not wait for poetry. “Massacre first. Funeral after. The rock still has warm knives on it—every hour we feed the men soft is an hour they invent softer orders.”
 
-An officer beside him—young, oil-smell, ambition still unscarred—seconded without looking at Lepidus. “Paint the Capitol before the bakers invent a different martyr. Force is a fact. Facts do not keep overnight.”
+An officer beside him—young, oil-smell, ambition still unscarred—seconded without looking at Lepidus. “Paint the Capitol before baker-rumour invents a different martyr. Force is a fact. Facts do not keep overnight.”
 
 Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
 
 Three wants, one ditch of snowless March air: Pacuvius’s storm, the officer’s paint, Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight—massacre versus optics—and chose the slower blade because the slower blade still had a consul’s name on it.
 
-Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
+Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short version bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
 “Hold the men,” Antony told Pacuvius. “Feed them. Promise them nothing you can’t spell. Tomorrow we talk in rooms with doors.”
 

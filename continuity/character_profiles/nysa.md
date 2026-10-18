@@ -20,7 +20,8 @@ Objects, doors, who waited, what was sealed; vague on Senate meaning.
 Precise about things; rare dry survival asides. Not omniscient spy.
 
 ## Off-page life
-Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridors after sale.
+Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridors after sale.  
+**P3-d:** Orbit may widen to new-authority thresholds (receipt errands); refuse soft “stay attached” transfers — still no Senate core.
 
 ## Relationship matrix (attitude)
 

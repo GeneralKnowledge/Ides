@@ -20,9 +20,9 @@ Hordeonius arranged his face into mourning for the Republic and his stylus into 
 
 Citizenship shortcuts, land whispers, exemptions with seals that looked tired—each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
 
-A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached.
+A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool as if ash could pay.
 
-“Archaeology,” Hordeonius said gently, blessing-flat. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
+Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “Archaeology,” he said gently, blessing-flat. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward—ego housekeeping, not fear.
 
 The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offense waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched—audible almost—then he drank so the twitch would look like thirst.
 
@@ -62,7 +62,9 @@ When the steward’s kindness had moved to the next chest, Phileros’s short la
 
 Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel; she let it land as a breath through the nose—enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf—blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash; the house’s new seals were not. Continuity of danger without the old wax.
 
-Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands—worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar as if water could invent a private law. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement. Nysa carried oil and kept her eyes on doors that no longer held her mornings.
+Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands—worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar as if water could invent a private law. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
+
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people—kindness that used her legs. The door she reached was not Domus; it smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face, then offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. Attachment was a transfer dressed as safety. She kept her eyes on doors that no longer held her mornings.
 
 ---
 
@@ -114,4 +116,6 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
 **Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.  
 - **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.  
-- **Expansion D8:** Domus emptying — Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
+- **Expansion D8:** Domus emptying — Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).  
+- **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).  
+- **Golden-read P3-d:** Nysa receipt errand to Antony threshold; refuses soft “stay attached” transfer.

@@ -30,6 +30,8 @@ Antony’s man offered wine from a skin that had travelled. Octavian’s man off
 
 Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius didn’t turn; a turn would have been half a yes.
 
+Antony’s man caught up three steps later, voice lowered for a bargain that wanted to sound like care. “We can take you on the road as safety—guard the skin, eat with the column. Capua unpaid is a debt someone else can carry if you stand where the purse stands.” Laberius stopped long enough to make refusal look like thought. “I don’t gift my boots to a purse,” he said. “I listen for which purse still dates dirt.” He walked on. The offer followed a pace, then died. Gift-for-safety was still a transfer; he had refused the transfer and kept the road.
+
 On the road edge an older veteran—scar through the lip, no agent’s polish—spat dust and spoke to the corporal only after Laberius was far enough to overhear without being invited. “Old eagles don’t take the boy’s pay yet. Wine shops still call him furniture. When the furniture learns to feed us, we’ll talk. Until then Antony’s skin tastes familiar.”
 
 “And the Liberators?” the corporal asked.
@@ -94,4 +96,5 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 - Next: Ch 25 Philippics + East departure.  
 **M5 polish held:** Antium room sensory/agency; Hilarus present.
 - **Law-sweep:** Colonnade behind-backs → exit-complaint after room; eagle refuse / Servilia rewrite pay Ch 23 seeds; Laberius veteran talk; humour short laugh with reaction.  
-- **Expansion D9:** Behind-backs colonnade densify (eagle refuse + boy pay / Servilia paper) as lived delay before Antium room.
+- **Expansion D9:** Behind-backs colonnade densify (eagle refuse + boy pay / Servilia paper) as lived delay before Antium room.  
+- **Golden-read P3-d:** Laberius refuses Antony-man “guard for safety” transfer — Capua date stays in his boots.

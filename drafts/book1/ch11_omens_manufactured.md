@@ -29,7 +29,7 @@ Dama wanted the king-bird to mean knives. Pasiphile wanted it to mean bad cheese
 
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb—habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. Nysa put that beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed: Dama swore the gods were tapping the bed; Pasiphile swore it was only March nerves and bad cheese; the washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale. Competing stories were how the house rehearsed a dream before the dream arrived.
 
 Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
@@ -91,4 +91,5 @@ Cicero’s mouth twitched—almost a smile, almost a bruise. “Then the kitchen
 - MUST_EXPRESS: E1, E2.  
 - Next: Ch 12 dread / fragment / Caesar opacity.
 **Final integrated / E4:** SC-27 — Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.
-- **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.
+- **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.  
+- **Golden-read P3-c:** Competing versions of Calpurnia’s “running sleep” (gods / nerves / politics) — dream packet plant before Ch 14 peak.

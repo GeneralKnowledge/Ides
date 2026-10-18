@@ -87,9 +87,9 @@ The older Brutus of the stories—the one boys learned with bread—did not need
 
 “Worth is not a dinner conversation,” she said. “It is what you do when dinners become easy.”
 
-Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths; the chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat.
+Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths; the chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat—and, unbidden, the hour after the spare when Caesar had kept him late over ordinary talk, laughed at something small, and sent him home as if the war between them had been a misunderstanding people of their house could afford. That warmth was the part of the chain that still cut.
 
-Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court—not invitation, attitude: a mother’s reminder that pardoned sons still owed dinners they did not choose, and that soft chains were priced in women’s rooms before men’s masks finished judging. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard the fringe as plant, not summons: women’s power already arguing his courtesy while he still held a warm cup.
+Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court. Attitude more than invitation: a mother’s reminder that pardoned sons still owed dinners they did not choose, and that soft chains were priced in women’s rooms before men’s masks finished judging. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard the fringe as plant, not summons: women’s power already arguing his courtesy while he still held a warm cup.
 
 “I am not unaware of what the name requires,” Brutus said.
 
@@ -167,4 +167,5 @@ Decimus fell into step. He didn't know the wax. He knew the chin-tip, the roads,
 - **S-A0 / S1:** Cleopatra/Caesarion/Transtiberim still priced in portico gossip — no Cleo POV. Queen plant already seeded Ch 1; this is continued weather.  
 - FS05/FS21 planted. Plural motives.  
 - MUST_EXPRESS: A8 seed, B1, C1–C3 seeds. Next: Ch 5 Octavian.  
-- **Expansion D17:** Servilia messenger fringe; Porcia refuses conflating mother-weather with her refusal.
+- **Expansion D17:** Servilia messenger fringe; Porcia refuses conflating mother-weather with her refusal.  
+- **Golden-read P1:** Brutus late-hour after-spare memory (closeness, not debt furniture only).

@@ -16,6 +16,14 @@ Mysteries designed to sustain competing reader theories. Each needs **≥3** pla
 3. Faked by Caesarians to keep him home (fails)  
 4. Later historians invent them; in-world only some occur
 
+## FT2b — Calpurnia’s dream packet (P3-c)
+Plant → peak → aftermath misremember (AMB-1 held; no certified gift):
+1. Pure dread / marriage nerves  
+2. True omen (gods)  
+3. Embroidery / politics to keep Caesar home  
+4. Decimus reframed courage-as-omen so the schedule held  
+Post-Ides street may crown any of the above; narrator does not.
+
 ## FT3 — Who pushed the conspiracy over the line?
 1. Cassius the engine  
 2. Decimus the access  

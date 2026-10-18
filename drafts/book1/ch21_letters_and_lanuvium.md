@@ -26,7 +26,7 @@ The neighbour smiled as if force were a vulgar digression. “Surely the Senate�
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-The first courier—sandals cracked—spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Bakers say the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
+The first courier—sandals cracked—spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
 
 “Which boy?” the neighbour asked, pleased to be scandalised.
 
@@ -76,7 +76,7 @@ The client smiled the smile of men who bring purses later. “Rome still whisper
 
 “Peace required a plan,” Porcia answered, and left him the word *plan* like a debt. She did not look at the client. Looking would have made the debt a performance. The steward closed his mouth on further roads. The client’s smile held until Brutus turned toward the hedges—then thinned for the steward alone: “He will draft periods while the dust learns our gates. Mark me when hope wants ink and gets gravel.”
 
-Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
+Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty—as if the late-hour forgiveness still had a claim on the grammar. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
@@ -96,7 +96,7 @@ The clerk left without clasping arms. By evening Brutus learned—through the st
 
 He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
 
-Not a date on a tablet—only hills through the gate, and beyond them a name war beginning without him while a neighbouring town filed his silence under *unavailable*.
+Through the gate: hills, and beyond them a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
 
 ---
 
@@ -107,5 +107,6 @@ Not a date on a tablet—only hills through the gate, and beyond them a name war
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
 **Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable — new confinement cost beyond purse.
+- **Golden-read P1:** Stylus stops before finishing Caesar-as-tyrant cruelty — forgiveness still claims grammar.
 - **Law-sweep:** Fundi same-room collision ≥3; wine-shop boy-sport; Lanuvium echo; polite visitor clash; audible underestimation humour; name-war plants toward Ch 22.  
 - **Expansion D6:** Porcia + steward + client 3-voice pressure; “plan” costs a refusal (gravel path).

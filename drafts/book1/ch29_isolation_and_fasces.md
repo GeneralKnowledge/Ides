@@ -42,13 +42,13 @@ Near a river ford the map promised a contact who could pass them toward the moun
 
 He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible. Optics, even here.
 
-They asked for his name as if they did not know it. He gave it because lying would have bought minutes, not miles. A purse changed hands—not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved—enough metal for a short road and a long silence.
+They asked for his name as if they did not know it. He gave it because lying would have bought minutes instead of miles. A purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved, enough metal for a short road and a long silence.
 
-There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and ordinary—meltwater, a broken rein, the smell of wet wool.
+There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and ordinary: meltwater, a broken rein, the smell of wet wool.
 
 If he thought of Caesar’s laugh one last time, the thought stayed inside. Pain was brief and specific.
 
-Word would reach Rome late and wrong in places. Bakers would get the short version: Decimus Albinus was gone.
+Word would reach Rome late and wrong in places. The bakers’ short version would travel first: Decimus Albinus was gone.
 
 ---
 

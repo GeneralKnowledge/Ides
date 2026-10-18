@@ -17,15 +17,15 @@ Overhear risk: Medium
 
 ---
 
-Hordeonius loved a crisis the way priests loved a festival: not for the singing, for the traffic.
+Under the basilica shade among the Janus bankers’ stools, Hordeonius loved a crisis the way priests loved a festival: for the traffic more than the singing.
 
-He sat under the basilica’s shade with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
+He sat with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
 
 A man asked whether amnesty meant he could stop paying. Hordeonius tapped the interest column once, hard enough that Sosia looked up. “Amnesty doesn’t blot this,” he said. “Next.”
 
 A junior senator—Seius’ type, though not Seius—laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax—unless the humour sold a second cup without confessing appetite.
 
-Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen: still lodged in Caesar’s green claim, child and hours and all—would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
+Rumour arrived in stacks: Octavius, Octavian, boy, heir, adoption, three hundred sesterces a head, gardens across the river, Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
 “Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
 
@@ -87,7 +87,7 @@ Antony laughed once, short. Not mirth. Recognition.
 
 “He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it—loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
-What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers.
+What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts—thin shoes, Atia’s caution, a paper son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
 “We will not hide this,” Antony said, consul-smooth for Piso’s legality faces. “Hiding makes it ours. Ours becomes theft. Theft becomes their excuse.”
 
@@ -122,7 +122,8 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 - Leak cascade via F1/market.  
 - // M5: Formal vs street timing left intentionally mushy (C).  
 - **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.  
-- **Expansion D3:** Will-reading public fringe — banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.
+- **Expansion D3:** Will-reading public fringe — banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.  
+- **Golden-read P1:** Antony prices Octavius as soft cohort / paper son / not rival — opinion, not fringe-noise only.
 
 ---
 

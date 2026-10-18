@@ -4,6 +4,8 @@
 **Span:** Munda aftermath / late Republic weather → Philippi II (45–42 BCE focus; seed earlier)  
 **Form:** Ensemble historical novel · dual detective engines · incomplete information
 
+**Golden-read P3-a:** Act 1 “no follow-character” fog is accepted opening cost of ensemble — not a commission to retrofit a single hero. Campbell/Vogler diagnostic only. See `golden_read_p3_decisions.md`.
+
 ---
 
 ## One paragraph

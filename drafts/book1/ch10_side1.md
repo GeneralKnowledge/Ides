@@ -60,15 +60,15 @@ A. Visellius Ralla’s tablet sat among the honest ones—interest tidy, excuses
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 
-Hordeonius didn't laugh. Bankers who laughed at piety ended as tavern stories.
+Hordeonius didn't laugh. Bankers who laughed at piety ended as tavern stories. He slid Visellius’s tablet an inch closer to himself—possession as theology—and let Paullus watch the wax refuse to travel.
 
 “I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
 
-Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal.
+Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal. He reached as if to touch the tablet’s rim; Sosia’s hand was already on the stool-leg, ready to pull it. Hordeonius closed the tablet with a soft click that sounded like a door in a better house.
 
-“Seals are older than liberty,” Hordeonius continued, gentle, as if instructing a nephew. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus—if Basilus is in this bargain—pays as written too.”
+“Seals are older than liberty,” he continued, gentle, as if instructing a nephew who had tracked mud onto marble. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus—if Basilus is in this bargain—pays as written too.”
 
-Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue.
+Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue, then checked his ring as if the refuse might have dirtied him.
 
 Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't. That was the trouble with truth: it sometimes wore humour's clothes without asking.
 
@@ -116,4 +116,5 @@ A water-carrier at the stair mouth—jug dripping, no stake in Basilus or Bucco�
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
 - Next: Ch 11 omens / Sibylline.
 - **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).  
-- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / ash memory—SIDE-1 remembered later as pressure, not solved.
+- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / ash memory—SIDE-1 remembered later as pressure, not solved.  
+- **Golden-read P3-b:** Paullus refuse as patronage theatre — tablet possession, stool threat, soft click, ring-check (Batiatus ego without wink).

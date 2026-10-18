@@ -41,7 +41,8 @@ Entering *acquired: unclean*; smelling Visellius’s room; refusing poison-as-fa
 | End | 33–34 | Ash echo |
 
 ## Behavioral tells
-Blessing-flat refusals; private cipher honesty; no smile at neatness.
+Blessing-flat refusals; private cipher honesty; no smile at neatness.  
+**P3-b:** Action-first patronage theatre (tablet possession / soft click / wipe fingers) before rates essay.
 
 ## Must
 SIDE-1 never solves Ides; humour character-true not band gag redux.

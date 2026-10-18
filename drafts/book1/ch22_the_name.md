@@ -76,17 +76,17 @@ Fulvia listened to a client’s petition and priced it with her eyes before Anto
 
 “The boy is in Campania,” an agent said. “Calling himself Caesar. Followers thick as flies on a sweet stall. Some of ours asked whether his purse travels with the name.”
 
-Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
+Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory—too careful with his face, too hungry for older men’s approval, a chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
 
 The waiting veteran shifted. “If the name pays land,” he said carefully, “some will listen. Names do not fill bellies. Pay does. But names open doors to pay.”
 
-Fulvia’s eyes flicked to Antony—price, risk, theatre—then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten.
+Fulvia’s eyes flicked to Antony—price, risk, theatre—then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten. For a breath the veteran’s sentence almost interested him—names opening doors—then Decimus’s Cisalpine hunger filled the interest the way a real war fills a map.
 
 He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees that kept the dead man’s calendar breathing. The crowd heard stability. Liberators heard a noose made of paperwork. Antony heard himself buying time—and time, in April, still felt cheaper than blood.
 
 “If the boy becomes loud,” Fulvia said, “buy his friends or break them. Do not wait until the wine shops stop laughing.”
 
-“He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.”
+“He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.” The word was easy because it kept the boy small enough to mock. Mockery cost less than another front.
 
 Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you—Campania already stopped.”
 
@@ -106,4 +106,5 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
 **Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.
 - **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.  
-- **Expansion D7:** Agrippa–OCT ordinary evening path after name-take (matched pace; underestimation as behaviour, not caption).
+- **Expansion D7:** Agrippa–OCT ordinary evening path after name-take (matched pace; underestimation as behaviour, not caption).  
+- **Golden-read P1:** Antony’s underestimation grounded in remembered nephew inventory + Decimus-front preference; mockery cheaper than second war.
