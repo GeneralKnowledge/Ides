@@ -3,7 +3,7 @@
 **Date:** 2026-10-18 (amended same day)  
 **Branch:** `cursor/story-first-craft-locks-cb1d`  
 **Author direction (locked):** Both detective engines. Proper story, not historical checklist. Lean into historical fiction. Audience can be slightly ahead (GOT S1 model).  
-**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell. More **three-or-more people in a room** talk in general. **Politeness by station** then **immediate complaint after they leave**. Humour must actually land for a cold reader (author at ~66% noticed essentially none — treat as under-served).  
+**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell. More **three-or-more people in a room** talk in general. **Politeness by station** then **immediate complaint after they leave**. Humour must actually land for a cold reader (author at ~66% noticed essentially none — treat as under-served). **Callbacks** — plant details (e.g. Octavian hating a nickname) and pay them later. **Playfulness** between characters (banter, teasing, shared private jokes), not only dread and arithmetic.  
 **Prose HEAD at planning:** `6798218` / post AI-tell; chapters still pre–story-first implementation  
 **Status:** Plan only. **No chapter prose edited in this deliverable.**
 
@@ -24,8 +24,10 @@
 | Too few 3+ person rooms | Most scenes are 1:1 or POV-alone; social Rome under-performed |
 | Polite face without after-complaint | Station courtesy rarely flips into corridor/exit bitching — lost hypocrisy engine |
 | Humour not registering | Ledger/gallows beats exist on audit maps, but a cold reader mid-book reports noticing none — too rare, too dry, or too caption-like |
+| Few callbacks | Details appear once and die (nickname, brother’s winter, Monday-hold, secondary heir) — novel feels episodic checklist |
+| Little playfulness | Bonds read as plot machinery; missing teasing / private jokes that make people feel alive together |
 
-This plan **supersedes** the expansion backlog’s assumption that the skeleton already “feels like a novel.” X1–X6 remain useful later, but **intrigue scaffolding + dwell + dramatic persuasion + audible social comedy** come first.
+This plan **supersedes** the expansion backlog’s assumption that the skeleton already “feels like a novel.” X1–X6 remain useful later, but **intrigue scaffolding + dwell + dramatic persuasion + audible social comedy + callback tissue + play** come first.
 
 **Protect only what earns its keep as story** (Ides voltage, spare-Antony cost, funeral aim, Philippi INF-death, character-true ledger humour). Do **not** protect a fact merely because it is historically true or already in the draft.
 
@@ -170,7 +172,28 @@ Locks and chronology still held — but **presence in the novel is not owed to S
 
 **S15:** Audit early–mid book for missed station-comedy beats; add polite-face / exit-complaint pairs.  
 **S16:** Ensure ≥3-person talk appears in designated social chapters (list in pass log).  
-**S17:** Humour visibility pass — one earned audible beat per designated chapter outside must-not-force zones (not every chapter; not grief peaks).
+**S17:** Humour visibility pass — one earned audible beat per designated chapter outside must-not-force zones (not every chapter; not grief peaks).  
+**S18:** **Callback ledger** — every planted personal detail (nickname, debt joke, door habit, heir whisper, Monday-hold, queen/child gossip) must recur at least once later in changed circumstances.  
+**S19:** **Playfulness** — allies and uneasy partners get banter/tease that reveals trust or rivalry (Agrippa–Octavian, Decimus–Caesar, Cassius–Casca/Trebonius, Porcia–Brutus edge); not clowning in humour-off zones.
+
+### Callbacks — plant / pay (working ledger)
+
+| Seed | Plant | Pay (min. once) |
+|------|-------|-----------------|
+| Octavian hates “hopeful shadow” (or similar nickname) | Ch 5 Apollonia / ceremony | Ch 22 name-take; later underestimation scenes |
+| Antony’s “squeak” | Ch 22 | Later when the squeak has legions (Mutina/fasces) |
+| Galba “brother’s winter” | Ch 8 | Post-Ides cost or absence |
+| Trebonius “Monday” hold | Ch 9 | Ch 15 portico |
+| Decimus secondary-heir laugh | Ch 4 | Ch 18 will |
+| Queen/child Transtiberim | Ch 4 | Ch 18–20 |
+| Spain wine / ditch jokes (Decimus–Caesar) | Ch 4 / 9 | Ides fetch / after |
+
+### Playfulness — rules
+
+- Private joke = relationship proof (show-don’t-tell).  
+- Tease can sting; victim reacts (wince, dry return).  
+- Keep Octavian mostly stiff — playfulness is often Agrippa’s, or Octavian’s rare awkward warmth.  
+- Brutus almost never jokes; Porcia/Cassius may needle him.  
 
 ---
 
@@ -206,6 +229,8 @@ flowchart LR
 | **S15** | Social chapters | Polite-face → exit-complaint pairs (station hypocrisy) | Behind-backs + humour engine |
 | **S16** | Book-wide social/political | Raise count of **≥3 people talking** in-room (not only conspiracy) | Less corridor duet feel |
 | **S17** | Outside humour-off zones | Audible character humour with in-scene reaction | Cold reader actually notices comedy |
+| **S18** | Book-wide | Callback ledger: plant → pay personal details | Continuity of people, not only events |
+| **S19** | Ally/rival pairs | Banter / tease / private jokes | Relationships feel lived |
 
 ### Phase B — Afterlife ownership (Ch 18–25 focus, seeds earlier)
 

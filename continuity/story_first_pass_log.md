@@ -69,12 +69,22 @@ Humour-off zones not touched (no Curia/Formiae/ditch gags).
 
 ---
 
-## Next
+## S18–S19 add-on (same branch, continued)
 
-1. Merge/continue **S-A1** (S2–S4 seeds; more mid-book 3-rooms)  
-2. **S-A2** dwell without collapsing new group scenes  
-3. Author re-skim Ch 1–9 for whether humour/reluctance now register  
+| Pair | Plant | Pay / play |
+|------|-------|------------|
+| **“Hopeful shadow” nickname** | Ch 5 — officer uses it; Agrippa teases; Octavian bans it | Ch 22 — follower almost uses it; Agrippa admits old habit; Antony/Fulvia toy with shadow/squeak |
+| **Decimus–Caesar play** | Ch 4 — ditch joke / “leave the philosophy” | (further pay on Ides fetch still open) |
+| **Callback ledger** | Added to plan §3b | Galba winter, Monday, heir, queen/child still to pay in later passes |
 
 ---
 
-*End S-A0 log.*
+## Next
+
+1. Merge/continue **S-A1** (S2–S4 seeds; more mid-book 3-rooms; more callback pays)  
+2. **S-A2** dwell without collapsing new group scenes  
+3. Author re-skim Ch 1–9, **5**, **22** for humour, reluctance, nickname callback, playfulness  
+
+---
+
+*End S-A0 log (incl. S18–S19 start).*

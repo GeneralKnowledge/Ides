@@ -104,7 +104,11 @@ Not glory roads—ditch timing, which bridge would take wagons after rain, wheth
 
 “Come back after the afternoon clients,” Caesar said. “I want your eye on the Campus route before the games talk turns into a fight.”
 
-Ordinary trust. The kind that made you useful. Decimus left the inner room still tasting that usefulness—warm, specific, undeserved by philosophy.
+Decimus tilted his head. “If the games talk turns into a fight, I’ll bring a bigger ditch.”
+
+Caesar’s mouth did the almost-laugh Decimus had learned to aim for. “Bring the ditch. Leave the philosophy. Philosophy trips on stones.”
+
+Ordinary trust. The kind that made you useful. Decimus left the inner room still tasting that usefulness—warm, specific, undeserved by essays.
 
 Someone laughed that Decimus was written into the will’s second line.
 
