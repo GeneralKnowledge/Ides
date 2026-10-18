@@ -285,6 +285,28 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 14. Ch 16 — “Latin burst out of him” + Latin texture policy
+
+**Line (Curia, Casca strikes):**
+
+> Caesar caught Casca’s arm. Latin burst out of him, sharp: a question, an outrage, *what is this violence* in the old register of men who still believed Senate rooms were safer than camps.
+
+**Author:** Saying “Latin” then giving English sounds silly. Prefer something like: a question burst out of him. “What is this violence?” Also: we don’t have much other Latin in the book — maybe it should appear in **appropriate** places.
+
+**Craft read:** Agreed — “Latin burst out” is a meta language label (LLM/narrator noticing the medium). The italic English gloss then double-translates. Cleaner: speech act + spoken English (or a short real Latin scrap *if* used sparsely and clear in context).
+
+**Existing house rule (STYLE_GLOSSARY):** useful Latin sparingly; translate/contextualise on first use; do not sprinkle untranslated Latin every sentence. Current draft mostly uses italic *English* concepts (*libertas*, *yet*, *beware*, *perpetuo*) rather than lived Latin dialogue.
+
+**Later pass options (not now):**
+
+- Fix this Curia line (and hunt siblings: “spoke Latin,” “in Greek,” etc.).
+- Decide a light Latin policy: e.g. ritual/legal/title words (*dictator perpetuo*, *libertas*, *Idus*), oath scraps, crowd shouts — never narrator saying “Latin burst out.”
+- Align with Spartacus elevated English + occasional Latin bite, not cosplay.
+
+**Do not yet:** sprinkle Latin book-wide mid-read. Flag the Ch 16 line as a concrete fix when prose hygiene runs (§12).
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
