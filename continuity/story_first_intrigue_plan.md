@@ -3,9 +3,27 @@
 **Date:** 2026-10-18 (amended same day)  
 **Branch:** `cursor/story-first-craft-locks-cb1d`  
 **Author direction (locked):** Both detective engines. Proper story, not historical checklist. Lean into historical fiction. Audience can be slightly ahead (GOT S1 model).  
-**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell. More **three-or-more people in a room** talk in general. **Politeness by station** then **immediate complaint after they leave**. Humour must actually land for a cold reader (author at ~66% noticed essentially none — treat as under-served). **Callbacks** — plant details (e.g. Octavian hating a nickname) and pay them later. **Playfulness** between characters (banter, teasing, shared private jokes), not only dread and arithmetic.  
-**Prose HEAD at planning:** `6798218` / post AI-tell; chapters still pre–story-first implementation  
-**Status:** Plan only. **No chapter prose edited in this deliverable.**
+**Prose:** S-A0 begun (early chapters); principles below govern **all** later passes book-wide.  
+
+### Standing craft laws (author examples = general, not one-offs)
+
+Every cold-read example is a **standing law for the whole novel**, not a ticket to fix only that instance. Instance work (e.g. one nickname callback, one Brutus room) is **seed / proof of method**, not completion.
+
+| Law | Means in practice (book-wide) |
+|-----|-------------------------------|
+| **Connected story, not checklist** | Events, objects, jokes, nicknames, debts, doors, scandals **recur** in changed circumstances so the book feels continuous |
+| **People before syllabus** | If a beat only advances 44–42 BCE and no one’s want, cut or fold it |
+| **Don’t protect useless facts** | Historical truth does not guarantee a place on the page |
+| **Behind-backs / plant then arrive** | Important people and tensions exist in other mouths **before** their big scenic entrance (Cleopatra is the type-case, not the only case) |
+| **Group talk** | Prefer **≥3 people in a room** for social/political life; not only conspiracy conversion scenes |
+| **Station politeness → exit complaint** | Face in the room; truth in the corridor — recurring engine, not one gag |
+| **Show relationships** | Bonds proved by behaviour, tease, cost, callback — not nametag sentences |
+| **Reluctance earned** | Major yeses (Brutus type-case) come through resistance under pressure — apply to other conversions too |
+| **Humour that registers** | Audible, character-true, with in-scene reaction; still off in grief/terror peaks |
+| **Playfulness** | Allies/rivals banter and share private jokes across the cast, not only Agrippa–Octavian |
+| **Show, don’t tell** | Cut captions for friendship, loyalty, destiny, theme |
+
+**Connectivity test (use every pass):** After drafting a chapter, ask: What from earlier chapters **echoes** here? What planted here **must** be paid later? If neither, the chapter is still a checklist tile.
 
 ---
 

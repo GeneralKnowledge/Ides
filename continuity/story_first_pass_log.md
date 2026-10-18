@@ -4,7 +4,8 @@
 **Branch:** `cursor/story-first-craft-locks-cb1d`  
 **Plan:** `continuity/story_first_intrigue_plan.md`  
 **Pass:** **S-A0** (craft spine) — first prose implementation  
-**Not done yet:** full S-A1 gossip sweep, S-A2 dwell merges, S-B1 afterlife block
+**Author clarification:** Examples (nickname, Cleopatra, Brutus room, humour, etc.) are **general laws** for the whole book. S-A0 instance fixes are seeds/method proofs — **not** “done because one callback exists.”  
+**Not done yet:** full S-A1 gossip sweep, S-A2 dwell merges, S-B1 afterlife block; book-wide connectivity / play / humour density
 
 ---
 
