@@ -15,7 +15,7 @@ Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + 
 Interim “decision cold-read yes” after gold dwell: **withdrawn** by deep audit.  
 Anti-formula densify: **done** — floor 0–1 targets (Ch 13/7/20/23) cleared on those files.
 
-**Current verdict:** criticism-resistant finished-line still **not automatic**. Expansion architecture + character bible now live (`continuity/expansion/`). Residual thinness is **missing grandeur/subplots/rooms**, addressed by deposit map — not another cold-read gate.
+**Current verdict:** criticism-resistant finished-line still **not automatic**. Expansion architecture + first deposit waves live; **Integration Review 2.0** (`continuity/expansion/expansion_integration_review.md`) finds **no P0 causal break** and recommends **integrate-first** (under-integrated deposits), not another deposit wave or cold-read gate.
 
 ---
 
@@ -103,7 +103,7 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 Act 5 ordeal + law sweep + gold dwell + deep audit + anti-formula + **residual tissue densify: done** (`residual_tissue_densify_pass_log.md`).
 
-**Next:** Waves 1–3 + D22 fringe LANDED (~50.7k). Further LEN-1 via new mapped beats or selective densify only.
+**Next:** Integrate under-integrated deposits (D2, D16; clarify D5). Apply expansion stopping rule before any new beat. LEN-1 is scale, not a gate.
 
 **Not next:** another ≥2-laws sweep; second gold dwell; padding to word count; treating architecture as finished novel.
 
@@ -111,4 +111,4 @@ Optional skip: gold spine Ch 14–16 knife core reopen (protect; fringe mesh onl
 
 ---
 
-*End shortfall review. Expansion architecture + first deposit waves landed; LEN-1 still open.*
+*End shortfall review. Expansion Review 2.0: integrate-first; stopping rule active.*
