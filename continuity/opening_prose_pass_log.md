@@ -90,3 +90,7 @@ Dinner now has a fourth agenda in the room and a forced silence that isn’t out
 - Unpaid account remains a useful consequence only — no subplot seed beyond Ch 3 stitch already present.
 
 Ch 3–4: untouched in this refinement.
+
+### Tiny fixes (author review)
+- Ch 1: petitioner smile lands once (door-slaves’ gap), not twice.
+- Ch 2: second veteran no longer repeats “Gold doesn’t plough”; look at spit/oil jars carries it.

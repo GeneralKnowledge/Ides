@@ -42,7 +42,7 @@ Cassius, lightly, to the space between host and New-Africa: “Some of us are fo
 
 New-Africa barked a laugh that wanted company. The host’s eyes narrowed a fraction—station warning. The petitioner laughed too, grateful to be included in any sound, and then looked as if he wished he had not.
 
-He left early, courteous—thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend. The petitioner was still smiling at empty air when Cassius’s sandals found the threshold.
+He left early, courteous—thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend.
 
 In the street, New-Africa caught up as if by accident, still smiling for the door-slaves.
 
@@ -52,7 +52,7 @@ Cassius walked. “You laughed at the right toast. That is a skill.”
 
 “And you digested.” New-Africa glanced back. “Also—watch the Transtiberim talk. Men who joke about the queen’s boy at dinner are pricing something. I don’t know what. I only know my land came with a silence attached.”
 
-Cassius kept *queen / child / silence* with the names that had smiled wrong. He did not use the word *recruit*. Words like that belonged to later rooms. Behind him, through the door-slaves’ gap, the petitioner was still smiling at nothing.
+Cassius kept *queen / child / silence* with the names that had smiled wrong. He did not use the word *recruit*. Words like that belonged to later rooms. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
 
 ---
 

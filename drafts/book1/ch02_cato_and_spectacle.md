@@ -75,7 +75,7 @@ Near the Domus steps a banker-looking man—ring, stylus, onion-and-money face�
 
 Caesar passed at the edge of sight—or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn't look at her. Great men didn't look at errands. She preferred it—looking made you responsible for what you saw.
 
-A second veteran, younger, argued with the first about colonies and whether Africa’s corpse meant Italy’s farms. Neither had a farm. Both had scars. One of them glanced at her oil jars as if a Domus errand made her a clerk of promises. “Tell your house,” he said, not quite joking. “Gold doesn’t plough.”
+A second veteran, younger, argued with the first about colonies and whether Africa’s corpse meant Italy’s farms. Neither had a farm. Both had scars. The younger one glanced at her oil jars as if a Domus errand made her a clerk of promises, then at the spit still drying on the stone, and shut his mouth.
 
 Nysa walked between their voices and did not answer. Answering was how errands became politics, and politics was how basins got dropped.
 
