@@ -1,6 +1,7 @@
-# Chapter 2 — Debt
+# Chapter 3 — Debt
 
-**Mid-tier pass** · SC-03, SC-04 · 46–45 · TONE-1
+**Mid-tier pass** · SC-03, SC-04 · late 46–45 · TONE-1  
+**Dinner-first reorder:** former Ch 2; follows Ch 2 street weather.
 
 ---
 
@@ -84,6 +85,6 @@ A cake-seller from two stalls over—flour still on her forearms—leaned in wit
 - F2 deeper debt to F4; patronage machinery shown; F4 Batiatus tone held.  
 - **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.  
 - FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.  
-- **Law-sweep:** ≥3-person atrium (patron + secretary + Seius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour (no nametag); Africa *closed enough* → Spain-unfinished rates callback to Ch 1; Seius obligation planted for later collect.  
+- **Law-sweep:** ≥3-person atrium (patron + secretary + Seius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour (no nametag); Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.  
 - **Expansion D16 / IR-1:** Cake-seller Spain-rate question kept; meta “plant only” warehouse speech stripped.  
-- Next: Ch 3 Munda.
+- Next: Ch 4 Munda + soft chains.

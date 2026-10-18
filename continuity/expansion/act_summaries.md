@@ -20,7 +20,7 @@ Chapter map remains the unit; chains record only *meaningful* relationships — 
 
 - **Hordeonius rates / Seius debt** → Seius owes wax → later almost-recruit flinch & petition cowardice (T3).  
 - **Laberius Capua prayer (Ch 3)** → unpaid dirt travels → funeral torch choice / Mutina mud / Italy underestimation (T4).  
-- **Brutus burns clemency dinner** → soft-chain refuse → Ch 8 group pressure can still tip him (not already-in).  
+- **Brutus burns a late-45 soft-chain dinner invite** (not Ch 1’s late-46 OPEN-1) → soft-chain refuse → Ch 8 group pressure can still tip him (not already-in).  
 - **Diadem + Fulvia *temporary*** → kingship oxygen → Cassius veiled talk can recruit on weather, not on one speech.  
 - **OCT hopeful-shadow ban (Ch 5)** → name-war callback (Ch 22) without destiny voice.
 

@@ -5,14 +5,14 @@
 
 | ID | When / where | POV | Beat | Ties | Info | Consequence |
 |----|--------------|-----|------|------|------|-------------|
-| B01 | Africa news→Rome 46 | CIC / F4 | Victory + Cato’s suicide lands as moral shock | A1 | Elite: Cato martyr; Public: games hope | Chain 1 starts |
-| B02 | Triumph season Rome | CAE sparse / F1 | Spectacle of conquest; slaves & booty | Timeline 46 | Public awe | Veterans watch land |
+| B08 | Rome **late 46** | CAS | Pardoned but raw; clemency dinner slight **D** (Africa-favour climber); queen/child rumour | M motives · S2 | Private RES; open Ch 1 | PERS fuel; Chain 1 starts |
+| B01 | Rome late 46 (same season) | F4 | Africa/Cato still moral-economic weather (A1 aftermath) | A1 | Elite: Cato martyr; Public: rates | Street dual engine |
+| B02 | Rome late 46 | F1 | Spectacle residue; land spit; Domus eyes | Timeline 46 · FS10 | Public awe / hangover | Veterans watch land |
 | B03 | Rome 46–45 | F2 | Junior seeks patrons under Caesar’s sky | — | Elite opportunism | Sets almost-recruit later |
 | B04 | Sabinum/urban | F4 | Debt market prices “peace” | Econ | Money calm ≠ political calm | F2 dependency |
 | B05 | Spain approach 45 | F3 / CAE | Hard campaign texture; fear of defeat | A2 | Camp truth vs Rome rumour | False death rumours possible |
 | B06 | Post-Munda | F3 | Sextus escapes — camp shrug | A2, FS11 | Underreported | Long naval fuse |
-| B07 | Rome late 45 | BRU | Accepts offices; Porcia marriage pressure | Soft anchors | Private strain | LIB motive deepens |
-| B08 | Rome late 45 | CAS | Pardoned but raw; dinner slight **D/C** | M motives | Private RES | PERS fuel |
+| B07 | Rome late 45 | BRU | Porcia marriage pressure; burns a *later* soft-chain dinner invite (**not** B08 replay) | Soft anchors S1 | Private strain | LIB motive deepens |
 | B09 | Rome late 45 | DEC | Named in trust networks; hears will gossip | FS05, FS21 | Private: secondary heir whisper | Irony plant |
 | B10 | Rome 45–44 | OCT peripheral | Youth at edge of ceremonies | FS01 | Public: irrelevant boy | Reader trap |
 | B11 | Apollonia prep early 44 | OCT / F3 echo | Training for East; Agrippa companion plant | FS02–03 | Distant from Senate heat | Absence at Ides |

@@ -35,7 +35,7 @@ Packing; Ammonius irritation; statue left with Venus; harbour continuity talk.
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 4, 6 | Dinner/gossip price |
+| Plant | 1, 6 | Dinner/gossip price (Ch 1); F4 re-hear (Ch 6) |
 | Pressure | 17–18 | Paper unfinished problem |
 | Choice | 20 | Schedule vs inspection |
 | Echo | 26 | Sail as courier weather |

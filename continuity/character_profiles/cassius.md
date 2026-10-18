@@ -36,7 +36,7 @@ Naming doors softly; walking Galba’s winter; mint arguments; keeping three wes
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Setup | 4, 7–8 | Ops itch; Galba price; group room |
+| Setup | 1, 7–8 | Soft-chain dinner open; Galba price; group room |
 | Pressure | 13, 15–16 | GO; portico delay cascade |
 | Choice | 25, 32 | Collecting; half-now sureties |
 | Cost | 32–33 | Decimus debit; incomplete report |

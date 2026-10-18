@@ -131,6 +131,12 @@ Working order (not “history proven”):
 | **HUMOR-1** | Medium; Batiatus on F4/Cicero; near-off on Ides knives / Cicero death | Guardrail / preference |
 | **SOFT-1** | FUNERAL-1 / EXIT-1 / CLEO-1 blessed for drafting | History |
 
+### OPEN-1 — Clemency dinner opening (**continuity commitment** / **D**)
+- **Book 1 opens** on a fictional Caesarian dinner, **late 46 BC** (after Africa triumphs; Cleopatra newly lodged across the Tiber — presence **B**/S2).  
+- **Climber:** Africa-favour recipient (*new Africa*) — invented favour/posting texture, **not** a documented appointment.  
+- **Was:** late-45 “New-Spain” slight in former Ch 4 SC-08. **Reworked** for chronological dinner-first open (Option 2a); see `opening_pov_design_review.md` §11 + `dinner_first_opening_pass_log.md`.  
+- Brutus’s burned invitation (Ch 4 SC-07) is a **separate** late-45 soft-chain dinner — not a replay of OPEN-1.
+
 ## Still unlocked
 
 | ID | Item |
