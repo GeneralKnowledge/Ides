@@ -146,6 +146,16 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 8. Reading plan — skip to golden chapters
+
+**Author:** After ~Ch 6, skipping ahead to the **golden chapters (Ch 14–19)** — house wakes wrong → litter/portico → Curia → Capitol/amnesty → paper/heirs → funeral/Cinna.
+
+**DOCX sample:** `exports/Ides_Book1_Golden_Chapters.docx` (also `Ides_Book1_Golden_ONLY_Ch14-19.docx`).
+
+**Caveat for later judgment:** §5–§7 hypotheses were formed on the Act 1 ensemble opening, not on this Ides spine. The golden stretch is the draft’s intended density/drama ceiling — a fair stress test of drive vs talk, and of whether anyone becomes followable under pressure. It will not by itself answer whether Act 1’s fog is fixable without redesign.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
