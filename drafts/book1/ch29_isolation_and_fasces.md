@@ -14,7 +14,9 @@ Overhear risk: Dwindling staff
 
 ---
 
-Decimus left Mutina’s relief into a map where Plancus hesitated, Lepidus’s promised date never arrived, and Antony—bleeding but unbroken—slid toward friends Decimus could not buy. He looked for a destination mark on the wax itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing.
+Decimus left Mutina after the relief had made the wall honest again—Hirtius’s dirt still drying on the road, Antony thinned but not finished, the town’s hinges finally someone else’s problem for a morning. At the first milestone past the gate he waited half that morning for Plancus’s promised meeting-mark. No cohorts. No date. Only dust that refused to become wagons. Near noon a rider from the Lepidus channel he had seeded after the funeral—same averted eyes as the messenger who would not take a return tablet on the road north in March—handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Goodwill without a roof. Decimus kept the returned tablet and did not invent a fourth meaning for *yet*.
+
+He looked for a destination mark on the itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing. Antony—bleeding but unbroken—was already sliding toward friends Decimus could not buy.
 
 Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady—gates held, honour intact—and stopped mid-sentence when his hand cramped. He didn't send a second copy.
 
@@ -24,9 +26,9 @@ Then he rode with dwindling staff into country that did not care who freed the R
 
 “They will say I did not pursue,” the first aide muttered.
 
-“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched—I smelled horse-lines on the wind this morning. If Plancus meant to meet us, he would have sent a date by now. We do not wait for dates that practice absence.”
+“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched—I smelled horse-lines on the wind this morning. Plancus did not come at the milestone. Lepidus’s man returned the tablet. We do not wait for dates that practice absence.”
 
-The second aide—older, tablet-hand still inked from Mutina’s last courtesy copy—spoke the count Decimus had been avoiding as a list of people. “Plancus: admiration, no cohorts, no date. Lepidus: promised meeting, messenger who would not take a return tablet. Pacuvius’s orbit: Antony’s storm still eating roads we needed soft. Three soft allies. Zero wagons. That is the betrayal number—not weather.”
+The second aide—older, tablet-hand still inked from Mutina’s last courtesy copy—spoke the count Decimus had been avoiding as a list of people. “Plancus: admiration, no cohorts, no date—you waited. Lepidus: promised meeting, messenger who would not take a return tablet—twice now. Pacuvius’s orbit: Antony’s storm still eating roads we needed soft. Three soft allies. Zero wagons. That is the betrayal number—not weather.”
 
 Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fourth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn't stop to fix it. He checked his horse’s mouth for sores and found none. The sores were in the map: every promised friend a thinner line than yesterday.
 
@@ -97,4 +99,4 @@ Still not serene. Still learning where ruthlessness lived in the body—usually 
 **Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.
 - Road ordeal — humour OFF at Decimus death; ranks/Senate pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny.  
 - **Tissue:** Agrippa “homework with fasces” bite after pay-line (humour ON, OCT refuses smile)—playfulness without caption.  
-- **Expansion D14:** Pre-ford staff names Plancus / Lepidus / Pacuvius-orbit as soft-ally betrayal count (not abstract number).
+- **Expansion D14 / IR-1:** Post-relief milestone wait (Plancus empty) + Lepidus-channel rider returns tablet unopened (Ch 20 callback); staff count names both as lived absences—not Lepidus sole killer.

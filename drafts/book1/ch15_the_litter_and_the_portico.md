@@ -33,9 +33,9 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 “Bring me what you have.”
 
-“I burned my copy,” Nysa said. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn't Senate shape. It was splinters.”
+“I burned it,” Nysa said—and felt the linen grain against her ribs contradict her, the same cheap lie she had once sold Phileros with an empty palm. Showing incomplete wax now, with the litter already gone, would only make her the morning’s omen. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn't Senate shape. It was splinters.”
 
-Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name—not *someone*.”
+Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name—not *someone*.”
 
 Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
@@ -51,7 +51,7 @@ Phileros tried again from the vestibule edge, softer. “Domina—if the college
 
 “If the college sends, they send to me by name,” Calpurnia said. “Not through your *someone*. And Nysa—if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
 
-Nysa nodded once. Burning had been habit; habit had just been rewritten.
+Nysa nodded once. The order landed on a lie she had not confessed: bring the next splinter before burning. The one against her ribs stayed where fear had put it.
 
 Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
 
@@ -64,7 +64,8 @@ The bed did not argue. From the street rose the ordinary roar of the Ides. Power
 ## Continuity notes (SC-40)
 - Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.  
 - **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.  
-- **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
+- **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.  
+- **IR-1:** Nysa’s “I burned it” = deliberate lie (fragment still on body → Ch 19 burn); Calpurnia does not search; NOTE-1 dual unchanged.
 
 ---
 

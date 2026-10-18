@@ -168,7 +168,7 @@ He left the bargaining room with praise still arranged on his mouth—peace, bre
 
 “Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
 
-Farther down the same corridor—near the side door servants used when mistresses did not want to be seen pricing—two women’s mouths moved without entering the bargain room. A Fulvia-shaped voice, dry as a ledger: “Amnesty is a night’s kindness. Paper that stands overnight is a husband’s war-chest. Do not let Cicero’s peace sand Antony’s acts into furniture.” A Servilia-shaped answer, milder and sharper: “Then price whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Mark me when amnesty asks Brutus to thank a consul for surviving.” Neither voice asked Cicero’s opinion. Both priced the same amnesty he had just sold as breath.
+Farther down the same corridor—near the side door servants used when mistresses did not want to be seen pricing—a woman whose messenger wore Antony’s house-ring stopped a clerk mid-bow. “Amnesty is a night’s kindness,” she said, dry as a ledger. “Paper that stands overnight is the consul’s war-chest. Do not let Cicero’s peace sand the acts into furniture.” Another mouth answered from the opposite wall: an older steward carrying a tablet still soft with Brutus’s mother’s seal. “Then price whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Mark me when amnesty asks Brutus to thank a consul for surviving.” Neither asked Cicero’s opinion. Both priced the same amnesty he had just sold as breath—and both were already spending someone else’s authority to do it.
 
 The client’s voice thinned once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
@@ -184,7 +184,7 @@ On the seventeenth, when the bargain had begun to harden, he allowed himself a t
 - Contemporary hope shown; amnesty + acts ratified seed funeral power.  
 - **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.  
 - **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).  
-- **Expansion D2:** Fulvia/Servilia offstage corridor mouths price amnesty paper / whose sons the paper wounds (T2; no new POV).
+- **Expansion D2 / IR-1:** Corridor pressure via Antony-house messenger + Servilia-orbit steward (seal still soft)—lived authority, no “shaped” labels; T2; no new POV.
 
 ---
 

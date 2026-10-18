@@ -40,7 +40,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Intersects:** A (Brutus yes cost); B (paper/boy/Antony)  
 **End state:** Paid at Antium — not every act needs a women’s room.  
 **Must not:** Porcia cheerleader; Fulvia nag stereotype.  
-**Integration note:** **D2 under-integrated** (“Fulvia-shaped / Servilia-shaped” corridor). Revise to earned presence or fold into banker mouths — do **not** add a second Antium.
+**Integration note:** **D2 revised (IR-1)** — Antony-house messenger + Servilia-orbit steward in Ch 17 corridor. Do **not** add a second Antium.
 
 ---
 
@@ -58,7 +58,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Intersects:** B (will/lists); SIDE-1 as **ash pressure only**  
 **End state:** Paid as pressure; killer unsolved (OPEN-0) — deliberate.  
 **Must not:** Solve SIDE-1; warehouse gag as soft centre.  
-**Integration note:** **D16 redundant/craft-leak** — strip meta “plant only” speech on revision; Ch 2 baker/Sosia already carry the street.
+**Integration note:** **D16 IR-1** — meta plant-speech stripped; cake-seller Spain-rate + baker/Sosia centre held.
 
 ---
 
@@ -94,7 +94,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Intersects:** A aftermath (who holds roads); Decimus death path  
 **End state:** Paid — evaporation earned socially; Lepidus **not** confirmed sole killer.  
 **Must not:** Omniscient betrayal narration.  
-**Integration note:** Plancus faces earned (Ch 20/26); **Lepidus still mostly named-not-shown** before Ch 29 count — densify existing messenger silence, don’t invent a Lepidus POV. Mutina **relief→isolation** needs one concrete absence at Ch 29 open so betrayal follows relief, not fog.
+**Integration note:** **IR-1:** Ch 29 post-relief milestone (Plancus empty) + Lepidus-channel rider returns tablet (Ch 20 callback). Still no Lepidus POV / sole-killer confirm.
 
 ---
 
@@ -130,7 +130,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Intersects:** A stored-mistake cascade; B brand vs paper  
 **End state:** Paid — extraction as lived rooms; humour OFF at brand-crack peaks.  
 **Must not:** Actium foreshadow as evidence.  
-**Integration note:** D5 (Cleo intermediaries) is **T6/T7-adjacent plant** whose payoff is refuse-to-buy courtesy — **not** a Ch 26 Cleo encounter. Map clarified in deposit disposition.
+**Integration note:** D5 payoff = refuse-to-buy courtesy on schedule (IR-1 docs + prose meta strip). Ch 26 courier = sail confirmation only (CLEO-1).
 
 ---
 
