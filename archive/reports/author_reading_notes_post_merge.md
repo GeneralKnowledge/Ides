@@ -327,6 +327,27 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 16. Bakers — explained thread, or just appear?
+
+**Author:** Bakers are mentioned a few times. Is that ever explained, or have they just appeared?
+
+**Verdict:** Mostly **just appear** as Forum/street ecology — not a named throughline, faction, or subplot.
+
+**What exists:**
+
+- **Ch 2–3 (grounded once):** Cake-seller across from Hordeonius; a baker’s agent wants cheaper seed grain after Africa / with Spain unfinished; snorts at “warehouse of greed”; cake-seller asks whether Spain means cheaper seed for her boys. This is the only scene where bakers are *people in a room* with a commercial stake.
+- **Later (synecdoche):** “Baker’s boy” ordinary March prices (Ch 13); “before the bakers lie about it” (Ch 16); “before the bakers invent a different martyr” / “let the bakers bury him” (Ch 17); “Bakers say the gardens…” (Ch 21); “Bakers would get the short version” of Decimus gone (Ch 29).
+
+**Design intent (canon):** `secondary_cast` — crowd / fuller / bakers = ecology, not “the people” thesis mouthpiece. Civic-machine summary also lists baker as multi-class weather beside veteran / banker / consul.
+
+**Reader risk the note names:** after Ch 3, “the bakers” can feel like a recurring cast that never got introduced — actually they are a shorthand for rumour-street / bread-price Rome, reused without return to the stall.
+
+**Later (if pursued):** either lean into ecology on purpose (keep anonymous), or one light callback to the Ch 3 agent/cake-seller so the later chorus feels like the same world — not a baker conspiracy.
+
+**Do not yet:** invent a baker plot mid-read.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
