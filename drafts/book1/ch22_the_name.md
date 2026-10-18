@@ -41,7 +41,9 @@ The follower flushed, bowed too deep, and fled as if dismissed from a temple. Ci
 
 “Philippus will not call him that,” someone murmured.
 
-“Neither will I,” Cicero said lightly, and meant it as taste, not prophecy.
+“Neither will I,” Cicero said lightly, and meant it as taste, not prophecy. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated: not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume; it had not retired.
+
+Cicero’s smile held. “They are still exercising,” he murmured to no one, tasting Fundi’s earlier weather. “Tell me when the exercise stops amusing them.”
 
 Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there.
 
@@ -94,5 +96,7 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - Name accepted; Antony misreads. Chain 5 lit. Next: Ch 23 street/money/majority.  
 - **1D.5:** Follower *Caesar* greeting aloud; Atia/Philippus pressure; veteran pay-door warning Antony dismisses.  
 - **S18/S19:** “hopeful shadow” callback (follower + Agrippa); Antony/Fulvia play on squeak/shadow underestimation.  
+- **S-B1 / S9:** After name-take, elder/wine-shop underestimation continues as sport (Cicero hears weeks-until-cheap bet); pays Ch 21 Fundi collision.  
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
 **Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.
+- **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.

@@ -26,17 +26,23 @@ Antony’s stylus paused on a lesser enemy first—a man who had borrowed money 
 
 Lepidus looked at his hands as if hands could abstain from history. Octavian’s face didn't move enough to save anyone. For a breath the boy counted the cost of sparing Cicero—Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood.
 
-Saving the orator would have cost a different war—one with Antony still armed and the coalition already smelling of unfinished business. Octavian kept the cost behind his teeth. He corrected nothing. He offered no period.
+Antony’s finger stayed on the blank. “Say it,” he said—not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
+
+A lesser name sat two lines up—a man Octavian half-owed from Apollonia’s edge, useful, not loved, killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
+
+Saving the orator would have cost a different war—one with Antony still armed and the coalition already smelling of unfinished business. Octavian kept that cost, then spent it aloud.
+
+“Cicero stays,” he said. Voice thin, audible, irreversible. He did not dress it as law. He set his seal ring on the tablet’s edge—personal token, metal clicking wood—so the assent had a body in the room, not only silence. “We do not trade him for a quieter cousin.”
 
 Lepidus cleared his throat. “He still has friends who write.”
 
 “Then they can write his epitaph,” Antony said. “Or they can join him.”
 
-Who had first thought the name did not matter on the wood. The name stood, and no one struck it out. Leaving it contested was at least honest; nobody spoke against it.
+Who had first thought the name did not matter on the wood. The name stood because Octavian had said it stood, and no one struck it out. Leaving the first thought contested was still honest; the assent was not.
 
-“We buy the war with this,” Antony said, tapping the tablet.
+“We buy the war with this,” Antony said, tapping the tablet beside the ring.
 
-“The war buys us,” Octavian answered, too soft to be a quip, too true to unsay.
+“The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving. Formiae had been purchased in that sound.
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
@@ -75,8 +81,9 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 ---
 
 ## Continuity
-- Lex Titia; proscriptions; Cicero naming contested (C) — dramatised as Antony shapes, OCT does not strike out.  
+- Lex Titia; proscriptions; Cicero naming contested (C) — Antony shapes; OCT assents aloud + seal-ring token; refuses quieter swap.  
 - **1F / I2:** Bononia moral pause + Lepidus nudge; chalk-wall street beat so Formiae feels bought.  
+- **Act5 ordeal:** visible irreversible at table (assent + token) so Ch 31 death feels purchased by choice; F-triptych held.  
 - MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
 **1G:** historiographic “traditions would disagree” removed.
-
+- **Law-sweep:** Bononia ≥3; F2/F4/F1 triptych; Seius relief/shame by behaviour; Cinna-wrong laugh echo (bitter, not gag); lists pay Ch 23 flinch / Ch 32 courier; SIDE-1 archaeology held.

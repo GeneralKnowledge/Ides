@@ -146,3 +146,4 @@ He slept little. When he did, the Forum would not stop cheering, and a crown kep
 - Galba first approach; Ligarius queued; compartments held.  
 - MUST_EXPRESS: C3 recruitment engine; B2 plural motives begun.  
 - Next: Ch 9 Decimus + spare Antony.
+- **Law-sweep:** Group room ≥3 (Cassius/Casca/Servilia/Brutus); Galba→Ligarius exit-complaint; Casca humour + insomnia rate; costly inch not clean yes; Galba winter / Casca doors plants.

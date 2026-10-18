@@ -64,7 +64,7 @@ He walked the walls at night with a cloak that did not keep the Ides out. The de
 
 # SC-74 — The Senate’s Sword
 
-POV: Cicero / Octavian · Rome  
+POV: Cicero / Octavian · Rome (compressed)  
 Date / place: Curia fringe / after-session  
 Canon refs: Chain 6 tragic misread · C5 · C7  
 Info ENTER: Fear of Antony · EXIT: Octavian instrumentalised  
@@ -72,28 +72,21 @@ Overhear risk: Curia
 
 ---
 
-Cicero argued Octavian into usefulness the way he argued clauses into laws.
+Cicero argued Octavian into usefulness the way he argued clauses into laws—three bodies in the fringe: Cicero, a sweating senator who feared Antony more than boys, and Octavian present enough to be aimed.
 
-“The young Caesar”—he still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” Senators who feared Antony more than they feared boys voted with their sweat. Someone muttered about adoption and armies in the same breath as if grammar could make them one animal. Cicero watched undecided mouths close into agreement and mistook the closing for virtue’s return.
+“The young Caesar”—Cicero still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath as if grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
 
-Octavian, present enough to be seen, young enough to be underestimated twice, listened to himself become a tool. Apollodorus hovered with a cloak. Agrippa’s absence was a fact Octavian carried like a spare knife—needed elsewhere, trusted. A clerk miswrote his age on a note; Octavian corrected the number and left the tone alone.
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age; he corrected the number and left the tone alone.
 
-He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* When Cicero’s gaze sought approval, Octavian gave a nod calibrated to be readable as obedience and nothing else.
-
-He didn't smile. Smiling would've looked like a man who already owned the morning. He owned only a boy’s face, a borrowed name, and legions beginning to smell him as paymaster.
-
-After the session a senator clasped Octavian’s arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure.
-
-A courier from the north had brought only fragments: Decimus holding; Antony digging; no hours Decimus would have trusted. Octavian kept the fragments separate and didn't ask the courier to choose one.
-
-Cicero went home certain he had saved the Republic with a clever adoption of force. He drafted a letter to Atticus that congratulated the day’s prudence. Outside his litter, a vendor sold hot food and called no one Caesar. Octavian heard the vendor and didn't correct him.
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. A northern courier’s fragments—Decimus holding; Antony digging—stayed unmerged in his hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
 
 ---
 
 ## Continuity
-- Parley dramatised: grain-count pressure; Decimus refuses; siege lit.  
-- OCT as Senate sword; not-Augustus held.  
+- Parley dramatised: grain-count pressure; Decimus refuses; siege lit (SC-73 held).  
+- SC-74 compressed: one 3-person persuasion fringe; OCT as Senate sword; not-Augustus held.  
 - MUST_EXPRESS: C5, C7, A10. Next: Ch 28 Mutina field.  
 **Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.
+**Act5 ordeal:** SC-74 summary compressed; SC-73 parley protected.
 **1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
-
+- **Law-sweep:** Parley ≥3 (Antony/Decimus + aides); grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe ≥3 aiming Octavian; humour low (siege light).

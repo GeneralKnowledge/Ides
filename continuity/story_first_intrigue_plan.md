@@ -3,9 +3,27 @@
 **Date:** 2026-10-18 (amended same day)  
 **Branch:** `cursor/story-first-craft-locks-cb1d`  
 **Author direction (locked):** Both detective engines. Proper story, not historical checklist. Lean into historical fiction. Audience can be slightly ahead (GOT S1 model).  
-**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell. More **three-or-more people in a room** talk in general. **Politeness by station** then **immediate complaint after they leave**. Humour must actually land for a cold reader (author at ~66% noticed essentially none — treat as under-served). **Callbacks** — plant details (e.g. Octavian hating a nickname) and pay them later. **Playfulness** between characters (banter, teasing, shared private jokes), not only dread and arithmetic.  
-**Prose HEAD at planning:** `6798218` / post AI-tell; chapters still pre–story-first implementation  
-**Status:** Plan only. **No chapter prose edited in this deliverable.**
+**Prose:** S-A0 begun (early chapters); principles below govern **all** later passes book-wide.  
+
+### Standing craft laws (author examples = general, not one-offs)
+
+Every cold-read example is a **standing law for the whole novel**, not a ticket to fix only that instance. Instance work (e.g. one nickname callback, one Brutus room) is **seed / proof of method**, not completion.
+
+| Law | Means in practice (book-wide) |
+|-----|-------------------------------|
+| **Connected story, not checklist** | Events, objects, jokes, nicknames, debts, doors, scandals **recur** in changed circumstances so the book feels continuous |
+| **People before syllabus** | If a beat only advances 44–42 BCE and no one’s want, cut or fold it |
+| **Don’t protect useless facts** | Historical truth does not guarantee a place on the page |
+| **Behind-backs / plant then arrive** | Important people and tensions exist in other mouths **before** their big scenic entrance (Cleopatra is the type-case, not the only case) |
+| **Group talk** | Prefer **≥3 people in a room** for social/political life; not only conspiracy conversion scenes |
+| **Station politeness → exit complaint** | Face in the room; truth in the corridor — recurring engine, not one gag |
+| **Show relationships** | Bonds proved by behaviour, tease, cost, callback — not nametag sentences |
+| **Reluctance earned** | Major yeses (Brutus type-case) come through resistance under pressure — apply to other conversions too |
+| **Humour that registers** | Audible, character-true, with in-scene reaction; still off in grief/terror peaks |
+| **Playfulness** | Allies/rivals banter and share private jokes across the cast, not only Agrippa–Octavian |
+| **Show, don’t tell** | Cut captions for friendship, loyalty, destiny, theme |
+
+**Connectivity test (use every pass):** After drafting a chapter, ask: What from earlier chapters **echoes** here? What planted here **must** be paid later? If neither, the chapter is still a checklist tile.
 
 ---
 
@@ -217,12 +235,12 @@ flowchart LR
 
 | ID | Where | Mechanism | Story effect |
 |----|-------|-----------|--------------|
-| **S1** | Ch 2 or 4 (dinner / debt orbit) | Behind-backs: queen in Transtiberim, child rumour, Caesar’s private hours priced as scandal | Cleopatra no longer born in Ch 20 |
-| **S2** | Ch 6–8 | Gossip of forever-offices + who is tapping doors; one overheard almost-recruit cost | Conspiracy feels social, not syllabus |
-| **S3** | Ch 9–11 | Echo spare-Antony disagreement in a non-conspirator mouth (Fulvia? Cicero fringe? F4 rate on “civil war insurance”) | Audience ahead on the stored mistake |
-| **S4** | Ch 12–13 | Staff/house talk linked to NOTE-1 fragment risk; GO locked under fear of being discussed | Warning track feels hunted |
-| **S5** | Ch 1–6 dwell | Reduce camera cuts in soft mosaic chapters: longer single-POV runs where possible (esp. Ch 1, 5, 6) | Characters, not collage |
-| **S6** | Protect peaks | Ch 14–16, 19: intrigue seeds only at edges; do not rebuild gold spine choreography | Keep what already hooks |
+| **S1** | Ch 4 planted (S-A0); **Ch 6 F4 travel done (S-A1)** | Warped re-hearing at banker stalls (gardens/hours/collateral). Do **not** re-dump Transtiberim dinner. Pay: Ch 18 will talk + Ch 20 packing | Reader prices queen/child before Cleo POV |
+| **S2** | **Ch 10 Seius done (S-A1)** | Non-conspirator soft-hour flinch cost (client notice + Seia Prima). Forever-offices anxiety still in Cassius shortlist (Ch 8) | Conspiracy feels like a city catching a cold |
+| **S3** | **Ch 10 F4 done (S-A1)** | Non-conspirator “civil-war insurance” / consul walks free of a bad morning. In-plot spare still Ch 7/9/13 | Audience ahead on stored mistake without spoiling Ch 15 |
+| **S4** | **Ch 12 Phileros near-miss done (S-A1)** | Household delay/near-catch on Nysa’s fragment — **without** merging with Artemidorus sealed note | Dual warnings stay dual; reader fears interception |
+| **S5** | **Ch 1, 5, 6, 11 done (S-A2)** | Longer single-POV runs; Ch 6 cut from 3 cameras to 2 (Nysa packing folded into F4); Ch 5 Forum→Apollonia continuous | Characters, not collage |
+| **S6** | Protect peaks — **dwell done** | Ch 16 core intact; Ch 14/15/17/19 dwell densified (SC-35c/40/41/45/50a + SC-43 exit fringe) | Humour-off / choreography-locked — not lower craft density |
 | **S12** | Ch 7–8 | **Group persuade Brutus**: multi-voice room; Brutus argues against; costly tip (rewrite Ch 8 tip away from caption-only) | Reluctance→conversion readable |
 | **S13** | Ch 4–9 | Strip relationship **tells**; replace with behaviour (esp. Decimus–Caesar key line; Brutus–Cassius permission captions) | Bonds felt |
 | **S14** | Ch 1–13 | Cut or fold useless fact stamps that don’t move a want | Less checklist dress |
@@ -238,11 +256,11 @@ flowchart LR
 
 | ID | Where | Mechanism | Story effect |
 |----|-------|-----------|--------------|
-| **S7** | Ch 17–18 approach | Street/F4 talk: gardens, *acts*, who the will might wound; queen as unfinished Roman problem | Will scene arrives pre-loaded |
-| **S8** | Ch 20 | Cleopatra POV becomes **payoff** of prior gossip, not introduction; one packing obstruction OK | Exit earned |
-| **S9** | Ch 5 + 21–22 | Elder/wine-shop/Cicero talk of the boy before and after name-take; underestimation as sport | Octavian continuous |
-| **S10** | Ch 23–24 | Behind-backs at Antium: who Servilia is rewriting, which eagle men refuse | Advice-room has prior voltage |
-| **S11** | Mid-band Ch 20–23 | Prefer same-room gossip collisions over letter-stack montage (aligns with old X1/X2 but story-first) | Stops syllabus cooldown |
+| **S7** | **Ch 17–18 done (S-B1)** | Corridor + F4: gardens, *acts*, who the will might wound; queen as unfinished Roman problem | Will scene arrives pre-loaded |
+| **S8** | **Ch 20 done (S-B1)** | Cleopatra POV as **payoff** of prior gossip + clerk packing obstruction | Exit earned |
+| **S9** | **Ch 21–22 done (S-B1)** (Ch 5 plant prior) | Elder/wine-shop underestimation as sport before and after name-take | Octavian continuous |
+| **S10** | **Ch 23–24 done (S-B1)** | Behind-backs: Servilia rewriting; eagle men refuse; colonnade exit-complaint | Advice-room has prior voltage |
+| **S11** | **Ch 21 + 23 done (S-B1)** | Same-room gossip collisions (Fundi couriers; F4 stall argument) over letter-stack | Stops syllabus cooldown |
 
 ### Gravity pass (throughout, light in A, heavier after B seeds)
 
@@ -254,14 +272,15 @@ flowchart LR
 
 ---
 
-## 5. Cleopatra specifically (author example)
+## 5. Cleopatra specifically (type-case of plant→payoff)
 
-**Current:** first scenic life in Ch 20.  
-**Target:**
+**S-A0 status:** Plant begun in Ch 4 behind-backs (Transtiberim / queen / child / gardens) — no Cleo POV.  
+**S-A1:** Warped re-hearing in Ch 6 F4.  
+**S-B1:** Pressure in Ch 17–18 (who finishes her story / gardens/will); **payoff** in Ch 20 packing + obstruction.  
 
-1. **Plant (Phase A):** Romans talk her — lodging, grain, child’s frankness, Cicero’s rudeness, Caesar’s absence from Roman beds — in Ch 2/4/6/7 orbit without her POV.  
-2. **Pressure (Phase B prep):** After Ides, talk shifts to “who finishes her story” and gardens/will.  
-3. **Payoff:** Ch 20 packing / Ch 26 sea = decisions we already feared, not a new cast member.
+1. ~~S-A1 rumour-travel~~ **done**.  
+2. ~~Phase B pressure~~ **done** (Ch 17–18).  
+3. ~~Ch 20 packing payoff~~ **done**; Ch 26 sea still later confirmation.
 
 Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her head if already constrained.
 
@@ -278,14 +297,18 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 ---
 
-## 7. Implementation sequence (after plan approval)
+## 7. Implementation sequence
 
-1. **Pass S-A0 (craft spine):** S12 Brutus group persuasion + reluctance; S13 show-don’t-tell on Ch 4–9; S14 cut useless early stamps; **S15–S17** start on early social chapters (3+ rooms, polite→complaint, audible humour).  
-2. **Pass S-A1 (seeds):** S1–S4 gossip/behind-backs insertions; continue S15–S17 where scenes open; minimal checklist growth.  
-3. **Pass S-A2 (dwell):** G1–G2 on Ch 1, 5, 6, 11 — merge or extend runs **without** collapsing needed 3-person rooms into monologue.  
-4. **Pass S-B1:** S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint + humour.  
-5. **Re-export DOCX** (FULL + golden).  
-6. Short log: `continuity/story_first_pass_log.md` (list which chapters got ≥3-person scenes and humour beats).
+1. **Pass S-A0 (craft spine):** **Done** on branch merged via #27 (Ch 1–5, 7–9, 22 seeds).  
+2. **Pass S-A1 (seeds):** **Done** — refined S1–S4 from §9 fan-theory audit (Ch 6, 10, 12); standing craft laws continued.  
+3. **Pass S-A2 (dwell):** **Done** — G1–G2 on Ch 1, 5, 6, 11; 3-person rooms held; Ch 6 no longer a 3-POV mosaic under ~900w.  
+4. **Pass S-B1:** **Done** — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint.  
+5. **Gold-edge + Act 5 ordeal + book-wide law sweep:** **Done** — see `gold_act5_laws_pass_report.md` / `story_first_law_sweep_log.md`.  
+6. **Gold spine dwell:** **Done** — Act-5-class density at SC-35c / 40 / 41 / 43-exit / 45 / 50a; locks held — see `gold_spine_dwell_pass_log.md`.  
+7. **Deep craft audit (surface vs integrated):** **Done** — delete-the-garnish Q1–Q5; verdict **NO DOCX** (Ch 13=0; 7/20/23=1) — see `deep_craft_audit.md`. Law-sweep ≥2-laws = false green.  
+8. **Anti-formula densify:** **Done** — Ch 13 → 20 → 23 → 7 + craft-noun strip 25/28F4/32/34; floor 0–1 cleared on those files — see `anti_formula_densify_pass_log.md`.  
+9. **Author cold-read of densified band** (Ch 7/13/20/23 spot) **or** residual-risk DOCX decision — **Next**. Residual ledger (Galba winter, humour desert, gravity) still unpaid.  
+10. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
@@ -311,4 +334,53 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 ---
 
-*End of story-first intrigue plan. Confirm to authorise Pass S-A1.*
+## 9. Backwards Fan-Theory Audit (S-A1 prep)
+
+**Method:** Work backwards from theories a perceptive reader might form, then plant only fair, motivated, double-readable evidence. Max three theories per existing engine. No third mystery engine. No chapter prose in this audit.
+
+**Repo state when audited:** `main` includes S-A0 (#27); this doc also carries standing craft laws (#28 lineage). Chapters 1–9 / 22 inspected for actual evidence.
+
+### Engine A — Ides detective (strongest theories)
+
+| # | Reader question | Existing evidence | Competing interpretation | Who knows / misleads | Payoff later | Canon | Action |
+|---|-----------------|-------------------|--------------------------|----------------------|--------------|-------|--------|
+| **A1** | Is Decimus’s open-hand access the real weapon? | Ch 4 road-trust + chin-tip; Ch 9 floor-plan recruit (he resists, then agrees); Ch 13 “key” tasking | He is only a logistics friend; someone else opens the door | Cassius/Brutus aim him; Decimus knows the cost and still chooses; Caesar trusts ease (AMB-1 — reader may wonder, narrator must not confirm knowledge) | Ch 14–15 fetch / Curia approach | Probable as *method*, not as Caesar’s foreknowledge | **Keep** — already strong; S-A1 needs no new Decimus speech |
+| **A2** | Will sparing Antony destroy them? | Ch 7 Trebonius “hold Antony with business”; Ch 8 Brutus forbids Antony-as-cordwood; Ch 9 spare win + Cassius exit complaint; Ch 13 Monday leash; **+ Ch 10 F4 civil-war insurance (S-A1/S3)** | Mercy is genuine statesmanship; Antony will negotiate | Conspirators disagree; Trebonius treats it as boring errand; non-conspirator now prices living-consul risk without ops | Ch 15 portico delay; Ch 16–19 funeral cascade | Probable as *stored mistake* (A5) | **Done** via S3 |
+| **A3** | Are there two warnings, and will both fail differently? | Ch 12 Nysa incomplete fragment + **Phileros near-miss (S-A1/S4)**; Ch 14–15 unread sealed note path (NOTE-1 dual) | One note; coincidence; household hysteria | Nysa lacks Senate shape; Phileros blocks/hunts; Caesar’s unread habit | Ch 14 vestibule fail; Ch 15 litter unread | Established dual tracks; unresolved relation | **Done** via S4 near-miss — notes still dual |
+
+**Rejected A-theories (do not seed):** Caesar confirmed knows the plot (violates AMB-1); SIDE-1 explains Ides; Cleopatra as Ides planner; single mastermind tidy-up.
+
+### Engine B — Name / will / heir detective (strongest theories)
+
+| # | Reader question | Existing evidence | Competing interpretation | Who knows / misleads | Payoff later | Canon | Action |
+|---|-----------------|-------------------|--------------------------|----------------------|--------------|-------|--------|
+| **B1** | Is Decimus’s “second line” a compliment that makes him a target? | Ch 4 loungers’ second-line laugh + exit bitching (“rumour with good boots”) | Idle envy; false wax | Loungers price without knowing; Decimus unsure | Ch 18 will reading (second degree) | Probable irony | **Keep** — plant done; ensure Ch 18 still pays the laugh |
+| **B2** | Are the queen and child already being priced into Caesar’s afterlife? | Ch 4 dinner Transtiberim/queen/child; portico “price the child / gardens / half-hour on roads”; **+ Ch 6 F4 warped gardens/hours re-hear (S-A1/S1)** | Xenophobic dinner sport; no will link | Romans gossip; no narrator certification of paternity politics | Ch 18 gardens/boy clauses; Ch 20 packing payoff | Rumour = social fact; CLEO-1 lodging soft | **Done** — plant + light travel |
+| **B3** | Is the ignored boy / “shadow” underestimated currency? | Ch 5 hopeful-shadow hate + Agrippa ban; Ch 22 name-take + Antony squeak/shadow play | He remains furniture | Octavian stiff; Antony comforts himself with jokes | Ch 22+ name war; Mutina/fasces | OCT≠Augustus | **Keep** — already callback-linked; S-A1 need not rebuild |
+
+**Rejected B-theories:** Omniscient narrator certifies Caesarion as political heir-fact beyond rumour; Octavian with future-Augustus mind; Actium foreshadow as evidence.
+
+### Uncertainties that must remain unresolved
+
+- AMB-1 (Caesar’s knowledge)  
+- NOTE-1 (one note or two; relation of fragment to sealed warning)  
+- SIDE-1 OPEN-0 (not Ides key)  
+- AMB-3 (no divine proof)  
+- How much of queen/child talk is true vs useful scare  
+
+### S-A1 recommendations from this audit
+
+| ID | Verdict | S-A1 do | S-A1 don’t | Status |
+|----|---------|---------|------------|--------|
+| **S1** | Mostly satisfied by S-A0 Ch 4 | Optional one warped re-hearing of queen/child talk | New Cleopatra dinner dump; certify facts | **Done** — Ch 6 F4 |
+| **S2** | Partial | One non-conspirator cost of soft-hour / door-tapping weather | Second Galba recruit scene | **Done** — Ch 10 Seius |
+| **S3** | Genuine gap | One Fulvia or F4 (or Cicero fringe) line pricing a consul who walks free of a “bad morning” | Spoil Trebonius’s Monday mechanics; put ops in street mouths | **Done** — Ch 10 F4 |
+| **S4** | Partial | One household delay/near-catch on Nysa’s fragment | Collapse NOTE-1 into a single tablet; confirm interception as Ides cause | **Done** — Ch 12 Phileros near-miss |
+
+**Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
+
+**Next implementation phase:** Author cold-read of densified Ch 7/13/20/23 (spot) **or** residual-risk-aware FULL + golden DOCX decision. Anti-formula floor clear — see `anti_formula_densify_pass_log.md`. Residual unpaid ledger from deep audit still open (not automatic finished-line export).
+
+---
+
+*End of story-first intrigue plan. S-A0→S-B1 + gold-edge + Act5 + law-sweep + gold dwell + deep craft audit + anti-formula densify done; next densified-band cold-read / DOCX decision.*

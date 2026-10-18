@@ -15,7 +15,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 3 | SC-05, SC-06 | F3 | Munda hard fight; Sextus escapes |
 | 4 | SC-07, SC-08, SC-09 | BRU, CAS, DEC | Clemency tension; will whisper |
 | 5 | SC-10, SC-11 | OCT | Peripheral boy; Apollonia/Agrippa plant |
-| 6 | SC-12, SC-13, SC-14 | CIC, F1, F4 | Dictator perpetuo; Parthia clock; offices market |
+| 6 | SC-12, SC-14 (SC-13 folded into F4) | CIC, F4 | Dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
 
 ---
@@ -56,7 +56,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68b, SC-69 | CIC, CAS/BRU | Philippics; East departure |
-| 26 | SC-70, SC-71, SC-72 | DEC, CLEO, report | Cisalpine; Cleopatra gone; Sextus |
+| 26 | SC-70 (+ CLEO-1/FS11 folded) | DEC | Cisalpine; Cleo/Sextus as rumour-margin only |
 | 27 | SC-73, SC-74 | ANT/DEC, CIC/OCT | Mutina begins; Senate’s sword |
 
 ---
@@ -70,8 +70,8 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 30 | SC-84, SC-85 | ANT/OCT/LEP, F2/F4/F1 | Triumvirate; **proscriptions** |
 | 31 | SC-86 | CIC | **Cicero death** |
 | 32 | SC-87, SC-88 | CAS, BRU | Extraction; liberty brand crack |
-| 33 | SC-89, SC-90, SC-91 | F4, ANT/F3, CAS | Blood land; Philippi I; **Cassius info-death** |
-| 34 | SC-92, SC-93, SC-94, SC-95 | BRU/OCT, ANT, OCT, report | Philippi II; hooks only |
+| 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |
+| 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; lean SERIES-1 hooks |
 
 ---
 

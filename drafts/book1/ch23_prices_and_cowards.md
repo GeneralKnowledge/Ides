@@ -22,9 +22,19 @@ Citizenship shortcuts, land whispers, exemptions with seals that looked tired—
 
 A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached.
 
-“Archaeology,” Hordeonius said gently. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
+“Archaeology,” Hordeonius said gently, blessing-flat. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
 
-The whisperer left offended. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
+The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offense waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched—audible almost—then he drank so the twitch would look like thirst.
+
+A Puteoli man and Sosia argued the next question in the same breath, same stool-space—collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted; Sosia said only veterans changed land risk; a third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+
+“I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather—watch which weather arrives with coin.”
+
+The Puteoli man wiped his brow. “You talk as if mourning were a price list.”
+
+“Mourning that refuses a price,” Hordeonius said, “is mourning that still wants a boy’s seal and a mother’s rewrite on the same stool.” Sosia’s mouth twitched toward a joke and died there—the Puteoli man was already leaning in for Servilia’s Antium talk, and jokes that named mothers out loud became line items. “Watch which veterans take the boy’s pay,” Hordeonius added, quieter. “Watch which paper arrives from Antium smelling like Servilia’s people. I do not sell you certainty. I sell you which rumour empties a purse first.”
+
+He priced the Puteoli question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
 ---
 
@@ -40,13 +50,17 @@ Overhear risk: Extreme staff
 
 The Domus Publica filled with new footsteps wearing old authority.
 
-Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking.
+Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking. Phileros hovered with the outer key. Dama watched from the chicken court as if birds were witnesses. Kindness that emptied chests still counted as kindness in the atrium’s mouth.
 
-“These are the people’s now,” he said of a chest. “In a manner of speaking.”
+“These are the people’s now,” he said of a chest. “In a manner of speaking. You will find us careful. Careful is kindness in a house between masters.”
 
-Phileros laughed once, short, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
+Nysa bowed the bow the atrium taught. “We are grateful for the care.”
 
-She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf—blank wax in the wrong hands had already become someone else’s line item.
+Phileros laughed once, short—too short for the steward’s kindness—and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
+
+When the steward’s kindness had moved to the next chest, Phileros’s short laugh became corridor truth for Nysa and Dama alone. “People’s chest. People’s seals. People’s careful hands in our cupboards. Kindness that empties a house still empties it.”
+
+Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel; she let it land as a breath through the nose—enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf—blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash; the house’s new seals were not. Continuity of danger without the old wax.
 
 In the corridor a clerk recited inventory like a prayer. Nysa carried oil and kept her eyes on doors.
 
@@ -96,5 +110,7 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 
 ## Continuity
 - Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).  
+- **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.  
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
-**Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
+**Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.  
+- **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.

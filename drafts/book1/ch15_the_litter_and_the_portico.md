@@ -25,26 +25,46 @@ Phileros talked too much, which meant he was afraid. “The chickens were sullen
 
 “A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
 
-Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door. She didn't. Questions made servants invent answers.
+Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door—then did.
 
-In the atrium the painted pediment—still whole, still smiling its public smile—seemed to lean. Calpurnia knew that was her mind. She also knew minds could be right while looking foolish.
+“Stop,” Calpurnia said. “What did you try at the vestibule.”
 
-A physician’s slave arrived with a message no one had requested: if Caesar felt the old swimming in the skull, rest was piety. The message was late on purpose. Careful men stayed employed that way after disasters.
+Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros wouldn’t let it through.”
 
-Calpurnia sent the slave away with courtesy sharp enough to cut.
+“Bring me what you have.”
 
-She walked to the cubiculum and closed the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
+“I burned my copy,” Nysa said. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn't Senate shape. It was splinters.”
 
-“He will come back,” she told the empty bed.
+Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name—not *someone*.”
 
-The bed did not argue.
+Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
-From the street rose the ordinary roar of the Ides—markets, oaths, a woman laughing as if laughter were still allowed. Calpurnia listened for a different sound and hated herself for inventing it in advance.
+She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
+
+In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise: Spurinna, beware, a king-bird already torn in someone else’s story. Pallas arrived with Calpurnia’s mantle as if dressing could stop a morning.
+
+“Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
+
+Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Pallas held the mantle and said nothing—loyalty that knew when silence was the only clean service.
+
+Phileros tried again from the vestibule edge, softer. “Domina—if the college sends—”
+
+“If the college sends, they send to me by name,” Calpurnia said. “Not through your *someone*. And Nysa—if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
+
+Nysa nodded once. Burning had been habit; habit had just been rewritten.
+
+Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
+
+“He will come back,” she told the empty bed—and hated that she had said it aloud, as if speech could hire a return. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes—the little road habit that had always meant the friend would go—and practised the silence she would keep when the house tried again to make omen into conversation.
+
+The bed did not argue. From the street rose the ordinary roar of the Ides. Power, when the litter was already gone, looked like refusing theatre until news arrived with a body attached.
 
 ---
 
 ## Continuity notes (SC-40)
-- Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.
+- Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.  
+- **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.  
+- **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
 
 ---
 
@@ -69,13 +89,17 @@ Near the turning toward the Campus, a man pressed in—Greek face, urgent manner
 
 “Read this,” the man said, or something near it. “Read it now. Alone.”
 
-Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. He slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on.
+Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. For a breath the seal sat in the open—wax dull, string tight, the particular weight of a message that wanted to be a door. Decimus’s hand twitched toward the stack before his face did. Snatching would look like theft. Letting it ride would look like ease. Ease was the costume he was wearing.
 
-Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that mornings were full of tablets, and that if he snatched at this one he would look like a thief in front of the man whose trust he was currently wearing like a clean cloak.
+The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast. “Him. Alone.”
+
+Caesar’s thumb brushed the seal as if curiosity had almost woken—then slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
+
+Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak—and that the almost-snatch would live longer in his wrist than in Caesar’s attention.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
-Caesar did not open it.
+Caesar did not open it. The unread paper rode against his knee like any other chore.
 
 At the portico of Pompey the air changed—shade, columns, the smell of stone that had watched other men’s ambitions. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood as if carved for a different century.
 
@@ -94,7 +118,8 @@ Decimus wiped his clean hands on his tunic, once, where no one would see, and we
 ---
 
 ## Continuity notes (SC-41)
-- Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.
+- Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.  
+- **Gold dwell:** Seal almost opens / Decimus almost-snatch cost; NOTE-1 dual held (seal stays unread).
 
 ---
 
@@ -115,13 +140,15 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word—three. You’ll thank me for keeping you from the first hour’s boredom.”
+“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word—three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another Monday—Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
-Antony grinned. “If it’s boredom, send a tribune. If it’s money, speak.”
+Antony grinned. “If it’s Monday, send a tribune. If it’s money, speak.”
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
-They spoke of nothing that mattered: a cavalry remount, a joke about a legate’s mistress, whether Hirtius wrote better than he fought. Trebonius was good at nothing-that-mattered. Antony found himself laughing, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+A legate’s attendant tried to cut in—remounts, a mistress joke already half-told—and Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant exited complaining under his breath that Monday-talk always ate the honest errands. Antony laughed at that, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+
+They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at Monday. That was the point.
 
 A thin suspicion crossed him—not plot, not dagger, only the soldier’s sense that a door had been closed behind his back. He glanced toward the Curia.
 
@@ -147,12 +174,15 @@ Antony felt for a weapon he had not brought into a Senate morning. His palm foun
 
 Trebonius said something mild. Antony didn't keep it. The mildness sat wrong—warmth while the Curia broke open.
 
-He ran—not toward philosophy, toward the door—and the crowd ran with him and against him, a single animal with too many mouths.
+Antony ran—not toward philosophy, toward the door—and the crowd ran with him and against him, a single animal with too many mouths.
+
+Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Monday had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
 
 ---
 
 ## Continuity notes (SC-42)
-- Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
+- Suspicion low until shouts; Trebonius = talk; Antony misses the blows.  
+- **Gold-edge / S18:** “Monday” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
 
 ---
 
@@ -161,3 +191,4 @@ He ran—not toward philosophy, toward the door—and the crowd ran with him and
 **Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.  
 **Edit pass 1:** cut “history to happen” wording from Decimus.  
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
+- **Law-sweep:** Monday callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).

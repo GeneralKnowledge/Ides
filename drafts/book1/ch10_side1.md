@@ -34,7 +34,13 @@ A laugh burst from the main hall—someone’s joke about a wrestler. Seius laug
 
 “Of course,” the man answered, already done with him.
 
-Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way to the street. Prudence tasted like relief and cowardice mixed, and he couldn't tell which spice was stronger.
+Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way toward the street.
+
+On the oil benches a client of his—soft-eyed, useful at dinners—pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The palaestra notices who gets invited into quiet and who exits empty.”
+
+Seius smiled the smile of a man who had paid for privacy and bought a notice instead. By the time he reached home Seia Prima had already heard, from someone who sold oil and opinions, that her husband had been tapped for a quiet hour and come out without a name. She did not ask which room. She only said, sweet as vinegar again, that prudence was expensive when it looked like flinching in public.
+
+Prudence tasted like relief and cowardice mixed, and he couldn't tell which spice was stronger. The city, he noted, was catching a cold: doors tapped after soft hours, and men who flinched paid in gossip before anyone admitted knives.
 
 ---
 
@@ -65,6 +71,12 @@ Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did no
 Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue.
 
 Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't. That was the trouble with truth: it sometimes wore humour's clothes without asking.
+
+When the perfume had cleared, Hordeonius added, almost to the ledger, “Atmosphere is what men buy when they want a consul to walk free of a bad morning and still collect interest afterward. Call it civil-war insurance if it comforts you. I do not underwrite mornings I cannot invoice.”
+
+Sosia grunted. “So if someone softens Basilus for liberty—”
+
+“Then liberty owes me a name that bleeds,” Hordeonius said. “Otherwise the consul keeps his morning, and I keep my seals. Men who suddenly need soft hours are already pricing a storm. I sell umbrellas. I do not join the rain.”
 
 ---
 
@@ -98,6 +110,9 @@ He took copies, left the originals for whoever played magistrate this week, and 
 
 ## Continuity
 - F2 almost-recruit flinch (F3 set-piece).  
+- **S-A1 / S2:** Seius pays non-conspirator social cost for soft-hour door-tapping (client notice + Seia Prima vinegar)—city catching a cold.  
 - F4 refuse softness; SIDE-1 body; tablets implicate Basilus orbit + Bucco; killer unknown (≥3 theories).  
+- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as civil-war insurance (non-conspirator mouth; no Trebonius/Monday spoil).  
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
 - Next: Ch 11 omens / Sibylline.
+- **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).

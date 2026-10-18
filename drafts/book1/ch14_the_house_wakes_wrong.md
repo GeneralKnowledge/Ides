@@ -51,7 +51,7 @@ Caesar’s mouth twitched—almost the cut-joke that made hard men laugh in camp
 
 “We will see what the morning says,” he said.
 
-Postponement. The old habit that had kept him alive—never commit while the threat still had a face.
+He did not commit while the threat still had a face. He never had.
 
 Calpurnia kept her hands on him until her fingers ached. Outside, the Domus Publica assembled its night noises into dawn noises: a cough, a scrape, someone’s prayer muttered too fast to be pious.
 
@@ -105,14 +105,15 @@ Calpurnia stood in the cubiculum doorway as if she could hold the lintel up with
 
 Caesar almost smiled then—fond, tired. “I have gone against worse.”
 
-He didn't say: *I have also trusted better.* Trust showed up as Decimus arriving with a schedule and an open face, as he always did.
+Then Decimus was in the house with a schedule and an open face, as he always was—and Caesar’s shoulders eased a fraction before his mouth did.
 
 Caesar left the clouds where they belonged: behind his teeth.
 
 ---
 
 ## Continuity notes (SC-35b)
-- Jupiter/clouds dream private; mild vertigo unconfessed; AMB-1 held.
+- Jupiter/clouds dream private; mild vertigo unconfessed; AMB-1 held.  
+- **Gold-edge:** Soft “Trust showed up as…” caption cut; Decimus arrival shown as body ease.
 
 ---
 
@@ -139,46 +140,60 @@ Phileros met him in the vestibule, onion and oil on his breath, important with k
 
 “He will,” Decimus said, pleasant. “I am here to make sure the Republic does not take offence at a late sleep.”
 
-In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa hovered at the edge of useful distance. Decimus didn't look at her long. Furniture that moved drew eyes.
+Behind Phileros, Nysa stood with empty hands and a too-straight back—the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move. The hiss became a third presence in the vestibule: key-holder, girl, and the fetch who needed the house to pretend this was ordinary.
+
+In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted three living wills in the room—Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys—and one unfinished interruption in Nysa’s empty hands.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to—who dismisses men because his wife saw timber fall in her sleep.”
 
-Calpurnia made a sound. Decimus bowed toward it without yielding.
+“Do not call my fear a king’s excuse,” Calpurnia said—not a sound, a cut. “You have walked him through ditches and laughed him past philosophy. Do not walk him past me as if I were weather.”
 
-Caesar’s gaze flicked—doors, lists, Decimus’ face. “The sacrifices have been sour.”
+Decimus had to answer. Bowing without yielding would not hold against words. “Domina—I walk him to the Senate he summoned. If he dismisses them himself, your dream still gets heard. If he stays, the city writes a different dream for him, and neither of us will like the author.”
 
-“Sacrifices are often sour,” Decimus said. “Birds are often rude. If we postpone for every rude bird, Parthia will send its own haruspices and laugh.” He stepped closer, into the radius where only friends stood. “Come and dismiss them yourself if you must. Do not send a message that smells of a woman’s terror. You are not a message.”
+Phileros cleared his throat for the keys’ dignity. “The litter is ready. Chickens were rude. That is not—”
 
-He heard how smooth he sounded and hated the smoothness—then used it anyway. Smoothness got men through Spanish gates. Smoothness would get Caesar through this door.
+“Not your sentence,” Calpurnia said, without looking at him.
+
+Nysa’s voice arrived small and stubborn from the edge. “There was a warning at the door. Incomplete. He wouldn't take it.”
+
+“Mats,” Phileros snapped.
+
+“Enough,” Caesar said, and the room rearranged around the word. His gaze flicked—doors, lists, Decimus’ face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
+
+“Sacrifices are often sour,” Decimus said. “Birds are often rude. If we postpone for every rude bird, Parthia will send its own haruspices and laugh.” He stepped closer, into the radius where only friends stood—and felt Calpurnia’s cut still in the air, unpaid. “Come and dismiss them yourself if you must. Do not send a message that smells of terror. You are not a message.”
+
+He heard how smooth he sounded and hated the smoothness—then used it anyway. Softness got men through Spanish gates when the wine was bad and the joke was worse. Softness would get Caesar through this door.
 
 Caesar was silent. The silence scared Decimus more than anger would have.
 
 “Make your own courage the omen,” Decimus said, quieter. Need made the sentence. “The Senate has sat since morning. Come.”
 
-He put out his hand.
+He put out his hand—and his chin tipped, half a breath, the old road signal: ditch clear, philosophy later. Calpurnia saw it. Her mouth tightened as if she recognised the habit that had always meant *he will go with this man*. Decimus felt the tip fail under her eyes—too small a betrayal to name, too large to take back—and held the hand open anyway without finishing the joke that used to follow the tip in Spain.
 
-Caesar took it.
+Caesar took the hand.
 
-Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. Decimus felt the dry warmth of the palm and thought—absurdly, brightly—of Spanish camps, of jokes at bad wine, of being second in a will the way a man is second in a friend’s trust.
+Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that. The Campus route ahead would use the same trust. He would not spend the habit twice in one morning.
 
 Calpurnia’s hand fell from the doorframe.
 
-They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking.
+They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse—half a breath early, so the friend never felt the drop—and hated that the count still worked.
 
 Caesar didn't speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be—Antony would be held. Trebonius’ job. Decimus didn't say that. He said, “It will be a short session,” and smiled as if shortness were mercy.
 
-At the threshold he glanced once more into the house and saw Nysa step forward with something like purpose, then stop when Phileros hissed.
+At the threshold Nysa stepped forward again with something like purpose. Phileros’s arm barred her—keys first, girl second. She did not cry out. She only looked at Decimus as if he were another door that closed.
 
-Good, Decimus thought, without knowing what he was calling good. The morning was moving. Moving mornings did not tip into accusations in atriums.
+Good, Decimus thought, without knowing what he was calling good. The morning was moving. Moving mornings did not tip into accusations in atriums—only into silences that would wait for the litter to return.
 
 “We go,” Caesar said.
 
-Decimus kept his hand available until Caesar no longer needed it, then let go as friends let go—casually, as if the world had not narrowed to the width of a blade.
+Decimus kept his hand available until Caesar no longer needed it, then let go as friends let go—casually, as if the world had not narrowed to the width of a blade, and as if Calpurnia’s cut were not still lodged under the casual.
 
 ---
 
 ## Continuity notes (SC-35c)
-- Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.
+- Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.  
+- **Gold-edge / S18:** Chin-tip / ditch-timing / Campus-route road-trust pay (Ch 4 plant).  
+- **Gold dwell:** Calpurnia spoken cut Decimus must answer; Phileros/Nysa collision; chin-tip fails as lived habit under her eyes (not memory caption).
 
 ---
 
@@ -259,3 +274,4 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 **Rollup:** Dread max · attendance locked · NOTE-1 dual held · public still routine.  
 **Edit pass 1 / read-through:** cut future-wink (Nicolaus); Nysa = SC-35d; “history” wording softened.  
 **M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).
+- **Law-sweep:** Ides-morning peak — humour OFF; household ≥3 collisions; Decimus cheer as relationship-by-behaviour; NOTE-1 dual held (not merged); Spurinna/Decimus callbacks; G1 peak-day mosaic allowed.

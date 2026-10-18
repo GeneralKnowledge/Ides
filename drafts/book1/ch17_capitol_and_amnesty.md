@@ -19,35 +19,42 @@ Overhear risk: Crowd below partial
 
 The Capitol was height, and height was supposed to mean clarity.
 
-Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after.
+Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. Three living wants shared the rock: speak the city into virtue, leave before Antony found a sword, hold the height as if height were an argument.
 
 Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 
-“They will come round,” said a man beside Brutus who needed it to be true.
+“They will come round,” Casca said, needing it true enough to keep the blade in the open.
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.*
+“They will come with torches,” Decimus said, not looking down. “I can hear the road north from here. This rock is not a province.”
 
-He didn't say it. Saying it would make it a motion.
+Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament.
+He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
-He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Writing might force the Republic to sit still—or only force the page.
+“We hold until the reports clarify,” Brutus said—public face, station calm. “Liberty does not run from its own Forum.”
 
-Cassius said, “We cannot sleep on this rock and call it victory.”
+A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
 
-“We can call it beginning,” Brutus said.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
 
-Cassius’ mouth twitched. “Beginnings bleed.”
+Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
-Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid.
+“We can call it beginning,” Brutus said—still the public sentence.
+
+They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped as if he had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
+
+Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say *Capitol* if you must—say it as fear, not as a period.”
+
+Brutus took the exit-complaint without answering it in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid—and the rock had just taught him that waiting could be a choice with a cost, not only a virtue with a view.
 
 ---
 
 ## Continuity notes (SC-45)
 - Liberty optics fail to convert populus.  
-- Capitol linger = strategic mistake shown, not lectured.  
+- Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.  
+- **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor exit-complaint after Brutus’s public face.  
 - // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 
 ---
@@ -89,9 +96,13 @@ Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him
 
 “Hold the men,” Antony told Pacuvius. “Feed them. Promise them nothing you can’t spell. Tomorrow we talk in rooms with doors.”
 
-Pacuvius looked cheated. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
+Pacuvius made the face of a man receiving wisdom—chin tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
 
-Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt.
+Antony turned toward the Capitol. Behind him, once the consul’s shoulder was a safe width away, Pacuvius’s soft dropped for Lepidus’s nearest ear and two officers who had wanted dark. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger—mark that when the Forum wants blood and we offer clauses.”
+
+Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
+
+Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt. He had heard enough of the exit-complaint to file it: hunger wanted paint; he wanted a funeral that paid.
 
 “You wanted liberty,” he said to the hill, too soft for officers. “Congratulate yourselves. Now learn the price of a crowd.”
 
@@ -101,7 +112,8 @@ Antony spat blood from a bitten cheek he did not remember biting and stared towa
 - M11: force available, massacre not chosen.  
 - Antony thinking funeral/body optics — calculated, not verse performance.  
 - False death rumour noted.  
-- // M5: Lepidus held as present/careful — neither hero nor cartoon.
+- // M5: Lepidus held as present/careful — neither hero nor cartoon.  
+- **Law-sweep:** Pacuvius polite assent → exit-complaint (rooms vs warm knives); ≥3 with Lepidus/officers in earshot.
 
 ---
 
@@ -138,14 +150,26 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
+He left the bargaining room with praise still arranged on his mouth—peace, breath, law’s return—the smile sized for men who needed Cicero more than they needed a pyre. In the corridor outside, three voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus; the same species of appetite that had called the Republic a warehouse—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink—second line, the dinner joke that had once sounded like party favour; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
 
-On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn't dream of funerals. He dreamed, again, that he was consul.
+“The queen is not in the Senate,” the junior said.
+
+“Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
+
+The client’s voice thinned into exit-complaint once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
+
+Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty—and *Decimus / second line* as a debt the dead man still held on the living—and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
+
+He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour—and, beneath the burial, began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
+
+On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn't dream of funerals. He dreamed, again, that he was consul. The corridor’s shopping list waited under the dream like interest.
 
 ---
 
 ## Continuity notes (SC-47)
-- Contemporary hope shown; amnesty + acts ratified seed funeral power.
+- Contemporary hope shown; amnesty + acts ratified seed funeral power.  
+- **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.  
+- **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).
 
 ---
 
