@@ -402,6 +402,28 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 19. Ch 19 funeral — liked; may be too short; pyre → buildings unclear
+
+**Author (finishing Ch 19):** Likes the chapter, but the funeral might be too short. Transition from pyre to burning buildings isn’t very clear.
+
+**What the chapter does now (compressed on purpose historically):**
+
+- **SC-50a Antony:** refrain speech + cloth wrestle → body is the point → “Fire found it in the Forum” → two-officer friction (hold grain vs teach) → “first shops began to burn toward Liberators’ houses” in ~one beat. Permission (“Let the rest teach”) and consequence arrive almost together.
+- **SC-50b Laberius:** pyre heat on teeth → torches shoved (Quintus / Capua refuse) → doors as lesson — street already mid-riot.
+- **SC-50c Nysa:** “first wrong smoke—not sacrifice smoke, furniture smoke” — the clearest *label* of building-burn, but it’s a smell cue, not a visible handoff from pyre to doors.
+- **SC-51 Cinna:** hours after; houses-will-burn already assumed in Nysa’s report home.
+
+**Gap the note names:**
+
+1. **Funeral short:** speech is refrain-only (M5 polish / anti–blank-verse). Prior editorial already flagged FUNERAL-1 / Appian gesture VERIFY as optional enrichment — cloth/crowd beat if funeral must match Ch 14 investment. Author like + shortness = protect Cinna/Capua heat; consider *one* more lived funeral beat (crowd taking over the body, benches as fuel, pyre location) before riot logistics.
+2. **Pyre → buildings:** causal chain is *policy sentence → shops burning*, not a readable sequence (pyre standing → brands pulled from pyre / benches → first Liberator door → furniture smoke). Reader can miss that the Forum fire *seeds* the house-burn rather than cutting to a second unrelated fire.
+
+**Later (if pursued):** small dwell, not a Shakespeare speech — e.g. one beat of the crowd moving the body / lighting from pyre; one street beat where a brand leaves the Forum for a known door; then Laberius/Nysa as now. Keep Cinna as the chapter’s second engine.
+
+**Do not yet:** reopen funeral into blank verse or bulk-expand mid-read.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
