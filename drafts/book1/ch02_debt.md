@@ -22,17 +22,21 @@ When Seius’ turn came, the patron’s nod was thin—already halfway to the ne
 
 “We will see,” the patron said. “Caesar’s sky is large. Do not stand in it foolishly. Bring me something useful—news, a marriage rumour, a debt I can collect with a smile.”
 
+A secretary at the patron’s elbow added, polite as oil, “And do not bring us philosophy. Philosophy is what clients do when they have nothing spendable.”
+
 Seius smiled as if he owned useful things. He didn't. He owned a sister’s strained dowry talk and a talent for sweating through wool.
 
-Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited as if chance were a profession. Interest dressed as friendship. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
+“I am grateful for the guidance,” Seius said, with the exact bow height the atrium taught.
+
+Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited as if chance were a profession. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
 
-Seius understood shame with a schedule. Advancement smelled like ink and sweat—the particular gratitude of a trap that still looked like a ladder. He took the terms because refusal meant standing still, and Seia Prima didn't reward stillness.
+Seius’s smile lasted until the atrium door-slave looked away. Then it fell. “He nodded like a man brushing lint. The secretary prices my soul in spendable units. I am going to tell Seia Prima it was a warm reception.”
 
-He passed two clients comparing whose patron had smiled wider. Comparison was the atrium’s second religion. Seius did not join. Joining would have required a smile he had already spent upstairs.
+The middleman snorted—audible, unlovely. “Warm receptions are how we sell winter. Sign.”
 
-By the time he reached the next corner he was already rehearsing how to turn a thin nod into a story that sounded like progress. The story would have to survive Seia Prima’s questions. Questions, in his marriage, were a form of accounting.
+Seius took the terms because refusal meant standing still, and Seia Prima didn't reward stillness. He passed two clients still comparing whose patron had smiled wider. Comparison was the atrium’s second religion. Seius did not join. He was busy inventing a wider smile for home.
 
 ---
 
@@ -48,23 +52,28 @@ Overhear risk: Medium
 
 “Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is a temporary reduction in risk premiums. Do not confuse it with virtue. Virtue does not clear.”
 
-He adjusted tablets with priestly care. Africa’s ending had softened some rates; Spain still burned at the edges of the paper. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
+He adjusted tablets with priestly care. Africa’s ending had softened some rates; the western edges of the paper still burned enough to keep bakers polite. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
 
-Sextus Pompeius’ name moved odd discounts through the stalls—like a bad tooth the market refused to pull. Sosia muttered that sea paper made honest men seasick. Hordeonius didn't laugh. Laughing at paper was how bankers became tavern stories.
+Sosia, at his shoulder, muttered for the knot’s benefit, “Sea paper makes honest men seasick.”
 
-A client laughed anyway. “You talk as if the Republic were a warehouse.”
+A client laughed—loud enough that two stalls looked over. “You talk as if the Republic were a warehouse.”
 
 “The Republic,” Hordeonius said solemnly, “is the only warehouse large enough to hold our greed without confessing it. I do not bet against Caesar. I bet against other men’s certainty. Certainty is expensive and usually wrong.”
 
-He meant it as piety toward arithmetic. The client heard a joke and repeated it later as wit. Hordeonius entered *Sextus: watch sea paper* in a margin and felt, briefly, like a patriot of ledgers. Seius’s fresh obligation sat among the morning’s new wax—small, neat, already growing interest like a quiet plant.
+The baker’s agent snorted wine through his nose and had to wipe his chin on his sleeve. “Warehouse of greed—Jupiter. Write that on a cake.”
 
-A courier from Puteoli brought sea-rumour dressed as numbers. Hordeonius weighed it, cut it, and paid for only the part that could bruise a contract. “I am not a priest of victory,” he told Sosia. “I am a priest of what still floats.”
+Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax—small, neat, already growing interest like a quiet plant—and ignored the courier from Puteoli until the knot thinned. Sea-rumour dressed as numbers could wait; laughter that bought a second cup could not.
 
-“A man who needs a nod,” Hordeonius told the shelf, “will always pay for the story of the nod.” The shelf did not argue. That was why he liked it.
+When the baker left clutching his rate like a blessing, Sosia waited until the man’s back was only a tunic in the crowd. “He’ll tell his wife you made a joke. You’ll become witty by accident again.”
+
+“Wit is a tax on clarity,” Hordeonius said. “I prefer clarity. Clarity clears.”
+
+“A man who needs a nod,” he added to the shelf, “will always pay for the story of the nod.” The shelf did not argue. That was why he liked it.
 
 ---
 
 ## Continuity
 - F2 deeper debt to F4; patronage machinery shown; F4 Batiatus tone held.  
-- Sextus discount seed (FS11). MUST_EXPRESS: B5, C9.  
+- **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.  
+- FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.  
 - Next: Ch 3 Munda.

@@ -22,7 +22,11 @@ A runner still smelled of horse and dust. Half the knot insisted Utica was rumou
 
 He adjusted grain expectations with solemn grief. “A man like Cato,” he told a client whose ring was too new, “is bad for markets and good for sermons. I prefer markets, but I respect sermons that stay out of my ledgers.”
 
-The client wanted a moral. Hordeonius gave him a rate.
+The client wanted a moral. Hordeonius gave him a rate. The client’s mouth opened for philosophy, closed on the number, and produced a thin grateful smile suitable for patrons and priests alike.
+
+“You honour the dead with arithmetic,” the client said, careful.
+
+“I honour the living with invoices,” Hordeonius answered, equally careful.
 
 Across the way Cicero received the same fact as a bruise to the Republic’s imagination. Cato dead by his own hand—Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it—the right clause refusing to arrive while lesser men were already converting a suicide into a slogan.
 
@@ -31,6 +35,12 @@ Across the way Cicero received the same fact as a bruise to the Republic’s ima
 “Marble does not clear,” Hordeonius answered, not to Cicero, to the air that smelled of money and onion. He entered *Africa: closed enough* and felt the city’s mood shift under his stylus like a floorboard.
 
 A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. A veteran’s cousin asked whether land would come faster now that the war had a famous corpse. Nobody agreed; the Forum only sold noise.
+
+When the new-ring client was three stalls away, he spat the smile out. “Sermons out of his ledgers—what a patriot. He priced Cato like onions.”
+
+His companion—another ring, older—did not bother with courtesy once the banker could not hear. “Onions keep. Marble doesn’t. Pay the rate and stop performing grief for clerks.”
+
+The cake-seller overheard and laughed once, short, the way street laughter admits a hit.
 
 ---
 
@@ -64,4 +74,5 @@ Back in the service court she set down the oil and told Dama nothing about land.
 - A1 landed: Thapsus/Cato moral shock via market + Cicero bruise.  
 - FS10 land hunger seeded (veteran spit). Competing interpretations held.  
 - **1F / E3:** soft future-lean on Cicero’s “later write better” → present inadequacy.  
+- **S-A0:** polite rate-face → corridor complaint; cake-seller laugh.  
 - MUST_EXPRESS: A1, B4 seed. Next: Ch 2 debt.

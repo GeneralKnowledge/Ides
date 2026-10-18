@@ -54,14 +54,25 @@ Those officers brightened at Parthia talk—months east, glory, the map widening
 
 An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile and didn't correct the furniture.
 
-“Keep close,” Octavian said to Agrippa, awkward with warmth.
+When the officer moved off, Agrippa bumped Octavian’s elbow—barely play, barely warning. “Cheer up, Shadow. At least they remember you have edges.”
 
-Agrippa nodded as if given an order about water. Octavian slept that night sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of missing a drill step and being laughed at by men whose names he needed.
+Octavian’s polite smile thinned to nothing. “Don’t.”
+
+“Don’t what?”
+
+“That name. Not from you.” He wiped sweat with the wrong wrist, awkward. “They can call me furniture. You don’t.”
+
+Agrippa’s mouth twitched—caught, not cruel. “Noted. No shadows. Only drill.” He paused. “Though you do look like a boy arguing with the sun.”
+
+Octavian almost laughed, then turned it into a cough so the older men would not own the sound. “Keep close,” he said, still awkward with warmth.
+
+Agrippa nodded as if given an order about water—and as if the nickname had been filed under *never again*. Octavian slept that night sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of missing a drill step and being laughed at by men whose names he needed.
 
 ---
 
 ## Continuity
 - OCT peripheral; no destiny voiceover; Agrippa planted (FS03); Apollonia distance.  
 - Softened future-wink vs earlier draft. MUST_EXPRESS: C5.  
+- **S-A0 / S18–S19:** nickname “hopeful shadow” planted + hated; Agrippa tease → ban; dry playfulness. Pay in Ch 22+.  
 - Next: Ch 6 perpetuo.
 **Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.

@@ -33,13 +33,23 @@ Not under the breath. Aloud. The room flinched as if the air had changed tempera
 
 Octavian held the greeting without smiling. Smiling would have made him a boy delighted by a toy. “Tell the others,” he said. “The name stands. So does the will.”
 
-The follower left as if dismissed from a temple. Cicero, visiting the neighbourhood of villas like a man touring symptoms, heard the followers before he saw the boy: *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
+The follower, emboldened, added with a grin meant as gift: “Not merely the hopeful shadow anymore, then—”
+
+Agrippa’s head turned a fraction. Octavian’s voice stayed flat. “The name. Only the name.”
+
+The follower flushed, bowed too deep, and fled as if dismissed from a temple. Cicero, visiting the neighbourhood of villas like a man touring symptoms, heard the followers before he saw the boy: *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
 
 “Philippus will not call him that,” someone murmured.
 
 “Neither will I,” Cicero said lightly, and meant it as taste, not prophecy.
 
-Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there and said nothing. He stood within reach and didn’t look away.
+Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there.
+
+“I almost said it first,” Agrippa murmured—not apology, inventory. “Shadow. Old habit.”
+
+“Break it,” Octavian said. Then, quieter, the rare awkward warmth: “You may call me late to drill. Not that.”
+
+Agrippa’s mouth twitched. “Late to drill, then—Caesar.” He stood within reach and didn’t look away.
 
 ---
 
@@ -70,6 +80,10 @@ He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees tha
 
 “He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.”
 
+Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you—Campania already stopped.”
+
+“Shadow,” Antony repeated, amused, tasting an officer’s old joke secondhand. “Even better. Shadows don’t hold fasces.”
+
 A clerk asked whether the Campania rumour should be answered in writing. Antony waved him off. Writing gave squeaks a shape. He preferred them as jokes told over wine, already half forgotten by morning.
 
 The veteran’s careful sentence sat in the room like an unopened letter. Antony didn’t open it. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a posting board.
@@ -79,5 +93,6 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 ## Continuity
 - Name accepted; Antony misreads. Chain 5 lit. Next: Ch 23 street/money/majority.  
 - **1D.5:** Follower *Caesar* greeting aloud; Atia/Philippus pressure; veteran pay-door warning Antony dismisses.  
+- **S18/S19:** “hopeful shadow” callback (follower + Agrippa); Antony/Fulvia play on squeak/shadow underestimation.  
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
 **Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.
