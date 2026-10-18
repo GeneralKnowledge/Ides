@@ -24,7 +24,11 @@ A whisperer tried again to sell him Visellius’ old tablet ghosts—Basilus orb
 
 “Archaeology,” Hordeonius said gently. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.”
 
-The whisperer left offended. A Puteoli note asked whether “young Caesar” changed land risk. Hordeonius priced the question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
+The whisperer left offended. A Puteoli man and Sosia argued the next question in the same breath, same stool-space—collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted; Sosia said only veterans changed land risk; a third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+
+“I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather—watch which weather arrives with coin.”
+
+He priced the Puteoli question twice—once for Antony’s veterans, once for a boy’s name—and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
 ---
 
@@ -96,5 +100,6 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 
 ## Continuity
 - Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).  
+- **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.  
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
 **Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.

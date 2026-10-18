@@ -138,14 +138,23 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
+In the corridor outside the bargaining room, three voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
 
-On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn't dream of funerals. He dreamed, again, that he was consul.
+“The queen is not in the Senate,” the junior said.
+
+“Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
+
+Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods.
+
+He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour—and, beneath the burial, began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
+
+On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn't dream of funerals. He dreamed, again, that he was consul. The corridor’s shopping list waited under the dream like interest.
 
 ---
 
 ## Continuity notes (SC-47)
-- Contemporary hope shown; amnesty + acts ratified seed funeral power.
+- Contemporary hope shown; amnesty + acts ratified seed funeral power.  
+- **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.
 
 ---
 

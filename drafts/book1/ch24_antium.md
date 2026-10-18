@@ -30,6 +30,14 @@ Antony’s man offered wine from a skin that had travelled. Octavian’s man off
 
 Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius didn’t turn; a turn would have been half a yes.
 
+On the road edge an older veteran—scar through the lip, no agent’s polish—spat dust and spoke to the corporal only after Laberius was far enough to overhear without being invited. “Old eagles don’t take the boy’s pay yet. Wine shops still call him furniture. When the furniture learns to feed us, we’ll talk. Until then Antony’s skin tastes familiar.”
+
+“And the Liberators?” the corporal asked.
+
+“Philosophers,” the scar said. “And a mother in Antium already rewriting paper so her sons don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
+
+Laberius filed *eagle refuse / Servilia paper* without turning. Behind-backs were how advice rooms arrived pre-loaded. He preferred his pockets. Pockets didn’t require a yes.
+
 ---
 
 # SC-68a — The Room Full of Women and Ruin
@@ -40,6 +48,10 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 ---
 
 Antium’s light was pretty. Pretty light made disasters look arranged.
+
+In the colonnade before the room, two clients were already bitching what they would not say inside. “She’ll cut the clause,” one whispered—Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. Exit complaint first; advice second—that’s how this house works.”
+
+Cicero heard enough to smile as if he hadn’t. Station required the smile. The unfinished voltage—eagle refuse on dusty forums, mother rewriting paper—walked with him into the pretty light.
 
 Brutus asked Cicero to speak as if speech could still be strategy. The room held Porcia’s severity, Tertulla’s stillness, Favonius’ moral cough—and Servilia, who listened the way bankers listened to interest. A steward (Hilarus, if Cicero’s memory of names still worked) poured wine that nobody truly tasted.
 
@@ -71,12 +83,13 @@ Favonius muttered about civil war’s cost. No one appointed him captain. Porcia
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators wouldn’t recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised furniture.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and the exit-complaint already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 
 ## Continuity
 - Antium locks East path + Servilia agency. Batch B complete.  
 - **1D.5:** Laberius dual-offer refuse (listen-decision); Cassius name-war cut vs Cicero tools; Servilia mild trap held.  
+- **S-B1 / S10:** Behind-backs pre-load — eagle men refuse boy’s pay; Servilia rewriting paper; colonnade polite-face → exit-complaint after room.  
 - Next: Ch 25 Philippics + East departure.  
 **M5 polish held:** Antium room sensory/agency; Hilarus present.

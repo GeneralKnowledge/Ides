@@ -256,11 +256,11 @@ flowchart LR
 
 | ID | Where | Mechanism | Story effect |
 |----|-------|-----------|--------------|
-| **S7** | Ch 17–18 approach | Street/F4 talk: gardens, *acts*, who the will might wound; queen as unfinished Roman problem | Will scene arrives pre-loaded |
-| **S8** | Ch 20 | Cleopatra POV becomes **payoff** of prior gossip, not introduction; one packing obstruction OK | Exit earned |
-| **S9** | Ch 5 + 21–22 | Elder/wine-shop/Cicero talk of the boy before and after name-take; underestimation as sport | Octavian continuous |
-| **S10** | Ch 23–24 | Behind-backs at Antium: who Servilia is rewriting, which eagle men refuse | Advice-room has prior voltage |
-| **S11** | Mid-band Ch 20–23 | Prefer same-room gossip collisions over letter-stack montage (aligns with old X1/X2 but story-first) | Stops syllabus cooldown |
+| **S7** | **Ch 17–18 done (S-B1)** | Corridor + F4: gardens, *acts*, who the will might wound; queen as unfinished Roman problem | Will scene arrives pre-loaded |
+| **S8** | **Ch 20 done (S-B1)** | Cleopatra POV as **payoff** of prior gossip + clerk packing obstruction | Exit earned |
+| **S9** | **Ch 21–22 done (S-B1)** (Ch 5 plant prior) | Elder/wine-shop underestimation as sport before and after name-take | Octavian continuous |
+| **S10** | **Ch 23–24 done (S-B1)** | Behind-backs: Servilia rewriting; eagle men refuse; colonnade exit-complaint | Advice-room has prior voltage |
+| **S11** | **Ch 21 + 23 done (S-B1)** | Same-room gossip collisions (Fundi couriers; F4 stall argument) over letter-stack | Stops syllabus cooldown |
 
 ### Gravity pass (throughout, light in A, heavier after B seeds)
 
@@ -275,11 +275,12 @@ flowchart LR
 ## 5. Cleopatra specifically (type-case of plant→payoff)
 
 **S-A0 status:** Plant begun in Ch 4 behind-backs (Transtiberim / queen / child / gardens) — no Cleo POV.  
-**First scenic life:** still Ch 20.  
+**S-A1:** Warped re-hearing in Ch 6 F4.  
+**S-B1:** Pressure in Ch 17–18 (who finishes her story / gardens/will); **payoff** in Ch 20 packing + obstruction.  
 
-1. **S-A1:** Optional rumour-travel only (warped re-hearing) — see §9 S1.  
-2. **Pressure (Phase B prep):** After Ides, talk shifts to “who finishes her story” and gardens/will.  
-3. **Payoff:** Ch 20 packing / Ch 26 sea = decisions we already feared, not a new cast member.
+1. ~~S-A1 rumour-travel~~ **done**.  
+2. ~~Phase B pressure~~ **done** (Ch 17–18).  
+3. ~~Ch 20 packing payoff~~ **done**; Ch 26 sea still later confirmation.
 
 Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her head if already constrained.
 
@@ -301,8 +302,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 1. **Pass S-A0 (craft spine):** **Done** on branch merged via #27 (Ch 1–5, 7–9, 22 seeds).  
 2. **Pass S-A1 (seeds):** **Done** — refined S1–S4 from §9 fan-theory audit (Ch 6, 10, 12); standing craft laws continued.  
 3. **Pass S-A2 (dwell):** **Done** — G1–G2 on Ch 1, 5, 6, 11; 3-person rooms held; Ch 6 no longer a 3-POV mosaic under ~900w.  
-4. **Pass S-B1:** Next — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint + humour.  
-5. **Re-export DOCX** (FULL + golden).  
+4. **Pass S-B1:** **Done** — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint.  
+5. **Re-export DOCX** (FULL + golden) — Next.  
 6. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
@@ -374,8 +375,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** **S-B1** (name/will/heir gossip + Cleopatra payoff). Gravity continues light inside B.
+**Next implementation phase:** **DOCX re-export** (FULL + golden). Optional light gravity polish if cold-read still whiplashes mid-band.
 
 ---
 
-*End of story-first intrigue plan. S-A0 + S-A1 + S-A2 done; next S-B1.*
+*End of story-first intrigue plan. S-A0 + S-A1 + S-A2 + S-B1 done; next DOCX export.*

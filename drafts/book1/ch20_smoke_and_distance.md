@@ -66,25 +66,38 @@ Overhear risk: Court medium
 
 ---
 
-Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash. Same lesson: a queen without a living Roman guarantor was a story other people finished.
+Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash. Same lesson: a queen without a living Roman guarantor was a story other people finished—and Romans had been finishing her story at dinner long before the knives.
 
-She stood in the garden villa across the Tiber—Caesar’s green claim on the city’s edge—and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred schedules.
+She stood in the garden villa across the Tiber—Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills—and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred schedules. Schedules were harder to mark up than rumour.
+
+A Roman clerk from the house’s new legal weather arrived mid-morning with a polite face and an impolite list. Crates for the river would be “inspected for the people’s interest.” He smiled with inventory in his eyes—the smile she had already met, secondhand, in every Transtiberim joke about queens, children, and half-hours on roads.
+
+“The gardens are being talked as the people’s,” the clerk said. “Best not to look as if you are taking the people’s trees with you.”
+
+“I am taking my household’s linen,” Cleopatra said. “Trees stay. So do statues.”
+
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. The inspection became a price without naming one. Ammonius—or a man who did Ammonius’ work—started toward an argument; Cleopatra stopped him with two fingers. Arguing fed the smile.
+
+“Open it,” she said. “Count the sandals. Then leave my schedule alone.”
+
+He counted. He left. The obstruction had cost an hour and a lesson: Rome would keep inventing a price for her departure until the ship’s plank rose. She paid the hour. She would not pay a petition.
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
-“Father belongs to their Forum now,” Cleopatra said, and hated the polish of it. Softness later. Ships first.
+“Father belongs to their Forum now,” Cleopatra said, and hated the polish of it. Softness later. Ships first. The boy’s hours—the ones Romans had gossiped into careers—were now only packing hours, and she intended them to end on water.
 
-Ammonius—or a man who did Ammonius’ work—spoke of Cicero’s old rudeness, of books unpaid, of Romans who smiled with inventory in their eyes. Cleopatra kept him as useful irritant.
+Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept him as useful irritant.
 
-“We do not beg intermediaries,” she said. “We leave before intermediaries invent a price.”
+“We do not beg intermediaries,” she said. “We leave before intermediaries invent a second price.”
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city—her face in Roman metal—and left it there. Statues were anchors. She needed sails.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city—her face in Roman metal—and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk; the dinners could keep pricing her child; none of that was her exit. Exit was a schedule that survived inspection.
 
 ---
 
 ## Continuity notes (SC-53)
 - CLEO-1 lodging; departure plan; Caesarion present.  
 - No dagger-circle claim; dynastic lens.  
+- **S-B1 / S8:** Cleopatra as **payoff** of prior gardens/queen/child gossip (not introduction); packing obstruction (clerk inspection); *regina* debate kept out of her POV.  
 - // M5: *regina* debate kept out of Cleopatra POV — verified.
 
 ---

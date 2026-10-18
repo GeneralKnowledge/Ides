@@ -14,25 +14,35 @@ Overhear risk: Letter couriers
 
 ---
 
-Cicero wrote as other men breathed.
+Cicero wrote as other men breathed—until the room filled and writing had to wait on mouths.
 
-The tablet under his palm was still warm from the last courier’s bag. Wax took fingerprints. He liked that—proof that news had a body before it became opinion. *The deed was fair,* he told Atticus in one of the versions that would not survive intact, *the result is nothing.* He scratched it out. He wrote it again softer. Softness kept invitations open.
+The tablet under his palm was still warm from the last courier’s bag when a second courier arrived dusty, and a neighbour with a taste for Athens arrived thirsty, and Fundi’s shade became a small Forum with worse wine. Wax took fingerprints. Cicero liked that—proof that news had a body before it became opinion—but bodies arguing in one room beat stacked tablets for truth’s temperature.
 
-From Fundi’s shade he demanded the city’s gossip in teaspoonfuls: who dined with Antony, who smiled at Brutus’ name, what the bakers said about gardens not yet walked. Couriers arrived dusty and left dustier. One boy’s sandals had cracked; Cicero tipped him as if tipping could buy a Republic and then asked, sharply, whether the seal on Antony’s latest posting had looked fresh or tired. Fresh seals meant industry. Tired seals meant theatre.
+“If they have no money and no men,” Cicero told the neighbour, “they have a beautiful murder and a short future.”
 
-“If they have no money and no men,” he told a visitor who wanted philosophy, “they have a beautiful murder and a short future.”
-
-The visitor—some neighbour with a taste for Athens—smiled as if force were a vulgar digression. “Surely the Senate—”
+The neighbour smiled as if force were a vulgar digression. “Surely the Senate—”
 
 “The Senate is a throat,” Cicero said, and hated the sentence as soon as it left him. “Throats need fists behind them, or they only make sounds.”
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-Sphaerus brought a note from Hirtius’s orbit—polite, useless, full of men congratulating themselves for surviving March. Cicero answered with courtesy that congratulated itself louder. At night he catalogued his own courage on the Capitol’s first day and found it larger in memory than in the hour. He didn’t correct the catalogue.
+The first courier—sandals cracked—spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Bakers say the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
 
-A second courier brought news that was already half false: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished. Cicero kept both halves on separate scraps and labelled neither *true*. He asked the boy one more question before dismissing him: whether anyone in the Forum had yet said *Octavius* as if the name were money. The boy looked blank. Cicero wrote *not yet* in the margin of a draft and underlined it twice.
+“Which boy?” the neighbour asked, pleased to be scandalised.
 
-He stacked finished letters by the door until the pile reached his knee. Then he wrote another—faster, as if speed could thicken wax into steel.
+“Octavius. Caesar’s paper-son. They call him a hopeful shadow, a squeak, a name that hasn’t learned to pay. One elder swore he’d last until the first unpaid veteran. Another bet a cup he’d be Caesar by Kalends if Campania kept saying it.”
+
+Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already joke*. “Did anyone in the Forum say the name as if it cleared?”
+
+The courier shrugged. “As if it amused. Not as if it cleared.”
+
+The second courier, younger, contradicted on cue—half-false news fighting in the same air: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished; the boy already gathering flies in Campania; the boy already finished by Antony’s laugh. Cicero kept both halves without labelling either *true*. Same-room collision beat letter-stack: he could watch which mouth sweat.
+
+“Sport,” the neighbour said, tasting the wine-shop joke. “Rome’s favourite exercise. Underestimate until the underestimate grows teeth.”
+
+“Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy as if tipping could buy a Republic, scratched *not yet* in a margin, and underlined it twice—then added, smaller: *wine shops already practicing the laugh*.
+
+Sphaerus brought a note from Hirtius’s orbit—polite, useless. Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee, then wrote Atticus a softer version of *the deed was fair; the result is nothing*—softness kept invitations open—and felt the wine-shop sport sitting under the softness like a unpaid rate.
 
 ---
 
@@ -52,9 +62,9 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 “And the boy?” Brutus asked, surprising himself. “The heir talk.”
 
-The steward hesitated. Hesitation was news. “Campania says the name. Rome still laughs at the name. For now.”
+The steward hesitated. Hesitation was news. “Campania says the name. Rome’s wine shops still use him as sport—shadow, squeak, furniture with a will. Elders bet cups on how long the joke lasts. For now they laugh.”
 
-Porcia didn’t waste comfort. “They call you immortal in the same breath they ask you to be quiet.”
+Porcia didn’t waste comfort. “They call you immortal in the same breath they ask you to be quiet. They call him temporary in the same breath they price his paper. Both are insults dressed as weather.”
 
 “Peace requires quiet,” Brutus said.
 
@@ -87,6 +97,7 @@ Not a date on a tablet—only hills through the gate, and beyond them a name war
 ## Continuity
 - Liberators bottled in Latium; Cicero sees force-gap via letter-objects.  
 - **1D.5:** Cicero visitor clash (throat/fists); Octavius-not-yet margin; Brutus hears Campania name laugh.  
+- **S-B1 / S9 + S11:** Same-room gossip collision (neighbour + two couriers) replaces letter-stack; wine-shop/elder underestimation of the boy as sport; Brutus hears sport echoed at Lanuvium.  
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
 **Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable — new confinement cost beyond purse.

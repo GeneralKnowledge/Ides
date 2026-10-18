@@ -25,9 +25,13 @@ He sat under the basilica’s shade with his tablets open like a small, portable
 
 A junior senator—Seius’ type, though not Seius—laughed too loudly. Hordeonius didn’t. Humour was for men who didn’t hold other men’s winters in wax.
 
-Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling.
+Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. A fourth stack, softer and meaner, priced the Transtiberim queen: still lodged in Caesar’s green claim, child and hours and all—would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
-Hordeonius entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks—SIDE-1’s ghost—hinting Basilus and an Antonian name could still be made to squeal.
+“Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
+
+“Whoever opens the seal,” Hordeonius said. “Or whoever pretends not to notice she was priced before the seal existed.”
+
+He entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks—SIDE-1’s ghost—hinting Basilus and an Antonian name could still be made to squeal.
 
 Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
 
@@ -48,6 +52,7 @@ He blotted the wax, neat as virtue, and waited for the next fool to ask him whet
 ## Continuity notes (SC-48)
 - F4 Batiatus ego-humour on; SIDE-1 blackmail fizzles (OPEN-0 path).  
 - Will rumour hits markets before/as formal reading.  
+- **S-B1 / S7:** Queen/gardens/child priced as unfinished Roman problem before seal (pays Ch 4/6 gossip; CLEO-1 held).  
 - // M5: HS figure stays street talk (C mush OK).
 
 ---

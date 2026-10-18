@@ -1,4 +1,4 @@
-# Story-First Pass Log — S-A0 / S-A1 / S-A2
+# Story-First Pass Log — S-A0 / S-A1 / S-A2 / S-B1
 
 **Date:** 2026-10-18  
 **Plan:** `continuity/story_first_intrigue_plan.md`  
@@ -6,7 +6,39 @@
 
 ---
 
-## S-A2 — Dwell / gravity (this pass)
+## S-B1 — Afterlife ownership (this pass)
+
+**Branch:** `cursor/sb1-afterlife-cb1d`  
+**Pass:** **S-B1** (S7–S11 name/will/heir + Cleopatra payoff)  
+**Constraint:** CLEO-1; no Actium; *regina* out of Cleo head; OCT≠Augustus; SIDE-1 OPEN-0; gold spine untouched.
+
+### Chapters touched
+
+| Ch | Items | What changed |
+|----|-------|----------------|
+| **17** | S7 | Corridor 3-voice pre-will shopping: gardens / boy / who paper wounds / queen unfinished |
+| **18** | S7 | F4 prices queen/gardens/child as market question before seal (pays Ch 4/6 gossip) |
+| **20** | S8 | Cleopatra as **payoff** not intro; clerk packing obstruction; gardens/child gossip acknowledged |
+| **21** | S9, S11 | Fundi **same-room** collision (neighbour + 2 couriers) replaces letter-stack; wine-shop sport on the boy; Lanuvium echo |
+| **22** | S9 | After name-take, elders still bet weeks-until-cheap; underestimation continues as sport |
+| **23** | S10, S11 | Stall collision seeds Servilia soft paper + eagle refuse before Antium |
+| **24** | S10 | Laberius hears eagle refuse / Servilia rewrite; colonnade behind-backs → exit-complaint after room |
+
+### Locks check (spot)
+
+- CLEO-1 lodging + exit; no dagger-circle; no *regina* debate in her POV  
+- OCT≠Augustus / underestimation behavioural  
+- SIDE-1 still archaeology / OPEN-0  
+- Will / Decimus second-degree irony untouched in reading  
+
+### Not done (next)
+
+1. **DOCX re-export** (FULL + golden)  
+2. Optional light gravity if mid-band still whiplashes on cold read  
+
+---
+
+## S-A2 — Dwell / gravity (prior)
 
 **Branch:** `cursor/sa2-dwell-cb1d`  
 **Pass:** **S-A2** (S5 + G1–G2 on Ch 1, 5, 6, 11)  
@@ -28,12 +60,6 @@
 - AMB-3 / OMEN-1 held in Ch 11  
 - OCT≠Augustus / no destiny voice in Ch 5  
 - FS10 (land spit) and FS22 (Parthia clock) still land  
-
-### Not done (next)
-
-1. **S-B1** name/will/heir gossip + Cleopatra payoff  
-2. DOCX re-export (FULL + golden)  
-3. Book-wide humour / callback density beyond seeds  
 
 ---
 
