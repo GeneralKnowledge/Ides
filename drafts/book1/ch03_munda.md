@@ -42,11 +42,11 @@ Overhear risk: Low–Medium
 
 ---
 
-After the field stank of ending—iron, shit, the sweet wrongness of opened bodies—word ran that Gnaeus was done and Sextus had slipped a corridor like water.
+After the field stank of ending—iron, shit, the sweet wrongness of opened bodies—word ran that one Pompeian name was finished and another had slipped somehow. Escape stories always arrived cleaner than escapes.
 
-Nobody Laberius trusted had watched the corridor with leisure. Escape stories always arrived cleaner than escapes. An optio spat. “One left for the sea.”
+An optio spat. “Someone’s always left for the sea.”
 
-Laberius shrugged, already thinking of pay and whether the colony rumours were lies. “Let the sea argue with him. I’ve argued enough.”
+Laberius was already thinking of pay and whether the colony rumours were lies. “Let clerks name the fish. I want the donative dated before my boots dry.”
 
 He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. Laberius listened to Rome’s easy-win story arrive late on a clerk’s tongue, dressed as fact: *mopping finished; Spain settled.* The clerk had clean sandals. Laberius looked at his own and didn't correct the clerk. Correction was unpaid labour.
 
@@ -60,5 +60,5 @@ He didn't follow the escape—following was for cavalry and fools. He followed t
 
 ## Continuity
 - A2 Munda body cost; Rome “easy win” late/false texture.  
-- Sextus escapes as shrug (FS11) — no fake OB. MUST_EXPRESS: B4.  
+- **S-A0 / S14:** escape name demoted; Laberius want = donative/pay (FS11 may return when it prices a decision). MUST_EXPRESS: B4.  
 - Next: Ch 4 clemency whisper.

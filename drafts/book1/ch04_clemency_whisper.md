@@ -58,19 +58,33 @@ Overhear risk: Servants
 
 Cassius smiled with his teeth and counted who received what commands, what lands, what praise.
 
-The host toasted Caesar’s clemency as if mercy were a spice that made leftover Pompeians edible. Cassius ate. Eating was cover. Across the couches a man newly fat with a Spanish posting laughed too easily. Another name—land near a place Cassius had bled for, or thought he had—floated past like perfume.
+The host toasted Caesar’s clemency as if mercy were a spice that made leftover Pompeians edible. Cassius ate. Eating was cover. On the neighbouring couch a man newly fat with a Spanish posting—call him what the room called him, *the new Spain*—laughed too easily and lifted his cup whenever the host said *forgiven*.
 
-Whether the slight was real or polished by pride did not matter by the fruit course. It had found a rib and sat there.
+“You look well on mercy,” the host told Cassius, all courtesy. “Rome needs men who can accept a soft chain without rattling it.”
 
-A servant leaned too near with wine. Cassius spoke of rain and cousins until the servant retreated. Then, to the man on his right, lightly: “Some of us are forgiven into irrelevance. It is a delicate art.”
+“I rattle nothing,” Cassius said, equally courteous. “I digest.”
 
-The man chuckled, unsure whether it was a joke. Cassius let him stay unsure.
+New-Spain leaned in, wine-bright. “Digest carefully. There is talk the queen across the river keeps a child’s schedule that runs longer than some men’s careers. Caesar’s private hours have a foreign furniture now. Best not to notice aloud.”
 
-He left early, courteous, already mapping who else had smiled wrong at the toast. He did not use the word *recruit*. Words like that belonged to later rooms. Tonight he only stored names the way other men stored insults—dry, labelled, waiting for a use.
+The host’s smile did not change. “We notice gardens and grain. Children are Alexandria’s rumour until someone puts them in a will.”
 
-He paused under a torch and named, inwardly, two men who had laughed at the wrong time—enough to begin a geometry. Geometry was cleaner than rage.
+A servant leaned too near with wine. All three spoke of rain and cousins until the servant retreated.
 
-Outside, the street air felt cleaner than the dinner’s gratitude. Clemency, Cassius decided, was a door. Doors could be walked through in either direction.
+Cassius, lightly, to the space between host and New-Spain: “Some of us are forgiven into irrelevance. It is a delicate art.”
+
+New-Spain barked a laugh that wanted company. The host’s eyes narrowed a fraction—station warning. Cassius let both reactions stand. Whether the slight on land and praise was real or polished by pride did not matter by the fruit course. It had found a rib and sat there.
+
+He left early, courteous—thanks for the sauce, praise for the lamps, a wish that Spain stay quiet. The host clasped him like a friend.
+
+In the street, New-Spain caught up as if by accident, still smiling for the door-slaves.
+
+“He feeds you forgiveness and keeps the posting for men who laugh on cue,” New-Spain said the moment the threshold lamp was behind them. “I laughed. I am not proud. I am employed.”
+
+Cassius walked. “You laughed at the right toast. That is a skill.”
+
+“And you digested. That is a threat dressed as manners.” New-Spain glanced back. “Also—watch the Transtiberim talk. Men who joke about the queen’s boy at dinner are pricing something. I don’t know what. I only know my land came with a silence attached.”
+
+Cassius filed *queen / child / silence* beside the names that had smiled wrong. He did not use the word *recruit*. Words like that belonged to later rooms. Tonight geometry was cleaner than rage—and cleaner than admitting the soft chain still fit.
 
 ---
 
@@ -94,24 +108,32 @@ Ordinary trust. The kind that made you useful. Decimus left the inner room still
 
 Someone laughed that Decimus was written into the will’s second line.
 
-The laugh came from a man who collected other men’s secrets like party favours, waiting in the outer portico as if chance were a profession. The whisper hit Decimus’s usefulness like a draft under a door.
+The laugh came from a man who collected other men’s secrets like party favours, waiting in the outer portico as if chance were a profession. A second lounger—thin ring, thinner loyalty—stood with him, smiling for anyone who might be Caesar’s ear.
 
-“Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still—imagine being loved enough to be ink.”
+“Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still—imagine being ink while the queen’s boy across the river learns Latin jokes.”
 
-Decimus felt warmth, then a draft along the portico tiles. Trust put him on the high step where everyone could see him slip. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed.
+The thin-ring man inclined his head as if the queen were a weather report. “Careful. Transtiberim talk travels. Some men price the child; some price the gardens; some price whoever still gets half an hour on roads.”
 
-Alone in the portico shade he tested the thought: *heir* as compliment, *heir* as leash. He didn't know the wax. He knew the feeling of being indispensable—and how indispensability made betrayal thinkable for other men, not yet for him.
+Decimus felt warmth, then a draft along the portico tiles. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed. Both loungers laughed on cue—station laughter.
 
-He touched the portico column once—habit of a man checking whether stone still agreed to hold him—and went back toward Caesar’s voice because that was still where his day lived. Caesar was already speaking to a clerk about grain; he glanced up, found Decimus, and tipped his chin as if the afternoon had never been interrupted by other men’s envy.
+Around the corner, out of the portico’s sightline, the laugher’s voice dropped its perfume. “He still thinks ditch-timing is love. Adorable. If the wax is true, he’s a target with good boots. If false, he’s a rumour with good boots. Either way I dine out on him.”
+
+“And the queen?” thin-ring asked.
+
+“Useful scare for men who hate foreign furniture. Don’t put it in writing.”
+
+Decimus did not hear that part. He touched the portico column once—habit of a man checking whether stone still agreed to hold him—and went back toward Caesar’s voice because that was still where his day lived. Caesar was already speaking to a clerk about grain; he glanced up, found Decimus, and tipped his chin as if the afternoon had never been interrupted by other men’s envy.
 
 “Campus,” Caesar said. “Before the light goes dishonest.”
 
-Pride walked with Decimus. Unease walked half a step behind, like a client who had not been dismissed. If the whisper was false, he had been flattered into a shape. If true, he had been loved into a target. Either way, trust had stopped being simple—and he still chose the room that laughed with him about roads.
+Decimus fell into step. He didn't know the wax. He knew the chin-tip, the roads, the laugh about Spain—and that other men were already pricing those hours behind his back.
 
 ---
 
 ## Continuity
 - Chain 1 dramatized: clemency → access/soft chain (BRU), door/resentment (CAS), trust-height (DEC).  
 - **1D.4:** Brutus burns Caesarian dinner courtesy (behavioural hinge); Decimus–Caesar road-trust beat before heir whisper.  
+- **S-A0 / S1:** Cleopatra/Caesarion/Transtiberim planted in behind-backs (Cassius dinner + Decimus portico gossip)—no Cleo POV.  
+- **S-A0:** three-voice dinner; polite clasp → street complaint; heir loungers’ exit bitching.  
 - Plural motives; no hive agreement on Caesar’s meaning. FS05/FS21 planted.  
 - MUST_EXPRESS: A8 seed, B1, C1–C3 seeds. Next: Ch 5 Octavian.

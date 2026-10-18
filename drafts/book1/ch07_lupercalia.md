@@ -69,18 +69,37 @@ Brutus walked half a step slower. Ancestors walked with him whether he invited t
 
 “We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once—no lingering—at a slave too near, then at a water-seller’s boy whose ears were the wrong age for politics. “I have spoken to men who are tired of enduring. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a morning.”
 
-Brutus’ silence lasted long enough to be an answer forming. A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Brutus waited for the noise to cover him.
+Brutus stopped. The stop itself was an answer he preferred to speech.
 
-“If it were done,” he said at last, “it would have to be law’s face, not a gang’s. The Senate must see a surgery. Not a street.”
+“I am not one of your mornings,” he said. “Not tonight. Not because a wreath made the Forum smell of panic. Panic is how gangs recruit.”
 
-“Law’s face,” Cassius agreed, and tasted the first shared permission. No daggers yet. Only contempt with a schedule beginning to grow underneath—men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could open a door.
+A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Cassius waited for the noise, then used it.
+
+“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant.”
+
+Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. “If—only if—anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+
+“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath—men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could open a door. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
 They walked on as if they had been talking about rain. In Rome, that was often the same conversation.
+
+At the next corner Cassius left Brutus with festival courtesy. Ten paces on, he found Trebonius loitering with a cup he was not drinking.
+
+“Well?” Trebonius asked, mild as Monday.
+
+“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it—or he will postpone until Parthia packs for him.”
+
+Trebonius’s mouth twitched. “Bring Casca. Casca doesn’t do essays. He does doors.”
+
+“And if Brutus still burns invitations?”
+
+“Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped—making the joke look like thirst.
 
 ---
 
 ## Continuity
 - A4 hit; conspiracy disclosure begun after Lupercalia.  
+- **S-A0:** Brutus spoken resistance (not shared-permission tip); Cassius→Trebonius exit plan for company/Casca.  
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
 **1F / E3:** Antony POV borders; Fulvia marked beat.
 **1G:** Antony filed/weather cut; Cassius *was how* cut.
