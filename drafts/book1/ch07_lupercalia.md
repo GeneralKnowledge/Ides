@@ -20,7 +20,7 @@ When Antony came forward with the diadem—call it wreath, call it crown’s cou
 
 Caesar refused.
 
-Not once only—refused in a way that let every watcher invent a script: humility, theatre, trap, warning, joke gone wrong. Antony lowered the thing as if lowering a cup he had not meant to empty. The Forum exhaled wrong—half relief, half hunger.
+Not once only—refused in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony lowered the thing as if lowering a cup he had not meant to empty. The Forum exhaled wrong—half relief, half hunger.
 
 “He will not be king!” someone shouted, relieved.
 
@@ -39,7 +39,7 @@ By night the city’s elite rooms had a new oxygen: fear of *regnum*, whether or
 POV: Fulvia · later that evening · overheard report  
 Info ENTER: Antony’s laugh · EXIT: Temporary symbols noted
 
-Fulvia heard the laugh secondhand and did not smile. Temporary symbols were the ones that started wars. She did not say so to the messenger. Saying so early made you the woman who rusted a husband’s joke. She stored the word *temporary* where she stored unpaid debts.
+Fulvia heard the laugh secondhand and didn't smile. Temporary symbols were the ones that started wars. She didn't say so to the messenger. Saying so early made you the woman who rusted a husband’s joke. She stored the word *temporary* where she stored unpaid debts.
 
 ---
 
@@ -59,7 +59,7 @@ Overhear risk: Medium-High
 
 They chose a colonnade where shadows made faces honest and mouths careful. The festival was still sticky in the city’s teeth—the diadem’s ghost, the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder.
 
-Cassius did not begin with murder. He began with the difference between name and power—the only door a careful man would open without smelling steel.
+Cassius didn't begin with murder. He began with the difference between name and power—the only door a careful man would open without smelling steel.
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? Latin?”
 

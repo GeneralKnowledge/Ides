@@ -16,7 +16,7 @@ Overhear risk: Medium
 
 Cassius treated the Lupercalia as proof the disease had symptoms in daylight.
 
-The diadem had been offered, refused, offered again—theatre that left a taste like copper. In the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius did not argue. Argument was for men who still believed the Forum could vote a fever down.
+The diadem had been offered, refused, offered again—theatre that left his mouth dry and metallic. In the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius didn't argue. Argument was for men who still believed the Forum could vote a fever down.
 
 He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next—gratitude was a door that opened from the inside. The Appian shortlist’s edges after that: men who hated the calendar of forever offices, men who still smelled Pharsalus on their clothes, men who smiled too hard at Caesarian dinners.
 
@@ -24,7 +24,7 @@ A clerk hovered with a tablet about a boundary dispute in some dull estate. Cass
 
 “Not now,” he said. “Send to Atticus’ people if they want Latin about ditches.”
 
-He called for wine and did not drink it. He wanted his hands free.
+He called for wine and didn't drink it. He wanted his hands free.
 
 Ser. Galba came at the hour Cassius had named—not early, not late, the etiquette of a man who still thought timing was honour. They stood where the street noise could steal a sentence if a neighbour’s ear got hungry.
 
@@ -52,7 +52,7 @@ Cassius named two other doors Galba might tap—and did not name the full list. 
 
 When Galba left, Cassius finally drank. The wine was ordinary. That pleased him. Ordinary tools for an ordinary surgery: cut the growth before Parthia took the surgeon east and left the city with a king’s calendar and no king’s absence.
 
-He began a second list in his head—Ligarius at dusk, a note to Decimus that was not yet a note—and felt the mandate settle into his shoulders like a pack he had chosen. Somewhere a brother’s debt had just changed owners. Recruitment, Cassius thought, was not persuasion. It was teaching men which creditor to fear first.
+He began a second list in his head—Ligarius at dusk, a note to Decimus that was not yet a note—and felt the mandate settle into his shoulders like a pack he had chosen. Somewhere a brother’s debt had just changed owners. Recruitment, Cassius thought, meant teaching men which creditor to fear first.
 
 ---
 
@@ -68,7 +68,7 @@ Overhear risk: High (Servilia)
 
 Ancestral pressure finished what Cassius started.
 
-The masks on the wall did not speak. They never did. Brutus had grown up knowing that silence was the loudest judgment in a Roman house. Porcia had gone to bed with a headache that was not only a headache. Servilia remained in the dining room’s edge like a second architecture—wine untouched, eyes doing the work mouths pretended not to do.
+The masks on the wall never spoke. Brutus had grown up knowing that silence was the loudest judgment in a Roman house. Porcia had gone to bed with a headache that sat behind the eyes like worry. Servilia remained in the dining room’s edge like a second architecture—wine untouched, eyes doing the work mouths pretended not to do.
 
 Cassius’s afternoon words still sat under Brutus’s ribs: *We need the name. Your name.* Not flattery. Inventory.
 
@@ -82,7 +82,7 @@ Servilia’s mouth almost smiled. Almost. “The city knows what a procession is
 
 She did not ask about Cassius. She did not need to. Mothers who had survived Caesar’s old seasons learned to smell a season changing again.
 
-Brutus sat. He did not make a speech. Speeches were how he postponed. Instead he took a letter draft from the side table—some polite refusal to dine with a man who talked too freely of crowns—and held it above the lamp until the wax edge softened and the names blurred. He set the ruined thing down carefully, as if neatness could make arson into housekeeping.
+Brutus sat. He didn't make a speech. Speeches were how he postponed. Instead he took a letter draft from the side table—some polite refusal to dine with a man who talked too freely of crowns—and held it above the lamp until the wax edge softened and the names blurred. He set the ruined thing down carefully, as if neatness could make arson into housekeeping.
 
 “If I am asked to be worthy,” he said to the masks, not to Servilia, “I will not answer with another dinner.”
 

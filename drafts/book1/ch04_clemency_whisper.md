@@ -20,7 +20,7 @@ The older Brutus of the stories—the one boys learned with bread—did not need
 
 “Worth is not a dinner conversation,” she said. “It is what you do when dinners become easy.”
 
-Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. He reached for a philosophical sentence and found only the taste of wine that had gone warm.
+Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat.
 
 “I am not unaware of what the name requires,” Brutus said.
 
@@ -38,7 +38,7 @@ Brutus held the tablet above the lamp until the edge blackened and the host’s 
 
 “Regrets are still courtesy,” Porcia said. “Burning is nearer the truth.”
 
-He did not decide on knives. He decided, smaller and worse, on a dinner he would not attend and a smile he would not owe. He scraped the blackened tablet into the ash pan so no slave would have to invent a cleaner story for the house.
+He didn't decide on knives. He decided, smaller and worse, on a dinner he wouldn't attend and a smile he wouldn't owe. He scraped the blackened tablet into the ash pan so no slave would have to invent a cleaner story for the house.
 
 Porcia did not thank him.
 
@@ -68,7 +68,7 @@ The man chuckled, unsure whether it was a joke. Cassius let him stay unsure.
 
 He left early, courteous, already mapping who else had smiled wrong at the toast. He did not use the word *recruit*. Words like that belonged to later rooms. Tonight he only stored names the way other men stored insults—dry, labelled, waiting for a use.
 
-He paused under a torch and named, inwardly, three men who had laughed at the wrong time. Three was enough to begin a geometry. Geometry was cleaner than rage.
+He paused under a torch and named, inwardly, two men who had laughed at the wrong time—enough to begin a geometry. Geometry was cleaner than rage.
 
 Outside, the street air felt cleaner than the dinner’s gratitude. Clemency, Cassius decided, was a door. Doors could be walked through in either direction.
 
@@ -98,9 +98,9 @@ The laugh came from a man who collected other men’s secrets like party favours
 
 “Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still—imagine being loved enough to be ink.”
 
-Decimus felt warmth, then a draft. Being trusted was a kind of height. Heights had edges. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed.
+Decimus felt warmth, then a draft along the portico tiles. Trust put him on the high step where everyone could see him slip. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed.
 
-Alone in the portico shade he tested the thought: *heir* as compliment, *heir* as leash, *heir* as target for other men’s envy. He did not know the wax. He knew the feeling of being indispensable—and how indispensability made betrayal thinkable for men who were not him. Not yet. The “not yet” was quiet and did not introduce itself.
+Alone in the portico shade he tested the thought: *heir* as compliment, *heir* as leash. He didn't know the wax. He knew the feeling of being indispensable—and how indispensability made betrayal thinkable for other men, not yet for him.
 
 He touched the portico column once—habit of a man checking whether stone still agreed to hold him—and went back toward Caesar’s voice because that was still where his day lived. Caesar was already speaking to a clerk about grain; he glanced up, found Decimus, and tipped his chin as if the afternoon had never been interrupted by other men’s envy.
 
