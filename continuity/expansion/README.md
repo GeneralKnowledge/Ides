@@ -1,8 +1,8 @@
 # Book 1 — Full Novel Expansion
 
-**Status:** Architecture live · Waves 1–3 + D22 fringe **LANDED** (see deposit map)  
-**Branch lineage:** `cursor/novel-expansion-architecture-cb1d`  
-**Scale:** Soft lock **LEN-1 = 90–130k** ([`continuity/canon.md`](../canon.md)); intermediate landing ~**55–70k** after first prose wave. Length follows beats, not quota.
+**Status:** Architecture live · Waves 1–3 + D22 fringe LANDED · **Integration Review 2.0** recommends *integrate-first*, not another deposit wave  
+**Branch lineage:** `cursor/novel-expansion-architecture-cb1d` → `cursor/expansion-integration-2-cb1d`  
+**Review:** [`expansion_integration_review.md`](expansion_integration_review.md)
 
 ---
 
@@ -11,10 +11,11 @@
 | Doc | Purpose |
 |-----|---------|
 | [`book1_story_summary.md`](book1_story_summary.md) | One-page spine, dual engines, grandeur must-feel |
-| [`act_summaries.md`](act_summaries.md) | Per-act dramatic question, public/private weather, grandeur, exit state |
-| [`subplot_tracks.md`](subplot_tracks.md) | Seven named tracks: plant → travel → payoff |
-| [`beat_deposit_map.md`](beat_deposit_map.md) | Which new/expanded beats land in which chapter files |
-| Character bible | [`../character_profiles/`](../character_profiles/) — deepened principals + secondary files |
+| [`act_summaries.md`](act_summaries.md) | Per-act dramatic question + **causal chains** |
+| [`subplot_tracks.md`](subplot_tracks.md) | T1–T7: promise, travel, payoff / open, engine intersect |
+| [`beat_deposit_map.md`](beat_deposit_map.md) | Beats + **disposition** (earned / under-integrated / …) |
+| [`expansion_integration_review.md`](expansion_integration_review.md) | Diagnosis 2.0, findings table, next action |
+| Character bible | [`../character_profiles/`](../character_profiles/) |
 
 ---
 
@@ -24,7 +25,8 @@
 2. **Want/cost first.** New scenes change someone’s next choice. No padding to hit LEN-1.  
 3. **Story-first craft laws still bind** ([`../story_first_intrigue_plan.md`](../story_first_intrigue_plan.md)): rooms, corridor truth, callbacks, humour, play, gravity — **no** `Three…` census / warehouse kit / craft “exit-complaint” stage-direction.  
 4. **Subplots intersect Engines A/B** — they do not become a third mystery.  
-5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.
+5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.  
+6. **Three novelist questions before any new beat.** What should the reader feel/wonder/understand? What human decision produces it? Why can’t existing prose do it? If any answer fails → **leave the manuscript alone.**
 
 ### Hold locks
 
@@ -32,17 +34,43 @@ AMB-1 · NOTE-1 dual · SIDE-1 OPEN-0 · CLEO-1 · OCT≠Augustus · no Actium �
 
 ### Out of scope
 
-Actium as Book 1 content · SIDE-1 solution · romance-for-spice · hive-mind conspiracy · “Caesar knows” confirmation · another ≥2-laws inject sweep
+Actium as Book 1 content · SIDE-1 solution · romance-for-spice · hive-mind conspiracy · “Caesar knows” confirmation · another ≥2-laws inject sweep · quota sprint to word bands
 
 ---
 
-## Execution waves (prose)
+## Length vs completion
 
-1. Soft Middle (Ch 17–24) — highest ROI  
-2. War social life (Ch 25–30)  
-3. Early mesh (Ch 1–7, 10–13) plants for pays  
-4. Ides fringe only (household/omen mesh — not knife pile)  
-5. Regenerate DOCX · delete-the-garnish spot-check
+| Record | Role |
+|--------|------|
+| **LEN-1** (canon soft: 90–130k) | Aspirational scale if *story* needs rooms — **not** a completion gate |
+| Intermediate ~55–70k | Former first-wave landing band — **not** a quota |
+| Current ~50.7k | Post-deposit baseline |
+
+**Length does not dictate content.** Story-completion for the *expansion phase* is the stopping rule below — not proximity to either band.
+
+---
+
+## Stopping rule (expansion phase)
+
+Pause generating new deposits when:
+
+1. Every **essential** causal transition is intelligible and dramatically credible.  
+2. Principal character choices produce **visible** consequences.  
+3. Subplot threads are paid, deliberately left open, or explicitly deferred.  
+4. Major historical events feel **lived** rather than merely reported.  
+5. Remaining gaps are **optional**, not structurally damaging.  
+6. The next proposed addition has a **weaker justification** than the risk of disturbing effective prose.
+
+Passing these conditions means the expansion phase has stopped inventing material without a compelling reason. It does **not** mean the novel is publication-ready.
+
+**Review 2.0 verdict:** conditions 1–4 largely met on the spine; residual work is **integration revision** of under-integrated deposits (D2, D16, map over-promise on D5) and optional camera passes — not a new wave toward LEN-1.
+
+---
+
+## Recommended next action
+
+**Integrate existing material first** (see review §6). Then re-apply this stopping rule.  
+Do not open a new prose implementation task unless a P1 item cannot be expressed by revising landed text.
 
 ---
 
@@ -50,5 +78,6 @@ Actium as Book 1 content · SIDE-1 solution · romance-for-spice · hive-mind co
 
 - Reader can name **≥3 parallel lives** that aren’t “the conspiracy meeting.”  
 - Profiles answer: misbelief, Act-by-Act attitude to ≥2 others, off-page want, subplot ownership.  
-- Length rises because rooms and costs were added.  
-- SIDE-1 feels erased by larger corpses, not forgotten.
+- Length rises only because rooms and costs were added — never because chapters were padded.  
+- SIDE-1 feels erased by larger corpses, not forgotten.  
+- Every new beat survives the three novelist questions.

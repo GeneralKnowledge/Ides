@@ -1,131 +1,142 @@
 # Book 1 — Subplot Tracks
 
-Each track: **want**, plant → travel → payoff, intersects which engine, locks.  
-Rule: every deposit must change a next choice.
+Each track accounts to the story: **dramatic promise**, **direction changes**, **Engine A/B intersect**, **payoff / deliberate open / deferred**.  
+Rule: every *new* deposit must change a next choice. Tracks that already work get **no obligatory new beats**.
+
+**Integration status (Review 2.0):** All seven tracks have plant→travel→payoff (or deliberate open) in prose. Residual work is revision of under-integrated deposits, not new track invention.
 
 ---
 
 ## T1 — Household INF
 
-**Want:** Keep the house’s truth from becoming someone else’s line item—without dying for it.  
-**Faces:** Nysa, Phileros, Pallas, Calpurnia (pressure), Dama  
-**Zones:** F3, F4  
+**Promise:** The Domus’s truth can kill or save — and staff will try to keep it from becoming someone else’s line item.  
+**Faces:** Nysa, Phileros, Pallas, Calpurnia (pressure), Dama · **Zones:** F3, F4  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 11–12, 14 | Omens; fragment; dressing-room pauses; Phileros near-miss |
-| Travel | 16–19, 23 | Murder rumour in service corridors; house emptying under kind stewards |
-| Payoff | 23, 30 | Blank wax danger; lists chalk-wall; fear moved house |
+| Direction change | 16–19 | Murder rumour in service corridors; house no longer mistress’s weather |
+| Travel | 23 | Emptying under kind stewards; flask want fails (D8) |
+| Payoff | 30 | Lists chalk-wall; fear moved house |
 
-**Intersects:** A (warnings fails); B (paper/seals as weapons)  
-**Must not:** Phileros as NOTE-1 sole author; Nysa solves Ides  
+**Intersects:** A (warnings fail as method); B (paper/seals as weapons)  
+**End state:** Paid — blank wax / ash continuity; Nysa does not solve Ides.  
+**Must not:** Phileros as NOTE-1 sole author; thicken fringe into knife core.  
+**Integration note:** D21/D22 fringe OK; protect peaks.
 
 ---
 
 ## T2 — Women’s power rooms
 
-**Want:** Price men, paper, and mornings before the Forum invents the story.  
-**Faces:** Servilia, Fulvia, Porcia (+ Calpurnia dread as adjacent)  
-**Zones:** F3, F14  
+**Promise:** Mothers, wives, and consuls’ partners price men and paper before the Forum invents the story.  
+**Faces:** Servilia, Fulvia, Porcia (+ Calpurnia dread adjacent) · **Zones:** F3, F14  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 7–8 | Fulvia *temporary*; Servilia in recruitment pressure |
-| Travel | 17–18, 21 | Soft politics under amnesty; Porcia “peace required a plan” |
-| Payoff | 24 | Antium: Servilia moves clauses; Cicero learns page weight |
+| Plant | 4, 7–8 | Servilia messenger fringe (D17); Fulvia *temporary*; Servilia in Ch 8 pressure |
+| Direction change | 17–18, 21 | Amnesty paper priced; Porcia “plan” costs refusal (D6) |
+| Payoff | 24 | Antium: Servilia moves clauses; Cicero learns page weight (D9 behind-backs) |
 
 **Intersects:** A (Brutus yes cost); B (paper/boy/Antony)  
-**Must not:** Porcia as cheerleader only; Fulvia as nag stereotype  
+**End state:** Paid at Antium — not every act needs a women’s room.  
+**Must not:** Porcia cheerleader; Fulvia nag stereotype.  
+**Integration note:** **D2 under-integrated** (“Fulvia-shaped / Servilia-shaped” corridor). Revise to earned presence or fold into banker mouths — do **not** add a second Antium.
 
 ---
 
 ## T3 — Money street
 
-**Want:** Clear interest while pretending the Republic is a festival.  
-**Faces:** Hordeonius, Sosia, Seius, Seia Prima, Visellius ash  
-**Zones:** F7, F8  
+**Promise:** Interest clears while the Republic pretends to be a festival; lists harvest what soft hours planted.  
+**Faces:** Hordeonius, Sosia, Seius, Seia Prima, Visellius ash · **Zones:** F7, F8  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 1–2, 10 | Warehouse plant (origin only); SIDE-1 body; almost-recruit |
-| Travel | 18, 23 | Will market; petition flinch; archaeology refused |
-| Payoff | 30, 33–34 | Lists harvest; unclean acquisition; ash OPEN-0 |
+| Plant | 1–2, 10 | Rates / debt; SIDE-1 body; almost-recruit (D16 origin — see note) |
+| Direction change | 18, 23 | Will market; petition flinch; archaeology refused |
+| Payoff | 30, 33–34 | Lists harvest (D15); unclean acquisition; ash OPEN-0 |
 
-**Intersects:** B (will/lists); SIDE-1 as ash pressure only  
-**Must not:** Solve SIDE-1; warehouse gag reprises as soft centre  
+**Intersects:** B (will/lists); SIDE-1 as **ash pressure only**  
+**End state:** Paid as pressure; killer unsolved (OPEN-0) — deliberate.  
+**Must not:** Solve SIDE-1; warehouse gag as soft centre.  
+**Integration note:** **D16 redundant/craft-leak** — strip meta “plant only” speech on revision; Ch 2 baker/Sosia already carry the street.
 
 ---
 
 ## T4 — Land / Capua veteran
 
-**Want:** A dated donative / Capua dirt—not philosophers’ crowns.  
-**Faces:** Laberius, Vibius, Gaius, funeral corporals  
-**Zones:** F10, F11, street  
+**Promise:** Capua dirt with a date outlives the paymaster; philosophers’ crowns do not feed boys.  
+**Faces:** Laberius, Vibius, funeral corporals · **Zones:** F10, F11, street  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 3 | Capua prayer; colony-with-face humour |
-| Travel | 13, 19, 24 | Brazier powder; funeral Capua named; veterans listen |
-| Payoff | 28, 30, 34 | Mud Capua echo; lists soil; Italy underestimation |
+| Plant | 3 | Capua prayer; colony-with-face |
+| Direction change | 13, 19, 24 | Brazier powder; funeral Capua named + changed-cost (D4); veterans listen |
+| Payoff | 28, 30, 34 | Mud Capua echo (D13 light); lists soil; Italy underestimation |
 
 **Intersects:** B (who pays after Caesar); public rage after funeral  
-**Must not:** Generic “land” without Capua cost after Ch 19 plant  
+**End state:** Paid — Italy unpaid dirt is Book 1’s last seed, not Actium.  
+**Must not:** Generic “land” without Capua cost after Ch 19.  
+**Integration note:** D13 useful/light — no further Capua densify unless want/cost missing.
 
 ---
 
 ## T5 — Soft-ally world
 
-**Want:** Survive the map without becoming anyone’s date.  
-**Faces:** Plancus, Lepidus (+ Hirtius/Pansa as war weather)  
-**Zones:** F2, F11  
+**Promise:** Soft praise and undated *yet* can starve a hinge as surely as a hard army.  
+**Faces:** Plancus, Lepidus (+ Hirtius/Pansa as war weather) · **Zones:** F2, F11  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 20, 26–27 | Soft praise; refused grain; undated thaw |
-| Travel | 27–28 | Parley smoke-count; courtesy tablets under stone |
-| Payoff | 29 | Decimus ford; Lepidus smile as rumour; vacuum → fasces |
+| Plant | 20, 26–27 | Soft praise; refused grain with human face (D11); undated thaw |
+| Direction change | 27–28 | Parley smoke-count; courtesy tablets under stone |
+| Payoff | 29 | Named soft-ally count (D14); ford; Lepidus smile as rumour only; vacuum → fasces |
 
 **Intersects:** A aftermath (who holds roads); Decimus death path  
-**Must not:** Omniscient betrayal narration; Lepidus sole confirmed killer  
+**End state:** Paid — evaporation earned socially; Lepidus **not** confirmed sole killer.  
+**Must not:** Omniscient betrayal narration.  
+**Integration note:** Track works; D1 Pacuvius/Lepidus pressure earned at Act 3 edge.
 
 ---
 
 ## T6 — Heir’s ordinary life
 
-**Want:** Learn which name still feeds and which silence kills—without destiny voice.  
-**Faces:** Octavian, Agrippa, Apollodorus, Philippus/Atia pressure  
-**Zones:** F1, F9  
+**Promise:** Friendship, drill, and soft-name bans teach which silence kills — before anyone says destiny.  
+**Faces:** Octavian, Agrippa, Apollodorus, Philippus/Atia · **Zones:** F1, F9  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 5 | Hopeful-shadow hate; Agrippa ban on soft nickname |
-| Travel | 20, 22 | Death news; name-take; underestimation sport |
-| Payoff | 27, 29–30 | Senate’s sword; fasces homework; Bononia assent |
+| Plant | 5 | Hopeful-shadow hate; bread; Agrippa ban (D18) |
+| Direction change | 20, 22 | Death news; name-take; ordinary evening path (D7); underestimation sport |
+| Payoff | 27, 29–30 | Senate’s sword; Agrippa stillness cost (D12 light); fasces homework; Bononia assent |
 
 **Intersects:** B (name/heir)  
-**Must not:** OCT≠Augustus violated; Agrippa steals learning arc  
+**End state:** Paid as learning, not Augustus.  
+**Must not:** OCT≠Augustus violated; Agrippa steals learning arc.  
+**Integration note:** D12 useful/under-integrated — tighten on revision or leave; do not add third OCT ordinary scene.
 
 ---
 
 ## T7 — Eastern human ledger
 
-**Want:** Pay an army without admitting the brand is a tax—or admit it and sleep anyway.  
-**Faces:** Cassius, Brutus, elders, interpreters, mint officers  
-**Zones:** F9, provincial  
+**Promise:** *Libertas* has a face and a short-weight sack; purity that refuses harbour silver must still pay an army.  
+**Faces:** Cassius, Brutus, elders, interpreters, mint officers · **Zones:** F9, provincial  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 25 | Harbour “collecting”; purity refuse easy silver |
-| Travel | 32 | Half-now + sureties; Decimus debit crack |
+| Plant | 25 | Harbour “collecting”; purity refuse; mate witnesses (D10 light) |
+| Direction change | 32 | Half-now + sureties; Decimus debit crack |
 | Payoff | 32–34 | *EID MAR* heat; INF-death; cleaner-hill refuse |
 
-**Intersects:** A stored mistake cascade; B brand vs paper  
-**Must not:** Humour-on in brand-crack peaks; Actium foreshadow as evidence  
+**Intersects:** A stored-mistake cascade; B brand vs paper  
+**End state:** Paid — extraction as lived rooms; humour OFF at brand-crack peaks.  
+**Must not:** Actium foreshadow as evidence.  
+**Integration note:** D5 (Cleo intermediaries) is **T6/T7-adjacent plant** whose payoff is refuse-to-buy courtesy — **not** a Ch 26 Cleo encounter. Map clarified in deposit disposition.
 
 ---
 
-## Track priority for first prose wave
+## Track priority (post–Review 2.0)
 
-1. T2 Women’s rooms + T3 Money street + T1 Household (Soft Middle)  
-2. T5 Soft-ally + T4 Capua social + T6 heir ordinary (War / Name)  
-3. T7 Eastern faces (Ch 32 densify, not postcard)
+1. **Integrate** under-integrated deposits (T2/D2, T3/D16, clarify D5) — revision, not new IDs.  
+2. **Do not** invent new tracks.  
+3. **Do not** force every track through every act.  
+4. Further LEN-1 growth only if a beat answers the three novelist questions in `README.md`.

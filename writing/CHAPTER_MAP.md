@@ -88,13 +88,14 @@ After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `co
 
 ## Expansion deposits (architecture-first)
 
-See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md). Update this map only after beats are marked **LANDED** there.
+See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md) and [`continuity/expansion/expansion_integration_review.md`](../continuity/expansion/expansion_integration_review.md).  
+Update this map only after beats are marked **LANDED** there. Review 2.0: **integrate-first**; no new wave toward LEN-1.
 
-| Wave | Chapters | LANDED IDs (this program) |
-|------|----------|---------------------------|
-| Soft Middle | 17–24 | D1–D9 |
-| War social | 25–30 | D10–D15 |
-| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 |
-| Ides fringe | 14 | D22 (peaks protected; Ch 16 PROTECT) |
+| Wave | Chapters | LANDED IDs | Integration flags |
+|------|----------|------------|-------------------|
+| Soft Middle | 17–24 | D1–D9 | D2 INTEGRATE; D5 clarify payoff |
+| War social | 25–30 | D10–D15 | D12 optional; D10/D13 light |
+| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 | D16 INTEGRATE (strip meta) |
+| Ides fringe | 14 | D22 | peaks protected; Ch 16 PROTECT |
 
 Locks held: AMB-1, NOTE-1 dual, SIDE-1 OPEN-0, CLEO-1, OCT≠Augustus, no Actium, CHOREO-1 / Curia core / Formiae.
