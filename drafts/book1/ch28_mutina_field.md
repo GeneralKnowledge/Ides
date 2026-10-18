@@ -56,7 +56,7 @@ Hordeonius recorded three explanations for Pansa’s death before the man had fi
 
 He labeled all three *Rumour* in Greek abbreviation, because Latin made gossip look like minutes. A client wanted to buy the third as fact—wanted a price on conspiracy that would make his dinner clever. Hordeonius refused the sale and charged for the refusal.
 
-“Do not sell poison as fact,” he told the man. “Fact is expensive. Rumour is a tax on fools. I keep seals, not conveniences.”
+“Do not sell poison as fact,” he told the man. “I keep seals. Seals are not dinner cleverness. Pay for the refusal if you want a clean margin.”
 
 Sosia muttered that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*. The poison talk lived; the ledger did not.
 

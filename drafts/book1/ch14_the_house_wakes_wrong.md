@@ -211,7 +211,7 @@ Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent 
 
 In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people who did not get beaten for incomplete messages.
 
-Against her ribs, under linen, the wax fragment held its few words—pressed yesterday when a visitor’s attendant had muttered near the peristyle about danger from friends, about sparing a consul and not sparing a king. She had not understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
+Against her ribs, under linen, the wax fragment held its few words—pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She had not understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 
 When she returned to the atrium, Decimus was already there.
 

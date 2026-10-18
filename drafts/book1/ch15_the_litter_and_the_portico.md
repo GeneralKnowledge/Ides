@@ -37,7 +37,7 @@ She walked to the cubiculum and closed the door that had opened itself in the ni
 
 “He will come back,” she told the empty bed.
 
-The bed did not argue. That was its only virtue.
+The bed did not argue.
 
 From the street rose the ordinary roar of the Ides—markets, oaths, a woman laughing as if laughter were still allowed. Calpurnia listened for a different sound and hated herself for inventing it in advance.
 
