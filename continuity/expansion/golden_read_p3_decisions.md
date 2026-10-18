@@ -47,3 +47,23 @@ Entry hooks (apology-gift / beauty-deal / guard-for-safety) may seed as *offers 
 | P3-b | Ch 10 refuse theatre; Ch 23 living-seal action |
 | P3-c | Ch 11 competing dread versions; Ch 20 dream misremember |
 | P3-d | Ch 23 Nysa orbit; Ch 24 Laberius safety-gift refuse |
+
+---
+
+## Post-implement diagnostics (author questions)
+
+### Ensemble fog — losing track, or productive uncertainty?
+
+**Verdict: both, by zone.** Act 1 (Ch 1–5 camera thrash) can lose *who matters* as a person; that fog is real and was the author’s Ch 5 feeling. Golden stretch uncertainty is mostly **productive**: incomplete-info and will/name/heir engines carry better than any single hero, and “who owns the aftermath” is the right blur. Do **not** treat Act 1 fog as proof the ensemble is broken — treat it as opening cost. Soft watch: if outside readers still can’t name *anyone* they follow by Ch 9, revisit connective recoverability, not a monomyth retrofit.
+
+### Batiatus / Hordeonius drive — legible without overexplaining?
+
+**Verdict: yes, mostly.** Want is behavioural: living seals, Kalends pay, refuse softness that won’t bleed money. Ch 10 tablet click / stool threat and Ch 23 ash returned to palm make the drive *legible in action*. Soft risk: caption crumbs (`possession as theology`; `ego housekeeping, not fear`) tip toward explaining the joke. Prefer letting Sosia’s almost-laugh and the soft click do the work; trim captions if they accumulate.
+
+### Dream fan-theory — competing reads, or canonical supernatural?
+
+**Verdict: invites competition; does not certify gods.** Ch 11 plants three dread theories (gods / nerves / politics) with Nysa refusing to crown. Ch 14 peak stays lived dread + open door/Mars noise unproven. Ch 20 aftermath offers ≥3 street versions including “no dream, only a story,” and Decimus files without crowning. Soft risk: Ch 11’s “rehearsed a dream before the dream arrived” is slightly meta-telegraph; Ch 20’s triple list is a bit neat. Neither pushes a narrator-true omen. Keep AMB; don’t add confirming prodigies.
+
+### Mobile follow-body — movement/handling clear?
+
+**Verdict: clear enough in the touched scenes; not yet a whole-book GPS.** Nysa Ch 23: Domus → Sacra Via receipt → Antony threshold → walks back; transfer-offer refused — path and stakes readable. Laberius Ch 24: colony forum → walk-away → catch-up safety-gift refuse → road — boots stay his. Soft risk: both scenes name the craft (`Attachment was a transfer…`; `Gift-for-safety was still a transfer`) — handling is clear, almost *too* labeled. Across the *whole* book neither is continuous follow-body; that was intentional (no new OC). If readers still hunger for one pair of eyes book-wide, widen further later — don’t invent a tour guide now.
