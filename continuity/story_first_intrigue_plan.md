@@ -240,7 +240,7 @@ flowchart LR
 | **S3** | **Ch 10 F4 done (S-A1)** | Non-conspirator “civil-war insurance” / consul walks free of a bad morning. In-plot spare still Ch 7/9/13 | Audience ahead on stored mistake without spoiling Ch 15 |
 | **S4** | **Ch 12 Phileros near-miss done (S-A1)** | Household delay/near-catch on Nysa’s fragment — **without** merging with Artemidorus sealed note | Dual warnings stay dual; reader fears interception |
 | **S5** | **Ch 1, 5, 6, 11 done (S-A2)** | Longer single-POV runs; Ch 6 cut from 3 cameras to 2 (Nysa packing folded into F4); Ch 5 Forum→Apollonia continuous | Characters, not collage |
-| **S6** | Protect peaks | Ch 14–16, 19: intrigue seeds only at edges; do not rebuild gold spine choreography | Keep what already hooks |
+| **S6** | Protect peaks — **dwell done** | Ch 16 core intact; Ch 14/15/17/19 dwell densified (SC-35c/40/41/45/50a + SC-43 exit fringe) | Humour-off / choreography-locked — not lower craft density |
 | **S12** | Ch 7–8 | **Group persuade Brutus**: multi-voice room; Brutus argues against; costly tip (rewrite Ch 8 tip away from caption-only) | Reluctance→conversion readable |
 | **S13** | Ch 4–9 | Strip relationship **tells**; replace with behaviour (esp. Decimus–Caesar key line; Brutus–Cassius permission captions) | Bonds felt |
 | **S14** | Ch 1–13 | Cut or fold useless fact stamps that don’t move a want | Less checklist dress |
@@ -304,8 +304,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 3. **Pass S-A2 (dwell):** **Done** — G1–G2 on Ch 1, 5, 6, 11; 3-person rooms held; Ch 6 no longer a 3-POV mosaic under ~900w.  
 4. **Pass S-B1:** **Done** — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint.  
 5. **Gold-edge + Act 5 ordeal + book-wide law sweep:** **Done** — see `gold_act5_laws_pass_report.md` / `story_first_law_sweep_log.md`.  
-6. **Re-export DOCX** (FULL + golden) — **Authorised as decision cold-read** (not final line-edit).  
-7. Short log updates in `continuity/story_first_pass_log.md`.
+6. **Gold spine dwell:** **Done** — Act-5-class density at SC-35c / 40 / 41 / 43-exit / 45 / 50a; locks held — see `gold_spine_dwell_pass_log.md`.  
+7. **Re-export DOCX** (FULL + golden) — Next (decision cold-read after gold dwell).  
+8. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  

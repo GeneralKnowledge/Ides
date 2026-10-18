@@ -81,16 +81,19 @@ Caesar folded at the base of Pompey’s statue as if the old dead rival had fina
 
 No one arranged themselves into a people. They ran.
 
-Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt. “Before Antony finds a sword and a crowd.”
+Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt—station face for anyone still listening.
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him—memory of dinner, of Caesar’s forgiveness after war, of the ugly debt of being spared. He crushed it the way he crushed unearned tears: privately, completely, with the lie that ancestors approved.
+In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside—Trebonius’s Monday. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
-They went out into light that did not know what it was lighting.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him—memory of dinner, of Caesar’s forgiveness after war, of the ugly debt of being spared. He crushed it the way he crushed unearned tears: privately, completely, with the lie that ancestors approved. The exit-complaint sat under the crush: spare was not mercy’s clean face now; it was a clock.
+
+“Capitol,” Brutus said—public word, private cost—and they went out into light that did not know what it was lighting.
 
 ---
 
 ## Continuity notes (SC-43)
-- CHOREO-1; no Shakespeare last words; disputed Greek fragment; Pompey statue fall.
+- CHOREO-1; no Shakespeare last words; disputed Greek fragment; Pompey statue fall.  
+- **Gold dwell:** Exit fringe only — Cassius corridor truth (spare/Monday walking toward them); knife pile untouched.
 
 ---
 

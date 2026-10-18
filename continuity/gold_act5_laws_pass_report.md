@@ -49,22 +49,10 @@ Ch 7 Fulvia folded (2 cameras). Ch 20 smoke-bridged (4 cameras retained but cont
 
 ## 4. Export decision
 
-**FULL + golden DOCX: YES — as a decision cold-read, not as “finished novel.”**
+**Superseded for gold thinness:** see `gold_spine_dwell_pass_log.md` (dedicated dwell pass after this report).  
 
-Why yes now (vs shortfall review “no”):
-- Gold over-protection corrected at edges  
-- Act 5 ordeal / mosaic postcards addressed in priority chapters  
-- Book-wide laws applied thoroughly, not as seeds only  
-
-Residual risks to tell the cold reader:
-- Ch 20 still multi-camera (bridged, not collapsed)  
-- Peak Ides multi-POV remains (allowed)  
-- Some humour-off stretches are intentional  
-- Further polish always possible; this is no longer the “same criticism class” block
-
-**Label for export:**  
-`Story-first complete through gold-edge + Act5 ordeal + book-wide law sweep. Cold-read for residual mosaic/humour density; not a final line-edit.`
+Prior call (FULL + golden as decision-read) assumed gold-edge was enough. Author correctly flagged remaining held-back density at Ides. **Do not export until gold dwell lands**, then reassess.
 
 ---
 
-*End pass report.*
+*End pass report (export clause superseded by gold dwell).*

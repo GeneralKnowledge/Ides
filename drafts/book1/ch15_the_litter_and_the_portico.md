@@ -39,17 +39,32 @@ Calpurnia held the girl’s gaze until inventing an answer would have cost more 
 
 Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
-She walked to the cubiculum and closed the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
+She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
 
-“He will come back,” she told the empty bed—and hated that she had said it aloud, as if speech could hire a return.
+In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise: Spurinna, beware, a king-bird already torn in someone else’s story. Pallas arrived with Calpurnia’s mantle as if dressing could stop a morning.
 
-The bed did not argue. From the street rose the ordinary roar of the Ides. Calpurnia listened for a different sound and, for once, refused to invent it in advance. She had given an order. Orders were what power looked like when the litter was already gone.
+“Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
+
+Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Pallas held the mantle and said nothing—loyalty that knew when silence was the only clean service.
+
+Phileros tried again from the vestibule edge, softer. “Domina—if the college sends—”
+
+“If the college sends, they send to me by name,” Calpurnia said. “Not through your *someone*. And Nysa—if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
+
+Nysa nodded once. Burning had been habit; habit had just been rewritten.
+
+Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
+
+“He will come back,” she told the empty bed—and hated that she had said it aloud, as if speech could hire a return. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes—the little road habit that had always meant the friend would go—and practised the silence she would keep when the house tried again to make omen into conversation.
+
+The bed did not argue. From the street rose the ordinary roar of the Ides. Power, when the litter was already gone, looked like refusing theatre until news arrived with a body attached.
 
 ---
 
 ## Continuity notes (SC-40)
 - Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.  
-- **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.
+- **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.  
+- **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
 
 ---
 
@@ -74,13 +89,17 @@ Near the turning toward the Campus, a man pressed in—Greek face, urgent manner
 
 “Read this,” the man said, or something near it. “Read it now. Alone.”
 
-Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. He slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on.
+Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. For a breath the seal sat in the open—wax dull, string tight, the particular weight of a message that wanted to be a door. Decimus’s hand twitched toward the stack before his face did. Snatching would look like theft. Letting it ride would look like ease. Ease was the costume he was wearing.
 
-Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that mornings were full of tablets, and that if he snatched at this one he would look like a thief in front of the man whose trust he was currently wearing like a clean cloak.
+The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast. “Him. Alone.”
+
+Caesar’s thumb brushed the seal as if curiosity had almost woken—then slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
+
+Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak—and that the almost-snatch would live longer in his wrist than in Caesar’s attention.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
-Caesar did not open it.
+Caesar did not open it. The unread paper rode against his knee like any other chore.
 
 At the portico of Pompey the air changed—shade, columns, the smell of stone that had watched other men’s ambitions. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood as if carved for a different century.
 
@@ -99,7 +118,8 @@ Decimus wiped his clean hands on his tunic, once, where no one would see, and we
 ---
 
 ## Continuity notes (SC-41)
-- Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.
+- Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.  
+- **Gold dwell:** Seal almost opens / Decimus almost-snatch cost; NOTE-1 dual held (seal stays unread).
 
 ---
 

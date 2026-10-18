@@ -19,35 +19,42 @@ Overhear risk: Crowd below partial
 
 The Capitol was height, and height was supposed to mean clarity.
 
-Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after.
+Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. Three living wants shared the rock: speak the city into virtue, leave before Antony found a sword, hold the height as if height were an argument.
 
 Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 
-“They will come round,” said a man beside Brutus who needed it to be true.
+“They will come round,” Casca said, needing it true enough to keep the blade in the open.
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.*
+“They will come with torches,” Decimus said, not looking down. “I can hear the road north from here. This rock is not a province.”
 
-He didn't say it. Saying it would make it a motion.
+Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament.
+He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
-He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Writing might force the Republic to sit still—or only force the page.
+“We hold until the reports clarify,” Brutus said—public face, station calm. “Liberty does not run from its own Forum.”
 
-Cassius said, “We cannot sleep on this rock and call it victory.”
+A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
 
-“We can call it beginning,” Brutus said.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
 
-Cassius’ mouth twitched. “Beginnings bleed.”
+Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
-Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid.
+“We can call it beginning,” Brutus said—still the public sentence.
+
+They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped as if he had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
+
+Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say *Capitol* if you must—say it as fear, not as a period.”
+
+Brutus took the exit-complaint without answering it in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid—and the rock had just taught him that waiting could be a choice with a cost, not only a virtue with a view.
 
 ---
 
 ## Continuity notes (SC-45)
 - Liberty optics fail to convert populus.  
-- Capitol linger = strategic mistake shown, not lectured.  
+- Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.  
+- **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor exit-complaint after Brutus’s public face.  
 - // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 
 ---

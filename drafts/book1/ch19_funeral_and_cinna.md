@@ -23,13 +23,17 @@ Antony spoke as a consul speaks when he intends the words to settle in the Forum
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
-Someone sobbed. Someone cursed Brutus by name. Antony kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth as if cloth were a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric—grief wanting a relic, the consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief. Too loose a grip and the cloth became theirs to tear into a hundred private wars.
 
-The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. An officer at Antony’s shoulder hissed for grain first, fire never. “Hold the shops,” the man said. “Heat without bread turns on whoever holds the cloth.”
+“Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
-Antony didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the officer. “Let the rest teach.” The officer’s mouth flattened—permission he hadn’t wanted to hear. When the first shops began to burn toward Liberators’ houses anyway, farther and faster than the grain line, Antony felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod.
+The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. An officer at Antony’s shoulder—same man who had hissed on the grain line before—caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
 
-Teaching looked like smoke. The smoke did not ask which Monday had left him alive to aim it.
+A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
+
+Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened—permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy. When the first shops began to burn toward Liberators’ houses anyway, farther and faster than the grain line, Antony felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod—and the second officer was already too far forward to call back without looking afraid of his own heat.
+
+Teaching looked like smoke. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
 
 ---
 
@@ -90,7 +94,8 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).  
 - Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).  
 - // M5: Antony speech held as refrain (lightly compressed); not blank verse.  
-- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.
+- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.  
+- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
 
 ---
 
