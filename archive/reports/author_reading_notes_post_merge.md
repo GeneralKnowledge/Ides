@@ -342,7 +342,9 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 **Reader risk the note names:** after Ch 3, “the bakers” can feel like a recurring cast that never got introduced — actually they are a shorthand for rumour-street / bread-price Rome, reused without return to the stall.
 
-**Later (if pursued):** either lean into ecology on purpose (keep anonymous), or one light callback to the Ch 3 agent/cake-seller so the later chorus feels like the same world — not a baker conspiracy.
+**Author follow-up:** “Ah, like the rumour mill. That totally went over my head.” — intent lands once named; first pass can miss it. Strengthens the risk that later “bakers” feel like unexplained cast rather than chorus.
+
+**Later (if pursued):** either lean into ecology on purpose (keep anonymous), or one light callback to the Ch 3 agent/cake-seller so the later chorus feels like the same world — not a baker conspiracy. Soften later lines toward clearer rumour-mill voice if the miss keeps happening for outside readers.
 
 **Do not yet:** invent a baker plot mid-read.
 
