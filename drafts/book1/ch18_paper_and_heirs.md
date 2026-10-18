@@ -21,7 +21,7 @@ Hordeonius loved a crisis the way priests loved a festival: not for the singing,
 
 He sat under the basilica’s shade with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
 
-“Amnesty,” Hordeonius said solemnly, “is a political word. Interest is a natural one. Do not confuse them.”
+A man asked whether amnesty meant he could stop paying. Hordeonius tapped the interest column once, hard enough that Sosia looked up. “Amnesty doesn’t blot this,” he said. “Next.”
 
 A junior senator—Seius’ type, though not Seius—laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax—unless the humour sold a second cup without confessing appetite.
 
@@ -33,7 +33,7 @@ Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hu
 
 The junior wiped his eyes. “You talk as if mourning were a price list.”
 
-“Mourning that refuses a price,” Hordeonius said, “is mourning that still wants gardens, a boy’s name, and a queen’s silence on the same stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there—the junior was already leaning in for leases, and jokes that named queens out loud became line items. “I sell you which rumour empties a purse first,” Hordeonius added. “Not which grief is honest.” The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the sale of solemnity.
+“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there—the junior was already leaning in for leases, and jokes that named queens out loud became line items. “Gardens, boy, queen—watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
 
 He entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks—SIDE-1’s ghost—hinting Basilus and an Antonian name could still be made to squeal.
 
@@ -49,9 +49,9 @@ By the fourth hour his hand ached from writing. He flexed the fingers and watche
 
 “The boy inherits the name,” someone panted.
 
-Hordeonius smiled the small smile of a man confirming a column. “Then the name has become coin,” he said. “And coin, gentlemen, is the only liberty that clears.”
+Hordeonius blotted a column and did not look up. “Then sell me who pays for it first,” he said. “Not the poetry.”
 
-He blotted the wax, neat as virtue, and waited for the next fool to ask him whether virtue paid.
+He waited for the next fool with a question and a purse.
 
 ---
 

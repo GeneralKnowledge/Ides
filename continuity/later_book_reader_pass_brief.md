@@ -3,7 +3,7 @@
 **Date:** 2026-10-18  
 **Branch:** `cursor/later-book-reader-pass-cb1d`  
 **Baseline:** `origin/main` @ `0cb31a7` (#47 opening closed)  
-**Status:** Inspect-only. No prose edits yet.  
+**Status:** Implemented (bounded prose stitches). See change log below.  
 **Source of evidence:** Ch 4–34 cold read (curiosity / care / forget / momentum). Not a mandatory edit list.
 
 ---
@@ -147,3 +147,37 @@ A later reader can:
 3. Hear Hordeonius as a busy commercial mind, not as the novel’s essayist.  
 
 …while Decimus, funeral overrun, and Cassius’s bad information remain untouched.
+
+---
+
+## Change log (implementation)
+
+**Done**
+
+| Priority | File | Change |
+|----------|------|--------|
+| 1 | `ch13_go.md` | One Galba sentence on GO roster: brother’s winter / torn seal; Cassius does not ask whether grain has already called him. |
+| 2 | `ch06_perpetuo.md` | Fairness/auction maxim → impatient “Late… Not for the sermon” + next tablet. |
+| 2 | `ch18_paper_and_heirs.md` | Amnesty couplet → tap interest / “Next.”; mourning stool → “buy a list”; “liberty that clears” → “sell me who pays… Not the poetry.” Archaeology refuse kept. |
+| 2 | `ch23_prices_and_cowards.md` | Identical mourning-stool echo removed; stylus-keeps-writing impatience + rumour watch kept. |
+| 2 | `ch10_side1.md` | Cut atmosphere/civil-war sermon stack after Paullus; kept refuse + umbrella; **restored** S-A1/S3 consul-walks-free plant as one ledger/invoice beat (not a speech). |
+| 3 | `ch26_provinces_and_shadows.md` | Two-sentence Lepidus-channel silence beside Plancus *yet* (Ch 20 seed → Ch 29). |
+
+**Deliberately left alone**
+
+- Ch 1–3 (locked).
+- Ligarius cousin beat (pride already named); no Ligarius body return.
+- Casca at strike / Capitol (role still readable).
+- Basilus (orbit/tablet only).
+- Ch 17 Galba absence prose (already receipt language; Ch 13 now supplies antecedent).
+- Ch 27 (Lepidus stitch placed in Ch 26 instead).
+- Ch 28 “Silence clears” (one line; refuse-sale already carries the scene).
+- Philippi / Ch 33–34 (Priority 4: no expansion).
+- Decimus door, funeral overrun, Formiae, Cassius bad-information sequences.
+
+**Final review answers**
+
+1. Galba’s Capitol absence now has a GO-night antecedent (winter unpaid / grain may already have called).
+2. Hordeonius still prices, refuses softness, and undercuts with Sosia — fewer stacked maxims in Ch 6/10/18/23.
+3. Lepidus silence in Ch 26 makes Ch 29’s returned tablet a second instance of known weather, not a reintroduced name.
+4. No edits to protected mechanism scenes; SIDE-1 OPEN-0 and Lepidus death ambiguity untouched.
