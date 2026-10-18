@@ -121,6 +121,31 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 7. Structural lens floated — Campbell monomyth / Vogler Writer’s Journey
+
+**Author suggestion:** consider lessons from Joseph Campbell, *The Hero with a Thousand Faces* (monomyth), and Christopher Vogler, *The Writer’s Journey* (practitioner breakdown for writers).
+
+**Why it connects to earlier notes (§5–§6):**
+
+- Feeling of no subconscious follow-character and no one *driving* is exactly what monomyth diagnosis would flag: unclear hero, weak Call to Adventure, ordeal not yet owned by a single arc the reader rides.
+- Vogler’s practical questions (ordinary world → call → refusal → mentor/threshold → tests → ordeal → return) are a way to ask *whose* journey the reader thinks they are on beat-to-beat — without requiring fantasy cosplay.
+
+**Tension with current Book 1 design:**
+
+- Manuscript is built as **ensemble + dual engines** (Ides incomplete-info; will/name/heir), not a single-hero quest.
+- Octavian is deliberately late-rising; Decimus / Cassius / Brutus / Antony split the ordeal; fictional POVs are parallel costs, not sidekicks on one Grail road.
+- A full Campbell retrofit (e.g. “make it Octavian’s monomyth”) would be a **different novel**, not a polish.
+
+**Productive use of the lens (if pursued later):**
+
+- As **diagnosis**, not template: for each act, can the reader name who crosses a threshold, what is refused, what is the ordeal, what is lost?
+- As **one carrying spine among many possible**: e.g. Decimus (trust → door → isolation), or Octavian (furniture → name → pay), or Cassius (operation → false belief → death) — Vogler stages as check on whether that spine is *feelable*, not as mandatory cast reduction.
+- As a brake on metaphor-talk chapters: monomyth wants **tests and thresholds in action**, not only priced conversation.
+
+**Do not yet:** outline a Campbell beat sheet over the 34 chapters, pick a single hero and demote the rest, or pause the read to restructure. Finish more of the book; if the “no journey” feeling persists past Ides/name-war, then Campbell/Vogler become serious redesign tools rather than mid-read curiosity.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
