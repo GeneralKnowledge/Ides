@@ -14,9 +14,9 @@ Overhear risk: Nysa possible
 
 ---
 
-Calpurnia had begun to dread sleep the way other women dreaded childbirth—necessary, costly, not optional.
+In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth: necessary, costly, not optional.
 
-The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him—alive—sorting tablets as if wax could outrun dread. Once she woke and counted his breaths until the counting itself became a superstition; once she woke and found her own nails cut crescents into her palm. The Domus Publica’s night noises—latches, a dog, a courier’s wrong hour—had started arranging themselves into omens whether she invited them or not.
+The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets as if wax could outrun dread. Once she woke and counted his breaths until the counting itself became a superstition; once she woke and found her own nails cut crescents into her palm. The house’s night noises (latches, a dog, a courier’s wrong hour) had started arranging themselves into omens whether she invited them or not.
 
 Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn't meet her eyes too long. In the dressing-room the three of them made a temporary country: mistress, dresser, water-carrier—no Senate, only cloth and the question nobody said aloud. Pallas’s fingers paused at a pin. Nysa’s jug paused at the lip of the basin. Calpurnia caught both pauses the way she caught March cold through a curtain.
 

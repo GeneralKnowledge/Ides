@@ -17,9 +17,9 @@ Overhear risk: Crowd below partial
 
 ---
 
-The Capitol was height, and height was supposed to mean clarity.
+On the Capitol’s rock above the Forum, height was supposed to mean clarity.
 
-Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches—and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument as if height could choose among them.
+Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly, theatre of virtue. Cassius kept his voice low and his eyes on approaches, and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument as if height could choose among them.
 
 Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 

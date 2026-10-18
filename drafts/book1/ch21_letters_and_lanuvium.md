@@ -96,7 +96,7 @@ The clerk left without clasping arms. By evening Brutus learned—through the st
 
 He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
 
-Not a date on a tablet—only hills through the gate, and beyond them a name war beginning without him while a neighbouring town filed his silence under *unavailable*.
+Through the gate: hills, and beyond them a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
 
 ---
 

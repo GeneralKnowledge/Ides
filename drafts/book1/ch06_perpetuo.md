@@ -15,9 +15,9 @@ Overhear risk: Elite medium
 
 ---
 
-*Dictator perpetuo*—the phrase landed like a joke told by men with swords.
+In a Tusculum doorway that smelled of wet stone and other men’s wine, *dictator perpetuo* landed like a joke told by men with swords.
 
-Cicero heard it in a doorway and felt his face arrange itself into the old accommodation smile before his mind finished objecting. A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
+Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
 
 “Say it again,” the clapper urged the clerk, cheerful. “If we practise forever, it becomes manners.”
 
@@ -37,7 +37,7 @@ When the courier’s sandals had left the atrium stone, Cicero’s smile dropped
 
 Tiro did not laugh. He sanded. Sanding was how you survived a master’s exit-complaint without becoming the complaint’s audience in the street.
 
-The unfinished question under *dictator perpetuo* was not whether the title was republican. It was what the city’s money would do with forever once the clapping stopped.
+The unfinished question under *dictator perpetuo* sat in the money: what the city would do with forever once the clapping stopped.
 
 ---
 
@@ -87,4 +87,5 @@ He felt the market’s mood thicken. Thick markets made people invent virtues. V
 - Offices futures grievance (F4) as recruitment fuel overheard.  
 - **S-A1 / S1:** Warped re-hearing of queen/child talk at banker stalls (gardens/hours/collateral)—no certification; CLEO-1 held.  
 - **Law-sweep:** Doorway ≥3; accommodation smile → Tiro exit-complaint; stall ≥3 + Sosia snort on queen/gardens (audible); CLEO/FS22 plants; G1/G2 held (2 cameras).  
-- MUST_EXPRESS: B3, FS22. Next: Ch 7 Lupercalia (gold spine — not M2).
+- MUST_EXPRESS: B3, FS22. Next: Ch 7 Lupercalia (gold spine — not M2).  
+- **Golden-read P2:** Doorway place before *perpetuo*; cut was-not-X/it-was-Y close.

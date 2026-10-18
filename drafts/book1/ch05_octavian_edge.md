@@ -15,9 +15,9 @@ Overhear risk: Low–N/A
 
 ---
 
-Octavian stood where important men’s shadows fell and practiced being invisible on purpose.
+On the temple steps above the Forum, heat came off the stone into Octavian’s thin shoes. He stood where important men’s shadows fell and practiced being invisible on purpose.
 
-Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. Heat came off the stone steps into Octavian’s thin shoes. He listened more than he spoke. A boy without legions borrowed maps with his ears.
+Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. He listened more than he spoke. A boy without legions borrowed maps with his ears.
 
 Caesar’s glance found him once—brief as a list check, not unkind, not enough. No prophecy in it. Octavian’s shoulders stayed still until the glance moved on. Only then did he let out the breath he had been holding as if it were inventory. He didn't look at Agrippa to confirm he had been seen. Looking would have spent the moment.
 
@@ -71,4 +71,5 @@ Before sleep they shared a heel of bread Agrippa had bullied from a cook who res
 - Next: Ch 6 perpetuo.
 **Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.
 - **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.  
-- **Expansion D18:** Apollonia ordinary — shared bread + soft-name ban lived as friendship behaviour (not caption).
+- **Expansion D18:** Apollonia ordinary — shared bread + soft-name ban lived as friendship behaviour (not caption).  
+- **Golden-read P2:** Open on temple steps / Forum heat before invisibility thesis.

@@ -69,9 +69,9 @@ Overhear risk: Medium-High
 
 ---
 
-They chose a colonnade where shadows made faces honest and mouths careful. The festival was still sticky in the city’s teeth—the diadem’s ghost, the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting; a water-seller’s boy—same wrong age as the Forum’s sweet-sellers—loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
+They chose a colonnade off the Forum where shadows made faces honest and mouths careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
 
-He didn't begin with murder. He began with the difference between name and power—the only door a careful man would open without smelling steel.
+He didn't begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? Latin?”
 
@@ -117,4 +117,5 @@ Cassius filed *Monday* beside *Casca* and *law’s face* and did not go back to 
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.  
 **1F / E3:** Antony POV borders; Fulvia marked beat.  
 **1G:** Antony filed/weather cut; Cassius *was how* cut.  
-- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius Monday/Casca humour kept.
+- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius Monday/Casca humour kept.  
+- **Golden-read P2:** Drop continuity-receipt “festival was still sticky”; colonnade place + goat/diadem weather.

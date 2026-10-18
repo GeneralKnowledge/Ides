@@ -16,19 +16,19 @@ Overhear risk: Extreme inside
 
 ---
 
-Cassius counted exits the way other men counted clients.
+In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-One door. Too many togae. Pompey’s statue at the far thought of the room—enemy’s face in marble, watching. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence.
+One door. Too many togae. Pompey’s statue at the far end of the room, enemy’s face in marble, watching. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence.
 
-Tillius Cimber went forward first, as arranged—brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself: the slight turn, the listening face, the clemency brand still wet on the Republic’s memory.
+Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself: the slight turn, the listening face, the clemency brand still wet on the Republic’s memory.
 
 *Now,* Cassius thought, not as prayer. Prayer was Brutus’ department.
 
 Tillius’ hands found the toga. Pulled.
 
-The signal was ugly and ordinary—cloth, fist, the insult of touch. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
+The signal was ugly and ordinary: cloth, fist, the insult of touch. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
-Publius Casca struck—neck, shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. A question burst out of him, sharp with outrage—the old register of men who still believed Senate rooms were safer than camps. “What is this violence?”
+Publius Casca struck at neck and shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. A question burst out of him, sharp with outrage, in the old register of men who still believed Senate rooms were safer than camps. “What is this violence?”
 
 Cassius moved.
 
@@ -87,7 +87,7 @@ In the lane of light just beyond the Curia door, before the crowd’s animal clo
 
 Brutus looked once more at the shape on the stones. Softness tried to rise in him—not the abstract debt, the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. That was the betrayal’s true size. He crushed it the way he crushed unearned tears: privately, completely, with the lie that ancestors approved. The exit-complaint sat under the crush: spare was not mercy’s clean face now; it was a clock.
 
-“Capitol,” Brutus said—public word, private cost—and they went out into light that did not know what it was lighting.
+“Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 
 ---
 

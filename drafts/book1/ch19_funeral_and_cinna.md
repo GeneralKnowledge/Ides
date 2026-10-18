@@ -15,11 +15,11 @@ Overhear risk: Extreme
 
 ---
 
-Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
+In the Forum Romanum Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
 
-The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle—the city’s honest reasons.
+The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. The crowd’s anger was already in the air; he gave it a place to stand.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard, evidence before poetry. The crowd’s anger was already in the air; he gave it a place to stand.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
@@ -27,13 +27,13 @@ Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached 
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
-The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. An officer at Antony’s shoulder—same man who had hissed on the grain line before—caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
+The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. An officer at Antony’s shoulder, the same man who had hissed on the grain line before, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
 
 A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
 
-Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened—permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy.
+Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened: permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy.
 
-The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire as if it were a donative, then another man took the next brand toward the streets where Liberators kept doors—same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod—and the second officer was already too far forward to call back without looking afraid of his own heat.
+The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire as if it were a donative, then another man took the next brand toward the streets where Liberators kept doors: same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction. The enemy’s city had become the enemy, and it was no longer waiting for his nod. The second officer was already too far forward to call back without looking afraid of his own heat.
 
 Teaching looked like smoke that had walked. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
 
@@ -62,7 +62,7 @@ When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He m
 
 Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-Laberius closed his fist on air, not wood. “I came for Capua,” he said—not the Forum’s poetry-Capua, the dated one, the after-Parthia promise that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note—and Capua unpaid had just learned it could walk without waiting for clerks.
+Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note, and Capua unpaid had just learned it could walk without waiting for clerks.
 
 Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman—jug still empty, Domus-adjacent by the seal on her belt—shouted at him. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove; the jug fell and broke; water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge: fuller wanting permission, household wanting water to stay water, Capua still unpaid in Laberius’s fist of air.
 
@@ -85,7 +85,7 @@ Overhear risk: Extreme
 
 Nysa entered the Forum because Calpurnia’s house couldn’t pretend the day was ordinary, and because Phileros wanted confirmation the way gamblers wanted dice.
 
-She saw the cloth. She heard the refrains. She smelled the first wrong smoke—not sacrifice smoke, furniture smoke.
+She saw the cloth. She heard the refrains. She smelled the first wrong smoke: furniture burning, not sacrifice.
 
 A man lifted a child to see the fire and laughed, and Nysa thought of Calpurnia’s lap in the dream and had to look away.
 

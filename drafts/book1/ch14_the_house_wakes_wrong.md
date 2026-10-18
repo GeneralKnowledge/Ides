@@ -17,9 +17,9 @@ Overhear risk: High (attendants; walls)
 
 ---
 
-The house fell inward.
+In the Domus Publica’s master cubiculum, the house fell inward.
 
-Not as stone fell in earthquakes—Calpurnia had felt those, the long grind under the Palatine—but as a face falls when the muscles quit. The pediment above them, the painted front that told the street this was still a public house and not merely a husband’s bed, cracked along its smile and came down into her lap—dust, timber, the soft insult of painted wood pretending to be marble.
+It fell the way a face falls when the muscles quit. Calpurnia had felt real earthquakes, the long grind under the Palatine; this was quieter and worse. The pediment above them, the painted front that told the street this was still a public house and not merely a husband’s bed, cracked along its smile and came down into her lap: dust, timber, the soft insult of painted wood pretending to be marble.
 
 Caesar was in her arms. She knew his bulk from years beside a man who didn't truly sleep so much as pause. In the dream his blood was hot and absurdly ordinary, the same heat as a cut finger at a sacrifice, and she tried to hold the wound closed with her palms as if a body were a letter that could be resealed.
 
@@ -35,7 +35,7 @@ She stopped. Words made it smaller. She didn't want it smaller.
 
 Somewhere beyond the wall a board complained. Farther off—toward the atrium, or the place where the arms of Mars were kept because her husband was *pontifex maximus* and the city still liked its priests to sleep beside its spears—metal spoke. A clatter. A settling. As if something hung for war had decided to remember it was metal.
 
-In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off as if keys could negotiate dawn. Household mesh around the peak—not the knife, only the house refusing ordinary night.
+In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off as if keys could negotiate dawn. Household mesh around the peak: the house refusing ordinary night, not yet the knife.
 
 Caesar listened. He always listened to houses. He listened to armies the same way.
 

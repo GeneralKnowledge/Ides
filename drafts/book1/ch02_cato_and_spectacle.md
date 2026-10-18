@@ -2,11 +2,12 @@
 
 **Dinner-first opening (Option 2a)** · SC-01, SC-02 · late 46 BC · A1 aftermath · FS10 · G1/G2  
 **Chronology:** Same season as Ch 1 dinner — Forum still living under Africa-closed weather (not a jump back to spring news-hour).  
-**Opening prose pass + cold-read:** unpaid deal kept; thesis-line stack thinned; Nysa withhold kept
+**Opening prose pass + cold-read:** unpaid deal kept; thesis-line stack thinned; Nysa withhold kept  
+**Golden-read P2:** Drop continuity-receipt “Africa still…”; open on basilica place + cold Forum weather.
 
 ---
 
-# SC-01 — Africa Still Prices
+# SC-01 — Africa Prices
 
 POV: F4 Hordeonius (Cicero fringe in-scene, not a cut) · Forum basilica  
 Date / place: Late 46 BC · banker stalls / basilica edge  
@@ -16,9 +17,9 @@ Overhear risk: High (Forum)
 
 ---
 
-Africa still hit the stalls like a price change with blood in it.
+Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
 
-“Thapsus,” someone said, as if the name were fresh. Then: “Cato.” Then the Forum did what it did with greatness—turned it into shouts, bets, and sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica as if argument could reopen a vein. Hordeonius didn't shout. Shouting was for men who sold certainty by the jug.
+“Thapsus,” someone said, as if the name were fresh. Then: “Cato.” Then the Forum did what it did with greatness: turned it into shouts, bets, and sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica as if argument could reopen a vein. Hordeonius didn't shout. Shouting was for men who sold certainty by the jug.
 
 He adjusted grain expectations with solemn grief. “A man like Cato,” he told a client whose ring was too new, “is bad for markets and good for sermons. I prefer markets, but I respect sermons that stay out of my ledgers.”
 
