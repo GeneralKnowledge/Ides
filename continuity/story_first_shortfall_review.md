@@ -9,11 +9,12 @@
 
 ## Verdict
 
-**Superseded 2026-10-18 by `gold_act5_laws_pass_report.md`.**
+**Superseded 2026-10-18 by `deep_craft_audit.md` (Surface vs Integrated).**
 
 Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + book-wide law sweep.  
+Interim “decision cold-read yes” after `gold_act5_laws_pass_report.md` / gold dwell: **withdrawn**.
 
-**Current verdict:** FULL + golden **yes** as a **decision cold-read**, labeled residual-risk aware — not as a finished line-edit. See pass report §4.
+**Current verdict:** FULL + golden **NO.** Law-sweep certified inject presence, not integration. Floor failures: Ch 13 = 0; Ch 7 / 20 / 23 = 1. Criticism-resistant bar (median ≥3 **and** zero 0–1s except lean stubs) fails. See `deep_craft_audit.md` §1–§6.
 
 ---
 
@@ -99,22 +100,24 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 ## Minimum work before a “criticism-resistant” export
 
-Not another multi-hour undifferentiated read. **Targeted pass only:**
+Act 5 ordeal + book-wide law sweep + gold spine dwell: **done**. They are **not** enough — see deep audit.
 
-1. **Act 5 ordeal pass (priority)** — Ch 26 Decimus, 28–29, 33–34: McKee choice + Cron misbelief + Maass cost *on the page*; cut or fold one stamp per chapter that only serves the calendar (Sextus-as-postcard type).  
-2. **Book-wide law sweep (light, mechanical)** — For Ch 2–3, 7, 12–13, 20, 23, 25–34: ensure each chapter has **at least one** of: 3-person room, exit-complaint, audible humour (outside grief peaks), or a paid callback. If none fit, merge a POV camera (G1/G2).  
-3. **Humour density check** — Cold-reader rule: if you can go ~3–4 chapters without a joke that lands in-scene, add one character-true beat (not caption).  
-4. **Then** export FULL + golden, labeled story-first + Act5 ordeal.
+**Next lever (single):** anti-formula densification — `deep_craft_audit.md` §6.
 
-Optional skip: gold spine Ch 14–16 rewrite (protect).
+1. Ch **13** (score 0) → **20** → **23** → **7** (scores 1): strip `Three…` census / filed exit-complaint / warehouse redux; leave one human want that survives delete-the-garnish.  
+2. Craft-noun / formula flank strip: Ch **25 / 28 F4 / 32 / 34 SC-93**.  
+3. **Then** re-score delete-the-garnish on those files; only if floor ≥2 and median holds, export FULL + golden.
+
+**Not next:** another ≥2-laws sweep; second gold dwell; gravity merges alone; Galba pay alone.
+
+Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
 
 ---
 
 ## If you export anyway
 
-Label the DOCX: **“Story-first seeds (S-A0–S-B1). Act 5 ordeal + book-wide craft laws still open.”**  
-Use it to cold-read **only** Ch 1–9 and 17–24 for seed payoff—not as a verdict on the whole novel.
+Do not. Deep audit says surface injects will still read as syllabus-with-garnish on Ch 7/13/20/23. If a partial packet is forced for process reasons only, label it **not criticism-resistant** and cold-read **only** Ch 3/8/10/11/22 as density controls — never as a whole-novel verdict.
 
 ---
 
-*End shortfall review.*
+*End shortfall review. Next phase: anti-formula densify per `deep_craft_audit.md`. No DOCX until that lands.*

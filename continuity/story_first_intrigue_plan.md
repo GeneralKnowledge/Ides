@@ -305,8 +305,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 4. **Pass S-B1:** **Done** — S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint.  
 5. **Gold-edge + Act 5 ordeal + book-wide law sweep:** **Done** — see `gold_act5_laws_pass_report.md` / `story_first_law_sweep_log.md`.  
 6. **Gold spine dwell:** **Done** — Act-5-class density at SC-35c / 40 / 41 / 43-exit / 45 / 50a; locks held — see `gold_spine_dwell_pass_log.md`.  
-7. **Re-export DOCX** (FULL + golden) — Next (decision cold-read after gold dwell).  
-8. Short log updates in `continuity/story_first_pass_log.md`.
+7. **Deep craft audit (surface vs integrated):** **Done** — delete-the-garnish Q1–Q5; verdict **NO DOCX** (Ch 13=0; 7/20/23=1) — see `deep_craft_audit.md`. Law-sweep ≥2-laws = false green.  
+8. **Anti-formula densify** — **Next** — Ch 13 → 20 → 23 → 7 (+ craft-noun strip 25/28F4/32/34); then re-score; **only then** FULL + golden DOCX.  
+9. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
@@ -377,8 +378,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** **DOCX re-export** (FULL + golden). Optional light gravity polish if cold-read still whiplashes mid-band.
+**Next implementation phase:** **Anti-formula densify** (Ch 13 → 20 → 23 → 7 + craft-noun strip on 25/28F4/32/34) per `deep_craft_audit.md` §6. **No DOCX** until delete-the-garnish floor clears 0–1 scores.
 
 ---
 
-*End of story-first intrigue plan. S-A0 + S-A1 + S-A2 + S-B1 done; next DOCX export.*
+*End of story-first intrigue plan. S-A0→S-B1 + gold-edge + Act5 + law-sweep + gold dwell + deep craft audit done; next anti-formula densify, then DOCX.*
