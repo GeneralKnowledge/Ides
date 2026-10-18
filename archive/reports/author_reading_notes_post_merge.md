@@ -246,6 +246,28 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 13. Throughline idea — mobile slave / servant / soldier / guard
+
+**Author:** Another carrying throughline might be a slave / servant / soldier / guard — someone who can **plausibly be in multiple places**, so the reader has a body to follow across rooms the elite rotate out of.
+
+**Why it connects to §5–§7:** Ensemble fog + no subconscious follow-character; a mobile subordinate is a classic fix without forcing Octavian-early or a grain quest.
+
+**What already exists (adjacent, not identical):**
+
+- **F1 Nysa** — household runner; Domus ↔ street; deliberately *cannot* enter Senate / Liberator core / Antony consilium. Strong for omen/NOTE-1; weak as whole-book GPS.
+- **F3 Laberius** — centurion across Spain → funeral weather → Mutina → Philippi; camp/Forum fringe, not intimate elite interiors.
+- Named household texture (Phileros, Pallas, Dama) — local to Domus peaks, not multi-act carriers.
+
+**If pursued later:**
+
+- Design question: one person who can cross **house / street / camp / threshold of power** without breaking access realism (body slave of someone who travels; curator guard reassigned; messenger attached to successive paymasters).
+- Risk: new OC dilutes F1/F3; or “token servant who exists to tour history.”
+- Prefer first: ask whether **widening Nysa’s believable orbit** or **thickening Laberius’s Rome hours** gets 80% of the benefit before inventing a fifth fictional regular.
+
+**Do not yet:** cast a new mobile POV mid-read. Note whether golden chapters make you hunger for one continuous non-elite pair of eyes — evidence for this idea vs evidence that Decimus/Calpurnia already carry when stakes rise.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
