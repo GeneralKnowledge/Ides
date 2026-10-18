@@ -31,6 +31,6 @@ Kept in active trees (not archived):
 3. Do not resume a completed phase plan as if it were the next task.
 4. Meaningful disagreements and reversals inside these files are intentional history — not errors to “clean up.”
 
-## Related open work
+## Related closed work
 
-PR **#48** (later-book reader pass) may still add `continuity/later_book_reader_pass_brief.md` and small prose stitches. When that pass is merged and closed, move the brief into `pass_logs/` — it is a completed bounded pass, not ongoing canon.
+PR **#48** (later-book reader pass) is merged. Its brief lives in [`pass_logs/later_book_reader_pass_brief.md`](pass_logs/later_book_reader_pass_brief.md).
