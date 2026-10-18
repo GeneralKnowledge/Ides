@@ -29,7 +29,7 @@ Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant,
 
 Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.* Under it, smaller and worse: *I killed a man who forgave me and kept me close.* He wanted—badly—to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available: it looked like hope.
 
 He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
@@ -37,7 +37,7 @@ He almost ordered the linger as policy. Then he saw Decimus’s shoulder already
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms—as if eyes could make the spare into something other than blood. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved—and knew drafting was another way of not leaving.
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
@@ -57,6 +57,7 @@ Brutus took the corridor truth without answering it in kind. Answering would hav
 - Liberty optics fail to convert populus.  
 - Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.  
 - **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor truth after Brutus’s public face.  
+- **Golden-read P1:** Behavioural guilt — killed the man who forgave/kept him close; will not look at palms.  
 - **Tissue:** Galba brother’s winter unpaid → Capitol absence (Ch 8 price paid as missing blade).  
 - // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 

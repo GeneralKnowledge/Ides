@@ -87,7 +87,7 @@ Antony laughed once, short. Not mirth. Recognition.
 
 “He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it—loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
-What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers.
+What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts—thin shoes, Atia’s caution, a paper son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
 “We will not hide this,” Antony said, consul-smooth for Piso’s legality faces. “Hiding makes it ours. Ours becomes theft. Theft becomes their excuse.”
 
@@ -122,7 +122,8 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 - Leak cascade via F1/market.  
 - // M5: Formal vs street timing left intentionally mushy (C).  
 - **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.  
-- **Expansion D3:** Will-reading public fringe — banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.
+- **Expansion D3:** Will-reading public fringe — banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.  
+- **Golden-read P1:** Antony prices Octavius as soft cohort / paper son / not rival — opinion, not fringe-noise only.
 
 ---
 

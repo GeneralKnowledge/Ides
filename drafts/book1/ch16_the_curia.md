@@ -85,7 +85,7 @@ Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cass
 
 In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside—Trebonius’s Monday. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him—memory of dinner, of Caesar’s forgiveness after war, of the ugly debt of being spared. He crushed it the way he crushed unearned tears: privately, completely, with the lie that ancestors approved. The exit-complaint sat under the crush: spare was not mercy’s clean face now; it was a clock.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him—not the abstract debt, the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. That was the betrayal’s true size. He crushed it the way he crushed unearned tears: privately, completely, with the lie that ancestors approved. The exit-complaint sat under the crush: spare was not mercy’s clean face now; it was a clock.
 
 “Capitol,” Brutus said—public word, private cost—and they went out into light that did not know what it was lighting.
 
@@ -94,7 +94,8 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 ## Continuity notes (SC-43)
 - CHOREO-1; no Shakespeare last words; disputed Greek fragment; Pompey statue fall.  
 - **Gold dwell:** Exit fringe only — Cassius corridor truth (spare/Monday walking toward them); knife pile untouched.  
-- **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”
+- **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”  
+- **Golden-read P1:** Body crush = late-hour forgiveness intimacy (betrayal size), not abstract debt list.
 
 ---
 
