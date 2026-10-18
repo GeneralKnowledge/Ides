@@ -178,6 +178,33 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 10. Dream → fan-theory engine (deeper / innocuous)
+
+**Author:** Still on the dream — wants something innocuous *or* deeper; back to the **fan-theory** idea (competing reader interpretations, not a certified gift).
+
+**Fit with existing design:** `story/fan_theory_potential.md` already frames omen/dream material as theory fuel (esp. FT1 Caesar knows?; FT2 omens manipulated?; FT5 tip/intercept; plus M2 dream meanings). Canon keeps anxiety · true omen · embroidery all alive (DREAM-1 / AMB-3); NOTE-1 dual tracks already invite “one note or two / coincidence or design.”
+
+**Innocuous version (still story-useful):**
+
+- Dream is *just* dread + marriage politics; Decimus’s persuasion is the real beat.
+- Afterward, people *re-narrate* the dream to suit factions (embroidery as social weapon).
+- Reader can still argue it “came true” without the book saying the gods spoke.
+
+**Deeper fan-theory version (ability not required):**
+
+- Treat the dream night as a **contested evidence packet**, same as SIDE-1 or spare-Antony:
+  - Why does Decimus argue *courage-as-omen* so hard — care, cynicism, or operational need?
+  - Is household omen chatter (Spurinna sold twice) manufacture, market, or sincere panic? (FT2)
+  - Nysa’s incomplete wax vs Artemidorus sealed note — related, parallel, or red herring? (NOTE-1)
+  - Caesar’s private Jupiter/clouds dream — unread self-omen beside Calpurnia’s lap-wound dream; he withholds; reader theories about acceptance vs dismissal (FT1)
+- “Throughout” then means: **plant → peak → aftermath misremembering/monetising**, not a seer subplot every other chapter.
+
+**Avoid:** narrator-confirmed precognition; dream as master key that solves the Ides.
+
+**Do not yet:** specify the theory crown. Watch, in the golden stretch, whether the dream already *feels* like a mystery object or only like atmosphere.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
