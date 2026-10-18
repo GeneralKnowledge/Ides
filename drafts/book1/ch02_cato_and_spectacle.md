@@ -2,7 +2,7 @@
 
 **Dinner-first opening (Option 2a)** · SC-01, SC-02 · late 46 BC · A1 aftermath · FS10 · G1/G2  
 **Chronology:** Same season as Ch 1 dinner — Forum still living under Africa-closed weather (not a jump back to spring news-hour).  
-**Opening prose pass:** present-tense deal cost for F4; Nysa report/withhold decision
+**Opening prose pass + cold-read:** unpaid deal kept; thesis-line stack thinned; Nysa withhold kept
 
 ---
 
@@ -28,25 +28,25 @@ The client wanted a moral. Hordeonius gave him a rate. The client’s mouth open
 
 Sosia, at Hordeonius’s elbow collecting opinions with the coins, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in as if the stall had become a temple.
 
-Hordeonius could shave the number and keep the ring’s custom. He could also teach the Forum that grief bought discounts. He kept the rate where it was and tapped the tablet once, soft as a closed door.
+Hordeonius kept the rate where it was and tapped the tablet once, soft as a closed door.
 
 “I honour the dead with arithmetic,” he said, careful. “I honour the living with invoices. Land that is not yet land does not clear. Pay this, or take your patriotism to a stall that sells wishes.”
 
 The new-ring’s face flushed under the smile. “You price Cato like onions.”
 
-“Onions keep,” Hordeonius answered. “Marble doesn’t. And unpaid wishes rot faster than both.”
+“Onions keep,” Hordeonius answered. “Marble doesn’t.”
 
 The client did not take the tablet. He left the rate hanging—neither paid nor refused cleanly—and walked three stalls away before he spat the smile out to his older companion. “Sermons out of his ledgers—what a patriot.”
 
 The older ring did not bother with courtesy once the banker could not hear. “Pay the rate and stop performing grief for clerks. Or don’t, and let him write you down.”
 
-The cake-seller overheard and laughed once, short, the way street laughter admits a hit. Sosia waited. Hordeonius entered *new-ring: rate held / unpaid* under *Africa: closed enough* and felt the city’s mood shift under his stylus like a floorboard that now had a name on it.
+The cake-seller overheard and laughed once, short. Sosia waited. Hordeonius wrote *new-ring: rate held / unpaid* under *Africa: closed enough* and left the stylus resting on the name.
 
-Across the way Cicero received the same Africa as a bruise that had not faded—Cato dead by his own hand, Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it while lesser men converted suicide into slogan. Hordeonius watched the lost period the way he watched a late payment: interesting, not urgent. Eloquence without a ledger still moved air; air did not clear his tablet.
+Across the way Cicero received the same Africa as a bruise that had not faded—Cato dead by his own hand, Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it while lesser men converted suicide into slogan. Hordeonius watched the unfinished period the way he watched any account that had not cleared: interesting, not urgent.
 
-A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and a triumph’s leftover wagons. A clerk from a nearby stall argued that famous corpses were inflation for patriotism and deflation for grain. Nobody agreed; the Forum only sold noise. Hordeonius let it run until it sorted into prices—Thapsus as fact, Utica as theatre, Cato as a sermon that would outlive the men who priced him—and one unfinished account that might teach whether bruised men still paid on the Kalends.
+A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and a triumph’s leftover wagons. A clerk from a nearby stall argued the opposite with the same confidence. Nobody agreed; the Forum only sold noise. Hordeonius let it run until it sorted into prices—Thapsus as fact, Utica as theatre, Cato as a sermon that would outlive the men who priced him—and one unfinished account waiting on the Kalends.
 
-By afternoon the same stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which Domus runners still hugged oil jars like secrets. Hordeonius priced that too—spectacle was a tax on patience—and watched a Domus Publica runner cut through the press. The house that served the victor was still counting eyes. The unfinished question was no longer only whether Caesar had won. It was whether the new-ring would clear before land talk bought him another story.
+By afternoon the same stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which Domus runners still hugged oil jars like secrets. Hordeonius priced that too and watched a Domus Publica runner cut through the press. The house that served the victor was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
 
 ---
 
@@ -67,7 +67,7 @@ Captives, gold, painted lies on wagons—Rome had swallowed Africa as parade, an
 
 A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
 
-Nysa filed the spit beside the cheers. Cheers were loud; spit lasted.
+Nysa kept the spit with the cheers. Cheers were loud; spit lasted.
 
 Children screamed at elephants or at the idea of elephants that had already passed. A woman in the crowd named a captive wrongly and was corrected with pride. Rumour walked faster than any procession left in memory. Nysa kept both wrong names; wrong names were how the street remembered.
 
@@ -77,17 +77,17 @@ Caesar passed at the edge of sight—or a litter that might as well have been hi
 
 A second veteran, younger, argued with the first about colonies and whether Africa’s corpse meant Italy’s farms. Neither had a farm. Both had scars. One of them glanced at her oil jars as if a Domus errand made her a clerk of promises. “Tell your house,” he said, not quite joking. “Gold doesn’t plough.”
 
-Nysa walked between their voices and did not choose a side out loud. Choosing sides was how errands became politics, and politics was how basins got dropped. She chose later, in the service court, when the choosing would cost her own mouth.
+Nysa walked between their voices and did not answer. Answering was how errands became politics, and politics was how basins got dropped.
 
 Back inside she set down the oil. Dama waited with the inventory face. Phileros would want eyes: who lingered, which clients came early, what the street was selling.
 
-She reported the Domus smile’s early clients and the banker look by the steps—useful, spendable, the sort of eyes that bought oil another day. She did not report the land spit. Land talk belonged to men with scars and empty hands; carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours—she left that unsaid too. None of her oil. The parade noise still pressed the house’s walls. Closed Africa had not closed the counting. She had closed only what she was willing to be responsible for seeing.
+She reported the Domus smile’s early clients and the banker look by the steps. She did not report the land spit. Carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours—she left that unsaid too. None of her oil. The parade noise still pressed the house’s walls. Closed Africa had not closed the counting.
 
 ---
 
 ## Continuity
 - A1 moral-economic shock preserved as **living late-46 weather** after Ch 1 dinner (not spring news-flashback).  
-- **Prose pass:** new-ring challenges rate mid-deal; Hordeonius holds number → *rate held / unpaid*; Nysa reports banker/clients, **withholds** land spit and Transtiberim mutter.  
+- **Prose pass + cold-read:** unpaid rate held; onions/marble kept once; inflation/eloquence thesis lines cut; Nysa reports banker/clients, **withholds** land spit and Transtiberim mutter. Unpaid client is a consequence mark, not a new subplot.  
 - FS10 land hunger seeded (veteran spit). Competing interpretations held.  
 - Soft Transtiberim fringe retained as withheld rumour (no Cleo POV).  
 - **G1:** Hordeonius primary; Nysa second as collision with *Africa: closed enough*.  

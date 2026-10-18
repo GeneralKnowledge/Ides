@@ -2,7 +2,7 @@
 
 **Dinner-first opening (Option 2a)** · SC-08 · late 46 BC · Chain 1 · FS06 seed  
 **D dinner:** Caesarian host room; Africa-favour climber (not a documented appointment)  
-**Opening prose pass:** social life densified; aphorism stack thinned
+**Opening prose pass + cold-read:** social life densified; gloss thinned
 
 ---
 
@@ -11,7 +11,7 @@
 POV: Cassius · elite dinner  
 Date / place: Late 46 BC · dining room (D host) — after Africa triumphs; queen newly lodged across the Tiber  
 Canon refs: PERS motive · C3 · slight **D** · S2 soft (Cleopatra presence **B**)  
-Info ENTER: Pardoned, watching · EXIT: Private resentment crystallises; queen/child talk filed as rumour  
+Info ENTER: Pardoned, watching · EXIT: Private resentment crystallises; queen/child talk as rumour  
 Overhear risk: Servants
 
 ---
@@ -22,11 +22,11 @@ The host toasted Caesar’s clemency as if mercy were a spice that made leftover
 
 Cassius ate. The fish was good enough to make silence look like gratitude.
 
-A lesser guest—thin ring, thinner claim—leaned too far toward the host’s couch while the toast was still warm. “If your house still remembers my brother’s petition—” he began, loud enough for the wrong ears.
+A lesser guest leaned too far toward the host’s couch while the toast was still warm. “If your house still remembers my brother’s petition—” he began, loud enough for the wrong ears.
 
-The host did not look at him. He looked at the wine, then at New-Africa, then past the thin ring as if the man were furniture that had spoken out of turn. New-Africa’s laugh arrived a beat late and aimed at nothing. Cassius almost answered for the petitioner—almost, because answering would have made him useful in the wrong way—and instead reached for bread as if hunger were the only politics in the room.
+The host did not look at him. He looked at the wine, then at New-Africa, then past the petitioner as if furniture had spoken out of turn. New-Africa’s laugh arrived a beat late and aimed at nothing. Cassius almost answered for him—and reached for bread instead.
 
-A servant leaned in with the jug. The thin-ring guest swallowed the rest of his sentence with the pour. Rain, cousins, a mule that had thrown a clerk: ordinary noise until the jug retreated.
+A servant leaned in with the jug. The petitioner swallowed the rest of his sentence with the pour. Rain, cousins, a mule that had thrown a clerk: ordinary noise until the jug retreated.
 
 “You look well on mercy,” the host told Cassius, all courtesy, as if the interruption had been a draft under the door. “Rome needs men who can accept a soft chain without rattling it.”
 
@@ -36,13 +36,13 @@ New-Africa leaned in, wine-bright. “Digest carefully. There is talk the queen 
 
 The host’s smile did not change. “We notice gardens and grain. Children are Alexandria’s rumour until someone puts them in a will.”
 
-The thin-ring guest tried a smaller ask—an introduction only, a name spoken in the right ear—and found the host’s shoulder already turned toward better amusement. Cassius filed the turn beside the favour that had not shone on him. Whether the slight on land and praise was real or polished by pride did not matter by the fruit course. It had found a rib and sat there.
+The petitioner tried a smaller ask—an introduction only, a name spoken in the right ear—and found the host’s shoulder already turned toward better amusement. By the fruit course Cassius’s rib still knew the difference between the favour that shone and the one that had not.
 
 Cassius, lightly, to the space between host and New-Africa: “Some of us are forgiven into irrelevance. It is a delicate art.”
 
-New-Africa barked a laugh that wanted company. The host’s eyes narrowed a fraction—station warning. The thin-ring guest laughed too, grateful to be included in any sound, and then looked as if he wished he had not.
+New-Africa barked a laugh that wanted company. The host’s eyes narrowed a fraction—station warning. The petitioner laughed too, grateful to be included in any sound, and then looked as if he wished he had not.
 
-He left early, courteous—thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend. The thin-ring guest was still smiling at empty air when Cassius’s sandals found the threshold.
+He left early, courteous—thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend. The petitioner was still smiling at empty air when Cassius’s sandals found the threshold.
 
 In the street, New-Africa caught up as if by accident, still smiling for the door-slaves.
 
@@ -52,13 +52,13 @@ Cassius walked. “You laughed at the right toast. That is a skill.”
 
 “And you digested.” New-Africa glanced back. “Also—watch the Transtiberim talk. Men who joke about the queen’s boy at dinner are pricing something. I don’t know what. I only know my land came with a silence attached.”
 
-Cassius filed *queen / child / silence* beside the names that had smiled wrong, and beside the thin ring that had asked too soon. He did not use the word *recruit*. Words like that belonged to later rooms. Tonight the soft chain still fit—and he had watched another man rattle it for nothing.
+Cassius kept *queen / child / silence* with the names that had smiled wrong. He did not use the word *recruit*. Words like that belonged to later rooms. Behind him, through the door-slaves’ gap, the petitioner was still smiling at nothing.
 
 ---
 
 ## Continuity
 - **Opening 2a:** Book opens on Cassius dinner, late 46 (**D** host / Africa-favour climber). Not a documented historical banquet.  
-- **Prose pass:** lesser guest misjudges ask; servant interruption lands mid-ask; spice/sauce/plated stack thinned (clemency-as-spice kept).  
+- **Prose pass + cold-read:** lesser guest misjudges ask; servant interruption mid-ask; spice stack thinned; explanatory “slight/soft chain” gloss cut — behaviour carries it.  
 - Chain 1: clemency as social instrument; resentment crystallises without knives.  
 - FS06 / S2: queen/child/Transtiberim as **rumour** only — lodging treated as newly public. No Actium; no narrator paternity.  
 - AMB-1 untouched; SIDE-1 not planted here.  

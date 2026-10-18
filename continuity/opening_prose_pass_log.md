@@ -70,3 +70,23 @@ Chapter order intact. Historical anchors untouched. Narrative ambiguities unreso
 ## Fiction assessment (candid)
 
 Dinner now has a fourth agenda in the room and a forced silence that isn’t outline-shaped; it still wears Cassius’s manners. Street chapter now turns on a refused discount rather than weather alone. Whether that is *enough* care for a cold reader is for the author — the scenes are more alive than the post-reorder baseline, not a different book.
+
+---
+
+## Cold-read refinement (author feedback on PR #47)
+
+**Purpose:** Trust the new behaviour; cut residual explanatory gloss and thesis-line concentration. No structural change. No unpaid-client subplot.
+
+### Chapter 1
+- Reduced “thin ring” / “filed” recurrence (petitioner after first beat; “kept” instead of double-file).
+- Cut “Whether the slight on land and praise…” gloss; replaced with one physical line (rib / favour).
+- Cut closing soft-chain interpretation; end on petitioner still smiling at nothing through the door gap.
+- Trimmed “almost, because answering would have made him useful in the wrong way” to “almost answered—and reached for bread instead.”
+
+### Chapter 2
+- Kept onions/marble once; cut “unpaid wishes rot,” inflation/deflation corpse line, and “Eloquence without a ledger…” stack.
+- Deal consequence kept as wax mark, not sermon: “Whether the new-ring would clear… was wax.”
+- Nysa withhold retained; cut final “She had closed only what she was willing…” gloss.
+- Unpaid account remains a useful consequence only — no subplot seed beyond Ch 3 stitch already present.
+
+Ch 3–4: untouched in this refinement.
