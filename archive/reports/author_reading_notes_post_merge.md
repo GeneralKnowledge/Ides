@@ -1,9 +1,8 @@
 # Author reading notes — post-merge (Oct 2026)
 
-**Status:** Historical reader observations while reading the live draft on `main` after PRs #48–#50.  
-**Not** a phase plan, audit, or edit commission. Preserve so the notes are not lost to chat context.
+**Status:** Reading closed after golden chapters (Ch 14–19). Notes below are the working brief for the next edit pass — not a new audit framework.
 
-**Context:** Housekeeping stopped; DOCX regenerated; author reading Book 1 as a reader.
+**Context:** Housekeeping stopped; DOCX regenerated; author read Ch 1–6 then skipped to golden Ch 14–19; stopped there — enough to work with; not reading the rest for now.
 
 ---
 
@@ -421,10 +420,60 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 20. Reading closed — enough to work with
+
+**Author:** Finished the golden chapters. Does not need to read the rest. Enough to work with now.
+
+**Scope of evidence:** Act 1 fog (Ch 1–6) + golden spine stress test (Ch 14–19). Ch 7–13 and Act 4–5 unread in this pass — do not invent mid/late-book commissions from silence. §5–§7 stay **partial** (opening fog may still be opening cost; golden liked enough that architecture redesign is not the first lever).
+
+---
+
+## Work brief (from §§1–19)
+
+### P0 — surgical, author-clear, do first
+
+| ID | Note | Action |
+|----|------|--------|
+| P0-a | §19 | Ch 19: stitch pyre → buildings handoff (brand/bench leaves Forum fire for a known door). Not a longer funeral. |
+| P0-b | §16–17 | Plant baker-as-rumour early; scaffold later “bakers” lines (*rumour / lie / short version*). No baker plot. |
+| P0-c | §14 | Ch 16: kill “Latin burst out”; speech act + line. Light Latin policy later, not sprinkle. |
+| P0-d | §11 | Ch 14: stage “Someone would talk” (cut-to-mouth or crown overheard scrap). |
+
+### P1 — character attitude / intimacy (existing rooms)
+
+| ID | Note | Action |
+|----|------|--------|
+| P1-a | §15 | Brutus: lived closeness to Caesar’s forgiveness before knives; behavioural guilt after. Stretch behind open OK; no Pharsalus prologue. |
+| P1-b | §18 | Antony→Octavian: thicken opinion beyond squeak/shadow; optional 1–2 other dyad spot-checks. No universal essay pass. |
+
+### P2 — prose hygiene (book-wide, scheduled)
+
+| ID | Note | Action |
+|----|------|--------|
+| P2-a | §12 | LLM-English pass: cut stacked not-X/it’s-Y; reduce em dashes; keep some pause. |
+| P2-b | §4 | Selective place orientation at thin chapter/scene doors (export already strips Date/place). |
+| P2-c | §1 | Continuity-receipt “still” openings — fix where jars; not Ch 1–3 reopen. |
+
+### P3 — design decisions (decide before drafting)
+
+| ID | Note | Decision needed |
+|----|------|-----------------|
+| P3-a | §5–§7 | Ensemble fog: treat as opening cost unless later evidence; Campbell/Vogler diagnostic only — no single-hero retrofit. |
+| P3-b | §6 | GOT + Batiatus drive: thicken Hordeonius/action-first beats; no new OC Batiatus. |
+| P3-c | §9–§10 | Dream as fan-theory packet (plant → peak → aftermath misremember) vs leave clustered; keep AMB-1. |
+| P3-d | §13 | Mobile follow-body: widen Nysa / thicken Laberius before new OC; entry hooks seeded. |
+
+### Explicit non-goals this pass
+
+- No Ch 1–3 polish wars without a concrete P0/P1 need.
+- No Philippi expand; no mid-book redesign; no new audit/test suite.
+- No blank-verse funeral; no certified psychic; no baker conspiracy.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
 - Do not reopen Chapters 1–3 without a concrete reason.
-- Do not commission another broad prose pass from this list alone.
-- Prefer finishing the read and gathering outside-reader feedback before large editorial decisions.
-- Treat §5 as an **open hypothesis** until more chapters have been read.
+- Do not treat unread Ch 7–13 / Act 4–5 as proven fine — only as out of scope for *this* read’s commissions.
+- Prefer P0 surgical fixes before P3 architecture bets.
