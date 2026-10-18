@@ -62,7 +62,7 @@ Overhear risk: Extreme terror
 
 ### F2 — Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn't stop walking. Stopping looked like guilt. He bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks as if locks were theology. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn't laugh. Laughter was expensive now. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn't stop walking. Stopping looked like guilt. He bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks as if locks were theology. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn't laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her—old Seia who audited his atrium smile against paper—and stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
 ### F4 — Hordeonius
 
@@ -86,4 +86,5 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Act5 ordeal:** visible irreversible at table (assent + token) so Ch 31 death feels purchased by choice; F-triptych held.  
 - MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
 **1G:** historiographic “traditions would disagree” removed.
-- **Law-sweep:** Bononia ≥3; F2/F4/F1 triptych; Seius relief/shame by behaviour; Cinna-wrong laugh echo (bitter, not gag); lists pay Ch 23 flinch / Ch 32 courier; SIDE-1 archaeology held.
+- Bononia; F2/F4/F1 triptych; Seius relief/shame by behaviour; Cinna-wrong laugh echo (bitter); lists pay Ch 23 flinch / Ch 32 courier; SIDE-1 archaeology held.  
+- **Tissue:** Seia Prima “harvest carefully” bite — cast-wide play, not only Agrippa–OCT.
