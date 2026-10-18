@@ -3,7 +3,7 @@
 **Date:** 2026-10-18 (amended same day)  
 **Branch:** `cursor/story-first-craft-locks-cb1d`  
 **Author direction (locked):** Both detective engines. Proper story, not historical checklist. Lean into historical fiction. Audience can be slightly ahead (GOT S1 model).  
-**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell.  
+**Additional craft locks (author):** Do not protect useless facts. Group persuasion meetings that would have happened. Brutus initially reluctant. Relationships shown, not labelled. Show, don’t tell. More **three-or-more people in a room** talk in general. **Politeness by station** then **immediate complaint after they leave**. Humour must actually land for a cold reader (author at ~66% noticed essentially none — treat as under-served).  
 **Prose HEAD at planning:** `6798218` / post AI-tell; chapters still pre–story-first implementation  
 **Status:** Plan only. **No chapter prose edited in this deliverable.**
 
@@ -21,8 +21,11 @@
 | Missing group persuasion | Recruitment is mostly serial 1:1; no room where several people convince a holdout |
 | Brutus “already halfway in” | Ch 4 anti-dinner → Ch 7 conditional assent → Ch 8 internal tip — little true reluctance→conversion under pressure |
 | Relationships labelled | Lines like “Friendship was the key” state bonds the scene should earn through behaviour |
+| Too few 3+ person rooms | Most scenes are 1:1 or POV-alone; social Rome under-performed |
+| Polite face without after-complaint | Station courtesy rarely flips into corridor/exit bitching — lost hypocrisy engine |
+| Humour not registering | Ledger/gallows beats exist on audit maps, but a cold reader mid-book reports noticing none — too rare, too dry, or too caption-like |
 
-This plan **supersedes** the expansion backlog’s assumption that the skeleton already “feels like a novel.” X1–X6 remain useful later, but **intrigue scaffolding + dwell + dramatic persuasion** come first.
+This plan **supersedes** the expansion backlog’s assumption that the skeleton already “feels like a novel.” X1–X6 remain useful later, but **intrigue scaffolding + dwell + dramatic persuasion + audible social comedy** come first.
 
 **Protect only what earns its keep as story** (Ides voltage, spare-Antony cost, funeral aim, Philippi INF-death, character-true ledger humour). Do **not** protect a fact merely because it is historically true or already in the draft.
 
@@ -90,18 +93,33 @@ Reject:
 
 ## 3b. Craft locks — persuasion, Brutus, relationships
 
-### Group meetings (must add / deepen)
+### Group talk — three or more in a room (general + persuasion)
 
-Roman conspiracy and aftermath need **rooms where people convince people**, not only courier networks.
+Not only conspiracy conversion. The book needs **ordinary Roman social pressure**: dinners, porticoes, tents, Antium cushions, list-tents — scenes where **≥3 speaking presence** share air so alliances, jokes, and contradictions can bounce.
 
 | Meeting (story need) | Current gap | Planned mechanism |
 |----------------------|-------------|-------------------|
 | **Convince Brutus** | No multi-person pressure; Cassius 1:1 + Servilia domestic tip | One closed-room beat: Cassius + at least one ally (e.g. Casca / Trebonius fringe) + ancestral/Servilia pressure — Brutus argues **against**, then yields a costly inch |
 | **Bind Decimus** | Duo on Sacra Via + garden ops after he is already “yes” | Keep floor-plan recruit, but show prior reluctance or a second voice in the room testing the friendship-cost aloud |
-| **Ops disagreement already strong** | Ch 9 spare-Antony garden works | Keep; seed the disagreement in gossip earlier (Engine A) |
-| **Post-Ides counsel** | Antium exists | Ensure talking-behind-backs precedes it so the room is charged |
+| **Ops disagreement already strong** | Ch 9 spare-Antony garden (3) works | Keep; seed the disagreement in gossip earlier (Engine A) |
+| **Post-Ides counsel** | Antium exists | Ensure talking-behind-backs precedes it; keep ≥3 voices audible |
+| **General social rooms** | Too many 1:1 corridors | Upgrade selected beats (clemency orbit, name-war, Bononia, soft-ally tents) to **three-body** talk without adding checklist chapters |
+| **Exit complaint** | Rare | After any polite multi-person scene: one corridor/street beat where station drops and truth is said |
 
-Do not invent anachronistic “war rooms.” Use Roman forms: dinner edge, portico, closed garden, borrowed atrium.
+**Quota guidance (not mechanical padding):** Aim for a readable **3+ person scene** most chapters that are social/political; solo ordeal (Formiae, ditch, fog INF-death) may stay tight. Do not invent anachronistic “war rooms.” Use Roman forms: dinner edge, portico, closed garden, borrowed atrium, army tent.
+
+### Politeness by station → complaint after exit
+
+**Engine:** Face (rank, clientela, fear) vs corridor truth.
+
+| Beat type | In the room | After they leave |
+|-----------|-------------|------------------|
+| Client / lender | Measured courtesy, titles, soft agreements | Immediate bitching: price, cowardice, who to drop |
+| Elite dinner / consilium | Smile, wine, “Republic” nouns | Who used whom; who smelled of fear |
+| Soft allies (Plancus/Lepidus orbit) | Admiration and delay | “He will not send grain” said plainly once out of earshot |
+| Rank gap (boy / veteran / consul) | Polite underestimation or deference | Joke that would get you killed if overheard |
+
+This is also a **humour** and **behind-backs** delivery system — same pass, not three separate quota systems.
 
 ### Brutus reluctance (must be earned)
 
@@ -137,6 +155,23 @@ Candidates to **cut, demote to continuity note, or rewrite into want** (not an e
 
 Locks and chronology still held — but **presence in the novel is not owed to Suetonius**.
 
+### Humour — must register for a cold reader
+
+**Author report (~66% through):** essentially no humour noticed. Treat prior “humour already present” audit claims as **insufficient for lived reading**, not as proof the job is done.
+
+| Do | Don’t |
+|----|-------|
+| Character-true bite: Hordeonius prices, Antony wine-shop, Trebonius Monday-logistics, wrong-name street irony, shopping-list politics, station hypocrisy (polite then complain) | Joke quota; modern slang; interchangeable cynics |
+| Let someone **land** a laugh or wince in-scene (another character reacts) | Caption wit the reader must decode as “humour” |
+| Use three-person rooms so jokes have an audience and a victim | Solo epigrams that read as narrator cleverness |
+| Keep humour **off** in Curia knives, Calpurnia dread peak, Decimus ditch, Formiae, Philippi ordeal core | Force gags into irreversible grief |
+
+**Pass rule:** In S-A0 / S-A1 social scenes, prefer humour that comes from **status + timing + hypocrisy** over stacked maxims. If a cold reader can miss every joke, there aren’t enough audible ones — or they’re too quiet.
+
+**S15:** Audit early–mid book for missed station-comedy beats; add polite-face / exit-complaint pairs.  
+**S16:** Ensure ≥3-person talk appears in designated social chapters (list in pass log).  
+**S17:** Humour visibility pass — one earned audible beat per designated chapter outside must-not-force zones (not every chapter; not grief peaks).
+
 ---
 
 ## 4. Phase map
@@ -168,6 +203,9 @@ flowchart LR
 | **S12** | Ch 7–8 | **Group persuade Brutus**: multi-voice room; Brutus argues against; costly tip (rewrite Ch 8 tip away from caption-only) | Reluctance→conversion readable |
 | **S13** | Ch 4–9 | Strip relationship **tells**; replace with behaviour (esp. Decimus–Caesar key line; Brutus–Cassius permission captions) | Bonds felt |
 | **S14** | Ch 1–13 | Cut or fold useless fact stamps that don’t move a want | Less checklist dress |
+| **S15** | Social chapters | Polite-face → exit-complaint pairs (station hypocrisy) | Behind-backs + humour engine |
+| **S16** | Book-wide social/political | Raise count of **≥3 people talking** in-room (not only conspiracy) | Less corridor duet feel |
+| **S17** | Outside humour-off zones | Audible character humour with in-scene reaction | Cold reader actually notices comedy |
 
 ### Phase B — Afterlife ownership (Ch 18–25 focus, seeds earlier)
 
@@ -217,17 +255,19 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 ## 7. Implementation sequence (after plan approval)
 
-1. **Pass S-A0 (craft spine):** S12 Brutus group persuasion + reluctance; S13 show-don’t-tell relationship pass on Ch 4–9; S14 cut useless early stamps.  
-2. **Pass S-A1 (seeds):** S1–S4 gossip/behind-backs insertions; minimal growth; no new chapters.  
-3. **Pass S-A2 (dwell):** G1–G2 on Ch 1, 5, 6, 11 — merge or extend single-POV runs.  
-4. **Pass S-B1:** S7–S11 name/will/heir gossip + Cleopatra payoff retune.  
+1. **Pass S-A0 (craft spine):** S12 Brutus group persuasion + reluctance; S13 show-don’t-tell on Ch 4–9; S14 cut useless early stamps; **S15–S17** start on early social chapters (3+ rooms, polite→complaint, audible humour).  
+2. **Pass S-A1 (seeds):** S1–S4 gossip/behind-backs insertions; continue S15–S17 where scenes open; minimal checklist growth.  
+3. **Pass S-A2 (dwell):** G1–G2 on Ch 1, 5, 6, 11 — merge or extend runs **without** collapsing needed 3-person rooms into monologue.  
+4. **Pass S-B1:** S7–S11 name/will/heir gossip + Cleopatra payoff; mid-band 3-person + exit-complaint + humour.  
 5. **Re-export DOCX** (FULL + golden).  
-6. Short log: `continuity/story_first_pass_log.md`.
+6. Short log: `continuity/story_first_pass_log.md` (list which chapters got ≥3-person scenes and humour beats).
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
 - Brutus’s yes feels costly because we watched him resist.  
-- At least one conspiracy meeting feels like people arguing people into crime.  
+- Conspiracy **and** ordinary politics include rooms with three voices, not only duets.  
+- After polite scenes, someone complains in the corridor — station hypocrisy is felt.  
+- Humour is noticeable without needing an auditor to point it out; still off where grief must stay clean.  
 - Friendships and loyalties are visible in behaviour without nametags.  
 - Before the Ides, reader is watching a plot with incomplete information, not a calendar.  
 - After the funeral, reader is watching who owns the dead man’s name, not “next historical event.”  
