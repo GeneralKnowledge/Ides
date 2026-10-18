@@ -51,7 +51,7 @@ Caesar’s mouth twitched—almost the cut-joke that made hard men laugh in camp
 
 “We will see what the morning says,” he said.
 
-Postponement. The old habit that had kept him alive—never commit while the threat still had a face.
+He did not commit while the threat still had a face. He never had.
 
 Calpurnia kept her hands on him until her fingers ached. Outside, the Domus Publica assembled its night noises into dawn noises: a cough, a scrape, someone’s prayer muttered too fast to be pious.
 
@@ -105,14 +105,15 @@ Calpurnia stood in the cubiculum doorway as if she could hold the lintel up with
 
 Caesar almost smiled then—fond, tired. “I have gone against worse.”
 
-He didn't say: *I have also trusted better.* Trust showed up as Decimus arriving with a schedule and an open face, as he always did.
+Then Decimus was in the house with a schedule and an open face, as he always was—and Caesar’s shoulders eased a fraction before his mouth did.
 
 Caesar left the clouds where they belonged: behind his teeth.
 
 ---
 
 ## Continuity notes (SC-35b)
-- Jupiter/clouds dream private; mild vertigo unconfessed; AMB-1 held.
+- Jupiter/clouds dream private; mild vertigo unconfessed; AMB-1 held.  
+- **Gold-edge:** Soft “Trust showed up as…” caption cut; Decimus arrival shown as body ease.
 
 ---
 
@@ -159,11 +160,11 @@ He put out his hand.
 
 Caesar took it.
 
-Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. Decimus felt the dry warmth of the palm and thought—absurdly, brightly—of Spanish camps, of jokes at bad wine, of being second in a will the way a man is second in a friend’s trust.
+Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. Decimus felt the dry warmth of the palm and thought—absurdly, brightly—of Spanish camps, of jokes at bad wine, of being second in a will the way a man is second in a friend’s trust. The chin-tip habit rose unbidden: the small signal Caesar used on roads when the ditch timing was right and philosophy could wait. Decimus almost gave it now—then didn't. The Campus route ahead would use the same trust. He kept his chin still and his hand open.
 
 Calpurnia’s hand fell from the doorframe.
 
-They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking.
+They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse—half a breath early, so the friend never felt the drop.
 
 Caesar didn't speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be—Antony would be held. Trebonius’ job. Decimus didn't say that. He said, “It will be a short session,” and smiled as if shortness were mercy.
 
@@ -178,7 +179,8 @@ Decimus kept his hand available until Caesar no longer needed it, then let go as
 ---
 
 ## Continuity notes (SC-35c)
-- Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.
+- Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.  
+- **Gold-edge / S18:** Chin-tip / ditch-timing / Campus-route road-trust pay (Ch 4 plant).
 
 ---
 

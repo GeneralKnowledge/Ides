@@ -25,26 +25,31 @@ Phileros talked too much, which meant he was afraid. “The chickens were sullen
 
 “A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
 
-Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door. She didn't. Questions made servants invent answers.
+Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door—then did.
 
-In the atrium the painted pediment—still whole, still smiling its public smile—seemed to lean. Calpurnia knew that was her mind. She also knew minds could be right while looking foolish.
+“Stop,” Calpurnia said. “What did you try at the vestibule.”
 
-A physician’s slave arrived with a message no one had requested: if Caesar felt the old swimming in the skull, rest was piety. The message was late on purpose. Careful men stayed employed that way after disasters.
+Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros wouldn’t let it through.”
 
-Calpurnia sent the slave away with courtesy sharp enough to cut.
+“Bring me what you have.”
+
+“I burned my copy,” Nysa said. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn't Senate shape. It was splinters.”
+
+Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name—not *someone*.”
+
+Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
 She walked to the cubiculum and closed the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
 
-“He will come back,” she told the empty bed.
+“He will come back,” she told the empty bed—and hated that she had said it aloud, as if speech could hire a return.
 
-The bed did not argue.
-
-From the street rose the ordinary roar of the Ides—markets, oaths, a woman laughing as if laughter were still allowed. Calpurnia listened for a different sound and hated herself for inventing it in advance.
+The bed did not argue. From the street rose the ordinary roar of the Ides. Calpurnia listened for a different sound and, for once, refused to invent it in advance. She had given an order. Orders were what power looked like when the litter was already gone.
 
 ---
 
 ## Continuity notes (SC-40)
-- Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.
+- Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.  
+- **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.
 
 ---
 
@@ -115,13 +120,15 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word—three. You’ll thank me for keeping you from the first hour’s boredom.”
+“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word—three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another Monday—Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
-Antony grinned. “If it’s boredom, send a tribune. If it’s money, speak.”
+Antony grinned. “If it’s Monday, send a tribune. If it’s money, speak.”
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
-They spoke of nothing that mattered: a cavalry remount, a joke about a legate’s mistress, whether Hirtius wrote better than he fought. Trebonius was good at nothing-that-mattered. Antony found himself laughing, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+A legate’s attendant tried to cut in—remounts, a mistress joke already half-told—and Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant exited complaining under his breath that Monday-talk always ate the honest errands. Antony laughed at that, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+
+They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at Monday. That was the point.
 
 A thin suspicion crossed him—not plot, not dagger, only the soldier’s sense that a door had been closed behind his back. He glanced toward the Curia.
 
@@ -147,12 +154,15 @@ Antony felt for a weapon he had not brought into a Senate morning. His palm foun
 
 Trebonius said something mild. Antony didn't keep it. The mildness sat wrong—warmth while the Curia broke open.
 
-He ran—not toward philosophy, toward the door—and the crowd ran with him and against him, a single animal with too many mouths.
+Antony ran—not toward philosophy, toward the door—and the crowd ran with him and against him, a single animal with too many mouths.
+
+Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Monday had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
 
 ---
 
 ## Continuity notes (SC-42)
-- Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
+- Suspicion low until shouts; Trebonius = talk; Antony misses the blows.  
+- **Gold-edge / S18:** “Monday” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
 
 ---
 

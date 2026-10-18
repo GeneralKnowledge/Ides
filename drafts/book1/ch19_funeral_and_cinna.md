@@ -19,19 +19,17 @@ Antony didn’t need a poet. He needed a corpse, a toga that could still show ho
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle—the city’s honest reasons.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He didn’t invent the crowd’s anger. He aimed it.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. The crowd’s anger was already in the air; he gave it a place to stand.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
 Someone sobbed. Someone cursed Brutus by name. Antony kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
 
-The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. Antony didn’t pretend he controlled every spark. He controlled permission: no massacre on the Capitol on day one; yes, this heat now.
+The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. An officer at Antony’s shoulder hissed for grain first, fire never. “Hold the shops,” the man said. “Heat without bread turns on whoever holds the cloth.”
 
-When the first shops began to burn toward Liberators’ houses, Antony felt the old campaign clarity: the enemy’s city had become the enemy.
+Antony didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the officer. “Let the rest teach.” The officer’s mouth flattened—permission he hadn’t wanted to hear. When the first shops began to burn toward Liberators’ houses anyway, farther and faster than the grain line, Antony felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod.
 
-“Hold enough order to keep the grain,” he told an officer. “Let the rest teach.”
-
-Teaching looked like smoke.
+Teaching looked like smoke. The smoke did not ask which Monday had left him alive to aim it.
 
 ---
 
@@ -56,9 +54,11 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be—the old habit, distance before commitment.
 
-Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. Laberius didn’t take a torch. He took a mental note of who did. Notes survived campaigns.
+Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke.
+Laberius closed his fist on air, not wood. “I came for land,” he said. “Not for which door burns first.” He took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note.
+
+By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke—and Laberius had voted, by refusal, to keep his name off the first fire-list.
 
 ---
 
@@ -87,9 +87,10 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 
 ## Continuity notes (SC-50)
 - Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.  
-- Antony calculated-but-not-omniscient.  
-- Triple lens: ANT / F3 / F1.  
-- // M5: Antony speech held as refrain (lightly compressed); not blank verse.
+- Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).  
+- Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).  
+- // M5: Antony speech held as refrain (lightly compressed); not blank verse.  
+- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.
 
 ---
 
