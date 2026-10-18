@@ -81,7 +81,66 @@ Examples of the gap:
 
 ---
 
+## Also lock (was under-specified)
+
+### Scope of evidence
+
+The notes + #52 rest on **Ch 1–6 + golden Ch 14–19** only. **Ch 7–13 and Act 4–5 were unread** in that pass.
+
+- Silence about an unread chapter is **not** proof it is fine.
+- Do **not** invent mid/late-book commissions from that silence.
+- Prefer the next read to *feel* those zones (or an outside reader on a clean DOCX) before scheduling work there.
+
+### Standing non-goals (unless a concrete later read forces reopen)
+
+- No Ch 1–3 polish wars without a concrete reason
+- No Philippi expand; no mid-book redesign; no new audit / test suite
+- No blank-verse funeral; no Pharsalus prologue
+- No certified psychic; no baker conspiracy / slang glossary pass
+- No new Batiatus OC; no new mobile follow-OC
+- No single-hero / Octavian-early / grain-quest retrofit
+- Campbell/Vogler = diagnostic only
+
+### Author clarifications override first phrasing
+
+Example: funeral “too short” was withdrawn; the real issue was the **one-beat pyre→buildings cut**. Process must prefer the corrected framing, not the first wording.
+
+### Soft risks left *inside* #52 (watch on re-read, don’t scrub yet)
+
+- Hordeonius caption crumbs that explain the joke
+- Dream plant line slightly meta (“rehearsed a dream before…”)
+- Ch 20 dream-versions list a bit neat
+- Mobile “transfer” labels a bit loud
+
+These are over-clarity risks in the *fixes*, not unfinished examples from the notes.
+
+### When to escalate beyond selective work
+
+| If next read still feels… | Then consider… | Not… |
+|---------------------------|----------------|------|
+| Unmoored *after* recruitment / Ides / name (not only Ch 1–5) | Connective recoverability; whose ordeal is feelable | Single-hero rewrite |
+| Talk/metaphor still dominates entertainment | More action-first / staged irony in existing carriers | Book-wide quip pass or new OC |
+| Relationships still flat as functions | Spot-check 1–2 further dyads | Universal relationship essay |
+| Rate-sheet cleverness everywhere | Voice hygiene beyond Hordeonius samples | Another full LLM scrub by default |
+
+### Preferred shape of the next read
+
+Not another edit pass. Prefer one of:
+
+1. **Re-read touched zones** (Ch 1–6, 10–11, 14–24, 30) asking “do the underlying behaviours still jar?”
+2. **Sample unread mid/late** (Ch 7–13 or Act 4–5) only to learn whether silence hid problems — still no commission from one chapter
+3. **Outside-reader DOCX** (craft metadata already stripped in #50) for bearings / follow / entertainment without editorial memory
+
+Stop and note; do not immediately implement mid-read.
+
+### Dual engines stay the carriers
+
+Ides incomplete-info and will/name/heir remain behavioural engines. Do not invent a third master throughline from reading notes (grain quest, seer arc, tour-guide servant).
+
+---
+
 ## Pointers
 
 - Notes archive: `archive/reports/author_reading_notes_post_merge.md`
 - P3 decisions + diagnostics: `continuity/expansion/golden_read_p3_decisions.md`
+- Export craft-strip (reading DOCX): PR #50 / `tools/export_book1_docx.py`
