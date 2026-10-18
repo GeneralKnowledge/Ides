@@ -23,9 +23,9 @@ Decimus smelled his own street before he saw the damage—pitch, cloth, the swee
 
 Enough was the city’s new measure.
 
-Decimus did not ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he could not get the smell off.
+Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
-Cisalpine Gaul was no longer a promotion. It was a wall with legions behind it—if he could reach it, if Antony’s hunger for provinces did not become a noose first. Decimus packed maps, not speeches.
+Cisalpine Gaul was no longer a promotion. It was a wall with legions behind it—if he could reach it, if Antony’s hunger for provinces didn’t become a noose first. Decimus packed maps, not speeches.
 
 Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
@@ -43,7 +43,7 @@ Brutus looked at the broken street as if it were a Senate. “Then do not ask me
 
 He left before philosophy answered.
 
-On the road north he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft—praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who would not meet his eyes and would not take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they would not send.
+On the road north he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft—praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who wouldn’t meet his eyes and wouldn’t take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they wouldn’t send.
 
 ---
 
@@ -66,7 +66,7 @@ Overhear risk: Court medium
 
 ---
 
-Cleopatra did not confuse Rome’s smoke with Alexandria’s. Different ash. Same lesson: a queen without a living Roman guarantor was a story other people finished.
+Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash. Same lesson: a queen without a living Roman guarantor was a story other people finished.
 
 She stood in the garden villa across the Tiber—Caesar’s green claim on the city’s edge—and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred schedules.
 
@@ -104,11 +104,11 @@ The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises.
 
 He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
 
-They had been going in to dinner when the man found them—a freedman with dust that did not match a calm road, and a letter’s weight in his manner even before the wax showed. Dust was the first sentence.
+They had been going in to dinner when the man found them—a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed.
 
-“Caesar,” the man said, and then the rest came broken: knives, Senate, Pompey’s place, Brutus, blood, the city upside down. A mother’s hand in the urgency—come home; she did not know what would happen next.
+“Caesar,” the man said, and then the rest came broken: knives, Senate, Pompey’s place, Brutus, blood, the city upside down. A mother’s hand in the urgency—come home; she didn’t know what would happen next.
 
-Octavian’s first feeling was not fate-music. It was the childish, humiliating drop of the floor—the sense that the adult arrangement of the world had been a prop. His second feeling was colder: who benefits, who moves, who lies in the first report.
+Octavian felt the floor drop—the childish, humiliating sense that the adult arrangement of the world had been a prop. Then the colder part: who benefits, who moves, who lies in the first report.
 
 “Names first,” he said. “Then places. Separate what you saw from what the road invented.”
 
@@ -116,13 +116,13 @@ The courier tried again with a thinner story: Caesar dead; Liberators on a rock;
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety.
 
-Octavian did not shake the hand off. He also did not lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear—young. He hated that it sounded young.
+Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear—young. He hated that it sounded young.
 
 “We go when going is not suicide,” he said. “First we learn what name I still have.”
 
-He did not say *son*. The word sat unused behind his teeth—kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
+He didn’t say *son*. The word sat unused behind his teeth—kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
-Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses—and shut it away, because kindness was not a plan.
+Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses—and shut it away, because kindness wasn’t a plan.
 
 ---
 

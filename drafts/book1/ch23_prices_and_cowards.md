@@ -40,7 +40,7 @@ Overhear risk: Extreme staff
 
 The Domus Publica filled with new footsteps wearing old authority.
 
-Nysa packed what Calpurnia ordered packed and watched men she did not know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking.
+Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people—or by the house’s new legal fiction—spoke kindly while taking.
 
 “These are the people’s now,” he said of a chest. “In a manner of speaking.”
 
@@ -70,7 +70,7 @@ The cousin clasped his arm too hard. Seius clasped back harder, then softer—et
 
 After the second course a neighbour—Quintus from the next block, a man who borrowed tools and returned gossip—leaned in with wine on his breath and a tablet half-hidden under his sleeve. “Sign,” Quintus said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
 
-Seia Prima’s eyes found Seius across the lamps. Expectation was a kind of trap.
+Seia Prima’s eyes found Seius across the lamps. Expectation closed like a trap.
 
 Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Quintus was another door: the cousin would hear; the dinner circuit would adjust; someone would remember Seius as weather that would not commit.
 
@@ -90,7 +90,7 @@ He left before dessert. Seia Prima followed without speaking until the street. �
 
 By morning the petition had four names without his, and Quintus had already begun telling the block that Seius congratulated with wine and vanished with excuses. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent a neighbour’s goodwill to keep his name off a list that could kill him—and the block now had a story about him that was almost true.
 
-On the way to the far dinner he did not rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one.
+On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one.
 
 ---
 

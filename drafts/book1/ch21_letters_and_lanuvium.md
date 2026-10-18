@@ -28,7 +28,7 @@ The visitor—some neighbour with a taste for Athens—smiled as if force were a
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-Sphaerus brought a note from Hirtius’s orbit—polite, useless, full of men congratulating themselves for surviving March. Cicero answered with courtesy that congratulated itself louder. At night he catalogued his own courage on the Capitol’s first day and found it larger in memory than in the hour. He did not correct the catalogue.
+Sphaerus brought a note from Hirtius’s orbit—polite, useless, full of men congratulating themselves for surviving March. Cicero answered with courtesy that congratulated itself louder. At night he catalogued his own courage on the Capitol’s first day and found it larger in memory than in the hour. He didn’t correct the catalogue.
 
 A second courier brought news that was already half false: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished. Cicero kept both halves on separate scraps and labelled neither *true*. He asked the boy one more question before dismissing him: whether anyone in the Forum had yet said *Octavius* as if the name were money. The boy looked blank. Cicero wrote *not yet* in the margin of a draft and underlined it twice.
 
@@ -46,7 +46,7 @@ Overhear risk: Household
 
 ---
 
-Lanuvium was not exile. Exile would have been cleaner.
+Lanuvium wasn’t exile. Exile would have been cleaner.
 
 Brutus walked the same garden paths until the gravel knew his sandals. Clients came to whisper loyalty and left before dusk—loyalty that evaporated at eighteen miles. Rome was unreachable as Alexandria and louder in rumour than in reach. A steward reported which roads still carried Antonian veterans like dust that refused to settle. Brutus thanked him as if thanks were policy.
 
@@ -54,7 +54,7 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 The steward hesitated. Hesitation was news. “Campania says the name. Rome still laughs at the name. For now.”
 
-Porcia did not waste comfort. “They call you immortal in the same breath they ask you to be quiet.”
+Porcia didn’t waste comfort. “They call you immortal in the same breath they ask you to be quiet.”
 
 “Peace requires quiet,” Brutus said.
 
@@ -62,13 +62,13 @@ Porcia did not waste comfort. “They call you immortal in the same breath they 
 
 He drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
 
-Immortality, someone had written him, was better than peace. Brutus folded the sentence and did not burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
+Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
 Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south—if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us—or you.”
 
-Porcia, listening from the colonnade, said nothing. The silence was a question.
+Porcia, listening from the colonnade, said nothing—a question held in the air.
 
 Brutus saw the trap whole: a line that named him as guarantor of other men’s survival, useful to them now, useful to prosecutors later. “Write that your town stood with the Senate,” he said. “Do not write my name as if it were a roof.”
 
@@ -76,11 +76,11 @@ The clerk’s smile died. “Without your name the tablet is weather.”
 
 “Then keep it blank,” Brutus said. “Blankness is safer than my seal on a road full of Antonian dust.”
 
-The clerk left without clasping arms. By evening Brutus learned—through the steward’s careful mouth—that the neighbouring town had already begun telling clients Lanuvium would not shield them. One refusal had priced his brand as local absence. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if it were a date, and did not offer a tablet.
+The clerk left without clasping arms. By evening Brutus learned—through the steward’s careful mouth—that the neighbouring town had already begun telling clients Lanuvium would not shield them. One refusal had priced his brand as local absence. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
 
-He did not practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
+He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
 
-It was not a date. It was a cage with a view of hills that looked like freedom if you squinted—and beyond the hills, a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
+Not a date on a tablet—only hills through the gate, and beyond them a name war beginning without him while a neighbouring town filed his silence under *unavailable*.
 
 ---
 
