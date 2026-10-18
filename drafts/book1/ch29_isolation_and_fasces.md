@@ -68,7 +68,9 @@ Octavian’s throat tightened once—shame or fever, he didn't sort it. He looke
 
 He had the clerks open the nearest chest where Agrippa could see the count. Incomplete death-rumour; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about honouring Decimus’s memory, Octavian cut him with a nod toward the queue of soldiers. “Memory after the line is fed.”
 
-The vacuum mattered as pressure, not triumph. With Decimus gone, the Senate had one fewer excuse to pretend Mutina had settled the year. Octavian’s own ranks smelled the empty square and wanted a consul who was *theirs*—paymaster, name, a face young enough to insult the old seats. Senate wanted a miracle that obeyed. Octavian offered them a nineteen-year-old with Caesar’s name and enough armed insistence to make elections look like a toll you paid at the gate. Agrippa’s silence beside him was heavier than speeches; Apollodorus adjusted cloaks as if cloth could bargain.
+The vacuum arrived as named pressure, not triumph. With Decimus gone, Mutina no longer had a holder the Senate could point at and call the year settled. A centurion from the Martians said it first, loud enough for the pay line: “The north road has no Liberator left. Who feeds us now—old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march south again for praise that arrived late and sweet while Decimus’s ditch stayed empty of friends. Agrippa translated the noise into one sentence Octavian could keep: the ranks wanted a consul who was *theirs*—paymaster, name, a face young enough to insult the old seats—because the man who had held the province was ash and rumour.
+
+Senate pressure arrived in a different mouth. A senior voice, careful with consonants, told Octavian that without Decimus the House had lost its northern excuse: no legal Liberator left to balance Antony’s hunger, no Mutina hinge to pretend the war was someone else’s. They needed a miracle that obeyed. They needed it before Antony’s friends finished renaming the map. Octavian offered them a nineteen-year-old with Caesar’s name and enough armed insistence to make elections look like a toll you paid at the gate—not because destiny asked, but because Decimus’s absence had shortened every polite road. Agrippa’s silence beside him was heavier than speeches; Apollodorus adjusted cloaks as if cloth could bargain.
 
 He felt sick after the first hard bargain—stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Publicly he accepted fasces as if they were owed homework. A clerk miswrote his age; Octavian corrected the number and left the tone alone.
 
@@ -78,12 +80,14 @@ Octavian wiped sweat from his upper lip with the back of his hand—ugly, visibl
 
 A senator called him the Republic’s luck and waited for a smile of destiny. Octavian returned a nod calibrated to obedience and didn't trust his mouth with a sentence. A soldier shouted the name Caesar as paymaster; Octavian didn't bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
-Still not serene. Still learning where ruthlessness lived in the body—usually behind the teeth, not in a speech about forever. Decimus’s absence didn't make him wise. It made the road to Bononia shorter, and the men behind him louder.
+Still not serene. Still learning where ruthlessness lived in the body—usually behind the teeth, not in a speech about forever. Decimus’s absence didn't make him wise. It made Bononia feel caused—ranks and Senate both naming the empty north—and the men behind him louder.
 
 ---
 
 ## Continuity
 - Decimus death-on-road as ordeal (priced ford; no speech); OCT consul under army pressure after incomplete death-rumour.  
+- Vacuum after Decimus: named pressure from ranks (north road empty) + Senate (no Mutina holder left) → fasces/Bononia feel caused.  
 - MUST_EXPRESS: C1 close, C5. Next: Triumvirate / proscriptions (Ch 30).  
 **Phase 1D.1:** SC-82 experiential death; SC-83 vacuum→fasces without Augustus mind.
+**Act5 ordeal:** SC-82 left sensory; SC-83 deepened so Bononia reads as consequence of Decimus gone.
 **Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.

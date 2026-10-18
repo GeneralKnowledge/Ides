@@ -1,28 +1,6 @@
 # Chapter 33 — Philippi I
 
-**Phase 1D.2** · SC-89, SC-90, SC-91 · Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
-
----
-
-# SC-89 — Blood Land
-
-POV: F4 Hordeonius · Italy estates  
-Date / place: Confiscated fields · SIDE-1b OPEN-0 echo  
-Canon refs: Econ · moral bill · C9  
-Info ENTER: Proscription bargains · EXIT: Owns neighbours’ land; cannot sleep  
-Overhear risk: Low private
-
----
-
-Hordeonius walked fields that had been other men’s names.
-
-Boundary stones still remembered older owners; his stylus had overwritten them in town with the neatness he once reserved for honest Kalends. Birds argued over seed that was no longer anyone’s virtue. The old Visellius tablets resurfaced in a crate—ash-smudged, worthless, archaeology as promised. SIDE-1b stayed OPEN-0: no courtroom, no crown, only ash under civil war’s larger corpses.
-
-He almost prayed over the tablets. Instead he stacked them for kindling and whispered, “Sacred once,” like a man consoling a cult statue that had failed to keep anyone alive. Sosia asked if the yields would clear. Hordeonius said the yields would clear; sleep wouldn't. Interest, for the first time, could not purchase it.
-
-A hired man asked whether to pull down a boundary shrine that named the old owner. Hordeonius said leave it—the smallest unpaid debt he could still afford, not a kindness. He told the empty lane he had preserved value—solvent men, seals, a Republic that still needed warehouses. The lane didn't absolve. Owls didn't either.
-
-He walked home counting paces the way he once counted interest and found that counting no longer calmed him. In the city, someone would call this winning. Hordeonius called it dirt that had learned his name and refused to forget it.
+**Phase 1D.2 / Act5 ordeal** · SC-90, SC-91 (+ OPEN-0 echo folded) · Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
 
 ---
 
@@ -30,7 +8,7 @@ He walked home counting paces the way he once counted interest and found that co
 
 POV: Antony / F3 · Philippi plain · first engagement  
 Date / place: Philippi · dust / noise / marsh edge  
-Canon refs: A14 · M18 setup · fog pack — no fake OB  
+Canon refs: A14 · M18 setup · fog pack — no fake OB · SIDE-1b OPEN-0 echo only  
 Info ENTER: Two camps · EXIT: Fog; Cassius’ sector collapses *in reports*  
 Overhear risk: Dust/noise
 
@@ -45,6 +23,8 @@ He rode the near wing until the dust made faces into guesses. “Weight left,”
 Dust coated his teeth. He spat and pointed and the pointing became cohorts moving—not clean, not parade, but moving. Someone shouted Cassius’ name from a direction that might have been victory or panic. Antony didn't pause to translate the shout. Translation was for after the counting, if counting still had owners.
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once—short, practical—and sent a second line into the dip before the dip became a story.
+
+He did not think of Italian acres. Acres were for clerks after dust. For one breath a courier’s report from weeks ago surfaced anyway—solvent men sleeping badly on neighbours’ soil, ash tablets nobody solved—and Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
 ### F3 — Laberius
 
@@ -72,27 +52,36 @@ Overhear risk: Few
 
 The messenger’s mouth was wrong before the words were.
 
-Dust made the man’s tongue thick; fear made it thicker. The map in Cassius’ head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day: standards gone, wing broken, Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
+Dust made the man’s tongue thick; fear made it thicker. He had lost a sandal somewhere on the climb; one foot bled into the packed dirt of Cassius’ forward post. The map in Cassius’ head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day: standards gone, wing broken, Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
 
 “Say it again,” Cassius said. “Slower. Names. Directions. Which standard.”
 
-The messenger tried. Names arrived missing. Directions softened into gestures at dust. A standard might have fallen or only dipped. A second voice—friend, attendant, someone with too much loyalty and not enough eyes—tried to amend the first and only added fog. Brutus’ success, if it existed beyond the lying air, did not fit in either throat.
+The messenger tried. Names arrived missing—a century mark without a cognomen, a hill that might have been the left ditch. Directions softened into gestures at dust. A standard might have fallen or only dipped. Cassius made him point at the wax sketch of the sector. The finger landed between two lines and stayed there, trembling, as if the map itself had fog.
 
-Cassius, who had trusted numbers, trusted a broken number because broken numbers still looked like numbers if you needed them enough to hate delay. He asked one clarifying question about Brutus’ sector. The answer came as a shrug wearing words.
+Cassius sent a runner down the reverse slope for a second count—cohort numbers, eagle sightings, anything with a body attached. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. Ops body: do the next countable thing while the uncountable arrives.
 
-Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare—nothing he could count, nothing he could punish.
+The runner came back empty-mouthed. No second count. Only another man who had heard the first yell secondhand and wanted to be useful by repeating it louder. A friend—attendant, someone with too much loyalty and not enough eyes—tried to amend the first report and only added fog. Brutus’ success, if it existed beyond the lying air, did not fit in either throat.
+
+“Brutus,” Cassius said. One clarifying question about the sector. The answer came as a shrug wearing words: *no word; marsh between; dust.*
+
+Cassius, who had trusted numbers, trusted a broken number because broken numbers still looked like numbers if you needed them enough to hate delay. Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare—nothing he could count, nothing he could punish.
+
+He almost waited. Waiting was the mathematician’s virtue. Waiting here meant listening to more mouths invent geometry. He felt the old contempt for delay rise and catch on something softer—hope, or the habit of correcting clerks before they ruined a sum. For three breaths he held both: the incomplete report as a sum that would not clear, and the possibility that Brutus was still rearranging the other half of the plain without him.
+
+The softer thing lost.
 
 He dismissed the messengers with a bow that meant *done*. Alone enough—alone with two men whose faces already disagreed about everything except the steel—he made the end himself rather than wait for the plain to invent a worse one.
 
-He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as a sum that would not clear and closed the account the only way left.
+He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as a ledger closed by belief and closed the account the only way left.
 
-On another part of the field messengers were still lying in good faith. Cassius was already done. Bad news, believed, had been enough.
+On another part of the field messengers were still lying in good faith. Cassius was already done. Bad news, believed, had been enough—and the hesitation before the steel had not been enough to save him from believing it.
 
 ---
 
 ## Continuity
 - Cassius dead on bad INF (M18); fog held; no casualty tables; Laberius eagle as local fact.  
+- Italy F4 / OPEN-0 not a Philippi-day postcard—echo only under Antony’s order breath (SIDE-1b stays OPEN-0 elsewhere).  
+- Battle day: two cameras (Antony/Laberius field + Cassius hill).  
 - MUST_EXPRESS: F12, A6. Next: Ch 34.  
-**Phase 1D.2:** SC-90 Antony competence + F3 fact; SC-91 ordeal dwell before steel.
+**Act5 ordeal:** SC-89 folded; SC-91 ops body + hesitation before steel; incomplete INF hurts on the page.
 **1G:** Laberius opener differed from Mutina (P2-a).
-

@@ -56,7 +56,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68b, SC-69 | CIC, CAS/BRU | Philippics; East departure |
-| 26 | SC-70, SC-71, SC-72 | DEC, CLEO, report | Cisalpine; Cleopatra gone; Sextus |
+| 26 | SC-70 (+ CLEO-1/FS11 folded) | DEC | Cisalpine; Cleo/Sextus as rumour-margin only |
 | 27 | SC-73, SC-74 | ANT/DEC, CIC/OCT | Mutina begins; Senate’s sword |
 
 ---
