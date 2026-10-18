@@ -266,6 +266,23 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 **Do not yet:** cast a new mobile POV mid-read. Note whether golden chapters make you hunger for one continuous non-elite pair of eyes — evidence for this idea vs evidence that Decimus/Calpurnia already carry when stakes rise.
 
+### Entry / transfer hooks (author, elaborating §13)
+
+How such a person could *move* between spheres without feeling like a tour guide — soft-chain logic the book already knows:
+
+**If slave / servant:**
+
+- Taken as a **hostile “apology” for a slight** — coached in politeness depending on the room (mirrors Ch 1 soft-chain / petition humiliation energy).
+- Or: someone **speaks about their beauty** and it backfires when a superior **takes them as part of a deal** (body as clause; patronage as theatre).
+
+**If soldier / guard:**
+
+- **Offered as a gift for safety** because of something owed, feared, or brokered — protection priced as a person, not a speech.
+
+These hooks would make mobility a *consequence of elite bargains*, not random access — and give the follow-character a want (survive the transfer; resent the politeness; use the new door).
+
+**Still do not cast mid-read.** Seed only.
+
 ---
 
 ## What not to do with these notes
