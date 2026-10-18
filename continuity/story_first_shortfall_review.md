@@ -101,23 +101,14 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 ## Minimum work before a “criticism-resistant” export
 
-Act 5 ordeal + law sweep + gold dwell + deep audit + **anti-formula densify: done** (`anti_formula_densify_pass_log.md`).
+Act 5 ordeal + law sweep + gold dwell + deep audit + anti-formula + **residual tissue densify: done** (`residual_tissue_densify_pass_log.md`).
 
-**Next (choose one):**
+**Next:** keep densifying soft joints (gravity / cast-wide play / remaining humour desert) without cold-read gate.
 
-1. Author cold-read densified Ch **7 / 13 / 20 / 23** (spot 25/28/32/34) — confirm delete-the-garnish holds in human reading.  
-2. Or export FULL + golden as **decision cold-read**, labeled residual-risk aware (Galba unpaid / humour desert / gravity still open).
-
-**Not next:** another ≥2-laws sweep; second gold dwell; treating anti-formula as finished-line completion.
+**Not next:** another ≥2-laws sweep; second gold dwell; treating tissue seeds as finished-line.
 
 Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
 
 ---
 
-## If you export anyway
-
-Label the DOCX: **“Story-first + Act5 + gold dwell + anti-formula densify. Residual ledger open.”** Cold-read densified Ch 7/13/20/23 first; do not treat residual humour desert / Galba / gravity as closed.
-
----
-
-*End shortfall review. Next: densified-band cold-read or residual-risk DOCX decision.*
+*End shortfall review. Next: soft-joint densify without cold-read gate.*
