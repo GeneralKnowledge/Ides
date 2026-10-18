@@ -23,6 +23,8 @@ Decimus smelled his own street before he saw the damage—pitch, cloth, the swee
 
 Enough was the city’s new measure. The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had—heir enough to hate, not enough to mourn.
 
+A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked: Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule—or the gods had warned and Decimus had mocked the warning—or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions, one pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
+
 Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit—ink’s second degree made flesh. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
 Cisalpine Gaul was no longer a promotion. It was a wall with legions behind it—if he could reach it, if Antony’s hunger for provinces didn’t become a noose first. Decimus packed maps, not speeches.
@@ -53,6 +55,7 @@ On the road north, while that smoke thinned behind him into other men’s proble
 - **Final integrated:** Decimus/Brutus timing disagreement (east-first vs nearer knife); Plancus refuses grain “yet”; Lepidus channel will not take a return tablet.  
 - Property damage shown; which house burns = flex, keep generic elite street.  
 - Second-line will callback; Tiber smoke bridge toward SC-53; Decimus/Brutus timing fight by clasp (no nametag).  
+- **Golden-read P3-c:** Street misremembers Calpurnia dream (≥3 versions; Decimus files, does not crown) — aftermath of dream packet.  
 
 ---
 

@@ -40,7 +40,8 @@ Brazier talk; counting left-hand men; smelling horse-lines; not searching desert
 | End | 30, 33–34 | Lists soil; Philippi field |
 
 ## Behavioral tells
-Fist on air not wood; notes who takes torches; fight for man on left.
+Fist on air not wood; notes who takes torches; fight for man on left.  
+**P3-d:** May be offered as guard-for-safety / paymaster transfer; refuse keeps Capua date in his own boots.
 
 ## Must
 Capua as changed cost after Ch 19.
