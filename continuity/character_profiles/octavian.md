@@ -1,42 +1,59 @@
 # C. Octavius / young Caesar (heir)
 
 **Type:** Historical · Regular POV (rising Act 4+)  
-**Function:** Inventory mind; inheritance of the name; learning force; not Augustus
+**Function:** Inventory mind; name inheritance; learning force; not Augustus  
+**Subplot ownership:** T6 (heir ordinary life) · Engine B primary
 
-## Identity
-Peripheral kin → heir by will → paymaster with fasces → victor ill at Philippi.
-
-## Core drive
+## Desire
 Survive the week without looking grateful for others’ fear; take what the dead wrote; learn where ruthlessness lives in the body.
 
+## Misbelief
+Separating names from road invention is enough; soft nicknames are only inventory jokes (until they aren’t).
+
 ## Soft spots / fears
-Looking young; shaking as information; Atia/Philippus safety pressure; fever; unfinished shame.
+Looking young; shaking as information; Atia/Philippus safety; fever; unfinished shame over Decimus.
 
 ## Perception filter
-Lists, reserved places aimed wrong, pay chests before arguments, separate scraps of incompatible rumour.
+Lists, reserved places aimed wrong, pay chests before arguments, incompatible rumour on separate scraps.
 
 ## Voice & humour
-Stiff, watchful. Almost never jokes. Body leak (metal taste, cracked *paid*) over destiny smile.
+Stiff, watchful. Almost never jokes. Lets Agrippa’s twitch count. Body leak over destiny smile.
 
-## Loyalty map
-Caesar’s written will · Agrippa (logistics friendship) · name as weapon not yet cleanly lifted · men who are owed.
+## Off-page life
+Training weather; correcting age not tone; holding incompatible Decimus stories; breathing until breathing looks like command.
 
-## Information boundaries
-**Zero** Rome Ides coverage; delayed Apollonia news; incomplete Decimus-death versions kept unmerged; no Actium knowledge.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 | Act 4–5 |
+|--------|---------|-------|---------|
+| Caesar | Peripheral kin | Dead writer of will | Name as unpaid homework |
+| Agrippa | Soft-name ban; listens | Death-news stillness | Fasces homework play; ditch markers |
+| Antony | Rumour | — | Underestimatee → bargain partner |
+| Cicero | — | — | Useful aimer; not father |
+| Decimus | — | Second-line rumour | Incomplete death; pay before memory |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 5 | Hopeful-shadow hate; Agrippa |
+| Pressure | 20 | Names first; gardens/boy without seal |
+| Choice | 22, 27 | Name-take; Senate’s sword nod |
+| Cost | 29–30 | Fasces; Bononia Cicero assent |
+| End | 34 | Ill; farms that belong to someone else |
 
 ## Behavioral tells
-Doesn’t correct early; twists ring then stops; opens chests where Agrippa can see; corrects age not tone; palms on rail after shake.
+Doesn’t correct early; opens chests where Agrippa sees; corrects age not tone; palms on rail after shake.
 
-## Book 1 arc
-Forum edge (Ch 5) → Apollonia (Ch 5, 20) → name taken (Ch 22) → Senate sword (Ch 27) → fasces (Ch 29) → Bononia (Ch 30) → Philippi illness (Ch 34).
+## Information boundaries
+Zero Rome Ides coverage; delayed news; no Actium knowledge.
 
 ## Must
-Learn, misjudge, respond; intelligence ≠ prophetic certainty.
+Learn, misjudge, respond; intelligence ≠ prophecy.
 
 ## Must not
-“When I am emperor”; serene mastermind; Augustus psychology in 44–42; shared Decimus proverb voice.
+“When I am emperor”; serene mastermind; Augustus mind in 44–42.
 
 ## Consistency questions
 - Inventory or destiny music?
 - Pay/body before aphorism?
-- Keeping incompatible stories separate?

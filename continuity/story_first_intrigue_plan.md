@@ -309,8 +309,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 8. **Anti-formula densify:** **Done** — Ch 13 → 20 → 23 → 7 + craft-noun strip 25/28F4/32/34; floor 0–1 cleared on those files — see `anti_formula_densify_pass_log.md`.  
 9. **Residual tissue densify:** **Done** — Galba winter + Capua cost paid; warehouse Ch 18 strip; Act 5 humour bites; craft-noun leaks — see `residual_tissue_densify_pass_log.md`.  
 10. **Soft-joint densify:** **Done** — Ch 20/34 gravity; Ch 25 humour; Ch 30 Seia play; exporter landed — see `soft_joint_densify_pass_log.md`.  
-11. **Keep densifying** remaining soft joints without cold-read gate — **Next**. Not finished-line.  
-12. Short log updates in `continuity/story_first_pass_log.md`.
+11. **Full novel expansion architecture:** **Done (docs)** — `continuity/expansion/` + deepened character bible + subplot tracks + deposit map.  
+12. **Prose deposit waves** per [`continuity/expansion/beat_deposit_map.md`](expansion/beat_deposit_map.md): Waves 1–3 + D22 fringe **LANDED** (~50.7k). Further LEN-1 growth = selective densify or new map beats only. Not finished-line.  
+13. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
@@ -381,8 +382,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** Continue densifying remaining soft joints without cold-read gate — see `soft_joint_densify_pass_log.md`. Not finished-line.
+**Next implementation phase:** Further LEN-1 densify only via new beats added to the deposit map first (or selective deepen of LANDED rooms). Locks held; SIDE-1 OPEN-0. Not finished-line.
 
 ---
 
-*End of story-first intrigue plan. Through soft-joint densify done; keep densifying without cold-read gate.*
+*End of story-first intrigue plan. Through expansion architecture + bible; next prose deposit waves.*

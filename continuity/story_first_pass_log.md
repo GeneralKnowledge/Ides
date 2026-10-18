@@ -6,12 +6,19 @@
 
 ---
 
+## Full novel expansion architecture
+
+**Branch:** `cursor/novel-expansion-architecture-cb1d`  
+**Docs:** `continuity/expansion/` · deepened `character_profiles/` · secondary promotions  
+**Prose:** first deposit slice per beat_deposit_map (Soft Middle + plants)  
+**Result:** Architecture live; LEN-1 via deposits, not quota. Not finished-line.
+
 ## Soft-joint densify
 
 **Branch:** `cursor/soft-joint-densify-cb1d`  
 **Log:** `soft_joint_densify_pass_log.md`  
 **Touched:** Ch 20, 25, 30, 34 gravity/humour/play; exporter + DOCX regen.  
-**Result:** Soft joints tightened; keep densifying without cold-read gate. Not finished-line.
+**Result:** Soft joints tightened.
 
 ## Residual tissue densify
 
@@ -175,3 +182,18 @@ Humour-off zones not touched (no Curia/Formiae/ditch gags).
 ---
 
 *End S-A0 + S-A1 log.*
+
+---
+
+## Full novel expansion — architecture + deposit waves (this branch)
+
+**Docs:** `continuity/expansion/` (README, book summary, act summaries, subplot tracks T1–T7, beat deposit map); `PROFILE_TEMPLATE.md`; 15 principals deepened; secondary files Porcia/Agrippa/Trebonius/Lepidus/Plancus/Galba/Phileros.
+
+**Prose LANDED (D1–D18, D20–D22):** Soft Middle Ch 17–24; War social Ch 25–30; Early mesh Ch 2/4/5/10/12; Ides fringe Ch 14. PROTECT held: Ch 8 core, Curia Ch 16, Formiae/Actium.
+
+**Word count:** ~50.7k (was ~48.9k before this deposit pass). Intermediate soft band 55–70k still open via further mapped densify.
+
+**DOCX:** regen via `tools/export_book1_docx.py`.
+
+**Locks spot-check:** SIDE-1 OPEN-0; CLEO-1; OCT≠Augustus; NOTE-1 dual; no Actium; CHOREO-1 unprotected knife pile not expanded.
+

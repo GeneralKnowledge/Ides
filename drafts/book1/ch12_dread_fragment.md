@@ -30,6 +30,8 @@ Calpurnia let both sentences sit. She did not thank them. Thanks made servants i
 
 They did. After the door-latch, in the service slip beside the cubiculum, Pallas’s voice dropped its station softness. “She knows we know. That makes us dangerous and useful in the same breath.” Nysa did not answer with comfort. Comfort was a lie with good manners. She carried the empty jug toward the court and kept *schedules* and *doors* in different pockets of her mind.
 
+In the chicken court Dama muttered that cheerful visitors left a smell chickens disliked. Phileros, keys already important, told him to invent quieter omens. Three household wants without a Senate: Pallas’s useful danger, Nysa’s incomplete splinter not yet pressed, Dama’s birds as weather—mesh fringe around the dread that Calpurnia would not call prophecy yet.
+
 Later Caesar found Calpurnia at the tablinum edge. “You are not usually like this,” he said once, almost mildly, and she hated how often mildness was his kindness.
 
 “The house listens,” she said. “So do I.”
@@ -107,6 +109,7 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.  
 - Calpurnia dwell; dressing-room gossip (Spurinna/Decimus-door); atrium cheer → attendant cloak truth (spare/stay/Monday); humour OFF (dread); NOTE-1 dual not merged.  
 - **Anti-formula:** craft “exit-complaint” noun strip in narration.  
+- **Expansion D21:** Household mesh fringe — Dama/Phileros/Pallas-Nysa wants without Senate (chicken-court weather).  
 - Next: Ch 13 GO night (+ SC-32).
 **1G:** soft future “night that would break her” cut; wax/dread not weather.
 

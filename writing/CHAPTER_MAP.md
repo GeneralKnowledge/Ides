@@ -83,3 +83,18 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 **Batch D (fill):** Ch 1–13, 20, 25–27  
 
 After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `continuity/canon.md`.
+
+---
+
+## Expansion deposits (architecture-first)
+
+See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md). Update this map only after beats are marked **LANDED** there.
+
+| Wave | Chapters | LANDED IDs (this program) |
+|------|----------|---------------------------|
+| Soft Middle | 17–24 | D1–D9 |
+| War social | 25–30 | D10–D15 |
+| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 |
+| Ides fringe | 14 | D22 (peaks protected; Ch 16 PROTECT) |
+
+Locks held: AMB-1, NOTE-1 dual, SIDE-1 OPEN-0, CLEO-1, OCT≠Augustus, no Actium, CHOREO-1 / Curia core / Formiae.

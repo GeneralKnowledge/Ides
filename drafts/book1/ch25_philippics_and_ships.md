@@ -66,6 +66,8 @@ Cassius did not smile. “We leave so we can afford war if war is honest enough 
 
 Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once—loud enough for the mate—and went back to rope; the snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves—cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*—the republican word for other people’s coin.
 
+The mate did not let the snort die alone. He spat over the rail—careful of wind—and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned; the other looked at Brutus’s courtesy as if courtesy were a second religion. Cassius heard the mate’s verdict as witness, not mutiny: *collecting* now had deck mouths attached, not only a factor’s smile.
+
 A factor from the quay came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said—cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus as if the harbour itself were a ledger waiting to be corrected.
 
 Brutus touched a rail. Salt crusted under his nails. “If we become what we killed—”
@@ -95,4 +97,5 @@ They sailed. Behind them, Cicero’s sentences chased Antony through Rome—mark
 **Phase 1D.3:** SC-68b public friction; SC-69 East held/tightened.
 **Act5 ordeal:** SC-68b scar+wider kept; SC-69 refused cost deepened.
 - Deck refusal + factor corridor bite; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.  
-- **Tissue:** Brutus gull-lawsuit twitch + crewman snort on “collecting” (humour ON, non-F4).
+- **Tissue:** Brutus gull-lawsuit twitch + crewman snort on “collecting” (humour ON, non-F4).  
+- **Expansion D10:** Mate + coil-boys witness “collecting” as eat-vs-philosophy—deck social beyond factor.

@@ -48,7 +48,9 @@ The spokesman weighed the purse with his eyes, not his hands. “Partial,” he 
 
 Decimus almost grinned—the old cheer that had opened mornings—and stopped it before it became a performance. “Then taste it and still hold the hinge. Next week’s apology is still coin I have to find.” The spokesman barked once—short, surprised—and the yard heard it as weather, not mutiny. Decimus scheduled the rest of the pay talk for morning and hated that mornings now had prices.
 
-He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply—and knew, privately, that praise was thinner than grain. The same week he wrote Plancus again—shorter, less perfume—asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road. Plancus’s answer arrived in a prettier hand than the ask: admiration, a warning that Antony’s appetite was “understood,” and a regret that neither grain nor cohorts could be spared “while his own theatre remained unsettled.” No date. Decimus set the pretty tablet beside Antony’s pressure-letters. Soft refusal and hard threat stacked the same height on the table.
+He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply—and knew, privately, that praise was thinner than grain. The same week he wrote Plancus again—shorter, less perfume—asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
+
+The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on one boot and perfume still clinging to the other—Plancus’s weather made flesh. “He admires your hinges,” the man said, practising the pretty line. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *yet*, if you pressed. *Yet* is not a day on a road.” Soft refusal with a human face stacked the same height as Antony’s hard threats on the table. Decimus dismissed the man before admiration could invent another perfume.
 
 A southern courier arrived near dusk with dust on his cloak and a packet that smelled of harbour pitch. Cleopatra’s people had sailed—queen and boy both—talking continuity to anyone who asked, not flight. The courier said it like marketplace weather: ships that left looking inevitable. Decimus did not chase the rumour into Alexandria. He had hinges. He had Antony’s hunger. A queen on salt water was confirmation that one fuse had left Italy without needing his map to light it. He set the packet under the stone with Antony’s courtesy-threats and did not invent a mosaic for a court he could not hear.
 
@@ -68,4 +70,5 @@ At night he walked the wall-walk and tasted snow early. The key in his chest cut
 **Act5 ordeal:** SC-71/72 folded into SC-70 Decimus camera; one primary POV held.
 **Final integrated / Decimus seam:** Plancus refuses grain/cohorts “while his own theatre remained unsettled” — concrete non-support before Mutina, not omniscient betrayal.
 - Envoy swap-talk → threshold complaint; CLEO sail courier; Plancus soft refuse; Sextus margin unease; sole Decimus dwell (G1).  
-- **Tissue:** Levy “partial” bite + Decimus almost-cheer (humour ON, character-true); census label strip.
+- **Tissue:** Levy “partial” bite + Decimus almost-cheer (humour ON, character-true); census label strip.  
+- **Expansion D11:** Plancus delay as human face — courier who ate at his table brings *yet* without a road date.

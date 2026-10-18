@@ -62,6 +62,10 @@ Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased�
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said—not the Forum’s poetry-Capua, the dated one, the after-Parthia promise that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note—and Capua unpaid had just learned it could walk without waiting for clerks.
 
+Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman—jug still empty, Domus-adjacent by the seal on her belt—shouted at him. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove; the jug fell and broke; water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge: fuller wanting permission, household wanting water to stay water, Capua still unpaid in Laberius’s fist of air.
+
+An older veteran—scar through the lip, no torch—caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” Laberius felt the cost change without a gag: refusal had just priced him as the man who would not burn for unpaid land while other men burned for the same unpaid word. He did not argue. Argument would have been a second yes.
+
 By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke—and Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
 
 ---
@@ -95,7 +99,8 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).  
 - // M5: Antony speech held as refrain (lightly compressed); not blank verse.  
 - **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.  
-- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
+- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.  
+- **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks)—not gag.
 
 ---
 

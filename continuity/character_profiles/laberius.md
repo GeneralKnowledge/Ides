@@ -1,42 +1,52 @@
 # Sex. Laberius Cordus (F3)
 
 **Type:** Fictional · Regular POV  
-**Planning dossier:** `story/characters/F3_laberius.md`
+**Subplot ownership:** T4 (Capua / land veteran)
 
-## Identity
-Centurion mid-level; Gaul/Munda veteran; eagle/pay theology.
+## Desire
+A dated donative / Capua dirt — paymaster love over god-love.
 
-## Core drive
-Keep the century from becoming a gap; judge Rome by donatives and scars.
+## Misbelief
+If Caesar’s name is on the wind, dirt will arrive; after the paymaster dies, rage can still wait for clerks.
 
 ## Soft spots / fears
-Wrong signals; friends open at the neck; farms promised by dead men; clean-sandal naming of success.
+Unpaid gaps; philosophers’ crowns; torch lists; Mutina mud drowning the walk.
 
 ## Perception filter
-Mud, shield rim, which eagle stands; yell-rumours vs shoulder-held facts.
+Boots, donative dates, who takes torches, Bread vs Senate.
 
 ## Voice & humour
-Short; gallows/pay jokes; Vibius grit. Not constitutional theory.
+Camp dry. Capua-face gags stripped after plant; “Capua argues later” is cost not snort kit.
 
-## Loyalty map
-Left-hand man · payday · whoever holds Caesar’s name that feeds · not Senate abstracts.
+## Off-page life
+Brazier talk; counting left-hand men; smelling horse-lines; not searching deserters.
 
-## Information boundaries
-Local military truth only; Pansa cause open (AMB-2); does not know Cassius’s hill in the dust.
+## Relationship matrix (attitude)
+
+| Person | Act 1–3 | Act 4–5 |
+|--------|---------|---------|
+| Vibius/Gaius | Contubernium | Mud brothers |
+| Caesar | Paymaster love | Dead date |
+| Liberators | Torch temptation | Philosophers did this |
+| Octavian/Antony | — | Who feeds now |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 3 | Capua prayer; mopping |
+| Pressure | 13, 19 | Powder; funeral Capua named |
+| Cost | 24, 28 | Veterans listen; mud echo |
+| End | 30, 33–34 | Lists soil; Philippi field |
 
 ## Behavioral tells
-Fight for the man on your left; carries friend’s split boot; hand on cracked eagle staff; refuses dual Mutina/Philippi identical openers.
-
-## Book 1 arc
-Munda (Ch 3) → land powder (Ch 13) → funeral rage (Ch 19) → veteran listen (Ch 24) → Mutina ditch (Ch 28) → Philippi dust (Ch 33).
+Fist on air not wood; notes who takes torches; fight for man on left.
 
 ## Must
-Limits of knowledge respected; pay over liberty speeches.
+Capua as changed cost after Ch 19.
 
 ## Must not
-Secret Liberator legion on Ides; modern NCO cartoon; eloquent SPQR sincerity without pay.
+Eloquent theory; comic-only veteran.
 
 ## Consistency questions
-- Fact vs yell distinguished?
-- Eagle/boots physical before thesis?
-- Mutina vs Philippi entry varied?
+- Capua named when cost changes?

@@ -1,0 +1,49 @@
+# C. Trebonius
+
+**Type:** Historical · Supporting (promoted)  
+**Function:** Monday leash; hold Antony with business  
+**Subplot ownership:** Intersects A (spare cascade)
+
+## Desire
+Survive Mondays as the polite half of other men’s courage — and keep consuls talking.
+
+## Misbelief
+Mildness and Gaul talk can hold a living consul long enough for a Senate to finish being knives.
+
+## Soft spots / fears
+Being the bore who invents courage for others; Glaucia selling soft versions.
+
+## Perception filter
+Cups not drunk; provincial papers; who likes to be lingered with.
+
+## Voice & humour
+Mild as Monday; jokes that look like thirst.
+
+## Off-page life
+Practicing longer Mondays; corridor complaints after festival courtesy.
+
+## Relationship matrix (attitude)
+
+| Person | Act 2–3 |
+|--------|---------|
+| Cassius | Takes Monday assignment |
+| Decimus | Clasp confirming hunt |
+| Antony | Target of talk |
+| Brutus | Needs Casca more than essays |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 7–9 | Monday; spare logistics |
+| Choice | 13, 15 | Leash tasked; portico hold |
+| End | Post-Ides | Off-page eastern fate (not Actium plot) |
+
+## Behavioral tells
+Empty-hand sip; mildness thins for attendant only.
+
+## Must
+Mercy as schedule, not moral centre of Ides.
+
+## Must not
+Become Ides moral centre; ops genius via Glaucia.

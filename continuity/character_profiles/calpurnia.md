@@ -1,41 +1,55 @@
 # Calpurnia
 
 **Type:** Historical · Limited POV  
-**Function:** Household dread; dream veto attempt; cannot stop the morning
+**Function:** Domestic dread; DREAM-1; stay-ask that fails  
+**Subplot ownership:** T1 (household INF pressure)
 
-## Identity
-Caesar’s wife; Domus Publica; DREAM-1 experiencer.
+## Desire
+Keep Caesar inside the house’s morning — call it gods, illness, anything that is not the street.
 
-## Core drive
-Keep him home — body knowledge against optics.
+## Misbelief
+If she holds hard enough, optics will yield to a wife’s hands.
 
 ## Soft spots / fears
-Dream pediment/stab; open door; being overruled by cheer and schedule.
+Sleep; open doors; attendants inventing audiences; Mars-arms noise unproven (AMB-3).
 
 ## Perception filter
-House concrete; sleep like running; dread without full political vocabulary.
+Pediment cracks, breath counts, basin pauses, which doors get cheerful visitors.
 
 ## Voice & humour
-None. Controlled until dream breaks it.
+Scraped, few words. Humour OFF in dread peaks.
 
-## Loyalty map
-Caesar · household women (Pallas, Nysa orbit).
+## Off-page life
+Counting breaths; being dressed into safe-looking mornings; sending Nysa; not sleeping after.
 
-## Information boundaries
-Does not run the conspiracy; NOTE-1 fragment path is Nysa’s, not hers to solve.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 |
+|--------|---------|-------|
+| Caesar | Fear-love; stay-ask | Lost argument |
+| Nysa/Pallas | Temporary country of cloth | Messengers of dread |
+| Decimus | Soft-hour weather | Cheer at the door |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 12 | Lesser nightmares |
+| Pressure | 14 | Pediment dream; stay |
+| Cost | 15 | Morning persuasion fails |
+| End | 14–15 fringe | Lives in aftermath off-page |
 
 ## Behavioral tells
-Body veto; fails against Decimus open hand; morning omens.
+Hands on forearm; nails in palm; refuses to make dream smaller with words.
 
-## Book 1 presence
-Ch 12, 14–15 primarily.
+## Information boundaries
+No Senate ops; AMB-3 on divine proof.
 
 ## Must
-AMB-3 — dream origin unconfirmed by narrator.
+Dread lived, not captioned omen list only.
 
 ## Must not
-Cassandra cartoon; anachronistic manifesto; humour in dread scenes.
+Political strategist; confirmed prophet.
 
 ## Consistency questions
-- Is dread physical/house-bound?
-- Does Decimus’s fetch win without making her foolish — only outvoted?
+- Object/body dread over thesis?

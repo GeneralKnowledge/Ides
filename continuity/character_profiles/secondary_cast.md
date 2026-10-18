@@ -2,20 +2,16 @@
 
 Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 
+**Promoted to full files:** Porcia · Agrippa · Trebonius · Lepidus · Plancus · Galba · Phileros — see Index.
+
 ---
 
-## Historical supporting
+## Historical supporting (remaining table cards)
 
 | Name | Role in Book 1 | Drive / tell | Must not |
 |------|----------------|--------------|----------|
-| **Porcia** | Brutus’s wife; pressure without comfort | “Peace required a plan”; watches hands | Soften into cheerleader only |
-| **Agrippa** | OCT loyalty-as-waiting | Listens; vote by stillness; ditch markers | Steal OCT’s learning arc |
-| **Trebonius** | Holds Antony outside; “Monday” logistics | Mercy as schedule | Become Ides moral centre |
-| **Lepidus** | Soft smile / useful weight; Bononia | Silence, not cartoon villain | Confirmed sole Decimus-killer beyond rumour |
-| **Plancus** | Soft praise, delay, refused grain | Pretty tablets; no date | Omniscient betrayal narration |
 | **Hirtius** | Consul; dies Mutina (Laberius-knowable) | Clean reputation vs mud | POV required |
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
-| **Ser. Galba** | Recruit; brother’s winter / debt price | Honour timing vs grain | Hive-mind recruit |
 | **Philippus / Atia** | OCT safety pressure | Refuse name / cushions | Destiny coaches |
 | **Sextus Pompeius** | Western sea knife (secondhand) | Rumour dual reports | On-page Actium path |
 | **Helvius Cinna** | Wrong name lynched | Crowd ecology | Joke-only treatment of death |
@@ -31,7 +27,6 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **A. Visellius Ralla** | F4 / SIDE-1 | Dead debtor; tablets; ash later | Solve Ides |
 | **C. Septimius Bucco** | Antonian cash | Bribe courier mark | Mastermind |
 | **L. Statius Paullus** | Basilus orbit | Soften-debt ask | Replace Cassius |
-| **Phileros** | Domus door | Drink-loyal to key-holder; delays | NOTE-1 sole author |
 | **Medullina** | Subura / F1 | Wants senator names; gets chickens | Omniscient broker |
 | **Sosia** | F4 collector | Impatient; mutters philosophers | Steal F4 humour |
 | **Glaucia** | Trebonius | Misreads shouts | Ops genius |

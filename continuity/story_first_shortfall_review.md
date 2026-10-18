@@ -15,7 +15,7 @@ Original verdict (do not export): correct **before** gold-edge + Act 5 ordeal + 
 Interim “decision cold-read yes” after gold dwell: **withdrawn** by deep audit.  
 Anti-formula densify: **done** — floor 0–1 targets (Ch 13/7/20/23) cleared on those files.
 
-**Current verdict:** criticism-resistant finished-line still **not automatic**. Galba/Capua + warehouse Ch 18 + Act 5 humour cracks: **paid/started** in `residual_tissue_densify_pass_log.md`. Residual: gravity, cast-wide play, remaining desert. **Do not gate densify on author cold-read.**
+**Current verdict:** criticism-resistant finished-line still **not automatic**. Expansion architecture + character bible now live (`continuity/expansion/`). Residual thinness is **missing grandeur/subplots/rooms**, addressed by deposit map — not another cold-read gate.
 
 ---
 
@@ -103,12 +103,12 @@ Grouped as in `craft_editorial_pass_1c.md` / `mid_tier_pass_plan.md` §3.
 
 Act 5 ordeal + law sweep + gold dwell + deep audit + anti-formula + **residual tissue densify: done** (`residual_tissue_densify_pass_log.md`).
 
-**Next:** keep densifying soft joints (gravity / cast-wide play / remaining humour desert) without cold-read gate.
+**Next:** Waves 1–3 + D22 fringe LANDED (~50.7k). Further LEN-1 via new mapped beats or selective densify only.
 
-**Not next:** another ≥2-laws sweep; second gold dwell; treating tissue seeds as finished-line.
+**Not next:** another ≥2-laws sweep; second gold dwell; padding to word count; treating architecture as finished novel.
 
-Optional skip: gold spine Ch 14–16 reopen (protect; spot-check only).
+Optional skip: gold spine Ch 14–16 knife core reopen (protect; fringe mesh only).
 
 ---
 
-*End shortfall review. Next: soft-joint densify without cold-read gate.*
+*End shortfall review. Expansion architecture + first deposit waves landed; LEN-1 still open.*

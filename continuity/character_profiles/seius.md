@@ -1,42 +1,52 @@
 # M. Seius Vestalis (F2)
 
 **Type:** Fictional · Regular POV  
-**Planning dossier:** `story/characters/F2_seius.md`
+**Subplot ownership:** T3 (money street / cowardice economy)
 
-## Identity
-Junior elite; debt; almost-recruit; majority cowardice named prudence.
+## Desire
+Climb without burning — applause bought, prudence sold, name off lists.
 
-## Core drive
-Advance without burning — congratulate, vanish, keep the door on its hinges.
+## Misbelief
+Flinching keeps doors on hinges; holiness of absence from a list is virtue.
 
 ## Soft spots / fears
-Baths recruitment cold; Antonian veterans; Seia Prima’s expectations; petitions under sleeves.
+Bath recruitment cold; Seia’s expectation trap; neighbours with tablets under sleeves; Antonian veterans.
 
 ## Perception filter
-Etiquette as vane; which dinners are safe; who will still lend a mule.
+Who clasped; which dinner is near vs far; locks as theology.
 
 ## Voice & humour
-Awkward; wrong-time laughs; mottos only when they don’t replace events.
+Wine-bright public; spine already exiting. Seia’s dry tax on peacetime crops lands; he almost smiles.
 
-## Loyalty map
-Household · self · weak admiration of Brutus from distance · fear of Antony · creditor F4.
+## Off-page life
+Cancelling near dinners; rehearsing congratulations; buying oil so hands look busy.
 
-## Information boundaries
-Almost-knowledge of recruitment; not ops; SIDE-1 adjacent only via elite gossip if at all.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3–5 |
+|--------|---------|---------|
+| Seia Prima | Status auditor | Harvest-carefully pressure |
+| Liberators | Almost-recruit | Petition refuse |
+| Hordeonius | Rate weather | Lists survivor shame |
+| Caesar/Antony | Applause market | Whoever wins rumour |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 2, 7 | Debt atrium; Lupercalia pallor |
+| Pressure | 10 | Soft-hour almost |
+| Choice | 23 | Petition refuse |
+| Cost | 23, 30 | Block story; list absence shame |
 
 ## Behavioral tells
-Clasp hard then soft; stomach timing; refuses Quintus’s petition signature (Ch 23); loses block goodwill; counts mule-lenders.
-
-## Book 1 arc
-Debt nod (Ch 2) → almost-recruit (Ch 10) → flinch dinner (Ch 23) → lists danger (Ch 30).
+Stomach cue; clasp hard then soft; locks checked as theology.
 
 ## Must
-Flinch become event with cost; not heroic late courage.
+Cowardice priced socially, not motto-only.
 
 ## Must not
-Replace Brutus as moral centre; know more ops than Cassius.
+Secret hero; series villain.
 
 ## Consistency questions
-- Is cowardice a priced choice in the room?
-- Wife/neighbour pressure visible?
-- Aphorism replacing the encounter? (fail if yes)
+- Flinch as priced event?

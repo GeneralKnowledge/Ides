@@ -59,7 +59,7 @@ Octavian almost laughed, then turned it into a cough so the older men would not 
 
 They drilled again until the erased dust-route lived in Octavian’s legs as much as in his head. An officer asked whether the boy would last a month east. Agrippa answered with water and another lap, which was clearer than speech. Octavian did not thank him in front of the men. Thanks announced need.
 
-That night he slept sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of the reserved place offered to the wrong chest, then of missing a drill step and being laughed at by men whose names he needed. Both dreams felt like the same inventory.
+Before sleep they shared a heel of bread Agrippa had bullied from a cook who respected fists more than kin names. No officers. No Parthia sticks in dust. Just the ordinary theft of calories and Agrippa’s rule spoken twice without theatre: no shadows between them. Octavian practised a thank-you and discarded it. Thanks announced need. He bumped Agrippa’s shoulder back—clumsy, almost play—and lay down sore, young, and unfinished—exactly as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of the reserved place offered to the wrong chest, then of missing a drill step and being laughed at by men whose names he needed. Both dreams felt like the same inventory.
 
 ---
 
@@ -70,4 +70,5 @@ That night he slept sore, young, and unfinished—exactly as far from Senate hea
 - **S-A2 / S5 / G1:** Single Octavian POV; Forum→Apollonia bridged as continuous unfinished inventory (no mosaic cut). Attendant gap retained.  
 - Next: Ch 6 perpetuo.
 **Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.
-- **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.
+- **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.  
+- **Expansion D18:** Apollonia ordinary — shared bread + soft-name ban lived as friendship behaviour (not caption).

@@ -26,7 +26,9 @@ Then he rode with dwindling staff into country that did not care who freed the R
 
 “Let them,” Decimus said. “We take the west fork before dark. The east ford is watched—I smelled horse-lines on the wind this morning. If Plancus meant to meet us, he would have sent a date by now. We do not wait for dates that practice absence.”
 
-The aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn't stop to fix it. He checked his horse’s mouth for sores and found none. The sores were in the map: every promised friend a thinner line than yesterday.
+The second aide—older, tablet-hand still inked from Mutina’s last courtesy copy—spoke the count Decimus had been avoiding as a list of people. “Plancus: admiration, no cohorts, no date. Lepidus: promised meeting, messenger who would not take a return tablet. Pacuvius’s orbit: Antony’s storm still eating roads we needed soft. Three soft allies. Zero wagons. That is the betrayal number—not weather.”
+
+Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fourth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn't stop to fix it. He checked his horse’s mouth for sores and found none. The sores were in the map: every promised friend a thinner line than yesterday.
 
 They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought—briefly, without speech—of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
 
@@ -94,4 +96,5 @@ Still not serene. Still learning where ruthlessness lived in the body—usually 
 **Act5 ordeal:** SC-82 left sensory; SC-83 deepened so Bononia reads as consequence of Decimus gone.
 **Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.
 - Road ordeal — humour OFF at Decimus death; ranks/Senate pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny.  
-- **Tissue:** Agrippa “homework with fasces” bite after pay-line (humour ON, OCT refuses smile)—playfulness without caption.
+- **Tissue:** Agrippa “homework with fasces” bite after pay-line (humour ON, OCT refuses smile)—playfulness without caption.  
+- **Expansion D14:** Pre-ford staff names Plancus / Lepidus / Pacuvius-orbit as soft-ally betrayal count (not abstract number).
