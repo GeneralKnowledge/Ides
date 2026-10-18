@@ -2,6 +2,8 @@
 
 Author closed reading after Ch 14–19. P3 items were **design decisions before draft**. Remedies in reading notes are direction, not scripts.
 
+**Process companion:** `archive/reports/author_feedback_use_after_52.md` — selective implementation is intentional; #52 does not prove every general concern is resolved book-wide.
+
 ---
 
 ## P3-a — Ensemble fog / Campbell (§5–§7)

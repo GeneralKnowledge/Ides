@@ -1,8 +1,10 @@
 # Author reading notes — post-merge (Oct 2026)
 
-**Status:** Reading closed after golden chapters (Ch 14–19). Notes below are the working brief for the next edit pass — not a new audit framework.
+**Status:** Reading closed after golden chapters (Ch 14–19). Notes fed selective P0–P3 work merged in #52. **Not** proof every instance of every problem is fixed.
 
 **Context:** Housekeeping stopped; DOCX regenerated; author read Ch 1–6 then skipped to golden Ch 14–19; stopped there — enough to work with; not reading the rest for now.
+
+**How feedback was used:** See `author_feedback_use_after_52.md` — general comments → principles; selective scene work; some decisions *not* to change. Next read: judge whether underlying problems still feel present; do **not** launch another full-book pass yet.
 
 ---
 
