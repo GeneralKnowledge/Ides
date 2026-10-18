@@ -2,7 +2,8 @@
 
 **Date:** 2026-10-18  
 **Branch:** `cursor/lock-architecture-audit-cb1d`  
-**HEAD inspected:** `68f5845` (*Integration Revision 1.0* on `main`)  
+**HEAD inspected (baseline):** `68f5845` (*Integration Revision 1.0* on `main`)  
+**Audit commit tip:** `cc75071`  
 **Pass type:** Architecture / policy audit. **No chapter prose edited.**
 
 **Governing principle:** Lock what must remain true; preserve freedom over *how* the story makes it true.
