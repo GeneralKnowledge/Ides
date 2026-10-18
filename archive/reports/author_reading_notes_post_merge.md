@@ -381,6 +381,27 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 18. Antony’s opinion of Octavian (and opinions generally)
+
+**Author:** Antony’s opinion about Octavian should be explored more. Probably could apply universally.
+
+**What already exists (thin, functional):**
+
+- Profile: misbelief “the boy is furniture”; arc underestimation → forced bargain; tell = dismiss with body-language/joke, not thesis.
+- Ch 22 Ops: laugh + *squeak* / *shadow*; Fulvia warns teeth; veteran pay-door dismissed; writing would give squeaks a shape.
+- Ch 18 will: Antony hears fringe (boy/name/300) as cohort-noise; owns publicity of the seal more than he *prices the boy as rival*.
+- Street/wine-shop chorus (Ch 21–24) echoes underestimation; Antony’s private revision after Mutina / fasces / Bononia is light — Ch 30 is coalition gravity and Cicero blank more than “I misread him.”
+
+**Gap the note names:** opinion is a **register** (joke/contempt) more than a **lived attitude** that thickens, cracks, or revises when the boy stops being furniture. Cost of misread is structural (bargain table) more than Antony *feeling* the mistake.
+
+**“Universally” reading:** same thinness may apply across major attitude lines — characters know each other as functions (tool, nuisance, soft ally, furniture) without enough private opinion-dwell. Cousins to watch if the read keeps asking: Cicero→Octavian (aim/tool), Brutus/Cassius→Antony (spared sword), Antony→Decimus (prey), Octavian→Antony (after underestimate ends). Not a commission to essay every dyad — just don’t leave attitude as one joke forever.
+
+**Later (if pursued):** thicken Antony’s Octavian take in existing rooms (Ops aftermath, Mutina pressure, Bononia silence) — appetite, insult, recalculation — without prophecy or Shakespeare clown; optionally spot-check 2–3 other dyads for the same one-liner problem.
+
+**Do not yet:** mid-read Antony monologue pass or universal relationship rewrite.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
