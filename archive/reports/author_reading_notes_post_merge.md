@@ -205,6 +205,26 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 11. Ch 14 — “Someone would talk” as missed subtle humour (want more of this)
+
+**Line (Decimus, fetch beat):**
+
+> If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
+
+**Author:** Good opportunity for subtle humour — cut to someone *talking*, or move the line to a moment that makes that happen. Want **more of that kind of thing**.
+
+**Nearby on the page already:** “someone argued about fish as if fish were the Republic” sits just above the line — almost the joke’s setup, but the “Someone would talk” stays interior thesis instead of landing on a mouth.
+
+**Craft shape (for later, not a commission now):**
+
+- **Cut-to-talk:** after the line, hard cut to Phileros starting “He may not—”, or a street mouth, or a conspirator’s nervous sentence — the book *shows* that someone always talks.
+- **Move the line:** plant it so it crowns an actual overheard scrap (fish argument, Nysa/Phileros “Mats,” vestibule hiss) — irony = Decimus fears political leakage while the house leaks ordinary noise.
+- **Family of beat:** ego/situation irony without wink — same entertainment register as Batiatus solemnity and *Rome*-show timing; scarce in talk/metaphor-heavy stretches (§6).
+
+**Do not yet:** rewrite Ch 14 mid-read. Flag as a concrete example of the humour/drive gap: the draft often *states* the wry beat instead of *staging* it.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
