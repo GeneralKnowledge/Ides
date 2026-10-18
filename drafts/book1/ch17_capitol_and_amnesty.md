@@ -21,13 +21,13 @@ The Capitol was height, and height was supposed to mean clarity.
 
 Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after.
 
-Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum did not become a choir. It became a rumour mill with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
+Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 
 “They will come round,” said a man beside Brutus who needed it to be true.
 
 Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: *we have killed a man the city loved more than it loves our vocabulary.*
 
-He did not say it. Saying it would make it a motion.
+He didn't say it. Saying it would make it a motion.
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Brutus kept each report as *incomplete*. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
 
@@ -83,7 +83,7 @@ Lepidus spoke carefully, as Lepidus always did when weight leaned on him—not w
 
 “Negotiation preserves my throat,” Antony said. “And yours. And the chance to make the people choose us when they see the body.”
 
-He did not yet know how he would show the body. He knew only that a corpse in the right light was worth more than a thousand virtuous daggers on a hill.
+He didn't yet know how he would show the body. He knew only that a corpse in the right light was worth more than a thousand virtuous daggers on a hill.
 
 Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
@@ -126,21 +126,21 @@ Brutus’ people wanted praise and protection. Antony’s people wanted the dict
 
 Amnesty. The word went around the marble like wine. Amnesty for the killers; validity for Caesar’s acts. A bargain with two handsome hands and a hidden mouth.
 
-Cicero said, “Peace is not surrender to tyranny. Peace is the space in which law returns.”
+Cicero said, “Peace buys the Republic room to breathe. Law returns in that room, or we burn the house to spite one dead man.”
 
 Someone asked if Caesar’s arrangements—colonies, magistracies, the sticky gifts already promised—would stand.
 
 “If they fall,” Cicero said, quick, “half of Italy stands up with a claim and a torch. We are not children.”
 
-He did not hear, in his own sentence, any trap’s hinge. He heard prudence—and liked the sound of himself hearing it. He saw Atticus in his mind as audience and felt the old warmth of being the man who could still arrange a city with clauses.
+He didn't hear, in his own sentence, any trap's hinge. He heard prudence—and liked the sound of himself hearing it. He saw Atticus in his mind as audience and felt the old warmth of being the man who could still arrange a city with clauses.
 
 A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again, which was not a dream so much as a habit.
+He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
 
-On the seventeenth, when the shape of settlement had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and did not dream of funerals. He dreamed, again, that he was consul.
+On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn't dream of funerals. He dreamed, again, that he was consul.
 
 ---
 

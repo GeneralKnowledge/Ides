@@ -22,7 +22,7 @@ Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens h
 
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb—habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. Nysa put that beside the bird and the chickens and did not decide which was true.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. Nysa put that beside the bird and the chickens and didn't decide which was true.
 
 Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
@@ -46,11 +46,11 @@ Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in so
 
 They said—someone always said—that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
-“Balbus,” he told the empty room, because Atticus was not there and the room would not contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
+“Balbus,” he told the empty room, because Atticus wasn't there and the room wouldn't contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
 He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were oxygen. Oxygen could also burn.
 
-He did not imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man—himself, confessedly—timed the Philippics of the soul correctly. Parthia was a clock for Caesar. For Cicero it was still a topic.
+He didn't imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man—himself, confessedly—timed the Philippics of the soul correctly. Parthia was a clock for Caesar. For Cicero it was still a topic.
 
 He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him. Intelligent men stayed blind that way and still felt busy.
 
