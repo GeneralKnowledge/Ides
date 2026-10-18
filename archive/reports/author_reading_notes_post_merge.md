@@ -307,6 +307,26 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 ---
 
+## 15. Brutus — prior forgiveness / closeness → betrayal weight → real guilt
+
+**Author (around Curia / golden):** Brutus should previously *think about* Caesar’s forgiveness after the war. Their closeness should make the killing feel like betrayal even if justified. Guilt should be real once consequences land. May stretch a little **behind** the story’s present opening.
+
+**What already exists (thin, not absent):**
+
+- Ch 4: clemency as soft chain in Brutus’s house; burned invitation; “spared life” as costume.
+- Ch 8: “Caesar spared me. That debt sits in this house…”
+- Ch 16 (at the body): one compressed crush — “memory of dinner, of Caesar’s forgiveness after war, of the ugly debt of being spared” — then flattened for ancestors.
+
+**Gap the note names:** forgiveness is often **stated as debt furniture**, not lived as intimacy (shared jokes, trust, soft hours) that would make the knife feel personal. Post-Ides guilt may under-pay once Capitol/funeral/Philippi costs arrive — more consequence than conscience.
+
+**Chronology tension:** Pharsalus spare (48) sits **before** dinner-first open (late 46). Earning “forgiveness after war” may need either a Brutus memory/dwell that doesn’t reopen Ch 1–3 polish wars, or a mid-book flash that feels earned — “stretch behind the story” acknowledged.
+
+**Later (if pursued):** thicken pre-Ides Brutus/Caesar warmth in existing rooms; let post-Ides guilt be behavioural (not essay); don’t invent a new Act 0 unless the read proves memory alone won’t carry.
+
+**Do not yet:** write a Pharsalus prologue mid-read.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
