@@ -33,7 +33,15 @@ META_PREFIXES = (
     "Canon:",
     "Soft date:",
     "Dates:",
+    "Place:",
+    "Continues:",
+    "Set-piece:",
+    "Note:",
+    "Chronology:",
 )
+
+# Bold-labelled craft lines: **G1:** …, **Opening prose pass:** …, whole-line **tags**
+CRAFT_BOLD_LINE = re.compile(r"^\*\*")
 
 
 def git_short() -> str:
@@ -98,13 +106,15 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
         if not line or line == "---":
             continue
 
-        if line.startswith("**") and line.endswith("**"):
-            continue
-        if line.startswith("**") and "·" in line:
+        # All leading-** lines in this manuscript are craft/header metadata, not fiction.
+        if CRAFT_BOLD_LINE.match(line):
             continue
         if any(line.startswith(p) for p in META_PREFIXES):
             continue
         if line.startswith("//"):
+            continue
+        # Continuity bullets that escaped a ## Continuity block
+        if line.startswith("- **") or line.startswith("* **"):
             continue
 
         sc = re.match(r"#\s+SC-\S+\s+[—-]\s+(.+)", line)
@@ -180,11 +190,29 @@ def build_doc(
     return doc
 
 
+def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]]) -> None:
+    """Fail loud if craft tags leak into reading body text."""
+    bad = re.compile(
+        r"^\*\*|\bG[12]:\b|MUST_EXPRESS|Law-sweep|Anti-formula|Opening prose pass|"
+        r"Dinner-first|Mid-tier pass|M5 polish|Phase 1[A-G]|Final integrated|"
+        r"Act5 ordeal|S-A\d|Gold dwell|Expansion D\d",
+        re.I,
+    )
+    leaks: list[str] = []
+    for num, _title, blocks in chapters:
+        for kind, text in blocks:
+            if kind == "body" and bad.search(text):
+                leaks.append(f"ch{num}: {text[:100]}")
+    if leaks:
+        raise SystemExit("Craft metadata leaked into export body:\n  " + "\n  ".join(leaks[:20]))
+
+
 def main() -> None:
     EXPORTS.mkdir(exist_ok=True)
     sha = git_short()
     all_ch = [parse_chapter(p) for _, p in chapter_files()]
     assert [n for n, _, _ in all_ch] == list(range(1, 35)), "Expected chapters 1–34"
+    assert_reading_clean(all_ch)
 
     label = (
         "Book 1 reading export · dinner-first opening · ends at Philippi · "
