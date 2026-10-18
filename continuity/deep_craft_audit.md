@@ -122,6 +122,8 @@ Ch 8 control remains the cleanest anti-pattern page: group pressure without “T
 
 ## 7. Exclude list (do not reopen)
 
+*Snapshot for this pass’s craft theatre. Live lock policy: [`lock_architecture_audit.md`](lock_architecture_audit.md) — PROTECT ≠ immunity; CHOREO-1 ≠ A5.*
+
 - AMB-1 · NOTE-1 dual · SIDE-1/1b OPEN-0 · CLEO-1 · OCT≠Augustus · no Actium  
 - CHOREO-1 knife pile · disputed last words  
 - Ch 16 Curia core · Ch 31 Formiae  

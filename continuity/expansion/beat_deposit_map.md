@@ -2,11 +2,25 @@
 
 **Rule:** Deposit only what is listed (or a strict subset). One dramatic centre per new/expanded beat.  
 **CHAPTER_MAP** updates only after a beat is marked **LANDED**.  
-**Review 2.0:** Disposition classes guide *revision*, not automatic new prose.
+**Review 2.0:** Disposition classes guide *revision*, not automatic new prose.  
+**Lock tiers:** [`../lock_architecture_audit.md`](../lock_architecture_audit.md).
 
 Status key: `PLANNED` · `LANDED` · `DEFER` · `PROTECT` · `INTEGRATE` (landed but needs revision)
 
 Disposition key: **Earned** · **Useful** · **Under-integrated** · **Redundant** · **Protect**
+
+### What PROTECT means
+
+**PROTECT** = shield from quota padding, length-symmetry “evening,” and prove-again rewrites that damage what already works.
+
+It does **not** mean the scene is immune to:
+
+- correcting a real continuity error;  
+- improving a weak line or transition;  
+- a compelling POV/camera rearrangement that preserves the narrative/historical invariant;  
+- removing material that weakens the scene.
+
+Changes inside PROTECT material need **stronger justification** and dependent Continuity checks — not automatic rejection. D23 protects A5 + continuous-dream quality + Trebonius-outside consequence, not every CHOREO-1 ordinal as if it were Anchor A.
 
 ---
 

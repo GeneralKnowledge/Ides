@@ -2,17 +2,29 @@
 
 **Purpose:** Distinguish (1) historical A-facts we treat as fixed, (2) C-disputes we have *fictionalised*, (3) pure D inventions.
 
+**Lock tiers** (see [`lock_architecture_audit.md`](lock_architecture_audit.md)):
+
+| Tier | Means | Revisit |
+|------|-------|---------|
+| **Historical invariant** | Anchor outcomes / places / participants | Do not move |
+| **Narrative invariant** | Intended reader experience (e.g. AMB-1, NOTE-1 dual) | Preserve the *experience*; implementation may evolve |
+| **Continuity commitment** | Invented fact already relied on in prose | Durable; revisable if dependents + this log are updated |
+| **Structural preference** | POV map, chapter bundling, working staging | Guide; not a veto on a stronger demonstrated solution |
+| **Editorial guardrail** | Anti-padding, anti-formula, stopping rules | Keep purpose; allow evidence-led exceptions |
+
+**Protection ≠ immunity.** “PROTECT” / “gold spine” / “do not reopen” means: no quota padding, no prove-again passes, no collapsing invariants. It does **not** ban continuity fixes, weak-line improvement, or a compelling rearrangement that keeps the invariant.
+
 ---
 
-## Meta-canon (project rules) — LOCKED
+## Meta-canon (project rules) — historical / narrative invariants
 
 1. Certainty labels A/B/C/D mandatory for research claims.  
-2. No confirmed supernatural system in narrator voice (unless a future entry explicitly unlocks it).  
-3. Major anchors in `story/historical_anchors.md` are inviolable.  
-4. Octavian is not Augustus-in-waiting psychologically in 44.  
-5. Conspirators have plural motives; no hive mind.  
+2. No confirmed supernatural system in narrator voice (unless a future entry explicitly unlocks it). **(narrative invariant)**  
+3. Major anchors in `story/historical_anchors.md` are **historical invariants** (outcomes/places/participants — not every private staging).  
+4. Octavian is not Augustus-in-waiting psychologically in 44. **(narrative invariant)**  
+5. Conspirators have plural motives; no hive mind. **(narrative invariant)**  
 6. Shakespearean last words are **not** historical canon.  
-7. Ides location = Curia of Pompey / Theatre of Pompey complex.  
+7. Ides location = Curia of Pompey / Theatre of Pompey complex. **(historical invariant)**  
 8. Fictional characters may not overwrite A-outcomes.
 
 ---
@@ -25,17 +37,17 @@ Including: Caesar dies 15 Mar 44; will elevates Octavian; funeral riot; Mutina; 
 
 ---
 
-## Planning locks (Stage 2) — LOCKED
+## Planning locks (Stage 2)
 
-| ID | Decision | Notes |
-|----|----------|-------|
-| **POV-1** | Option A/D hybrid ensemble | `story/pov_lock.md` |
-| **POV-2** | Regular historical POVs: Decimus, Brutus, Cassius, Antony, Cicero, Octavian | Specials: Caesar sparse, Calpurnia, Servilia, Fulvia, Cleopatra |
-| **FIC-1..4** | Nysa, Seius, Laberius, Hordeonius | `story/characters/` |
-| **BEAT-1** | Five-act beat sheets | `story/beats/` |
-| **AMB-1** | M1 Caesar’s knowledge ambiguous to reader | |
-| **AMB-2** | Pansa poison rumour-only | |
-| **AMB-3** | No confirmed divine causation | |
+| ID | Decision | Tier | Notes |
+|----|----------|------|-------|
+| **POV-1** | Option A/D hybrid ensemble | **Structural preference** | `story/pov_lock.md` — review route for future changes |
+| **POV-2** | Regular historical POVs: Decimus, Brutus, Cassius, Antony, Cicero, Octavian | **Structural preference** (+ knowledge bans below) | Specials: Caesar sparse, Calpurnia, Servilia, Fulvia, Cleopatra |
+| **FIC-1..4** | Nysa, Seius, Laberius, Hordeonius | **Continuity commitment** | `story/characters/` — identities relied on in prose |
+| **BEAT-1** | Five-act beat sheets | **Structural preference** | `story/beats/` — outcomes > sheet labels |
+| **AMB-1** | M1 Caesar’s knowledge ambiguous to reader | **Narrative invariant** | May add evidence; must not *confirm* |
+| **AMB-2** | Pansa poison rumour-only | **Narrative invariant** | |
+| **AMB-3** | No confirmed divine causation | **Narrative invariant** | |
 
 ---
 
@@ -48,10 +60,11 @@ Including: Caesar dies 15 Mar 44; will elevates Octavian; funeral riot; Mutina; 
 - **Narrator:** Does **not** confirm divine origin (AMB-3).  
 - **Theories kept alive:** anxiety dream · true omen · later embroidery (characters argue).
 
-### NOTE-1 — Warning tablets
+### NOTE-1 — Warning tablets (**narrative invariant:** dual tracks)
 - **Historical Artemidorus-tradition note:** Exists in-story as a sealed warning pressed on Caesar on the way to the Senate; he keeps it unread among other papers (Suet. *Iul.* 81–82 tradition). Author of note remains foggy to most POVs.  
 - **F1 Nysa’s tablet:** A **separate, earlier, incomplete** household fragment (“danger from friends / stay home”) that is delayed/blocked and never becomes the unread Curia note.  
-- **Reader theories kept:** one note or two · F1’s fragment related or coincidence · deliberate interception.
+- **Reader theories kept:** one note or two · F1’s fragment related or coincidence · deliberate interception.  
+- **Revisit rule:** Plant wording, blockers, and emotional cost may evolve. **Do not merge** the two tracks into one note, or narrate them as the same object, without deliberate authorial reconsideration logged here.
 
 ### OMEN-1 — Manufactured vs ambiguous signs
 - **Human-manufactured (D, locked):** The Sibylline talking-point that “only a *king* can conquer Parthia” is deliberately floated by a Caesarian flatterer circle (not the Liberators) in Jan–Feb 44 to test kingship weather.  
@@ -66,53 +79,57 @@ Including: Caesar dies 15 Mar 44; will elevates Octavian; funeral riot; Mutina; 
 ### SIDE-1 — Parallel murder mystery
 - **Greenlit:** Yes.  
 - **Case:** In early Feb 44, a mid-tier debtor client of F4 Hordeonius is found dead; his tablets implicate both a Tier-B conspirator (Minucius Basilus orbit) and an Antonian agent.  
-- **Rules:** Does **not** alter A-events; feeds INF into Acts 2–3; solution may stay partially open (fan-theory friendly).
+- **Rules:** Does **not** alter A-events; feeds INF into Acts 2–3; solution may stay partially open (fan-theory friendly).  
+- **Narrative invariant:** Must **not** become the explanation for the Ides. Clues and ash pressure may densify; mastermind-as-Ides-cause may not.
 
-### CHOREO-1 — Working murder staging (C→fictional working order)
-Use for scene cards; mark as staging canon, not “history proven”:
+### CHOREO-1 — Working murder staging (**structural / continuity** — not Anchor A5)
+**Historical invariant (A5):** Caesar dies 15 Mar 44 at the Curia of Pompey; core conspirators participate; Octavian is not in the Curia.  
+**This entry:** Fictional *working order* for prose (certainty **C**). Prefer continuity with landed Ch 16; change only with deliberate review of dependents (Ch 15–17, cards).
+
+Working order (not “history proven”):
 1. Tillius Cimber petitions (brother’s recall).  
 2. Toga pull / signal.  
 3. Publius Casca first wound (neck/shoulder zone).  
 4. Caesar resists; chaos.  
 5. Blow cascade including Brutus; Caesar falls at Pompey’s statue base (tradition).  
 6. ~many wounds; “23” is later public number, not narrator forensic truth.  
-7. No Shakespearean Latin last words; optional choked Greek fragment heard differently by two witnesses (**C** preserved as disagreement).  
-8. Trebonius has Antony outside throughout.
+7. No Shakespearean Latin last words; optional choked Greek fragment heard differently by two witnesses (**C** / narrative stance: disagreement).  
+8. Trebonius has Antony outside throughout (**consequence chain** — treat as hard for Book 1 continuity unless a full spare-Antony redesign is logged).
 
 ---
 
-## Stage 4 writing locks — LOCKED
+## Stage 4 writing locks
 
-| ID | Decision |
-|----|----------|
-| **VOICE-1** | Close third person limited, past tense; no “little did he know”; no future epigraphs |
-| **TONE-1** | Soft: Spartacus *bite* + GRRM weight — Batiatus-style unintentional ego humour; GOT personality **blends** as lenses only (`writing/voice/TONE_SPARTACUS_GRRM.md`). Not Westeros cosplay; not camp drowning dread |
-| **SERIES-1** | Book 1 ends at Philippi emotional arc; sequel hooks only (land, Sextus, Antony–OCT) — no Actium draft |
-| **NAMES-1** | Minor cast frozen in `writing/NAMES_MINOR_CAST.md` |
-| **DRAFT-1** | First prose pass must follow `writing/LLM_WRITING_BRIEF.md` + `CHAPTER_MAP.md` + scene cards |
+| ID | Decision | Tier |
+|----|----------|------|
+| **VOICE-1** | Close third person limited, past tense; no “little did he know”; no future epigraphs | **Structural preference** (book voice) |
+| **TONE-1** | Soft: Spartacus *bite* + GRRM weight — Batiatus-style unintentional ego humour; GOT personality **blends** as lenses only (`writing/voice/TONE_SPARTACUS_GRRM.md`). Not Westeros cosplay; not camp drowning dread | **Structural preference** |
+| **SERIES-1** | Book 1 ends at Philippi emotional arc; sequel hooks only (land, Sextus, Antony–OCT) — no Actium as Book 1 plot | **Narrative invariant** (scope) |
+| **NAMES-1** | Minor cast listed in `writing/NAMES_MINOR_CAST.md` | **Continuity commitment** — new minors OK if logged; avoid silent renames |
+| **DRAFT-1** | *(Retired as active gate.)* First prose historically followed `LLM_WRITING_BRIEF` + `CHAPTER_MAP` + cards | **RETIRED process** — keep brief as craft aid |
 
 ## Gap-fill locks
 
-| ID | Decision |
-|----|----------|
-| **SAMPLE-1** | Voice gold = `writing/voice/SAMPLE_SC35_nysa.md` (tone anchor, not immutable plot beyond canon) |
-| **LEN-1** | Soft target 90–130k for Book 1; chapter map is the real unit |
-| **MAP-1** | `research/maps/rome_ides_schematic.svg` + Domus plan are binding relative geography |
-| **F5-OPT** | Amyntas optional for SC-87 only |
-| **FUNERAL-1** | Soft: public funeral + Antony speech **20 Mar 44** (`writing/reference/soft_chronology_pack.md`) |
-| **EXIT-1** | Soft: Liberators leave city Apr; linger Italy summer; Brutus sails **late Aug 44**; Cassius later |
-| **CLEO-1** | Soft: Transtiberim / Horti Caesaris working lodging; leaves Rome ~April 44 |
-| **DEC-PERS-1** | Working Decimus persuasion beats from Nicolaus/Plutarch composite (`ides_morning_sources.md`) |
-| **DIO-OMEN-1** | Mars-arms noise + door omen texture from Dio 44.17 (not Senate spears) |
+| ID | Decision | Tier |
+|----|----------|------|
+| **SAMPLE-1** | Voice gold = `writing/voice/SAMPLE_SC35_nysa.md` (tone anchor, not immutable plot beyond canon) | Preference |
+| **LEN-1** | Soft target 90–130k for Book 1; chapter map is the unit — **not** a completion gate | Preference / scale |
+| **MAP-1** | `research/maps/rome_ides_schematic.svg` + Domus plan are binding *relative* geography | Continuity |
+| **F5-OPT** | Amyntas optional for SC-87 only | Preference |
+| **FUNERAL-1** | Soft: public funeral + Antony speech **20 Mar 44** | Continuity (soft date) |
+| **EXIT-1** | Soft: Liberators leave city Apr; linger Italy summer; Brutus sails **late Aug 44**; Cassius later | Continuity (soft) |
+| **CLEO-1** | Soft: Transtiberim / Horti Caesaris working lodging; leaves Rome ~April 44 | Continuity (soft) |
+| **DEC-PERS-1** | Working Decimus persuasion beats from Nicolaus/Plutarch composite | Preference / continuity |
+| **DIO-OMEN-1** | Mars-arms noise + door omen texture from Dio 44.17 (not Senate spears) | Continuity texture |
 
-## Draft-start locks (from conversation intent)
+## Draft-start locks (history — not active gates)
 
-| ID | Decision |
-|----|----------|
-| **START-1** | First prose = **Batch A**, begin **Ch 14** (`continuity/draft_start_decisions.md`) |
-| **F5-1** | Skip optional Amyntas unless East needs a face |
-| **HUMOR-1** | Medium; Batiatus on F4/Cicero; near-off on Ides knives / Cicero death |
-| **SOFT-1** | FUNERAL-1 / EXIT-1 / CLEO-1 blessed for drafting |
+| ID | Decision | Tier |
+|----|----------|------|
+| **START-1** | First prose began **Batch A / Ch 14** (`draft_start_decisions.md`) | **RETIRED process** |
+| **F5-1** | Skip optional Amyntas unless East needs a face | Preference |
+| **HUMOR-1** | Medium; Batiatus on F4/Cicero; near-off on Ides knives / Cicero death | Guardrail / preference |
+| **SOFT-1** | FUNERAL-1 / EXIT-1 / CLEO-1 blessed for drafting | History |
 
 ## Still unlocked
 
@@ -123,4 +140,9 @@ Use for scene cards; mark as staging canon, not “history proven”:
 ---
 
 ## Process
-When locking: write ID, summary, certainty (A or D or “C→fictional choice”), affected files, and what theories remain alive for readers.
+When locking: write ID, summary, certainty (A or D or “C→fictional choice”), **tier**, affected files, and what theories remain alive for readers.
+
+When **revising a continuity commitment:** update this log, reconcile dependent chapters/Continuity notes, and preserve any deliberate reader-facing ambiguity. Do not pretend the old D-choice was historical A-fact.
+
+**Ambiguity densify (allowed):** New evidence, motives, or info-paths that keep multiple live theories.  
+**Ambiguity collapse (forbidden without logged reconsideration):** Narrator-confirmed supernatural; Caesar-knows operational plot; NOTE-1 merge; SIDE-1 as Ides master key.

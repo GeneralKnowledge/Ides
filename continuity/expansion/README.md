@@ -21,20 +21,26 @@
 
 ## Rules (non-negotiable)
 
-1. **Architecture before dump.** Act summaries + subplot tracks + deposit map exist before large prose dumps.  
+1. **Architecture before dump.** Act summaries + subplot tracks + deposit map exist before *large new* prose dumps. Line fixes and INTEGRATE revisions of landed deposits do not require a new architecture pass.  
 2. **Want/cost first.** New scenes change someone’s next choice. No padding to hit LEN-1.  
 3. **Story-first craft laws still bind** ([`../story_first_intrigue_plan.md`](../story_first_intrigue_plan.md)): rooms, corridor truth, callbacks, humour, play, gravity — **no** `Three…` census / warehouse kit / craft “exit-complaint” stage-direction.  
 4. **Subplots intersect Engines A/B** — they do not become a third mystery.  
 5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.  
 6. **Three novelist questions before any new beat.** What should the reader feel/wonder/understand? What human decision produces it? Why can’t existing prose do it? If any answer fails → **leave the manuscript alone.**
 
-### Hold locks
+### Hold locks (invariants vs preferences)
 
-AMB-1 · NOTE-1 dual · SIDE-1 OPEN-0 · CLEO-1 · OCT≠Augustus · no Actium · CHOREO-1 / Curia knife core · Formiae · disputed last words · gold spine not “evened” for length · Ch 8–9 not reopened to “prove again”
+**Must remain true (narrative / historical):** AMB-1 · NOTE-1 dual tracks · SIDE-1 OPEN-0 and not Ides-explanation · OCT≠Augustus · no Actium as Book 1 plot · A5 Curia of Pompey death · Formiae for Cicero · disputed last-words *stance* (no Shakespeare Latin as narrator truth).
+
+**Shielded from padding / prove-again (PROTECT ≠ immunity):** Gold-spine peaks (esp. Ch 16 continuous-dream quality); Ch 8–9 core rooms; Formiae / Philippi selective density. Continuity fixes, weak-line improvement, and compelling rearrangements that keep the invariant are allowed under stronger justification — see [`../lock_architecture_audit.md`](../lock_architecture_audit.md).
+
+**Working staging (revisable with review):** CHOREO-1 blow order — prefer landed continuity; not Anchor A5 itself.
+
+**Ambiguity densify allowed:** New evidence consistent with multiple readings. **Collapse forbidden** without logged reconsideration: narrator-confirmed Caesar-knows; NOTE-1 merge; SIDE-1 as Ides master key.
 
 ### Out of scope
 
-Actium as Book 1 content · SIDE-1 solution · romance-for-spice · hive-mind conspiracy · “Caesar knows” confirmation · another ≥2-laws inject sweep · quota sprint to word bands
+Actium as Book 1 content · SIDE-1 solution-as-Ides-cause · romance-for-spice · hive-mind conspiracy · “Caesar knows” confirmation · another ≥2-laws inject sweep · quota sprint to word bands
 
 ---
 

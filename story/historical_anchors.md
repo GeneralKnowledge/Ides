@@ -58,6 +58,8 @@ Events that **must not** be casually altered. Fiction orbits them; it does not r
 | **Acceptable** | Exact blow order; private last thoughts; which minor conspirators present; omens’ “truth” |
 | **Unacceptable** | Caesar surviving; murder at a different famous landmark “for drama”; Octavian present in the Curia |
 
+**Implementation note:** Working blow order and camera cuts live in `continuity/canon.md` **CHOREO-1** as **continuity / structural preference**, not as this A-invariant. Protecting A5 does **not** freeze every private line in Ch 16. See [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md).
+
 ## A6 — Caesar’s will (March 44)
 | Field | Content |
 |-------|---------|
