@@ -22,7 +22,7 @@ Vibius spat black grit. “Win,” he said. “Then count.”
 
 Pay talk lived under the noise like a second drum: who owed donatives, which Caesar’s name still fed mouths, whether Hirtius’ clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date—Forum smoke had taught him the dirt could walk without clerks; Mutina mud taught him it could drown you while walking. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later—if later still has a road.”
 
-He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway—signals lied as often as clerks.
+Between assaults—when the yelling thinned and the cold found room—Vibius and two men from the contubernium talked dirt the way other men talked gods. “Capua was a date when the paymaster breathed,” Vibius said, voice flat, humour OFF because mud did not buy jokes. “Now Capua is only what we stand in.” The second man wiped pink melt from his shield rim. “Dirt that walks still wants a road. Lists will invent one if we live.” Laberius did not finish the thought aloud. Finishing would have made Capua a speech. He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway—signals lied as often as clerks.
 
 Yell-rumours arrived before facts. Someone claimed a consul down. Someone claimed both. Someone claimed a victory large enough to make the ditch look like a lie. Laberius believed the ache in his forearms and nothing else—until mid-afternoon, when a staff officer he recognised from Hirtius’s tent came past on a blown horse, cloak dark with more than rain, and said to a tribune three paces from Laberius’s ear: “The consul Hirtius is dead. I held his shoulder. Do not invent a better story.”
 
@@ -78,5 +78,6 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 **Phase 1D.1:** SC-80 fact vs rumour split; plains future-lean cut; SC-81 AMB-2 held.  
 **1F / E3:** re-check — no narrator history-wink residue; Laberius/Hordeonius “later” = present speculation only.
 **1G:** “great success” softened to present ditch irony.  
-- **Anti-formula:** F4 silence-for-sale kept without census / face-held / snort-warehouse kit; mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.
+- **Anti-formula:** F4 silence-for-sale kept without census / face-held / snort-warehouse kit; mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.  
+- **Expansion D13:** Contubernium Capua/dirt talk between assaults (humour OFF in mud peak).
 

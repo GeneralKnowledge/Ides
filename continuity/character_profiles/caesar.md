@@ -1,42 +1,57 @@
 # C. Julius Caesar
 
 **Type:** Historical · Sparse POV  
-**Function:** Authority that changes rooms; opacity; trust-as-habit; work through weather/omens
+**Function:** Gravity well; unread habit; AMB-1 opacity; ends Ides  
+**Subplot ownership:** Intersects all — not a subplot owner after Ch 16
 
-## Identity
-Dictator *perpetuo*; Parthia clock; Domus Publica; dies 15 Mar 44.
+## Desire
+Finish lists (Parthia, offices, mornings) without letting dread or friends rename the calendar.
 
-## Core drive
-Keep the day’s work moving — Senate, packing, mildness that is not soft.
+## Misbelief
+Optics and unread tablets can wait; the house’s fear is weather, not a schedule change.
 
 ## Soft spots / fears
-Shown rarely: dream of flight; irritation at delay; trust of Decimus’s cheer.
+Looking ruled by a wife’s dream; unfinished wax; friends who cheer too easily (AMB-1 — reader may wonder).
 
 ## Perception filter
-Lists, weather-as-work, who is useful this hour; not self-explanation.
+Houses, armies, wax stacks, who leans in for business.
 
 ## Voice & humour
-Brief, decisive, dry cuts others laugh at late. Sparse access — protect it.
+Mild, cut-joke unfinished. Sparse. No confession of plot knowledge.
 
-## Loyalty map
-Own system · Decimus (habit trust) · Calpurnia (household) · clemency as soft chain on others.
+## Off-page life
+Sorting tablets; packing east; trusting Decimus’s open hand; ignoring sealed urgency among other papers.
 
-## Information boundaries
-AMB-1: reader must not get confirmed full foreknowledge; unread NOTE-1 among papers.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 |
+|--------|---------|-------|
+| Calpurnia | Partnership under strain | Stay-ask refused into morning |
+| Decimus | Soft-hour trust | Cheer-fetch accepted |
+| Antony | Consul tool / friend | Delayed by design of others |
+| Brutus/Cassius | Clemency furniture / noise | Knives |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 1–6 | Spectacle gravity; perpetuo |
+| Pressure | 12, 14–15 | Opacity; dream morning |
+| Choice | 15 | Goes |
+| End | 16 | Dies — last sound disputed |
 
 ## Behavioral tells
-Mildness; continues through omens; open hand to Decimus on the Ides morning.
+Listens to houses; almost-joke then incomplete; unread sealed habit.
 
-## Book 1 presence
-Felt everywhere; POV sparse Ch 12, 14; death Ch 15–16.
+## Information boundaries
+AMB-1: narrator must not confirm he knows the plot.
 
 ## Must
-Opacity; no omniscient crown confession.
+Remain opaque enough for detective Engine A.
 
 ## Must not
-Long prophecy; Shakespearean last words as narrator truth; remembered witticism at Decimus’s death.
+Omniscient martyr speech; confirmed foreknowledge; Shakespeare last words as history.
 
 ## Consistency questions
-- Is access still scarce?
-- Trust of Decimus shown as habit, not labelled doom?
-- Last sound remains disputed?
+- Unread habit behavioural?
+- AMB-1 held?

@@ -74,6 +74,8 @@ When the baker left clutching his rate like a blessing, Sosia waited until the m
 
 “Wit is a tax on clarity,” Hordeonius said. “I prefer clarity. Clarity clears.”
 
+A cake-seller from two stalls over—flour still on her forearms—leaned in with a question that wanted to be gossip and a price that wanted to be faith. “If Spain settles, do my boys eat cheaper seed, or do you invent another unfinished west?” Hordeonius priced her hunger the way he priced the baker’s: without insult, without prophecy. “When Spain settles, rates move. Until then I sell umbrellas for unfinished weather. Warehouse talk is plant only—do not invent a second religion from my metaphor.” The cake-seller snorted once and bought the rate anyway. Money street kept its origin as interest and mouths, not as a mystery unlocked.
+
 “A man who needs a nod,” he added to the shelf, “will always pay for the story of the nod.” The shelf did not argue. That was why he liked it.
 
 ---
@@ -83,4 +85,5 @@ When the baker left clutching his rate like a blessing, Sosia waited until the m
 - **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.  
 - FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.  
 - **Law-sweep:** ≥3-person atrium (patron + secretary + Seius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour (no nametag); Africa *closed enough* → Spain-unfinished rates callback to Ch 1; Seius obligation planted for later collect.  
+- **Expansion D16:** Money-street origin densify (cake-seller rate question); warehouse kept as plant/metaphor only.  
 - Next: Ch 3 Munda.

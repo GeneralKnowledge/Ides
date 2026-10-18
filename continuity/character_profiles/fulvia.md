@@ -1,41 +1,51 @@
 # Fulvia
 
-**Type:** Historical · Limited / growing  
-**Function:** Price Antony’s clients; political wife who sees risks he laughs off
+**Type:** Historical · Limited POV  
+**Function:** Price Antony’s words; debt-word inventory  
+**Subplot ownership:** T2 · intersects B (acts continuity)
 
-## Identity
-Antony’s wife; co-manager of loyalty/cash/theatre.
+## Desire
+Make Antony’s festival blankets into debts that collect — before the house goes cold.
 
-## Core drive
-Keep the household and faction solvent — buy friends or break them before wine shops stop laughing.
+## Misbelief
+If she inventories the laugh early, she can rust-proof the next act without becoming the woman who rusts jokes in public.
 
 ## Soft spots / fears
-Antony’s underestimation of the boy; clients who cost more than they pay.
+Public humiliation; unpaid cohorts; Liberators’ soft hands.
 
 ## Perception filter
-Petitions as prices; how much loyalty, cash, theatre.
+Cups set harder than wine requires; messengers with dust; which word travels behind a back.
 
 ## Voice & humour
-Biting when marking a beat (e.g. Lupercalia *temporary*); not interchangeable with Antony’s swagger.
+Dry, domestic-political. “Temporary is a debt word.”
 
-## Loyalty map
-Antony · own political survival · children/faction continuity.
+## Off-page life
+Hearing laughs secondhand; storing words with unpaid debts; dismissing messengers with courtesy.
 
-## Information boundaries
-Sees Campania rumour earlier as threat; cannot force Antony to open the unopened letter of underestimation.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3–5 |
+|--------|---------|---------|
+| Antony | Prices *temporary* | Co-pricer of aftermath |
+| Liberators | — | Soft hands enemy |
+| Octavian | — | Boy as nuisance until loud |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 7 | *Temporary* inventory |
+| Travel | 17–22 | Aftermath co-pricing (expandable) |
+| End | Book 1 | Pressure held; not Actium wife plot |
 
 ## Behavioral tells
-Eyes price before Antony’s mouth opens; warns against waiting.
-
-## Book 1 presence
-Ch 7 (marked beat), Ch 22 Ops orbit.
+Cup down hard; latch wait before truth; debt-word storage.
 
 ## Must
-Distinct from Antony; not permanent shrew stereotype.
+Behaviour prices politics.
 
 ## Must not
-Modern slang; run the consilium alone as cartoon.
+Nag stereotype; Actium foreshadow coach.
 
 ## Consistency questions
-- Is her line a price, not a quip contest?
-- Does Antony still dismiss after she warns?
+- Word stored as debt, not lecture?

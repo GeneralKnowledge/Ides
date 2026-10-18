@@ -1,41 +1,52 @@
 # Servilia
 
-**Type:** Historical · Limited soft-power  
-**Function:** Rewrite advice rooms; maternal/political gravity around Brutus
+**Type:** Historical · Limited POV  
+**Function:** Soft power; paper; Brutus pressure; Antium mover  
+**Subplot ownership:** T2 (women’s power rooms) · Engine B paper
 
-## Identity
-Brutus’s mother; elite consilium host (Antium); soft power without magistracy.
+## Desire
+Move clauses and sons before men finish speeches about liberty.
 
-## Core drive
-Steer outcomes through rooms, stewards, and who gets to speak — protect her line’s standing.
+## Misbelief
+If the room is hers, the page will weigh more than Cicero’s centrality.
 
 ## Soft spots / fears
-Son’s brand becoming a death warrant; being ignored by men who still need her house.
+Brutus’s furniture virtue; Antonian dust; boy’s pay rewriting her people’s paper.
 
 ## Perception filter
-Who sits where; which advice is furniture; Hilarus and the room’s real owner.
+Who sits where; which steward softens; which clause still moves.
 
 ## Voice & humour
-Dry, controlled; status without shouting.
+Few on-page lines; pressure by arrangement. Not comic.
 
-## Loyalty map
-Brutus · family interest · useful Cicero · contempt for naive “liberty” theatre when it endangers.
+## Off-page life
+Antium rewriting; sending Hilarus; pricing eagle refuse vs boy.
 
-## Information boundaries
-Not ops commander; knows social weather better than camp mud.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 4 |
+|--------|---------|-------|
+| Brutus | Maternal/political inventory | Needs him useful |
+| Cassius | Useful edge | — |
+| Cicero | — | Page-weight opponent |
+| Octavian | — | Boy paper threat |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 8 | Recruitment pressure presence |
+| Pressure | 23 | Soft paper seed |
+| Choice/Cost | 24 | Antium cuts; Cicero learns |
 
 ## Behavioral tells
-Overrules “advice”; soft rewrite of East decision climate (Ch 24).
-
-## Book 1 presence
-Ch 8 (pressure), Ch 24 Antium (peak).
+Rooms decide without announcing; stewards move light that is ugly-firm.
 
 ## Must
-Soft power felt as status contest, not magic.
+Soft power behavioural, not speechifying villain.
 
 ## Must not
-Hive-mind conspirator; modern “girlboss” caption.
+Ides planner; hive-mind mother of knives only.
 
 ## Consistency questions
-- Does the room change when she speaks — seating, subject, exit?
-- Is Brutus still himself under her pressure, not a puppet?
+- Clause moved, not thesis spoken?

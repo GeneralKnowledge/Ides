@@ -64,13 +64,19 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 The steward hesitated. Hesitation was news. “Campania says the name. Rome’s wine shops still use him as sport—shadow, squeak, furniture with a will. Elders bet cups on how long the joke lasts. For now they laugh.”
 
-Porcia didn’t waste comfort. “They call you immortal in the same breath they ask you to be quiet. They call him temporary in the same breath they price his paper. Both are insults dressed as weather.”
+Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client—robe too clean for eighteen miles—waited with loyalty that had already checked the sun. Three wants in one gravel path: news, comfort, and a signature that wasn’t asked yet.
+
+“They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Both are insults dressed as weather.”
+
+The steward’s eyes flicked to the client and back. “The roads still take veterans, praetor. If you mean to move, move before dusk invents another excuse.”
+
+The client smiled the smile of men who bring purses later. “Rome still whispers your name with hope. Hope needs a line—anything—that we stood with you in March.”
 
 “Peace requires quiet,” Brutus said.
 
-“Peace required a plan,” she answered, and left him the word *plan* like a debt.
+“Peace required a plan,” Porcia answered, and left him the word *plan* like a debt. She did not look at the client. Looking would have made the debt a performance. The steward closed his mouth on further roads. The client’s smile held until Brutus turned toward the hedges—then thinned for the steward alone: “He will draft periods while the dust learns our gates. Mark me when hope wants ink and gets gravel.”
 
-He drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
+Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty—someone’s gift, someone’s joke—and hated how the joke still worked on him.
 
@@ -101,4 +107,5 @@ Not a date on a tablet—only hills through the gate, and beyond them a name war
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
 **Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable — new confinement cost beyond purse.
-- **Law-sweep:** Fundi same-room collision ≥3; wine-shop boy-sport; Lanuvium echo; polite visitor clash; audible underestimation humour; name-war plants toward Ch 22.
+- **Law-sweep:** Fundi same-room collision ≥3; wine-shop boy-sport; Lanuvium echo; polite visitor clash; audible underestimation humour; name-war plants toward Ch 22.  
+- **Expansion D6:** Porcia + steward + client 3-voice pressure; “plan” costs a refusal (gravel path).

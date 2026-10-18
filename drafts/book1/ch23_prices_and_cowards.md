@@ -62,7 +62,7 @@ When the steward’s kindness had moved to the next chest, Phileros’s short la
 
 Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel; she let it land as a breath through the nose—enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf—blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash; the house’s new seals were not. Continuity of danger without the old wax.
 
-In the corridor a clerk recited inventory like a prayer. Nysa carried oil and kept her eyes on doors.
+Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands—worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar as if water could invent a private law. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement. Nysa carried oil and kept her eyes on doors that no longer held her mornings.
 
 ---
 
@@ -113,4 +113,5 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.  
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
 **Final integrated:** SC-66 — Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.  
-- **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.
+- **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.  
+- **Expansion D8:** Domus emptying — Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).

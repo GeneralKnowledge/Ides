@@ -1,42 +1,59 @@
 # C. Cassius Longinus
 
 **Type:** Historical · Regular POV  
-**Function:** Recruitment engine; geometry; contempt for delay; Eastern extraction; INF-death
+**Function:** Ops edge; Eastern corrosion; INF-death  
+**Subplot ownership:** T7 (eastern ledger) · intersects A (recruitment/spare cost) · B (brand as pay)
 
-## Identity
-Operational conspirator; sharper mind than brand; later tax engine in the East.
+## Desire
+Finish what philosophy postpones — on a schedule, with compartments, paid.
 
-## Core drive
-Make the fever finish — through men, numbers, and refused delay — then keep the war solvent.
+## Misbelief
+If the roster is tight and the west courier is labeled, contempt can substitute for complete information.
 
 ## Soft spots / fears
-Incomplete information; fog; Brutus’s hesitation; becoming what they killed (solvent without prettier nouns).
+Brutus’s essays; fever cousins; unpaid winter prices (Galba); fog that invents facts.
 
 ## Perception filter
-Hands, seals, weights of sacks, who can stand in a room and finish a petition; standards and directions.
+Approaches, blanks in lists, short-weight sacks, rumour labeled *Rumour*.
 
 ## Voice & humour
-Dry, impatient, scalpel lines. Solvency wit is his — do not clone onto Hordeonius.
+Dry, impatient. Jokes that sound like thirst. “Collecting” as bookkeeping rage.
 
-## Loyalty map
-The act’s success · Brutus as necessary brand · Liberators’ network · contempt for soft calendars.
+## Off-page life
+Naming doors softly; walking Galba’s winter; mint arguments; keeping three west tablets unmerged.
 
-## Information boundaries
-Trusts broken numbers when he needs them enough; dies on incomplete report; does not know Brutus’s sector truth in the dust.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 | Act 4–5 |
+|--------|---------|-------|---------|
+| Brutus | Herds toward room | Needs his face on brand | Purity vs victors |
+| Decimus | Door tool / friend of Caesar | Key deployed | West debit crack |
+| Trebonius | Monday instrument | Hold consul | — |
+| Antony | Should have been cordwood | Living disaster | Enemy |
+| Galba | Winter price nodded | Absence as receipt | |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 4, 7–8 | Ops itch; Galba price; group room |
+| Pressure | 13, 15–16 | GO; portico delay cascade |
+| Choice | 25, 32 | Collecting; half-now sureties |
+| Cost | 32–33 | Decimus debit; incomplete report |
+| End | 33 | INF-death on a lie the plain told |
 
 ## Behavioral tells
-Watches hands; “Say it again. Slower. Names.”; silence as borrowed Brutus tool; weighs grain on the spot; closes the account rather than wait.
+Finger on blank roster; small nods; labels gossip in Greek; weighs sacks on the spot.
 
-## Book 1 arc
-Dinner slight (Ch 4) → Lupercalia disclosure (Ch 7) → recruit Galba (Ch 8) → spare debate (Ch 9) → GO (Ch 13) → Curia (Ch 16) → East (Ch 25, 32) → Philippi INF-death (Ch 33).
+## Information boundaries
+Compartments by design; west news incomplete; no divine proof.
 
 ## Must
-Strategic intelligence distinct from emotional investment; death from established INF habit.
+Eastern corrosion lived; INF-death earned from habit.
 
 ## Must not
-Snidely Whiplash; pure envy only; every clever line in the book; know the fog is lying.
+Hive-mind boss; omniscient west; cartoon villain only.
 
 ## Consistency questions
-- Is sharpness character-local, not narrator cleverness?
-- Does Philippi kill him via incomplete INF, not irony from the future?
-- Eastern extraction: mathematics without volume?
+- Contempt solving or creating fog?
+- West kept as incompatible tablets?

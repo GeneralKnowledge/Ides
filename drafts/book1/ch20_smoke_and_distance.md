@@ -93,6 +93,12 @@ Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had alrea
 
 “We do not beg intermediaries,” she said. “We leave before intermediaries invent a second price.”
 
+Ammonius did not stop. He produced a smaller tablet—Cicero’s old account, books still unpaid, rudeness still priced as if a queen’s library were a Roman joke that owed interest. “If we settle this before the Tiber, one mouth in Italy softens. Soft mouths buy fair wind.”
+
+“Soft mouths invent second inspections,” Cleopatra said. “Pay the books from Alexandria if you must. Do not buy Cicero’s courtesy with my schedule. Intermediaries who need my coin to be polite will invent a second price on water.”
+
+Ammonius’s jaw worked again—useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast: Ch 26’s sea would not find her begging Roman courtesy she had already refused to purchase.
+
 At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city—her face in Roman metal—and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk; the dinners could keep pricing her child; none of that was her exit. Exit was a schedule that survived inspection—and the unfinished question she took to water was whose mouth in Italy would finish her story first: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal.
 
 ---
@@ -102,7 +108,8 @@ At night she walked the dark paths once, memorising the smell of Italian wet ear
 - No dagger-circle claim; dynastic lens.  
 - **S-B1 / S8:** Cleopatra as **payoff** of prior gardens/queen/child gossip (not introduction); packing obstruction (clerk inspection); *regina* debate kept out of her POV.  
 - // M5: *regina* debate kept out of Cleopatra POV — verified.  
-- Smoke bridge from SC-52; clerk inspection / porter corridor bite; gardens/child payoff held; humour OFF (flight weather).
+- Smoke bridge from SC-52; clerk inspection / porter corridor bite; gardens/child payoff held; humour OFF (flight weather).  
+- **Expansion D5:** Ammonius Cicero-books tablet refused as price of intermediaries; sail continuity toward Ch 26 (CLEO-1 held).
 
 ---
 

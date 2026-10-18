@@ -95,6 +95,14 @@ Lepidus spoke carefully, as Lepidus always did when weight leaned on him—not w
 
 He didn't yet know how he would show the body. He knew only that a corpse in the right light was worth more than a thousand virtuous daggers on a hill.
 
+Pacuvius did not wait for poetry. “Massacre first. Funeral after. The rock still has warm knives on it—every hour we feed the men soft is an hour they invent softer orders.”
+
+An officer beside him—young, oil-smell, ambition still unscarred—seconded without looking at Lepidus. “Paint the Capitol before the bakers invent a different martyr. Force is a fact. Facts do not keep overnight.”
+
+Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
+
+Three wants, one ditch of snowless March air: Pacuvius’s storm, the officer’s paint, Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight—massacre versus optics—and chose the slower blade because the slower blade still had a consul’s name on it.
+
 Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
 “Hold the men,” Antony told Pacuvius. “Feed them. Promise them nothing you can’t spell. Tomorrow we talk in rooms with doors.”
@@ -116,7 +124,8 @@ Antony spat blood from a bitten cheek he did not remember biting and stared towa
 - Antony thinking funeral/body optics — calculated, not verse performance.  
 - False death rumour noted.  
 - // M5: Lepidus held as present/careful — neither hero nor cartoon.  
-- **Law-sweep:** Pacuvius polite assent → exit-complaint (rooms vs warm knives); ≥3 with Lepidus/officers in earshot.
+- **Law-sweep:** Pacuvius polite assent → exit-complaint (rooms vs warm knives); ≥3 with Lepidus/officers in earshot.  
+- **Expansion D1:** Pacuvius / officer / Lepidus as group pressure (massacre vs funeral optics) before Antony chooses rooms.
 
 ---
 
@@ -159,6 +168,8 @@ He left the bargaining room with praise still arranged on his mouth—peace, bre
 
 “Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
 
+Farther down the same corridor—near the side door servants used when mistresses did not want to be seen pricing—two women’s mouths moved without entering the bargain room. A Fulvia-shaped voice, dry as a ledger: “Amnesty is a night’s kindness. Paper that stands overnight is a husband’s war-chest. Do not let Cicero’s peace sand Antony’s acts into furniture.” A Servilia-shaped answer, milder and sharper: “Then price whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Mark me when amnesty asks Brutus to thank a consul for surviving.” Neither voice asked Cicero’s opinion. Both priced the same amnesty he had just sold as breath.
+
 The client’s voice thinned once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
 Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty—and *Decimus / second line* as a debt the dead man still held on the living—and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
@@ -172,7 +183,8 @@ On the seventeenth, when the bargain had begun to harden, he allowed himself a t
 ## Continuity notes (SC-47)
 - Contemporary hope shown; amnesty + acts ratified seed funeral power.  
 - **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.  
-- **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).
+- **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).  
+- **Expansion D2:** Fulvia/Servilia offstage corridor mouths price amnesty paper / whose sons the paper wounds (T2; no new POV).
 
 ---
 

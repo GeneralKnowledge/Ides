@@ -1,41 +1,57 @@
 # Cleopatra VII
 
 **Type:** Historical · Segment POV  
-**Function:** Foreign dynasty lens; scheduled departure; Caesarion fuse; offstage after sea
+**Function:** Priced gossip → packing exit; CLEO-1 lodging  
+**Subplot ownership:** Engine B (queen/child/gardens) · continuity 20→26
 
-## Identity
-Queen without living Roman guarantor after Ides; Transtiberim lodging (CLEO-1); returns toward Alexandria.
+## Desire
+A schedule that survives inspection — sails, not statues — without begging intermediaries.
 
-## Core drive
-Arrive looking inevitable, not chased — continuity speech, not flight narrative.
+## Misbelief
+Roman dinners finishing her story can be outrun by linen and sandals counted.
 
 ## Soft spots / fears
-Rome finishing her story; Caesarion’s frank questions; intermediaries inventing prices.
+Living guarantor dead; child as career rumour; Cicero’s rudeness; second prices at the ship.
 
 ## Perception filter
-Schedules, ships, salt, which statues are anchors vs sails; Ammonius as useful irritant.
+Trees vs linen; clerks’ inventory smiles; wet Italian earth as temporary.
 
 ## Voice & humour
-Polish she sometimes hates; dynastic, not dagger-circle.
+Polished, schedule-first. Softness later. Humour OFF in flight weather.
 
-## Loyalty map
-Caesarion · Ptolemaic continuity · Caesar as dead guarantor · Egypt over Roman furniture.
+## Off-page life
+Packing; Ammonius irritation; statue left with Venus; harbour continuity talk.
 
-## Information boundaries
-Does not claim Ides conspiracy knowledge; boy-Caesar in Italy spoken of when public, not before.
+## Relationship matrix (attitude)
+
+| Person | Act 1–3 | Act 4 |
+|--------|---------|-------|
+| Caesar | Guarantor / dead Forum | Father belongs to their Forum |
+| Caesarion | Hours as packing | Sail |
+| Romans | Dinner sport | Clerks/porters |
+| Ammonius | Useful irritant | |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 4, 6 | Dinner/gossip price |
+| Pressure | 17–18 | Paper unfinished problem |
+| Choice | 20 | Schedule vs inspection |
+| Echo | 26 | Sail as courier weather |
 
 ## Behavioral tells
-Packs without looking like flight; cuts nurse’s hum; salt as seal.
+Two fingers stop argument; pays hour not petition; leaves anchors.
 
-## Book 1 presence
-Ch 20, Ch 26 (sea); hooks only after.
+## Information boundaries
+No dagger-circle claim; *regina* debate out of her POV; CLEO-1 lodging soft.
 
 ## Must
-Dynastic lens; CLEO-1 lodging; no Actium endgame.
+Payoff of prior gossip, not cameo intro at Ch 20.
 
 ## Must not
-Secret Ides planner; modern romantic caption as sole note.
+Ides planner; certify paternity as narrator fact.
 
 ## Consistency questions
-- Schedule vs flight language?
-- Caesarion present without sentimentality drowning policy?
+- Schedule surviving inspection?
+- CLEO-1 held?

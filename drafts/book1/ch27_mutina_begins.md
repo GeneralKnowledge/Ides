@@ -78,7 +78,9 @@ Cicero argued Octavian into usefulness the way he argued clauses into laws—Cic
 
 Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age; he corrected the number and left the tone alone.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. A northern courier’s fragments—Decimus holding; Antony digging—stayed unmerged in his hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
+Agrippa stood where the Curia fringe still smelled of wet wool and ambition—close enough to hear Pacuvius’s name travel in a courier’s mutter (Antony’s storm-man still pricing timing at Mutina) and far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude; Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand—Apollonia’s old inventory without the bread joke—and kept his own nod thin.
+
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended; only then did he match pace toward the vendor street. A northern courier’s fragments—Decimus holding; Antony digging; Pacuvius still hungry for storm—stayed unmerged in Octavian’s hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
 
 ---
 
@@ -90,4 +92,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 **Act5 ordeal:** SC-74 summary compressed; SC-73 parley protected.
 **1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
 - Parley grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe aiming Octavian.  
-- **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.
+- **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.  
+- **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.

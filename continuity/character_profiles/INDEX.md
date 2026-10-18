@@ -1,11 +1,13 @@
 # Character Profile Index — Book 1
 
-**Manuscript HEAD when compiled:** post–Chuck Palahniuk craft pass (`ea9ea8c` / #21)  
+**Manuscript HEAD when compiled:** post–soft-joint densify / novel expansion architecture  
+**Bible status:** Principals deepened to full template (Desire / Misbelief / Off-page / Relationship matrix / Arc beats). Secondaries promoted to individual files.  
+**Template:** [`PROFILE_TEMPLATE.md`](PROFILE_TEMPLATE.md) · **Expansion:** [`../expansion/`](../expansion/)  
 **Update rule:** When a profiled behaviour changes in prose, update the profile in the same PR or note the lag.
 
 ---
 
-## Principal profiles (full cards)
+## Principal profiles (full bible cards)
 
 | ID | Name | Type | POV? | Profile |
 |----|------|------|------|---------|
@@ -27,13 +29,24 @@
 
 ---
 
-## Supporting historical / named (card in `secondary_cast.md`)
+## Supporting — promoted individual files
 
-Porcia · Agrippa · Trebonius · Lepidus · Plancus · Hirtius · Pansa (rumour) · Galba · Philippus · Atia · Labienus-orbit echoes · Sextus Pompeius (rumour/knife) · Cinna (poet) · others as listed.
+| Name | Profile |
+|------|---------|
+| Porcia | [`porcia.md`](porcia.md) |
+| Agrippa | [`agrippa.md`](agrippa.md) |
+| Trebonius | [`trebonius.md`](trebonius.md) |
+| Lepidus | [`lepidus.md`](lepidus.md) |
+| Plancus | [`plancus.md`](plancus.md) |
+| Galba | [`galba.md`](galba.md) |
+| Phileros | [`phileros.md`](phileros.md) |
+
+Still table-only in [`secondary_cast.md`](secondary_cast.md): Hirtius · Pansa (AMB-2) · Philippus/Atia · Sextus (rumour) · Cinna · others.
 
 ## Locked minor D-cast (card in `secondary_cast.md`)
 
-Visellius · Bucco · Phileros · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Seia Prima · Pacuvius · Apollodorus · Amyntas (opt.) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Quintus (Seius neighbour, Ch 23)
+Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Seia Prima · Pacuvius · Apollodorus · Amyntas (opt.) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Quintus (Seius neighbour, Ch 23)  
+*(Phileros promoted — see above.)*
 
 ---
 

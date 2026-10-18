@@ -35,6 +35,8 @@ She stopped. Words made it smaller. She didn't want it smaller.
 
 Somewhere beyond the wall a board complained. Farther off—toward the atrium, or the place where the arms of Mars were kept because her husband was *pontifex maximus* and the city still liked its priests to sleep beside its spears—metal spoke. A clatter. A settling. As if something hung for war had decided to remember it was metal.
 
+In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off as if keys could negotiate dawn. Household mesh around the peak—not the knife, only the house refusing ordinary night.
+
 Caesar listened. He always listened to houses. He listened to armies the same way.
 
 “You are not usually like this,” he said, almost mildly.
@@ -60,7 +62,8 @@ She didn't sleep again. Sleep had already spent what it meant to spend.
 ---
 
 ## Continuity notes (SC-35a)
-- Calpurnia has *lived* DREAM-1; Mars-arms noise unproven (AMB-3). M2 open.
+- Calpurnia has *lived* DREAM-1; Mars-arms noise unproven (AMB-3). M2 open.  
+- **Expansion D22:** Household/omen mesh fringe (Nysa/Pallas/Phileros) around dream peak—not Curia core.
 
 ---
 

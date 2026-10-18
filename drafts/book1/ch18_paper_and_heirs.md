@@ -79,7 +79,7 @@ Overhear risk: Extreme once leaked
 
 Antony watched the seal break in his own house—Piso’s request, Vestals’ custody until now—with the patience of a man watching a door that might hide either a feast or a knife.
 
-Piso’s people made their legality faces. The room smelled of wax and wine. Antony stood where a consul stands when he intends to own the consequences.
+Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a banker with onion-and-money breath told a client that gardens would move leases whether the seal was holy or not; a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops; a junior appetite laughed that Decimus’s second line would make knife-men into punchlines. Antony heard the fringe the way he heard cohorts shifting—noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
 
 The main lines came out like blows dressed as clauses: young Octavius to three parts in four of the estate, and into the name—heir, son in the Roman paper sense that made old men spit; Pinarius and Pedius splitting the remaining fourth like polite afterthoughts; the people remembered with gardens by the Tiber and three hundred sesterces a head; secondary provisions that snagged Decimus Albinus among heirs in the second degree—like a fishhook left in a clean catch.
 
@@ -121,7 +121,8 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 - Suet. 83: Antony’s house; Piso; Vestals; Octavius ¾; Pedius+Pinarius ¼; adoption; Decimus 2nd degree; gardens + 300 HS.  
 - Leak cascade via F1/market.  
 - // M5: Formal vs street timing left intentionally mushy (C).  
-- **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.
+- **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.  
+- **Expansion D3:** Will-reading public fringe — banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.
 
 ---
 

@@ -53,6 +53,12 @@ Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body
 
 Agrippa’s mouth twitched. “Late to drill, then—Caesar.” He stood within reach and didn’t look away.
 
+That evening they walked the villa’s outer path where gardeners had stopped inventing courage with shears. Ordinary noises: sea, a dog, someone’s dinner argument about fish. Octavian counted them the way he counted incompatible rumours—separate, useful. Agrippa kicked a loose stone and watched it roll.
+
+“Philippus still won’t say it,” Agrippa said. “The name.”
+
+“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him with softness. He only matched pace, which was the older friendship: not shadow, not furniture—legs that kept the same inventory without announcing need.
+
 ---
 
 # SC-63 — The Boy
@@ -99,4 +105,5 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - **S-B1 / S9:** After name-take, elder/wine-shop underestimation continues as sport (Cicero hears weeks-until-cheap bet); pays Ch 21 Fundi collision.  
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
 **Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.
-- **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.
+- **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.  
+- **Expansion D7:** Agrippa–OCT ordinary evening path after name-take (matched pace; underestimation as behaviour, not caption).

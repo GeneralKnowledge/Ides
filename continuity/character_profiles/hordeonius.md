@@ -1,42 +1,54 @@
 # L. Hordeonius Felix (F4)
 
-**Type:** Fictional · Regular POV · Primary TONE-1 Batiatus carrier  
-**Planning dossier:** `story/characters/F4_hordeonius.md`
+**Type:** Fictional · Regular POV  
+**Planning dossier:** `story/characters/F4_hordeonius.md`  
+**Subplot ownership:** T3 (money street) · SIDE-1 ash
 
-## Identity
-Equestrian lender; grain/paper; solemn about liquidity; SIDE-1 tablets orbit.
+## Desire
+Clear interest while mourning looks like a festival — living seals only.
 
-## Core drive
-Clear rates; preserve solvent men; treat panic as a market.
+## Misbelief
+Archaeology does not collect; silence can be sold as piety without becoming the joke.
 
 ## Soft spots / fears
-Sleep after unclean acquisition; archaeology of dead debtors; becoming funny in taverns by smiling at seriousness.
+Visellius punctual ghost; unclean acquisitions; Sosia’s mouth; sleep charging interest.
 
 ## Perception filter
-Seals, margins, Puteoli notes, rumour labelled *Rumour*; fields that learned his name.
+Rates, gardens walking, which rumour empties a purse first.
 
 ## Voice & humour
-Unintentional. Funny because sincere about money-as-virtue. Never mugs. Ledger-priest.
+Priest-flat solemnity; humour that sells a second cup; warehouse gag **origin plant only** (Ch 2) — later bites retied to boy/queen/paper.
 
-## Loyalty map
-Credit network across factions · Sosia · F2 as debtor · not liberty romance.
+## Off-page life
+Entering *acquired: unclean*; smelling Visellius’s room; refusing poison-as-fact.
 
-## Information boundaries
-SIDE-1 OPEN-0; AMB-2 refuse poison-as-fact sale; no omniscient conspiracy funding.
+## Relationship matrix (attitude)
+
+| Person | Act 1–3 | Act 4–5 |
+|--------|---------|---------|
+| Sosia | Impatient collector | Snort tax |
+| Visellius | Dead instrument | Ash OPEN-0 |
+| Seius type | Junior appetite | Lists neighbour |
+| Liberators/OCT | Market columns | Whichever clears |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 1–2, 10 | Rates; SIDE-1 body |
+| Pressure | 18, 23 | Will market; petition weather |
+| Cost | 28, 30 | Silence-for-sale; unclean leases |
+| End | 33–34 | Ash echo |
 
 ## Behavioral tells
-Prices twice; refuse-sale of convenient conspiracy; enters *acquired: unclean*; leaves boundary shrine; kindling old tablets.
-
-## Book 1 arc
-Cato market (Ch 1) → debt (Ch 2) → SIDE-1 (Ch 10) → offices (Ch 6) → will prices (Ch 18) → acts market (Ch 23) → Mutina poison talk (Ch 28) → lists (Ch 30) → blood land (Ch 33) → ash echo (Ch 34).
+Blessing-flat refusals; private cipher honesty; no smile at neatness.
 
 ## Must
-Humour from sincerity; SIDE-1 subordinate to main story.
+SIDE-1 never solves Ides; humour character-true not band gag redux.
 
 ## Must not
-Shadow treasury replacing state; knowing he is comic; modern punchlines; interchange solvency wit with Cassius.
+Mastermind; treasury replacement system.
 
 ## Consistency questions
-- Is the joke a price or a mug?
-- Rumour labelled vs sold as fact?
-- Proscription acquisition costs sleep?
+- Living seals vs archaeology?
+- Warehouse only as Ch 2 plant?

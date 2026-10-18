@@ -22,6 +22,8 @@ The older Brutus of the stories—the one boys learned with bread—did not need
 
 Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat.
 
+Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court—not invitation, attitude: a mother’s reminder that pardoned sons still owed dinners they did not choose, and that soft chains were priced in women’s rooms before men’s masks finished judging. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard the fringe as plant, not summons: women’s power already arguing his courtesy while he still held a warm cup.
+
 “I am not unaware of what the name requires,” Brutus said.
 
 “Then stop practising unawareness as courtesy,” Porcia answered.
@@ -141,4 +143,5 @@ Decimus fell into step. He didn't know the wax. He knew the chin-tip, the roads,
 - **S-A0:** three-voice dinner; polite clasp → street complaint; heir loungers’ exit bitching.  
 - Plural motives; no hive agreement on Caesar’s meaning. FS05/FS21 planted.  
 - MUST_EXPRESS: A8 seed, B1, C1–C3 seeds. Next: Ch 5 Octavian.
-- **Law-sweep:** Dinner ≥3; host polite → street exit-complaint; Decimus portico loungers bitch after station laugh; audible humour with reaction; queen/child + second-line heir plants; relationships by behaviour (ditch/Spain).
+- **Law-sweep:** Dinner ≥3; host polite → street exit-complaint; Decimus portico loungers bitch after station laugh; audible humour with reaction; queen/child + second-line heir plants; relationships by behaviour (ditch/Spain).  
+- **Expansion D17:** Servilia messenger fringe at clemency house (women’s attitude plant); Porcia refuses conflating mother-weather with her refusal.

@@ -1,16 +1,17 @@
 # Nysa (F1)
 
 **Type:** Fictional · Regular POV  
-**Planning dossier:** `story/characters/F1_nysa.md`
+**Planning dossier:** `story/characters/F1_nysa.md`  
+**Subplot ownership:** T1 (household INF)
 
-## Identity
-Freedwoman in Julian/Domus Publica orbit; Greek/Latin; message-runner with dangerous literacy.
-
-## Core drive
+## Desire
 Stay fed and unbeaten — listen, carry, omit.
 
+## Misbelief
+Incomplete messages and chicken currency can keep senator names off her tongue forever.
+
 ## Soft spots / fears
-Incomplete messages; doors; seals becoming others’ law; Medullina wanting senator names she shouldn’t give.
+Doors; seals as others’ law; Medullina’s hunger for names; blank wax in wrong hands.
 
 ## Perception filter
 Objects, doors, who waited, what was sealed; vague on Senate meaning.
@@ -18,24 +19,39 @@ Objects, doors, who waited, what was sealed; vague on Senate meaning.
 ## Voice & humour
 Precise about things; rare dry survival asides. Not omniscient spy.
 
-## Loyalty map
-Household survival · Calpurnia orbit · Medullina (rumour swap) · occasional F4 overlap.
+## Off-page life
+Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridors after sale.
 
-## Information boundaries
-NOTE-1: her fragment is **parallel/incomplete**, never the unread Curia tablet. Cannot solve conspiracy.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 | Act 4–5 |
+|--------|---------|-------|---------|
+| Calpurnia | Service dread | — | House sold |
+| Phileros | Key-loyal drunk | Near-miss hunter | Corridor truth |
+| Medullina | Rumour swap | Chickens not senators | |
+| Hordeonius | Occasional overlap | | Lists weather |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 1, 6, 11–12 | Edge; omens; fragment |
+| Pressure | 14, 16 | Blocked tablet; rumour street |
+| Cost | 19, 23 | Funeral water; empty seals |
+| End | 30 | Lists triptych; fear moved house |
 
 ## Behavioral tells
-Basin set carefully; notes which doors get the thumb; blank tablet habit then shelf return; chickens safer currency than senators.
+Basin careful; blank tablet habit then shelf; chickens safer than senators.
 
-## Book 1 arc
-Forum edge (Ch 1) → house (Ch 6, 11–12) → blocked tablet (Ch 14) → rumour street (Ch 16, 19) → empty seals (Ch 23) → lists triptych (Ch 30).
+## Information boundaries
+NOTE-1 parallel/incomplete; cannot solve conspiracy.
 
 ## Must
-Knowledge without power; SIDE-1 ≠ Ides explanation via her.
+Knowledge without power.
 
 ## Must not
 Secret child of Caesar; omniscient spymaster; modern slang.
 
 ## Consistency questions
-- Object-precision over political thesis?
-- Omission as survival, not cute mystery wink?
+- Object-precision over thesis?
+- Omission as survival?

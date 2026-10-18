@@ -1,42 +1,59 @@
 # M. Tullius Cicero
 
 **Type:** Historical · Regular POV  
-**Function:** Letters as oxygen; almost-courage; Antium; Philippics; Formiae
+**Function:** Speech as action illusion; Philippics wager; Formiae purchase  
+**Subplot ownership:** T2 fringe · intersects A (blind calm) · B (instrumentalising OCT)
 
-## Identity
-Orator out of formal power; villa INF hub; believes talk can reshape the Republic.
+## Desire
+Stage a Republic with periods and audiences — and be central on the page even when Antium already decided without him.
 
-## Core drive
-Remain relevant — arrange the city with clauses — while protecting his body and invitations.
+## Misbelief
+If blades are coming they must first pass through a speech he has not yet written; praise is supply.
 
 ## Soft spots / fears
-Looking uncourageous; Cassius being right about force; knives he does not imagine; proscription price.
+Looking peripheral; marked tablets; Antony’s wound; being useful illusion.
 
 ## Perception filter
-Periods, seals fresh vs tired, Atticus as audience, dinner invitations as political weather.
+Letters, audiences, Atticus softness, wine-shop sport under margins.
 
 ## Voice & humour
-Highest verbal density; funny because he means the self-compliment. Vanity in the sentence itself.
+Ornate, self-congratulating, then sharper. Humour as tip for a cracked sandal — buys nothing.
 
-## Loyalty map
-Republic-as-talkable · Atticus · useful Octavian-as-sword · fear of Antony · self-image of Capitol courage.
+## Off-page life
+Stacking letters to the knee; drafting Atticus versions; sleeping eager after scars.
 
-## Information boundaries
-Wrong floater guesses OK; secondhand Sextus; does not foresee Formiae as certainty while congratulating prudence.
+## Relationship matrix (attitude)
+
+| Person | Act 1–2 | Act 3 | Act 4–5 |
+|--------|---------|-------|---------|
+| Caesar | Accommodation bruise | Dead subject | |
+| Brutus | Tired-dinner guess | Broker hope | Lanuvium distance |
+| Antony | Madness to prosecute | Negotiation fact | Philippics enemy |
+| Octavian | Tool handle | — | Young Caesar aimed |
+| Servilia | — | — | Antium page-weight lesson |
+
+## Arc beat sheet
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Setup | 1, 6 | Cato bruise; perpetuo weather |
+| Pressure | 13, 17 | Blind calm; amnesty brokerage |
+| Choice | 25, 27 | Philippics wider; aim OCT |
+| Cost | 24, 30 | Antium furniture; Bononia blank |
+| End | 31 | Formiae — purchased earlier |
 
 ## Behavioral tells
-Writes faster when unarmed; tips couriers then interrogates seals; refuses live rooms while sealing tablets; Formiae silence (humour off).
+Seals letters as action; tips for Republic; scarred tablet as applause he won’t name fear.
 
-## Book 1 arc
-Cato shock fringe (Ch 1) → *perpetuo* (Ch 6) → omen sniff (Ch 11) → blind calm (Ch 13) → amnesty hope (Ch 17) → letters (Ch 21) → Antium (Ch 24) → Philippics (Ch 25) → sword of Senate (Ch 27) → Formiae (Ch 31).
+## Information boundaries
+Elite rumour not ops before Ides; no Octavian destiny.
 
 ## Must
-Wit illuminate *and* serve interest; almost-courage catalogued larger than the hour.
+Speech-as-action remains seductive and costly.
 
 ## Must not
-Modest silence about consulship; military competence he lacks; jokes at Formiae.
+Sword-hand of Ides; omniscient savior.
 
 ## Consistency questions
-- Is the period doing work, or is he hiding from a room?
-- Letter stack vs army — shown, not only maximed?
-- Formiae: restraint absolute?
+- Softness keeping invitations open?
+- Tool use of OCT without destiny coach?

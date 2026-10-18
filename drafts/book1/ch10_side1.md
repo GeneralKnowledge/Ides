@@ -106,6 +106,8 @@ Nobody answered. The dead never did. That was why ledgers needed the living.
 
 He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour—interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
+A water-carrier at the stair mouth—jug dripping, no stake in Basilus or Bucco—told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths were how SIDE-1 would travel when larger corpses later taught the city to forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
+
 ---
 
 ## Continuity
@@ -115,4 +117,5 @@ He took copies, left the originals for whoever played magistrate this week, and 
 - **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as civil-war insurance (non-conspirator mouth; no Trebonius/Monday spoil).  
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
 - Next: Ch 11 omens / Sibylline.
-- **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).
+- **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).  
+- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / ash memory—SIDE-1 remembered later as pressure, not solved.
