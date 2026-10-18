@@ -2,6 +2,8 @@
 
 Maps scene cards → suggested chapter groupings. Titles are working labels only.
 
+**Authority:** This map is a **structural preference** (preferred units for drafting and Continuity indexing), not a historical invariant. The same narrative requirement may be delivered by a different chapter/SC bundling if dramatic merit, anchors, and Continuity notes hold. See [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md) and `continuity/canon.md` lock tiers.
+
 **Drafting instruction:** One chapter ≈ 1–3 scene cards. Generate **one chapter at a time**.
 
 ---
@@ -93,9 +95,10 @@ Update this map only after beats are marked **LANDED** there. Review 2.0: **inte
 
 | Wave | Chapters | LANDED IDs | Integration flags |
 |------|----------|------------|-------------------|
-| Soft Middle | 17–24 | D1–D9 | D2 INTEGRATE; D5 clarify payoff |
+| Soft Middle | 17–24 | D1–D9 | IR-1: D2/D5 earned |
 | War social | 25–30 | D10–D15 | D12 optional; D10/D13 light |
-| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 | D16 INTEGRATE (strip meta) |
-| Ides fringe | 14 | D22 | peaks protected; Ch 16 PROTECT |
+| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 | IR-1: D16 meta stripped |
+| Ides fringe | 14 | D22 | peaks PROTECT (≠ immunity); Ch 16 = A5 + dream quality |
 
-Locks held: AMB-1, NOTE-1 dual, SIDE-1 OPEN-0, CLEO-1, OCT≠Augustus, no Actium, CHOREO-1 / Curia core / Formiae.
+**Invariants held:** AMB-1 · NOTE-1 dual · SIDE-1 OPEN-0 · OCT≠Augustus · no Actium · A5 Curia death · Formiae.  
+**Working staging:** CHOREO-1 — continuity-preferred, revisable with review (not Anchor A5).

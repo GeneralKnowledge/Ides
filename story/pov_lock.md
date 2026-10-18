@@ -1,6 +1,10 @@
 # POV Lock Decision
 
-**Status:** LOCKED for planning (fictional canon — see `continuity/canon.md` entry POV-1).
+**Status:** Preferred architecture (**structural preference** — see `continuity/canon.md` POV-1 / lock tiers).  
+**Knowledge bans below** remain **narrative / historical invariants**.  
+**Audit:** [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md).
+
+This document guides drafting. It is **not** a veto on a stronger demonstrated arrangement of existing characters.
 
 ## Chosen structure: Option A/D Hybrid
 
@@ -29,13 +33,26 @@
 
 Full one-pagers: `story/characters/F1_nysa.md` … `F4_hordeonius.md`.
 
-### Rules locked with POV
+### Invariants (do not casually break)
 - No POV knows the future.  
 - Caesar POV ends at Ides (death).  
 - Octavian has **zero** Rome Ides coverage.  
-- Fictional POVs may alter who knows what locally; not A-outcomes.  
-- Target: 2–4 POV scenes per major beat cluster; avoid 12-POV chapters.
+- Fictional POVs may alter who knows what locally; not A-outcomes.
 
-### Rejected for now
+### Preferences (guide, not hard caps)
+- Target: 2–4 POV scenes per major beat cluster; avoid 12-POV chapters.  
+- Ensemble allocation above is the default map; chapter/SC bundling may shift if dramatic merit and Continuity notes hold.
+
+### Future POV / allocation review route
+
+A proposal to add a POV, drop one, or reallocate scenes among existing POVs should state, proportionally to the change:
+
+1. **Intended reader effect** (what improves).  
+2. **Invariants that remain intact** (especially knowledge bans + A-anchors).  
+3. **Continuity implications** (Enter/Exit, dependent chapters, `canon.md` if identities stick).  
+
+Routine line edits and camera order *within* an existing POV do **not** need this review. Do not invent a new approval ritual for ordinary prose work. This audit does **not** introduce a new POV.
+
+### Rejected for now (still available to reconsider with the route above)
 - Pure street-only dual altitude (Option B alone) — under-serves Philippi  
 - Single baton POV per act (Option C alone) — too thin for mystery

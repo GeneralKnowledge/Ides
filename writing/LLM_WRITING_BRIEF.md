@@ -6,22 +6,24 @@
 
 Read this file before drafting. Obey it over improvisation.
 
+**Lock tiers:** Not every entry in `canon.md` is the same kind of lock. Prefer [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md): historical invariant · narrative invariant · continuity commitment · structural preference · editorial guardrail. Preserve what must remain true; prefer freedom over *how* the story makes it true. Protection ≠ immunity.
+
 ---
 
 ## 1. Mandatory reading order (before any prose)
 
 1. `docs/executive_overview.md`  
-2. `continuity/canon.md` (**all locks**)  
+2. `continuity/canon.md` (**locks + tiers**) + skim `continuity/lock_architecture_audit.md` when proposing structural change  
 3. `story/historical_anchors.md`  
 4. `story/pov_lock.md` + `story/characters/*`  
 5. `story/scene_cards/` for the act you are drafting  
 6. `story/ides_week_hour_map.md` (for Act 2–3)  
-7. `writing/MUST_EXPRESS.md` (checklist)  
+7. `writing/MUST_EXPRESS.md` (behavioural checklist — outcomes may travel by alternate scene delivery)  
 8. `writing/STYLE_GLOSSARY.md`  
 9. `writing/voice/TONE_SPARTACUS_GRRM.md` + `voice/POV_DICTION.md` (humour / personality lenses)  
 10. Supporting: `research/tables/conspirator_matrix.md`, `research/rome_topography.md`, `story/information_network.md`, `story/mysteries.md`
 
-If a choice conflicts with `canon.md` or an Anchor A#, **canon/anchor wins**.
+If a choice conflicts with a **historical or narrative invariant** in `canon.md` or an Anchor A#, **canon/anchor wins**. Structural preferences (chapter map, POV slot counts, CHOREO-1 ordinals) guide; they do not auto-veto a stronger demonstrated solution that keeps invariants.
 
 ---
 
@@ -29,12 +31,12 @@ If a choice conflicts with `canon.md` or an Anchor A#, **canon/anchor wins**.
 
 A usable first pass that:
 - Hits historical anchors in the right order  
-- Rotates the locked POV ensemble  
+- Rotates the preferred POV ensemble (knowledge bans stay hard)  
 - Keeps information asymmetric (characters do not share the author’s knowledge)  
-- Preserves ambiguity on locked mysteries  
+- Preserves ambiguity on narrative-invariant mysteries (densify evidence OK; collapse not)  
 - Feels Roman (patronage, honour, religion-as-practice, debt, veterans) not fantasy-Westeros or modern Capitol Hill  
 - May steal **craft** from Spartacus dialogue bite + GRRM grey humour (`TONE-1`) without importing dragons, “m’lord,” or arena soap  
-- Leaves threads for editing (rough is OK; contradiction with canon is not)
+- Leaves threads for editing (rough is OK; contradiction with invariants is not)
 
 ---
 
