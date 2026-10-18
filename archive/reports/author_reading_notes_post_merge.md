@@ -344,9 +344,40 @@ These hooks would make mobility a *consequence of elite bargains*, not random ac
 
 **Author follow-up:** “Ah, like the rumour mill. That totally went over my head.” — intent lands once named; first pass can miss it. Strengthens the risk that later “bakers” feel like unexplained cast rather than chorus.
 
-**Later (if pursued):** either lean into ecology on purpose (keep anonymous), or one light callback to the Ch 3 agent/cake-seller so the later chorus feels like the same world — not a baker conspiracy. Soften later lines toward clearer rumour-mill voice if the miss keeps happening for outside readers.
+**Author remedy:** Make it clearer earlier by having someone hear something **from a baker**, and mark it as **rumour** (not fact). That plants the slang before Ch 16+ reuse. Extra confusion risk: Ch 2–3 bakers are *commercial clients* (grain rates); later “bakers” are *rumour mouths* — same word, two jobs.
 
-**Do not yet:** invent a baker plot mid-read.
+**Later (if pursued):**
+
+- Early plant: e.g. Hordeonius/Sosia/Nysa hears a baker-version of news and tags it rumour / short version / already wrong.
+- Soften later lines so “bakers” = mill is audible without a glossary.
+- Optional light callback to Ch 3 agent so the world feels continuous — not a baker conspiracy.
+
+**Do not yet:** invent a baker plot mid-read; don’t reopen Ch 1–3 polish wars just for one plant if a mid-book line can teach the slang.
+
+---
+
+## 17. Other confusing “slang” / trade-chorus (rumour-mill cousins)
+
+**Author:** Make sure there isn’t other confusing slang like bakers-as-rumour-mill.
+
+**Pass (trade / place used as mouth for “what Rome is saying”):**
+
+| Chorus | Where | Clarity | Note |
+|--------|-------|---------|------|
+| **Bakers** | Ch 16, 17, 21, 29 (+ Ch 2–3 commercial) | **Weak** | Missed as rumour mill; see §16 |
+| **Wine shops** | Ch 18 fringe; Ch 21–22, 24 | **OK** | Usually paired with *sport / joke / laugh / furniture* — reads as underestimation chorus, not a cast |
+| **Kitchen / corridor / washerwomen** | Ch 12 (also kitchen boy Ch 11/14) | **OK** | Explicit “says” / gossip currency — household rumour mouths, clear |
+| **Quintus the fuller** | Ch 19 | **OK** | Named person with a torch, not slang |
+| **Subura** | many | **Mostly OK** | Place where rumour walks; geographic, not a job-title chorus |
+| **Cake-seller** | Ch 2–3 only | **OK** | Scene character; never reused as plural slang |
+| **Elders / Campania says** | Ch 21–22 | **OK** | Ordinary gossip attribution |
+| **Veterans** | many | **OK** | Actual force + pay mouths, not cryptic slang |
+
+**No other strong baker-twin found** — no parallel where a trade plural quietly means “rumour mill” without sport/joke/says scaffolding. Closest cousin risk is if a future line says “the fullers invent…” the way bakers do; don’t add that pattern.
+
+**Hygiene for later prose pass:** when a trade/place stands for a chorus, either (1) ground it once as rumour, or (2) keep the companion words (*rumour, lie, short version, sport, joke, say*). Bakers currently drop the scaffolding too often.
+
+**Do not yet:** full slang glossary or book-wide rewrite mid-read.
 
 ---
 
