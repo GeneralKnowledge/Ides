@@ -59,7 +59,7 @@ Overhear risk: Medium
 
 “Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is a temporary reduction in risk premiums. Do not confuse it with virtue. Virtue does not clear.”
 
-He adjusted tablets with priestly care. Africa’s ending—the same *closed enough* the Forum had spit about while cake-sellers laughed—had softened some rates; the western edges of the paper still burned enough to keep bakers polite. Spain unfinished was not a postcard. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
+He adjusted tablets with priestly care. Africa’s ending—the same *closed enough* the Forum had spit about while cake-sellers laughed—had softened some rates; the western edges of the paper still burned enough to keep bakers polite. The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a postcard. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
 
 Sosia, at his shoulder, muttered for the knot’s benefit, “Sea paper makes honest men seasick.”
 
@@ -86,5 +86,6 @@ A cake-seller from two stalls over—flour still on her forearms—leaned in wit
 - **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.  
 - FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.  
 - **Law-sweep:** ≥3-person atrium (patron + secretary + Seius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour (no nametag); Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.  
+- **Opening prose pass:** Ch 2 *new-ring: rate held / unpaid* still on the wax (transition stitch only).  
 - **Expansion D16 / IR-1:** Cake-seller Spain-rate question kept; meta “plant only” warehouse speech stripped.  
 - Next: Ch 4 Munda + soft chains.

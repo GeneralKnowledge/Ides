@@ -97,7 +97,7 @@ Before Porcia could press again, a steward brought word that Servilia’s messen
 
 A slave’s foot whispered in the corridor—household overhear as ordinary as dust. Brutus lowered his voice anyway.
 
-The foot returned with a tablet: an invitation, seal still soft, from a Caesarian host whose dinners made pardoned men feel forgiven and owned in the same course. Brutus had already heard what such rooms did—Africa toasted as spice last year, Spain’s new favourites laughing on cue this year. He read the names of the promised guests—two new Spain-postings, a man who toasted clemency as if it were sauce—and felt the chain tug toward the couch he was expected to warm.
+The foot returned with a tablet: an invitation, seal still soft, from a Caesarian host whose dinners made pardoned men feel forgiven and owned in the same course. Brutus had already heard what such rooms did—clemency toasted as spice last year while Africa’s favourites laughed on cue; Spain’s new men would do the same now. He read the names of the promised guests—two new Spain-postings, a man who still called mercy a flavour—and felt the chain tug toward the couch he was expected to warm.
 
 Porcia watched his hands, not the wax. “You will go,” she said, not as question.
 

@@ -1,7 +1,8 @@
 # Chapter 2 — Cato and Spectacle
 
 **Dinner-first opening (Option 2a)** · SC-01, SC-02 · late 46 BC · A1 aftermath · FS10 · G1/G2  
-**Chronology:** Same season as Ch 1 dinner — Forum still living under Africa-closed weather (not a jump back to spring news-hour).
+**Chronology:** Same season as Ch 1 dinner — Forum still living under Africa-closed weather (not a jump back to spring news-hour).  
+**Opening prose pass + cold-read:** unpaid deal kept; thesis-line stack thinned; Nysa withhold kept
 
 ---
 
@@ -10,7 +11,7 @@
 POV: F4 Hordeonius (Cicero fringe in-scene, not a cut) · Forum basilica  
 Date / place: Late 46 BC · banker stalls / basilica edge  
 Canon refs: A1 · Chain 1  
-Info ENTER: Elite soft-chain talk already in the air · EXIT: Thapsus/Cato still moral-economic weather; city turning victory into parade residue and land argument  
+Info ENTER: Elite soft-chain talk already in the air · EXIT: Named unpaid risk on new-ring client; Thapsus/Cato still moral-economic weather  
 Overhear risk: High (Forum)
 
 ---
@@ -21,29 +22,31 @@ Africa still hit the stalls like a price change with blood in it.
 
 He adjusted grain expectations with solemn grief. “A man like Cato,” he told a client whose ring was too new, “is bad for markets and good for sermons. I prefer markets, but I respect sermons that stay out of my ledgers.”
 
-The client wanted a moral. Hordeonius gave him a rate. The client’s mouth opened for philosophy, closed on the number, and produced a thin grateful smile suitable for patrons and priests alike.
+The client wanted a moral. Hordeonius gave him a rate. The client’s mouth opened for philosophy, closed on the number, and produced a thin grateful smile suitable for patrons and priests alike—then the smile snagged.
 
-“You honour the dead with arithmetic,” the client said, careful.
+“For Cato’s sake,” the new-ring said, louder now, “shave it. Land is coming. Veterans will pay when the colonies open. A patriot’s rate.”
 
-“I honour the living with invoices,” Hordeonius answered, equally careful.
+Sosia, at Hordeonius’s elbow collecting opinions with the coins, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in as if the stall had become a temple.
 
-Across the way Cicero received the same fact as a bruise that had not faded—Cato dead by his own hand, Caesar’s victory complete enough to make mercy look like a style, and the bruise still useful to men who priced eloquence. Cicero’s mouth shaped a period and lost it—the right clause refusing to arrive while lesser men were already converting a suicide into a slogan. Hordeonius watched the lost period the way he watched a late payment: interesting, not urgent. Eloquence without a ledger still moved air; air did not clear.
+Hordeonius kept the rate where it was and tapped the tablet once, soft as a closed door.
 
-“They made him marble before the season was out,” someone muttered at Hordeonius’s elbow—Sosia, collecting opinions with the coins. “Marble still doesn’t clear.”
+“I honour the dead with arithmetic,” he said, careful. “I honour the living with invoices. Land that is not yet land does not clear. Pay this, or take your patriotism to a stall that sells wishes.”
 
-“Marble does not clear,” Hordeonius agreed, not to Cicero, to the air that smelled of money and onion. He kept *Africa: closed enough* under his stylus and felt the city’s mood shift anyway—closed accounts that refused to stay closed.
+The new-ring’s face flushed under the smile. “You price Cato like onions.”
 
-A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. A veteran’s cousin asked whether land would come faster now that the war had a famous corpse and a triumph’s leftover wagons. A clerk from a nearby stall argued that famous corpses were inflation for patriotism and deflation for grain. Nobody agreed; the Forum only sold noise.
+“Onions keep,” Hordeonius answered. “Marble doesn’t.”
 
-Hordeonius let the noise run until it sorted itself into prices. Thapsus as fact. Utica as theatre. Cato as a sermon that would outlive the men who priced him. He did not need Cicero’s unfinished period to know the Republic had been bruised; he needed to know whether bruised men still paid on the Kalends.
+The client did not take the tablet. He left the rate hanging—neither paid nor refused cleanly—and walked three stalls away before he spat the smile out to his older companion. “Sermons out of his ledgers—what a patriot.”
 
-When the new-ring client was three stalls away, he spat the smile out. “Sermons out of his ledgers—what a patriot. He priced Cato like onions.”
+The older ring did not bother with courtesy once the banker could not hear. “Pay the rate and stop performing grief for clerks. Or don’t, and let him write you down.”
 
-His companion—another ring, older—did not bother with courtesy once the banker could not hear. “Onions keep. Marble doesn’t. Pay the rate and stop performing grief for clerks.”
+The cake-seller overheard and laughed once, short. Sosia waited. Hordeonius wrote *new-ring: rate held / unpaid* under *Africa: closed enough* and left the stylus resting on the name.
 
-The cake-seller overheard and laughed once, short, the way street laughter admits a hit.
+Across the way Cicero received the same Africa as a bruise that had not faded—Cato dead by his own hand, Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it while lesser men converted suicide into slogan. Hordeonius watched the unfinished period the way he watched any account that had not cleared: interesting, not urgent.
 
-By afternoon the same stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which Domus runners still hugged oil jars like secrets. Hordeonius priced that too—spectacle was a tax on patience—and watched a Domus Publica runner cut through the press. The house that served the victor was still counting eyes. The unfinished question under *Africa: closed enough* was not whether Caesar had won. It was what the city would do with a victory loud enough to drown land promises—and soft enough, in better dining rooms, to be toasted as spice.
+A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and a triumph’s leftover wagons. A clerk from a nearby stall argued the opposite with the same confidence. Nobody agreed; the Forum only sold noise. Hordeonius let it run until it sorted into prices—Thapsus as fact, Utica as theatre, Cato as a sermon that would outlive the men who priced him—and one unfinished account waiting on the Kalends.
+
+By afternoon the same stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which Domus runners still hugged oil jars like secrets. Hordeonius priced that too and watched a Domus Publica runner cut through the press. The house that served the victor was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
 
 ---
 
@@ -52,7 +55,7 @@ By afternoon the same stalls were still selling triumph weather: which streets h
 POV: F1 Nysa · Sacra Via / Domus Publica orbit · FS10  
 Date / place: Late 46 · street past the Domus Publica (spectacle residue / land hangover)  
 Canon refs: FS10 · household INF  
-Info ENTER: Household prep · EXIT: Booty/slave flood memory; veterans expect land  
+Info ENTER: Household prep · EXIT: Chooses what to report upstairs; land spit withheld  
 Overhear risk: Extreme street  
 **G1:** Second POV — collides with F4’s unfinished question (closed Africa → what victory costs on the street / at the house)
 
@@ -64,7 +67,7 @@ Captives, gold, painted lies on wagons—Rome had swallowed Africa as parade, an
 
 A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
 
-Nysa filed the spit beside the cheers. Cheers were loud; spit lasted.
+Nysa kept the spit with the cheers. Cheers were loud; spit lasted.
 
 Children screamed at elephants or at the idea of elephants that had already passed. A woman in the crowd named a captive wrongly and was corrected with pride. Rumour walked faster than any procession left in memory. Nysa kept both wrong names; wrong names were how the street remembered.
 
@@ -72,15 +75,20 @@ Near the Domus steps a banker-looking man—ring, stylus, onion-and-money face�
 
 Caesar passed at the edge of sight—or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn't look at her. Great men didn't look at errands. She preferred it—looking made you responsible for what you saw.
 
-A second veteran, younger, argued with the first about colonies and whether Africa’s corpse meant Italy’s farms. Neither had a farm. Both had scars. Nysa walked between their voices and did not choose a side. Choosing sides was how errands became politics, and politics was how basins got dropped.
+A second veteran, younger, argued with the first about colonies and whether Africa’s corpse meant Italy’s farms. Neither had a farm. Both had scars. The younger one glanced at her oil jars as if a Domus errand made her a clerk of promises, then at the spit still drying on the stone, and shut his mouth.
 
-Back in the service court she set down the oil and told Dama nothing about land. Land talk belonged to men with scars and empty hands. She belonged to doors, basins, and listening hard enough that her face stayed blank while her hands kept moving. Across the river, Phileros had muttered, a foreign household was learning Roman hours—none of her oil. The parade noise still pressed the house’s walls. Closed Africa, she noted, had not closed the counting.
+Nysa walked between their voices and did not answer. Answering was how errands became politics, and politics was how basins got dropped.
+
+Back inside she set down the oil. Dama waited with the inventory face. Phileros would want eyes: who lingered, which clients came early, what the street was selling.
+
+She reported the Domus smile’s early clients and the banker look by the steps. She did not report the land spit. Carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours—she left that unsaid too. None of her oil. The parade noise still pressed the house’s walls. Closed Africa had not closed the counting.
 
 ---
 
 ## Continuity
 - A1 moral-economic shock preserved as **living late-46 weather** after Ch 1 dinner (not spring news-flashback).  
+- **Prose pass + cold-read:** unpaid rate held; onions/marble kept once; inflation/eloquence thesis lines cut; Nysa reports banker/clients, **withholds** land spit and Transtiberim mutter. Unpaid client is a consequence mark, not a new subplot.  
 - FS10 land hunger seeded (veteran spit). Competing interpretations held.  
-- Soft Transtiberim fringe in Nysa’s exit (rumour only; no Cleo POV).  
+- Soft Transtiberim fringe retained as withheld rumour (no Cleo POV).  
 - **G1:** Hordeonius primary; Nysa second as collision with *Africa: closed enough*.  
 - MUST_EXPRESS: A1, B4 seed. Next: Ch 3 debt.
