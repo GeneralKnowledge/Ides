@@ -16,7 +16,7 @@ Overhear risk: Interpreters
 
 Cassius listened to a city’s elders explain poverty with practiced dignity.
 
-The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup as if auditing the room. “Liberty,” he said, “is not free. Rome’s disease is expensive. You will help cure it.” He didn't raise his voice.
+The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup as if auditing the room. “Liberty costs,” he said. “Rome’s disease is expensive. You will help cure it.” He didn't raise his voice.
 
 He let silence work after the sentence—Brutus’ tool, borrowed without credit. Silence made elders fill the air with offers—most of them dates that were not dates.
 

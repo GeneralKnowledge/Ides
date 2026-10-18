@@ -18,9 +18,9 @@ Hordeonius walked fields that had been other men’s names.
 
 Boundary stones still remembered older owners; his stylus had overwritten them in town with the neatness he once reserved for honest Kalends. Birds argued over seed that was no longer anyone’s virtue. The old Visellius tablets resurfaced in a crate—ash-smudged, worthless, archaeology as promised. SIDE-1b stayed OPEN-0: no courtroom, no crown, only ash under civil war’s larger corpses.
 
-He almost prayed over the tablets. Instead he stacked them for kindling and whispered, “Sacred once,” like a man consoling a cult statue that had failed to keep anyone alive. Sosia asked if the yields would clear. Hordeonius said yields were not the problem. Sleep was. Interest, for the first time, could not purchase it.
+He almost prayed over the tablets. Instead he stacked them for kindling and whispered, “Sacred once,” like a man consoling a cult statue that had failed to keep anyone alive. Sosia asked if the yields would clear. Hordeonius said the yields would clear; sleep wouldn't. Interest, for the first time, could not purchase it.
 
-A hired man asked whether to pull down a boundary shrine that named the old owner. Hordeonius said leave it. Leaving it was not mercy. Leaving it was the smallest unpaid debt he could still afford. He told the empty lane he had preserved value—solvent men, seals, a Republic that still needed warehouses. The lane didn't absolve. Owls didn't either.
+A hired man asked whether to pull down a boundary shrine that named the old owner. Hordeonius said leave it—the smallest unpaid debt he could still afford, not a kindness. He told the empty lane he had preserved value—solvent men, seals, a Republic that still needed warehouses. The lane didn't absolve. Owls didn't either.
 
 He walked home counting paces the way he once counted interest and found that counting no longer calmed him. In the city, someone would call this winning. Hordeonius called it dirt that had learned his name and refused to forget it.
 
@@ -80,13 +80,13 @@ The messenger tried. Names arrived missing. Directions softened into gestures at
 
 Cassius, who had trusted numbers, trusted a broken number because broken numbers still looked like numbers if you needed them enough to hate delay. He asked one clarifying question about Brutus’ sector. The answer came as a shrug wearing words.
 
-Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare. Glare was not a number he could punish.
+Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare—nothing he could count, nothing he could punish.
 
 He dismissed the messengers with a bow that meant *done*. Alone enough—alone with two men whose faces already disagreed about everything except the steel—he made the end himself rather than wait for the plain to invent a worse one.
 
 He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as a sum that would not clear and closed the account the only way left.
 
-On another part of the field the day was not finished. Messengers were still lying in good faith. Cassius was finished. Bad news, believed, had been enough.
+On another part of the field messengers were still lying in good faith. Cassius was already done. Bad news, believed, had been enough.
 
 ---
 

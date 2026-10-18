@@ -16,7 +16,7 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange Monday. Trebonius nodded like a man accepting a boring errand that was not boring. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange Monday. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 

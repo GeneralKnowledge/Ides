@@ -32,7 +32,7 @@ Decimus felt the hit. He had not known Antony’s count was that close. He kept 
 
 “Hirtius will come if Rome remembers how to send men,” Antony said. “Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
 
-That was not negotiation. That was a ledger opened in public. Decimus’s throat tightened—the old key turning. He didn't climb down. Climbing down would've looked like confession.
+Antony had opened a ledger in public, not a negotiation. Decimus’s throat tightened—the old key turning. He didn't climb down. Climbing down would've looked like confession.
 
 “No,” Decimus said. “Not for breakfast. Not for your count of my smoke.”
 

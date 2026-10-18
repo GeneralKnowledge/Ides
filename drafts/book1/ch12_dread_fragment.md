@@ -50,7 +50,7 @@ She walked on with empty hands and a full head. In the side room she pressed wha
 
 She wrapped the fragment in linen and set it against her ribs. She didn't understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door—and that she might already have the wrong half.
 
-Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. This was not rumour yet. This was a splinter that could mean mercy or trap depending on which word you stressed.
+Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter—mercy or trap depending on which word you stressed—and it hadn't yet grown legs as street rumour.
 
 ---
 
@@ -66,7 +66,7 @@ Overhear risk: Medium
 
 Caesar didn't keep an enemies list. He kept work.
 
-He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Fear was in the house—Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional *beware*—and he treated it like March weather: real, inconvenient, not a reason to cancel the city’s work.
+He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional *beware*—he treated the fear in the house like March weather: real, inconvenient, not a reason to cancel the city’s work.
 
 Decimus came and went with the ease of a man who had earned doors. Caesar trusted that ease the way he trusted a bridge he had watched built. Trust was habit. Habit had won Gaul more often than omens had.
 

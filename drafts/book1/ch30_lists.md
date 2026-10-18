@@ -32,7 +32,7 @@ Lepidus cleared his throat. “He still has friends who write.”
 
 “Then they can write his epitaph,” Antony said. “Or they can join him.”
 
-Who had first thought the name did not matter on the wood. The name stood, and no one struck it out. Contested was honest. Silence was a vote.
+Who had first thought the name did not matter on the wood. The name stood, and no one struck it out. Leaving it contested was at least honest; nobody spoke against it.
 
 “We buy the war with this,” Antony said, tapping the tablet.
 
