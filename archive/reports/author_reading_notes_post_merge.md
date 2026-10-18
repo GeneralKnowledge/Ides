@@ -225,6 +225,27 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 12. Another “LLM English” pass — em dashes + not-X / it’s-Y
+
+**Author:** Should do another remove-LLM-English pass. Em dashes everywhere — has never written one in life but *likes the pause*. Also a lot of “it’s not an X, it’s a Y” kind of talk. Doesn’t think this is nitpicking.
+
+**Spot-check on current `drafts/book1` (prose before Continuity blocks):**
+
+- **Em dashes (—):** ~698 across 34 chapters (heavy chapters in the 30s). Real density problem, not imagination.
+- **Antithesis / correction habit:** present in forms like “not a joke tonight—only powder…”, “not the knife, only the house…”, “Not a date on a tablet—only hills…”, “was not whether… It was what…”, plus ~19 “—not …” corrections. Exact “it’s not X, it’s Y” boilerplate is less ubiquitous than the *family* of not-A—only-B / was-not-A-it-was-B rhetorical flips.
+- Related tell already felt in §6: heavy **as if** (~111) feeding metaphor weather.
+
+**Pass shape (when commissioned — not now):**
+
+- Cut or demote stacked antitheses; prefer one plain statement or a staged action.
+- Em dashes: reduce hard; keep *some* pause where breath matters (author likes the pause) — favour comma / period / conjunction over decorative — pairs.
+- Do not “synonym swap” into equally synthetic rhythm; aim for how the author actually writes.
+- Separate from humour staging (§11) and Batiatus drive (§6), but same underlying artificiality.
+
+**Do not yet:** run the pass mid-golden-read. Queue after the read / with other prose hygiene.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
