@@ -95,6 +95,32 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 6. Early-read hypothesis (author @ Ch 6) — talk / thought / metaphor instead of drive
+
+**Feeling:**
+
+- No one is messing around or *directly driving* the story.
+- Everyone is always talking, thinking, or using metaphor.
+- “This is everywhere.”
+- Intended entertainment target remembered: **GOT** (moral grey, wit as weapon, aftermath messy) + **Spartacus Latin-esque bite** (esp. Batiatus ego-humour) — and HBO *Rome* as a reminder that liberties can still be interesting.
+- Expectation: we should have a **Batiatus character**.
+
+**What the project already claims (for testing, not defense):**
+
+- TONE-1 / HUMOR-1: Spartacus bite + GRRM weight; Batiatus-style unintentional ego comedy.
+- **Primary Batiatus carrier on paper:** F4 Hordeonius (also Balbus / selective Dolabella as secondary). Sample chip exists; he is meant to be funny because solemn, not because he winks.
+- Ch 6 on the page (Cicero doorway + Hordeonius stall) is heavy on arranged smiles, filed laughs, soft sentences, “as if,” rates-as-metaphor — i.e. exactly the talk/think/figure pattern the author is naming. Even Hordeonius’s “Late… Not for the sermon” beat is impatience inside a conversation about futures, not a messy human *doing*.
+
+**Open questions for the rest of the read:**
+
+- Does anyone later *act first* (door, blade, donative, refusal, theft, sex, brawl, bad joke that costs) more than they price/narrate?
+- Does Hordeonius ever feel like Batiatus in a room — patronage theatre, ego housekeeping, damage as ledger — or mostly like a clever rates essay?
+- Do Antony / Laberius / Decimus / Seia Prima supply the *Rome*-show entertainment (liberty taken, still fun) that Cicero/Cassius abstraction doesn’t?
+
+**Do not yet:** rewrite tone book-wide, invent a new Batiatus OC, or force quips. If this still dominates after Lupercalia / recruitment / Ides, it graduates from “Ch 6 fog” to a core dramatic-entertainment problem.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
