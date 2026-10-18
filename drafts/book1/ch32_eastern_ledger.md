@@ -16,7 +16,7 @@ Overhear risk: Interpreters
 
 Cassius listened to a city’s elders explain poverty with practiced dignity.
 
-The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup as if auditing the room. “Liberty,” he said, “is not free. Rome’s disease is expensive. You will help cure it.” He did not raise his voice. Mathematics did not need volume.
+The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup as if auditing the room. “Liberty,” he said, “is not free. Rome’s disease is expensive. You will help cure it.” He didn't raise his voice.
 
 He let silence work after the sentence—Brutus’ tool, borrowed without credit. Silence made elders fill the air with offers—most of them dates that were not dates.
 
@@ -30,11 +30,11 @@ The interpreter began, “What he means—”
 
 The elder’s mouth worked. He took the half and the sureties. Hatred stayed on the young clerk’s face; survival stayed on the elder’s. Cassius signed for ships on that arithmetic.
 
-Before the audience closed, a courier from the west—dust, salt, a seal cracked by too many hands—brought news that arrived as three incompatible tablets: Mutina won and lost; consuls dead; lists in Italy; Decimus gone; the boy with fasces; Antony still breathing. Cassius kept all three and did not merge them. He did not halt the extraction for a rumour’s sake. Philippi was a place on a road, not a prophecy—only a field where numbers would have to stand up and fight.
+Before the audience closed, a courier from the west—dust, salt, a seal cracked by too many hands—brought news that arrived as three incompatible tablets: Mutina won and lost; consuls dead; lists in Italy; Decimus gone; the boy with fasces; Antony still breathing. Cassius kept all three and didn't merge them. He didn't halt the extraction for a rumour’s sake. Philippi was a place on a road, not a prophecy.
 
-An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He did not offer the Forum a prettier noun. He dismissed the elders with courtesy sharp enough to cut.
+An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn't offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*.
 
-On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and did not smile. Escaped papers became other men’s geometry. He preferred his own.
+On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and didn't smile. Escaped papers became other men’s geometry. He preferred his own.
 
 ---
 
@@ -56,7 +56,7 @@ Brutus held a fresh coin. The metal still held the heat of striking. Around him,
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear. Brutus did not ask which version was true—asking would have required a Forum he no longer owned. One honest doubt crossed him: *If Cato could see the ledgers—* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway—brand as comfort, brand as trap—and walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear. Brutus didn't ask which version was true—asking would've required a Forum he no longer owned. One honest doubt crossed him: *If Cato could see the ledgers—* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway—brand as comfort, brand as trap—and walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 

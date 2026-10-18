@@ -20,7 +20,7 @@ Boundary stones still remembered older owners; his stylus had overwritten them i
 
 He almost prayed over the tablets. Instead he stacked them for kindling and whispered, “Sacred once,” like a man consoling a cult statue that had failed to keep anyone alive. Sosia asked if the yields would clear. Hordeonius said yields were not the problem. Sleep was. Interest, for the first time, could not purchase it.
 
-A hired man asked whether to pull down a boundary shrine that named the old owner. Hordeonius said leave it. Leaving it was not mercy. Leaving it was the smallest unpaid debt he could still afford. He told the empty lane he had preserved value—solvent men, seals, a Republic that still needed warehouses. The lane did not absolve. Owls did not either.
+A hired man asked whether to pull down a boundary shrine that named the old owner. Hordeonius said leave it. Leaving it was not mercy. Leaving it was the smallest unpaid debt he could still afford. He told the empty lane he had preserved value—solvent men, seals, a Republic that still needed warehouses. The lane didn't absolve. Owls didn't either.
 
 He walked home counting paces the way he once counted interest and found that counting no longer calmed him. In the city, someone would call this winning. Hordeonius called it dirt that had learned his name and refused to forget it.
 
@@ -42,9 +42,9 @@ Antony liked the plain’s honesty: kill or be rearranged. Marshes and hills bro
 
 He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Do not chase the pretty gap. Fill it. Timing, not poetry.” The tribune’s mouth opened on a question; Antony was already past him. Omens were for the tents. On the field he trusted weight and the sound of men who still obeyed.
 
-Dust coated his teeth. He spat and pointed and the pointing became cohorts moving—not clean, not parade, but moving. Someone shouted Cassius’ name from a direction that might have been victory or panic. Antony did not pause to translate the shout. Translation was for after the counting, if counting still had owners.
+Dust coated his teeth. He spat and pointed and the pointing became cohorts moving—not clean, not parade, but moving. Someone shouted Cassius’ name from a direction that might have been victory or panic. Antony didn't pause to translate the shout. Translation was for after the counting, if counting still had owners.
 
-A standard dipped, rose, dipped again in the marsh glare. Antony cursed once—short, practical—and sent a second line into the dip before the dip became a story. Competence in blood was the only joy left that did not ask for speeches.
+A standard dipped, rose, dipped again in the marsh glare. Antony cursed once—short, practical—and sent a second line into the dip before the dip became a story.
 
 ### F3 — Laberius
 
@@ -72,7 +72,7 @@ Overhear risk: Few
 
 The messenger’s mouth was wrong before the words were.
 
-Dust made the man’s tongue thick; fear made it thicker; distance made the map in Cassius’ head hungry for confirmation. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day: standards gone, wing broken, Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
+Dust made the man’s tongue thick; fear made it thicker. The map in Cassius’ head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day: standards gone, wing broken, Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
 
 “Say it again,” Cassius said. “Slower. Names. Directions. Which standard.”
 
@@ -82,9 +82,9 @@ Cassius, who had trusted numbers, trusted a broken number because broken numbers
 
 Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare. Glare was not a number he could punish.
 
-He dismissed the messengers with a courtesy sharp enough to cut. Courtesy, like taxes, had always been a blade if held correctly. Alone enough—alone with two men whose faces already disagreed about everything except the steel—he made the end himself rather than wait for the plain to invent a worse one.
+He dismissed the messengers with a bow that meant *done*. Alone enough—alone with two men whose faces already disagreed about everything except the steel—he made the end himself rather than wait for the plain to invent a worse one.
 
-He did not speechify liberty. He did not correct the map. He treated the incomplete report as a sum that would not clear and closed the account the only way left.
+He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as a sum that would not clear and closed the account the only way left.
 
 On another part of the field the day was not finished. Messengers were still lying in good faith. Cassius was finished. Bad news, believed, had been enough.
 

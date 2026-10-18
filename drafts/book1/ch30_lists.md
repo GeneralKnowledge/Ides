@@ -24,7 +24,7 @@ Antony’s stylus paused on a lesser enemy first—a man who had borrowed money 
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-The tent’s air did three things at once. Lepidus looked at his hands as if hands could abstain from history. Octavian’s face did not move enough to save anyone. For a breath the boy’s own inventory argued: the orator had aimed him like a sword; swords that talk too well cut both ways; sparing him meant keeping Antony’s favourite wound open and the boy’s lists thinner when the next Kalends asked for blood.
+Lepidus looked at his hands as if hands could abstain from history. Octavian’s face didn't move enough to save anyone. For a breath the boy counted the cost of sparing Cicero—Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood.
 
 Saving the orator would have cost a different war—one with Antony still armed and the coalition already smelling of unfinished business. Octavian kept the cost behind his teeth. He corrected nothing. He offered no period.
 
@@ -40,7 +40,7 @@ Who had first thought the name did not matter on the wood. The name stood, and n
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
-Antony poured wine that did not taste like celebration. Octavian did not drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew—and somewhere south of the tent, a road toward Formiae had already begun to matter.
+Antony poured wine that did not taste like celebration. Octavian didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing; inside, the lists grew—and somewhere south of the tent, a road toward Formiae had already begun to matter.
 
 ---
 
@@ -56,13 +56,13 @@ Overhear risk: Extreme terror
 
 ### F2 — Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius did not stop walking. Stopping looked like guilt. He bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks as if locks were theology. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She did not laugh. Laughter was expensive now. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn't stop walking. Stopping looked like guilt. He bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks as if locks were theology. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn't laugh. Laughter was expensive now. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
 ### F4 — Hordeonius
 
 Hordeonius acquired a neighbour’s leases—and a widow’s garden rights—through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed—arrived late, left early, charged interest he could not collect from his own nerves.
 
-“I am preserving value,” he informed his empty shelf. “A Republic without solvent men is only a riot with better Latin.” The shelf did not absolve. Sosia looked at him as if he had told a joke. He had not. That was the trouble with truth under proscription: it wore humour’s clothes without asking. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’ old room for no reason and told himself archaeology was closed.
+“I am preserving value,” he informed his empty shelf. The shelf didn't absolve. Sosia looked at him as if he had told a joke. He had not. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’ old room for no reason and told himself archaeology was closed.
 
 ### F1 — Nysa
 

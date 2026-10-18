@@ -20,9 +20,9 @@ Brutus pressed two fingers under his ribs where the reports had lodged and found
 
 He had the versions in incompatible shapes: Cassius broken; Cassius mistaken; Cassius ended by his own hand on a lie the plain told. Brutus kept all three without choosing. What they shared was enough: Cassius was gone.
 
-He did not deliver a speech about it. This was weight and breath and a line that still needed bodies.
+He didn't deliver a speech about it. This was weight and breath and a line that still needed bodies.
 
-He fought as if philosophy could stiffen a shield-wall. For a while it did—faces that had minted *EID MAR* with him held because holding was the last clean noun left. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear.
+He fought as if philosophy could stiffen a shield-wall. For a while it did—faces that had minted *EID MAR* with him held because holding was what they still knew how to do. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear.
 
 Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s grain more than yesterday’s brand. Both kinds broke when the plain insisted. An officer begged him to pull back to a cleaner hill. Brutus looked at the cleaner hill and saw only another place to lose the same day slower.
 
@@ -34,13 +34,13 @@ He held what he could until what he could was a shrinking knot. He ended without
 
 Octavian was ill enough that credit became argument among healthier men.
 
-Fever made the tent canvas pulse. Sweat ran into his eyes and made the map swim. A courier asked for orders. Octavian gave two that mattered—hold the camp ditch; do not chase beyond the markers Agrippa had set—and one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He did not invent himself as genius of the plain. He survived noise and other men’s versions of his usefulness.
+Fever made the tent canvas pulse. Sweat ran into his eyes and made the map swim. A courier asked for orders. Octavian gave two that mattered—hold the camp ditch; do not chase beyond the markers Agrippa had set—and one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn't invent himself as genius of the plain. He survived noise and other men’s versions of his usefulness.
 
 Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and did not bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
+When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and didn't bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
 
 ---
 
@@ -60,7 +60,7 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments—farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “Italy will wait. Italy always complains. The East is bleeding now.”
 
-He did not hear the complaint under the congratulations. He heard the congratulations. Outside the tent, a horse stamped. Antony laughed once, short, and went back to the map.
+He didn't hear the complaint under the congratulations. He heard the congratulations. Outside the tent, a horse stamped. Antony laughed once, short, and went back to the map.
 
 ---
 
@@ -76,7 +76,7 @@ Overhear risk: Advisors
 
 Fever had eased into a thin clarity. “They will want farms,” Agrippa said.
 
-“They will want farms that belong to someone else,” Octavian said. He did not dress the geometry. He kept one hand flat on the list of promised acres until the paper stopped fluttering in the road wind—as if paper could be made to hold still when the soil under it would not.
+“They will want farms that belong to someone else,” Octavian said. He didn't dress the geometry. He kept one hand flat on the list of promised acres until the paper stopped fluttering in the road wind—as if paper could be made to hold still when the soil under it would not.
 
 ---
 
