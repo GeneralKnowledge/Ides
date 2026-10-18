@@ -16,7 +16,7 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange Monday. Trebonius nodded like a man accepting a boring errand that was not boring. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange Monday. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
@@ -50,9 +50,9 @@ Not only games—also a cousin’s lawsuit, a bookish slight, the eternal questi
 
 “The city is theatrical,” he wrote, then sharper: “Theatre is what remains when men of standing refuse to stage a Republic.”
 
-He considered a sentence about Caesar’s departure east and the offices stacked like bricks ahead of lesser men. He considered—briefly—whether Brutus looked tired at last dinner. Tired was not a conspiracy. Tired was March.
+He considered a sentence about Caesar’s departure east and the offices stacked like bricks ahead of lesser men. He considered—briefly—whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus had brought a note from Hirtius’s orbit about nothing that mattered. Cicero answered with courtesy that congratulated itself. He did not know Trebonius was learning how to hold a consul with talk. He did not know Decimus had become a key. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
+Sphaerus had brought a note from Hirtius’s orbit about nothing that mattered. Cicero answered with courtesy that congratulated itself. He didn't know Trebonius was learning how to hold a consul with talk. He didn't know Decimus had become a key. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
 
 He sealed the letter. Sealing felt like action. In the garden a thrush made a sound like a hinge. Cicero took it for spring.
 
@@ -76,9 +76,9 @@ Around the brazier the talk was colonies and delays—who had been promised land
 
 “When the eagle flies east,” Vibius answered, “we count dirt.”
 
-Laberius did not hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps the way fire lived in dry grass—waiting for a match that would look, later, like grief. He did not know a funeral would be that match. He only knew the powder was soft underfoot already, and soft powder still burned.
+Laberius didn't hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps the way fire lived in dry grass—waiting for a match that would look, later, like grief. He didn't know a funeral would be that match. He only knew the powder was soft underfoot already, and soft powder still burned.
 
-Someone sang a dirty song about kings. Laberius laughed once, short. Laughter was not loyalty. Loyalty was the next donative arriving with a name he trusted on the wind.
+Someone sang a dirty song about kings. Laberius laughed once, short, and the laugh bought him nothing. What bought him was the next donative arriving with a name he trusted on the wind.
 
 ---
 
@@ -100,7 +100,7 @@ Cassius’s finger stopped on one blank place in the list he kept only in his he
 
 Brutus waited. Missing men made rooms louder.
 
-“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, he becomes a different kind of fever.”
+“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, fever takes him and we take the door.”
 
 Brutus’s money sat outside the door like a creditor not invited. A note had arrived that afternoon—polite, exact, a lender who still smiled when he named the Kalends. Brutus had not answered. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
 
@@ -110,7 +110,7 @@ Brutus looked at his own hands. They were clean. He rubbed a thumb across the pa
 
 Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
-The room was small enough that fear had to stand close and pretend it was resolve. Brutus’s hesitation was not a speech. It was a breath held past comfort, then released.
+The room was small enough that fear had to stand close and pretend it was resolve. Brutus's hesitation lasted a breath past comfort, then released.
 
 “GO,” Brutus said.
 
@@ -118,7 +118,7 @@ Not inventory. Choice. The word tasted like metal and unpaid interest.
 
 Cassius’s nod was small. Small nods moved mornings. He named the redistributed door once, checked Trebonius’s leash in principle, and stopped talking before talk became a way to unmake the lock.
 
-Brutus nodded once. The ancestral gesture. He did not sleep well after. Sleep was for mornings that were not knives. Cassius slept worse and called it planning.
+Brutus nodded once. The ancestral gesture. He didn't sleep well after. Sleep was for mornings that weren't knives. Cassius slept worse and called it planning.
 
 They left the room separately. Outside, a baker’s boy argued with a customer about ordinary March prices, and neither man looked twice at the two who had just spent a breath on knives.
 

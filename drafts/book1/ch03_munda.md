@@ -24,9 +24,9 @@ Vibius, his optio, spat a black fleck and checked the rivets on a shield that ha
 
 Laberius checked his boots, the man on his left again, the dull place behind his knees that meant too little sleep. Philosophy could wait for men with tents. He had a century and a fear he refused to name because naming made it louder.
 
-A courier’s gossip claimed Caesar had been hard-pressed yesterday. Another claimed the opposite with the same confidence. Laberius filed both under *noise until steel*. When the signal came, it was not a speech. It was movement: packs, lines, the short curses of men who preferred work to prophecy.
+A courier’s gossip claimed Caesar had been hard-pressed yesterday. Another claimed the opposite with the same confidence. Laberius filed both under *noise until steel*. When the signal came, packs and lines moved—short curses from men who preferred work to prophecy.
 
-An older miles on his right mumbled a prayer that sounded like a shopping list: knees, sons, the next donative. Laberius did not mock him. Mockery was for men who still had water to waste.
+An older miles on his right mumbled a prayer that sounded like a shopping list: knees, sons, the next donative. Laberius didn't mock him. Mockery was for men who still had water to waste.
 
 He did not know what Rome would call this morning. He knew what his hands would smell like by night if the morning kept its promises.
 
@@ -48,13 +48,13 @@ Nobody Laberius trusted had watched the corridor with leisure. Escape stories al
 
 Laberius shrugged, already thinking of pay and whether the colony rumours were lies. “Let the sea argue with him. I’ve argued enough.”
 
-He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. Laberius listened to Rome’s easy-win story arrive late on a clerk’s tongue, dressed as fact: *mopping finished; Spain settled.* The clerk had clean sandals. Laberius looked at his own and did not correct the clerk. Correction was unpaid labour.
+He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. Laberius listened to Rome’s easy-win story arrive late on a clerk’s tongue, dressed as fact: *mopping finished; Spain settled.* The clerk had clean sandals. Laberius looked at his own and didn't correct the clerk. Correction was unpaid labour.
 
 Vibius asked if Sextus mattered. Laberius answered with the only theology he owned: “If he can pay men, he matters. If he can’t, the sea can keep him.”
 
 Someone claimed Caesar had nearly broken. Someone else claimed Caesar had never blinked. Laberius trusted neither story enough to repeat it. He trusted the ache in his shoulders and the fact that paydays survived speeches.
 
-He did not follow the escape. Following was for cavalry and fools. He followed the next order, which was water, then sleep that would not come clean.
+He didn't follow the escape—following was for cavalry and fools. He followed the next order: water, then sleep that wouldn't come clean.
 
 ---
 

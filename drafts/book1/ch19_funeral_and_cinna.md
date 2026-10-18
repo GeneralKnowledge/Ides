@@ -15,17 +15,17 @@ Overhear risk: Extreme
 
 ---
 
-Antony did not need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
+Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
 
-The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money, gardens, grief, spectacle—the four truths of the city.
+The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle—the city’s honest reasons.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He did not invent the crowd’s anger. He aimed it.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: not verse, refrain. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard—evidence, not poetry. He didn’t invent the crowd’s anger. He aimed it.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
 
 Someone sobbed. Someone cursed Brutus by name. Antony kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
 
-The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. Antony did not pretend he controlled every spark. He controlled permission: no massacre on the Capitol on day one; yes, this heat now.
+The body was the point. Fire found it in the Forum because the Forum decided—or because men who liked fire decided for it. Antony didn’t pretend he controlled every spark. He controlled permission: no massacre on the Capitol on day one; yes, this heat now.
 
 When the first shops began to burn toward Liberators’ houses, Antony felt the old campaign clarity: the enemy’s city had become the enemy.
 
@@ -54,9 +54,9 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 “They’ll run to their rock,” the corporal said. “Then we’ll see how liberty tastes without bread.”
 
-When the pyre caught, Laberius felt the heat on his teeth. He did not cry. He measured distances to the streets where Liberators’ doors would be. Measuring was a soldier’s prayer.
+When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be—the old habit, distance before commitment.
 
-Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. Laberius did not take a torch. He took a mental note of who did. Notes survived campaigns.
+Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. Laberius didn’t take a torch. He took a mental note of who did. Notes survived campaigns.
 
 By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke.
 
@@ -73,13 +73,13 @@ Overhear risk: Extreme
 
 ---
 
-Nysa entered the Forum because Calpurnia’s house could not pretend the day was ordinary, and because Phileros wanted confirmation the way gamblers wanted dice.
+Nysa entered the Forum because Calpurnia’s house couldn’t pretend the day was ordinary, and because Phileros wanted confirmation the way gamblers wanted dice.
 
 She saw the cloth. She heard the refrains. She smelled the first wrong smoke—not sacrifice smoke, furniture smoke.
 
 A man lifted a child to see the fire and laughed, and Nysa thought of Calpurnia’s lap in the dream and had to look away.
 
-She did not see Antony as clever or monstrous. She saw a large man steering the crowd with his arms. She did not see Brutus at all. Height had become irrelevance.
+She didn’t see Antony as clever or monstrous. She saw a large man steering the crowd with his arms. She didn’t see Brutus at all. Height had become irrelevance.
 
 When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her ribs. She kept it. Relics were stupid. She was allowed one stupidity.
 
@@ -112,11 +112,11 @@ The name travelled faster than faces.
 “The poet—”  
 “Same filthy name—”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius—poet, some said tribune, some said Caesar’s friend, ink under his nail. He tried to say he was not Cornelius, not the praetor who had spat on the dead man’s name the day before, not the dagger—only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet—ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius, not the praetor who had spat on the dead man’s name the day before, not the dagger—only a throat full of syllables.
 
-The mob did not do literary criticism.
+The mob didn’t do literary criticism.
 
-Nysa saw the first stone. She did not see the last. She saw enough to understand the lesson Phileros would never teach: information did not have to be true to kill. It only had to be fast, simple, and shared by enough hands.
+Nysa saw the first stone. She didn’t see the last. She saw enough to understand the lesson Phileros would never teach: information didn’t have to be true to kill. It only had to move faster than a face.
 
 Someone yelled that this Cinna had signed with the Liberators. Someone else yelled that he had insulted Caesar in a poem years ago. A third yelled nothing, only hit.
 

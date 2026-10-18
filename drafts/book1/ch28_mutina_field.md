@@ -14,27 +14,27 @@ Overhear risk: High camp
 
 ---
 
-Laberius’ world narrowed to mud, shield rim, and which eagle still stood.
+Laberius’ world narrowed to mud and which eagle still stood.
 
-In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming and the Martians refusing to be held and someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out hard—hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius did not see strategy. He saw a standard tilt and a friend open at the neck. Blood mixed with meltwater until colour became argument.
+In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming and the Martians refusing to be held and someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out hard—hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius didn't see strategy. He saw a standard tilt and a friend open at the neck. Blood mixed with meltwater and ran pink off the rim of his shield.
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
 Pay talk lived under the noise like a second drum: who owed donatives, which Caesar’s name still fed mouths, whether Hirtius’ clean reputation meant Rome finally understood mud. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Bread argues later.”
 
-He kept his century from becoming a gap. Gaps ate men. When a signal dipped wrong in the wet air, he held the line anyway—signals lied as often as clerks.
+He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway—signals lied as often as clerks.
 
 Yell-rumours arrived before facts. Someone claimed a consul down. Someone claimed both. Someone claimed a victory large enough to make the ditch look like a lie. Laberius believed the ache in his forearms and nothing else—until mid-afternoon, when a staff officer he recognised from Hirtius’s tent came past on a blown horse, cloak dark with more than rain, and said to a tribune three paces from Laberius’s ear: “The consul Hirtius is dead. I held his shoulder. Do not invent a better story.”
 
-That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water—wounded, dying, fine, poisoned, blessed. Laberius did not promote any Pansa version. He had no shoulder to hold for that one.
+That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water—wounded, dying, fine, poisoned, blessed. Laberius didn't promote any Pansa version. He had no shoulder to hold for that one.
 
 Near dusk Antony’s near line pulled back toward the higher ground—not a rout Laberius could swear to, only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know; finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had an eagle and a gap where a friend had been.
 
-Water ran into his boots. He had stopped noticing wet hours ago; noticing returned when the fighting thinned and the cold found room. Vibius pointed at Mutina’s wall, still closed. “Town’s still his,” Vibius said—meaning Decimus. Laberius grunted. Walls did not feed the ditch.
+Water ran into his boots. He had stopped noticing wet hours ago; noticing returned when the fighting thinned and the cold found room. Vibius pointed at Mutina’s wall, still closed. “Town’s still his,” Vibius said—meaning Decimus. Laberius grunted. Walls didn't feed the ditch.
 
-A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it. Leaving was becoming the day’s second skill.
+A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it. Leaving was becoming the day’s other habit.
 
-He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried a friend’s boots—left boot split at the heel, still warm somehow—and did not invent a noun for them. He knew Hirtius was dead. He knew Antony’s near shields had thinned. What Rome would buy with those two facts, he left to the gallopers and did not follow their dust.
+He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried a friend’s boots—left boot split at the heel, still warm somehow—and didn't invent a noun for them. He knew Hirtius was dead. He knew Antony’s near shields had thinned. What Rome would buy with those two facts, he left to the gallopers and didn't follow their dust.
 
 ---
 

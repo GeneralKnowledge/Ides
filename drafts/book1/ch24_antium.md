@@ -28,7 +28,7 @@ Antony’s man offered wine from a skin that had travelled. Octavian’s man off
 
 “Stand with the name,” the boy’s man said. “The name still pays when the consul forgets.”
 
-Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. Listening was a veteran’s first weapon after the gladius. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius did not turn. Turning was half a yes.
+Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. He kept both men’s words in different pockets of his mind—wine in one, speed in the other—and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius didn’t turn; a turn would have been half a yes.
 
 ---
 
@@ -51,9 +51,9 @@ Cicero began well. He always began well. Return to Rome under arms? He painted t
 
 Porcia’s mouth tightened at every compromise. Tertulla watched Cassius’ empty place as if absence were an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’ dust to Favonius’ virtue.
 
-Cassius arrived mid-flow—late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust. He did not apologise for lateness. Apology was for men who still believed calendars were shared.
+Cassius arrived mid-flow—late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust. He didn’t apologise for lateness. Apology was for men who still believed calendars were shared.
 
-Cicero tried to resume. Cassius did not resume; he cut.
+Cicero tried to resume. Cassius didn’t resume; he cut.
 
 “Sicily,” Cassius said, when the corn commission surfaced. “They want me to feed the city while Antony feeds on it. I will not carry grain like a freedman while men who spared him call it peace.”
 
@@ -65,11 +65,11 @@ Brutus’ face did the old slow collapse into resolve. The Rome-return balloon�
 
 Servilia cut in—not loud. Loud was for men who needed to be seen cutting. “That clause in the decree,” she said, naming the thorn without asking permission. “It can be managed. I will see it managed.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 
-Cicero felt the ship take water. He had been invited to advise and had become furniture in a family firm’s emergency meeting. Soft power was not soft when it rearranged your sentences after you spoke them.
+Cicero felt the ship take water. He had been invited to advise and had become furniture in a family firm’s emergency meeting. Soft power wasn’t soft when it rearranged your sentences after you spoke them.
 
 Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus as if measuring how much of Cato remained—and how much would survive a ship east.
 
-Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators would not recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light would not wait for his next letter to invent an army.
+Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators wouldn’t recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
 He left praising everyone. Praise was the only exit from rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page—even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 

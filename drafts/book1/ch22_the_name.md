@@ -13,17 +13,17 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 
 Italy smelled different when you arrived as a claim.
 
-Octavian stood in Philippus’ villa light—sea glare, careful furniture, advice thick as oil. Atia’s fear sat in the room without needing a chair: she had already rearranged the cushions twice, as if cushions could refuse a will. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that did not need clipping. Noise for courage.
+Octavian stood in Philippus’ villa light—sea glare, careful furniture, advice thick as oil. Atia’s fear sat in the room without needing a chair: she had already rearranged the cushions twice, as if cushions could refuse a will. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping. Noise for courage.
 
 “Refuse the inheritance,” Philippus urged, not looking at Atia when he said it. Looking would have made it a conspiracy between parents. “Refuse the name. Live. Rome will invent another quarrel without you.”
 
 Atia’s hands found the cushion seam and worried it open a thread. “They will kill you for the name,” she said. “Or use you until the name is empty and then kill what is left.”
 
-Octavius—he still heard himself as Octavius in the bones—looked at Agrippa. Agrippa did not nod. He waited. Waiting was a vote. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard; he stopped twisting because that, too, was information.
+Octavius—he still heard himself as Octavius in the bones—looked at Agrippa. Agrippa didn’t nod. He waited, still as a vote cast without theatre. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard; he stopped twisting because that, too, was information.
 
-“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is a kind of theft from the dead.” He hated the polish. Rooms like this required it. “I will take what is mine. The name included.”
+“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is theft from the dead.” He hated the polish. Rooms like this required it. “I will take what is mine. The name included.”
 
-Atia’s mouth opened and closed. Philippus looked toward the sea as if the sea might offer a legal opinion. The gardener’s shears stopped. Silence was worse than clipping.
+Atia’s mouth opened and closed. Philippus looked toward the sea as if the sea might offer a legal opinion. The gardener’s shears stopped mid-clip.
 
 A follower came to the terrace door—young, dusty from the road, eyes already rehearsing loyalty. He bowed wrong, then corrected the bow, then spoke the word as if it were a password he had paid for:
 
@@ -39,7 +39,7 @@ The follower left as if dismissed from a temple. Cicero, visiting the neighbourh
 
 “Neither will I,” Cicero said lightly, and meant it as taste, not prophecy.
 
-Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there and said nothing. He stood within reach and did not look away.
+Octavian, alone for a stolen minute on the terrace, shook—once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath—wrong once, then closer. Agrippa found him there and said nothing. He stood within reach and didn’t look away.
 
 ---
 
@@ -72,7 +72,7 @@ He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees tha
 
 A clerk asked whether the Campania rumour should be answered in writing. Antony waved him off. Writing gave squeaks a shape. He preferred them as jokes told over wine, already half forgotten by morning.
 
-The veteran’s careful sentence sat in the room like an unopened letter. Antony did not open it. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a posting board.
+The veteran’s careful sentence sat in the room like an unopened letter. Antony didn’t open it. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a posting board.
 
 ---
 

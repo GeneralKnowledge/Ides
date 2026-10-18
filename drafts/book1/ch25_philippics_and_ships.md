@@ -26,9 +26,9 @@ A friend came to warn him—dust on the man’s sandals, the smell of men who dr
 
 “The Republic has your voice. That is not the same as legions.”
 
-“Legions listen to pay. Pay listens to panic. Panic listens to me if I am loud enough.” He heard how raw that sounded and did not unsay it. He waved the rest of the caution away with a gesture practised on juries.
+“Legions listen to pay. Pay listens to panic. Panic listens to me if I am loud enough.” He heard how raw that sounded and didn’t unsay it. He waved the rest of the caution away with a gesture practised on juries.
 
-Octavian—still not *Caesar* in Cicero’s private mouth, and *young Caesar* in his public one when the Curia needed a handle—could be a sword pointed at Antony. Swords did not need to be loved; they needed to be aimed. He drafted a period about Antony’s appetite and another about the state’s dignity, then joined them like carpentry.
+Octavian—still not *Caesar* in Cicero’s private mouth, and *young Caesar* in his public one when the Curia needed a handle—could be a sword pointed at Antony. Swords didn’t need to be loved; they needed to be aimed. He drafted a period about Antony’s appetite and another about the state’s dignity, then joined them like carpentry.
 
 A courier waited with copies for men who would pretend they had not asked for copies. Cicero sealed the packets with a satisfaction that felt like courage and sent them into the city’s hungry mouths.
 
@@ -64,13 +64,13 @@ Brutus watched Italy shrink. A gull argued with another gull. “We leave so we 
 
 “We leave,” Cassius said, “so we can afford war if war is honest enough to come.”
 
-Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. He already saw Asia’s taxes rearranging themselves—cities as ledgers, ledgers as legions. Liberty would need pay. He did not say *tax terror*. He said *necessity*. Necessity was the republican word for other people’s coin.
+Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. He already saw Asia’s taxes rearranging themselves—cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*—the republican word for other people’s coin.
 
 Brutus touched a rail. Salt crusted under his nails. “If we become what we killed—”
 
 “We become victors,” Cassius cut in. “Then we argue about purity. Purity is a peacetime hobby.”
 
-A mate shouted about lines. Brutus answered the mate with courtesy that belonged to a different Republic. Cassius answered with a nod that meant *move*. Brutus watched a crate labelled with someone’s grain promise tip and right itself. He did not take it as omen. He took it as cargo.
+A mate shouted about lines. Brutus answered the mate with courtesy that belonged to a different Republic. Cassius answered with a nod that meant *move*. Brutus watched a crate labelled with someone’s grain promise tip and right itself. He didn’t take it as omen. He took it as cargo.
 
 They sailed. Behind them, Cicero’s sentences chased Antony through Rome—marked tablets and unmarked ones alike. Ahead, cities waited to learn what *libertas* cost per head.
 

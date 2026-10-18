@@ -11,7 +11,7 @@ Info ENTER: Caesar’s favour · EXIT: Inside conspiracy as access key
 
 ---
 
-They did not recruit Decimus with philosophy. They recruited him with a floor plan.
+They didn't recruit Decimus with philosophy. They recruited him with a floor plan.
 
 Cassius—or Brutus beside Cassius; Decimus later blurred who spoke first—said the plain thing in a place where the Sacra Via’s noise could drown a dangerous sentence: Caesar would not walk into the Curia for a stranger’s summons. He would walk for Decimus. Friendship was the key. The key was the crime.
 
@@ -21,7 +21,7 @@ Decimus looked toward the Domus Publica’s public face on the Sacra Via—the p
 
 “That is a different argument,” Cassius said.
 
-Decimus said yes with logistics eyes. Betrayal, when it wore friendship’s cloak, still needed a schedule, a signal, a man to hold a consul in a colonnade. He could supply two of the three. The third would be Trebonius’ boredom weapon: talk. Decimus almost smiled at that—Trebonius could hold a man with Monday until the world ended—and then did not smile, because smiling at the plan made it feel like a joke, and jokes were how men talked themselves out of courage.
+Decimus said yes with logistics eyes. Betrayal, when it wore friendship’s cloak, still needed a schedule, a signal, a man to hold a consul in a colonnade. He could supply two of the three. The third would be Trebonius’ boredom weapon: talk. Decimus almost smiled at that—Trebonius could hold a man with Monday until the world ended—and then didn't, because smiling at the plan made it feel like a joke, and jokes were how men talked themselves out of courage.
 
 “I will bring him,” Decimus said. “You do the rest without turning the Senate into a butcher’s yard. Or I am not your key. I am only another corpse who used to have friends.”
 
@@ -57,7 +57,7 @@ Brutus held the spare. Cassius stored the loss like interest—visible in the ja
 
 They left with a decision that wore mercy’s face: Antony would live through the knives. Trebonius would be the door that stayed closed on a consul’s back.
 
-Decimus washed the garden-dirt from his hands at a basin and thought, absurdly, of Spanish wine and Caesar’s laugh, and then stopped thinking of laughs. Laughs were for men who were not keys.
+Decimus washed the garden-dirt from his hands at a basin and thought, absurdly, of Spanish wine and Caesar’s laugh, then let the laugh go. Keys didn't get to keep jokes.
 
 ---
 

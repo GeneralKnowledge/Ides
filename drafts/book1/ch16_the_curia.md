@@ -32,7 +32,7 @@ Publius Casca struck—neck, shoulder, the awkward angle of a first wound made b
 
 Cassius moved.
 
-He did not see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills, a body that might yet stand up and make this morning into a failed joke. Cassius’ blade went in where flesh allowed it. Heat ran over his knuckles.
+He didn't see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills, a body that might yet stand up and make this morning a botched thing. Cassius’ blade went in where flesh allowed it. Heat ran over his knuckles.
 
 Around him the room became teeth.
 
@@ -65,7 +65,7 @@ Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth 
 
 He had to step close. Distance was cowardice; closeness was the thing that would be written, if anything was written truly.
 
-His blade found Caesar because the room tilted that way—bodies made a funnel toward the statue’s base. Pompey’s marble face had no advice. Brutus struck as a man strikes when the alternative is being the only clean hand in a pile of red ones—which was another kind of filth.
+His blade found Caesar because the room tilted that way—bodies made a funnel toward the statue’s base. Pompey’s marble face had no advice. Brutus struck as a man strikes when the alternative is being the only clean hand in a pile of red ones—filth either way.
 
 Caesar looked at him.
 
@@ -105,7 +105,7 @@ Overhear risk: She is the overhear
 
 ---
 
-Nysa had not meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes,” as if news were a fishmonger’s tray.
+Nysa hadn't meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes,” as if news were a fishmonger’s tray.
 
 She was still on the edge of the Campus crowd when the Curia began to spit men.
 
@@ -132,7 +132,7 @@ In a street that smelled of garum and wet stone she told a woman with bread unde
 
 The woman clutched the bread. “Both?”
 
-“Both,” Nysa said, and felt the story settle into the city like dust. She did not know if it was true. Such stories travelled on the legs of people who thought they were being precise.
+“Both,” Nysa said, and felt the story settle into the city like dust. She didn't know if it was true. Such stories travelled on the legs of people who thought they were being precise.
 
 By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella and, somehow, a list. Lists always arrived early in panics. Lists made fear feel organised.
 

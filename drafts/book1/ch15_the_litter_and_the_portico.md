@@ -25,7 +25,7 @@ Phileros talked too much, which meant he was afraid. “The chickens were sullen
 
 “A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
 
-Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door. She did not. Questions made servants invent answers.
+Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door. She didn't. Questions made servants invent answers.
 
 In the atrium the painted pediment—still whole, still smiling its public smile—seemed to lean. Calpurnia knew that was her mind. She also knew minds could be right while looking foolish.
 
@@ -61,9 +61,9 @@ Overhear risk: Medium (crowd; note-hander)
 
 The litter swayed. Caesar sat as he sat in triumphs and in mud—half present, half already in the next room. Decimus walked beside the near pole when the street narrowed, close enough to speak without shouting.
 
-“Short session,” he said again, because repetition was a kind of rope. “You dismiss them if the birds offend you. You will have been seen. That is what matters.”
+“Short session,” he said again, because repetition steadied him like a hand on a litter pole. “You dismiss them if the birds offend you. You will have been seen. That is what matters.”
 
-Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule—petitions, lists, the city’s endless paper hunger. Decimus did not look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
+Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule—petitions, lists, the city’s endless paper hunger. Decimus didn't look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
 
 Near the turning toward the Campus, a man pressed in—Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. He pushed a small sealed tablet toward Caesar’s hands.
 
@@ -71,7 +71,7 @@ Near the turning toward the Campus, a man pressed in—Greek face, urgent manner
 
 Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. He slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on.
 
-Decimus felt a cold stitch under the ribs. He did not know what the tablet said. He knew only that mornings were full of tablets, and that if he snatched at this one he would look like a thief in front of the man whose trust he was currently wearing like a clean cloak.
+Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that mornings were full of tablets, and that if he snatched at this one he would look like a thief in front of the man whose trust he was currently wearing like a clean cloak.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
@@ -85,7 +85,7 @@ Decimus helped Caesar down. Their hands met once more. Caesar’s palm was dry.
 
 “Go in,” Decimus said, and smiled the smile that had opened Spanish gates. “I will see to the edges.”
 
-He did not go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
+He didn't go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
 
 Caesar entered the Curia of Pompey among men who loved him, hated him, owed him, and—Decimus knew with a clarity that felt like nausea—needed him stopped before the Parthian clocks started again.
 
@@ -145,7 +145,7 @@ Trebonius’ face was still warm. That was the obscenity. Warmth, while the Curi
 
 Antony felt for a weapon he had not brought into a Senate morning. His palm found only the cloth of his tunic.
 
-Trebonius said something mild. Antony did not keep it. Mildness was a kind of knife too.
+Trebonius said something mild. Antony didn't keep it. The mildness sat wrong—warmth while the Curia broke open.
 
 He ran—not toward philosophy, toward the door—and the crowd ran with him and against him, a single animal with too many mouths.
 

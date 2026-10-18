@@ -22,13 +22,13 @@ When Seius’ turn came, the patron’s nod was thin—already halfway to the ne
 
 “We will see,” the patron said. “Caesar’s sky is large. Do not stand in it foolishly. Bring me something useful—news, a marriage rumour, a debt I can collect with a smile.”
 
-Seius smiled as if he owned useful things. He did not. He owned a sister’s strained dowry talk and a talent for sweating through wool.
+Seius smiled as if he owned useful things. He didn't. He owned a sister’s strained dowry talk and a talent for sweating through wool.
 
 Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited as if chance were a profession. Interest dressed as friendship. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
 
-Seius understood shame with a schedule. Advancement smelled like ink and sweat and the particular gratitude of a trap that still looked like a ladder. He took the terms because refusal was also a kind of standing still, and Seia Prima did not reward stillness.
+Seius understood shame with a schedule. Advancement smelled like ink and sweat—the particular gratitude of a trap that still looked like a ladder. He took the terms because refusal meant standing still, and Seia Prima didn't reward stillness.
 
 He passed two clients comparing whose patron had smiled wider. Comparison was the atrium’s second religion. Seius did not join. Joining would have required a smile he had already spent upstairs.
 
@@ -50,7 +50,7 @@ Overhear risk: Medium
 
 He adjusted tablets with priestly care. Africa’s ending had softened some rates; Spain still burned at the edges of the paper. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
 
-Sextus Pompeius’ name moved odd discounts through the stalls—like a bad tooth the market refused to pull. Sosia muttered that sea paper made honest men seasick. Hordeonius did not laugh. Laughing at paper was how bankers became tavern stories.
+Sextus Pompeius’ name moved odd discounts through the stalls—like a bad tooth the market refused to pull. Sosia muttered that sea paper made honest men seasick. Hordeonius didn't laugh. Laughing at paper was how bankers became tavern stories.
 
 A client laughed anyway. “You talk as if the Republic were a warehouse.”
 

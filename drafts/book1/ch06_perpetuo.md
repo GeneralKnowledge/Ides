@@ -18,7 +18,7 @@ Overhear risk: Elite medium
 
 Cicero heard it in a doorway and felt his face arrange itself into the old accommodation smile before his mind finished objecting. A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
 
-In private Cicero dissected: forever was not a republican word; forever was what kings borrowed from temples. In public he complied, spoke carefully, saved his knives for wax and Atticus. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
+In private Cicero dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and Atticus. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
 
 He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted.
 
@@ -36,15 +36,15 @@ Overhear risk: Extreme for staff
 
 ---
 
-Maps rolled like sleeping snakes. Boots. Lists in hands that were not hers. Talk of months away—Parthia as if it were a neighbour’s farm. Someone argued whether a particular chest should travel with the pontifex’s papers or with the army’s duller needs. The argument had the heat of religion and the subject matter of laundry.
+Maps rolled like sleeping snakes across the table while boots thumped past. Lists in hands that weren't hers. Talk of months away—Parthia as if it were a neighbour’s farm. Someone argued whether a particular chest should travel with the pontifex’s papers or with the army’s duller needs. The argument had the heat of religion and the subject matter of laundry.
 
 Nysa understood only that the house was aiming at a horizon with a name. Clocks made of crates still counted. Phileros cursed a missing strap and called it omen; the cook called it thieves; Dama claimed the chickens had opinions. Nysa called it work.
 
-She kept count of who entered the tablinum without being announced. Announced men were theatre. Unannounced men were pressure. A clerk argued about grain for ships; another about which boots survived salt. The argument was not glorious. It was a clock you could trip over.
+She kept count of who entered the tablinum without being announced—unannounced men were pressure, announced men theatre. A clerk argued about grain for ships; another about which boots survived salt, ordinary crate-work ticking toward departure.
 
 A strap was found. Phileros claimed victory over chaos. Nysa claimed nothing. She only noted that the house could still pretend packing was ordinary while everyone’s shoulders said otherwise.
 
-Calpurnia’s corridor stayed quieter than the packing noise. Quiet did not mean calm. Nysa carried water and set the East beside the other pressures in the house’s bones—something that made doors hurry and made fear wear the face of logistics.
+Calpurnia’s corridor stayed quieter than the packing noise, though quiet wasn't calm. Nysa carried water and set the East beside the other pressures in the house’s bones—something that made doors hurry and made fear wear the face of logistics.
 
 ---
 
@@ -60,7 +60,7 @@ Overhear risk: Medium
 
 “They have sold years in advance,” Hordeonius said, scandalised on behalf of liquidity. “Consulships as futures. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
 
-A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed as if fairness had a smell he didn’t like.
+A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed as if fairness smelled wrong to him.
 
 “Fairness,” Hordeonius said gently, “is what men demand when they arrive late to the auction. I do not moralise the auction. I charge for seats near it.”
 

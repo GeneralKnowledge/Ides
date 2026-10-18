@@ -23,7 +23,7 @@ He sat under the basilica’s shade with his tablets open like a small, portable
 
 “Amnesty,” Hordeonius said solemnly, “is a political word. Interest is a natural one. Do not confuse them.”
 
-A junior senator—Seius’ type, though not Seius—laughed too loudly. Hordeonius did not. Humour was for men who did not hold other men’s winters in wax.
+A junior senator—Seius’ type, though not Seius—laughed too loudly. Hordeonius didn’t. Humour was for men who didn’t hold other men’s winters in wax.
 
 Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling.
 
@@ -33,13 +33,13 @@ Hordeonius looked at the copy with the tenderness due a dead client who had once
 
 “This,” he said, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
 
-He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica did not deserve his private liturgy.
+He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
 By the fourth hour his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
 
 “The boy inherits the name,” someone panted.
 
-Hordeonius smiled the small smile of a man confirming a column. “Then the name has become a kind of coin,” he said. “And coin, gentlemen, is the only liberty that clears.”
+Hordeonius smiled the small smile of a man confirming a column. “Then the name has become coin,” he said. “And coin, gentlemen, is the only liberty that clears.”
 
 He blotted the wax, neat as virtue, and waited for the next fool to ask him whether virtue paid.
 
@@ -73,7 +73,7 @@ The main lines came out like blows dressed as clauses: young Octavius to three p
 
 Antony laughed once, short. Not mirth. Recognition.
 
-“He loved you,” Antony said in Decimus’ general direction though Decimus was not there to receive it—loved you enough to write you into the will and die on your schedule. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
+“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it—loved you enough to write you into the will and die on your schedule. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
 What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers.
 
@@ -87,17 +87,17 @@ Someone urged delay until the city cooled.
 
 Nysa heard the will in pieces, which was how the poor always heard law.
 
-First: gardens. A woman in the market wept as if she had already walked them. Second: money for citizens. Third: the boy—Caesar’s son now, paper-son, name-son—Octavius.
+Gardens came first—a woman in the market wept as if she had already walked them. Then money for citizens. Then the boy—Caesar’s son now, paper-son, name-son—Octavius.
 
 “And Decimus,” said a scribe’s attendant, hungry to be cruel, “written second. The one with the knife.”
 
-Nysa saw, for a blink, Decimus’ open morning face in the Domus atrium. She did not have a philosophy for it. She had a stomach.
+Nysa saw, for a blink, Decimus’ open morning face in the Domus atrium. She didn’t have a philosophy for it. She had a stomach.
 
 Phileros, hearing the same news at the vestibule, whispered, “The house will be stripped for souvenirs,” as if souvenirs were the tragedy.
 
-Calpurnia, somewhere deeper in the Domus, did not come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
+Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 
-In the street the clauses mutated before sundown: the sum grew; the gardens acquired fountains; the boy acquired a future other people tried to sell as fate—Nysa did not buy. Futures were what rich men sold to each other when they were bored.
+In the street the clauses mutated before sundown: the sum grew; the gardens acquired fountains; the boy acquired a future other people tried to sell as fate—Nysa didn’t buy. Futures were what rich men sold to each other when they were bored.
 
 She kept her incomplete wax. It had become a relic of a morning when paper still might have mattered differently.
 

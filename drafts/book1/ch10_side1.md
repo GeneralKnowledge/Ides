@@ -34,7 +34,7 @@ A laugh burst from the main hall—someone’s joke about a wrestler. Seius laug
 
 “Of course,” the man answered, already done with him.
 
-Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way to the street. Prudence tasted like relief and cowardice mixed, and he could not tell which spice was stronger.
+Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way to the street. Prudence tasted like relief and cowardice mixed, and he couldn't tell which spice was stronger.
 
 ---
 
@@ -54,7 +54,7 @@ A. Visellius Ralla’s tablet sat among the honest ones—interest tidy, excuses
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 
-Hordeonius did not laugh. Bankers who laughed at piety ended as tavern stories.
+Hordeonius didn't laugh. Bankers who laughed at piety ended as tavern stories.
 
 “I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
 
@@ -64,7 +64,7 @@ Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did no
 
 Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry — political softness — refuse* in a hand so neat it looked like virtue.
 
-Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He had not. That was the trouble with truth: it sometimes wore humour’s clothes without asking.
+Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't. That was the trouble with truth: it sometimes wore humour's clothes without asking.
 
 ---
 
@@ -78,21 +78,21 @@ Overhear risk: High (neighbours → rumour)
 
 ---
 
-Visellius did not arrive on the Kalends.
+Visellius didn't arrive on the Kalends.
 
 Hordeonius went himself, because a banker who only sent Sosia learned too late when a ledger had become a corpse. The room smelled of cheap oil, old wine, and the metal tang men pretend is only coins.
 
-Visellius Ralla was on the floor with his throat opened by someone who had not cared about neatness. Hordeonius washed his hands in a basin that was not clean enough and still washed them.
+Visellius Ralla was on the floor with his throat opened by someone who hadn't cared about neatness. Hordeonius washed his hands in a basin that wasn't clean enough and still washed them.
 
-The tablets were not hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit—Paullus’s perfume talk made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, an Antonian cash-rat Hordeonius knew from uglier markets.
+The tablets weren't hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit—Paullus’s perfume talk made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, an Antonian cash-rat Hordeonius knew from uglier markets.
 
-Neighbours already filled the stair with theories: debt, jealousy, politics, a wrong name at a door. Hordeonius filed all of them. He was not a judge. He was a man of seals, and seals had been broken with a knife.
+Neighbours already filled the stair with theories. Hordeonius filed them without choosing one. Seals were his trade, and a seal had been broken with a knife.
 
 “He was,” Hordeonius told the silent mess, “a credit to his father’s manumission. Paid on the Kalends. Do you know how rare that is in this city of philosophers?”
 
 Nobody answered. The dead never did. That was why ledgers needed the living.
 
-He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour. Rumour was interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour—interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
 ---
 
