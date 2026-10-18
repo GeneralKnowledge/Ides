@@ -12,10 +12,10 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 1 | SC-01, SC-02 | CIC/F4, F1 | Cato shock; spectacle; land hunger seed |
-| 2 | SC-03, SC-04 | F2, F4 | Debt/patronage |
-| 3 | SC-05, SC-06 | F3 | Munda hard fight; Sextus escapes |
-| 4 | SC-07, SC-08, SC-09 | BRU, CAS, DEC | Clemency tension; will whisper |
+| 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour slight; queen/child rumour |
+| 2 | SC-01, SC-02 | F4, F1 | Cato/Africa market weather; spectacle residue; land hunger seed |
+| 3 | SC-03, SC-04 | F2, F4 | Debt/patronage |
+| 4 | SC-05, SC-06, SC-07, SC-09 | F3, BRU, DEC | Munda; Porcia pressure; will whisper (no dinner replay) |
 | 5 | SC-10, SC-11 | OCT | Peripheral boy; Apollonia/Agrippa plant |
 | 6 | SC-12, SC-14 (SC-13 folded into F4) | CIC, F4 | Dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
@@ -97,7 +97,7 @@ Update this map only after beats are marked **LANDED** there. Review 2.0: **inte
 |------|----------|------------|-------------------|
 | Soft Middle | 17–24 | D1–D9 | IR-1: D2/D5 earned |
 | War social | 25–30 | D10–D15 | D12 optional; D10/D13 light |
-| Early mesh | 2, 4, 5, 10, 12 | D16–D18, D20–D21 | IR-1: D16 meta stripped |
+| Early mesh | 3, 4, 5, 10, 12 | D16–D18, D20–D21 | IR-1: D16 meta stripped (Ch 3 debt after dinner-first reorder) |
 | Ides fringe | 14 | D22 | peaks PROTECT (≠ immunity); Ch 16 = A5 + dream quality |
 
 **Invariants held:** AMB-1 · NOTE-1 dual · SIDE-1 OPEN-0 · OCT≠Augustus · no Actium · A5 Curia death · Formiae.  

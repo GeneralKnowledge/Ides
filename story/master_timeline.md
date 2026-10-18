@@ -18,6 +18,8 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 |------|-------|------|-----------|
 | Spring–summer | Post-Thapsus; Cato dead | H | Africa victory news ages into myth in Italy |
 | Late | Triumphs / honours begin | H | Public spectacle vs private dread |
+| Late | **OPEN-1** Cassius clemency dinner (**D**) | F | Book open; Africa-favour slight; queen/child rumour |
+| Late (same season) | F4/F1 street Africa-weather + spectacle residue | F/H | Ch 2; A1 as living market weather |
 | *open* | Fictional debt/INF plants | — | Zone F8, F1 |
 
 ## 45 BC
