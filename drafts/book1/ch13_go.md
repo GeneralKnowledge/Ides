@@ -102,7 +102,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set—almost.
 
-Tillius for the petition—brother’s exile on the tongue, hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn.
+Tillius for the petition—brother’s exile on the tongue, hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Galba still owed him a brother’s winter for a torn patron seal; Cassius did not ask whether the grain debt had already called him away from rock and blade.
 
 Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened—Ligarius’s pride was supposed to buy us that body. He sent fever instead. Or a man who smelled like fever.”
 
@@ -137,6 +137,7 @@ They left the room separately. Outside, a baker’s boy argued with a customer a
 - **SC-32** Cicero blind calm: elite rumour only; still not ops; games/letter posture.  
 - F3 land powder (FS10) soft for funeral rage.  
 - **1D.4:** GO friction — missing Ligarius cousin; money creditor; last doubt before lock; GO chosen not tallied.  
+- **Later-book reader pass:** Galba winter/debt tag on GO roster (antecedent for Ch 17 Capitol absence).  
 - Spare-Antony / no hive mind held.  
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.  
 - Chapter map updated to include SC-32.  

@@ -57,9 +57,9 @@ Overhear risk: Medium
 
 A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed as if fairness smelled wrong to him.
 
-“Fairness,” Hordeonius said gently, “is what men demand when they arrive late to the auction. I do not moralise the auction. I charge for seats near it.”
+“Late,” Hordeonius said, already reaching for the next tablet. “You want seats near the auction after the years are sold. I charge for that. Not for the sermon.”
 
-He meant profit. Listeners heard a grievance they could carry into darker rooms. Both were correct. A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius priced the question instead of answering it. Stopping other men’s metaphors was unpaid labour; monetising them was craft.
+A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius entered a number and waved the man on. Stopping other men’s metaphors was unpaid labour; monetising them was craft. Listeners still left carrying a grievance into darker rooms. That was their business.
 
 “And the East?” the young agent pressed. “I hear the Domus is packing crates like a clock. Maps, boots, grain for ships—months away treated as a neighbour’s farm. If forever has a title, does Parthia get a departure date?”
 
