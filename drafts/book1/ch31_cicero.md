@@ -45,3 +45,4 @@ He didn't learn what they would do with head and hands. That knowledge belonged 
 ## Continuity
 - A13 / F11; Chain 6 closed; no out-of-POV trophy aside.  
 - MUST_EXPRESS: C7, F11. Next: Ch 32.
+- **Law-sweep:** Formiae death — humour OFF (leave alone); coast road ≥3 around arrest/end; Philippics wager pays; no comedy inject.

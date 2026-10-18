@@ -70,3 +70,4 @@ That night he slept sore, young, and unfinished—exactly as far from Senate hea
 - **S-A2 / S5 / G1:** Single Octavian POV; Forum→Apollonia bridged as continuous unfinished inventory (no mosaic cut). Attendant gap retained.  
 - Next: Ch 6 perpetuo.
 **Final integrated / E4:** SC-10 — attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.
+- **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.

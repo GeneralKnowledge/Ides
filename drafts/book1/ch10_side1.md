@@ -115,3 +115,4 @@ He took copies, left the originals for whoever played magistrate this week, and 
 - **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as civil-war insurance (non-conspirator mouth; no Trebonius/Monday spoil).  
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.  
 - Next: Ch 11 omens / Sibylline.
+- **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).

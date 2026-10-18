@@ -86,3 +86,4 @@ Back in the service court she set down the oil and told Dama nothing about land.
 - **S-A0:** polite rate-face → corridor complaint; cake-seller laugh.  
 - **S-A2 / S5 / G1:** Hordeonius primary run extended; Nysa second only as collision with *Africa: closed enough* → triumph/land weather; no 3-POV mosaic.  
 - MUST_EXPRESS: A1, B4 seed. Next: Ch 2 debt.
+- **Law-sweep:** Stall ≥3 + polite rate-face → corridor complaint; cake-seller audible laugh; Africa *closed enough* plant; F4/Nysa relationship by collision not caption; G1/G2 dwell held.

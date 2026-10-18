@@ -91,3 +91,4 @@ Cicero’s mouth twitched—almost a smile, almost a bruise. “Then the kitchen
 - MUST_EXPRESS: E1, E2.  
 - Next: Ch 12 dread / fragment / Caesar opacity.
 **Final integrated / E4:** SC-27 — Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.
+- **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.

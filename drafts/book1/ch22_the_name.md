@@ -99,3 +99,4 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - **S-B1 / S9:** After name-take, elder/wine-shop underestimation continues as sport (Cicero hears weeks-until-cheap bet); pays Ch 21 Fundi collision.  
 **M5 polish held:** destiny voice avoided; underestimation behavioural + early cost seed.
 **Final integrated:** SC-63 close compressed — cut narrator preview of later cost; leave veteran warning unpaid in-scene.
+- **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.

@@ -63,3 +63,4 @@ At night he walked the wall-walk and tasted snow early. The key in his chest cut
 - MUST_EXPRESS: C8, A10 seed, FS11, C1 residual, CLEO-1. Next: Ch 27 Mutina begins.  
 **Act5 ordeal:** SC-71/72 folded into SC-70 Decimus camera; one primary POV held.
 **Final integrated / Decimus seam:** Plancus refuses grain/cohorts “while his own theatre remained unsettled” — concrete non-support before Mutina, not omniscient betrayal.
+- **Law-sweep:** Envoy room ≥3; polite swap-talk → threshold exit-complaint; CLEO sail courier payoff; Plancus soft refuse callback; Sextus margin unease; sole Decimus dwell (G1).

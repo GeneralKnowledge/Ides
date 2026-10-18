@@ -23,21 +23,27 @@ He sat under the basilica’s shade with his tablets open like a small, portable
 
 “Amnesty,” Hordeonius said solemnly, “is a political word. Interest is a natural one. Do not confuse them.”
 
-A junior senator—Seius’ type, though not Seius—laughed too loudly. Hordeonius didn’t. Humour was for men who didn’t hold other men’s winters in wax.
+A junior senator—Seius’ type, though not Seius—laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Three bodies in the same breath of shade: banker, junior appetite, Sosia tasting panic. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax—unless the humour sold a second cup without confessing appetite.
 
-Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. A fourth stack, softer and meaner, priced the Transtiberim queen: still lodged in Caesar’s green claim, child and hours and all—would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
+Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen: still lodged in Caesar’s green claim, child and hours and all—would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
 “Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
 
 “Whoever opens the seal,” Hordeonius said. “Or whoever pretends not to notice she was priced before the seal existed.”
 
+The junior wiped his eyes. “You talk as if a will were a warehouse.”
+
+“The only warehouse,” Hordeonius said, priest-flat, “large enough to hold our grief without confessing it is still greed.” Sosia snorted wine—audible, unlovely—and had to wipe his chin. The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the sale of solemnity.
+
 He entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks—SIDE-1’s ghost—hinting Basilus and an Antonian name could still be made to squeal.
 
 Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
 
-“This,” he said, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
+“This,” he said, gentle as a blessing, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
 
-He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
+The whisperer bowed as if receiving wisdom. “Of course. Sacred. Living seals only.” His face held until the basilica’s next pillar hid him; then, to a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
+
+Hordeonius heard the shape of the exit-complaint without needing the words. He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
 By the fourth hour his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
 
@@ -53,7 +59,8 @@ He blotted the wax, neat as virtue, and waited for the next fool to ask him whet
 - F4 Batiatus ego-humour on; SIDE-1 blackmail fizzles (OPEN-0 path).  
 - Will rumour hits markets before/as formal reading.  
 - **S-B1 / S7:** Queen/gardens/child priced as unfinished Roman problem before seal (pays Ch 4/6 gossip; CLEO-1 held).  
-- // M5: HS figure stays street talk (C mush OK).
+- // M5: HS figure stays street talk (C mush OK).  
+- **Law-sweep:** Stall ≥3 (Hordeonius + Sosia + junior); warehouse-of-grief humour with Sosia snort (Ch 2 echo); whisperer polite → pillar exit-complaint; Decimus second-line / queen stacks as paid callbacks.
 
 ---
 
@@ -78,15 +85,17 @@ The main lines came out like blows dressed as clauses: young Octavius to three p
 
 Antony laughed once, short. Not mirth. Recognition.
 
-“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it—loved you enough to write you into the will and die on your schedule. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
+“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it—loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
 What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers.
 
-“We will not hide this,” Antony said. “Hiding makes it ours. Ours becomes theft. Theft becomes their excuse.”
+“We will not hide this,” Antony said, consul-smooth for Piso’s legality faces. “Hiding makes it ours. Ours becomes theft. Theft becomes their excuse.”
 
-Someone urged delay until the city cooled.
+Someone urged delay until the city cooled—polite as a man offering a cloak in a fire.
 
 “The city is not cooling,” Antony said. “It is fermenting. Open the jar.”
+
+In the anteroom, after the seal’s news had begun to leak toward the street, the delayer’s courtesy thinned for a clerk who still wanted hours. “He opens jars and calls it piety. The boy gets the name; Decimus gets the joke; we get the crowd’s three hundred reasons to stop listening to caution.”
 
 ### Movement B — Nysa
 
@@ -111,7 +120,8 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 ## Continuity notes (SC-49)
 - Suet. 83: Antony’s house; Piso; Vestals; Octavius ¾; Pedius+Pinarius ¼; adoption; Decimus 2nd degree; gardens + 300 HS.  
 - Leak cascade via F1/market.  
-- // M5: Formal vs street timing left intentionally mushy (C).
+- // M5: Formal vs street timing left intentionally mushy (C).  
+- **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.
 
 ---
 

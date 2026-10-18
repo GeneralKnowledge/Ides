@@ -91,3 +91,4 @@ Still not serene. Still learning where ruthlessness lived in the body—usually 
 **Phase 1D.1:** SC-82 experiential death; SC-83 vacuum→fasces without Augustus mind.
 **Act5 ordeal:** SC-82 left sensory; SC-83 deepened so Bononia reads as consequence of Decimus gone.
 **Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.
+- **Law-sweep:** Road ordeal — humour OFF at Decimus death; ranks/Senate ≥3 pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny; Agrippa by silence/behaviour.

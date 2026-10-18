@@ -86,4 +86,4 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Act5 ordeal:** visible irreversible at table (assent + token) so Ch 31 death feels purchased by choice; F-triptych held.  
 - MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
 **1G:** historiographic “traditions would disagree” removed.
-
+- **Law-sweep:** Bononia ≥3; F2/F4/F1 triptych; Seius relief/shame by behaviour; Cinna-wrong laugh echo (bitter, not gag); lists pay Ch 23 flinch / Ch 32 courier; SIDE-1 archaeology held.

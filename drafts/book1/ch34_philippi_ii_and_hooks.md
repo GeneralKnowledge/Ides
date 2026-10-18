@@ -95,3 +95,4 @@ On the plain, after Brutus, a clerk tried to enter victory in a clean column and
 **Act5 ordeal:** SC-92 Brutus refused cleaner hill as lived cost; grief weight in body; OCT vacuum/land in same camera breath.
 **1G:** anti-Actium wink cut; SC-95 thesis lean softened; hooks held.
 **Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
+- **Law-sweep:** Ordeal/grief — humour OFF on Brutus end; Antony tent congratulations → outside underheard complaint; land/Italy hook plant; SIDE-1b OPEN-0 ash; OCT breath folded (G1).

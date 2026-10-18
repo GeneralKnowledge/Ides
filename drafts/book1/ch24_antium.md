@@ -93,3 +93,4 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 - **S-B1 / S10:** Behind-backs pre-load — eagle men refuse boy’s pay; Servilia rewriting paper; colonnade polite-face → exit-complaint after room.  
 - Next: Ch 25 Philippics + East departure.  
 **M5 polish held:** Antium room sensory/agency; Hilarus present.
+- **Law-sweep:** Colonnade behind-backs → exit-complaint after room; eagle refuse / Servilia rewrite pay Ch 23 seeds; Laberius veteran talk; humour short laugh with reaction.

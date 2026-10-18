@@ -94,3 +94,4 @@ They sailed. Behind them, Cicero’s sentences chased Antony through Rome—mark
 - MUST_EXPRESS: C7, C3, B7 seed. Next: Ch 26 Decimus (CLEO/Sextus folded).  
 **Phase 1D.3:** SC-68b public friction; SC-69 East held/tightened.
 **Act5 ordeal:** SC-68b scar+wider kept; SC-69 refused cost deepened.
+- **Law-sweep:** Deck ≥3 (Cassius/Brutus/factor); harbour polite → factor exit-complaint; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.

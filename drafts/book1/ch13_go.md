@@ -16,7 +16,7 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange Monday. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange Monday—the same Monday Trebonius had priced as thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
@@ -24,13 +24,17 @@ They stood where Pompey’s stone still watched the living arrange Monday. Trebo
 
 “Then you invent a longer Monday,” Decimus said. “You are good at Monday.”
 
-Glaucia, Trebonius’s attendant, waited out of polite earshot with the patience of men who misread shouts for sport. Decimus glanced once toward the Curia’s future mouth and felt the key of himself turn in a lock he could not unturn.
+Glaucia, Trebonius’s attendant, waited just inside polite earshot with the patience of men who misread shouts for sport—and who would later sell whatever soft version of this huddle paid best. Three bodies arranging a leash: Decimus naming the hold, Trebonius wearing mildness, Glaucia pretending not to hear the true errand.
 
-“Cover,” Trebonius murmured. “I lingered for provincial papers. I lingered because Antony likes to be lingered with. I lingered because the morning was cold.”
+“Cover,” Trebonius murmured, for Glaucia’s benefit as much as Decimus’s. “I lingered for provincial papers. I lingered because Antony likes to be lingered with. I lingered because the morning was cold.”
 
 “Any of those,” Decimus said. “None of the true one.”
 
-They parted with the clasp of men confirming a hunt. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
+They parted with the clasp of men confirming a hunt—station warmth, festival-brother hands. Ten paces on, Trebonius’s mildness thinned for Glaucia alone. “If anyone asks, I am a bore with Gaul on my tongue. If anyone listens well, I am already tired of being the polite half of other men’s courage.”
+
+Glaucia’s mouth twitched. “Bores survive Mondays.”
+
+“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practice longer Mondays. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
 
 ---
 
@@ -70,15 +74,19 @@ Overhear risk: High among soldiers
 
 Sex. Laberius Cordus loved Caesar the paymaster more than Caesar the god.
 
-Around the brazier the talk was colonies and delays—who had been promised land near Capua, who had heard the promise thin out into “after Parthia,” who still had a father’s farm seized in someone else’s victory. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands.
+Around the brazier the talk was colonies and delays—who had been promised land near Capua, who had heard the promise thin out into “after Parthia,” who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative not yet dated, Capua still a prayer with a shopping-list mouth. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal—same mouth that had founded colonies with his face in Spanish mud—held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
 
 “He pays,” Laberius said. “When the eagle eats, we eat.”
 
 “When the eagle flies east,” Vibius answered, “we count dirt.”
 
+Gaius tried the old Spain grin. “If they settle us after Parthia, I’ll found Capua with my face. Same offer as Munda. Cheaper jokes now.”
+
+Vibius snorted into the smoke—audible, unlovely—and the next man at the brazier looked over as if humour were a ration. “Found it after the donative,” Vibius said. “Dirt without coin is still a grave with opinions.”
+
 Laberius didn't hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps the way fire lived in dry grass—waiting for a match that would look, later, like grief. He didn't know a funeral would be that match. He only knew the powder was soft underfoot already, and soft powder still burned.
 
-Someone sang a dirty song about kings. Laberius laughed once, short, and the laugh bought him nothing. What bought him was the next donative arriving with a name he trusted on the wind.
+Someone sang a dirty song about kings that borrowed the Forum’s February panic and made it tavern-shaped. Laberius laughed once, short; Gaius laughed harder and then winced as if the stitch from Spain had followed him to Italy. The laugh bought them nothing. What bought them was the next donative arriving with a name Laberius trusted on the wind—and Capua still unpaid enough to stay powder.
 
 ---
 
@@ -96,11 +104,11 @@ Names checked. Roles set—almost.
 
 Tillius for the petition—brother’s exile on the tongue, hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn.
 
-Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened. He sent fever instead. Or a man who smelled like fever.”
+Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened—Ligarius’s pride was supposed to buy us that body. He sent fever instead. Or a man who smelled like fever.”
 
-Brutus waited. Missing men made rooms louder.
+Brutus waited. Missing men made rooms louder. Outside the door a creditor’s soft cough advertised itself—polite, exact, the Kalends still smiling in a throat. Three pressures in one night: blank roster, unpaid note, and the word still unchosen.
 
-“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, fever takes him and we take the door.”
+“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, fever takes him and we take the door. Galba took his winter price; Casca will take the ugly first; Trebonius already owns Monday. We do not invent another postponement for a fever.”
 
 Brutus’s money sat outside the door like a creditor not invited. A note had arrived that afternoon—polite, exact, a lender who still smiled when he named the Kalends. Brutus had not answered. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
 
@@ -131,4 +139,5 @@ They left the room separately. Outside, a baker’s boy argued with a customer a
 - **1D.4:** GO friction — missing Ligarius cousin; money creditor; last doubt before lock; GO chosen not tallied.  
 - Spare-Antony / no hive mind held.  
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.  
-- Chapter map updated to include SC-32.
+- Chapter map updated to include SC-32.  
+- **Law-sweep:** Portico ≥3 (Decimus + Trebonius + Glaucia); clasp polite-face → Trebonius exit-complaint (polite half of courage); Monday callback from Ch 7/9; brazier ≥3 with Munda/Capua pay powder + audible Gaius/Vibius humour; Ligarius/Galba/Casca recruitment echoes; GO room friction kept (no checklist soften); humour OFF in Cicero blind calm / GO lock peak.

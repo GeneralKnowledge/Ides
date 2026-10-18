@@ -89,4 +89,4 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 **Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.
 **Act5 ordeal:** SC-74 summary compressed; SC-73 parley protected.
 **1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
-
+- **Law-sweep:** Parley ≥3 (Antony/Decimus + aides); grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe ≥3 aiming Octavian; humour low (siege light).

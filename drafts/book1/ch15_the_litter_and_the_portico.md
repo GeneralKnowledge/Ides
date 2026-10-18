@@ -171,3 +171,4 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.  
 **Edit pass 1:** cut “history to happen” wording from Decimus.  
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
+- **Law-sweep:** Monday callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).

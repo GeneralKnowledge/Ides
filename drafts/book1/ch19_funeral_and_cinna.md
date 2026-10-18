@@ -152,3 +152,4 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 
 **Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).  
 **M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
+- **Law-sweep:** Funeral/Cinna — humour OFF; crowd ≥3 mouths; F3 land-powder pays Ch 13; will/gardens/300 callbacks; wrong-Cinna terror held; no comedy inject.

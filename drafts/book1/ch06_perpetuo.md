@@ -31,7 +31,11 @@ The clerk tried the title once more, almost proud. The wine-mutterer asked wheth
 
 He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once—still warm—and left it unsent in the drawer.
 
-A courier from Hirtius’s orbit arrived as the seals cooled—nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body. Softened sentences were how men without armies stayed invited to rooms where armies were priced.
+A courier from Hirtius’s orbit arrived as the seals cooled—nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body—accommodation still arranged on his mouth. Softened sentences were how men without armies stayed invited to rooms where armies were priced.
+
+When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. “They clap forever into manners and ask me to sand the blade out of the letter. Mark me—when Parthia packs, those same mouths will call the packing weather and ask for periods again.”
+
+Tiro did not laugh. He sanded. Sanding was how you survived a master’s exit-complaint without becoming the complaint’s audience in the street.
 
 The unfinished question under *dictator perpetuo* was not whether the title was republican. It was what the city’s money would do with forever once the clapping stopped.
 
@@ -82,4 +86,5 @@ He felt the market’s mood thicken. Thick markets made people invent virtues. V
 - **S-A2 / G1–G2:** Two POVs only (Cicero primary → F4 collision). Former SC-13 Nysa packing folded into F4 stall talk — FS22 Parthia clock held without third camera.  
 - Offices futures grievance (F4) as recruitment fuel overheard.  
 - **S-A1 / S1:** Warped re-hearing of queen/child talk at banker stalls (gardens/hours/collateral)—no certification; CLEO-1 held.  
+- **Law-sweep:** Doorway ≥3; accommodation smile → Tiro exit-complaint; stall ≥3 + Sosia snort on queen/gardens (audible); CLEO/FS22 plants; G1/G2 held (2 cameras).  
 - MUST_EXPRESS: B3, FS22. Next: Ch 7 Lupercalia (gold spine — not M2).

@@ -85,3 +85,4 @@ On another part of the field messengers were still lying in good faith. Cassius 
 - MUST_EXPRESS: F12, A6. Next: Ch 34.  
 **Act5 ordeal:** SC-89 folded; SC-91 ops body + hesitation before steel; incomplete INF hurts on the page.
 **1G:** Laberius opener differed from Mutina (P2-a).
+- **Law-sweep:** Battle/INF death — humour OFF; Antony/Laberius field ≥3; Cassius incomplete-report ordeal; OPEN-0 echo only; Mutina mud echo in Laberius body; two cameras (not postcard mosaic).

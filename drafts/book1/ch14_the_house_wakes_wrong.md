@@ -261,3 +261,4 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 **Rollup:** Dread max · attendance locked · NOTE-1 dual held · public still routine.  
 **Edit pass 1 / read-through:** cut future-wink (Nicolaus); Nysa = SC-35d; “history” wording softened.  
 **M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).
+- **Law-sweep:** Ides-morning peak — humour OFF; household ≥3 collisions; Decimus cheer as relationship-by-behaviour; NOTE-1 dual held (not merged); Spurinna/Decimus callbacks; G1 peak-day mosaic allowed.

@@ -141,3 +141,4 @@ Decimus fell into step. He didn't know the wax. He knew the chin-tip, the roads,
 - **S-A0:** three-voice dinner; polite clasp → street complaint; heir loungers’ exit bitching.  
 - Plural motives; no hive agreement on Caesar’s meaning. FS05/FS21 planted.  
 - MUST_EXPRESS: A8 seed, B1, C1–C3 seeds. Next: Ch 5 Octavian.
+- **Law-sweep:** Dinner ≥3; host polite → street exit-complaint; Decimus portico loungers bitch after station laugh; audible humour with reaction; queen/child + second-line heir plants; relationships by behaviour (ditch/Spain).

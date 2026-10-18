@@ -89,9 +89,13 @@ Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him
 
 “Hold the men,” Antony told Pacuvius. “Feed them. Promise them nothing you can’t spell. Tomorrow we talk in rooms with doors.”
 
-Pacuvius looked cheated. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
+Pacuvius made the face of a man receiving wisdom—chin tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
 
-Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt.
+Antony turned toward the Capitol. Behind him, once the consul’s shoulder was a safe width away, Pacuvius’s soft dropped for Lepidus’s nearest ear and two officers who had wanted dark. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger—mark that when the Forum wants blood and we offer clauses.”
+
+Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
+
+Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt. He had heard enough of the exit-complaint to file it: hunger wanted paint; he wanted a funeral that paid.
 
 “You wanted liberty,” he said to the hill, too soft for officers. “Congratulate yourselves. Now learn the price of a crowd.”
 
@@ -101,7 +105,8 @@ Antony spat blood from a bitten cheek he did not remember biting and stared towa
 - M11: force available, massacre not chosen.  
 - Antony thinking funeral/body optics — calculated, not verse performance.  
 - False death rumour noted.  
-- // M5: Lepidus held as present/careful — neither hero nor cartoon.
+- // M5: Lepidus held as present/careful — neither hero nor cartoon.  
+- **Law-sweep:** Pacuvius polite assent → exit-complaint (rooms vs warm knives); ≥3 with Lepidus/officers in earshot.
 
 ---
 
@@ -138,13 +143,15 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-In the corridor outside the bargaining room, three voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
+He left the bargaining room with praise still arranged on his mouth—peace, breath, law’s return—the smile sized for men who needed Cicero more than they needed a pyre. In the corridor outside, three voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus; the same species of appetite that had called the Republic a warehouse—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink—second line, the dinner joke that had once sounded like party favour; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
 
 “The queen is not in the Senate,” the junior said.
 
 “Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
 
-Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods.
+The client’s voice thinned into exit-complaint once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
+
+Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty—and *Decimus / second line* as a debt the dead man still held on the living—and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 
 He went home—or to someone’s home that would do—and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour—and, beneath the burial, began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again—the old habit, not prophecy.
 
@@ -154,7 +161,8 @@ On the seventeenth, when the bargain had begun to harden, he allowed himself a t
 
 ## Continuity notes (SC-47)
 - Contemporary hope shown; amnesty + acts ratified seed funeral power.  
-- **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.
+- **S-B1 / S7:** Corridor pre-will shopping — gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.  
+- **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).
 
 ---
 

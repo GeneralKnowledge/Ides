@@ -101,4 +101,4 @@ Not a date on a tablet—only hills through the gate, and beyond them a name war
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22 — OCT accepts name.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
 **Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable — new confinement cost beyond purse.
-
+- **Law-sweep:** Fundi same-room collision ≥3; wine-shop boy-sport; Lanuvium echo; polite visitor clash; audible underestimation humour; name-war plants toward Ch 22.

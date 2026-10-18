@@ -151,3 +151,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 
 **Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).  
 **M5 polish:** header pass; last-words ambiguity held (AMB).
+- **Law-sweep:** Curia knives — humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
