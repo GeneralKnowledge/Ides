@@ -156,6 +156,28 @@ Ch 18 only uses “Seius’ type” as comparison. No further full turn after th
 
 ---
 
+## 9. Golden-read thought — dreams / prediction / omen as through-beat
+
+**Author (in golden chapters):** wondering whether prediction / dream / “ability” should be more of a story beat **throughout**, not only clustered at the Ides.
+
+**What the draft does now:**
+
+- Dreams/omens are a **peak cluster** (esp. Ch 11–15): Spurinna *beware*, household omen weather, Calpurnia’s pediment dream (DREAM-1), Caesar’s private Jupiter/clouds dream, Decimus reframing courage-as-omen, Nysa’s incomplete wax fragment (NOTE-1 track).
+- Canon keeps **ambiguity** (AMB-1): anxiety vs true omen vs embroidery; narrator must not confirm supernatural; other dream versions may circulate as misremembering.
+- After the Ides, omen machinery largely yields to paper, funeral, name, war — not a continuing “seer” arc.
+
+**Why the thought arises now:** Golden chapters are where dread/dream finally *does* something (almost). That can feel like the book briefly found a carrying beat — then the question becomes whether that beat was underused before/after.
+
+**If pursued later (options, not a brief):**
+
+- **Throughline of failed warning** (not psychic ability): plant omen-weather / dismissed *beware* earlier and let aftermath characters misremember or monetise prophecy — still AMB-1 safe.
+- **Calpurnia / household as longer dread spine:** more beats before Ch 12, residual cost after Ch 15 — still human, not confirmed gift.
+- **Avoid:** upgrading anyone to a reliable predictive *ability* that the narrator certifies — that collapses AMB-1 and changes genre.
+
+**Do not yet:** redesign omen architecture mid-golden-read. Note whether the dream material is what made Ch 14–15 feel more “driven” than Ch 1–6; that answer matters more than a template.
+
+---
+
 ## What not to do with these notes
 
 - Do not turn them into a new audit framework or test suite.
