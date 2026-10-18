@@ -20,7 +20,7 @@ In rooms with clean sandals this would be named success before the mud dried. In
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
-Pay talk lived under the noise like a second drum: who owed donatives, which Caesar’s name still fed mouths, whether Hirtius’ clean reputation meant Rome finally understood mud. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Bread argues later.”
+Pay talk lived under the noise like a second drum: who owed donatives, which Caesar’s name still fed mouths, whether Hirtius’ clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date—Forum smoke had taught him the dirt could walk without clerks; Mutina mud taught him it could drown you while walking. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later—if later still has a road.”
 
 He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway—signals lied as often as clerks.
 

@@ -19,7 +19,7 @@ Overhear risk: Crowd below partial
 
 The Capitol was height, and height was supposed to mean clarity.
 
-Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. Three living wants shared the rock: speak the city into virtue, leave before Antony found a sword, hold the height as if height were an argument.
+Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly—theatre of virtue. Cassius kept his voice low and his eyes on approaches—and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument as if height could choose among them.
 
 Brutus spoke. He heard himself speak. The words were right—*libertas*, tyrant, law, ancestors—each one a stone from a good road. Below, the Forum didn't become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain as if grain were a consul.
 
@@ -45,16 +45,19 @@ Cassius said, close enough that only Brutus and Decimus caught it, “We cannot 
 
 They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped as if he had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
 
+Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning—patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. He had nodded that winter into February’s portico and left it unpaid; absence was the receipt now, standing where a blade should have stood.
+
 Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say *Capitol* if you must—say it as fear, not as a period.”
 
-Brutus took the exit-complaint without answering it in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid—and the rock had just taught him that waiting could be a choice with a cost, not only a virtue with a view.
+Brutus took the corridor truth without answering it in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid—and the rock had just taught him that waiting could be a choice with a cost, not only a virtue with a view.
 
 ---
 
 ## Continuity notes (SC-45)
 - Liberty optics fail to convert populus.  
 - Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.  
-- **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor exit-complaint after Brutus’s public face.  
+- **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor truth after Brutus’s public face.  
+- **Tissue:** Galba brother’s winter unpaid → Capitol absence (Ch 8 price paid as missing blade).  
 - // M5: Capitol oration reconstruction deferred — behaviour holds without verbatim fragment.
 
 ---
@@ -102,7 +105,7 @@ Antony turned toward the Capitol. Behind him, once the consul’s shoulder was a
 
 Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
 
-Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt. He had heard enough of the exit-complaint to file it: hunger wanted paint; he wanted a funeral that paid.
+Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol as if he could collapse it with contempt. Pacuvius’s hunger still wanted paint; Antony wanted a funeral that paid.
 
 “You wanted liberty,” he said to the hill, too soft for officers. “Congratulate yourselves. Now learn the price of a crowd.”
 
@@ -150,13 +153,13 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He left the bargaining room with praise still arranged on his mouth—peace, breath, law’s return—the smile sized for men who needed Cicero more than they needed a pyre. In the corridor outside, three voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus; the same species of appetite that had called the Republic a warehouse—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink—second line, the dinner joke that had once sounded like party favour; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
+He left the bargaining room with praise still arranged on his mouth—peace, breath, law’s return—the smile sized for men who needed Cicero more than they needed a pyre. In the corridor outside, voices were already pricing what the bargain had not named. A banker-looking man—onion-and-money face, stylus—told a junior that gardens across the Tiber would move leases before anyone opened a will. A client asked who the paper might wound first: Decimus, if the dead man had loved him in ink—second line, the dinner joke that had once sounded like party favour; the Liberators, if the crowd got three hundred reasons; or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
 
 “The queen is not in the Senate,” the junior said.
 
 “Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours—men are already shopping the options.”
 
-The client’s voice thinned into exit-complaint once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
+The client’s voice thinned once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
 Cicero heard enough to file *gardens / boy / queen / wound* beside amnesty—and *Decimus / second line* as a debt the dead man still held on the living—and did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 

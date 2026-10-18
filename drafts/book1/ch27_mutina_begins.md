@@ -40,7 +40,7 @@ Antony’s mouth did something almost like a smile. “Then we introduce you to 
 
 They parted without clasping. The truce ended when the first boot left the ditch mud. Behind Decimus, the aide whispered, “He bluffed the grain.”
 
-“He might have,” Decimus said. “I cannot un-eat what we have already not eaten.”
+“He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed—then didn’t. Laughing in a ditch after refusing winter was how men became other men’s stories.
 
 That night a courier brought Plancus’s newest courtesy: admiration for Mutina’s hinges, regret that his own columns were “not yet free to join,” a promise dated after a thaw that had not begun. Decimus set the tablet under the same stone as Antony’s old threats. Plancus’s courtesy weighed like another empty sack when the smoke count was already short.
 
@@ -72,7 +72,7 @@ Overhear risk: Curia
 
 ---
 
-Cicero argued Octavian into usefulness the way he argued clauses into laws—three bodies in the fringe: Cicero, a sweating senator who feared Antony more than boys, and Octavian present enough to be aimed.
+Cicero argued Octavian into usefulness the way he argued clauses into laws—Cicero, a sweating senator who feared Antony more than boys, and Octavian present enough to be aimed.
 
 “The young Caesar”—Cicero still choked on the name privately and used it when the Curia needed a handle—“will defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath as if grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
 
@@ -89,4 +89,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 **Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.
 **Act5 ordeal:** SC-74 summary compressed; SC-73 parley protected.
 **1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
-- **Law-sweep:** Parley ≥3 (Antony/Decimus + aides); grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe ≥3 aiming Octavian; humour low (siege light).
+- Parley grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe aiming Octavian.  
+- **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.

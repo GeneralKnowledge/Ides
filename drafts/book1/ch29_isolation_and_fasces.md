@@ -78,6 +78,8 @@ He felt sick after the first hard bargain—stomach, not omen. A taste of metal 
 
 Octavian wiped sweat from his upper lip with the back of his hand—ugly, visible, unfinished. “They hated the knives more. Let them hate a boy who pays—after the line eats.”
 
+Agrippa’s mouth twitched—almost the old Apollonia play, then not. “Homework with fasces. Only you could make a consulship sound like a debt you intend to clear before bedtime.” Octavian did not smile. Smiling would have spoiled the pay line. He let the twitch count as the joke landing and kept his fingers on the chest.
+
 A senator called him the Republic’s luck and waited for a smile of destiny. Octavian returned a nod calibrated to obedience and didn't trust his mouth with a sentence. A soldier shouted the name Caesar as paymaster; Octavian didn't bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
 Still not serene. Still learning where ruthlessness lived in the body—usually behind the teeth, not in a speech about forever. Decimus’s absence didn't make him wise. It made Bononia feel caused—ranks and Senate both naming the empty north—and the men behind him louder.
@@ -91,4 +93,5 @@ Still not serene. Still learning where ruthlessness lived in the body—usually 
 **Phase 1D.1:** SC-82 experiential death; SC-83 vacuum→fasces without Augustus mind.
 **Act5 ordeal:** SC-82 left sensory; SC-83 deepened so Bononia reads as consequence of Decimus gone.
 **Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.
-- **Law-sweep:** Road ordeal — humour OFF at Decimus death; ranks/Senate ≥3 pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny; Agrippa by silence/behaviour.
+- Road ordeal — humour OFF at Decimus death; ranks/Senate pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny.  
+- **Tissue:** Agrippa “homework with fasces” bite after pay-line (humour ON, OCT refuses smile)—playfulness without caption.

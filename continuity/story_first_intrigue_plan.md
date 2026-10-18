@@ -307,8 +307,9 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 6. **Gold spine dwell:** **Done** — Act-5-class density at SC-35c / 40 / 41 / 43-exit / 45 / 50a; locks held — see `gold_spine_dwell_pass_log.md`.  
 7. **Deep craft audit (surface vs integrated):** **Done** — delete-the-garnish Q1–Q5; verdict **NO DOCX** (Ch 13=0; 7/20/23=1) — see `deep_craft_audit.md`. Law-sweep ≥2-laws = false green.  
 8. **Anti-formula densify:** **Done** — Ch 13 → 20 → 23 → 7 + craft-noun strip 25/28F4/32/34; floor 0–1 cleared on those files — see `anti_formula_densify_pass_log.md`.  
-9. **Author cold-read of densified band** (Ch 7/13/20/23 spot) **or** residual-risk DOCX decision — **Next**. Residual ledger (Galba winter, humour desert, gravity) still unpaid.  
-10. Short log updates in `continuity/story_first_pass_log.md`.
+9. **Residual tissue densify:** **Done** — Galba winter + Capua cost paid; warehouse Ch 18 strip; Act 5 humour bites; craft-noun leaks — see `residual_tissue_densify_pass_log.md`.  
+10. **Keep densifying soft joints** (gravity / cast-wide play / remaining desert) **without** waiting on author cold-read — **Next**. Not finished-line.  
+11. Short log updates in `continuity/story_first_pass_log.md`.
 
 **Success test (reader):**  
 - Cleopatra does not feel like a cameo.  
@@ -379,8 +380,8 @@ Locks: CLEO-1; no Actium; not an Ides planner; *regina* debate stays out of her 
 
 **Seeds rejected as redundant/artificial:** re-planting Transtiberim in Ch 2; inventing a new Decimus hesitation speech; confirming Caesar “knows”; SIDE-1 tablet that “explains March”; a scavenger-hunt omen object without character motive.
 
-**Next implementation phase:** Author cold-read of densified Ch 7/13/20/23 (spot) **or** residual-risk-aware FULL + golden DOCX decision. Anti-formula floor clear — see `anti_formula_densify_pass_log.md`. Residual unpaid ledger from deep audit still open (not automatic finished-line export).
+**Next implementation phase:** Continue residual tissue densify on soft joints (gravity / cast-wide play / remaining humour desert) per `residual_tissue_densify_pass_log.md`. Do **not** block on author cold-read for known missing tissue. Not finished-line.
 
 ---
 
-*End of story-first intrigue plan. S-A0→S-B1 + gold-edge + Act5 + law-sweep + gold dwell + deep craft audit + anti-formula densify done; next densified-band cold-read / DOCX decision.*
+*End of story-first intrigue plan. Through residual tissue densify done; next soft-joint densify without cold-read gate.*

@@ -23,7 +23,7 @@ He sat under the basilica’s shade with his tablets open like a small, portable
 
 “Amnesty,” Hordeonius said solemnly, “is a political word. Interest is a natural one. Do not confuse them.”
 
-A junior senator—Seius’ type, though not Seius—laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Three bodies in the same breath of shade: banker, junior appetite, Sosia tasting panic. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax—unless the humour sold a second cup without confessing appetite.
+A junior senator—Seius’ type, though not Seius—laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax—unless the humour sold a second cup without confessing appetite.
 
 Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hundred sesterces a head—gardens across the river—Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen: still lodged in Caesar’s green claim, child and hours and all—would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
@@ -31,9 +31,9 @@ Rumour arrived in stacks. Octavius—Octavian—boy—heir—adoption—three hu
 
 “Whoever opens the seal,” Hordeonius said. “Or whoever pretends not to notice she was priced before the seal existed.”
 
-The junior wiped his eyes. “You talk as if a will were a warehouse.”
+The junior wiped his eyes. “You talk as if mourning were a price list.”
 
-“The only warehouse,” Hordeonius said, priest-flat, “large enough to hold our grief without confessing it is still greed.” Sosia snorted wine—audible, unlovely—and had to wipe his chin. The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the sale of solemnity.
+“Mourning that refuses a price,” Hordeonius said, “is mourning that still wants gardens, a boy’s name, and a queen’s silence on the same stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there—the junior was already leaning in for leases, and jokes that named queens out loud became line items. “I sell you which rumour empties a purse first,” Hordeonius added. “Not which grief is honest.” The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the sale of solemnity.
 
 He entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks—SIDE-1’s ghost—hinting Basilus and an Antonian name could still be made to squeal.
 
@@ -41,9 +41,9 @@ Hordeonius looked at the copy with the tenderness due a dead client who had once
 
 “This,” he said, gentle as a blessing, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
 
-The whisperer bowed as if receiving wisdom. “Of course. Sacred. Living seals only.” His face held until the basilica’s next pillar hid him; then, to a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
+The whisperer bowed as if receiving wisdom. “Of course. Sacred. Living seals only.” Past the next pillar he caught a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
 
-Hordeonius heard the shape of the exit-complaint without needing the words. He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
+Hordeonius heard the shape without needing every word. He almost added that he mourned Visellius still. He did mourn him—as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
 By the fourth hour his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
 
@@ -60,7 +60,7 @@ He blotted the wax, neat as virtue, and waited for the next fool to ask him whet
 - Will rumour hits markets before/as formal reading.  
 - **S-B1 / S7:** Queen/gardens/child priced as unfinished Roman problem before seal (pays Ch 4/6 gossip; CLEO-1 held).  
 - // M5: HS figure stays street talk (C mush OK).  
-- **Law-sweep:** Stall ≥3 (Hordeonius + Sosia + junior); warehouse-of-grief humour with Sosia snort (Ch 2 echo); whisperer polite → pillar exit-complaint; Decimus second-line / queen stacks as paid callbacks.
+- **Anti-formula / tissue:** Warehouse/snort gag strip; F4 bite retied to gardens/boy/queen market risk; Decimus second-line / queen stacks as paid callbacks.
 
 ---
 
