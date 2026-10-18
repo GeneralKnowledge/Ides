@@ -128,7 +128,7 @@ Cassius’s nod was small. Small nods moved mornings. He named the redistributed
 
 Brutus nodded once. The ancestral gesture. He didn't sleep well after. Sleep was for mornings that weren't knives. Cassius slept worse and called it planning.
 
-They left the room separately. Outside, a baker’s boy argued with a customer about ordinary March prices, and neither man looked twice at the two who had just spent a breath on knives.
+They left the room separately. Outside, a baker’s boy argued ordinary March prices with a customer and, in the same breath, that Caesar had already slipped the city for Parthia in the night—rumour with flour on it, already wrong. Neither man looked twice at the two who had just spent a breath on knives.
 
 ---
 
@@ -138,6 +138,7 @@ They left the room separately. Outside, a baker’s boy argued with a customer a
 - F3 land powder (FS10) soft for funeral rage.  
 - **1D.4:** GO friction — missing Ligarius cousin; money creditor; last doubt before lock; GO chosen not tallied.  
 - **Later-book reader pass:** Galba winter/debt tag on GO roster (antecedent for Ch 17 Capitol absence).  
+- **Golden-read P0:** Baker’s boy sells prices + already-wrong Parthia rumour — plants bakers as rumour mill before Ch 16+.  
 - Spare-Antony / no hive mind held.  
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.  
 - Chapter map updated to include SC-32.  

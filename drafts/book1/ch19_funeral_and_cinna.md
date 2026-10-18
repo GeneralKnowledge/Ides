@@ -31,9 +31,11 @@ The body was the point. Fire found it in the Forum because the Forum decided—o
 
 A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
 
-Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened—permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy. When the first shops began to burn toward Liberators’ houses anyway, farther and faster than the grain line, Antony felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod—and the second officer was already too far forward to call back without looking afraid of his own heat.
+Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened—permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy.
 
-Teaching looked like smoke. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
+The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire as if it were a donative, then another man took the next brand toward the streets where Liberators kept doors—same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction: the enemy’s city had become the enemy, and it was no longer waiting for his nod—and the second officer was already too far forward to call back without looking afraid of his own heat.
+
+Teaching looked like smoke that had walked. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
 
 ---
 
@@ -56,7 +58,7 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 “They’ll run to their rock,” the corporal said. “Then we’ll see how liberty tastes without bread.”
 
-When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be—the old habit, distance before commitment.
+When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be—the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
 
 Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
@@ -100,6 +102,7 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - // M5: Antony speech held as refrain (lightly compressed); not blank verse.  
 - **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.  
 - **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.  
+- **Golden-read P0:** Pyre→buildings handoff stitched — brand/bench leaves Forum fire for Liberator doors (Antony + Laberius); not a longer funeral.  
 - **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks)—not gag.
 
 ---

@@ -137,9 +137,9 @@ The Sacra Via was already loud. March mornings in Rome never waited for great me
 
 If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
 
-Phileros met him in the vestibule, onion and oil on his breath, important with keys.
+“He may not—”
 
-“He may not—” the doorkeeper began.
+Phileros was already in the vestibule with the sentence—onion and oil on his breath, important with keys—talking before Decimus’s sandal cleared the threshold.
 
 “He will,” Decimus said, pleasant. “I am here to make sure the Republic does not take offence at a late sleep.”
 
@@ -196,7 +196,8 @@ Decimus kept his hand available until Caesar no longer needed it, then let go as
 ## Continuity notes (SC-35c)
 - Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.  
 - **Gold-edge / S18:** Chin-tip / ditch-timing / Campus-route road-trust pay (Ch 4 plant).  
-- **Gold dwell:** Calpurnia spoken cut Decimus must answer; Phileros/Nysa collision; chin-tip fails as lived habit under her eyes (not memory caption).
+- **Gold dwell:** Calpurnia spoken cut Decimus must answer; Phileros/Nysa collision; chin-tip fails as lived habit under her eyes (not memory caption).  
+- **Golden-read P0:** “Someone would talk” cut straight to Phileros mid-sentence — staged, not thesis-only.
 
 ---
 

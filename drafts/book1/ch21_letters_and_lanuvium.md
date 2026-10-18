@@ -26,7 +26,7 @@ The neighbour smiled as if force were a vulgar digression. “Surely the Senate�
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-The first courier—sandals cracked—spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Bakers say the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
+The first courier—sandals cracked—spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
 
 “Which boy?” the neighbour asked, pleased to be scandalised.
 

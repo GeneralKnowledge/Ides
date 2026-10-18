@@ -28,7 +28,7 @@ Tillius’ hands found the toga. Pulled.
 
 The signal was ugly and ordinary—cloth, fist, the insult of touch. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
-Publius Casca struck—neck, shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. Latin burst out of him, sharp: a question, an outrage, *what is this violence* in the old register of men who still believed Senate rooms were safer than camps.
+Publius Casca struck—neck, shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. A question burst out of him, sharp with outrage—the old register of men who still believed Senate rooms were safer than camps. “What is this violence?”
 
 Cassius moved.
 
@@ -93,7 +93,8 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 
 ## Continuity notes (SC-43)
 - CHOREO-1; no Shakespeare last words; disputed Greek fragment; Pompey statue fall.  
-- **Gold dwell:** Exit fringe only — Cassius corridor truth (spare/Monday walking toward them); knife pile untouched.
+- **Gold dwell:** Exit fringe only — Cassius corridor truth (spare/Monday walking toward them); knife pile untouched.  
+- **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”
 
 ---
 
@@ -127,7 +128,7 @@ The name Antony snagged. Nysa did not see Antony. She saw a gap where a large ma
 
 Nysa’s mouth moved before her caution did. “Antony is dead?”
 
-“Dead as the dictator,” the first freedman said, happy to be source. “Tell them in the Subura before the bakers lie about it.”
+“Dead as the dictator,” the first freedman said, happy to be source. “Tell them in the Subura before the bakers’ rumour cleans it.”
 
 She ran because standing still made you a witness, and witnesses were questioned. The wax fragment under her tunic knocked against her ribs like a second heart that had failed earlier and wanted usefulness now.
 
@@ -146,7 +147,8 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 ---
 
 ## Continuity notes (SC-44)
-- False Antony-dead seeded; Nysa amplifies in good faith; mutates (Dolabella/list). Corrected Ch 17/19.
+- False Antony-dead seeded; Nysa amplifies in good faith; mutates (Dolabella/list). Corrected Ch 17/19.  
+- **Golden-read P0:** “bakers’ rumour” scaffolds street mill (pays Ch 13 plant).
 
 ---
 

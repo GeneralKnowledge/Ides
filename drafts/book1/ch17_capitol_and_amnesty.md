@@ -97,13 +97,13 @@ He didn't yet know how he would show the body. He knew only that a corpse in the
 
 Pacuvius did not wait for poetry. “Massacre first. Funeral after. The rock still has warm knives on it—every hour we feed the men soft is an hour they invent softer orders.”
 
-An officer beside him—young, oil-smell, ambition still unscarred—seconded without looking at Lepidus. “Paint the Capitol before the bakers invent a different martyr. Force is a fact. Facts do not keep overnight.”
+An officer beside him—young, oil-smell, ambition still unscarred—seconded without looking at Lepidus. “Paint the Capitol before baker-rumour invents a different martyr. Force is a fact. Facts do not keep overnight.”
 
 Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
 
 Three wants, one ditch of snowless March air: Pacuvius’s storm, the officer’s paint, Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight—massacre versus optics—and chose the slower blade because the slower blade still had a consul’s name on it.
 
-Rumour had him dead in the Subura. He almost liked that. Let the bakers bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
+Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short version bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
 “Hold the men,” Antony told Pacuvius. “Feed them. Promise them nothing you can’t spell. Tomorrow we talk in rooms with doors.”
 

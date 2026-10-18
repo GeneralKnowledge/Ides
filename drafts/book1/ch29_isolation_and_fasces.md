@@ -48,7 +48,7 @@ There was no speech. He went for the horse. A hand caught his cloak. Mud took hi
 
 If he thought of Caesar’s laugh one last time, the thought stayed inside. Pain was brief and specific.
 
-Word would reach Rome late and wrong in places. Bakers would get the short version: Decimus Albinus was gone.
+Word would reach Rome late and wrong in places. The bakers’ short version would travel first: Decimus Albinus was gone.
 
 ---
 
