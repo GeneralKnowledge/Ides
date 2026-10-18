@@ -30,7 +30,7 @@ A boy selling fish by the verge stared at the litter as if fame were a colour. C
 
 When the killers found the road, his attendants made the noises attendants make—loyalty, panic, the math of their own skins. Someone begged; someone ran; someone stayed because staying was also a calculation, and calculations had always been Cicero’s neighbours if not his friends. He put his head out enough to be seen. He had looked at juries this way: measuring, already composing, already knowing the verdict lived outside the speech.
 
-He did not deliver a final Philippic. Rhetoric needed breath and an hour. He had seconds and a neck. He offered them the stillness he had practised in courts when the verdict was already known. If composure was vanity, let vanity be his last client. Vanity, at least, had always answered his letters. He almost shaped a line about the Republic and let it die unspoken—mercy to the air.
+He did not deliver a final Philippic. Rhetoric needed breath and an hour. He had seconds and a neck. He offered them the stillness he had practised in courts when the verdict was already known. He almost shaped a line about the Republic and let it die unspoken.
 
 He thought, absurdly, of a softened sentence he had once drafted for Atticus about extraordinary medicine. Medicine had become the list. The list had become this road.
 

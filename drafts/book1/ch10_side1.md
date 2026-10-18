@@ -92,9 +92,7 @@ Neighbours already filled the stair with theories: debt, jealousy, politics, a w
 
 Nobody answered. The dead never did. That was why ledgers needed the living.
 
-He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour. Rumour was interest you paid without a contract.
-
-SIDE-1 had begun. It would not explain the Ides. It would only teach the city, again, that tablets could kill as quietly as speeches.
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A. — doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour. Rumour was interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
 ---
 

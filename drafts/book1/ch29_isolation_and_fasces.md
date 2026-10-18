@@ -14,7 +14,7 @@ Overhear risk: Dwindling staff
 
 ---
 
-Decimus left Mutina’s relief into a map where Plancus hesitated, Lepidus smiled wrong, and Antony—bleeding but unbroken—slid toward friends Decimus could not buy. He looked for a destination mark on the wax itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing.
+Decimus left Mutina’s relief into a map where Plancus hesitated, Lepidus’s promised date never arrived, and Antony—bleeding but unbroken—slid toward friends Decimus could not buy. He looked for a destination mark on the wax itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing.
 
 Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady—gates held, honour intact—and stopped mid-sentence when his hand cramped. He did not send a second copy.
 

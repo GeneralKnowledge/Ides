@@ -110,9 +110,9 @@ They had been going in to dinner when the man found them—a freedman with dust 
 
 Octavian’s first feeling was not fate-music. It was the childish, humiliating drop of the floor—the sense that the adult arrangement of the world had been a prop. His second feeling was colder: who benefits, who moves, who lies in the first report.
 
-“Say it again,” he said. “Slower. Without the parts you wish were true.”
+“Names first,” he said. “Then places. Separate what you saw from what the road invented.”
 
-The courier slower-said a thinner story: Caesar dead; Liberators on a rock; Antony not clearly dead or alive in the first mouthful; no clean word of a will.
+The courier tried again with a thinner story: Caesar dead; Liberators on a rock; Antony not clearly dead or alive in the first mouthful; no clean word of a will.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety.
 
