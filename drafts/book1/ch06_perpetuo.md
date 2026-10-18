@@ -66,6 +66,14 @@ A young senator’s agent muttered about fairness. Hordeonius heard politics and
 
 He meant profit. Listeners heard a grievance they could carry into darker rooms. Both were correct. A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius priced the question instead of answering it. Stopping other men’s metaphors was unpaid labour; monetising them was craft.
 
+A third voice, two stools down, tried to sell the question as grain. “And the Transtiberim gardens—do they still count as collateral when the talk is of a foreign child keeping Roman hours? I heard the hours run longer than some men’s careers.”
+
+Sosia snorted into his cup. “Last month it was the queen’s boy and half-hours on roads. Now it’s hours in gardens. Same gossip, worse arithmetic.”
+
+“Gardens are gardens,” Hordeonius said, mild as a rate sheet. “Children are rumour until someone seals them. Rumour moves faster than seals this season. I do not underwrite Alexandria on a dinner story.”
+
+He did not certify the child. He certified that the market had begun pricing the dinner story as if it were a will. That was enough weather for a banker who preferred Kalends to crowns.
+
 He entered *offices: closed forward* and felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word.
 
 “Mark me,” the young agent said, already halfway to a darker room in his mind. Hordeonius marked him for interest, not for liberty. Liberty, like grain, moved better when someone else carried the sack.
@@ -75,4 +83,5 @@ He entered *offices: closed forward* and felt the market’s mood thicken. Thick
 ## Continuity
 - A3 perpetuo: disgust + compliance (CIC).  
 - Parthia clock via crates (F1); offices futures grievance (F4) as recruitment fuel overheard.  
+- **S-A1 / S1:** Warped re-hearing of queen/child talk at banker stalls (gardens/hours/collateral)—no certification; CLEO-1 held.  
 - MUST_EXPRESS: B3, FS22. Next: Ch 7 Lupercalia (gold spine — not M2).

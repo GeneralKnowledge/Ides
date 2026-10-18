@@ -50,7 +50,15 @@ She walked on with empty hands and a full head. In the side room she pressed wha
 
 She wrapped the fragment in linen and set it against her ribs. She didn't understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door—and that she might already have the wrong half.
 
-Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter—mercy or trap depending on which word you stressed—and it hadn't yet grown legs as street rumour.
+She had almost made the linen disappear under her tunic when Phileros turned the corner with a basket of mats and the look of a man hunting unfinished work.
+
+“What are you holding against your ribs?” he asked, not kindly.
+
+“A strap-end,” Nysa said, and opened her empty hand before the linen could speak. The fragment stayed pressed higher, under the fold, a hard grain against bone. Phileros stared at the empty palm, then at the latch she had been resetting, then grunted as if latches were the only crime worth pricing.
+
+“Mats,” he said. “Before the atrium invents another omen.”
+
+She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night—under a loose tile, behind a water jar—and Phileros’s basket had stolen the minute. Delayed handoff; hunted feeling. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter—mercy or trap depending on which word you stressed—and it hadn't yet grown legs as street rumour. It had only almost become a door-search.
 
 ---
 
@@ -83,6 +91,7 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 ## Continuity
 - Calpurnia lesser nightmares → toward DREAM-1.  
 - Nysa NOTE-1 fragment seeded (incomplete; misreadable emphasis; not Artemidorus note).  
+- **S-A1 / S4:** Household near-miss — Phileros almost catches linen; delayed safer handoff; fragment still ≠ Artemidorus sealed note (NOTE-1 dual held).  
 - Caesar opacity: danger-as-weather; AMB-1 held; trusts Decimus habit.  
 - **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.  
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.  
