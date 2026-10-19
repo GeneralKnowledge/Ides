@@ -1,7 +1,7 @@
 # Chapter 11: Omens Manufactured
 
 **S-A2 dwell** · SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
-**Human-voice pass:** thesis-wrapper thin; chickens vs senators + Hirtius refuse kept.
+**Human-voice:** Ch 11 feel-pass (rules); chickens vs senators + Hirtius refuse kept.
 
 ---
 
@@ -18,7 +18,7 @@ Overhear risk: Extreme (staff)
 
 Staff traded omens like recipes.
 
-Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. Someone older (Pasiphile from the wash-court) said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a king-bird torn apart in Pompey’s hall, other birds watching like a jury that already knew the verdict.
+Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a king-bird torn apart in Pompey’s hall, other birds watching like a jury that already knew the verdict.
 
 “And Spurinna,” the washerwoman added, pleased with the name, “told him to beware the Ides. Beware is a priest’s whole trade.”
 
@@ -30,7 +30,7 @@ Dama wanted the king-bird to mean knives. Pasiphile wanted it to mean bad cheese
 
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed: Dama swore the gods were tapping the bed; Pasiphile swore it was only March nerves and bad cheese; the washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
 
 Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
@@ -57,7 +57,7 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-They said (someone always said) that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+They said, someone always said, that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
 Below the elite dinners, he knew, kitchens were already trading birds and *beware* like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
@@ -94,3 +94,4 @@ Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens
 **Final integrated / E4:** SC-27: Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.
 - **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.
 - **Golden-read P3-c:** Competing versions of Calpurnia’s “running sleep” (gods / nerves / politics), dream packet plant before Ch 14 peak.
+- **Human-voice (Ch 11):** one feel-pass — open Pasiphile/someone-always-said parens; dream versions as breaths; hold chickens-not-senators, Hirtius refuse, AMB-3.
