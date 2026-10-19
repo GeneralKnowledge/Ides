@@ -12,9 +12,10 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 |------|----------------|--------------|----------|
 | **Hirtius** | Consul; dies Mutina (Laberius-knowable) | Clean reputation vs mud | POV required |
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
-| **Philippus / Atia** | OCT safety pressure | Refuse name / cushions | Destiny coaches |
+| **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece) | Refuse name / cushions | Destiny coaches |
 | **Sextus Pompeius** | Western sea knife (secondhand) | Rumour dual reports | On-page Actium path |
-| **Helvius Cinna** | Wrong name lynched | Crowd ecology | Joke-only treatment of death |
+| **Helvius Cinna** | Wrong name lynched (Ch 19) | Minor poet; Caesar’s friend; “I am Helvius” | Joke-only treatment of death; conflate with Cornelius |
+| **Cornelius Cinna** | Praetor; Caesar’s brother-in-law | Tyrant speech from Rostra after Ides | Swap identity with Helvius |
 | **Lepidus’s / Antony’s envoys** | Grammar threats; clean cloaks | Chairs refused | Generic henchmen voice |
 | **Balbus orbit** | Kingship talk float (Cicero’s wrong guess OK) | Calendars over daggers | Confirmed sole OMEN-1 author if text keeps ambiguity |
 

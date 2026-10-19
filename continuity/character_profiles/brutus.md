@@ -11,13 +11,13 @@ Be worthy of the ancestral name without admitting money, fear, and dependence st
 If the morning wears law’s face, the city will eventually love the vocabulary more than the corpse.
 
 ## Soft spots / fears
-Creditors; Porcia’s pressure; looking like Antony’s petitioner; liberty brand cracking under tax/war; missing Galba as unpaid receipt.
+Creditors; Porcia’s pressure; looking like Antony’s petitioner; liberty brand cracking under tax/war; missing Galba as unpaid receipt; late-hour forgiveness intimacy with Caesar.
 
 ## Perception filter
-Etiquette, masks, hedges, periods that never meet a Forum, clean hands vs unpaid Kalends.
+Etiquette, masks, hedges, periods that never meet a Forum, clean hands vs unpaid Kalends; Junii imagines watching.
 
 ## Voice & humour
-Cultivated, slow to the point. Almost no humour; a failed joke should hurt. Gull-lawsuit twitch is rare leak.
+Cultivated, slow to the point. Almost no humour; a failed joke should hurt. Gull-lawsuit twitch is rare leak. Written voice that hates sounding written.
 
 ## Off-page life
 Drafting unread speeches; folding immortality scraps; answering Cassius with measure; refusing introductions that buy quiet.
@@ -27,10 +27,11 @@ Drafting unread speeches; folding immortality scraps; answering Cassius with mea
 | Person | Act 1–2 | Act 3 | Act 4–5 |
 |--------|---------|-------|---------|
 | Cassius | Resists ops pressure | Shared lock; corridor truth | Brand vs tax tension |
-| Decimus | Needs his door | Timing quarrel | Nearer knife vs east |
+| Decimus | Needs his door | Timing quarrel; Capitol as fear | East vs nearer knife; clasp then stranger |
 | Porcia | Offstage pressure | — | Plan-as-debt; no comfort |
-| Antony | Spare as statesmanship | Living mistake | Enemy abstract |
-| Caesar | Clemency entanglement | Dead problem | |
+| Antony | Spare as statesmanship | Living mistake / spare clock | Enemy abstract |
+| Caesar | Clemency entanglement | Look at him; disputed last sound | Dead problem |
+| Casca | Door-opener (Servilius) | Open blade as theatre | — |
 
 ## Arc beat sheet
 
@@ -38,12 +39,12 @@ Drafting unread speeches; folding immortality scraps; answering Cassius with mea
 |-------|----------|------|
 | Setup | 4, 7–8 | Clemency refuse; disclosure resist; group inch |
 | Pressure | 9, 13 | Spare Antony; GO under creditor cough |
-| Choice | 16–17 | Curia; Capitol linger |
+| Choice | 16–17 | Curia blow; Capitol linger; *libertas* fails to choir |
 | Cost | 21, 25, 32 | Lanuvium cage; purity refuse; *EID MAR* crack |
 | End | 34 | Cleaner-hill refuse; unarranged death |
 
 ## Behavioral tells
-Returns purses; refuses seals as roofs; thumb into bench; GO as breath held then released; cough outside door.
+Returns purses; refuses seals as roofs; thumb into bench; GO as breath held then released; cough outside door; crushes softness privately after Capitol.
 
 ## Information boundaries
 No Octavian future; incomplete west news in East; cannot safely walk Rome post-funeral.

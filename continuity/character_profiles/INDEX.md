@@ -1,7 +1,7 @@
 # Character Profile Index — Book 1
 
-**Manuscript HEAD when compiled:** post–soft-joint densify / novel expansion architecture  
-**Bible status:** Principals deepened to full template (Desire / Misbelief / Off-page / Relationship matrix / Arc beats). Secondaries promoted to individual files.  
+**Manuscript HEAD when compiled:** post Ch 1–19 expansion (Ides through funeral / Wrong Cinna)  
+**Bible status:** Principals deepened to full template (Desire / Misbelief / Off-page / Relationship matrix / Arc beats). Act 3 arcs revised to match Ch 14–19 densify. Secondaries promoted to individual files.  
 **Template:** [`PROFILE_TEMPLATE.md`](PROFILE_TEMPLATE.md) · **Expansion:** [`../expansion/`](../expansion/)  
 **Update rule:** When a profiled behaviour changes in prose, update the profile in the same PR or note the lag.
 
@@ -41,7 +41,7 @@
 | Galba | [`galba.md`](galba.md) |
 | Phileros | [`phileros.md`](phileros.md) |
 
-Still table-only in [`secondary_cast.md`](secondary_cast.md): Hirtius · Pansa (AMB-2) · Philippus/Atia · Sextus (rumour) · Cinna · others.
+Still table-only in [`secondary_cast.md`](secondary_cast.md): Hirtius · Pansa (AMB-2) · Philippus/Atia · Sextus (rumour) · Helvius / Cornelius Cinna (distinct) · others.
 
 ## Locked minor D-cast (card in `secondary_cast.md`)
 
@@ -71,7 +71,7 @@ Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas
 | 15 | CAL, DEC, ANT |
 | 16 | CAS, BRU, F1 |
 | 17 | BRU, ANT, CIC |
-| 18 | F4, ANT |
+| 18 | F4, ANT (+ F1 street leak) |
 | 19 | ANT, F3, F1 |
 | 20 | DEC, CLE, OCT |
 | 21 | CIC, BRU |

@@ -36,7 +36,7 @@ Entering *acquired: unclean*; smelling Visellius’s room; refusing poison-as-fa
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Setup | 1–2, 10 | Rates; SIDE-1 body |
-| Pressure | 18, 23 | Will market; petition weather |
+| Pressure | 18, 23 | Will market (basilica/Janus); amnesty≠blot debt; SIDE-1 archaeology refuse; petition weather |
 | Cost | 28, 30 | Silence-for-sale; unclean leases |
 | End | 33–34 | Ash echo |
 

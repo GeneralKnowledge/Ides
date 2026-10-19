@@ -35,7 +35,7 @@ Hovering; delaying Nysa; drinking less when fear sobers him.
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 12, 14 | Near-miss; door weather |
+| Plant | 12, 14–15 | Near-miss; mats/keys; blocks Nysa at vestibule |
 | Cost | 23 | Empty seals corridor |
 | End | 30 | Fear sobers; key religion broken |
 

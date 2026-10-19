@@ -36,8 +36,8 @@ Training weather; correcting age not tone; holding incompatible Decimus stories;
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Setup | 5 | Hopeful-shadow hate; Agrippa |
-| Pressure | 20 | Names first; gardens/boy without seal |
+| Setup | 5 | Hopeful-shadow hate; Agrippa; great-nephew plant |
+| Pressure | 18 (off), 20 | Will adoption/name-path public; names first; gardens/boy |
 | Choice | 22, 27 | Name-take; Senate’s sword nod |
 | Cost | 29–30 | Fasces; Bononia Cicero assent |
 | End | 34 | Ill; farms that belong to someone else |

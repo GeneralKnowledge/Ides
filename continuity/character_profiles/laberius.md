@@ -35,7 +35,7 @@ Brazier talk; counting left-hand men; smelling horse-lines; not searching desert
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Setup | 3 | Capua prayer; mopping |
-| Pressure | 13, 19 | Powder; funeral Capua named |
+| Pressure | 13, 19 | Powder; funeral Capua named; fist on air not torch; liberty≈Capua joke |
 | Cost | 24, 28 | Veterans listen; mud echo |
 | End | 30, 33–34 | Lists soil; Philippi field |
 

@@ -36,7 +36,7 @@ Practicing longer market days; corridor complaints after festival courtesy.
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 7–9 | market day; spare logistics |
-| Choice | 13, 15 | Leash tasked; portico hold |
+| Choice | 13, 15 | Leash tasked; portico hold; warm face drops after scream |
 | End | Post-Ides | Off-page eastern fate (not Actium plot) |
 
 ## Behavioral tells
