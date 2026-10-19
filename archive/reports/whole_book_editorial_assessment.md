@@ -71,13 +71,107 @@ What still undermines individuality when it clusters:
 - Shared elite “ops / price / weather / mark me” cleverness in persuasion and fringe mouths (much reduced by #60; leftovers remain, e.g. Ch 6–7 “Mark me,” occasional late parenthetical density).
 - Corridor polite-face → aside truth as audible craft when stacked (highest-stakes versions correctly kept; lower clones thinned).
 - Aphoristic thesis wrappers (addressed in #61 for Ch 20–23; not proven gone everywhere).
-- Nested parentheticals that stumble mid-clause in some late chapters.
+- Nested / broken parentheticals that stumble mid-clause in some late chapters.
 
 What stays character-true and must not be scrubbed into sameness:
 
 - Hordeonius ledger religion; Laberius boots/Capua; Nysa withhold/near-catch; Decimus logistics and chin-tip; Cassius salt and incomplete numbers; Brutus guilt as behaviour; Cleopatra sandal schedule; Octavian inventory-cold; Antony cloth and laugh.
 
 **Answer to question 2:** Remaining issues are **stylistic and local**, not a structural crisis. Ensemble breadth works. Prose habits can still sand POV edges in talk rooms; they do not overturn the novel’s architecture or dual-engine payoff.
+
+### Reader watch-list — what “stylistic leftovers” actually sound like
+
+This subsection is for a cold or third reread. On a familiar manuscript these habits often go past the eye because they still carry meaning. The list is **what to notice**, not a revision queue. Spotting one or two examples is normal; only flag a problem if the habit starts making different people sound like the same clever narrator, or if you have to reread a sentence for grammar rather than story.
+
+**Do not** treat this list as a brief for another series of targeted passes.
+
+---
+
+#### Habit A — Shared ledger dialect (ops / price / weather / file / furniture)
+
+**What it is:** Different mouths and POV cameras reaching for the same professional metaphors — news as *weather*, people as *furniture*, decisions as *prices*, cognition as *filing*, asides as *Mark me*.
+
+**Why it can go over your head:** Each instance still communicates. The cost is cumulative sameness: Decimus, Cicero, fringe clients, and late officers briefly share one clever register.
+
+**Where to listen (examples, not a hit list):**
+
+| Spot | What you may hear |
+|------|-------------------|
+| Ch 6–7 | Cicero and a Forum client both use “Mark me… weather” after a polite face drops |
+| Ch 4 / 10 / 21 / 24 | Laberius, Hordeonius, Cicero, Laberius again *file* rumour under shorthand (*noise until steel*; *not yet money / already joke*; *eagle refuse / Servilia paper*) |
+| Ch 23 | Seius thinks of himself as “weather that would not commit” (ledger dialect in a fringe coward’s head) |
+| Ch 32 / 34 | Late “mark me when…” from elder / junior officer fringe — same template as early clients |
+
+**Character-true version (leave alone):** Hordeonius pricing living seals; Laberius filing water and Capua dirt; Octavian inventorying rumours. Those metaphors belong to the job.
+
+**Watch question on reread:** *Would I know who was speaking if the name were removed?* If yes often enough, leave it. If several rooms in a row sound like one ops brief, note the cluster — do not start cutting.
+
+---
+
+#### Habit B — Corridor / polite-face → aside truth
+
+**What it is:** Public courtesy, then a step aside (corridor, pillar, steward-only) where the real judgment is spoken.
+
+**Why it can go over your head:** It is dramatically useful and often historically plausible. After several uses it can feel like a craft stamp (“here comes the true line”).
+
+**Where to listen:**
+
+| Spot | Status |
+|------|--------|
+| Ch 16–17 Cassius Curia / Capitol | **Protected peaks** — keep |
+| Ch 17 Pacuvius soft → hunger | **Protected** — keep |
+| Ch 7 client after Antony turns; Ch 21 client after Brutus turns toward hedges; Ch 6 Cicero smile-drop for Tiro | Lower-stakes cousins — already thinned; leftovers may still click as pattern |
+| Ch 20 Cleopatra clerk → porter bite | Functional corridor; less “Mark me” formula |
+
+**Watch question:** *Did I already know this truth before the aside said it?* If the aside only restates, it is craft echo. If it adds a new price, it is earning its keep.
+
+---
+
+#### Habit C — Broken or nested parentheticals (the ones that make you stumble)
+
+**What it is:** An aside in parentheses that runs long, nests another thought, or — most disorienting — opens a paren, starts a spoken line inside it, then closes the paren mid-thought before the sentence finishes.
+
+**Why it can go over your head on reread 3:** You already know the plot beat, so you auto-complete through the stumble. A first cold reader may trip.
+
+**Clearest “stumbling” shape to listen for** (paren opens → dialogue starts inside → paren closes mid-idea):
+
+- **Ch 18** Hordeonius/Sosia stall: joke dies *(…line items. “Gardens, boy, queen) watch which one…*
+- **Ch 26** Decimus/Antony message: *(…stable. “Tell him I call it mine…) or until he brings…*
+- **Ch 26** donative: *(honest about the bottom. He ordered a partial donative…) coin he’d meant…*
+- **Ch 29** Octavian pay line: *(ugly, visible, unfinished. “They hated the knives more…) after the line eats.*
+- **Ch 29** ruthlessness: *(usually behind the teeth… Bononia feel caused) ranks and Senate…*
+
+**Long but cleaner asides** (interrupt less; still dense when stacked): Ch 12 Nysa dread mesh; Ch 20 dream-three-versions and Octavian incomplete courier breath; Ch 21 “as if” cluster at Lanuvium; Ch 24 Antium colonnade; Ch 29–30 / 32–33 late-war density.
+
+**Rough density signal (prose body only, not a score):** parenthetical load is highest around **Ch 12, 21, 23–24, 26, 29–30, 32–33**. Low in Ch 8, 13, 28, 31. Use denser chapters as listening stations, not as scrub targets.
+
+**Watch question:** *Did I lose the main clause and have to restart the sentence?* If yes more than once in a chapter, note the chapter. If you only notice after being told to look, it is probably not blocking your read.
+
+---
+
+#### Habit D — Aphoristic thesis wrappers
+
+**What it is:** A neat summary sentence that captions the scene’s meaning (*Enough was the city’s new measure*; *Attachment was a transfer…*; *Blankness is safer…*). Many were cut in #61 for Ch 20–23; leftovers and cousins can still appear as polished one-liners that sound like the book explaining itself.
+
+**Where to listen:** Talk-heavy persuasion rooms; exit beats after a refusal; anywhere a paragraph ends on a proverb instead of a body cost.
+
+**Character-true cousin (leave alone):** Ch 22 Octavian “He hated the polish” under name-pressure; Hordeonius stall religion; Trebonius owning “Monday.”
+
+**Watch question:** *Is the line teaching me what I already saw enacted?* If the cost already landed in behaviour (empty road, blank tablet, mule off the list), the proverb is optional garnish.
+
+---
+
+#### How to use this list on your third reread
+
+1. Read for story first. Do not hunt habits with a highlighter unless a sentence actually trips you.
+2. If something trips you, mark **chapter + habit letter (A/B/C/D)** in the margin of the DOCX — one line, not a rewrite.
+3. At the end of the cold read, count marks.  
+   - **Scattered singles** → leave alone.  
+   - **One chapter with a cluster of C stumbles** → optional later hygiene only if authorised.  
+   - **Many rooms sounding like Habit A** → optional selective voice pass later; still not a new programme.
+4. Do **not** launch a pass from this subsection alone.
+
+**Bottom line for the author:** These leftovers are real craft weather, not imaginary. They are also the wrong reason to reopen the book chapter-by-chapter. On a third reread, the useful test is stumble-and-sameness, not completeness of proverb removal.
 
 ---
 
