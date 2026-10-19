@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–13 expansion (through GO / Tillius Cimber / Capua powder).  
-**Method:** Same as Ch 1–13 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–14 expansion (through house wakes wrong / Ides dawn).  
+**Method:** Same as Ch 1–14 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -42,6 +42,8 @@
 | NOTE-1 spare/stay fragment (incomplete) | Ch 12 Nysa corridor |
 | Tillius Cimber = brother exile / petition / toga-tug signal | Ch 13 GO roster |
 | Capua unpaid / donative late / eagle (veteran powder) | Ch 13 Land Powder |
+| King-word since February (no Lupercalia re-list) | Ch 14 atrium (pays Ch 7) |
+| Mars arms rattle / pontifex house; Jupiter hand-dream; clients; haruspices; Campus; Domina; falling sickness | Ch 14 densify (surgical) |
 
 ---
 
@@ -104,11 +106,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–13.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–14.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–13 glossary already paid.  
+3. Do **not** reopen Ch 1–14 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 14–16 (Ides spine; surgical only) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 15–16 (Ides spine; surgical only) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
