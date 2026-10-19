@@ -1,16 +1,16 @@
-# Chapter 19 — Funeral and Cinna
+# Chapter 19: Funeral and Cinna
 
 **M5 polish** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
 
 ---
 
-# SC-50a — The Forum’s Mouth
+# SC-50a: The Forum’s Mouth
 
-POV: Antony  
-Date / place: Forum Romanum · 20 March 44  
-Canon refs: A7 · M14 · will already in public weather  
-Info ENTER: Crowded grief; body; amnesty still theoretically holding  
-Info EXIT: Riot; pyre in Forum; Liberators’ capital position broken  
+POV: Antony
+Date / place: Forum Romanum · 20 March 44
+Canon refs: A7 · M14 · will already in public weather
+Info ENTER: Crowded grief; body; amnesty still theoretically holding
+Info EXIT: Riot; pyre in Forum; Liberators’ capital position broken
 Overhear risk: Extreme
 
 ---
@@ -21,9 +21,9 @@ The Forum was a single throat. Heat rose off stone and people. Veterans stood in
 
 Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard, evidence before poetry. The crowd’s anger was already in the air; he gave it a place to stand.
 
-“An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man—”
+“An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
 
-Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth as if cloth were a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric—grief wanting a relic, the consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief. Too loose a grip and the cloth became theirs to tear into a hundred private wars.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth as if cloth were a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric, grief wanting a relic, the consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief. Too loose a grip and the cloth became theirs to tear into a hundred private wars.
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
@@ -39,13 +39,13 @@ Teaching looked like smoke that had walked. The smoke did not ask which Monday h
 
 ---
 
-# SC-50b — Crowns of Noise
+# SC-50b: Crowns of Noise
 
-POV: Sex. Laberius Cordus (F3)  
-Date / place: Forum edge among veterans · same hour  
-Canon refs: B4 veterans as force  
-Info ENTER: Paid grief / unpaid rage  
-Info EXIT: Understands the Liberators have lost Rome’s street  
+POV: Sex. Laberius Cordus (F3)
+Date / place: Forum edge among veterans · same hour
+Canon refs: B4 veterans as force
+Info ENTER: Paid grief / unpaid rage
+Info EXIT: Understands the Liberators have lost Rome’s street
 Overhear risk: High
 
 ---
@@ -58,27 +58,27 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 “They’ll run to their rock,” the corporal said. “Then we’ll see how liberty tastes without bread.”
 
-When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be—the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
+When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be, the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
 
-Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased—the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
+Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note, and Capua unpaid had just learned it could walk without waiting for clerks.
 
-Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman—jug still empty, Domus-adjacent by the seal on her belt—shouted at him. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove; the jug fell and broke; water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge: fuller wanting permission, household wanting water to stay water, Capua still unpaid in Laberius’s fist of air.
+Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman (jug still empty, Domus-adjacent by the seal on her belt) shouted at him. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove; the jug fell and broke; water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge: fuller wanting permission, household wanting water to stay water, Capua still unpaid in Laberius’s fist of air.
 
-An older veteran—scar through the lip, no torch—caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” Laberius felt the cost change without a gag: refusal had just priced him as the man who would not burn for unpaid land while other men burned for the same unpaid word. He did not argue. Argument would have been a second yes.
+An older veteran (scar through the lip, no torch) caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” Laberius felt the cost change without a gag: refusal had just priced him as the man who would not burn for unpaid land while other men burned for the same unpaid word. He did not argue. Argument would have been a second yes.
 
-By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke—and Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
+By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke, and Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
 
 ---
 
-# SC-50c — Water for No One
+# SC-50c: Water for No One
 
-POV: Nysa (F1)  
-Date / place: Forum crowd · same  
-Canon refs: household INF in public  
-Info ENTER: Sent toward news / supplies chaos  
-Info EXIT: Sees Rome tip; returns toward Domus through altered streets  
+POV: Nysa (F1)
+Date / place: Forum crowd · same
+Canon refs: household INF in public
+Info ENTER: Sent toward news / supplies chaos
+Info EXIT: Sees Rome tip; returns toward Domus through altered streets
 Overhear risk: Extreme
 
 ---
@@ -96,37 +96,37 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 ---
 
 ## Continuity notes (SC-50)
-- Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.  
-- Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).  
-- Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).  
-- // M5: Antony speech held as refrain (lightly compressed); not blank verse.  
-- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.  
-- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.  
-- **Golden-read P0:** Pyre→buildings handoff stitched — brand/bench leaves Forum fire for Liberator doors (Antony + Laberius); not a longer funeral.  
-- **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks)—not gag.
+- Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.
+- Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).
+- Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).
+- // M5: Antony speech held as refrain (lightly compressed); not blank verse.
+- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.
+- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
+- **Golden-read P0:** Pyre→buildings handoff stitched, brand/bench leaves Forum fire for Liberator doors (Antony + Laberius); not a longer funeral.
+- **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks), not gag.
 
 ---
 
-# SC-51 — The Wrong Cinna
+# SC-51: The Wrong Cinna
 
-POV: Nysa (F1)  
-Date / place: Forum side streets · hours after pyre catches  
-Canon refs: M15 · FS19 · D5 mistaken identity  
-Info ENTER: Mob hunting “Cinna”  
-Info EXIT: Poet Helvius Cinna dead; INF lethal failure visible  
+POV: Nysa (F1)
+Date / place: Forum side streets · hours after pyre catches
+Canon refs: M15 · FS19 · D5 mistaken identity
+Info ENTER: Mob hunting “Cinna”
+Info EXIT: Poet Helvius Cinna dead; INF lethal failure visible
 Overhear risk: Extreme
 
 ---
 
 The name travelled faster than faces.
 
-“Cinna!”  
-“He was in it—”  
-“Cornelius—”  
-“The poet—”  
-“Same filthy name—”
+“Cinna!”
+“He was in it…”
+“Cornelius…”
+“The poet…”
+“Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet—ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius, not the praetor who had spat on the dead man’s name the day before, not the dagger—only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius, not the praetor who had spat on the dead man’s name the day before, not the dagger, only a throat full of syllables.
 
 The mob didn’t do literary criticism.
 
@@ -138,7 +138,7 @@ When it was done, the street stepped around the shape as around spilled grain. N
 
 On the Sacra Via a stranger asked her if Antony was still dead.
 
-“No,” Nysa said. Her voice surprised her with its flatness. “That was wrong. This—” She gestured behind her, uselessly. “This was also wrong.”
+“No,” Nysa said. Her voice surprised her with its flatness. “That was wrong. This…” She gestured behind her, uselessly. “This was also wrong.”
 
 The stranger shrugged, disappointed, and went to find a better story.
 
@@ -148,7 +148,7 @@ Calpurnia, hearing the poet part later, closed her eyes. “They will write that
 
 “They will write it as crowd,” Nysa said, and then softened it, because softening was survival. “Or omen. People prefer omen.”
 
-She took the wax fragment from her tunic at last, looked at its incomplete warning—danger from friends, a consul spared in someone’s mutter—and set it on the charcoal until the letters drowned.
+She took the wax fragment from her tunic at last, looked at its incomplete warning (danger from friends, a consul spared in someone’s mutter) and set it on the charcoal until the letters drowned.
 
 It changed nothing. That was why she could finally burn it.
 
@@ -157,13 +157,13 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 ---
 
 ## Continuity notes (SC-51)
-- Helvius ≠ Cornelius praetor; ≥3 mob reads open; Nysa burns own fragment only.  
+- Helvius ≠ Cornelius praetor; ≥3 mob reads open; Nysa burns own fragment only.
 - **IR-1:** This is the true burn of the Ch 12/14 fragment; Ch 15 “I burned it” was a lie to Calpurnia (survival), not a second copy.
 
 ---
 
-# Chapter 19 — End matter
+# Chapter 19: End matter
 
-**Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).  
+**Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).
 **M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
-- Funeral/Cinna — humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.
+- Funeral/Cinna, humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.

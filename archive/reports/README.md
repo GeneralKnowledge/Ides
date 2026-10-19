@@ -9,3 +9,7 @@ Recent reader observations while reading the live draft (not an edit commission)
 How those notes were used after #52 (selective principles, not book-wide paste): [`author_feedback_use_after_52.md`](author_feedback_use_after_52.md).
 
 Read-only guidance scan of unread Ch 7–13 + later war (no edits): [`guidance_scan_unread_zones.md`](guidance_scan_unread_zones.md).
+
+Next full-reader preparation (questions only; no revision brief): [`next_reader_review_companion.md`](next_reader_review_companion.md).
+
+Em-dash policy: author never uses them; purged from drafts: [`em_dash_author_voice.md`](em_dash_author_voice.md). Removal map + sanity: [`em_dash_removal_log.md`](em_dash_removal_log.md).

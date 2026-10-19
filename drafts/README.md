@@ -1,4 +1,4 @@
-# Drafts — Book 1 Manuscript
+# Drafts: Book 1 Manuscript
 
 **Authoritative prose for what is presently written.** Canon and scene cards still constrain invention; the chapters govern what is on the page.
 
