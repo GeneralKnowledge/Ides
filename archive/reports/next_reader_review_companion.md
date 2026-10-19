@@ -105,7 +105,7 @@ Only habits the inspection supports testing — not a style audit.
 | Dialogue vs action | When talk dominates a room, does a decision, risk, or refusal still move? |
 | Ensemble orientation | When cameras multiply, is uncertainty about *facts* or accidental confusion about *who/where*? |
 | Commercial / ledger language | Natural on Hordeonius / money street — does it bleed into mouths that should sound different? |
-| “Still” / em dashes | Distracting in context, or ordinary breath/persistence? (Not automatic defects.) |
+| “Still” / em dashes | Distracting in context, or ordinary breath/persistence? (Not automatic defects.) Process lock: [`em_dash_666_lock.md`](em_dash_666_lock.md) — no radical pre-read purge. |
 | Ambiguity vs confusion | Incomplete reports, soft allies, dream gossip — do they feel designed, or accidental? |
 
 ---
