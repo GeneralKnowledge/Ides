@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–6 expansion (through *dictator perpetuo* / closed-market offices).  
-**Method:** Same as Ch 1–6 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–7 expansion (through Lupercalia / *regnum* / early roster tags).  
+**Method:** Same as Ch 1–7 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -27,6 +27,8 @@
 | *Dictator perpetuo* = for good (not six-month hire) | Ch 6 Forever doorway |
 | Consulships sold forward / dead calendar | Ch 6 Closed Market |
 | Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay still Ch 26–27) |
+| Lupercalia diadem / *rex*/*regnum* fear | Ch 7 Diadem (crown’s cousin; three refusals) |
+| Galba / Ligarius / Casca / Trebonius first tags | Ch 7 Veiled Talk (winter; Africa pardon; ugly minute; Monday) |
 
 ---
 
@@ -44,13 +46,14 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|---------|
 | Octavius → Octavian → Caesar (name path) | **Deferred:** one prior scrap that adoption/name is paper Caesar can write — plant in Ch 6–17 orbit, not re-gloss in Ch 5 |
 
-### 3. Conspirator roster (Ch 7 / 13) — **highest next** (after Ch 6 *perpetuo* paid)
+### 3. Conspirator roster (Ch 7 / 13) — **partially paid**
 
-| Need | Earn in |
-|------|---------|
-| Trebonius, Casca, Galba, Ligarius, Basilus, Cimber, Tillius | Prefer **tags at first useful appearance**, not a CV dump: e.g. Casca “first ugly minute”; Tillius “brother’s exile on the tongue”; Trebonius “Monday / hold Antony”; Galba “brother’s winter / grain”; Ligarius cousin blank already in Ch 13 — **precede with a face** in Ch 8–13 if possible |
+| Need | Status |
+|------|--------|
+| Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (Monday; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
+| Basilus, Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 8–13). Tillius “brother’s exile on the tongue”; others one scrap each. |
 
-### 4. Amnesty (Ch 17)
+### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or Ch 8–13 roster finish first)
 
 | Need | Earn in |
 |------|---------|
@@ -76,7 +79,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 | Item | Earn in |
 |------|---------|
-| Lupercalia diadem / *regnum* fear | Ch 7: one line on crown’s cousin = king-fear |
+| Lupercalia diadem / *regnum* fear | **Paid in Ch 7**; do not re-gloss |
 | Ides = 15 March; Spurinna; Sibylline | Ch 11: one calendar + who warned |
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
@@ -87,11 +90,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–6.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–7.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–6 glossary already paid.  
+3. Do **not** reopen Ch 1–7 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 7 (*regnum* + early tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir → roster tags pass on Ch 8/13 as needed.
+**Suggested order:** Ch 8–13 (Basilus/Cimber/Tillius tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
