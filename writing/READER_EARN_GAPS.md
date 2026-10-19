@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–7 expansion (through Lupercalia / *regnum* / early roster tags).  
-**Method:** Same as Ch 1–7 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–8 expansion (through recruitment / Galba winter live / Casca door).  
+**Method:** Same as Ch 1–8 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -29,6 +29,8 @@
 | Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay still Ch 26–27) |
 | Lupercalia diadem / *rex*/*regnum* fear | Ch 7 Diadem (crown’s cousin; three refusals) |
 | Galba / Ligarius / Casca / Trebonius first tags | Ch 7 Veiled Talk (winter; Africa pardon; ugly minute; market-day) |
+| Galba brother’s winter live / Ligarius expect-worst | Ch 8 Mandate (seal tear; Africa tissue) |
+| Casca = Servilius name opens Brutus door | Ch 8 Room |
 
 ---
 
@@ -90,11 +92,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–7.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–8.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–7 glossary already paid.  
+3. Do **not** reopen Ch 1–8 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 8–13 (Basilus/Cimber/Tillius tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 9–13 (Basilus/Cimber/Tillius tags; Decimus spare) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
