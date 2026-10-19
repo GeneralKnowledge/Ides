@@ -1,11 +1,11 @@
 # C. Trebonius
 
 **Type:** Historical · Supporting (promoted)  
-**Function:** Monday leash; hold Antony with business  
+**Function:** market-day leash; hold Antony with business  
 **Subplot ownership:** Intersects A (spare cascade)
 
 ## Desire
-Survive Mondays as the polite half of other men’s courage — and keep consuls talking.
+Survive market days as the polite half of other men’s courage — and keep consuls talking.
 
 ## Misbelief
 Mildness and Gaul talk can hold a living consul long enough for a Senate to finish being knives.
@@ -17,16 +17,16 @@ Being the bore who invents courage for others; Glaucia selling soft versions.
 Cups not drunk; provincial papers; who likes to be lingered with.
 
 ## Voice & humour
-Mild as Monday; jokes that look like thirst.
+Mild as market day; jokes that look like thirst.
 
 ## Off-page life
-Practicing longer Mondays; corridor complaints after festival courtesy.
+Practicing longer market days; corridor complaints after festival courtesy.
 
 ## Relationship matrix (attitude)
 
 | Person | Act 2–3 |
 |--------|---------|
-| Cassius | Takes Monday assignment |
+| Cassius | Takes market day assignment |
 | Decimus | Clasp confirming hunt |
 | Antony | Target of talk |
 | Brutus | Needs Casca more than essays |
@@ -35,7 +35,7 @@ Practicing longer Mondays; corridor complaints after festival courtesy.
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | 7–9 | Monday; spare logistics |
+| Plant | 7–9 | market day; spare logistics |
 | Choice | 13, 15 | Leash tasked; portico hold |
 | End | Post-Ides | Off-page eastern fate (not Actium plot) |
 

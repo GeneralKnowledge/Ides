@@ -38,12 +38,13 @@ Fix these when they cluster. Leave scattered singles alone.
 
 1. **Pilot one chapter, cold-read, then expand.** Ch 1 → bookwide is the pattern. Do not launch a bookwide scrub from a detector paste alone.
 2. **Break breath, not voice.** Shorter cadence is good; sanding every POV into the same plainness is not.
-3. **Protect character-true diction.** Hordeonius invoices; Laberius boots/Capua; Trebonius Monday; Nysa withhold; Decimus ditches; Cassius salt; Octavian furniture ban (dialogue); soft-chain / digest.
+3. **Protect character-true diction.** Hordeonius invoices; Laberius boots/Capua; Trebonius market-day; Nysa withhold; Decimus ditches; Cassius salt; Octavian furniture ban (dialogue); soft-chain / digest.
 4. **Keep load-bearing brands** even if a detector flags them: soft chain, “I digest,” hopeful-shadow ban, name-take, spare Antony, NOTE-1 mud, wrong Cinna, Seius mule, Decimus ford, Cassius INF.
 5. **Surgical on gold spine (Ch 14–19).** Prefer fewer, higher-value cuts. Do not flatten Ides propulsion.
 6. **Stop after one successful feel-pass** on a chapter unless a human cold read names a concrete leftover cluster.
 7. **Hard cap: two targeted passes per chapter** without a new whole-book reason. A third detector-led pass is a revert signal (see Ch 5).
 8. **No em dashes** in scenic prose (author voice).
+9. **No modern weekdays** (Monday–Sunday). Rome runs on Kalends / Nones / Ides and the eight-day market cycle (*nundinae*). Trebonius’s boring-business leash is **market day**, not Monday.
 
 ---
 

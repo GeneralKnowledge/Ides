@@ -14,7 +14,7 @@ Chapter map remains the unit; chains record only *meaningful* relationships — 
 | **Public** | Cato shock; triumph weather; Munda “mopping”; dictator perpetuo; Lupercalia diadem panic |
 | **Private** | Debt atrium vs lane truth; Laberius Capua prayer; Octavian peripheral; Brutus clemency refuse; Cassius ops itch |
 | **Grandeur** | Triumph as civic digestion; Forum as rate market; Lupercalia invents *regnum* oxygen; women’s overheard *temporary* |
-| **Exit state** | Kingship panic public; conspiracy disclosure begun; Galba winter priced; Monday leash seeded |
+| **Exit state** | Kingship panic public; conspiracy disclosure begun; Galba winter priced; market-day leash seeded |
 
 ### Causal chains (compact)
 
@@ -40,7 +40,7 @@ Chapter map remains the unit; chains record only *meaningful* relationships — 
 ### Causal chains (compact)
 
 - **Ch 8 group tip** → Brutus GO possible → ancestral mask becomes law, not decoration.  
-- **Spare Antony (Ch 9)** → Cassius stores loss → Trebonius Monday leash (Ch 13/15) → consul alive for funeral optics (Act 3).  
+- **Spare Antony (Ch 9)** → Cassius stores loss → Trebonius market-day leash (Ch 13/15) → consul alive for funeral optics (Act 3).  
 - **SIDE-1 body (Ch 10)** → ash pressure / OPEN-0 → later lists erase cold cases (Ch 30/34) without solving killer.  
 - **Nysa incomplete fragment (Ch 12)** → Phileros near-miss → tablet blocked / burned path → NOTE-1 dual unread (warnings fail as method).  
 - **GO under creditor cough (Ch 13)** → choice tastes like unpaid interest → later Brand/*EID MAR* crack remembers clean hands as someone else’s.

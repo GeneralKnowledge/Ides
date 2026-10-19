@@ -108,7 +108,7 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 - Caesar opacity: danger-as-weather; AMB-1 held; trusts Decimus habit.
 - **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.
 - MUST_EXPRESS: C6, D2, D6 prep, E3 prep.
-- Calpurnia dwell; dressing-room gossip (Spurinna/Decimus-door); atrium cheer → attendant cloak truth (spare/stay/Monday); humour OFF (dread); NOTE-1 dual not merged.
+- Calpurnia dwell; dressing-room gossip (Spurinna/Decimus-door); atrium cheer → attendant cloak truth (spare/stay/market-day); humour OFF (dread); NOTE-1 dual not merged.
 - **Anti-formula:** craft “exit-complaint” noun strip in narration.
 - **Expansion D21:** Household mesh fringe, Dama/Phileros/Pallas-Nysa wants without Senate (chicken-court weather).
 - Next: Ch 13 GO night (+ SC-32).

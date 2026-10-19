@@ -145,7 +145,7 @@ At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft 
 
 Trebonius had served Caesar in Gaul and Spain and held a consulship Caesar had given him. Of every man in the circle he had the most to lose and the least reason to say so, and he had the great gift of being underestimated by people who thought good manners were the same as good nature.
 
-“Well?” Trebonius asked, mild as Monday.
+“Well?” Trebonius asked, mild as market day.
 
 “He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
 
@@ -155,13 +155,13 @@ Casca was a senator, a hot-tempered man with a short fuse and a long grudge, and
 
 Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
 
-“Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Monday talk. Debt talk. The sort that makes a consul lean in. I am good at Monday.”
+“Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Market-day talk. Debt talk. The sort that makes a consul lean in. I am good at market days.”
 
-“You are good at lying about Monday.”
+“You are good at lying about market days.”
 
-“That is what Monday is for.”
+“That is what market day is for.”
 
-Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride. The Forum’s *temporary* was still on the city’s tongue. Brutus’s refusal was still warmer than any diadem.
+Cassius kept *market day* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride. The Forum’s *temporary* was still on the city’s tongue. Brutus’s refusal was still warmer than any diadem.
 
 ---
 
@@ -171,7 +171,7 @@ Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to B
 - MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.
 **1F / E3:** Antony POV borders; Fulvia marked beat.
 **1G:** Antony filed/weather cut; Cassius *was how* cut.
-- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius Monday/Casca humour kept.
+- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius market-day/Casca humour kept.
 - **Golden-read P2:** Drop continuity-receipt “festival was still sticky”; colonnade place + goat/diadem weather.
-- **Roster tags paid:** Galba (winter/consulship slight); Ligarius (Africa pardon); Casca (first ugly minute); Trebonius (Monday / hold Antony). Basilus/Cimber/Tillius still later.
-- **Human-voice (Ch 7 expanded):** densified Diadem / Veiled Talk; festival tenants clause trimmed; Cassius Syria clause cut; hold Monday, debt-word, law’s face, decoration, No daggers yet.
+- **Roster tags paid:** Galba (winter/consulship slight); Ligarius (Africa pardon); Casca (first ugly minute); Trebonius (market day / hold Antony). Basilus/Cimber/Tillius still later.
+- **Human-voice (Ch 7 expanded):** densified Diadem / Veiled Talk; festival tenants clause trimmed; Cassius Syria clause cut; hold market day, debt-word, law’s face, decoration, No daggers yet.

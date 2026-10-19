@@ -3,7 +3,7 @@
 **M5 polish** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)
 **Canon:** HOUSE-1 · DEC-PERS-1 · CHOREO-1 · NOTE-1 · M4 · M6 · AMB-3 · HUMOR-1 near-off
 **Continues:** Ch 14 litter departure
-**Human-voice:** Ch 15 feel-pass (rules); surgical — unread seal / Monday / scream→door held.
+**Human-voice:** Ch 15 feel-pass (rules); surgical — unread seal / market day / scream→door held.
 
 ---
 
@@ -142,15 +142,15 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another Monday: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
-Antony grinned. “If it’s Monday, send a tribune. If it’s money, speak.”
+Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
 A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
 
-They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at Monday. That was the point.
+They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days. That was the point.
 
 A thin suspicion crossed him, not plot, not dagger, only the soldier’s sense that a door had been closed behind his back. He glanced toward the Curia.
 
@@ -178,13 +178,13 @@ Trebonius said something mild. Antony didn't keep it. The mildness sat wrong, wa
 
 Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
-Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Monday had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
+Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Market day had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
 
 ---
 
 ## Continuity notes (SC-42)
 - Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
-- **Gold-edge / S18:** “Monday” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
+- **Gold-edge / S18:** “market day” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
 
 ---
 
@@ -193,6 +193,6 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
-- **Law-sweep:** Monday callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
-- **Human-voice:** flattened nested Monday/remount parentheticals; thinned stacked *as if*; held unread seal, Trebonius Monday, scream→door propulsion.
-- **Human-voice (Ch 15):** one surgical feel-pass — Nysa lie / chin-tip / power-caption / cold-stitch / portico / Antony open / Curia pour breaths; hold unread seal, Monday, scream→door.
+- **Law-sweep:** market-day callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
+- **Human-voice:** flattened nested market-day/remount parentheticals; thinned stacked *as if*; held unread seal, Trebonius market-day, scream→door propulsion.
+- **Human-voice (Ch 15):** one surgical feel-pass — Nysa lie / chin-tip / power-caption / cold-stitch / portico / Antony open / Curia pour breaths; hold unread seal, market-day, scream→door.
