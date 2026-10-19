@@ -67,13 +67,13 @@ Sosia grunted. “Crates don’t vote. Men with unpaid offices do.”
 
 Hordeonius entered *Parthia: packing noise* beside *offices: closed forward*. He had not seen the Domus service rooms. He did not need to. Packing talk reached stalls faster than straps found themselves. A house aiming at a horizon with a name was a rate change wearing laundry’s face.
 
-A third voice, two stools down, tried to sell another question as grain. “And the Transtiberim gardens, do they still count as collateral when the talk is of a foreign child keeping Roman hours? I heard the hours run longer than some men’s careers.”
+A third voice, two stools down, tried to sell another question as grain. “And the gardens across the river: if the foreign lodging holds, do the trees count as collateral, or only the leases men are already shopping?”
 
-Sosia snorted into his cup. “Last month it was the queen’s boy and half-hours on roads. Now it’s hours in gardens. Same gossip, worse arithmetic.”
+Sosia snorted into his cup. “Last month it was half-hours on roads and a boy with a schedule. Now it’s trees. Same river, worse arithmetic.”
 
-“Gardens are gardens,” Hordeonius said, mild as a rate sheet. “Children are rumour until someone seals them. Rumour moves faster than seals this season. I do not underwrite Alexandria on a dinner story.”
+“Gardens are gardens,” Hordeonius said, mild as a rate sheet. “I price what a lease can move before the Kalends. I do not underwrite Alexandria on a dinner story.”
 
-He did not certify the child. He certified that the market had begun pricing the dinner story as if it were a will. That was enough weather for a banker who preferred Kalends to crowns.
+He did not certify the child. He certified that the market had begun shopping the river as if trees could clear a debt. That was enough weather for a banker who preferred Kalends to crowns.
 
 He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway; dead calendars at the stall; eastern crates counting months, three faces of the same unfinished arithmetic.
 

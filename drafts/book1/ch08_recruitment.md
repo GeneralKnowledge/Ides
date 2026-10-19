@@ -95,13 +95,13 @@ Casca smiled with his teeth. “We are not here to dine you into a better mood. 
 
 Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That debt sits in this house whether we like the furniture or not.” He hated how thin “debt” sounded, as if the man had only signed a tablet, not kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned.
+“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That debt sits in this house whether we like the furniture or not.” He hated how thin “debt” sounded, as if the man had only signed a tablet, not kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
 
 Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
 
 Casca leaned forward. “Courtesy is how we all stayed alive. It is also how the diadem got a second cheer. I am tired of surviving beautifully.”
 
-Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful. The shoulder-touch from the spared years sat in his muscle anyway, closer than paint, harder to draft away.
+Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful. The shoulder-touch from the spared years sat in his muscle anyway, closer than paint, harder to draft away. For a breath he let himself picture Caesar’s face if the door ever opened with a knife behind it, and the picture hurt enough that he almost ordered them out for that reason alone.
 
 “If it is done as murder,” he said, back still half-turned, “I am not with you. If it is done as a street, I am against you. I have not said yes. I have said I hate kings. Hating kings is not the same as opening a friend’s door with a knife behind it.”
 

@@ -14,7 +14,7 @@ Overhear risk: Forum extreme; house medium
 
 ---
 
-Antony liked the Lupercalia because it let a consul sweat in public without looking weak.
+Antony liked the Lupercalia because it let a consul sweat in public without looking weak. Consul: the year’s chair beside Caesar, fasces and colleagues and the right to speak first when the Senate sat. The title still smelled new enough on him that goat-reek could not quite cover it.
 
 He ran, joked, slapped backs, played the old fertility chaos that Romans pretended was holy. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it in the special chair (half god, half tired general) watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
 
@@ -73,7 +73,7 @@ They chose a colonnade off the Forum where shadows made faces honest and mouths 
 
 He didn't begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
-“If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? Latin?”
+“If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
 Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step without looking as if he were herding. Herding made Brutus invent philosophy as a fence.
 
