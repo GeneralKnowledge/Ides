@@ -33,15 +33,15 @@ Rumour arrived in stacks: Octavius, Octavian, boy, heir, adoption, three hundred
 
 The junior wiped his eyes. “You talk as if mourning were a price list.”
 
-“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there (the junior was already leaning in for leases, and jokes that named queens out loud became line items. “Gardens, boy, queen) watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller, as if the stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
+“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became line items. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
 
-He entered prices as if entering omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks (SIDE-1’s ghost) hinting Basilus and an Antonian name could still be made to squeal.
+He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks, SIDE-1’s ghost, hinting Basilus and an Antonian name could still be made to squeal.
 
 Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
 
 “This,” he said, gentle as a blessing, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
 
-The whisperer bowed as if receiving wisdom. “Of course. Sacred. Living seals only.” Past the next pillar he caught a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
+The whisperer bowed. “Of course. Sacred. Living seals only.” Past the next pillar he caught a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
 
 Hordeonius heard the shape without needing every word. He almost added that he mourned Visellius still. He did mourn him, as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
@@ -77,7 +77,7 @@ Overhear risk: Extreme once leaked
 
 ### Movement A: Antony
 
-Antony watched the seal break in his own house (Piso’s request, Vestals’ custody until now) with the patience of a man watching a door that might hide either a feast or a knife.
+Antony watched the seal break in his own house, Piso’s request, Vestals’ custody until now, with the patience of a man watching a door that might hide either a feast or a knife.
 
 Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a banker with onion-and-money breath told a client that gardens would move leases whether the seal was holy or not; a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops; a junior appetite laughed that Decimus’s second line would make knife-men into punchlines. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
 
@@ -101,13 +101,13 @@ In the anteroom, after the seal’s news had begun to leak toward the street, th
 
 Nysa heard the will in pieces, which was how the poor always heard law.
 
-Gardens came first (a woman in the market wept as if she had already walked them. Then money for citizens. Then the boy) Caesar’s son now, paper-son, name-son, Octavius.
+Gardens came first. A woman in the market wept as if she had already walked them. Then money for citizens. Then the boy: Caesar’s son now, paper-son, name-son, Octavius.
 
 “And Decimus,” said a scribe’s attendant, hungry to be cruel, “written second. The one with the knife.”
 
 Nysa saw, for a blink, Decimus’ open morning face in the Domus atrium. She didn’t have a philosophy for it. She had a stomach.
 
-Phileros, hearing the same news at the vestibule, whispered, “The house will be stripped for souvenirs,” as if souvenirs were the tragedy.
+Phileros, hearing the same news at the vestibule, whispered, “The house will be stripped for souvenirs.” Souvenirs were not the tragedy. The emptying was.
 
 Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 
@@ -131,3 +131,4 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 
 **Edit pass 1 / read-through:** holds. Will / markets / Decimus irony intact.
 **M5 polish:** TODO_EDITOR cleared; destiny→street-fate sell softened.
+- **Human-voice:** repaired broken gardens/queen parenthetical; flattened seal/SIDE-1 asides; thinned *as if* stack; Decimus second-line irony held.
