@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–10 expansion (through Basilus tag / SIDE-1 body).  
-**Method:** Same as Ch 1–10 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–11 expansion (through Ides/Spurinna/Sibylline).  
+**Method:** Same as Ch 1–11 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -36,6 +36,8 @@
 | Gaul paper = Trebonius hold (market-day leash) | Ch 9 Access |
 | Basilus = praetor / Gaul / denied province | Ch 10 baths soft-hour |
 | Aedile ladder / freedman pay-on-Kalends | Ch 10 Seius + Visellius |
+| Ides = 15 March; Spurinna (haruspex); Sibylline “only a king” | Ch 11 Kitchen + Only a King |
+| Philippics word (private joke plant) | Ch 11 Cicero desk (pay Ch 25) |
 
 ---
 
@@ -59,7 +61,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|--------|
 | Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (market day; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
 | Basilus | **Paid in Ch 10** (praetor / Gaul / denied province). Do not re-CV. |
-| Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 11–13). Tillius “brother’s exile on the tongue”; Cimber one scrap. |
+| Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 12–13). Tillius “brother’s exile on the tongue”; Cimber one scrap. |
 
 ### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or finish Cimber/Tillius first)
 
@@ -88,7 +90,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 | Item | Earn in |
 |------|---------|
 | Lupercalia diadem / *regnum* fear | **Paid in Ch 7**; do not re-gloss |
-| Ides = 15 March; Spurinna; Sibylline | Ch 11: one calendar + who warned |
+| Ides = 15 March; Spurinna; Sibylline | **Paid in Ch 11**; do not re-gloss |
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
 | Philippics | Ch 25 (primary): speeches against Antony; Ch 11 pun only if Ch 25 will pay |
@@ -98,11 +100,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–10.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–11.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–10 glossary already paid.  
+3. Do **not** reopen Ch 1–11 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 11–13 (Cimber/Tillius tags; Ides calendar) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 12–13 (Cimber/Tillius tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
