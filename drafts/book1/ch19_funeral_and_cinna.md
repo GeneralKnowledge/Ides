@@ -1,7 +1,7 @@
 # Chapter 19: Funeral and Cinna
 
 **M5 polish** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
-**Human-voice:** Ch 19 feel-pass (rules); surgical — cloth wrestle / Capua / wrong Cinna / NOTE-1 burn held.
+**Human-voice:** Ch 19 expanded; Wrong Cinna poet≠praetor earned; cloth wrestle / Capua / NOTE-1 burn held.
 
 ---
 
@@ -18,9 +18,11 @@ Overhear risk: Extreme
 
 In the Forum Romanum Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
 
+A Roman funeral for a great man was a public show: the body carried to the Forum, a eulogy from the Rostra, the speaker’s house walking behind in the ancestors’ masks. The Senate had agreed, in the spirit of the amnesty, that Caesar might have one. It had also hoped, without saying so, that it would be dignified and brief. Antony had no such hope. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
+
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard. He held up the bloodied cloth the way a soldier holds up a torn standard, evidence before poetry. The crowd’s anger was already in the air; he gave it a place to stand.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard, the long list of titles and powers the Senate itself had voted, each one read aloud in a flat voice and sounding, in this light, like an accusation against the men who had voted it. He held up the bloodied cloth the way a soldier holds up a torn standard, evidence before poetry. The crowd’s anger was already in the air; he gave it a place to stand.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
 
@@ -28,7 +30,15 @@ Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached 
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
-The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. An officer at Antony’s shoulder, the same man who had hissed on the grain line before, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
+“You are enjoying this,” said the officer at his shoulder, low.
+
+“I am burying my friend,” said Antony.
+
+“You are doing both.”
+
+“It is a very efficient funeral.”
+
+The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. The plan had been to carry the body to the Campus for cremation, as custom wished. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, the same man who had hissed on the grain line before, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
 
 A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
 
@@ -59,9 +69,13 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 “They’ll run to their rock,” the corporal said. “Then we’ll see how liberty tastes without bread.”
 
+“I have never tasted liberty,” Laberius said. “What is it like?”
+
+“A bit like Capua,” said the corporal. “Everyone talks about it. Nobody has seen it.”
+
 When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be, the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
 
-Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
+Someone shoved a torch into Quintus the fuller’s hand. A fuller was a cloth-cleaner, a man who stamped wool in stale urine for a living and was at the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note. Capua unpaid had just learned it could walk without waiting for clerks.
 
@@ -100,6 +114,7 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.
 - Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).
 - Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).
+- Funeral custom densify (Rostra / eulogy); imagines shorthand only (Ch 16 paid actors); Campus cremation custom vs Forum fire; fuller densify; Capua liberty joke.
 - // M5: Antony speech held as refrain (lightly compressed); not blank verse.
 - **Gold-edge:** Soft “aimed it / controlled permission” captions cut; market-day echo at close.
 - **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
@@ -127,7 +142,13 @@ The name travelled faster than faces.
 “The poet…”
 “Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name the day before. Not the dagger. Only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name the day before. Not the dagger. Only a throat full of syllables.
+
+There were two Cinnas in Rome that month. Cornelius Cinna was a praetor, a senior magistrate, Caesar’s own brother-in-law, who had thrown off his robe of office in the days after the killing and called the dead man a tyrant from the Rostra. Helvius Cinna was a minor poet, a friend of Caesar’s, who had written a long, famously obscure poem and had come to the funeral to mourn. The crowd did not read either of them.
+
+“I am Helvius,” the man said. “I am a poet. I am Helvius, not Cornelius, I am…”
+
+“Then you are a poet who killed him,” someone said, with the terrible logic of the afternoon.
 
 The mob didn’t do literary criticism.
 
@@ -158,7 +179,7 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 ---
 
 ## Continuity notes (SC-51)
-- Helvius ≠ Cornelius praetor; ≥3 mob reads open; Nysa burns own fragment only.
+- **Wrong Cinna paid:** Helvius poet ≠ Cornelius praetor (brother-in-law), stated plain in street; ≥3 mob reads open; Nysa burns own fragment only.
 - **IR-1:** This is the true burn of the Ch 12/14 fragment; Ch 15 “I burned it” was a lie to Calpurnia (survival), not a second copy.
 
 ---
@@ -168,5 +189,4 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 **Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).
 **M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
 - Funeral/Cinna, humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.
-- **Human-voice:** thinned donative *as if* stack / surge parentheticals; softened “without a gag” craft label; held cloth wrestle, pyre→doors, Capua refusal, wrong Cinna, NOTE-1 burn.
-- **Human-voice (Ch 19):** one surgical feel-pass — cloth wrestle / call-back heat / three-lives / dusk vote / Helvius not / wax burn breaths; hold Capua refusal, pyre→doors, wrong Cinna, NOTE-1 true burn.
+- **Human-voice (Ch 19 expanded):** Wrong Cinna poet≠praetor earned in Nysa/street mouths; densify Rostra funeral, decrees-as-accusation, efficient-funeral banter, Campus custom vs Forum fire, fuller, Capua/liberty joke; imagines actors not re-taught (Ch 16); hold cloth wrestle, Capua refusal, pyre→doors, NOTE-1 true burn; no modern weekdays.

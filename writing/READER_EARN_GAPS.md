@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–18 expansion (through will / name-path).  
-**Method:** Same as Ch 1–18 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–19 expansion (through funeral / Wrong Cinna).  
+**Method:** Same as Ch 1–19 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -50,6 +50,7 @@
 | Golden chair; toga sacred; imagines; Capitol; Dolabella; 23 later number; kai su dispute | Ch 16 densify (surgical); Curia/Tillius/Subura not re-glossed |
 | Amnesty = killers pardoned **and** Caesar’s acts stand; libertas; Lepidus horse/island; Tellus; Vestals will; which-boy | Ch 17 densify (surgical); Capitol/Cisalpine/donative not re-glossed |
 | Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
+| Wrong Cinna: Helvius poet ≠ Cornelius praetor; Rostra funeral; fuller | Ch 19 densify (surgical) |
 
 ---
 
@@ -102,17 +103,17 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
 | Philippics | Ch 25 (primary): speeches against Antony; Ch 11 pun only if Ch 25 will pay |
-| Wrong Cinna | Ch 19: scene mostly visible; ensure **innocent poet ≠ praetor** is said once in Nysa/street mouths |
+| Wrong Cinna | **Paid in Ch 19**; Helvius poet ≠ Cornelius praetor (brother-in-law); do not re-gloss |
 
 ---
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–18.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–19.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–18 glossary already paid.  
+3. Do **not** reopen Ch 1–19 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides spine Ch 14–18 closed.)
+**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through funeral Ch 14–19 closed.)
 
 *End reader-earn gaps.*
