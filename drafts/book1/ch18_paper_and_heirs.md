@@ -95,7 +95,7 @@ Someone urged delay until the city cooled, polite as a man offering a cloak in a
 
 “The city is not cooling,” Antony said. “It is fermenting. Open the jar.”
 
-In the anteroom, after the seal’s news had begun to leak toward the street, the delayer’s courtesy thinned for a clerk who still wanted hours. “He opens jars and calls it piety. The boy gets the name; Decimus gets the joke; we get the crowd’s three hundred reasons to stop listening to caution.”
+In the anteroom, after the seal’s news had begun to leak toward the street, the delayer said nothing more to the clerk who still wanted hours. The clerk would hear the boy’s name from the street soon enough; delay had already lost.
 
 ### Movement B: Nysa
 

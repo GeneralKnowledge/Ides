@@ -133,7 +133,7 @@ Working order (not “history proven”):
 
 ### OPEN-1 — Clemency dinner opening (**continuity commitment** / **D**)
 - **Book 1 opens** on a fictional Caesarian dinner, **late 46 BC** (after Africa triumphs; Cleopatra newly lodged across the Tiber — presence **B**/S2).  
-- **Climber:** Africa-favour recipient (*new Africa*) — invented favour/posting texture, **not** a documented appointment.  
+- **Climber:** Africa-favour recipient **Sextilius** (invented favour/posting texture, **not** a documented appointment; formerly tagged *new Africa* / New-Africa as nickname — retired as sounding like a translated name).  
 - **Was:** late-45 “New-Spain” slight in former Ch 4 SC-08. **Reworked** for chronological dinner-first open (Option 2a); see `opening_pov_design_review.md` §11 + `dinner_first_opening_pass_log.md`.  
 - Brutus’s burned invitation (Ch 4 SC-07) is a **separate** late-45 soft-chain dinner — not a replay of OPEN-1.
 

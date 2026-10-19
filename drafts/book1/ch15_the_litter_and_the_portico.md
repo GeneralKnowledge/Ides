@@ -147,7 +147,7 @@ Antony grinned. “If it’s Monday, send a tribune. If it’s money, speak.”
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
-A legate’s attendant tried to cut in (remounts, a mistress joke already half-told) and Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant exited complaining under his breath that Monday-talk always ate the honest errands. Antony laughed at that, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+A legate’s attendant tried to cut in (remounts, a mistress joke already half-told) and Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
 
 They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at Monday. That was the point.
 

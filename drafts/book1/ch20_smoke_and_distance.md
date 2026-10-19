@@ -84,7 +84,7 @@ The clerk lingered on a chest that held nothing but cloth and a child’s spare 
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
-He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not, mark me when the ship wants a second price.”
+He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not. The ship will invent a second price on water.”
 
 Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter’s news reached her as wind under the leaves; she did not turn back to answer wind.
 

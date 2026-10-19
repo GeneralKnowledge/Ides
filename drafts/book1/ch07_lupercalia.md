@@ -14,7 +14,7 @@ Overhear risk: Forum extreme; house medium
 
 ---
 
-Antony liked the Lupercalia because it let a consul sweat in public without looking weak.
+Antony liked the Lupercalia because it let a consul sweat in public without looking weak. Consul: the year’s chair beside Caesar, fasces and colleagues and the right to speak first when the Senate sat. The title still smelled new enough on him that goat-reek could not quite cover it.
 
 He ran, joked, slapped backs, played the old fertility chaos that Romans pretended was holy. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it in the special chair (half god, half tired general) watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
 
@@ -73,7 +73,7 @@ They chose a colonnade off the Forum where shadows made faces honest and mouths 
 
 He didn't begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
-“If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? Latin?”
+“If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
 Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step without looking as if he were herding. Herding made Brutus invent philosophy as a fence.
 
@@ -87,11 +87,11 @@ Brutus stopped. The stop itself was an answer he preferred to speech.
 
 A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Cassius waited for the noise, then used it.
 
-“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the furniture. I am asking whether furniture is enough.”
+“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
 
-Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them (not as permission, as weather that made postponement look like virtue. “If) only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them (not as permission, as weather that made postponement look like virtue). “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
-“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could open a door. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
+“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
 They walked on as if they had been talking about rain. In Rome, that was often the same conversation.
 
@@ -99,15 +99,15 @@ At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft 
 
 “Well?” Trebonius asked, mild as Monday.
 
-“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only weather.”
+“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
 
-Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Casca doesn’t do essays. He does doors.”
+Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Casca doesn’t do essays. He does the first ugly minute.”
 
 Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
 
 “Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Monday talk. Debt talk. The sort that makes a consul lean in. I am good at Monday.”
 
-Cassius filed *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride with the Forum’s *temporary* still sticky on the city’s tongue, and with Brutus’s refusal still warmer than any diadem.
+Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride with the Forum’s *temporary* still sticky on the city’s tongue, and with Brutus’s refusal still warmer than any diadem.
 
 ---
 

@@ -12,7 +12,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour slight; queen/child rumour |
+| 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour climber Sextilius; queen/child rumour |
 | 2 | SC-01, SC-02 | F4, F1 | Cato/Africa market weather; spectacle residue; land hunger seed |
 | 3 | SC-03, SC-04 | F2, F4 | Debt/patronage |
 | 4 | SC-05, SC-06, SC-07, SC-09 | F3, BRU, DEC | Munda; Porcia pressure; will whisper (no dinner replay) |

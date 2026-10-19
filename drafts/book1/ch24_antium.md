@@ -51,7 +51,7 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 
 Antium’s light was pretty. Pretty light made disasters look arranged.
 
-In the colonnade before the room, two clients were already bitching what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. Exit complaint first; advice second, that’s how this house works.”
+In the colonnade before the room, two clients were already bitching what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
 
 Cicero heard enough to smile as if he hadn’t. Station required the smile. The unfinished voltage (eagle refuse on dusty forums, mother rewriting paper) walked with him into the pretty light.
 
@@ -85,7 +85,7 @@ Favonius muttered about civil war’s cost. No one appointed him captain. Porcia
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge: the Liberators wouldn’t recover the capital by cleverness alone, and his cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised furniture.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page, even if Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised, and the firm did not need him.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page, even if Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 
