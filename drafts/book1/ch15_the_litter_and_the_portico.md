@@ -41,7 +41,7 @@ Phileros, still in the vestibule orbit, heard his name and looked insulted on cu
 
 She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
 
-In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise: Spurinna, beware, a king-bird already torn in someone else’s story. Pallas arrived with Calpurnia’s mantle as if dressing could stop a morning.
+In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise: Spurinna, beware, a king-bird already torn in someone else’s story. Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
 “Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
 
@@ -55,7 +55,7 @@ Nysa nodded once. The order landed on a lie she had not confessed: bring the nex
 
 Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
 
-“He will come back,” she told the empty bed, and hated that she had said it aloud, as if speech could hire a return. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes (the little road habit that had always meant the friend would go) and practised the silence she would keep when the house tried again to make omen into conversation.
+“He will come back,” she told the empty bed, and hated that she had said it aloud. Speech could not hire a return. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes, the little road habit that had always meant the friend would go, and practised the silence she would keep when the house tried again to make omen into conversation.
 
 The bed did not argue. From the street rose the ordinary roar of the Ides. Power, when the litter was already gone, looked like refusing theatre until news arrived with a body attached.
 
@@ -94,7 +94,7 @@ Caesar took it. Of course he took it. He took everything. Taking was cheaper tha
 
 The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast. “Him. Alone.”
 
-Caesar’s thumb brushed the seal as if curiosity had almost woken, then slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
+Caesar’s thumb brushed the seal. Curiosity almost woke. Then he slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
 
 Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak, and that the almost-snatch would live longer in his wrist than in Caesar’s attention.
 
@@ -102,7 +102,7 @@ Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. 
 
 Caesar did not open it. The unread paper rode against his knee like any other chore.
 
-At the portico of Pompey the air changed, shade, columns, the smell of stone that had watched other men’s ambitions. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood as if carved for a different century.
+At the portico of Pompey the air changed, shade, columns, the smell of stone that had watched other men’s ambitions. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
 
 Antony’s laugh carried from farther along the portico, big, soldierly, not yet afraid. Trebonius was already angling toward that laugh with the patience of a door.
 
@@ -112,7 +112,7 @@ Decimus helped Caesar down. Their hands met once more. Caesar’s palm was dry.
 
 He didn't go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
 
-Caesar entered the Curia of Pompey among men who loved him, hated him, owed him, and (Decimus knew with a clarity that felt like nausea) needed him stopped before the Parthian clocks started again.
+Caesar entered the Curia of Pompey among men who loved him, hated him, owed him. Decimus knew with a clarity that felt like nausea: they needed him stopped before the Parthian clocks started again.
 
 Decimus wiped his clean hands on his tunic, once, where no one would see, and went to find Trebonius’ eye.
 
@@ -141,13 +141,13 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word (three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another Monday) Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another Monday: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
 Antony grinned. “If it’s Monday, send a tribune. If it’s money, speak.”
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
-A legate’s attendant tried to cut in (remounts, a mistress joke already half-told) and Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long, as if the morning wanted him facing the wrong way.
+A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
 
 They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at Monday. That was the point.
 
@@ -175,7 +175,7 @@ Antony felt for a weapon he had not brought into a Senate morning. His palm foun
 
 Trebonius said something mild. Antony didn't keep it. The mildness sat wrong, warmth while the Curia broke open.
 
-Antony ran (not toward philosophy, toward the door) and the crowd ran with him and against him, a single animal with too many mouths.
+Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
 Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Monday had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
 
@@ -193,3 +193,4 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
 - **Law-sweep:** Monday callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
+- **Human-voice:** flattened nested Monday/remount parentheticals; thinned stacked *as if*; held unread seal, Trebonius Monday, scream→door propulsion.
