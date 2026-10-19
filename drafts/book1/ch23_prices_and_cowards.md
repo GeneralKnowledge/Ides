@@ -1,6 +1,7 @@
 # Chapter 23: Prices and Cowards
 
 **Mid-tier pass** · SC-64, SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
+**Human-voice:** Ch 23 feel-pass (rules); light trough — F4 stool / SIDE-1 fizzle / Seius flinch held.
 
 ---
 
@@ -18,15 +19,15 @@ Hordeonius arranged his face into mourning for the Republic and his stylus into 
 
 “Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme liquidity.”
 
-Citizenship shortcuts, land whispers, exemptions with seals that looked tired, each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
+Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
 
-A whisperer tried again to sell him Visellius’ old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool as if ash could pay.
+A whisperer tried again to sell him Visellius’ old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool. Ash could not pay.
 
 Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “Archaeology,” he said gently, blessing-flat. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward, ego housekeeping, not fear.
 
 The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offense waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
 
-A Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted; Sosia said only veterans changed land risk; a third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+A Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
 
 “I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather. Watch which weather arrives with coin.”
 
@@ -60,11 +61,11 @@ Phileros laughed once, short, too short for the steward’s kindness, and then l
 
 Phileros kept the short laugh for the stair, where no steward’s kindness could rewrite it. “People’s chest. People’s seals. People’s careful hands in our cupboards. Empty is empty.”
 
-Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash. The house’s new seals were not. Continuity of danger without the old wax.
+Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash. The house’s new seals were not. Danger continued without the old wax.
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 
-Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face, then offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
 
 ---
 
@@ -104,7 +105,7 @@ He left before dessert. Seia Prima followed without speaking until the street. �
 
 “Let him,” Seius said. “I still have a door that closes. That is what I bought.”
 
-By morning the petition had four names without his. Quintus had already told the baker’s corner that Seius congratulated with wine and vanished with excuses, and had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Quintus’s goodwill, and the mule Quintus used to lend without asking, to keep his name off a list that could kill him.
+By morning the petition had four names without his. Quintus had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Quintus’s goodwill, and the mule Quintus used to lend without asking, to keep his name off a list that could kill him.
 
 On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Quintus gone from the count.
 
@@ -119,3 +120,4 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - **Expansion D8:** Domus emptying, Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
 - **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).
 - **Golden-read P3-d:** Nysa receipt errand to Antony threshold; refuses soft “stay attached” transfer.
+- **Human-voice (Ch 23):** one light trough feel-pass — ash as-if / stall collision / danger-without-wax / receipt bow / baker corner breaths; hold F4 ledger, SIDE-1 fizzle, Seius flinch, oil-flask fail.
