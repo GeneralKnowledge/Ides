@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–5 expansion (through Octavian kin / Apollonia / Parthia clock).  
-**Method:** Same as Ch 1–5 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–6 expansion (through *dictator perpetuo* / closed-market offices).  
+**Method:** Same as Ch 1–6 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -24,6 +24,9 @@
 | Agrippa = farm-bred friend / drill (not cloak-stand) | Ch 5 steps + Apollonia |
 | Apollonia = distance with homework | Ch 5 SC-11 |
 | Parthia = eastern war clock (Crassus eagles / months east) | Ch 5 dust-route |
+| *Dictator perpetuo* = for good (not six-month hire) | Ch 6 Forever doorway |
+| Consulships sold forward / dead calendar | Ch 6 Closed Market |
+| Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay still Ch 26–27) |
 
 ---
 
@@ -41,7 +44,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|---------|
 | Octavius → Octavian → Caesar (name path) | **Deferred:** one prior scrap that adoption/name is paper Caesar can write — plant in Ch 6–17 orbit, not re-gloss in Ch 5 |
 
-### 3. Conspirator roster (Ch 7 / 13) — **highest next**
+### 3. Conspirator roster (Ch 7 / 13) — **highest next** (after Ch 6 *perpetuo* paid)
 
 | Need | Earn in |
 |------|---------|
@@ -75,7 +78,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|---------|
 | Lupercalia diadem / *regnum* fear | Ch 7: one line on crown’s cousin = king-fear |
 | Ides = 15 March; Spurinna; Sibylline | Ch 11: one calendar + who warned |
-| *Dictator perpetuo* | Ch 6: gloss once when quoted |
+| *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
 | Philippics | Ch 25 (primary): speeches against Antony; Ch 11 pun only if Ch 25 will pay |
 | Wrong Cinna | Ch 19: scene mostly visible; ensure **innocent poet ≠ praetor** is said once in Nysa/street mouths |
@@ -84,11 +87,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–5.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–6.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–5 glossary already paid.  
+3. Do **not** reopen Ch 1–6 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 6 (*perpetuo* gloss) → Ch 7 (*regnum* + early tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir → roster tags pass on Ch 8/13 as needed.
+**Suggested order:** Ch 7 (*regnum* + early tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir → roster tags pass on Ch 8/13 as needed.
 
 *End reader-earn gaps.*
