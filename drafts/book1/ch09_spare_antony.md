@@ -35,11 +35,11 @@ A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s
 
 “That is a different argument,” Cassius said.
 
-“Then argue it before I walk him anywhere,” Decimus said. “I can supply a door and a signal. Trebonius can hold a consul with Monday-talk until the world ends. I will not supply a butcher’s yard and call it friendship.”
+“Then argue it before I walk him anywhere,” Decimus said. “I can walk him to the right threshold and give the signal. Trebonius can keep him with remounts and Gaul paper until the world ends. I will not supply a butcher’s yard and call it friendship.”
 
-He almost smiled at Trebonius’s Mondays, then didn't. Smiling made the plan feel like a joke, and jokes were how men talked themselves out of courage.
+He almost smiled at Trebonius’s delay-talk, then didn't. Smiling made the plan feel like a joke, and jokes were how men talked themselves out of courage.
 
-“I will bring him,” Decimus said. “You do the rest without turning the Senate into meat. Or I am not your door. I am only another corpse who used to know which jokes Caesar still liked.”
+“I will bring him,” Decimus said. “You do the rest without turning the Senate into meat. Or I am not your summons. I am only another corpse who used to know which jokes Caesar still liked.”
 
 Cassius’ nod was small. Small nods moved armies.
 
@@ -47,7 +47,7 @@ When Decimus turned away, Brutus caught Cassius’s sleeve for half a breath, st
 
 “He will hate us for using the laugh,” Brutus murmured.
 
-“He already hates the choice,” Cassius said. “Hate is cheaper than another key.”
+“He already hates the choice,” Cassius said. “Hate is cheaper than finding another friend who still has his laugh.”
 
 Ten paces on, alone enough, Cassius said to the air what he would not say beside Brutus: “He still smells of Caesar’s wine. Good. Men who smell of nothing are harder to aim.”
 
@@ -71,7 +71,7 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “Then let them be wrong about the pile,” Brutus answered. His eyes flicked to Decimus, proof the inch from last night still governed him: hearing meant surgery, not cordwood.
 
-Decimus counted doors in his head, Curia threshold, portico shoulder, the place where Trebonius could turn a laugh into a leash. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, anything that smells like Monday. He is good at Monday.”
+Decimus counted thresholds in his head, Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
 
 “And if Trebonius fails?” Cassius asked.
 

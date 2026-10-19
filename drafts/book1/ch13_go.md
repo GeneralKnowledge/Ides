@@ -16,13 +16,13 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange Monday, the same Monday Trebonius had priced as thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange a hold, the same delay Trebonius had priced as thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
 “And if he smells it?” Trebonius asked.
 
-“Then you invent a longer Monday,” Decimus said. “You are good at Monday.”
+“Then you invent a longer hold,” Decimus said. “More debt. Another remount. Whatever keeps him facing you.”
 
 Glaucia, Trebonius’s attendant, waited just inside polite earshot with the patience of men who misread shouts for sport, and who would later sell whatever soft version of this huddle paid best. Decimus did not look at him. Looking would have made the true errand a performance.
 
@@ -34,7 +34,7 @@ They parted with the clasp of men confirming a hunt, station warmth, festival-br
 
 Glaucia’s mouth twitched. “Bores survive Mondays.”
 
-“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practice longer Mondays. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
+“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practice a longer hold. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
 
 ---
 
@@ -56,7 +56,7 @@ Not only games (also a cousin’s lawsuit, a bookish slight, the eternal questio
 
 He considered a sentence about Caesar’s departure east and the offices stacked like bricks ahead of lesser men. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus had brought a note from Hirtius’s orbit about nothing that mattered. Cicero answered with courtesy that congratulated itself. He didn't know Trebonius was learning how to hold a consul with talk. He didn't know Decimus had become a key. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
+Sphaerus had brought a note from Hirtius’s orbit about nothing that mattered. Cicero answered with courtesy that congratulated itself. He didn't know Trebonius was learning how to hold a consul with talk. He didn't know Decimus had become the man who could still walk Caesar in. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
 
 He sealed the letter. Sealing felt like action. In the garden a thrush made a sound like a hinge. Cicero took it for spring.
 

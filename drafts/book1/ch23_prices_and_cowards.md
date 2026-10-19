@@ -58,7 +58,7 @@ Nysa bowed the bow the atrium taught. “We are grateful for the care.”
 
 Phileros laughed once, short (too short for the steward’s kindness) and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
 
-When the steward’s kindness had moved to the next chest, Phileros’s short laugh became corridor truth for Nysa and Dama alone. “People’s chest. People’s seals. People’s careful hands in our cupboards. Kindness that empties a house still empties it.”
+Phileros kept the short laugh for the stair, where no steward’s kindness could rewrite it. “People’s chest. People’s seals. People’s careful hands in our cupboards. Empty is empty.”
 
 Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel; she let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf, blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash; the house’s new seals were not. Continuity of danger without the old wax.
 

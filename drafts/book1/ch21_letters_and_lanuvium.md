@@ -74,7 +74,7 @@ The client smiled the smile of men who bring purses later. “Rome still whisper
 
 “Peace requires quiet,” Brutus said.
 
-“Peace required a plan,” Porcia answered, and left him the word *plan* like a debt. She did not look at the client. Looking would have made the debt a performance. The steward closed his mouth on further roads. The client’s smile held until Brutus turned toward the hedges, then thinned for the steward alone: “He will draft periods while the dust learns our gates. Mark me when hope wants ink and gets gravel.”
+“Peace required a plan,” Porcia answered, and left him the word *plan* like a debt. She did not look at the client. Looking would have made the debt a performance. The steward closed his mouth on further roads. The client’s smile held until Brutus turned toward the hedges, then thinned for the steward alone: “He will draft periods while the dust learns our gates. Hope came for ink. It left with gravel.”
 
 Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty, as if the late-hour forgiveness still had a claim on the grammar. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
 

@@ -56,7 +56,7 @@ The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got 
 
 “…not the consul, spare, no (friends first) danger, if he stays…”
 
-The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn't tell which noun owned the verb. The second cloak hissed that Monday talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then (once the visitor’s cheerful back had turned toward the tablinum) muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
+The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn't tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then (once the visitor’s cheerful back had turned toward the tablinum) muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
 
 She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends* · *spare?* · *stay / danger* · *consul?* Incomplete. Ugly. Misfiled even as she wrote it, she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
 

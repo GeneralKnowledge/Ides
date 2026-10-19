@@ -87,11 +87,11 @@ Brutus stopped. The stop itself was an answer he preferred to speech.
 
 A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Cassius waited for the noise, then used it.
 
-“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the furniture. I am asking whether furniture is enough.”
+“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
 
-Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them (not as permission, as weather that made postponement look like virtue. “If) only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them (not as permission, as weather that made postponement look like virtue). “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
-“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could open a door. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
+“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
 They walked on as if they had been talking about rain. In Rome, that was often the same conversation.
 
@@ -99,15 +99,15 @@ At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft 
 
 “Well?” Trebonius asked, mild as Monday.
 
-“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only weather.”
+“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
 
-Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Casca doesn’t do essays. He does doors.”
+Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Casca doesn’t do essays. He does the first ugly minute.”
 
 Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
 
 “Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Monday talk. Debt talk. The sort that makes a consul lean in. I am good at Monday.”
 
-Cassius filed *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride with the Forum’s *temporary* still sticky on the city’s tongue, and with Brutus’s refusal still warmer than any diadem.
+Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride with the Forum’s *temporary* still sticky on the city’s tongue, and with Brutus’s refusal still warmer than any diadem.
 
 ---
 
