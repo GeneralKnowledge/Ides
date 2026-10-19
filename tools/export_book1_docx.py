@@ -16,12 +16,17 @@ DRAFTS = ROOT / "drafts" / "book1"
 EXPORTS = ROOT / "exports"
 
 ACTS = [
-    (1, "Act 1 — Foundations"),
-    (7, "Act 2 — Conspiracy"),
-    (14, "Act 3 — The Ides"),
-    (21, "Act 4 — Aftermath & Name-War"),
-    (28, "Act 5 — Mutina to Philippi"),
+    (1, "Act 1: Foundations"),
+    (7, "Act 2: Conspiracy"),
+    (14, "Act 3: The Ides"),
+    (21, "Act 4: Aftermath & Name-War"),
+    (28, "Act 5: Mutina to Philippi"),
 ]
+
+# Chapter / scene title separators after author-voice em-dash purge (colon),
+# plus legacy dash forms if any remain in older notes.
+# Allow optional spaces: "Chapter 1: Title" and "Chapter 1 — Title".
+_TITLE_SEP = r"\s*[:—–-]\s*"
 
 META_PREFIXES = (
     "POV:",
@@ -67,7 +72,9 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
 
-    m = re.match(r"#\s+Chapter\s+(\d+)\s+[—-]\s+(.+)", lines[0].strip())
+    m = re.match(
+        rf"#\s+Chapter\s+(\d+){_TITLE_SEP}(.+)", lines[0].strip()
+    )
     if not m:
         raise ValueError(f"Bad chapter header in {path}")
     num, title = int(m.group(1)), m.group(2).strip()
@@ -85,7 +92,7 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
         if in_end_matter:
             continue
 
-        if re.match(r"#\s+Chapter\s+\d+\s+[—-]\s+End matter", line):
+        if re.match(rf"#\s+Chapter\s+\d+{_TITLE_SEP}End matter", line):
             in_end_matter = True
             continue
 
@@ -96,7 +103,7 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
         if skip_continuity:
             # Resume at next scene or chapter end-matter
             if line.startswith("# SC-") or line.startswith("### Beat") or re.match(
-                r"#\s+Chapter\s+\d+\s+[—-]\s+End matter", line
+                rf"#\s+Chapter\s+\d+{_TITLE_SEP}End matter", line
             ):
                 skip_continuity = False
                 # fall through to handle this line
@@ -117,18 +124,18 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
         if line.startswith("- **") or line.startswith("* **"):
             continue
 
-        sc = re.match(r"#\s+SC-\S+\s+[—-]\s+(.+)", line)
+        sc = re.match(rf"#\s+SC-\S+{_TITLE_SEP}(.+)", line)
         if sc:
             blocks.append(("scene", sc.group(1).strip()))
             continue
 
-        beat = re.match(r"###\s+(Beat\s+[—-].+)", line)
+        beat = re.match(rf"###\s+(Beat{_TITLE_SEP}.+)", line)
         if beat:
             blocks.append(("scene", beat.group(1).strip()))
             continue
 
         if line.startswith("#"):
-            # Other headings (rare) — treat as scene title without hashes
+            # Other headings (rare): treat as scene title without hashes
             blocks.append(("scene", re.sub(r"^#+\s*", "", line)))
             continue
 
@@ -216,16 +223,16 @@ def main() -> None:
 
     label = (
         "Book 1 reading export · dinner-first opening · ends at Philippi · "
-        f"main @ {sha}"
+        f"author-voice (no em dash) · main @ {sha}"
     )
 
     full = build_doc(
         all_ch,
-        subtitle="Book 1 — FULL Review Draft (Chapters 1–34)",
+        subtitle="Book 1: FULL Review Draft (Chapters 1–34)",
         banner="THIS FILE CONTAINS ALL 34 CHAPTERS · OPENS WITH CHAPTER 1",
         blurb="Prose export for reading · metadata stripped\n" + label,
         source_note=f"Source: main @ {sha} · chapters 1–34",
-        end_line="— End of Book 1 full review export —",
+        end_line="* End of Book 1 full review export *",
     )
     full_path = EXPORTS / "Ides_Book1_FULL_Ch01-34.docx"
     full.save(full_path)
@@ -235,11 +242,11 @@ def main() -> None:
     golden_ch = [c for c in all_ch if 14 <= c[0] <= 19]
     golden = build_doc(
         golden_ch,
-        subtitle="Book 1 — Golden Sample ONLY (Chapters 14–19)",
+        subtitle="Book 1: Golden Sample ONLY (Chapters 14–19)",
         banner="SAMPLE ONLY · STARTS AT CHAPTER 14 · NOT THE FULL BOOK",
         blurb="Stand-alone sample · Ides through funeral\n" + label,
         source_note=f"Source: main @ {sha} · chapters 14–19 only",
-        end_line="— End of golden chapters sample —",
+        end_line="* End of golden chapters sample *",
     )
     golden_path = EXPORTS / "Ides_Book1_Golden_Chapters.docx"
     golden.save(golden_path)
