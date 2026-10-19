@@ -18,7 +18,7 @@ Overhear risk: Sentinels / heralds
 
 They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
 
-Snow threatened without committing. A herald’s voice cracked on a title; someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
+Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 
 Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old optics habit, as if cheer could still open a morning.
 
@@ -32,7 +32,7 @@ Decimus felt the hit. He had not known Antony’s count was that close. He kept 
 
 “Hirtius will come if Rome remembers how to send men,” Antony said. “Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
 
-Antony had opened a ledger in public, not a negotiation. Decimus’s throat tightened, the old key turning. He didn't climb down. Climbing down would've looked like confession.
+Antony had opened a count in public, not a negotiation. Decimus’s throat tightened, the old key turning. He didn't climb down. Climbing down would've looked like confession.
 
 “No,” Decimus said. “Not for breakfast. Not for your count of my smoke.”
 
@@ -58,7 +58,7 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “Until then we eat carefully and count hinges,” Decimus said.
 
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine; Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now: the face that had counted his smoke.
+He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now: the face that had counted his smoke.
 
 ---
 
@@ -72,15 +72,15 @@ Overhear risk: Curia
 
 ---
 
-Cicero argued Octavian into usefulness the way he argued clauses into laws, Cicero, a sweating senator who feared Antony more than boys, and Octavian present enough to be aimed.
+Cicero argued Octavian into usefulness the way he argued clauses into laws. Cicero. A sweating senator who feared Antony more than boys. Octavian present enough to be aimed.
 
-“The young Caesar” (Cicero still choked on the name privately and used it when the Curia needed a handle) “will defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath as if grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
+“The young Caesar,” Cicero still choked on the name privately and used it when the Curia needed a handle, “will defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age; he corrected the number and left the tone alone.
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone.
 
-Agrippa stood where the Curia fringe still smelled of wet wool and ambition, close enough to hear Pacuvius’s name travel in a courier’s mutter (Antony’s storm-man still pricing timing at Mutina) and far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude; Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand (Apollonia’s old inventory without the bread joke) and kept his own nod thin.
+Agrippa stood where the Curia fringe still smelled of wet wool and ambition, close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina, and far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended; only then did he match pace toward the vendor street. A northern courier’s fragments (Decimus holding; Antony digging; Pacuvius still hungry for storm) stayed unmerged in Octavian’s hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments, Decimus holding, Antony digging, Pacuvius still hungry for storm, stayed unmerged in Octavian’s hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
 
 ---
 

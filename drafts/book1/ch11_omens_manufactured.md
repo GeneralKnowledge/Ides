@@ -1,6 +1,7 @@
 # Chapter 11: Omens Manufactured
 
 **S-A2 dwell** · SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
+**Human-voice pass:** thesis-wrapper thin; chickens vs senators + Hirtius refuse kept.
 
 ---
 
@@ -29,7 +30,7 @@ Dama wanted the king-bird to mean knives. Pasiphile wanted it to mean bad cheese
 
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed: Dama swore the gods were tapping the bed; Pasiphile swore it was only March nerves and bad cheese; the washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale. Competing stories were how the house rehearsed a dream before the dream arrived.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed: Dama swore the gods were tapping the bed; Pasiphile swore it was only March nerves and bad cheese; the washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
 
 Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
@@ -58,7 +59,7 @@ Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in so
 
 They said (someone always said) that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
-Below the elite dinners, he knew, kitchens were already trading birds and *beware* like recipes. He did not need a servant’s name to know omen-weather moved faster than letters. Manufactured piety had a street version and a Sibylline version; both sold the same hunger.
+Below the elite dinners, he knew, kitchens were already trading birds and *beware* like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
 “Balbus,” he told the empty room, because Atticus wasn't there and the room wouldn't contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
@@ -66,7 +67,7 @@ He was wrong about the floater. Wrong guesses were still useful; they proved the
 
 He didn't imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) timed the Philippics of the soul correctly. Parthia was a clock for Caesar. For Cicero it was still a topic. King-birds and sullen chickens were topics too, until someone made them into policy.
 
-He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him. Intelligent men stayed blind that way and still felt busy.
+He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him.
 
 Outside, a courier waited, Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
 

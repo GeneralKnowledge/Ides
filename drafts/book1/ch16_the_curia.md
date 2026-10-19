@@ -40,7 +40,7 @@ Senators who were not in it screamed anyway. Benches shrieked on stone. Someone 
 
 Caesar fought. Of course he fought. The man had never learned how to be an offering.
 
-Cassius glimpsed Brutus on the far side of the storm (pale, committed, somehow still looking like a statue asked to commit a robbery) and then Caesar’s hand was on a blade and red and the marble of Pompey was closer than it should have been.
+Cassius glimpsed Brutus on the far side of the storm, pale, committed, somehow still looking like a statue asked to commit a robbery. Then Caesar’s hand was on a blade and red and the marble of Pompey was closer than it should have been.
 
 *Finish,* Cassius told the morning. *Finish before the door brings Antony.*
 
@@ -61,7 +61,7 @@ Brutus had told himself it would feel like law.
 
 It felt like a bathhouse brawl with better cloth.
 
-Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’ ancestors (imagined, arranged on their shelves at home) did not lean in to help. They watched, as masks watch.
+Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’ ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch.
 
 He had to step close. Distance was cowardice; closeness was the thing that would be written, if anything was written truly.
 
@@ -71,11 +71,11 @@ Caesar looked at him.
 
 That was worse than knives.
 
-What Caesar said (if he said) Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, perhaps only air leaving a throat that had spoken to the whole world. Beside him someone swore he heard a child’s name. Someone else swore silence was cleaner.
+What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, perhaps only air leaving a throat that had spoken to the whole world. Beside him someone swore he heard a child’s name. Someone else swore silence was cleaner.
 
 Brutus did not answer. Answers were for courts.
 
-Caesar folded at the base of Pompey’s statue as if the old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. The number of wounds would become a story; Brutus did not count. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
+Caesar folded at the base of Pompey’s statue. The old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. The number of wounds would become a story. Brutus did not count. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
 
 “People, Senate…” His voice sounded written. He hated that. “The tyrant is dead. There is nothing to fear…”
 
@@ -85,7 +85,7 @@ Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cass
 
 In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s Monday. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him, not the abstract debt, the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size, and it did not leave when he named the body *tyrant*. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill, and then crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now; it was a clock. The crush did not empty him. It only made room to walk.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him, not the abstract debt, the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body *tyrant*. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now. It was a clock. The crush did not empty him. It only made room to walk.
 
 “Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 
@@ -110,11 +110,11 @@ Overhear risk: She is the overhear
 
 ---
 
-Nysa hadn't meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes,” as if news were a fishmonger’s tray.
+Nysa hadn't meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.” News was not a fishmonger’s tray. It still drew a crowd.
 
 She was still on the edge of the Campus crowd when the Curia began to spit men.
 
-Togas with red. Togas without dignity. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name as if names could reverse blood.
+Togas with red. Togas without dignity. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name. Names could not reverse blood.
 
 “Knives!”
 “Brutus!”
@@ -158,3 +158,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 **Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).
 **M5 polish:** header pass; last-words ambiguity held (AMB).
 - **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
+- **Human-voice:** flattened storm/ancestors parentheticals; broke crush multi-clause; thinned ornate *as if*; Cassius corridor truth left intact.
