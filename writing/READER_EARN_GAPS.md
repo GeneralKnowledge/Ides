@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–16 expansion (through Curia knives / false Antony).  
-**Method:** Same as Ch 1–16 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–17 expansion (through Capitol / amnesty bargain).  
+**Method:** Same as Ch 1–17 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -48,6 +48,7 @@
 | Mars arms rattle / pontifex house; Jupiter hand-dream; clients; haruspices; Campus; Domina; falling sickness | Ch 14 densify (surgical) |
 | Exta/liver; Greek teacher / sealed unread (Artemidorus-trad.); tribune; blade-into-Senate; king-bird Ides-morning | Ch 15 densify (surgical); Pompey/Curia not re-glossed |
 | Golden chair; toga sacred; imagines; Capitol; Dolabella; 23 later number; kai su dispute | Ch 16 densify (surgical); Curia/Tillius/Subura not re-glossed |
+| Amnesty = killers pardoned **and** Caesar’s acts stand; libertas; Lepidus horse/island; Tellus; Vestals will; which-boy | Ch 17 densify (surgical); Capitol/Cisalpine/donative not re-glossed |
 
 ---
 
@@ -73,11 +74,9 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 | Basilus | **Paid in Ch 10** (praetor / Gaul / denied province). Do not re-CV. |
 | Tillius Cimber | **Paid in Ch 13** (brother exile + petition + toga-tug). One person, not two names. Do not re-CV. |
 
-### 4. Amnesty (Ch 17) — **highest next**
+### 4. Amnesty (Ch 17) — **paid**
 
-| Need | Earn in |
-|------|---------|
-| Killers pardoned **and** Caesar’s acts stay valid | Ch 17 Cicero brokerage: **state the bargain once in plain mouths** before corridor shopping prices gardens/boy |
+Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage before corridor shopping (gardens/boy/queen). Do not re-announce the bargain as brochure later.
 
 ### 5. Proscription / Triumvirate (Ch 30)
 
@@ -112,11 +111,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–16.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–17.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–16 glossary already paid.  
-4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
+3. Do **not** reopen Ch 1–17 glossary already paid.  
+4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** name-path scrap before Ch 18 → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
