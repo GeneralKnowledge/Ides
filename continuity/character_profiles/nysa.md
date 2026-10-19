@@ -11,7 +11,7 @@ Stay fed and unbeaten — listen, carry, omit.
 Incomplete messages and chicken currency can keep senator names off her tongue forever.
 
 ## Soft spots / fears
-Doors; seals as others’ law; Medullina’s hunger for names; blank wax in wrong hands.
+Doors; seals as others’ law; Medullina’s hunger for names; blank wax in wrong hands; being questioned as a witness.
 
 ## Perception filter
 Objects, doors, who waited, what was sealed; vague on Senate meaning.
@@ -27,8 +27,9 @@ Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridor
 
 | Person | Act 1–2 | Act 3 | Act 4–5 |
 |--------|---------|-------|---------|
-| Calpurnia | Service dread | — | House sold |
-| Phileros | Key-loyal drunk | Near-miss hunter | Corridor truth |
+| Calpurnia | Service dread | Lie about burn; shut door after will | House sold |
+| Phileros | Key-loyal drunk | Mats/keys block; vestibule hunter | Corridor truth |
+| Decimus | Cheer as furniture | Blocks tablet; open morning face flash | — |
 | Medullina | Rumour swap | Chickens not senators | |
 | Hordeonius | Occasional overlap | | Lists weather |
 
@@ -36,22 +37,22 @@ Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridor
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Setup | 1, 6, 11–12 | Edge; omens; fragment |
-| Pressure | 14, 16 | Blocked tablet; rumour street |
-| Cost | 19, 23 | Funeral water; empty seals |
-| End | 30 | Lists triptych; fear moved house |
+| Setup | 1, 6, 11–12 | Edge; Capys/Spurinna kitchen; NOTE-1 fragment |
+| Pressure | 14–16 | Blocked tablet; “I burned it” lie; Curia spit / false Antony amplify |
+| Cost | 18–19 | Will street leak; funeral water; Wrong Cinna; true wax burn |
+| End | 23, 30 | Empty seals; lists triptych; fear moved house |
 
 ## Behavioral tells
-Basin careful; blank tablet habit then shelf; chickens safer than senators.
+Basin careful; blank tablet habit then shelf; chickens safer than senators; wax against ribs until charcoal.
 
 ## Information boundaries
-NOTE-1 parallel/incomplete; cannot solve conspiracy.
+NOTE-1 parallel/incomplete; cannot solve conspiracy; false Antony-dead amplified in good faith.
 
 ## Must
 Knowledge without power.
 
 ## Must not
-Secret child of Caesar; omniscient spymaster; modern slang.
+Secret child of Caesar; omniscient spymaster; modern slang; narrated as slave/property.
 
 ## Consistency questions
 - Object-precision over thesis?
