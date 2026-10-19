@@ -2,6 +2,7 @@
 
 **Dinner-first reorder** · SC-05, SC-06, SC-07, SC-09 · 45 BC · A2 · FS05 · FS11 · FS21
 **Note:** Cassius’s clemency dinner now opens the book (Ch 1, late 46). This chapter keeps Munda and the Brutus/Decimus ~45 material only, no dinner replay.
+**Human-voice pass:** breath/paren/as-if thin; Laberius boots + Decimus chin-tip kept.
 
 ---
 
@@ -21,11 +22,11 @@ Laberius chewed rumour with hardtack. Rome, the letters said, thought this was m
 
 “They can think in warm baths,” Laberius said. “We think in mud.”
 
-Vibius, his optio, spat a black fleck and checked the rivets on a shield that had already argued with Spain once. Breath showed. The hour of orders always arrived when breath showed, as if the air itself wanted to count who still belonged to living.
+Vibius, his optio, spat a black fleck and checked the rivets on a shield that had already argued with Spain once. Breath showed. The hour of orders always arrived when breath showed.
 
 Gaius tried a grin that cracked dry lips. “If I die tidy, tell Rome I was mopping. If I die filthy, tell them I was founding a colony with my face.”
 
-Vibius snorted (loud enough that the next file looked over) then slapped Gaius’s shoulder once, hard, as if humour needed bruising to count. “Found the colony after the donative. Dirt without coin is just a grave with opinions.”
+Vibius snorted, loud enough that the next file looked over, then slapped Gaius’s shoulder once, hard. “Found the colony after the donative. Dirt without coin is just a grave with opinions.”
 
 Laberius checked his boots, Gaius again, the dull place behind his knees that meant too little sleep. Philosophy could wait for men with tents. He had a century and a fear he refused to name because naming made it louder.
 
@@ -47,7 +48,7 @@ Overhear risk: Low–Medium
 
 ---
 
-After the field stank of ending (iron, shit, the sweet wrongness of opened bodies) word ran that one Pompeian name was finished and another had slipped somehow. Escape stories always arrived cleaner than escapes.
+After the field stank of ending, iron and shit and the sweet wrongness of opened bodies, word ran that one Pompeian name was finished and another had slipped somehow. Escape stories always arrived cleaner than escapes.
 
 An optio spat. “Someone’s always left for the sea.”
 
@@ -55,13 +56,13 @@ Laberius was already thinking of pay and whether the colony rumours were lies. �
 
 He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. Laberius listened to Rome’s easy-win story arrive late on a clerk’s tongue, dressed as fact: *mopping finished; Spain settled.* The clerk had clean sandals.
 
-Laberius made the face the clerk wanted (grateful veteran, mopping complete) and took the water ration with a nod polished enough for a triumph painting. “Grateful for the clarity,” he said.
+Laberius made the face the clerk wanted, grateful veteran, mopping complete, and took the water ration with a nod polished enough for a triumph painting. “Grateful for the clarity,” he said.
 
 When the clerk’s clean sandals had gone to invent another settled province, Laberius spat pink and found Vibius and Gaius still within bitching range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
 
 Vibius’s mouth twitched. “You’ll get a statue that owes you pay.”
 
-Gaius laughed once, short, then winced as if laughing pulled a stitch. “Statue first. Colony later. Same as always.”
+Gaius laughed once, short, then winced. Laughing pulled a stitch. “Statue first. Colony later. Same as always.”
 
 Vibius asked if Sextus mattered. Laberius answered with the only theology he owned: “If he can pay men, he matters. If he can’t, the sea can keep him.”
 
@@ -87,7 +88,7 @@ The older Brutus of the stories (the one boys learned with bread) did not need t
 
 “Worth is not a dinner conversation,” she said. “It is what you do when dinners become easy.”
 
-Clemency sat in the room like a soft chain. Caesar had spared; Brutus had lived; living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths; the chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat, and, unbidden, the hour after the spare when Caesar had kept him late over ordinary talk, laughed at something small, and sent him home as if the war between them had been a misunderstanding people of their house could afford. That warmth was the part of the chain that still cut.
+Clemency sat in the room like a soft chain. Caesar had spared. Brutus had lived. Living under a spared life felt, tonight, less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths; the chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand, wine gone warm and flat. Unbidden: the hour after the spare when Caesar had kept him late over ordinary talk, laughed at something small, and sent him home as if the war between them had been a misunderstanding people of their house could afford. That warmth was the part of the chain that still cut.
 
 Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court. Attitude more than invitation: a mother’s reminder that pardoned sons still owed dinners they did not choose, and that soft chains were priced in women’s rooms before men’s masks finished judging. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard the fringe as plant, not summons: women’s power already arguing his courtesy while he still held a warm cup.
 
@@ -97,11 +98,11 @@ Before Porcia could press again, a steward brought word that Servilia’s messen
 
 A slave’s foot whispered in the corridor, household overhear as ordinary as dust. Brutus lowered his voice anyway.
 
-The foot returned with a tablet: an invitation, seal still soft, from a Caesarian host whose dinners made pardoned men feel forgiven and owned in the same course. Brutus had already heard what such rooms did (clemency toasted as spice last year while Africa’s favourites laughed on cue; Spain’s new men would do the same now. He read the names of the promised guests) two new Spain-postings, a man who still called mercy a flavour, and felt the chain tug toward the couch he was expected to warm.
+The foot returned with a tablet: an invitation, seal still soft, from a Caesarian host whose dinners made pardoned men feel forgiven and owned in the same course. Brutus had already heard what such rooms did. Clemency toasted as spice last year while Africa’s favourites laughed on cue; Spain’s new men would do the same now. He read the names of the promised guests: two new Spain-postings, a man who still called mercy a flavour. The chain tugged toward the couch he was expected to warm.
 
 Porcia watched his hands, not the wax. “You will go,” she said, not as question.
 
-Brutus held the tablet above the lamp until the edge blackened and the host’s compliments curled. He set the ruined courtesy on the side table as carefully as if neatness could make refusal into housekeeping.
+Brutus held the tablet above the lamp until the edge blackened and the host’s compliments curled. He set the ruined courtesy on the side table carefully, as if neatness could make refusal into housekeeping.
 
 “I will send regrets,” he said. “A cousin’s fever. Something that smells like duty.”
 
@@ -139,21 +140,21 @@ Ordinary trust. The kind that made you useful. Decimus left the inner room still
 
 Someone laughed that Decimus was written into the will’s second line.
 
-The laugh came from a man who collected other men’s secrets like party favours, waiting in the outer portico as if chance were a profession. A second lounger (thin ring, thinner loyalty) stood with him, smiling for anyone who might be Caesar’s ear.
+The laugh came from a man who collected other men’s secrets like party favours, waiting in the outer portico with nothing better to do. A second lounger (thin ring, thinner loyalty) stood with him, smiling for anyone who might be Caesar’s ear.
 
 “Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still, imagine being ink while the queen’s boy across the river learns Latin jokes.”
 
-The thin-ring man inclined his head as if the queen were a weather report. “Careful. Transtiberim talk travels. Some men price the child; some price the gardens; some price whoever still gets half an hour on roads.”
+The thin-ring man inclined his head. “Careful. Transtiberim talk travels. Some men care about the child; some about the gardens; some about whoever still gets half an hour on roads.”
 
-Decimus felt warmth, then a draft along the portico tiles. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed. Both loungers laughed on cue, station laughter.
+Decimus felt warmth, then a draft along the portico tiles. He joked once, correctly, about Spanish wine, and the joke bought him exit without looking stabbed. Both loungers laughed on cue.
 
 Around the corner, out of the portico’s sightline, the laugher’s voice dropped its perfume. “He still thinks ditch-timing is love. Adorable. If the wax is true, he’s a target with good boots. If false, he’s a rumour with good boots. Either way I dine out on him.”
 
 “And the queen?” thin-ring asked.
 
-“Useful scare for men who hate foreign furniture. Don’t put it in writing.”
+“Useful scare for men who hate foreign houses. Don’t put it in writing.”
 
-Decimus did not hear that part. He touched the portico column once (habit of a man checking whether stone still agreed to hold him) and went back toward Caesar’s voice because that was still where his day lived. Caesar was already speaking to a clerk about grain; he glanced up, found Decimus, and tipped his chin as if the afternoon had never been interrupted by other men’s envy.
+Decimus did not hear that part. He touched the portico column once (habit) and went back toward Caesar’s voice because that was still where his day lived. Caesar was already speaking to a clerk about grain; he glanced up, found Decimus, and tipped his chin as if the afternoon had never been interrupted by other men’s envy.
 
 “Campus,” Caesar said. “Before the light goes dishonest.”
 

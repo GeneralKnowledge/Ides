@@ -1,6 +1,7 @@
 # Chapter 13: GO
 
 **Phase 1D.4** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
+**Human-voice pass:** surgical; GO choice + Trebonius Monday + Capua powder kept.
 
 ---
 
@@ -16,7 +17,7 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange a hold, the same delay Trebonius had priced as thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange a hold, the same delay Trebonius had once made look like thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
@@ -30,7 +31,7 @@ Glaucia, Trebonius’s attendant, waited just inside polite earshot with the pat
 
 “Any of those,” Decimus said. “None of the true one.”
 
-They parted with the clasp of men confirming a hunt, station warmth, festival-brother hands. Ten paces on, Trebonius’s mildness thinned for Glaucia alone. “If anyone asks, I am a bore with Gaul on my tongue. If anyone listens well, I am already tired of being the polite half of other men’s courage.”
+They parted with the clasp of men confirming a hunt, festival-brother hands still warm for anyone watching. Ten paces on, Trebonius’s mildness thinned for Glaucia alone. “If anyone asks, I am a bore with Gaul on my tongue. If anyone listens well, I am already tired of being the polite half of other men’s courage.”
 
 Glaucia’s mouth twitched. “Bores survive Mondays.”
 
@@ -50,7 +51,7 @@ Overhear risk: N/A
 
 Cicero wrote to Atticus about games.
 
-Not only games (also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs) but games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
+Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
 “The city is theatrical,” he wrote, then sharper: “Theatre is what remains when men of standing refuse to stage a Republic.”
 
@@ -84,7 +85,7 @@ Gaius did not grin. “Capua was a date once. Now it’s after Parthia. After Pa
 
 Vibius poked the brazier with a stick until ash rose. “Dirt without coin is still a grave with opinions. Write that on a promise and see who salutes.”
 
-Laberius didn't hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps the way fire lived in dry grass, waiting for a match that would look, later, like grief. He didn't know a funeral would be that match. He only knew the powder was soft underfoot already, and soft powder still burned.
+Laberius didn't hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps. He didn't know a funeral would be the match. He only knew the powder was soft underfoot already, and soft powder still burned.
 
 Someone sang a dirty song about kings that borrowed the Forum’s February panic and made it tavern-shaped. Laberius did not laugh. Capua unpaid was not a joke tonight, only powder waiting for a name he still trusted on the wind.
 
@@ -118,7 +119,7 @@ Brutus looked at his own hands. They were clean. He rubbed a thumb across the pa
 
 Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
-The room was small enough that fear had to stand close and pretend it was resolve. Brutus's hesitation lasted a breath past comfort, then released.
+The room was small enough that fear had to stand close. Brutus's hesitation lasted a breath past comfort, then released.
 
 “GO,” Brutus said.
 

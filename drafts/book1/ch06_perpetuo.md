@@ -1,6 +1,7 @@
 # Chapter 6: Perpetuo
 
 **S-A2 dwell** · SC-12, SC-14 (SC-13 folded) · early 44 · A3 · FS22 · G1/G2
+**Human-voice pass:** priced/exit-complaint craft thin in Cicero; Hordeonius stall dialect kept.
 
 ---
 
@@ -27,15 +28,15 @@ Cicero’s smile held. Holding was his craft. In private he dissected: *forever*
 
 He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted. Formal office without steel still let him shape periods; periods did not shape legions. He knew the difference and hated knowing it in a doorway while lesser men clapped.
 
-The clerk tried the title once more, almost proud. The wine-mutterer asked whether *perpetuo* meant Parthia would wait forever or whether forever meant Parthia had to start now. Someone laughed as if logistics were wit. Cicero filed the laugh beside the title. Forever, priced as departure, was still a clock.
+The clerk tried the title once more, almost proud. The wine-mutterer asked whether *perpetuo* meant Parthia would wait forever or whether forever meant Parthia had to start now. Someone laughed as if logistics were wit. Cicero filed the laugh beside the title. Forever, treated as a departure date, was still a clock.
 
-He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once (still warm) and left it unsent in the drawer.
+He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once, still warm, and left it unsent in the drawer.
 
-A courier from Hirtius’s orbit arrived as the seals cooled, nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences were how men without armies stayed invited to rooms where armies were priced.
+A courier from Hirtius’s orbit arrived as the seals cooled, nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences were how men without armies stayed invited to rooms where armies were discussed.
 
-When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. “They clap forever into manners and ask me to sand the blade out of the letter. Mark me, when Parthia packs, those same mouths will call the packing weather and ask for periods again.”
+When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
 
-Tiro did not laugh. He sanded. Sanding was how you survived a master’s exit-complaint without becoming the complaint’s audience in the street.
+Tiro did not laugh. He sanded. Sanding was how you survived a master’s private complaint without becoming its audience in the street.
 
 The unfinished question under *dictator perpetuo* sat in the money: what the city would do with forever once the clapping stopped.
 
@@ -55,7 +56,7 @@ Overhear risk: Medium
 
 “They have sold years in advance,” Hordeonius said, scandalised on behalf of liquidity. “Consulships as futures. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
 
-A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed as if fairness smelled wrong to him.
+A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
 
 “Late,” Hordeonius said, already reaching for the next tablet. “You want seats near the auction after the years are sold. I charge for that. Not for the sermon.”
 

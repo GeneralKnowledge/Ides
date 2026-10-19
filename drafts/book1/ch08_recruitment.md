@@ -2,6 +2,7 @@
 
 **Phase 1D.4** · SC-20, SC-21 · post-Lupercalia · FT3 · A4
 **S-A0:** group persuade Brutus; exit-complaint; audible humour
+**Human-voice pass:** surgical; costly inch + shoulder-touch debt kept.
 
 ---
 
@@ -49,17 +50,17 @@ Galba did not leave clean. He took from his sleeve a small note (wax already sof
 
 Galba’s thumb cracked the seal. He tore the note once, then again, until the patron’s compliments were scraps too small to reassemble into courtesy. He let them fall between the tiles. “Name the doors,” he said. “Softly. If Brutus blesses, I stand. If he only watches, I still stand, but you will owe me the brother’s winter.”
 
-Cassius named two other doors Galba might tap, and did not name the full list. Compartments kept corpses from becoming libraries. He did not promise the brother’s winter with poetry. He nodded once, as men nod when a price has entered the room and refused to leave.
+Cassius named two other doors Galba might tap, and did not name the full list. Compartments kept corpses from becoming libraries. He did not promise the brother’s winter with poetry. He nodded once, as men nod when a cost has entered the room and refused to leave.
 
 When Galba reached the street, Cassius finally drank. The wine was ordinary. That pleased him.
 
-At the corner Galba found Ligarius waiting as if by accident, the gratitude-door already half open. They clasped with festival courtesy.
+At the corner Galba found Ligarius waiting with the look of a man who had not meant to be found, the gratitude-door already half open. They clasped with festival courtesy.
 
 “Cassius asks softly,” Galba said, still smiling for any watcher.
 
 Ligarius’s smile matched his. “Softly is how men lose brothers.”
 
-Once the lane bent and the portico was blind, Galba’s face dropped. “He prices my brother’s grain like a patriotic hymn. If Brutus only watches, I am a man who tore a seal for a shrug.”
+Once the lane bent and the portico was blind, Galba’s face dropped. “He weighs my brother’s grain like a patriotic hymn. If Brutus only watches, I am a man who tore a seal for a shrug.”
 
 “Then make Brutus stop watching,” Ligarius said. “Or tear seals for me instead, I at least admit I am already ruined.”
 
@@ -81,7 +82,7 @@ Overhear risk: High (Servilia); household
 
 Porcia had gone to bed with a headache that sat behind the eyes like watchfulness. The masks on the wall did what they always did, judged without moving. Servilia remained at the dining room’s edge, wine untouched.
 
-Cassius arrived with P. Servilius Casca as if chance had paired them on the threshold. It had not. Cassius wanted a second voice so Brutus could not turn the evening into a private essay.
+Cassius arrived with P. Servilius Casca on the threshold as if they had met by chance. They had not. Cassius wanted a second voice so Brutus could not turn the evening into a private essay.
 
 “We disturb a quiet house,” Cassius said, formal enough for station.
 
@@ -95,7 +96,7 @@ Casca smiled with his teeth. “We are not here to dine you into a better mood. 
 
 Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin “debt” sounded, as if the man had only signed a tablet, not kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
+“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin “debt” sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
 
 Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
 
