@@ -20,8 +20,9 @@ Read this file before drafting. Obey it over improvisation.
 6. `story/ides_week_hour_map.md` (for Act 2–3)  
 7. `writing/MUST_EXPRESS.md` (behavioural checklist — outcomes may travel by alternate scene delivery)  
 8. `writing/STYLE_GLOSSARY.md`  
-9. `writing/voice/TONE_SPARTACUS_GRRM.md` + `voice/POV_DICTION.md` (humour / personality lenses)  
-10. Supporting: `research/tables/conspirator_matrix.md`, `research/rome_topography.md`, `story/information_network.md`, `story/mysteries.md`
+9. `writing/HUMAN_VOICE_RULES.md` (anti-synthetic craft: feel over detectors; do not over-thin)  
+10. `writing/voice/TONE_SPARTACUS_GRRM.md` + `voice/POV_DICTION.md` (humour / personality lenses)  
+11. Supporting: `research/tables/conspirator_matrix.md`, `research/rome_topography.md`, `story/information_network.md`, `story/mysteries.md`
 
 If a choice conflicts with a **historical or narrative invariant** in `canon.md` or an Anchor A#, **canon/anchor wins**. Structural preferences (chapter map, POV slot counts, CHOREO-1 ordinals) guide; they do not auto-veto a stronger demonstrated solution that keeps invariants.
 
@@ -53,7 +54,8 @@ A usable first pass that:
 9. Do not make Cicero a dagger conspirator.  
 10. Do not give Liberators a secret army in Rome on the Ides that would make their collapse incoherent.  
 11. Do not teleport; respect travel times in `rome_topography.md` / locations.  
-12. Do not turn SIDE-1 into the “real” reason for the Ides.
+12. Do not turn SIDE-1 into the “real” reason for the Ides.  
+13. Do not run detector-led prose loops or scrub character-true diction into sameness — see `HUMAN_VOICE_RULES.md` (feel over scores; hard cap two targeted voice passes per chapter).
 
 ---
 

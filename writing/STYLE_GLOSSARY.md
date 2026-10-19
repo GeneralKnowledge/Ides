@@ -1,5 +1,7 @@
 # Style Glossary — First-Pass Guardrails
 
+**Also read:** [`HUMAN_VOICE_RULES.md`](HUMAN_VOICE_RULES.md) for anti-synthetic cadence, shared ledger dialect, and stop/revert caps after the 2026-10 human-voice work.
+
 ## Forms of address (approximate; prefer restraint)
 
 | Situation | Prefer | Avoid |
