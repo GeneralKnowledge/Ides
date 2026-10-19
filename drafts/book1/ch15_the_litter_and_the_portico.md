@@ -3,7 +3,7 @@
 **M5 polish** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)
 **Canon:** HOUSE-1 · DEC-PERS-1 · CHOREO-1 · NOTE-1 · M4 · M6 · AMB-3 · HUMOR-1 near-off
 **Continues:** Ch 14 litter departure
-**Human-voice:** Ch 15 feel-pass (rules); surgical — unread seal / market day / scream→door held.
+**Human-voice:** Ch 15 expanded; surgical on gold spine — Spurinna/king-bird + Pompey/Curia re-gloss trimmed; unread seal / market day / scream→door held.
 
 ---
 
@@ -22,9 +22,19 @@ In the Domus Publica vestibule the litter’s smell still hung: wool, leather, t
 
 Phileros talked too much, which meant he was afraid. “The chickens were sullen, domina. The boy said so. And the exta, someone said the liver looked insulted.”
 
+The exta were the organs taken from the sacrificial animal, the liver above all, which the priests read for the gods’ mood the way a banker reads a ledger. A sound liver meant the gods approved the day. A damaged one meant they did not.
+
 “Someone,” Calpurnia said.
 
 “A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
+
+“Do they?”
+
+“They do if the man holding the knife has had a bad night, domina. Livers are very sensitive to character.”
+
+“And yours?”
+
+“Mine is a servant’s liver,” said Phileros. “It has no opinions.”
 
 Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia almost asked what the girl had tried to do at the door, then did.
 
@@ -34,9 +44,9 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 “Bring me what you have.”
 
-“I burned it,” Nysa said, and felt the linen grain against her ribs contradict her. Same cheap lie she had once sold Phileros with an empty palm. Showing incomplete wax now, with the litter already gone, would only make her the morning’s omen. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn't Senate shape. It was splinters.”
+“I burned it,” Nysa said, and felt the linen grain against her ribs contradict her. Same cheap lie she had once sold Phileros with an empty palm. Showing incomplete wax now, with the litter already gone, would only make her the morning’s omen. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn’t Senate shape. It was splinters.”
 
-Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not *someone*.”
+Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not someone.”
 
 Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
@@ -46,11 +56,15 @@ In the service court Dama swore the chickens were still sullen and that sullenne
 
 “Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
 
+“He does not sell it by the hour,” the washerwoman said, wounded. “He gave it away free. That is why it spread.”
+
+“Things given free always spread,” Calpurnia said. “It is the reason nobody gives away anything good.”
+
 Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Pallas held the mantle and said nothing, loyalty that knew when silence was the only clean service.
 
 Phileros tried again from the vestibule edge, softer. “Domina, if the college sends…”
 
-“If the college sends, they send to me by name,” Calpurnia said. “Not through your *someone*. And Nysa, if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
+“If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
 
 Nysa nodded once. The order landed on a lie she had not confessed: bring the next splinter before burning. The one against her ribs stayed where fear had put it.
 
@@ -64,6 +78,7 @@ The bed did not argue. From the street rose the ordinary roar of the Ides. The l
 
 ## Continuity notes (SC-40)
 - Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.
+- Exta/liver densify; Spurinna/king-bird paid Ch 11 (no re-teach); free-spread washerwoman held.
 - **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.
 - **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
 - **IR-1:** Nysa’s “I burned it” = deliberate lie (fragment still on body → Ch 19 burn); Calpurnia does not search; NOTE-1 dual unchanged.
@@ -85,9 +100,15 @@ The litter swayed. Caesar sat as he sat in triumphs and in mud, half present, ha
 
 “Short session,” he said again, because repetition steadied him like a hand on a litter pole. “You dismiss them if the birds offend you. You will have been seen. That is what matters.”
 
-Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule: petitions, lists, the city’s endless paper hunger. Decimus didn't look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
+“Seen by whom?” Caesar said.
 
-Near the turning toward the Campus, a man pressed in, Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. He pushed a small sealed tablet toward Caesar’s hands.
+“By everyone who is currently arguing that you have become a god and a recluse in the same week.”
+
+“I have been both for years. They never complain when I am late.”
+
+Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule: petitions, lists, the city’s endless paper hunger. A Roman of his rank was petitioned in the street the way a river is fished: constantly, hopefully, by men who had nothing to lose by throwing a line. Decimus didn’t look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
+
+Near the turning toward the Campus, a man pressed in, Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. Greek teachers of rhetoric and philosophy were a fixture of Roman great houses, tutors to the sons of senators and sometimes friends of the senators themselves, and this one had the look of a man who had come by a friend’s secret and could not carry it. He pushed a small sealed tablet toward Caesar’s hands.
 
 “Read this,” the man said, or something near it. “Read it now. Alone.”
 
@@ -95,15 +116,21 @@ Caesar took it. Of course he took it. He took everything. Taking was cheaper tha
 
 The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast. “Him. Alone.”
 
+“He is a dictator,” Decimus said pleasantly, “not a confessional. Give it to his secretary.”
+
+“It is for him,” the man said. “It matters what hand it is read in.”
+
 Caesar’s thumb brushed the seal. Curiosity almost woke. Then he slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
 
-Decimus felt a cold stitch under the ribs. He didn't know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak. The almost-snatch would live longer in his wrist than in Caesar’s attention.
+Decimus felt a cold stitch under the ribs. He didn’t know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak. The almost-snatch would live longer in his wrist than in Caesar’s attention.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
+“The street writes to everyone,” said Caesar. “It is only a matter of whether they write back.”
+
 Caesar did not open it. The unread paper rode against his knee like any other chore.
 
-At the portico of Pompey the air changed. Shade, columns, the smell of stone that had watched other men’s ambitions. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
+At the portico of Pompey the air changed. Shade, columns, the smell of stone that had watched other men’s ambitions. The Senate sat here while their own house stayed unfinished; Pompey’s statue waited inside. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
 
 Antony’s laugh carried from farther along the portico, big, soldierly, not yet afraid. Trebonius was already angling toward that laugh with the patience of a door.
 
@@ -111,7 +138,7 @@ Decimus helped Caesar down. Their hands met once more. Caesar’s palm was dry.
 
 “Go in,” Decimus said, and smiled the smile that had opened Spanish gates. “I will see to the edges.”
 
-He didn't go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
+He didn’t go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
 
 Caesar entered the Curia of Pompey among men who loved him, hated him, owed him. Decimus knew with a clarity that felt like nausea: they needed him stopped before the Parthian clocks started again.
 
@@ -121,6 +148,7 @@ Decimus wiped his clean hands on his tunic, once, where no one would see, and we
 
 ## Continuity notes (SC-41)
 - Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.
+- Greek-teacher densify; Pompey theatre/statue geography paid Ch 9 (no Pharsalus / first-stone re-CV).
 - **Gold dwell:** Seal almost opens / Decimus almost-snatch cost; NOTE-1 dual held (seal stays unread).
 
 ---
@@ -142,15 +170,29 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. Antony’s first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
+A tribune was a junior officer or magistrate, someone you sent to do the boring part.
+
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
+
+“You have a man in my debt who has news from Gaul,” Antony said.
+
+“I have several. It is a great sorrow to me.”
+
+“How do you get men in your debt and keep your fingers?”
+
+“I never lend them anything they can spend,” said Trebonius.
 
 A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
 
 They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days. That was the point.
+
+“Hirtius fights badly,” Antony said. “I have seen it. He holds a sword like a pen.”
+
+“And writes like a general,” said Trebonius. “It is the one mercy of his career.”
 
 A thin suspicion crossed him, not plot, not dagger, only the soldier’s sense that a door had been closed behind his back. He glanced toward the Curia.
 
@@ -172,9 +214,9 @@ Trebonius’ face was still warm. That was the obscenity. Warmth, while the Curi
 
 “Caesar,” someone yelled, and then the name became a dozen other words: blood, knives, Brutus, liberty, murder, the consul, where is the consul.
 
-Antony felt for a weapon he had not brought into a Senate morning. His palm found only the cloth of his tunic.
+Antony felt for a weapon he had not brought into a Senate morning. Carrying a blade into the Senate was forbidden, and a consul, of all men, kept the law. His palm found only the cloth of his tunic.
 
-Trebonius said something mild. Antony didn't keep it. The mildness sat wrong, warmth while the Curia broke open.
+Trebonius said something mild. Antony didn’t keep it. The mildness sat wrong, warmth while the Curia broke open.
 
 Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
@@ -184,6 +226,7 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 
 ## Continuity notes (SC-42)
 - Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
+- Tribune densify; Marcus name; debt/fingers + Hirtius banter; blade-into-Senate law beat.
 - **Gold-edge / S18:** “market day” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
 
 ---
@@ -194,5 +237,4 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
 - **Law-sweep:** market-day callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
-- **Human-voice:** flattened nested market-day/remount parentheticals; thinned stacked *as if*; held unread seal, Trebonius market-day, scream→door propulsion.
-- **Human-voice (Ch 15):** one surgical feel-pass — Nysa lie / chin-tip / power-caption / cold-stitch / portico / Antony open / Curia pour breaths; hold unread seal, market-day, scream→door.
+- **Human-voice (Ch 15 expanded):** surgical densify — exta / street petitions / Greek teacher / tribune / blade law; cut Spurinna/king-bird re-teach (Ch 11); cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.
