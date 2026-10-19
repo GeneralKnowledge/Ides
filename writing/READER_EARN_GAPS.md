@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–17 expansion (through Capitol / amnesty bargain).  
-**Method:** Same as Ch 1–17 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–18 expansion (through will / name-path).  
+**Method:** Same as Ch 1–18 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
