@@ -13,23 +13,23 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 
 Italy smelled different when you arrived as a claim.
 
-Octavian stood in Philippus’ villa light, sea glare, careful furniture, advice thick as oil. Atia’s fear sat in the room without needing a chair: she had already rearranged the cushions twice, as if cushions could refuse a will. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping. Noise for courage.
+Octavian stood in Philippus’ villa light: sea glare, careful chairs, advice thick as oil. Atia’s fear sat in the room without needing a seat. She had already rearranged the cushions twice, as if cushions could refuse a will. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping. Noise for courage.
 
 “Refuse the inheritance,” Philippus urged, not looking at Atia when he said it. Looking would have made it a conspiracy between parents. “Refuse the name. Live. Rome will invent another quarrel without you.”
 
 Atia’s hands found the cushion seam and worried it open a thread. “They will kill you for the name,” she said. “Or use you until the name is empty and then kill what is left.”
 
-Octavius (he still heard himself as Octavius in the bones) looked at Agrippa. Agrippa didn’t nod. He waited, still as a vote cast without theatre. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard; he stopped twisting because that, too, was information.
+Octavius, he still heard himself as Octavius in the bones, looked at Agrippa. Agrippa didn’t nod. He waited, still as a vote cast without theatre. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard. He stopped twisting because that, too, was information.
 
 “If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is theft from the dead.” He hated the polish. Rooms like this required it. “I will take what is mine. The name included.”
 
-Atia’s mouth opened and closed. Philippus looked toward the sea as if the sea might offer a legal opinion. The gardener’s shears stopped mid-clip.
+Atia’s mouth opened and closed. Philippus looked toward the sea. The gardener’s shears stopped mid-clip.
 
 A follower came to the terrace door, young, dusty from the road, eyes already rehearsing loyalty. He bowed wrong, then corrected the bow, then spoke the word as if it were a password he had paid for:
 
 “Caesar.”
 
-Not under the breath. Aloud. The room flinched as if the air had changed temperature. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa’s stillness deepened, approval without theatre.
+Not under the breath. Aloud. The room flinched. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa’s stillness deepened, approval without theatre.
 
 Octavian held the greeting without smiling. Smiling would have made him a boy delighted by a toy. “Tell the others,” he said. “The name stands. So does the will.”
 
@@ -37,15 +37,15 @@ The follower, emboldened, added with a grin meant as gift: “Not merely the hop
 
 Agrippa’s head turned a fraction. Octavian’s voice stayed flat. “The name. Only the name.”
 
-The follower flushed, bowed too deep, and fled as if dismissed from a temple. Cicero, visiting the neighbourhood of villas like a man touring symptoms, heard the followers before he saw the boy: *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
+The follower flushed, bowed too deep, and fled. Cicero, visiting the neighbourhood of villas like a man touring symptoms, heard the followers before he saw the boy: *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
 
 “Philippus will not call him that,” someone murmured.
 
-“Neither will I,” Cicero said lightly, and meant it as taste, not prophecy. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated: not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume; it had not retired.
+“Neither will I,” Cicero said lightly, and meant it as taste, not prophecy. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated: not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume. It had not retired.
 
 Cicero’s smile held. “They are still exercising,” he murmured to no one, tasting Fundi’s earlier weather. “Tell me when the exercise stops amusing them.”
 
-Octavian, alone for a stolen minute on the terrace, shook, once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. Agrippa found him there.
+Octavian, alone for a stolen minute on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. Agrippa found him there.
 
 “I almost said it first,” Agrippa murmured, not apology, inventory. “Shadow. Old habit.”
 
@@ -57,7 +57,7 @@ That evening they walked the villa’s outer path where gardeners had stopped in
 
 “Philippus still won’t say it,” Agrippa said. “The name.”
 
-“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him with softness. He only matched pace, which was the older friendship: not shadow, not furniture, legs that kept the same inventory without announcing need.
+“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him with softness. He only matched pace, which was the older friendship: not shadow, legs that kept the same count without announcing need.
 
 ---
 
@@ -72,15 +72,15 @@ Antony counted money the way he counted cohorts: roughly, with threats for arith
 
 Around the Temple of Ops the city’s paper heart still beat in Caesar’s rhythm, acts, grants, promises. Clerks moved tablets like bricks. A veteran waited with a petition that smelled of wine and land hunger. Antony meant to keep the rhythm. Rhythm kept veterans fed. Fed veterans kept consuls alive.
 
-Fulvia listened to a client’s petition and priced it with her eyes before Antony opened his mouth, how much loyalty, how much cash, how much theatre. He almost smiled. Almost was marriage.
+Fulvia listened to a client’s petition and priced it with her eyes before Antony opened his mouth: how much loyalty, how much cash, how much theatre. He almost smiled. Almost was marriage.
 
 “The boy is in Campania,” an agent said. “Calling himself Caesar. Followers thick as flies on a sweet stall. Some of ours asked whether his purse travels with the name.”
 
-Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory, too careful with his face, too hungry for older men’s approval, a chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
+Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory: too careful with his face, too hungry for older men’s approval, a chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
 
 The waiting veteran shifted. “If the name pays land,” he said carefully, “some will listen. Names do not fill bellies. Pay does. But names open doors to pay.”
 
-Fulvia’s eyes flicked to Antony (price, risk, theatre) then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten. For a breath the veteran’s sentence almost interested him (names opening doors) then Decimus’s Cisalpine hunger filled the interest the way a real war fills a map.
+Fulvia’s eyes flicked to Antony, price and risk and theatre, then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten. For a breath the veteran’s sentence almost interested him. Then Decimus’s Cisalpine hunger filled the interest the way a real war fills a map.
 
 He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees that kept the dead man’s calendar breathing. The crowd heard stability. Liberators heard a noose made of paperwork. Antony heard himself buying time, and time, in April, still felt cheaper than blood.
 
@@ -88,7 +88,7 @@ He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees tha
 
 “He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.” The word was easy because it kept the boy small enough to mock. Mockery cost less than another front.
 
-Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you, Campania already stopped.”
+Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you. Campania already stopped.”
 
 “Shadow,” Antony repeated, amused, tasting an officer’s old joke secondhand. “Even better. Shadows don’t hold fasces.”
 
