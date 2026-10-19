@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–9 expansion (through Decimus spare / Curia–Pompey plant / Gaul paper leash).  
-**Method:** Same as Ch 1–9 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–10 expansion (through Basilus tag / SIDE-1 body).  
+**Method:** Same as Ch 1–10 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -34,6 +34,8 @@
 | Decimus = access key (litter door / hours); spare Antony | Ch 9 Access + Argument |
 | Curia sitting at Pompey’s theatre / statue | Ch 9 Decimus stomach-turn |
 | Gaul paper = Trebonius hold (market-day leash) | Ch 9 Access |
+| Basilus = praetor / Gaul / denied province | Ch 10 baths soft-hour |
+| Aedile ladder / freedman pay-on-Kalends | Ch 10 Seius + Visellius |
 
 ---
 
@@ -56,9 +58,10 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 | Need | Status |
 |------|--------|
 | Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (market day; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
-| Basilus, Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 8–13). Tillius “brother’s exile on the tongue”; others one scrap each. |
+| Basilus | **Paid in Ch 10** (praetor / Gaul / denied province). Do not re-CV. |
+| Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 11–13). Tillius “brother’s exile on the tongue”; Cimber one scrap. |
 
-### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or Ch 8–13 roster finish first)
+### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or finish Cimber/Tillius first)
 
 | Need | Earn in |
 |------|---------|
@@ -95,11 +98,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–9.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–10.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–9 glossary already paid.  
+3. Do **not** reopen Ch 1–10 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 10–13 (Basilus/Cimber/Tillius tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 11–13 (Cimber/Tillius tags; Ides calendar) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
