@@ -133,6 +133,8 @@ Not another edit pass. Prefer one of:
 
 Stop and note; do not immediately implement mid-read.
 
+**Read-only scan of unread zones (no edits):** `archive/reports/guidance_scan_unread_zones.md` — silence hid continuity of known habits *and* built strengths (esp. Decimus Act 4, Laberius mud, Bononia depth); does not invent a rewrite brief.
+
 ### Dual engines stay the carriers
 
 Ides incomplete-info and will/name/heir remain behavioural engines. Do not invent a third master throughline from reading notes (grain quest, seer arc, tour-guide servant).
