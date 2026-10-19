@@ -28,7 +28,7 @@ Naming doors softly; walking Galba’s winter; mint arguments; keeping three wes
 |--------|---------|-------|---------|
 | Brutus | Herds toward room | Needs his face on brand | Purity vs victors |
 | Decimus | Door tool / friend of Caesar | Key deployed | West debit crack |
-| Trebonius | Monday instrument | Hold consul | — |
+| Trebonius | market day instrument | Hold consul | — |
 | Antony | Should have been cordwood | Living disaster | Enemy |
 | Galba | Winter price nodded | Absence as receipt | |
 

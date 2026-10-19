@@ -103,5 +103,5 @@ Decimus washed at a basin later and thought, absurdly, of Spanish wine and Caesa
 - **S-A0:** Decimus resists before yes; access shown via door/hours/Spain jokes (no “friendship was the key” caption); exit-complaint after spare decision.
 - Next: Ch 10 SIDE-1.
 **M5 polish:** header + voice spot-check; mercy-decision density held.
-- **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; exit-complaint on living consul price; Cassius dry humour on spare; Monday/Trebonius plant; no friendship-key caption.
+- **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; exit-complaint on living consul price; Cassius dry humour on spare; market-day/Trebonius plant; no friendship-key caption.
 - **Human-voice (Ch 9):** one feel-pass — open chin-tip paren; light breath on garden/interest beats; hold spare Antony, Trebonius remounts, Decimus resistance.

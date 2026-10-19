@@ -2,7 +2,7 @@
 
 **M5 polish** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off
 **Place:** Curia Pompeia / Forum–Subura streets
-**Human-voice:** Ch 16 feel-pass (rules); surgical peak — knives / kai su / Monday corridor / false Antony held.
+**Human-voice:** Ch 16 feel-pass (rules); surgical peak — knives / kai su / market-day corridor / false Antony held.
 
 ---
 
@@ -84,7 +84,7 @@ No one arranged themselves into a people. They ran.
 
 Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
 
-In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s Monday. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
+In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s market day. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
 Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body *tyrant*. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now. It was a clock. The crush did not empty him. It only made room to walk.
 
@@ -94,7 +94,7 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 
 ## Continuity notes (SC-43)
 - CHOREO-1; no Shakespeare last words; disputed Greek fragment; Pompey statue fall.
-- **Gold dwell:** Exit fringe only, Cassius corridor truth (spare/Monday walking toward them); knife pile untouched.
+- **Gold dwell:** Exit fringe only, Cassius corridor truth (spare/market-day walking toward them); knife pile untouched.
 - **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”
 - **Golden-read P1:** Body crush = late-hour forgiveness intimacy (betrayal size), not abstract debt list.
 
@@ -160,4 +160,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 **M5 polish:** header pass; last-words ambiguity held (AMB).
 - **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
 - **Human-voice:** flattened storm/ancestors parentheticals; broke crush multi-clause; thinned ornate *as if*; Cassius corridor truth left intact.
-- **Human-voice (Ch 16):** one surgical feel-pass — patience catalogue / Gaul-body / crush open / wax-ribs / story thesis; hold knives, kai su, Monday corridor, false Antony.
+- **Human-voice (Ch 16):** one surgical feel-pass — patience catalogue / Gaul-body / crush open / wax-ribs / story thesis; hold knives, kai su, market-day corridor, false Antony.

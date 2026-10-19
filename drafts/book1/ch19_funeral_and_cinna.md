@@ -36,7 +36,7 @@ Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pre
 
 The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand toward the streets where Liberators kept doors: same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction. The enemy’s city had become the enemy. It was no longer waiting for his nod. The second officer was already too far forward to call back. Calling him would look like fear of his own heat.
 
-Teaching looked like smoke that had walked. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
+Teaching looked like smoke that had walked. The smoke did not ask which market day had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
 
 ---
 
@@ -101,7 +101,7 @@ When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her 
 - Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).
 - Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).
 - // M5: Antony speech held as refrain (lightly compressed); not blank verse.
-- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; Monday echo at close.
+- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; market-day echo at close.
 - **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
 - **Golden-read P0:** Pyre→buildings handoff stitched, brand/bench leaves Forum fire for Liberator doors (Antony + Laberius); not a longer funeral.
 - **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks), not gag.

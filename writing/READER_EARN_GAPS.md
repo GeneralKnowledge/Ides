@@ -28,7 +28,7 @@
 | Consulships sold forward / dead calendar | Ch 6 Closed Market |
 | Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay still Ch 26–27) |
 | Lupercalia diadem / *rex*/*regnum* fear | Ch 7 Diadem (crown’s cousin; three refusals) |
-| Galba / Ligarius / Casca / Trebonius first tags | Ch 7 Veiled Talk (winter; Africa pardon; ugly minute; Monday) |
+| Galba / Ligarius / Casca / Trebonius first tags | Ch 7 Veiled Talk (winter; Africa pardon; ugly minute; market-day) |
 
 ---
 
@@ -50,7 +50,7 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 | Need | Status |
 |------|--------|
-| Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (Monday; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
+| Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (market day; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
 | Basilus, Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 8–13). Tillius “brother’s exile on the tongue”; others one scrap each. |
 
 ### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or Ch 8–13 roster finish first)

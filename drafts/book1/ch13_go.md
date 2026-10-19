@@ -1,7 +1,7 @@
 # Chapter 13: GO
 
 **Phase 1D.4** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
-**Human-voice:** Ch 13 feel-pass (rules); GO choice + Trebonius Monday + Capua powder kept.
+**Human-voice:** Ch 13 feel-pass (rules); GO choice + Trebonius market-day + Capua powder kept.
 
 ---
 
@@ -33,7 +33,7 @@ Glaucia, Trebonius’s attendant, waited just inside polite earshot with the pat
 
 They parted with the clasp of men confirming a hunt, festival-brother hands still warm for anyone watching. Ten paces on, Trebonius’s mildness thinned for Glaucia alone. “If anyone asks, I am a bore with Gaul on my tongue. If anyone listens well, I am already tired of being the polite half of other men’s courage.”
 
-Glaucia’s mouth twitched. “Bores survive Mondays.”
+Glaucia’s mouth twitched. “Bores survive market days.”
 
 “Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practice a longer hold. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
 
@@ -144,4 +144,4 @@ They left the room separately. Outside, a baker’s boy argued ordinary March pr
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.
 - Chapter map updated to include SC-32.
 - **Anti-formula:** Census labels / Continuity-receipt roster speech / Capua-face gag strip; dramatic centre = GO choice under creditor cough + missing door-man.
-- **Human-voice (Ch 13):** one feel-pass — light breath on Pompey-stone / roster / Capua powder; hold GO, Monday, Capua unpaid, Ligarius blank, baker rumour.
+- **Human-voice (Ch 13):** one feel-pass — light breath on Pompey-stone / roster / Capua powder; hold GO, market-day, Capua unpaid, Ligarius blank, baker rumour.

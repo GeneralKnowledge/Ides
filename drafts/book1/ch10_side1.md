@@ -113,7 +113,7 @@ A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, 
 - F2 almost-recruit flinch (F3 set-piece).
 - **S-A1 / S2:** Seius pays non-conspirator social cost for soft-hour door-tapping (client notice + Seia Prima vinegar), city catching a cold.
 - F4 refuse softness; SIDE-1 body; tablets implicate Basilus orbit + Bucco; killer unknown (≥3 theories).
-- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as uninsured morning / invoice refuse (non-conspirator mouth; no Trebonius/Monday spoil), later-book pass: plant kept, atmosphere sermon cut.
+- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as uninsured morning / invoice refuse (non-conspirator mouth; no Trebonius/market-day spoil), later-book pass: plant kept, atmosphere sermon cut.
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.
 - Next: Ch 11 omens / Sibylline.
 - **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).
