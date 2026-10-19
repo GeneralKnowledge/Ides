@@ -1,7 +1,7 @@
 # Chapter 12: Dread / Fragment / Weather
 
 **Phase 1F** · SC-28, SC-29, SC-30 · lead-in to Ides week · NOTE-1 prep · AMB-1 · AMB-3
-**Human-voice pass:** surgical; near-catch + Caesar opacity kept.
+**Human-voice:** Ch 12 feel-pass (rules); near-catch + Caesar opacity kept.
 
 ---
 
@@ -17,7 +17,7 @@ Overhear risk: Nysa possible
 
 In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth: necessary, costly, not optional.
 
-The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition; once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
+The lesser nightmares did not yet collapse the pediment. They were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition. Once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
 
 Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn't meet her eyes too long. In the dressing-room the three of them made a temporary country: mistress, dresser, water-carrier, no Senate, only cloth and the question nobody said aloud. Pallas’s fingers paused at a pin. Nysa’s jug paused at the lip of the basin. Calpurnia caught both pauses the way she caught March cold through a curtain.
 
@@ -53,11 +53,11 @@ Overhear risk: She *is* the overhear
 
 Nysa was resetting a latch when the visitor’s attendant muttered.
 
-The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got the face clean) was in the atrium speaking cheerfully about schedules. Cheerful men blended into the walls in this house. He praised the household’s order loud enough for any door-slave to sell later as loyalty. The attendant, waiting with a cloak, answered with the smile attendants wore when masters performed friendship, then, to another cloak, soft enough that stone might miss it:
+The visitor himself, someone Decimus-shaped, or Trebonius-shaped; she never got the face clean, was in the atrium speaking cheerfully about schedules. Cheerful men blended into the walls in this house. He praised the household’s order loud enough for any door-slave to sell later as loyalty. The attendant, waiting with a cloak, answered with the smile attendants wore when masters performed friendship, then, to another cloak, soft enough that stone might miss it:
 
 “…not the consul, spare, no (friends first) danger, if he stays…”
 
-The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn't tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then (once the visitor’s cheerful back had turned toward the tablinum) muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
+The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn't tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
 
 She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends* · *spare?* · *stay / danger* · *consul?* Incomplete. Ugly. Misfiled even as she wrote it, she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
 
@@ -113,4 +113,4 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 - **Expansion D21:** Household mesh fringe, Dama/Phileros/Pallas-Nysa wants without Senate (chicken-court weather).
 - Next: Ch 13 GO night (+ SC-32).
 **1G:** soft future “night that would break her” cut; wax/dread not weather.
-
+- **Human-voice (Ch 12):** one feel-pass — open visitor/attendant parens; nightmare once/once breaths; hold near-catch, NOTE-1, Caesar weather opacity.
