@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–4 expansion (Thapsus/Utica/Cato / *salutatio* / Spain / Porcia–Servilia–Decimus).  
-**Method:** Same as Ch 1–4 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–5 expansion (through Octavian kin / Apollonia / Parthia clock).  
+**Method:** Same as Ch 1–5 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -19,7 +19,11 @@
 | Porcia = Cato’s daughter | Ch 4 Ancestors pressure |
 | Decimus = roads general; Cisalpine/Mutina next | Ch 4 Second Line |
 | Cleopatra / Caesarion Transtiberim | Ch 4 portico gossip (continued from Ch 1 plant) |
-| Will second-line / great-nephew plant | Ch 4 rumour (pays Ch 5 glance / Ch 18 will) |
+| Will second-line / great-nephew plant | Ch 4 rumour → Ch 5 glance |
+| Octavian = Gaius Octavius, Caesar’s great-nephew | Ch 5 temple steps |
+| Agrippa = farm-bred friend / drill (not cloak-stand) | Ch 5 steps + Apollonia |
+| Apollonia = distance with homework | Ch 5 SC-11 |
+| Parthia = eastern war clock (Crassus eagles / months east) | Ch 5 dust-route |
 
 ---
 
@@ -29,17 +33,15 @@
 
 Do not re-announce. Cassius remains Ch 1 slight only; soft-chain dinner callback already in Ch 4 Ancestors.
 
-### 2. Octavian (Ch 5) + later name stack (Ch 18) — **highest next**
+### 2. Octavian (Ch 5) — **paid** (name-path scrap deferred)
+
+Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 | Need | Earn in |
 |------|---------|
-| Great-nephew / kin Caesar glances at | Ch 5 temple steps: **one clear kin tag** when glance finds him |
-| Octavius → Octavian → Caesar (name path) | Ch 5 plant; Ch 18 will/heir **must not** read as five unrelated words — one prior scrap that adoption/name is paper Caesar can write |
-| Agrippa | Ch 5: already shoulder/drill; **one line** who he is to the boy (friend / drill / not cloak-stand) |
-| Apollonia | Ch 5: **place as distance+study**, not postcard name |
-| Parthia = eastern war clock | Ch 5 dust-route + **one plain “months east / before he leaves for Parthia”** so later GO clock is not jargon |
+| Octavius → Octavian → Caesar (name path) | **Deferred:** one prior scrap that adoption/name is paper Caesar can write — plant in Ch 6–17 orbit, not re-gloss in Ch 5 |
 
-### 3. Conspirator roster (Ch 7 / 13)
+### 3. Conspirator roster (Ch 7 / 13) — **highest next**
 
 | Need | Earn in |
 |------|---------|
@@ -82,11 +84,11 @@ Do not re-announce. Cassius remains Ch 1 slight only; soft-chain dinner callback
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–4.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–5.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–4 glossary already paid.  
+3. Do **not** reopen Ch 1–5 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 5 (Octavian kin / Parthia clock) → Ch 7 (*regnum* + early tags) → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir → roster tags pass on Ch 8/13 as needed.
+**Suggested order:** Ch 6 (*perpetuo* gloss) → Ch 7 (*regnum* + early tags) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir → roster tags pass on Ch 8/13 as needed.
 
 *End reader-earn gaps.*
