@@ -1,6 +1,7 @@
 # Chapter 19: Funeral and Cinna
 
 **M5 polish** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
+**Human-voice:** Ch 19 feel-pass (rules); surgical — cloth wrestle / Capua / wrong Cinna / NOTE-1 burn held.
 
 ---
 
@@ -23,7 +24,7 @@ Antony spoke as a consul speaks when he intends the words to settle in the Forum
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
 
-Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric, grief wanting a relic, the consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief. Too loose a grip and the cloth became theirs to tear into a hundred private wars.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. Grief wanting a relic. The consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief. Too loose a grip and the cloth became theirs to tear into a hundred private wars.
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
@@ -33,7 +34,7 @@ A second officer, younger, smelling of oil and ambition, spoke across him. “Le
 
 Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened: permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy.
 
-The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand toward the streets where Liberators kept doors: same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction. The enemy’s city had become the enemy. It was no longer waiting for his nod. The second officer was already too far forward to call back without looking afraid of his own heat.
+The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand toward the streets where Liberators kept doors: same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction. The enemy’s city had become the enemy. It was no longer waiting for his nod. The second officer was already too far forward to call back. Calling him would look like fear of his own heat.
 
 Teaching looked like smoke that had walked. The smoke did not ask which Monday had left him alive to aim it. It only asked whether the man with the cloth could still tell heat from a plan once the Forum had chosen fire.
 
@@ -64,11 +65,11 @@ Someone shoved a torch into Quintus the fuller’s hand. Quintus looked pleased,
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note. Capua unpaid had just learned it could walk without waiting for clerks.
 
-Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge: fuller wanting permission, household wanting water to stay water, Capua still unpaid in Laberius’s fist of air.
+Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge. Fuller wanting permission. Household wanting water to stay water. Capua still unpaid in Laberius’s fist of air.
 
 An older veteran, scar through the lip, no torch, caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” Laberius felt the cost change. Refusal had just priced him as the man who would not burn for unpaid land while other men burned for the same unpaid word. He did not argue. Argument would have been a second yes.
 
-By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke, and Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
+By dusk he knew the only Senate that mattered today was this crowd. The Capitol could keep its speeches. The street had voted with smoke. Laberius had voted, by refusal, to keep his name off the first fire-list while Capua’s unpaid date burned in other men’s hands.
 
 ---
 
@@ -126,7 +127,7 @@ The name travelled faster than faces.
 “The poet…”
 “Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius, not the praetor who had spat on the dead man’s name the day before, not the dagger, only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths, tribune in others. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name the day before. Not the dagger. Only a throat full of syllables.
 
 The mob didn’t do literary criticism.
 
@@ -148,7 +149,7 @@ Calpurnia, hearing the poet part later, closed her eyes. “They will write that
 
 “They will write it as crowd,” Nysa said, and then softened it, because softening was survival. “Or omen. People prefer omen.”
 
-She took the wax fragment from her tunic at last, looked at its incomplete warning, danger from friends, a consul spared in someone’s mutter, and set it on the charcoal until the letters drowned.
+She took the wax fragment from her tunic at last. She looked at its incomplete warning: danger from friends, a consul spared in someone’s mutter. She set it on the charcoal until the letters drowned.
 
 It changed nothing. That was why she could finally burn it.
 
@@ -168,3 +169,4 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 **M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
 - Funeral/Cinna, humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.
 - **Human-voice:** thinned donative *as if* stack / surge parentheticals; softened “without a gag” craft label; held cloth wrestle, pyre→doors, Capua refusal, wrong Cinna, NOTE-1 burn.
+- **Human-voice (Ch 19):** one surgical feel-pass — cloth wrestle / call-back heat / three-lives / dusk vote / Helvius not / wax burn breaths; hold Capua refusal, pyre→doors, wrong Cinna, NOTE-1 true burn.
