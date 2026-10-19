@@ -2,7 +2,7 @@
 
 **Phase 1D.4** · SC-20, SC-21 · post-Lupercalia · FT3 · A4
 **S-A0:** group persuade Brutus; exit-complaint; audible humour
-**Human-voice pass:** surgical; costly inch + shoulder-touch debt kept.
+**Human-voice:** Ch 8 feel-pass (rules); costly inch + shoulder-touch debt kept.
 
 ---
 
@@ -18,9 +18,9 @@ Overhear risk: Medium
 
 Cassius treated the Lupercalia as proof the disease had symptoms in daylight.
 
-The diadem had been offered, refused, offered again, theatre that left his mouth dry and metallic. In the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius didn't argue. Argument was for men who still believed the Forum could vote a fever down.
+The diadem had been offered, refused, offered again, theatre that left his mouth dry and metallic. In the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius didn't argue. The Forum would not vote a fever down.
 
-He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next, gratitude was a door that opened from the inside. The Appian shortlist’s edges after that: men who hated the calendar of forever offices, men who still smelled Pharsalus on their clothes, men who smiled too hard at Caesarian dinners.
+He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the Appian shortlist’s edges. Men who hated the calendar of forever offices. Men who still smelled Pharsalus on their clothes. Men who smiled too hard at Caesarian dinners.
 
 A clerk hovered with a tablet about a boundary dispute in some dull estate. Cassius took it, read nothing, handed it back.
 
@@ -34,7 +34,7 @@ Ser. Galba came at the hour Cassius had named, not early, not late, the etiquett
 
 “I saw a joke that forgot it was a joke,” Galba answered.
 
-Cassius watched Galba’s hands, no cup, no fidget, one ring turned once and stopped. “We need men who can stand in a room and finish what a petition starts.”
+Cassius watched Galba’s hands: no cup, no fidget, one ring turned once and stopped. “We need men who can stand in a room and finish what a petition starts.”
 
 Galba’s mouth tightened. Not refusal. Calculation. “And Brutus?”
 
@@ -42,7 +42,7 @@ Galba’s mouth tightened. Not refusal. Calculation. “And Brutus?”
 
 A slave crossed the far end of the portico with a basket. Both men spoke for a breath about rain. The basket passed.
 
-Galba did not leave clean. He took from his sleeve a small note (wax already soft from being carried too long) and held it where Cassius could see the seal of a Caesarian patron who still paid Galba’s brother’s grain debts.
+Galba did not leave clean. He took from his sleeve a small note, wax already soft from being carried too long, and held it where Cassius could see the seal of a Caesarian patron who still paid Galba’s brother’s grain debts.
 
 “If I tap doors for you,” Galba said, quiet, “this man hears a silence where my gratitude used to live. He will not forgive silence. He will call in the brother’s debt before the next Kalends.”
 
@@ -80,7 +80,7 @@ Overhear risk: High (Servilia); household
 
 ---
 
-Porcia had gone to bed with a headache that sat behind the eyes like watchfulness. The masks on the wall did what they always did, judged without moving. Servilia remained at the dining room’s edge, wine untouched.
+Porcia had gone to bed with a headache that sat behind the eyes like watchfulness. The masks on the wall did what they always did: judged without moving. Servilia remained at the dining room’s edge, wine untouched.
 
 Cassius arrived with P. Servilius Casca on the threshold as if they had met by chance. They had not. Cassius wanted a second voice so Brutus could not turn the evening into a private essay.
 
@@ -128,7 +128,7 @@ In the lane, once the door’s lamp was a coin behind them, Casca exhaled. “He
 
 “And if he only ‘hears’ until Parthia?”
 
-Cassius glanced back at the door as if it might still be listening. “Then we cut without the brand, and the city calls us what we are. Prefer the brand. Prefer the insomnia. Prefer anything but his dinners.”
+Cassius glanced back at the door. It might still be listening. “Then we cut without the brand, and the city calls us what we are. Prefer the brand. Prefer the insomnia. Prefer anything but his dinners.”
 
 Casca snorted, then covered it with a cough for a passing watchman. “Insomnia as patriotism. You should sell that to Hordeonius. He’d put a rate on it.”
 
@@ -149,3 +149,4 @@ He slept little. When he did, the Forum would not stop cheering, and a crown kep
 - Next: Ch 9 Decimus + spare Antony.
 - **Law-sweep:** Group room ≥3 (Cassius/Casca/Servilia/Brutus); Galba→Ligarius exit-complaint; Casca humour + insomnia rate; costly inch not clean yes; Galba winter / Casca doors plants.
 - **Golden-read P1:** “Debt” thins against ordinary-table closeness / shoulder-touch, friend-door knife weight.
+- **Human-voice (Ch 8):** one feel-pass — open wax paren; break Appian catalogue; thin a few was-how/as-if hedges; hold costly inch, seal tear, shoulder-touch.
