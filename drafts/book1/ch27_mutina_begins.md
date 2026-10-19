@@ -1,6 +1,7 @@
 # Chapter 27: Mutina Begins
 
 **Phase 1D.1** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
+**Human-voice:** Ch 27 feel-pass (rules); Mutina parley refuse / OCT sword / Agrippa stillness held.
 
 ---
 
@@ -20,7 +21,7 @@ They met where the ditch stank of melt and horse and the kind of truce that last
 
 Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 
-Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old optics habit, as if cheer could still open a morning.
+Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old optics habit. Cheer might still open a morning. It might not.
 
 “Last talk,” Antony said, not loud. Loud was for walls. “Yield Mutina. Keep your skin. I take the province the consul needs. You take a road south that isn’t a grave.”
 
@@ -42,7 +43,7 @@ They parted without clasping. The truce ended when the first boot left the ditch
 
 “He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed, then didn’t. Laughing in a ditch after refusing winter was how men became other men’s stories.
 
-That night a courier brought Plancus’s newest courtesy: admiration for Mutina’s hinges, regret that his own columns were “not yet free to join,” a promise dated after a thaw that had not begun. Decimus set the tablet under the same stone as Antony’s old threats. Plancus’s courtesy weighed like another empty sack when the smoke count was already short.
+That night a courier brought Plancus’s newest courtesy: admiration for Mutina’s hinges, regret that his own columns were “not yet free to join,” a promise dated after a thaw that had not begun. Decimus set the tablet under the same stone as Antony’s old threats. Plancus’s courtesy weighed like another empty sack. The smoke count was already short.
 
 ### Antony
 
@@ -58,7 +59,7 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “Until then we eat carefully and count hinges,” Decimus said.
 
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now: the face that had counted his smoke.
+He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
 
 ---
 
@@ -78,9 +79,9 @@ Cicero argued Octavian into usefulness the way he argued clauses into laws. Cice
 
 Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone.
 
-Agrippa stood where the Curia fringe still smelled of wet wool and ambition, close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina, and far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
+Agrippa stood where the Curia fringe still smelled of wet wool and ambition. Close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina. Far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments, Decimus holding, Antony digging, Pacuvius still hungry for storm, stayed unmerged in Octavian’s hand. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
 
 ---
 
@@ -94,3 +95,4 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 - Parley grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe aiming Octavian.
 - **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.
 - **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.
+- **Human-voice (Ch 27):** one feel-pass — cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.

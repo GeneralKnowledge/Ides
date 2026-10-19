@@ -2,6 +2,7 @@
 
 **M5 polish** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off
 **Place:** Curia Pompeia / Forum–Subura streets
+**Human-voice:** Ch 16 feel-pass (rules); surgical peak — knives / kai su / Monday corridor / false Antony held.
 
 ---
 
@@ -20,7 +21,7 @@ In Pompey’s Curia the marble held last night’s cold. Cassius counted exits t
 
 One door. Too many togae. Pompey’s statue at the far end of the room, enemy’s face in marble, watching. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence.
 
-Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself: the slight turn, the listening face, the clemency brand still wet on the Republic’s memory.
+Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency brand still wet on the Republic’s memory.
 
 *Now,* Cassius thought, not as prayer. Prayer was Brutus’ department.
 
@@ -32,7 +33,7 @@ Publius Casca struck at neck and shoulder, the awkward angle of a first wound ma
 
 Cassius moved.
 
-He didn't see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills, a body that might yet stand up and make this morning a botched thing. Cassius’ blade went in where flesh allowed it. Heat ran over his knuckles.
+He didn't see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills. A body that might yet stand up and make this morning a botched thing. Cassius’ blade went in where flesh allowed it. Heat ran over his knuckles.
 
 Around him the room became teeth.
 
@@ -85,7 +86,7 @@ Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cass
 
 In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s Monday. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him, not the abstract debt, the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body *tyrant*. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now. It was a clock. The crush did not empty him. It only made room to walk.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body *tyrant*. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now. It was a clock. The crush did not empty him. It only made room to walk.
 
 “Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 
@@ -110,7 +111,7 @@ Overhear risk: She is the overhear
 
 ---
 
-Nysa hadn't meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.” News was not a fishmonger’s tray. It still drew a crowd.
+Nysa hadn't meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.” News was not a fishmonger’s tray. It still drew a crowd anyway.
 
 She was still on the edge of the Campus crowd when the Curia began to spit men.
 
@@ -131,13 +132,13 @@ Nysa’s mouth moved before her caution did. “Antony is dead?”
 
 “Dead as the dictator,” the first freedman said, happy to be source. “Tell them in the Subura before the bakers’ rumour cleans it.”
 
-She ran because standing still made you a witness, and witnesses were questioned. The wax fragment under her tunic knocked against her ribs like a second heart that had failed earlier and wanted usefulness now.
+She ran because standing still made you a witness, and witnesses were questioned. The wax fragment under her tunic knocked against her ribs. A second heart that had failed earlier and wanted usefulness now.
 
 In a street that smelled of garum and wet stone she told a woman with bread under her arm, “They have killed Caesar, and Antony.”
 
 The woman clutched the bread. “Both?”
 
-“Both,” Nysa said, and felt the story settle into the city like dust. She didn't know if it was true. Such stories travelled on the legs of people who thought they were being precise.
+“Both,” Nysa said, and felt the story settle into the city like dust. She didn't know if it was true. She thought she was being precise. That was how such stories travelled.
 
 By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella and, somehow, a list. Lists always arrived early in panics. Lists made fear feel organised.
 
@@ -159,3 +160,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 **M5 polish:** header pass; last-words ambiguity held (AMB).
 - **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
 - **Human-voice:** flattened storm/ancestors parentheticals; broke crush multi-clause; thinned ornate *as if*; Cassius corridor truth left intact.
+- **Human-voice (Ch 16):** one surgical feel-pass — patience catalogue / Gaul-body / crush open / wax-ribs / story thesis; hold knives, kai su, Monday corridor, false Antony.

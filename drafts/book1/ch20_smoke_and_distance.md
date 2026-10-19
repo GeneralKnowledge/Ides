@@ -3,6 +3,7 @@
 **M5 polish** · SC-52, SC-53, SC-54 (+ SC-54b echo)
 **Canon:** EXIT-1 seed · CLEO-1 · A8 · SERIES hooks only
 **Dates:** late March 44 → days after Ides (OCT track delayed)
+**Human-voice:** Ch 20 feel-pass (rules); light trough — EXIT-1 / CLEO-1 / OCT delayed held.
 
 ---
 
@@ -17,13 +18,13 @@ Overhear risk: Clients
 
 ---
 
-Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet rot of a smashed oil jar. Beyond the immediate wreck a wider smoke stood toward the Tiber and dirtied the March light. Rumour alone could make the river’s green claims look like they were burning. A client met him with both hands empty and both eyes apologising. A steward hovered with a half-burned inventory tablet. A door-slave still held a bucket, as if water could renegotiate veterans. The ruin wanted to be a house and would not be one again tonight.
+Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet rot of a smashed oil jar. Beyond the immediate wreck a wider smoke stood toward the Tiber and dirtied the March light. Rumour alone could make the river’s green claims look like they were burning. A client met him with both hands empty and both eyes apologising. A steward hovered with a half-burned inventory tablet. A door-slave still held a bucket. Water would not renegotiate veterans. The ruin wanted to be a house and would not be one again tonight.
 
 “They came for the door, not even for you,” the client said. “The door was enough.”
 
 The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn.
 
-A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions, one pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
+A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions. One pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
 Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
@@ -45,7 +46,7 @@ Brutus looked at the broken street. “Then do not ask me to bless the nearer kn
 
 He left before philosophy answered, forearm clasp still warm. East was already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read *yet* twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back, and left Decimus holding the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read *yet* twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
 
 ---
 
@@ -72,7 +73,7 @@ Overhear risk: Court medium
 
 Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash, same dirty March light standing over the Tiber that elite streets were breathing as pitch. Same lesson: a queen without a living Roman guarantor was a story other people finished. Romans had been finishing hers at dinner long before the knives.
 
-She stood in the garden villa across the Tiber, Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills, and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred a departure with an hour attached. The smoke did not ask which side of the river owned it.
+She stood in the garden villa across the Tiber, Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills. She watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred a departure with an hour attached. The smoke did not ask which side of the river owned it.
 
 A Roman clerk from the house’s new legal weather arrived mid-morning with a polite face and an impolite list. Crates for the river would be “inspected for the people’s interest.” He smiled with inventory in his eyes, the smile she had already met secondhand in every Transtiberim joke about queens, children, and half-hours on roads.
 
@@ -102,7 +103,7 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city, her face in Roman metal, and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city, her face in Roman metal, and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
 
 ---
 
@@ -131,15 +132,15 @@ The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises.
 
 He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
 
-They had been going in to dinner when the man found them, a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side, Maecenas’s quieter sort of attention on the other, companions enough that bad news had to choose a face.
+They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side, Maecenas’s quieter sort of attention on the other, companions enough that bad news had to choose a face.
 
-“Caesar,” the man said, and then the rest came broken: knives, Senate, Pompey’s place, Brutus, blood, the city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. Smoke in the report, too. Houses. Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
+“Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. Smoke in the report, too. Houses. Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
 
 Octavian felt the floor drop, the childish, humiliating sense that the adult arrangement of the world had been a prop. Then the colder part: who benefits, who moves, who lies in the first report.
 
 “Names first,” he said. “Then places. Separate what you saw from what the road invented.”
 
-The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, the unfinished questions had already boarded the same weather.
+The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, the unfinished questions had already boarded the same weather anyway.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 
@@ -170,3 +171,4 @@ Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capita
 
 **Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds (now inside SC-54).
 **M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.
+- **Human-voice (Ch 20):** one light trough feel-pass — bucket as-if, dream versions, Lepidus receipt, Cleo pack/who-finishes, courier broken list; hold EXIT-1, CLEO-1, OCT delayed, Plancus *yet*.

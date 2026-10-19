@@ -58,6 +58,15 @@ def git_short() -> str:
         return "unknown"
 
 
+def git_branch() -> str:
+    try:
+        return subprocess.check_output(
+            ["git", "branch", "--show-current"], cwd=ROOT, text=True
+        ).strip() or "detached"
+    except Exception:
+        return "unknown"
+
+
 def chapter_files() -> list[tuple[int, Path]]:
     out = []
     for p in sorted(DRAFTS.glob("ch*.md")):
@@ -217,13 +226,14 @@ def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]])
 def main() -> None:
     EXPORTS.mkdir(exist_ok=True)
     sha = git_short()
+    branch = git_branch()
     all_ch = [parse_chapter(p) for _, p in chapter_files()]
     assert [n for n, _, _ in all_ch] == list(range(1, 35)), "Expected chapters 1–34"
     assert_reading_clean(all_ch)
 
     label = (
         "Book 1 reading export · dinner-first opening · ends at Philippi · "
-        f"author-voice (no em dash) · main @ {sha}"
+        f"author-voice (no em dash) · {branch} @ {sha}"
     )
 
     full = build_doc(
@@ -231,7 +241,7 @@ def main() -> None:
         subtitle="Book 1: FULL Review Draft (Chapters 1–34)",
         banner="THIS FILE CONTAINS ALL 34 CHAPTERS · OPENS WITH CHAPTER 1",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: main @ {sha} · chapters 1–34",
+        source_note=f"Source: {branch} @ {sha} · chapters 1–34",
         end_line="* End of Book 1 full review export *",
     )
     full_path = EXPORTS / "Ides_Book1_FULL_Ch01-34.docx"
@@ -245,7 +255,7 @@ def main() -> None:
         subtitle="Book 1: Golden Sample ONLY (Chapters 14–19)",
         banner="SAMPLE ONLY · STARTS AT CHAPTER 14 · NOT THE FULL BOOK",
         blurb="Stand-alone sample · Ides through funeral\n" + label,
-        source_note=f"Source: main @ {sha} · chapters 14–19 only",
+        source_note=f"Source: {branch} @ {sha} · chapters 14–19 only",
         end_line="* End of golden chapters sample *",
     )
     golden_path = EXPORTS / "Ides_Book1_Golden_Chapters.docx"
