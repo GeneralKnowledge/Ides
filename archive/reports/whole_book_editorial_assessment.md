@@ -28,7 +28,7 @@ The remaining weaknesses are **predominantly stylistic and local**, not structur
 | Ch 1–6 | Yes, after early camera churn | Soft-chain / street / Spain / forever establish want; ensemble fog is real but sticky |
 | Ch 7–13 | Strong | Diadem locks the book; seal, body, spare, GO interrupt talk with action |
 | Ch 14–19 | Peak | House dread → knives → Capitol without joy → will → funeral as street vote |
-| Ch 20–23 | Soft but continuous | Post-funeral decompression; #61 improved gravity/register; Ch 22 lifts; Ch 23 quietest |
+| Ch 20–23 | Soft but continuous | Post-funeral decompression; #61 improved gravity/register; consequential more than reflective (see § Post-Ides check); Ch 22 mid-band peak; Ch 23 quietest |
 | Ch 24–34 | Strong close | Antium lock → Decimus ordeal → lists → Formiae → INF death → Philippi fog + Italy dirt |
 
 The plot does not strand the reader. Consequences persist: spare Antony stores funerals; Decimus’s open hand stores the ford; Cassius’s trust in numbers stores the INF death; will leak prepays the Forum throat; Capua unpaid stores Italian dirt at the end.
@@ -81,6 +81,67 @@ What stays character-true and must not be scrubbed into sameness:
 
 ---
 
+## Post-Ides band (Ch 20–23): reading-experience check
+
+**Process note:** Do **not** launch another targeted revision of Chapters 20–23. After #61 the band is coherent enough to assess as a complete section. Some compressed, aphoristic phrasing remains; that is not a reason to start removing lines simply to eliminate every sentence of that kind. The question that matters is whether the reading experience changed.
+
+Assessment below is from the live chapter files on `main` @ `a4e3499` (post-#61 text).
+
+### Does the post-Ides section now feel like a sequence of consequential events rather than a series of reflective scenes?
+
+**Mostly yes — consequential sequence with residual soft texture, not a reflective trough-only.**
+
+What lands as event (not essay):
+
+| Chapter | Consequence that moves the board |
+|---------|----------------------------------|
+| 20 | Door burned; Decimus/Brutus nearer-knife vs east split; Plancus grain *yet* → empty road where wagons should be; Lepidus messenger will not dismount or take a return tablet; Cleopatra pays sandal inspection and refuses Cicero-books delay; Octavian gets incomplete death news and asks for names first |
+| 21 | Cicero files wine-shop underestimation of the boy as sport; Brutus returns purse unopened; refuses municipal seal on a “liberty” line; same evening, neighbouring-town clients turn back — brand becomes local absence |
+| 22 | Name accepted aloud (“Caesar”); courtyard flinches; elders update sport to weeks-until-cheap; Antony laughs the boy off and leaves the veteran’s pay-door warning unopened |
+| 23 | Acts priced as market; Domus seals emptied (Nysa’s flask want fails); Seius refuses petition signature and loses Quintus’s goodwill + mule |
+
+Reflective residue still exists (Cleopatra’s night walk; Brutus’s gravel/Cato hedges; Octavian’s stolen terrace shake; Hordeonius’s neat-entry almost-smile). Those beats colour cost; they do not replace the causal chain. Ch 23 remains the quietest mosaic in the band — that is tempo, not a return to pure reflection.
+
+**Verdict:** The band now reads as a sequence of consequential exits and refusals that hand Engine B forward. It is still a soft mid-book decompression relative to Ch 14–19, but it is no longer primarily a gallery of reflective scenes.
+
+### Does Decimus’s isolation develop naturally toward his later position?
+
+**Yes.**
+
+Ch 20 stages isolation as logistics, not speech: the street smells of pitch aimed at the door; Brutus will not bless the nearer knife; Plancus’s soft *yet* leaves an empty road; the Lepidus channel returns a messenger who will not take a second tablet; Decimus folds both silences into the map-case until wax bites his thumb. That is the same man who will later hold Cisalpine alone — ally-evaporation seeded as receipt-with-no-goods before Mutina’s empty road. The arc toward ordeal/ford does not need a new bridge scene here.
+
+### Do Brutus’s principles feel increasingly costly rather than merely admirable?
+
+**Yes, in this band — cost is social and same-evening, not motto-only.**
+
+Lanuvium still has garden and ink weather, but the priced beats are behavioural: purse returned unopened (client leaves without clasp); blank tablet refused as guarantor-roof; steward’s market report that two clients already turned back because the house will not shield them; “fewer doors that would open if he knocked.” Principles that once sounded like brand (immortality vs peace, Liberty weight as gift/joke) now cost invitations and local availability. Admiration remains in the air; the chapter makes the reader feel the invoice.
+
+### Does Seius’s choice register as a real social loss?
+
+**Yes.**
+
+SC-66 is no longer flinch-as-proverb. Quintus demands a fourth signature after the cousin’s clasp; Seius refuses; by morning the petition has four names without him; Quintus tells the baker’s corner and asks Seia, within earshot of neighbours, whether honest men still share tools with cowards; Seius cancels near dinners and counts faces that would still lend a mule — “smaller by one: Quintus gone from the count.” Household survival is purchased as spent goodwill. That registers as social loss.
+
+### Does Chapter 22 still provide a clear peak in the middle of this sequence?
+
+**Yes — clear mid-band peak.**
+
+The courtyard greeting (“Caesar” spoken aloud), the room-temperature flinch, Agrippa’s “Late to drill, then, Caesar,” and Antony’s Ops-side underestimation (squeak/shadow; veteran warning unpaid) give Ch 22 a decisive Engine-B lock that Ch 21’s confinement and Ch 23’s street-price mosaic cannot match. Elders’ sport updating from *whether* to *how many weeks* keeps the underestimation engine live without stealing the peak. Do not flatten Ch 22 to “match” the quieter neighbours.
+
+### Post-Ides check — editorial conclusion
+
+| Question | Answer |
+|----------|--------|
+| Consequential vs reflective? | Consequential sequence with soft residue; not reflective-only |
+| Decimus isolation natural? | Yes — ally silence and empty road seed later alone-ness |
+| Brutus principles costly? | Yes — purse, seal, same-evening unavailable |
+| Seius social loss real? | Yes — baker’s corner + mule off the list |
+| Ch 22 mid-band peak? | Yes — protect; do not sand down |
+
+**Do not reopen Ch 20–23 for another targeted pass.** Aphoristic leftovers that survive #61 are optional polish for a later whole-book hygiene decision only, not a reason to reopen this band.
+
+---
+
 ## 3. What is genuinely worth changing next?
 
 ### Essential (needed to make the book work)
@@ -114,6 +175,7 @@ These improve polish. They are not required to validate the novel’s spine.
 - SIDE-1 ash left open; Italy dirt sequel hooks  
 - Hordeonius rate-sheet when he owns it  
 - Baker as rumour mill (no conspiracy redesign)  
+- **Ch 20–23 as a band** — no further targeted trough/register pass; assess as complete; do not hunt residual aphorisms line-by-line  
 - Ch 1–3 polish wars without a new concrete whole-book reason  
 - Any new audit framework, test suite, or mid-book redesign  
 
@@ -149,11 +211,12 @@ This does **not** claim commercial certainty. It claims the manuscript, as it st
 
 ## Next recommended action (one)
 
-**Do not launch another revision pass.**
+**Do not launch another revision pass.**  
+**In particular: do not launch another targeted revision of Chapters 20–23.**
 
 1. Regenerate the FULL reading DOCX from current `main` if the author’s file is older than `a4e3499`.  
 2. Complete (or commission) one uninterrupted full cold read of that DOCX.  
-3. Only after that read: either **leave the manuscript alone**, or authorise **one** bounded stylistic hygiene pass with named chapters and a hard stop — not a new programme of audits.
+3. Only after that read: either **leave the manuscript alone**, or authorise **one** bounded stylistic hygiene pass with named chapters and a hard stop — not a new programme of audits, and not a Ch 20–23 reopen driven by leftover aphorisms.
 
 Completion criterion for “done enough”: the cold reader can describe why they kept reading through Ides and Philippi, and does not invent a missing protagonist or demand Philippi expansion.
 
