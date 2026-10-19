@@ -1,7 +1,7 @@
 # Chapter 5: Edge of the Ceremony
 
 **S-A2 dwell** · SC-10 → SC-11 continuous · 45–early 44 · FS01–03 · G1
-**Human-voice:** Ch 5 pass 2; furniture/shadow ban + wrong chest held; residual formal captions thinned.
+**Human-voice:** Ch 5 pass 3; furniture ban + wrong chest held; composed mid-band thinned again.
 
 ---
 
@@ -18,11 +18,11 @@ Overhear risk: Low–N/A
 
 On the temple steps above the Forum, heat came off the stone into Octavian’s thin shoes. He stood where important men’s shadows fell. He tried to look like he belonged in the shade, not the list.
 
-Priests did their work without hurry. Senators performed for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. He listened more than he spoke. Without legions, he borrowed maps with his ears.
+Priests did their work without hurry. Senators performed for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. He kept quiet and listened. He had no legions. He took what he could from other men’s talk.
 
 Caesar’s glance found him once. Quick. Not cruel. Not enough. Octavian held still. When the glance moved on, he breathed. He didn't look at Agrippa. Looking would have spent it.
 
-Agrippa at his shoulder said nothing. Apollodorus fidgeted behind them with the cloaks. He wanted Octavian larger than the hour allowed.
+Agrippa stood at his shoulder and said nothing. Apollodorus fidgeted behind them with the cloaks. He wanted Octavian larger than the hour allowed.
 
 “They don’t know your name yet,” Agrippa murmured.
 
@@ -30,19 +30,19 @@ Agrippa at his shoulder said nothing. Apollodorus fidgeted behind them with the 
 
 A senator’s attendant brushed past and apologised to Agrippa by mistake. Octavian said nothing. Speak up and you look hungry for space. A moment later the same attendant returned with a reserved place nearer the rail, meant for Caesar’s kin, and offered it to Agrippa again. His eyes skipped Octavian the way they skipped a cloak-stand. Agrippa didn't take the place. He tipped his chin toward Octavian. The attendant scowled, wiped it blank, and bowed late.
 
-Octavian stepped into the gap anyway. The stone was hotter here. The attendant’s arm blocked him a half-breath too long, then fell away without apology. From here he could see who watched Caesar, who watched money, and who only watched themselves. When the ceremony ended he was still nobody in public. In his head the reserved place already sat next to the wrong chest.
+Octavian stepped into the gap anyway. The stone was hotter here. The attendant’s arm blocked him a half-breath too long, then fell away without apology. From here the Forum sorted itself: Caesar’s people, money’s people, and the ones only watching their own faces. When the ceremony ended he was still nobody in public. In his head the reserved place already sat next to the wrong chest.
 
-That unfinished count followed him off the steps. Rome’s dinners still didn't know his name. Packing lists did. Within days the same thin shoes stood on ship plank instead of temple stone. The wrong chest became a joke Agrippa would not finish aloud. Apollonia was not a reward. It was distance, and work.
+That count stayed with him off the steps. Rome’s dinners still didn't know his name. Packing lists did. Within days the same thin shoes stood on ship plank instead of temple stone. Agrippa started a joke about the wrong chest and never finished it. Apollonia was not a reward. It was distance, and work.
 
 On the Illyrian coast he studied war the way other boys studied for someone else’s exam.
 
-Agrippa drilled until sweat made honesty cheaper than speech. Octavian’s body complained. He kept quiet. Talk of weakness became other men’s tool. He asked about supply. About winds. About what older officers feared when they joked about the East. He made the questions sound younger than the sums behind them.
+Agrippa drilled hard. Sweat did more than talk. Octavian’s body hurt. He kept quiet. Say you are weak and someone uses it. He asked about supply. About winds. About the East jokes the older officers made when they were afraid. He kept the questions sounding younger than the sums behind them.
 
-Those officers brightened at Parthia talk. Months east. Glory. The map widening. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian copied the erased lines before the boot finished. Then he looked at the sea until Agrippa looked too. Rome’s dinners and this packing list never shared a shore.
+Those officers lit up when the talk turned to Parthia. Months east. Glory. Wider maps. One sketched a route in dust with a stick and erased it with his boot, laughing. Octavian copied the erased lines before the boot finished. Then he looked at the sea until Agrippa looked too. Rome’s dinners and this packing list never shared a shore.
 
 “When he calls us,” Agrippa said once. He meant Caesar.
 
-“When he calls,” Octavian agreed. He almost added something colder about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust route, the wind, Agrippa’s stubborn loyalty, the attendant’s late bow. He filed them with the early names that get spent.
+“When he calls,” Octavian agreed. He almost added something colder about mouths and mornings, then bit it off. He kept the rest to himself: the dust route, the wind, how stubborn Agrippa was, the late bow. Early names get spent. He did not mean to spend these.
 
 An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled politely. He left the nickname alone.
 
@@ -56,11 +56,11 @@ Octavian’s polite smile thinned to nothing. “Don’t.”
 
 Agrippa’s mouth twitched, caught, not cruel. “Noted. No shadows. Only drill.” He paused. “Though you do look like a boy arguing with the sun.”
 
-Octavian almost laughed, then turned it into a cough so the older men would not own the sound. “Keep close,” he said, still awkward with warmth.
+Octavian almost laughed. He turned it into a cough. The older men would have owned a laugh. “Keep close,” he said, still awkward with warmth.
 
-They drilled again. The erased dust-route settled into his legs the way it had settled into his head. An officer asked whether the boy would last a month east. Agrippa answered with water and another lap. Clearer than a speech. Octavian did not thank him in front of the men. Not here.
+They drilled again. The erased dust-route was in his legs now, not only his head. An officer asked whether the boy would last a month east. Agrippa answered with water and another lap. No speech needed. Octavian did not thank him in front of the men. Not here.
 
-Before sleep they shared a heel of bread Agrippa had bullied from a cook who respected fists more than kin names. No officers. No Parthia sticks in dust. Just stolen calories, and Agrippa’s rule said twice without theatre: no shadows between them. Octavian almost said thank you. He didn't. He bumped Agrippa’s shoulder back, clumsy, almost play, and lay down sore and young and unfinished, as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of the reserved place offered to the wrong chest. Then of missing a drill step, and men whose names he needed laughing at him. Same fear. Different shapes.
+Before sleep they shared a heel of bread Agrippa had bullied from a cook who respected fists more than kin names. No officers. No Parthia sticks in dust. Just stolen calories, and Agrippa’s rule said twice without theatre: no shadows between them. Octavian almost said thank you. He didn't. He bumped Agrippa’s shoulder back, clumsy, almost play, and lay down sore and young and unfinished, as far from Senate heat as the sea allowed. He didn't dream of crowns. He dreamed of the reserved place offered to the wrong chest. Then of missing a drill step, with men he needed laughing at him. Same fear twice.
 
 ---
 
@@ -74,4 +74,4 @@ Before sleep they shared a heel of bread Agrippa had bullied from a cook who res
 - **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.
 - **Expansion D18:** Apollonia ordinary, shared bread + soft-name ban lived as friendship behaviour (not caption).
 - **Golden-read P2:** Open on temple steps / Forum heat before invisibility thesis.
-- **Human-voice (Ch 5 pass 2):** cut gods-professionally / Not-unkind triad / shown-need / same-inventory captions; held furniture ban, wrong chest, Agrippa drill.
+- **Human-voice (Ch 5 pass 3):** thinned maps-with-ears / who-watched catalogue / filed-loyalty list / cough-own-the-sound / Different-shapes; held furniture ban + wrong chest.
