@@ -3,6 +3,7 @@
 **M5 polish** · SC-48, SC-49
 **Canon:** A6 · FS05 · FS21 · SIDE-1 echo · HUMOR-1 medium (F4) · TONE-1
 **Dates:** ~18 March 44 (will opened / leaked) per soft chronology
+**Human-voice:** Ch 18 feel-pass (rules); surgical — will clauses / Hordeonius stool / Decimus second-line held.
 
 ---
 
@@ -25,7 +26,7 @@ A man asked whether amnesty meant he could stop paying. Hordeonius tapped the in
 
 A junior senator (Seius’ type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
 
-Rumour arrived in stacks: Octavius, Octavian, boy, heir, adoption, three hundred sesterces a head, gardens across the river, Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
+Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
 “Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
 
@@ -77,15 +78,15 @@ Overhear risk: Extreme once leaked
 
 ### Movement A: Antony
 
-Antony watched the seal break in his own house, Piso’s request, Vestals’ custody until now, with the patience of a man watching a door that might hide either a feast or a knife.
+Antony watched the seal break in his own house. Piso’s request. Vestals’ custody until now. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
-Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a banker with onion-and-money breath told a client that gardens would move leases whether the seal was holy or not; a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops; a junior appetite laughed that Decimus’s second line would make knife-men into punchlines. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
+Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a banker with onion-and-money breath told a client that gardens would move leases whether the seal was holy or not. A widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A junior appetite laughed that Decimus’s second line would make knife-men into punchlines. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
 
-The main lines came out like blows dressed as clauses: young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit; Pinarius and Pedius splitting the remaining fourth like polite afterthoughts; the people remembered with gardens by the Tiber and three hundred sesterces a head; secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch.
+The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Pinarius and Pedius splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch.
 
 Antony laughed once, short. Not mirth. Recognition.
 
-“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it, loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
+“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
 What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts, thin shoes, Atia’s caution, a paper son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
@@ -111,7 +112,7 @@ Phileros, hearing the same news at the vestibule, whispered, “The house will b
 
 Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 
-In the street the clauses mutated before sundown: the sum grew; the gardens acquired fountains; the boy acquired a future other people tried to sell as fate, Nysa didn’t buy. Futures were what rich men sold to each other when they were bored.
+In the street the clauses mutated before sundown. The sum grew. The gardens acquired fountains. The boy acquired a future other people tried to sell as fate. Nysa didn’t buy. Futures were what rich men sold to each other when they were bored.
 
 She kept her incomplete wax. It had become a relic of a morning when paper still might have mattered differently.
 
@@ -132,3 +133,4 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 **Edit pass 1 / read-through:** holds. Will / markets / Decimus irony intact.
 **M5 polish:** TODO_EDITOR cleared; destiny→street-fate sell softened.
 - **Human-voice:** repaired broken gardens/queen parenthetical; flattened seal/SIDE-1 asides; thinned *as if* stack; Decimus second-line irony held.
+- **Human-voice (Ch 18):** one surgical feel-pass — rumour stacks / seal open / fringe / main lines / Decimus love / street mutate breaths; hold Hordeonius stool, SIDE-1 fizzle, Decimus second-line, boy price.
