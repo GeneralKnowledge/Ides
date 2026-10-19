@@ -16,7 +16,7 @@ Overhear risk: Letter couriers
 
 Cicero wrote as other men breathed, until the room filled and writing had to wait on mouths.
 
-The tablet under his palm was still warm from the last courier’s bag when a second courier arrived dusty, and a neighbour with a taste for Athens arrived thirsty, and Fundi’s shade became a small Forum with worse wine. Wax took fingerprints. Cicero liked that (proof that news had a body before it became opinion) but bodies arguing in one room beat stacked tablets for truth’s temperature.
+The tablet under his palm was still warm from the last courier’s bag when a second courier arrived dusty, and a neighbour with a taste for Athens arrived thirsty, and Fundi’s shade became a small Forum with worse wine. Wax took fingerprints. Cicero liked that: proof that news had a body before it became opinion. Bodies arguing in one room beat stacked tablets for truth’s temperature.
 
 “If they have no money and no men,” Cicero told the neighbour, “they have a beautiful murder and a short future.”
 
@@ -26,7 +26,7 @@ The neighbour smiled as if force were a vulgar digression. “Surely the Senate�
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-The first courier (sandals cracked) spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
+The first courier, sandals cracked, spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
 
 “Which boy?” the neighbour asked, pleased to be scandalised.
 
@@ -36,13 +36,13 @@ Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already j
 
 The courier shrugged. “As if it amused. Not as if it cleared.”
 
-The second courier, younger, contradicted on cue, half-false news fighting in the same air: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished; the boy already gathering flies in Campania; the boy already finished by Antony’s laugh. Cicero kept both halves without labelling either *true*. Same-room collision beat letter-stack: he could watch which mouth sweat.
+The second courier, younger, contradicted on cue, half-false news fighting in the same air: Antony generous; Antony monstrous; Brutus worshipped; Brutus finished; the boy already gathering flies in Campania; the boy already finished by Antony’s laugh. Cicero kept both halves without labelling either *true*. Same-room collision beat letter-stack. He could watch which mouth sweat.
 
 “Sport,” the neighbour said, tasting the wine-shop joke. “Rome’s favourite exercise. Underestimate until the underestimate grows teeth.”
 
-“Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy as if tipping could buy a Republic, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practicing the laugh*.
+“Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practicing the laugh*.
 
-Sphaerus brought a note from Hirtius’s orbit, polite, useless. Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee, then wrote Atticus a softer version of *the deed was fair; the result is nothing* (softness kept invitations open) and felt the wine-shop sport sitting under the softness like a unpaid rate.
+Sphaerus brought a note from Hirtius’s orbit, polite, useless. Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee, then wrote Atticus a softer version of *the deed was fair; the result is nothing*. Softness kept invitations open. Under it the wine-shop sport still sat unpaid.
 
 ---
 
@@ -62,9 +62,9 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 “And the boy?” Brutus asked, surprising himself. “The heir talk.”
 
-The steward hesitated. Hesitation was news. “Campania says the name. Rome’s wine shops still use him as sport, shadow, squeak, furniture with a will. Elders bet cups on how long the joke lasts. For now they laugh.”
+The steward hesitated. Hesitation was news. “Campania says the name. Rome’s wine shops still use him as sport: shadow, squeak, a will with no boots on it. Elders bet cups on how long the joke lasts. For now they laugh.”
 
-Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client (robe too clean for eighteen miles) waited with loyalty that had already checked the sun. Three wants in one gravel path: news, comfort, and a signature that wasn’t asked yet.
+Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client, robe too clean for eighteen miles, waited with loyalty that had already checked the sun. Three wants in one gravel path: news, comfort, and a signature that wasn’t asked yet.
 
 “They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Neither compliment is meant for your safety.”
 
@@ -76,11 +76,11 @@ The client smiled the smile of men who bring purses later. “Rome still whisper
 
 “Peace required a plan,” Porcia answered, and left him the word *plan* like a debt. She did not look at the client. Looking would have made the debt a performance. The steward closed his mouth on further roads. The client’s smile held until Brutus turned toward the hedges, then thinned for the steward alone: “He will draft periods while the dust learns our gates. Hope came for ink. It left with gravel.”
 
-Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty, as if the late-hour forgiveness still had a claim on the grammar. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench, as if wood could argue ancestry back into place.
+Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty. Late-hour forgiveness still had a claim on the grammar. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence and press his thumb hard into the wooden rim of the bench.
 
-Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty (someone’s gift, someone’s joke) and hated how the joke still worked on him.
+Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered carefully, sentence by sentence, as if care could still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
+Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 
@@ -94,7 +94,7 @@ The clerk’s smile died. “Without your name the tablet is nothing we can show
 
 The clerk left without clasping arms. Before supper the steward returned from the neighbouring town’s market with flour and a report that cost more than flour: two clients who had meant to sleep at Lanuvium had already turned back, told at the gate there that Brutus’s house would not shield them. One refusal had made his brand a local absence by nightfall. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
 
-He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
+He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period. He still had a view, and fewer doors that would open if he knocked.
 
 Through the gate: hills, and beyond them a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
 
