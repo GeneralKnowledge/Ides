@@ -2,7 +2,7 @@
 
 **Mid-tier pass** · SC-03, SC-04 · late 46–45 · TONE-1
 **Dinner-first reorder:** former Ch 2; follows Ch 2 street weather.
-**Human-voice pass:** as-if / spendable-soul thin; Hordeonius warehouse kept.
+**Expanded draft:** Naevius line-rules; Spain/Pompey-sons gloss; sea paper / Puteoli; Seia window-door; cake-seller umbrellas densified
 
 ---
 
@@ -18,7 +18,19 @@ Overhear risk: Clients leak
 
 Seius stood in a morning line of men practising hope.
 
-The atrium smelled of wet wool and yesterday’s garum from the street. A secretary with a stylus counted faces. Someone ahead whispered a marriage rumour loud enough to be useful; someone behind coughed a debt he pretended was news. Seia Prima had sent Seius with instructions that felt like a rope: *be seen, be useful, come home with a nod that can be spent.*
+The atrium smelled of wet wool and yesterday’s garum, the fish-sauce stink of the street. A secretary with a stylus counted faces. Someone ahead whispered a marriage rumour loud enough to be useful; someone behind coughed a debt he pretended was news. Seia Prima had sent Seius with instructions that felt like a rope: be seen, be useful, come home with a nod that can be spent.
+
+Beside him an older client named Naevius held his toga with the weariness of a man who had worn it to two hundred of these. “First rule of the line,” he murmured, without moving his lips. “Never be the man who coughs.”
+
+“Someone behind us is coughing.”
+
+“That is the man who owes. Listen to him. He coughs whenever he thinks of the steward.”
+
+“And the second rule?”
+
+“Arrive at the exact hour of a man who has already eaten. Not early enough to look hungry. Not late enough to look busy.” Naevius shifted his weight. “Nobody manages it. Everyone tries.”
+
+Naevius went up first. The patron said his name, warmly, and the nod travelled the whole distance. Naevius took it, bowed to the exact height, and came back past Seius with a face like a closed shop. “Thirty years,” he whispered. “The nod is a muscle. Yours will grow.”
 
 When Seius’ turn came, the patron’s nod was thin, already halfway to the next man.
 
@@ -30,9 +42,19 @@ Seius smiled like a man who owned useful things. He didn't. He owned a sister’
 
 “I am grateful for the guidance,” Seius said, with the exact bow height the atrium taught.
 
-Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited with the patience of a professional accident. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
+Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited with the patience of a professional accident. Seius had already borrowed for the toga and for a jar of oil good enough to be seen carrying. Now, it appeared, he would borrow for the borrowing. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
+
+“What did he give you?” the middleman added, when Seius said nothing.
+
+“A nod.”
+
+“How thick?”
+
+“Lint.”
+
+“Then it is a cheap nod, and cheap nods carry dear rates. The thinner the favour, the thicker the paper. That is not cruelty. That is arithmetic.”
 
 Seius’s smile lasted until the atrium door-slave looked away. Then it fell. “He nodded like a man brushing lint. The secretary talked like I was a rumour he could sell. I am going to tell Seia Prima it was a warm reception.”
 
@@ -43,6 +65,14 @@ Seius took the terms because refusal meant standing still, and Seia Prima didn't
 At the house threshold Seia Prima was already waiting with a broom she did not need, waiting was her way of auditing. She took one look at his mouth and did not ask about the atrium.
 
 “Wider than last week,” she said. “That means thinner paper.”
+
+“He said ‘we will see.’ Twice.”
+
+“Twice is a window. Once is a door.”
+
+“Does the window open?”
+
+“It lets in weather.”
 
 Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “Then we dine as if the nod were meat,” she said, and turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
 
@@ -60,9 +90,13 @@ Overhear risk: Medium
 
 “Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is a temporary reduction in risk premiums. Do not confuse it with virtue. Virtue does not clear.”
 
-He adjusted tablets with priestly care. Africa’s ending had softened some rates, the same *closed enough* the Forum had spit about while cake-sellers laughed. The western edges of the paper still burned enough to keep bakers polite. The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a postcard. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
+He adjusted tablets with priestly care. Africa’s ending had softened some rates, the same *closed enough* the Forum had spit about while cake-sellers laughed. The western edges of the paper still burned enough to keep bakers polite.
+
+The west meant Spain. Pompey’s sons had come out of Africa with ships, grudges and their father’s name, and they were raising a new army among old soldiers who still owed the father a favour. Caesar would have to go and finish it. Until he did, every loan with a Spanish edge carried a smell of smoke. The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a rumour. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
 
 Sosia, at his shoulder, muttered for the knot’s benefit, “Sea paper makes honest men seasick.”
+
+Sea paper was a loan on a cargo: repaid if the ship came in, forgiven if Neptune kept it. Hordeonius held a little and loved none of it. “A loan on a ship,” he told the knot, “is a bet that the sea pays its debts.”
 
 A client laughed, loud enough that two stalls looked over. “You talk as if the Republic were a warehouse.”
 
@@ -70,7 +104,9 @@ A client laughed, loud enough that two stalls looked over. “You talk as if the
 
 The baker’s agent snorted wine through his nose and had to wipe his chin on his sleeve. “Warehouse of greed, Jupiter. Write that on a cake.”
 
-Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax, small and neat, already growing interest, and ignored the courier from Puteoli until the knot thinned. Sea-rumour dressed as numbers could wait. Laughter that bought a second cup could not.
+“I will write it on your rate,” said Hordeonius, “which is the only cake I bake.”
+
+Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax, small and neat, already growing interest, and ignored the courier from Puteoli until the knot thinned. Puteoli was the harbour down the coast where the Alexandrian grain ships tied up, and where Rome learned a week early whether it would eat. Sea-rumour dressed as numbers could wait. Laughter that bought a second cup could not.
 
 When the baker left clutching his rate like a blessing, Sosia waited until the man’s back was only a tunic in the crowd. “He’ll tell his wife you made a joke. You’ll become witty by accident again.”
 
@@ -78,15 +114,20 @@ When the baker left clutching his rate like a blessing, Sosia waited until the m
 
 A cake-seller from two stalls over (flour still on her forearms) leaned in with a question that wanted to be gossip and a price that wanted to be faith. “If Spain settles, do my boys eat cheaper seed, or do you invent another unfinished west?” Hordeonius priced her hunger the way he priced the baker’s: without insult, without prophecy. “When Spain settles, rates move. Until then I sell umbrellas for unfinished weather.” The cake-seller snorted once and bought the rate anyway.
 
+“The courier is still sweating,” Sosia said.
+
+“Let him. A ship that is late is only late. A ship that is announced early is a salesman.”
+
 “A man who needs a nod,” he added to the shelf, “will always pay for the story of the nod.” The shelf did not argue. That was why he liked it.
 
 ---
 
 ## Continuity
 - F2 deeper debt to F4; patronage machinery shown; F4 Batiatus tone held.
+- **Expanded:** Naevius line-rules (cough / exact hour / nod as muscle); lint-thickness pricing; Seia window/door; Spain = Pompey sons + smoke on loans; sea paper / Puteoli gloss; cake-seller umbrellas densified.
+- **Cold-read patch:** *salutatio* institutional plaque cut; Naevius teaches the line.
 - **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.
 - FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.
-- **Law-sweep:** ≥3-person atrium (patron + secretary + Seius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour (no nametag); Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.
+- **Law-sweep:** ≥3-person atrium (patron + secretary + Seius + Naevius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour; Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.
 - **Opening prose pass:** Ch 2 *new-ring: rate held / unpaid* still on the wax (transition stitch only).
-- **Expansion D16 / IR-1:** Cake-seller Spain-rate question kept; meta “plant only” warehouse speech stripped.
 - Next: Ch 4 Munda + soft chains.
