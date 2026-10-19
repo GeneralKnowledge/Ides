@@ -1,7 +1,7 @@
 # Chapter 13: GO
 
 **Phase 1D.4** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
-**Human-voice pass:** surgical; GO choice + Trebonius Monday + Capua powder kept.
+**Human-voice:** Ch 13 feel-pass (rules); GO choice + Trebonius Monday + Capua powder kept.
 
 ---
 
@@ -17,7 +17,7 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange a hold, the same delay Trebonius had once made look like thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
+They stood where Pompey’s stone still watched the living arrange a hold. The same delay Trebonius had once made look like thirst in a festival cup, now grown teeth. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
@@ -75,7 +75,7 @@ Overhear risk: High among soldiers
 
 Sex. Laberius Cordus loved Caesar the paymaster more than Caesar the god.
 
-Around the brazier the talk was colonies and delays, who had been promised land near Capua, who had heard the promise thin out into “after Parthia,” who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative not yet dated. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
+Around the brazier the talk was colonies and delays. Who had been promised land near Capua. Who had heard the promise thin out into “after Parthia.” Who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative not yet dated. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
 
 “He pays,” Laberius said. “When the eagle eats, we eat.”
 
@@ -103,7 +103,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set, almost.
 
-Tillius for the petition (brother’s exile on the tongue), hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Galba still owed him a brother’s winter for a torn patron seal; Cassius did not ask whether the grain debt had already called him away from rock and blade.
+Tillius for the petition, brother’s exile on the tongue, hands ready to insult with touch. Casca for first ugly courage. Decimus for the door of trust. Trebonius for Antony. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Galba still owed him a brother’s winter for a torn patron seal. Cassius did not ask whether the grain debt had already called him away from rock and blade.
 
 Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened. Ligarius’s pride was supposed to buy us that body. He sent fever instead. Or a man who smelled like fever.”
 
@@ -115,7 +115,7 @@ Brutus’s money sat outside the door like a creditor not invited. A note had ar
 
 “If anyone talks between now and dawn,” Cassius said, “we are not liberators. We are a joke that bleeds.”
 
-Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm as if dirt might appear and explain him. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
+Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. Dirt might appear and explain him. It did not. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
 
 Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
@@ -144,3 +144,4 @@ They left the room separately. Outside, a baker’s boy argued ordinary March pr
 - MUST_EXPRESS: A5 prep, B4, C7 blindness.
 - Chapter map updated to include SC-32.
 - **Anti-formula:** Census labels / Continuity-receipt roster speech / Capua-face gag strip; dramatic centre = GO choice under creditor cough + missing door-man.
+- **Human-voice (Ch 13):** one feel-pass — light breath on Pompey-stone / roster / Capua powder; hold GO, Monday, Capua unpaid, Ligarius blank, baker rumour.
