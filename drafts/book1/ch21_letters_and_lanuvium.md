@@ -66,7 +66,7 @@ The steward hesitated. Hesitation was news. “Campania says the name. Rome’s 
 
 Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client (robe too clean for eighteen miles) waited with loyalty that had already checked the sun. Three wants in one gravel path: news, comfort, and a signature that wasn’t asked yet.
 
-“They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Both are insults dressed as weather.”
+“They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Neither compliment is meant for your safety.”
 
 The steward’s eyes flicked to the client and back. “The roads still take veterans, praetor. If you mean to move, move before dusk invents another excuse.”
 
@@ -80,7 +80,7 @@ Brutus drafted speeches for a city that would not let him deliver them. Ink drie
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty (someone’s gift, someone’s joke) and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered with measure. Measure was what he had left of virtue when the street preferred a corpse’s gardens. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
+Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered carefully, sentence by sentence, as if care could still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 
@@ -88,11 +88,11 @@ Porcia, listening from the colonnade, said nothing, a question held in the air.
 
 Brutus saw the trap whole: a line that named him as guarantor of other men’s survival, useful to them now, useful to prosecutors later. “Write that your town stood with the Senate,” he said. “Do not write my name as if it were a roof.”
 
-The clerk’s smile died. “Without your name the tablet is weather.”
+The clerk’s smile died. “Without your name the tablet is nothing we can show.”
 
-“Then keep it blank,” Brutus said. “Blankness is safer than my seal on a road full of Antonian dust.”
+“Then keep it blank,” Brutus said. “I will not put my seal on a road full of Antonian dust.”
 
-The clerk left without clasping arms. By evening Brutus learned (through the steward’s careful mouth) that the neighbouring town had already begun telling clients Lanuvium would not shield them. One refusal had priced his brand as local absence. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
+The clerk left without clasping arms. Before supper the steward returned from the neighbouring town’s market with flour and a report that cost more than flour: two clients who had meant to sleep at Lanuvium had already turned back, told at the gate there that Brutus’s house would not shield them. One refusal had made his brand a local absence by nightfall. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
 
 He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period: he still had a view, and fewer doors that would open if he knocked.
 

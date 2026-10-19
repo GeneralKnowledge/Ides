@@ -64,7 +64,7 @@ Dama muttered that the chickens had better taste than the new authority. Nysa di
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar as if water could invent a private law. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 
-Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. The door she reached was not Domus; it smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face, then offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. Attachment was a transfer dressed as safety. She kept her eyes on doors that no longer held her mornings.
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. The door she reached was not Domus; it smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face, then offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
 
 ---
 
@@ -102,11 +102,11 @@ Quintus’s mouth flattened. “Then you are not with us. Say it plain for the c
 
 He left before dessert. Seia Prima followed without speaking until the street. “Quintus will tell them you flinched,” she said.
 
-“Let him,” Seius said. “Flinching keeps the door on its hinges.”
+“Let him,” Seius said. “I still have a door that closes. That is what I bought.”
 
-By morning the petition had four names without his, and Quintus had already begun telling the block that Seius congratulated with wine and vanished with excuses. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent a neighbour’s goodwill to keep his name off a list that could kill him, and the block now had a story about him that was almost true.
+By morning the petition had four names without his. Quintus had already told the baker’s corner that Seius congratulated with wine and vanished with excuses, and had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Quintus’s goodwill (and the mule Quintus used to lend without asking) to keep his name off a list that could kill him.
 
-On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one.
+On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one: Quintus gone from the count.
 
 ---
 

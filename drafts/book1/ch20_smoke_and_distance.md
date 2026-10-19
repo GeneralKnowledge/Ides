@@ -21,7 +21,7 @@ Decimus smelled his own street before he saw the damage, pitch, cloth, the sweet
 
 “They came for the door, not even for you,” the client said. “The door was enough.”
 
-Enough was the city’s new measure. The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had, heir enough to hate, not enough to mourn.
+The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn.
 
 A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked: Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule (or the gods had warned and Decimus had mocked the warning) or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions, one pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
@@ -45,7 +45,7 @@ Brutus looked at the broken street as if it were a Senate. “Then do not ask me
 
 He left before philosophy answered, forearm clasp still warm, east already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Plancus’s reply arrived soft, praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” The Lepidus channel returned nothing but a messenger who wouldn’t meet his eyes and wouldn’t take a second tablet back. Decimus folded both silences into the map-case. Nearer knives, he told himself, were still knives you could see. Unseen friends were already pricing what they wouldn’t send. The will’s second line traveled with him like pitch he could not wipe: loved enough to ink, hated enough to burn.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters: one to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon; one to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft, praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read *yet* twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back, and left Decimus holding the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe: loved enough to ink, hated enough to burn.
 
 ---
 
@@ -72,7 +72,7 @@ Overhear risk: Court medium
 
 Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash, same dirty March light standing over the Tiber that elite streets were breathing as pitch. Same lesson: a queen without a living Roman guarantor was a story other people finished, and Romans had been finishing her story at dinner long before the knives.
 
-She stood in the garden villa across the Tiber (Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills) and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred schedules. Schedules were harder to mark up than rumour. The smoke did not ask which side of the river owned it.
+She stood in the garden villa across the Tiber (Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills) and watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred a departure with an hour attached. The smoke did not ask which side of the river owned it.
 
 A Roman clerk from the house’s new legal weather arrived mid-morning with a polite face and an impolite list. Crates for the river would be “inspected for the people’s interest.” He smiled with inventory in his eyes, the smile she had already met, secondhand, in every Transtiberim joke about queens, children, and half-hours on roads.
 
@@ -84,21 +84,21 @@ The clerk lingered on a chest that held nothing but cloth and a child’s spare 
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
-He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not. The ship will invent a second price on water.”
+He counted. He bowed as if the count had been a courtesy exchanged between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not.”
 
 Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter’s news reached her as wind under the leaves; she did not turn back to answer wind.
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
-“Father belongs to their Forum now,” Cleopatra said, and hated the polish of it. Softness later. Ships first. The boy’s hours (the ones Romans had gossiped into careers) were now only packing hours, and she intended them to end on water.
+“Father belongs to their Forum now,” Cleopatra said. Softness later. Ships first. The boy’s hours (the ones Romans had gossiped into careers) were now only packing hours, and she intended them to end on water.
 
 Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept him as useful irritant.
 
-“We do not beg intermediaries,” she said. “We leave before intermediaries invent a second price.”
+“We do not beg intermediaries,” she said. “We leave before they invent another inspection.”
 
 Ammonius did not stop. He produced a smaller tablet, Cicero’s old account, books still unpaid, rudeness still priced as if a queen’s library were a Roman joke that owed interest. “If we settle this before the Tiber, one mouth in Italy softens. Soft mouths buy fair wind.”
 
-“Soft mouths invent second inspections,” Cleopatra said. “Pay the books from Alexandria if you must. Do not buy Cicero’s courtesy with my schedule. Intermediaries who need my coin to be polite will invent a second price on water.”
+“Pay the books from Alexandria if you must,” Cleopatra said. “Do not buy Cicero’s courtesy with my schedule. Soft mouths invent second prices on water.”
 
 Ammonius’s jaw worked again, useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast, courtesy she would not buy on Italian mud.
 
