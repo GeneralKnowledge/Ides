@@ -1,7 +1,7 @@
 # Chapter 11: Omens Manufactured
 
 **S-A2 dwell** · SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
-**Human-voice:** Ch 11 feel-pass (rules); chickens vs senators + Hirtius refuse kept.
+**Human-voice:** Ch 11 expanded; Ides/Spurinna/Sibylline earned; Calpurnia CV trimmed.
 
 ---
 
@@ -18,9 +18,15 @@ Overhear risk: Extreme (staff)
 
 Staff traded omens like recipes.
 
-Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a king-bird torn apart in Pompey’s hall, other birds watching like a jury that already knew the verdict.
+In Rome an omen was a public matter. A prodigy, the priests called it: a calf with two heads, a statue that sweated, a bird in the wrong place. It was reported to the Senate, argued over by the augurs, and expiated at the state’s expense. In the kitchens the process was faster and cheaper, and nobody was fined.
+
+Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. The chickens were kept for auspices: before any great act a priest would scatter grain and watch, and if the birds ate eagerly the gods approved, and if they sulked the act was put off. Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a king-bird torn apart in Pompey’s hall, other birds watching like a jury that already knew the verdict.
+
+The king-bird was a wren, the smallest bird in Italy and, in the old tale, the one that won the crown by riding on the eagle’s back. Somebody had seen one fly into Pompey’s hall carrying a sprig of laurel, chased by other birds, and torn to pieces before the doorway. It was the sort of thing a man remembered afterward, whichever way afterward turned out.
 
 “And Spurinna,” the washerwoman added, pleased with the name, “told him to beware the Ides. Beware is a priest’s whole trade.”
+
+Spurinna was a haruspex, a priest who read the entrails of sacrificed animals, and the story was that he had told Caesar to watch for danger until the Ides of March. The Ides fell in the middle of each month, and in March it was the fifteenth. A bad day for debts, most years, and a worse one for anything else.
 
 Dama wanted the king-bird to mean knives. Pasiphile wanted it to mean bad cheese. The washerwoman wanted it to mean she had been right to spend a coin on Forum talk. Nysa wanted the basin not to spill while three truths fought over one doorpost.
 
@@ -28,11 +34,15 @@ Dama wanted the king-bird to mean knives. Pasiphile wanted it to mean bad cheese
 
 “Birds,” Pasiphile said. “Birds and men who sell birds as politics.”
 
-Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
+“Who buys them?”
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn't decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
+“Everyone who doesn’t have to pay for the cheese.”
 
-Phileros passed through the court and sniffed. “If you have time for birds,” he said, “you have time for the vestibule mats.”
+Nysa set the basin down more carefully than the water required. When the washerwoman said beware, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer beatings for incomplete messages. Senate and gods could keep their own names.
+
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for a week, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the bird and the chickens and didn’t decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
+
+Phileros passed through the court and sniffed. He was the steward, the man who held the household’s keys and everyone’s mood, and he moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
 “Mats don’t beware,” Dama muttered, just soft enough.
 
@@ -40,7 +50,17 @@ Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile. 
 
 Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening. Listening kept you fed.
 
-Later she told Medullina, in the Subura, that the house was full of birds and priests. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency. The unfinished question under *beware* was not whether gods spoke. It was who in the city was already speaking like a god for a living.
+Later she told Medullina, in the Subura, that the house was full of birds and priests. The Subura was the crowded district under the hill, all tenements and tanners and fish, where gossip was traded as the main local industry. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
+
+“Chickens don’t pay,” said Medullina.
+
+“Neither do senators.”
+
+“They pay late.”
+
+“So do the chickens,” said Nysa. “They just taste better.”
+
+The unfinished question under beware was not whether gods spoke. It was who in the city was already speaking like a god for a living.
 
 ---
 
@@ -57,15 +77,23 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-They said, someone always said, that the books implied only a *king* could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+The Sibylline books were a set of prophecies kept in a vault on the Capitol and consulted by a college of priests when Rome was in trouble. They said, someone always said, that the books implied only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
-Below the elite dinners, he knew, kitchens were already trading birds and *beware* like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
+Below the elite dinners, he knew, kitchens were already trading birds and beware like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
-“Balbus,” he told the empty room, because Atticus wasn't there and the room wouldn't contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
+“Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
+
+Balbus was Caesar’s man of business, a Spaniard from Gades who had made himself indispensable as a banker and fixer and was now as close to the dictator as a man without a title could be. He wrote Caesar’s letters and kept Caesar’s books. Cicero suspected him of most things and had been right about perhaps half.
+
+Tiro, in the corner with his shorthand, did not look up. “You are talking to the room again.”
+
+“The room agrees with me.”
+
+“The room has no choice, master. It is a very polite room.”
 
 He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were oxygen. Oxygen could also burn.
 
-He didn't imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) timed the Philippics of the soul correctly. Parthia was a clock for Caesar. For Cicero it was still a topic. King-birds and sullen chickens were topics too, until someone made them into policy.
+He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) timed the Philippics of the soul correctly. The word was his own private joke: Demosthenes had spoken against Philip of Macedon, and the speeches were known ever after as the Philippics, and Cicero had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic. King-birds and sullen chickens were topics too, until someone made them into policy.
 
 He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him.
 
@@ -81,17 +109,22 @@ The courier tried once more, almost kindly. “He said the talk is already in ki
 
 Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens are better informed than half the Senate. Tell him I remain occupied.”
 
+“Occupied with what, my lord?”
+
+“With being right at a distance,” Cicero said. “It is a full-time occupation.”
+
 “Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard. The unfinished question from the Domus court had found its elite rhyme: who manufactured the beware, and who would dine with it.
 
 ---
 
 ## Continuity
-- Ambiguous staff omens (king-bird, Spurinna, chickens), unproven (AMB-3).
-- OMEN-1: manufactured Sibylline king/Parthia talk; Cicero treats as politics; wrong floater guess OK.
+- Ambiguous staff omens (king-bird, Spurinna, chickens), unproven (AMB-3); Ides = 15 March; haruspex plant paid.
+- OMEN-1: manufactured Sibylline king/Parthia talk; Cicero treats as politics; wrong floater guess OK; Balbus densified.
+- Philippics word planted as Cicero private joke (pay Ch 25).
 - **S-A2 / G1:** Nysa primary dwell extended (3+ kitchen voices held); Cicero second as collision (who floats beware/king); Hirtius refuse kept; soft bridge via kitchen omen-weather.
 - MUST_EXPRESS: E1, E2.
 - Next: Ch 12 dread / fragment / Caesar opacity.
 **Final integrated / E4:** SC-27: Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.
 - **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.
-- **Golden-read P3-c:** Competing versions of Calpurnia’s “running sleep” (gods / nerves / politics), dream packet plant before Ch 14 peak.
-- **Human-voice (Ch 11):** one feel-pass — open Pasiphile/someone-always-said parens; dream versions as breaths; hold chickens-not-senators, Hirtius refuse, AMB-3.
+- **Golden-read P3-c:** Competing versions of Calpurnia’s “running sleep” (gods / nerves / politics), dream packet plant before Ch 14 peak; no wife-CV plaque.
+- **Human-voice (Ch 11 expanded):** densified Kitchen / Only a King; Calpurnia CV cut (sleep that runs holds); hold chickens-not-senators, Hirtius refuse, AMB-3; no modern weekdays.
