@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-19  
 **Branch:** `cursor/reader-docx-human-voice-cb1d`  
+**Commit:** `3078f16`  
 **Source:** Assembled Ch 12–34 feel-passes (PRs #80–#102) on top of `main` (Ch 1–11 already merged)  
 **Exporter:** `tools/export_book1_docx.py`  
 **Artifacts:** `exports/` (gitignored) and `/opt/cursor/artifacts/docx/`
