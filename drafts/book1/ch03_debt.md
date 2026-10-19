@@ -2,6 +2,7 @@
 
 **Mid-tier pass** · SC-03, SC-04 · late 46–45 · TONE-1
 **Dinner-first reorder:** former Ch 2; follows Ch 2 street weather.
+**Human-voice pass:** as-if / spendable-soul thin; Hordeonius warehouse kept.
 
 ---
 
@@ -17,7 +18,7 @@ Overhear risk: Clients leak
 
 Seius stood in a morning line of men practising hope.
 
-The atrium smelled of wet wool and yesterday’s garum from the street. A secretary with a stylus counted faces as if faces were coins. Someone ahead whispered a marriage rumour loud enough to be useful; someone behind coughed a debt he pretended was news. Seia Prima had sent Seius with instructions that felt like a rope: *be seen, be useful, come home with a nod that can be spent.*
+The atrium smelled of wet wool and yesterday’s garum from the street. A secretary with a stylus counted faces. Someone ahead whispered a marriage rumour loud enough to be useful; someone behind coughed a debt he pretended was news. Seia Prima had sent Seius with instructions that felt like a rope: *be seen, be useful, come home with a nod that can be spent.*
 
 When Seius’ turn came, the patron’s nod was thin, already halfway to the next man.
 
@@ -25,15 +26,15 @@ When Seius’ turn came, the patron’s nod was thin, already halfway to the nex
 
 A secretary at the patron’s elbow added, polite as oil, “And do not bring us philosophy. Philosophy is what clients do when they have nothing spendable.”
 
-Seius smiled as if he owned useful things. He didn't. He owned a sister’s strained dowry talk and a talent for sweating through wool.
+Seius smiled like a man who owned useful things. He didn't. He owned a sister’s strained dowry talk and a talent for sweating through wool.
 
 “I am grateful for the guidance,” Seius said, with the exact bow height the atrium taught.
 
-Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited as if chance were a profession. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
+Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited with the patience of a professional accident. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
 
-Seius’s smile lasted until the atrium door-slave looked away. Then it fell. “He nodded like a man brushing lint. The secretary prices my soul in spendable units. I am going to tell Seia Prima it was a warm reception.”
+Seius’s smile lasted until the atrium door-slave looked away. Then it fell. “He nodded like a man brushing lint. The secretary talked like I was a rumour he could sell. I am going to tell Seia Prima it was a warm reception.”
 
 The middleman snorted, audible, unlovely. “Warm receptions are how we sell winter. Sign.”
 
@@ -43,7 +44,7 @@ At the house threshold Seia Prima was already waiting with a broom she did not n
 
 “Wider than last week,” she said. “That means thinner paper.”
 
-Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “Then we dine as if the nod were meat,” she said, and turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home as a third guest; Seia Prima set an extra cup anyway and did not drink from it.
+Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “Then we dine as if the nod were meat,” she said, and turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
 
 ---
 
@@ -59,7 +60,7 @@ Overhear risk: Medium
 
 “Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is a temporary reduction in risk premiums. Do not confuse it with virtue. Virtue does not clear.”
 
-He adjusted tablets with priestly care. Africa’s ending (the same *closed enough* the Forum had spit about while cake-sellers laughed) had softened some rates; the western edges of the paper still burned enough to keep bakers polite. The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a postcard. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
+He adjusted tablets with priestly care. Africa’s ending had softened some rates, the same *closed enough* the Forum had spit about while cake-sellers laughed. The western edges of the paper still burned enough to keep bakers polite. The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a postcard. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
 
 Sosia, at his shoulder, muttered for the knot’s benefit, “Sea paper makes honest men seasick.”
 
@@ -69,7 +70,7 @@ A client laughed, loud enough that two stalls looked over. “You talk as if the
 
 The baker’s agent snorted wine through his nose and had to wipe his chin on his sleeve. “Warehouse of greed, Jupiter. Write that on a cake.”
 
-Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax (small, neat, already growing interest like a quiet plant) and ignored the courier from Puteoli until the knot thinned. Sea-rumour dressed as numbers could wait; laughter that bought a second cup could not.
+Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax, small and neat, already growing interest, and ignored the courier from Puteoli until the knot thinned. Sea-rumour dressed as numbers could wait. Laughter that bought a second cup could not.
 
 When the baker left clutching his rate like a blessing, Sosia waited until the man’s back was only a tunic in the crowd. “He’ll tell his wife you made a joke. You’ll become witty by accident again.”
 

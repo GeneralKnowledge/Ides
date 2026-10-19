@@ -3,6 +3,7 @@
 **Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15
 *(Chronological: diadem first, then disclosure walk.)*
 **G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
+**Human-voice pass:** surgical only; diadem + Fulvia debt-word + Trebonius Monday kept.
 
 ---
 
@@ -28,17 +29,17 @@ Not once only, refused in a way that let every watcher invent a script: humility
 
 “He already is!” someone else shouted, not relieved.
 
-In the press Antony saw a familiar face go pale, Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort (useful, not urgent) and let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale, Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. He let the mouths blur back into Forum.
 
 A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
 
 Antony clasped him like a brother of the afternoon. “Temporary symbol. Don’t invent a constitution from a wreath.”
 
-The client’s smile held until Antony’s shoulder turned. Then, to the freedman and anyone else still pricing fear: “Temporary. That’s how they always name the thing that stays. Mark me, he’ll wear it in Parthia and call it weather.”
+The client’s smile held until Antony’s shoulder turned. Then, to the freedman and anyone else still listening for fear: “Temporary. That’s how they always name the thing that stays. He’ll wear it in Parthia and call it nothing.”
 
 Antony heard the word *temporary* travel behind his back already rewriting the afternoon, and laughed louder so the rewrite would have to wait.
 
-Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word, price it, not correct it.
+Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
 
 By evening the city’s elite rooms had a new oxygen: fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. Fulvia did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
 
@@ -75,7 +76,7 @@ He didn't begin with murder. He began with the difference between name and power
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
-Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step without looking as if he were herding. Herding made Brutus invent philosophy as a fence.
+Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step without looking like a herdsman. Herding made Brutus invent philosophy as a fence.
 
 “We call it the Republic enduring,” Brutus said.
 
@@ -89,11 +90,11 @@ A cart rattled past on the street beyond the columns; someone cursed a mule as i
 
 “Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
 
-Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them (not as permission, as weather that made postponement look like virtue). “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them, not as permission, only as the kind of dread that made postponement look like virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
 “Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
-They walked on as if they had been talking about rain. In Rome, that was often the same conversation.
+They walked on as if they had been talking about rain.
 
 At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft thanks for the stroll, a smile sized for anyone watching from a doorway. Ten paces on, the smile dropped. He found Trebonius loitering with a cup he was not drinking.
 

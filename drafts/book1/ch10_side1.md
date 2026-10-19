@@ -1,6 +1,7 @@
 # Chapter 10: Almost / Soften / Body
 
 **Mid-tier pass** · SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
+**Human-voice pass:** surgical; SIDE-1 body + Visellius refuse kept.
 
 ---
 
@@ -40,7 +41,7 @@ On the oil benches a client of his (soft-eyed, useful at dinners) pretended to a
 
 Seius smiled the smile of a man who had paid for privacy and bought a notice instead. By the time he reached home Seia Prima had already heard, from someone who sold oil and opinions, that her husband had been tapped for a quiet hour and come out without a name. She did not ask which room. She only said, sweet as vinegar again, that prudence was expensive when it looked like flinching in public.
 
-Prudence tasted like relief and cowardice mixed, and he couldn't tell which spice was stronger. The city, he noted, was catching a cold: doors tapped after soft hours, and men who flinched paid in gossip before anyone admitted knives.
+Prudence tasted like relief and cowardice mixed, and he couldn't tell which was stronger. Doors got tapped after soft hours. Men who flinched paid in gossip before anyone admitted knives.
 
 ---
 
@@ -60,17 +61,17 @@ A. Visellius Ralla’s tablet sat among the honest ones, interest tidy, excuses 
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 
-Hordeonius didn't laugh. Bankers who laughed at piety ended as tavern stories. He slid Visellius’s tablet an inch closer to himself (possession as theology) and let Paullus watch the wax refuse to travel.
+Hordeonius didn't laugh. Bankers who laughed at piety ended as tavern stories. He slid Visellius’s tablet an inch closer to himself and let Paullus watch the wax refuse to travel.
 
 “I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
 
-Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal. He reached as if to touch the tablet’s rim; Sosia’s hand was already on the stool-leg, ready to pull it. Hordeonius closed the tablet with a soft click that sounded like a door in a better house.
+Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal. He reached toward the tablet’s rim; Sosia’s hand was already on the stool-leg, ready to pull it. Hordeonius closed the tablet with a soft click that sounded like a door in a better house.
 
-“Seals are older than liberty,” he continued, gentle, as if instructing a nephew who had tracked mud onto marble. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus (if Basilus is in this bargain) pays as written too.”
+“Seals are older than liberty,” he continued, gentle, like a man instructing a nephew who had tracked mud onto marble. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus (if Basilus is in this bargain) pays as written too.”
 
-Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring as if the refuse might have dirtied him.
+Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring.
 
-Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't. That was the trouble with truth: it sometimes wore humour's clothes without asking.
+Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn't.
 
 When the perfume had cleared, Sosia jerked a chin at the empty stool. “So if someone softens Basilus for liberty…”
 
@@ -104,7 +105,7 @@ Nobody answered. The dead never did. That was why ledgers needed the living.
 
 He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
-A water-carrier at the stair mouth (jug dripping, no stake in Basilus or Bucco) told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths were how SIDE-1 would travel when larger corpses later taught the city to forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
+A water-carrier at the stair mouth (jug dripping, no stake in Basilus or Bucco) told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths carried what the Senate would later forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
 
 ---
 

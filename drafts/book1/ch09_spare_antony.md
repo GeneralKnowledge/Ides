@@ -2,6 +2,7 @@
 
 **M5 polish** · SC-22, SC-23 · M6 · CHOREO-1 prep · B2
 **S-A0:** show-don’t-tell access; Decimus resistance; exit-complaint
+**Human-voice pass:** surgical; chin-tip memory + Trebonius Monday plant kept.
 
 ---
 
@@ -15,11 +16,11 @@ Overhear risk: Street
 
 They didn't recruit Decimus with philosophy. They recruited him with a floor plan.
 
-Cassius and Brutus found him where the Sacra Via’s noise could drown a dangerous sentence. Cassius spoke first; Brutus stood half a step back, as if the brand were already tired of being used.
+Cassius and Brutus found him where the Sacra Via’s noise could drown a dangerous sentence. Cassius spoke first; Brutus stood half a step back, the brand already tired of being used.
 
 “He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
 
-Decimus looked toward the Domus Publica’s public face (the painted smile of a house that still pretended to belong to the city) and felt the warmth of being indispensable curdle. He knew the door. That was the obscenity.
+Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. That was the obscenity.
 
 “You are asking me to use the hours he gives me,” Decimus said. “Not a vote. Not a speech. The hours.”
 
@@ -43,7 +44,7 @@ He almost smiled at Trebonius’s delay-talk, then didn't. Smiling made the plan
 
 Cassius’ nod was small. Small nods moved armies.
 
-When Decimus turned away, Brutus caught Cassius’s sleeve for half a breath, station still on both faces for any watcher.
+When Decimus turned away, Brutus caught Cassius’s sleeve for half a breath, both faces still public for any watcher.
 
 “He will hate us for using the laugh,” Brutus murmured.
 
@@ -77,7 +78,7 @@ Decimus counted thresholds in his head, Curia lip, portico shoulder, the place w
 
 “Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
 
-Brutus held the spare. Cassius stored the loss like interest (visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge) too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated. Almost.
+Brutus held the spare. Cassius stored the loss like interest, visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated. Almost.
 
 They left with a decision that wore mercy’s face: Antony would live through the knives. Trebonius would be the door that stayed closed on a consul’s back.
 
