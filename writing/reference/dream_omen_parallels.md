@@ -12,7 +12,7 @@ Other traditions = **rumour / later telling**, not overwritten experience.
 | Decimus’ persuasion | Don’t disappoint waiting Senate | Similar optics/shame traditions | Nicolaus tradition strong | Locked beat SC-35/41 |
 | Spurinna | Danger not beyond Ides; later “come but not gone” exchange trad. | Seer exchange on way | — | Ambiguous; keep exchange if used |
 | Sacrifice | Bad signs cluster | Heart missing from victim (Strabo via Plut.) | — | Ambiguous; morning texture |
-| King-bird | Torn in Pompey’s hall day before | Birds of omen (general) | — | Ambiguous omen |
-| Capys tablet | Balbus vouches | — | — | Rumour some believe, some scoff |
+| King-bird | Torn in Pompey’s hall day before / Ides morning | Birds of omen (general) | — | Ambiguous omen; **earn in Ch 15 only** (not Ch 11) |
+| Capys tablet | Balbus vouches | — | — | Earlier rumour; **earn in Ch 11** kitchen; some believe, some scoff |
 
 **Narrator rule:** Never declare which sign was “true.” Characters may disagree in-scene.

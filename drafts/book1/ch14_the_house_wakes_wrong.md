@@ -271,7 +271,7 @@ Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Ny
 
 Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.” Not unkind. Not kind. A redirection of weather.
 
-In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people who did not get beaten for incomplete messages.
+In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people whose incomplete messages no longer cost them a house’s temper.
 
 Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn’t understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 

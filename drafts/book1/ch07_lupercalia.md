@@ -1,7 +1,6 @@
 # Chapter 7: Lupercalia
 
 **Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15
-*(Chronological: diadem first, then disclosure walk.)*
 **G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
 **Human-voice:** Ch 7 expanded; *regnum*/diadem + roster tags earned; festival plaque trimmed; Cassius Syria clause cut.
 

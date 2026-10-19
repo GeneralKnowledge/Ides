@@ -37,7 +37,7 @@ Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Ny
 
 Caesar’s gaze flicked to Nysa once, the way it flicked at doors and lists. “Go and see if the haruspices have sent anything,” he said. Not unkind. Not kind. A redirection of weather.
 
-In the service court the sky was shifting from iron to the colour of dirty pearl. A kitchen boy claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both, as she kept everything, because forgetting was a luxury for people who did not get beaten for incomplete messages.
+In the service court the sky was shifting from iron to the colour of dirty pearl. A kitchen boy claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both, as she kept everything, because forgetting was a luxury for people whose incomplete messages no longer cost them a house’s temper.
 
 She had a fragment of her own wrapped in linen inside her tunic—a few words pressed into wax the day before, when a visitor’s attendant had muttered near the peristyle about sparing a consul and not sparing a king. She had not understood the shape of it. She understood enough to be afraid of Phileros finding it.
 

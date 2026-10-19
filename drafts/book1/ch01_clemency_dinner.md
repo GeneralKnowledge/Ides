@@ -26,7 +26,7 @@ The host had given him the third couch, a seat chosen the way a man chooses whic
 
 “Then keep looking.”
 
-The host toasted Caesar’s clemency. Mercy made leftover Pompeians sound edible. Triumph dust still stuck to the city’s shoes; somewhere a mule train from the Africa run was still being unpaid in someone’s kitchen. Sextilius laughed too easily and lifted his cup whenever the host said *forgiven*. The room did not agree on the exact gift. It only agreed that it shone, and that it had not shone on Cassius.
+The host toasted Caesar’s clemency. Mercy made leftover Pompeians, the men who had fought for Pompey and lived on Caesar’s pardon, sound edible. Triumph dust still stuck to the city’s shoes; somewhere a mule train from the Africa run was still being unpaid in someone’s kitchen. Sextilius laughed too easily and lifted his cup whenever the host said *forgiven*. The room did not agree on the exact gift. It only agreed that it shone, and that it had not shone on Cassius.
 
 Cassius ate. The fish was good enough to make silence look like gratitude.
 

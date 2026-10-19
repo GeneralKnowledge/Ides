@@ -3,7 +3,7 @@
 **M5 polish** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)
 **Canon:** HOUSE-1 · DEC-PERS-1 · CHOREO-1 · NOTE-1 · M4 · M6 · AMB-3 · HUMOR-1 near-off
 **Continues:** Ch 14 litter departure
-**Human-voice:** Ch 15 expanded; surgical on gold spine — Spurinna/king-bird + Pompey/Curia re-gloss trimmed; unread seal / market day / scream→door held.
+**Human-voice:** Ch 15 expanded; king-bird earned on Ides morning (moved from Ch 11); Pompey/Curia re-gloss trimmed; unread seal / market day / scream→door held.
 
 ---
 
@@ -52,11 +52,11 @@ Phileros, still in the vestibule orbit, heard his name and looked insulted on cu
 
 She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
 
-In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise: Spurinna, beware, a king-bird already torn in someone else’s story. Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
+In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird already torn in Pompey’s hall. The king-bird was a wren, the smallest bird in Italy and, in the old tale, the one that won the crown by riding on the eagle’s back. Somebody had seen one fly into the hall carrying a sprig of laurel, chased by other birds, and torn to pieces before the doorway before the Senate sat. It was the sort of thing a man remembered afterward, whichever way afterward turned out. Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
 “Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
 
-“He does not sell it by the hour,” the washerwoman said, wounded. “He gave it away free. That is why it spread.”
+“He does not sell it by the hour,” the washerwoman said, wounded. “He gave it away free. That is why it spread. And the wren was this morning. I saw the mouths that sold it.”
 
 “Things given free always spread,” Calpurnia said. “It is the reason nobody gives away anything good.”
 
@@ -78,7 +78,7 @@ The bed did not argue. From the street rose the ordinary roar of the Ides. The l
 
 ## Continuity notes (SC-40)
 - Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.
-- Exta/liver densify; Spurinna/king-bird paid Ch 11 (no re-teach); free-spread washerwoman held.
+- Exta/liver densify; king-bird/wren earned here (Ides-morning; not Ch 11); Spurinna name paid Ch 11; free-spread washerwoman held.
 - **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.
 - **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
 - **IR-1:** Nysa’s “I burned it” = deliberate lie (fragment still on body → Ch 19 burn); Calpurnia does not search; NOTE-1 dual unchanged.
@@ -237,4 +237,4 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
 - **Law-sweep:** market-day callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
-- **Human-voice (Ch 15 expanded):** surgical densify — exta / street petitions / Greek teacher / tribune / blade law; cut Spurinna/king-bird re-teach (Ch 11); cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.
+- **Human-voice (Ch 15 expanded):** surgical densify — exta / street petitions / Greek teacher / tribune / blade law; king-bird first-tell moved here from Ch 11; cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.
