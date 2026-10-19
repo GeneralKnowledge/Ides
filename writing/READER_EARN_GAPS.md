@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–12 expansion (through dread / NOTE-1 fragment / Caesar weather).  
-**Method:** Same as Ch 1–12 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–13 expansion (through GO / Tillius Cimber / Capua powder).  
+**Method:** Same as Ch 1–13 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -40,6 +40,8 @@
 | Philippics word (private joke plant) | Ch 11 Cicero desk (pay Ch 25) |
 | Pediment / tablinum / pontifex office-house | Ch 12 Calpurnia dread |
 | NOTE-1 spare/stay fragment (incomplete) | Ch 12 Nysa corridor |
+| Tillius Cimber = brother exile / petition / toga-tug signal | Ch 13 GO roster |
+| Capua unpaid / donative late / eagle (veteran powder) | Ch 13 Land Powder |
 
 ---
 
@@ -63,9 +65,9 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|--------|
 | Trebonius, Casca, Galba, Ligarius | **Paid in Ch 7** (market day; first ugly minute; winter/consulship; Africa pardon). Do not re-CV. |
 | Basilus | **Paid in Ch 10** (praetor / Gaul / denied province). Do not re-CV. |
-| Cimber, Tillius | Still open: **tags at first useful appearance** (Ch 13). Tillius “brother’s exile on the tongue”; Cimber one scrap. |
+| Tillius Cimber | **Paid in Ch 13** (brother exile + petition + toga-tug). One person, not two names. Do not re-CV. |
 
-### 4. Amnesty (Ch 17) — **highest next** (plot bargain; or finish Cimber/Tillius first)
+### 4. Amnesty (Ch 17) — **highest next**
 
 | Need | Earn in |
 |------|---------|
@@ -102,11 +104,11 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–12.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–13.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–12 glossary already paid.  
+3. Do **not** reopen Ch 1–13 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” / “amnesty” teach-lines into gold Ides spine (14–16); keep earns in their home chapters.
 
-**Suggested order:** Ch 13 (Cimber/Tillius tags; GO) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 14–16 (Ides spine; surgical only) → name-path scrap before Ch 18 → Ch 17 amnesty plain bargain → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
 
 *End reader-earn gaps.*
