@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-19  
 **Branch:** `cursor/reader-docx-ch06-expand-cb1d`  
-**Commit:** `80d1cff` (main tip with Ch 1–6 expansions)  
+**Commit:** `bd823f7` (export log); source tip `80d1cff` (Ch 1–6 expansions on main)  
 **Source:** Expanded Ch 1–6 on `main` (PRs #104–#111) + prior human-voice tip Ch 7–34  
 **Exporter:** `tools/export_book1_docx.py`  
 **Artifacts:** `exports/` (gitignored) and `/opt/cursor/artifacts/docx/`
