@@ -1,7 +1,7 @@
 # Chapter 10: Almost / Soften / Body
 
 **Mid-tier pass** · SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
-**Human-voice pass:** surgical; SIDE-1 body + Visellius refuse kept.
+**Human-voice:** Ch 10 feel-pass (rules); SIDE-1 body + Visellius refuse kept.
 
 ---
 
@@ -19,7 +19,7 @@ Marcus Seius Vestalis had come to the baths with a grievance polished like a sho
 
 Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Seia Prima had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
 
-In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice (or a man who spoke Basilus’s careful pitch) kept soft: not knives, never knives, only *friends who refuse to watch Rome become a household*.
+In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only *friends who refuse to watch Rome become a household*.
 
 “You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
 
@@ -37,11 +37,11 @@ A laugh burst from the main hall, someone’s joke about a wrestler. Seius laugh
 
 Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way toward the street.
 
-On the oil benches a client of his (soft-eyed, useful at dinners) pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The palaestra notices who gets invited into quiet and who exits empty.”
+On the oil benches a client of his, soft-eyed, useful at dinners, pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The palaestra notices who gets invited into quiet and who exits empty.”
 
 Seius smiled the smile of a man who had paid for privacy and bought a notice instead. By the time he reached home Seia Prima had already heard, from someone who sold oil and opinions, that her husband had been tapped for a quiet hour and come out without a name. She did not ask which room. She only said, sweet as vinegar again, that prudence was expensive when it looked like flinching in public.
 
-Prudence tasted like relief and cowardice mixed, and he couldn't tell which was stronger. Doors got tapped after soft hours. Men who flinched paid in gossip before anyone admitted knives.
+Prudence tasted like relief and cowardice mixed. He couldn't tell which was stronger. Doors got tapped after soft hours. Men who flinched paid in gossip before anyone admitted knives.
 
 ---
 
@@ -105,7 +105,7 @@ Nobody answered. The dead never did. That was why ledgers needed the living.
 
 He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
-A water-carrier at the stair mouth (jug dripping, no stake in Basilus or Bucco) told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths carried what the Senate would later forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
+A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths carried what the Senate would later forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
 
 ---
 
@@ -119,3 +119,4 @@ A water-carrier at the stair mouth (jug dripping, no stake in Basilus or Bucco) 
 - **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).
 - **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / ash memory, SIDE-1 remembered later as pressure, not solved.
 - **Golden-read P3-b:** Paullus refuse as patronage theatre, tablet possession, stool threat, soft click, ring-check (Batiatus ego without wink).
+- **Human-voice (Ch 10):** one feel-pass — open Basilus/client/water-carrier parens; light prudence-mix breath; hold Visellius refuse, body, OPEN-0, Seius flinch.
