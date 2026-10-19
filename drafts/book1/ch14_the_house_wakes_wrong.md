@@ -3,6 +3,7 @@
 **M5 polish** · SC-35, SC-35b
 **Canon:** DREAM-1 · NOTE-1 · HOUSE-1 · DEC-PERS-1 · DIO-OMEN-1 · AMB-1 · AMB-3 · VOICE-1 · TONE-1 · HUMOR-1 (near-off)
 **Soft date:** night of 14 March → dawn 15 March 44 BC · Domus Publica (Sacra Via)
+**Human-voice:** Ch 14 feel-pass (rules); surgical on gold spine — dream / chin-tip / NOTE-1 held.
 
 ---
 
@@ -33,7 +34,7 @@ Moonlight lay in a stripe across the bed. The little court beyond showed a slice
 
 She stopped. Words made it smaller. She didn't want it smaller.
 
-Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the place where the arms of Mars were kept because her husband was *pontifex maximus* and the city still liked its priests to sleep beside its spears, metal spoke. A clatter. A settling. Something hung for war had remembered it was metal.
+Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the place where the arms of Mars were kept, metal spoke. Her husband was *pontifex maximus*; the city still liked its priests to sleep beside its spears. A clatter. A settling. Something hung for war had remembered it was metal.
 
 In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off. The house was refusing ordinary night. Not yet the knife.
 
@@ -82,7 +83,7 @@ Caesar didn't tell her about the clouds.
 
 In his sleep he had been lifted, not thrown, until Rome was a stain and the air was thin. Someone’s hand, vast as law, had closed around his. Jupiter’s, the dream insisted, with the shameless clarity of dreams. He had not felt triumph. He had felt the odd calm of finishing a list.
 
-He sat on the edge of the bed and pressed his thumb into the opposite palm until the dream’s altitude drained out of him. Calpurnia watched as if he might tip backward into the mattress and never come up.
+He sat on the edge of the bed and pressed his thumb into the opposite palm until the dream’s altitude drained out of him. Calpurnia watched. He might tip backward into the mattress and never come up.
 
 “Water,” she told someone at the door.
 
@@ -145,7 +146,7 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move. The hiss became a third presence in the vestibule: key-holder, girl, and the fetch who needed the house to pretend this was ordinary.
 
-In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted: Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys, and Nysa’s empty hands still unfinished.
+In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted. Caesar’s ease. Calpurnia’s grip on the doorframe. Phileros’s keys. Nysa’s empty hands still unfinished.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
@@ -179,7 +180,7 @@ Not as a prisoner. As a man helped over a threshold he had crossed ten thousand 
 
 Calpurnia’s hand fell from the doorframe.
 
-They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse (half a breath early, so the friend never felt the drop) and hated that the count still worked.
+They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
 
 Caesar didn't speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’ job. Decimus didn't say that. He said, “It will be a short session,” and smiled. Shortness was not mercy. It only sounded like it.
 
@@ -230,7 +231,7 @@ Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent 
 
 In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people who did not get beaten for incomplete messages.
 
-Against her ribs, under linen, the wax fragment held its few words, pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn't understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
+Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn't understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 
 When she returned to the atrium, Decimus was already there.
 
@@ -280,3 +281,4 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 **M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).
 - **Law-sweep:** Ides-morning peak, humour OFF; household ≥3 collisions; Decimus cheer as relationship-by-behaviour; NOTE-1 dual held (not merged); Spurinna/Decimus callbacks; G1 peak-day mosaic allowed.
 - **Human-voice:** selective cut stacked *as if* / parenthetical / mesh-label polish; held dream packet, NOTE-1 block, chin-tip, Calpurnia’s cut.
+- **Human-voice (Ch 14):** one surgical feel-pass — Mars-arms breath, tip-as-if, atrium count, ditch-edge colon, wax-ribs breath; hold dream / Decimus cheer / chin-tip / NOTE-1 block.
