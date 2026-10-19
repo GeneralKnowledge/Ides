@@ -3,6 +3,7 @@
 **Dinner-first opening (Option 2a)** · SC-08 · late 46 BC · Chain 1 · FS06 seed
 **D dinner:** Caesarian host room; Africa-favour climber Sextilius (not a documented appointment)
 **Opening prose pass + cold-read:** social life densified; gloss thinned
+**Human-voice pilot:** Ch 1 only: cut synthetic polish for cold read; plot/seeds held
 
 ---
 
@@ -16,49 +17,50 @@ Overhear risk: Servants
 
 ---
 
-Cassius smiled with his teeth and counted who received what commands, what lands, what praise.
+Cassius smiled with his teeth and counted who received what: commands, lands, praise.
 
-The host toasted Caesar’s clemency as if mercy were a spice that made leftover Pompeians edible. Thapsus was finished; Cato had become other men’s sermons; triumph dust still stuck to the city’s shoes. On the neighbouring couch Sextilius (newly fat on Africa’s favour, grain, a warm word, land taken from the wrong coast) laughed too easily and lifted his cup whenever the host said *forgiven*. The room did not agree on the exact gift, only that it shone and that it had not shone on Cassius.
+The host toasted Caesar’s clemency. Mercy made leftover Pompeians sound edible. Thapsus was finished. Cato had become other men’s sermons. Triumph dust still stuck to the city’s shoes. On the neighbouring couch Sextilius, newly fat on Africa’s favour, laughed too easily and lifted his cup whenever the host said *forgiven*. The room did not agree on the exact gift. It only agreed that it shone, and that it had not shone on Cassius.
 
 Cassius ate. The fish was good enough to make silence look like gratitude.
 
 A lesser guest leaned too far toward the host’s couch while the toast was still warm. “If your house still remembers my brother’s petition…” he began, loud enough for the wrong ears.
 
-The host did not look at him. He looked at the wine, then at Sextilius, then past the petitioner as if furniture had spoken out of turn. Sextilius’s laugh arrived a beat late and aimed at nothing. Cassius almost answered for him, and reached for bread instead.
+The host did not look at him. He looked at the wine, then at Sextilius, then past the petitioner. Sextilius’s laugh arrived a beat late and aimed at nothing. Cassius almost answered for him. He reached for bread instead.
 
-A servant leaned in with the jug. The petitioner swallowed the rest of his sentence with the pour. Rain, cousins, a mule that had thrown a clerk: ordinary noise until the jug retreated.
+A servant leaned in with the jug. The petitioner swallowed the rest of his sentence with the pour. Someone talked about rain. Someone else about cousins. A mule that had thrown a clerk. Ordinary noise until the jug retreated.
 
 “You look well on mercy,” the host told Cassius, all courtesy, as if the interruption had been a draft under the door. “Rome needs men who can accept a soft chain without rattling it.”
 
 “I rattle nothing,” Cassius said, equally courteous. “I digest.”
 
-Sextilius leaned in, wine-bright. “Digest carefully. There is talk the queen across the river keeps a child’s schedule under Caesar’s roof. Private hours with foreign furniture. Fresh enough that the paint still smells. Best not to notice aloud.”
+Sextilius leaned in, wine-bright. “Digest carefully. There is talk the queen across the river keeps a child under Caesar’s roof. Private hours. Fresh paint. Best not to notice aloud.”
 
 The host’s smile did not change. “We notice gardens and grain. Alexandria’s gossip is not a clause until someone seals it.”
 
-The petitioner tried a smaller ask (an introduction only, a name spoken in the right ear) and found the host’s shoulder already turned toward better amusement. By the fruit course Cassius’s rib still knew the difference between the favour that shone and the one that had not.
+The petitioner tried a smaller ask, only an introduction, a name in the right ear. The host’s shoulder was already turned toward better amusement. By the fruit course Cassius’s rib still knew the difference between the favour that shone and the one that had not.
 
-Cassius, lightly, to the space between host and Sextilius: “Some of us are forgiven into irrelevance. It is a delicate art.”
+Cassius spoke lightly, into the gap between host and Sextilius: “Some of us are forgiven into irrelevance.”
 
-Sextilius barked a laugh that wanted company. The host’s eyes narrowed a fraction, a station warning. The petitioner laughed too, grateful to be included in any sound, and then looked as if he wished he had not.
+Sextilius barked a laugh that wanted company. The host’s eyes narrowed a fraction. The petitioner laughed too, glad to be included in any sound, then looked sorry he had.
 
-He left early, courteous: thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend.
+He left early and courteous: thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend.
 
-In the street, Sextilius caught up as if by accident, still smiling for the door-slaves.
+In the street Sextilius caught up, still smiling for the door-slaves.
 
 “He feeds you forgiveness and keeps the favour for men who laugh on cue,” Sextilius said the moment the threshold lamp was behind them. “I laughed. I am not proud. I am employed.”
 
 Cassius walked. “You laughed at the right toast. That is a skill.”
 
-“And you digested.” Sextilius glanced back. “Also, watch the Transtiberim talk. Men who joke about the queen’s boy at dinner are pricing something. I don’t know what. I only know my land came with a silence attached.”
+“And you digested.” Sextilius glanced back. “Also, watch the Transtiberim talk. Men who joke about the queen’s boy at dinner want something. I don’t know what. I only know my land came with a silence attached.”
 
-Cassius kept *queen / child / silence* with the names that had smiled wrong. He did not use the word *recruit*. Words like that belonged to later rooms. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
+Cassius kept *queen / child / silence* with the names that had smiled wrong. He did not use the word *recruit*. That belonged to later rooms. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
 
 ---
 
 ## Continuity
 - **Opening 2a:** Book opens on Cassius dinner, late 46 (**D** host / Africa-favour climber **Sextilius**). Not a documented historical banquet.
 - **Prose pass + cold-read:** lesser guest misjudges ask; servant interruption mid-ask; spice stack thinned; explanatory “slight/soft chain” gloss cut, behaviour carries it.
+- **Human-voice pilot (Ch 1 only):** cut stacked *as if* / furniture / parenthetical polish; broke multi-clause toast block; held soft-chain, digest, queen/child rumour, petitioner beat, street exit. Expand to later chapters only if cold read confirms.
 - Chain 1: clemency as social instrument; resentment crystallises without knives.
 - FS06 / S2: queen/child/Transtiberim as **rumour** only, lodging treated as newly public. No Actium; no narrator paternity.
 - AMB-1 untouched; SIDE-1 not planted here.
