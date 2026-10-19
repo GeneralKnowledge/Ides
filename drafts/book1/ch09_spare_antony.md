@@ -2,7 +2,7 @@
 
 **M5 polish** · SC-22, SC-23 · M6 · CHOREO-1 prep · B2
 **S-A0:** show-don’t-tell access; Decimus resistance; exit-complaint
-**Human-voice pass:** surgical; chin-tip memory + Trebonius Monday plant kept.
+**Human-voice:** Ch 9 feel-pass (rules); chin-tip + spare Antony + Trebonius plant kept.
 
 ---
 
@@ -30,7 +30,7 @@ Decimus’s first answer was not yes. “Find another man he trusts.”
 
 “There isn’t one who will still look him in the face after,” Cassius said. “That is why it has to be you.”
 
-A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s chin-tip from yesterday (*Campus, before the light goes dishonest*) and hated how ordinary the memory was.
+A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s chin-tip from yesterday: *Campus, before the light goes dishonest.* He hated how ordinary the memory was.
 
 “If I bring him,” Decimus said at last, “you finish clean. No massacre. No Antony first, unless you have already decided otherwise.”
 
@@ -62,7 +62,7 @@ Overhear risk: Low, slave almost hears (**D**)
 
 ---
 
-The garden was small enough that anger had nowhere to go but into whispers. Winter herbs still clung in pots; someone’s cook had left a knife on a stone and Decimus moved it without thinking, habit of a man who noticed edges.
+The garden was small enough that anger had nowhere to go but into whispers. Winter herbs still clung in pots. Someone’s cook had left a knife on a stone, and Decimus moved it without thinking, habit of a man who noticed edges.
 
 Cassius wanted Antony’s morning ended with Caesar’s. “Leave the consul alive and you leave a sword with a mouth,” he said. “He will not write amnesties. He will write funerals. He will lift a bloody toga and make the Forum his client.”
 
@@ -72,7 +72,7 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “Then let them be wrong about the pile,” Brutus answered. His eyes flicked to Decimus, proof the inch from last night still governed him: hearing meant surgery, not cordwood.
 
-Decimus counted thresholds in his head, Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
+Decimus counted thresholds in his head: Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
 
 “And if Trebonius fails?” Cassius asked.
 
@@ -104,3 +104,4 @@ Decimus washed at a basin later and thought, absurdly, of Spanish wine and Caesa
 - Next: Ch 10 SIDE-1.
 **M5 polish:** header + voice spot-check; mercy-decision density held.
 - **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; exit-complaint on living consul price; Cassius dry humour on spare; Monday/Trebonius plant; no friendship-key caption.
+- **Human-voice (Ch 9):** one feel-pass — open chin-tip paren; light breath on garden/interest beats; hold spare Antony, Trebonius remounts, Decimus resistance.
