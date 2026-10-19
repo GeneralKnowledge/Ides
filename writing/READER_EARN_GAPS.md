@@ -49,6 +49,7 @@
 | Exta/liver; Greek teacher / sealed unread (Artemidorus-trad.); tribune; blade-into-Senate; king-bird Ides-morning | Ch 15 densify (surgical); Pompey/Curia not re-glossed |
 | Golden chair; toga sacred; imagines; Capitol; Dolabella; 23 later number; kai su dispute | Ch 16 densify (surgical); Curia/Tillius/Subura not re-glossed |
 | Amnesty = killers pardoned **and** Caesar’s acts stand; libertas; Lepidus horse/island; Tellus; Vestals will; which-boy | Ch 17 densify (surgical); Capitol/Cisalpine/donative not re-glossed |
+| Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
 
 ---
 
@@ -58,13 +59,9 @@
 
 Do not re-announce. Cassius remains Ch 1 slight only; soft-chain dinner callback already in Ch 4 Ancestors.
 
-### 2. Octavian (Ch 5) — **paid** (name-path scrap deferred)
+### 2. Octavian (Ch 5 / 18) — **paid**
 
-Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
-
-| Need | Earn in |
-|------|---------|
-| Octavius → Octavian → Caesar (name path) | **Deferred:** one prior scrap that adoption/name is paper Caesar can write — plant in Ch 6–17 orbit, not re-gloss in Ch 5 |
+Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Adoption/name as paper the dead can write paid in Ch 18 will (Octavius → son/name). Do not re-brochure the adoption law later; street mutation may still say “boy / Octavian / Caesar.”
 
 ### 3. Conspirator roster (Ch 7 / 13) — **partially paid**
 
@@ -111,11 +108,11 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–17.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–18.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–17 glossary already paid.  
+3. Do **not** reopen Ch 1–18 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** name-path scrap before Ch 18 → Ch 26–27 Mutina setup → Ch 30 lists/Triumvir.
+**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides spine Ch 14–18 closed.)
 
 *End reader-earn gaps.*
