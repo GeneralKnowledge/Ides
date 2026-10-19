@@ -3,7 +3,7 @@
 **M5 polish** · SC-52, SC-53, SC-54 (+ SC-54b echo)
 **Canon:** EXIT-1 seed · CLEO-1 · A8 · SERIES hooks only
 **Dates:** late March 44 → days after Ides (OCT track delayed)
-**Human-voice:** Ch 20 feel-pass (rules); light trough — EXIT-1 / CLEO-1 / OCT delayed held.
+**Human-voice:** Ch 20 expanded; Cisalpine/Plancus/Mutina + EXIT-1 east densify; CLEO Venus/Caesarion; Maecenas present-tense; trough held.
 
 ---
 
@@ -22,17 +22,23 @@ Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet
 
 “They came for the door, not even for you,” the client said. “The door was enough.”
 
-The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn.
+“Is there a door left?” said Decimus.
+
+“There is a doorway, domine. It has an excellent view of the street.”
+
+The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn. The crowd, which could not follow a sentence about inheritance, could follow a betrayal.
 
 A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions. One pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
 Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
-Cisalpine Gaul was no longer a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Decimus packed maps, not speeches.
+Cisalpine Gaul was no longer a promotion. It was the province in northern Italy, south of the Alps, that Caesar had given him to govern, and it came with legions. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere. Decimus packed maps, not speeches.
 
 Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
 “East,” Brutus said. Not a question.
+
+Caesar had marked Brutus for Macedonia and Cassius for Syria, the eastern provinces where the legions were and where Caesar himself had meant to go. It was also the farthest place from the Forum.
 
 “You and Cassius,” Decimus said. “I take the nearer knife. Someone has to hold a road in Italy.”
 
@@ -40,18 +46,23 @@ Brutus’ face was pale under soot. “They burned Helvius for a name. If you ta
 
 “If I wait, the road fills with his veterans,” Decimus said. “You want me safe. I want a gate that still opens for our side. Those are not the same schedule.”
 
+“You have never once been on the same schedule as me.”
+
+“I have been on yours since the knives,” said Decimus. “Look where it left my house.”
+
 Brutus looked at the broken street. “Then do not ask me to bless the nearer knife as wisdom.”
 
 “I am not asking for a blessing.” Decimus clasped Brutus’ forearm once: friend, co-murderer, stranger already arguing about timing. “Do not wait for the Forum to love you. It loved a corpse more.”
 
 He left before philosophy answered, forearm clasp still warm. East was already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read *yet* twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. Plancus was another of Caesar’s commanders, the governor of a neighbouring province across the Alps, a wealthy, careful man who wrote very good letters and kept his legions very close. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina was the walled town on the Via Aemilia, the road across the plain of Cisalpine Gaul, which Decimus meant to make his fortress. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read yet twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
 
 ---
 
 ## Continuity notes (SC-52)
-- Split: Decimus → Cisalpine track; Brutus/Cassius → East track (EXIT-1 seed).
+- Split: Decimus → Cisalpine track; Brutus/Cassius → East (Macedonia/Syria) track (EXIT-1 seed).
+- **Mutina seed:** Antony hunger for Cisalpine legions; Plancus across Alps; Mutina / Via Aemilia fortress (Ch 4 Mutina plant densified, not re-CV of ditch timing).
 - **1G / P1-b:** Plancus soft delay + Lepidus silence seed ally-evaporation before Ch 29.
 - **Final integrated:** Decimus/Brutus timing disagreement (east-first vs nearer knife); Plancus refuses grain “yet”; Lepidus channel will not take a return tablet.
 - Property damage shown; which house burns = flex, keep generic elite street.
@@ -81,7 +92,11 @@ A Roman clerk from the house’s new legal weather arrived mid-morning with a po
 
 “I am taking my household’s linen,” Cleopatra said. “Trees stay. So do statues.”
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. The inspection became a price without naming one. Ammonius started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
+“No one has asked about the statues, majesty.”
+
+“Then you may be the first to be disappointed.”
+
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Caesarion was Cleopatra’s son, the small boy whom Egypt called Caesar’s heir and Rome called nothing at all. The inspection became a price without naming one. Ammonius, her chief of staff and her tongue in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
@@ -93,7 +108,7 @@ Caesarion asked, in the frank cruelty of children, whether Father would come to 
 
 “Father belongs to their Forum now,” Cleopatra said. Softness later. Ships first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
 
-Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept him as useful irritant.
+Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cicero had been promised books from the library at Alexandria, had not received them, and had made a point of saying in Rome what he thought of the woman who had not sent them. Cleopatra kept Ammonius as useful irritant.
 
 “We do not beg intermediaries,” she said. “We leave before they invent another inspection.”
 
@@ -101,14 +116,19 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 “Pay the books from Alexandria if you must,” Cleopatra said. “Do not buy Cicero’s courtesy with my schedule. Soft mouths invent second prices on water.”
 
+“He is a very good writer, majesty.”
+
+“He is a very good writer who thinks I am a bad debt. I would rather be a bad debt than a footnote.”
+
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city, her face in Roman metal, and left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city, her face in Roman metal, and left it there. Caesar had set a gilded statue of her in the temple of Venus Genetrix, the mother of the Julian family, a goddess’s neighbour, and the whole city had walked past it and said nothing. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
 
 ---
 
 ## Continuity notes (SC-53)
-- CLEO-1 lodging; departure plan; Caesarion present.
+- CLEO-1 lodging; departure plan; Caesarion present (Egypt’s heir / Rome’s nothing).
+- Ammonius = chief of staff; Venus Genetrix statue densify; Cicero books unpaid.
 - No dagger-circle claim; dynastic lens.
 - **S-B1 / S8:** Cleopatra as **payoff** of prior gardens/queen/child gossip (not introduction); packing obstruction (clerk inspection); *regina* debate kept out of her POV.
 - // M5: *regina* debate kept out of Cleopatra POV: verified.
@@ -132,13 +152,17 @@ The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises.
 
 He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
 
-They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side, Maecenas’s quieter sort of attention on the other, companions enough that bad news had to choose a face.
+They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side, Maecenas’s quieter sort of attention on the other, companions enough that bad news had to choose a face. Maecenas was a rich, well-read Etruscan knight, some years older than Octavian, still just the clever man who happened to be at the table.
 
 “Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. Smoke in the report, too. Houses. Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
 
 Octavian felt the floor drop, the childish, humiliating sense that the adult arrangement of the world had been a prop. Then the colder part: who benefits, who moves, who lies in the first report.
 
 “Names first,” he said. “Then places. Separate what you saw from what the road invented.”
+
+“He is eighteen,” Maecenas murmured to Agrippa. “He sounds forty.”
+
+“He sounds forty,” said Agrippa. “He is going to be forty by spring.”
 
 The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, the unfinished questions had already boarded the same weather anyway.
 
@@ -148,7 +172,7 @@ Octavian didn’t shake the hand off. He also didn’t lean into it. He asked fo
 
 “We go when going is not suicide,” he said. “First we learn what name I still have, and whether gardens and a boy’s hours are already writing it without us.”
 
-He didn’t say *son*. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
+He didn’t say son. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
 Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan. The sealed tablet pressed on Caesar in the litter remained unread among other papers when the body was handled. A household fragment burned elsewhere was never that tablet. Dual tracks stood. Names first.
 
@@ -157,7 +181,7 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 ## Continuity notes (SC-54)
 - Delayed knowledge; will not fully known yet.
 - Octavian scared/learning/cold seed, not Augustus.
-- Agrippa foreshadow light.
+- Agrippa foreshadow light; Maecenas present densify (no future-friend wink).
 - Smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).
 - **Gravity:** unfinished questions collide across cameras (Decimus gate / Cleo who-finishes-story / OCT name+gardens); NOTE-1 dual folded into OCT breath (no separate stamp collage).
 - **Anti-formula:** Three-census labels + “filed the exit-complaint” strip; timing / sandals / names-first centres held.
@@ -171,4 +195,4 @@ Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capita
 
 **Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds (now inside SC-54).
 **M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.
-- **Human-voice (Ch 20):** one light trough feel-pass — bucket as-if, dream versions, Lepidus receipt, Cleo pack/who-finishes, courier broken list; hold EXIT-1, CLEO-1, OCT delayed, Plancus *yet*.
+- **Human-voice (Ch 20 expanded):** densify Cisalpine Antony-hunger / Macedonia-Syria EXIT-1 / Plancus / Mutina Via Aemilia / Caesarion / Ammonius / Venus Genetrix / Maecenas present; cut “for a week”; cut Maecenas future-friend wink; hold EXIT-1, CLEO-1, OCT delayed, Plancus *yet*; no modern weekdays.

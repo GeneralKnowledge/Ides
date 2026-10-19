@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–19 expansion (through funeral / Wrong Cinna).  
-**Method:** Same as Ch 1–19 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–20 expansion (Act 4 open: smoke / Cleopatra exit / news late).  
+**Method:** Same as Ch 1–20 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -51,6 +51,7 @@
 | Amnesty = killers pardoned **and** Caesar’s acts stand; libertas; Lepidus horse/island; Tellus; Vestals will; which-boy | Ch 17 densify (surgical); Capitol/Cisalpine/donative not re-glossed |
 | Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
 | Wrong Cinna: Helvius poet ≠ Cornelius praetor; Rostra funeral; fuller | Ch 19 densify (surgical) |
+| Cisalpine = N. Italy south of Alps / Decimus grant; Antony hunger; EXIT-1 Macedonia–Syria; Plancus *yet*; Mutina / Via Aemilia seed; Caesarion / Venus Genetrix; Maecenas present | Ch 20 densify (surgical); full Mutina siege still Ch 26–27 |
 
 ---
 
@@ -87,7 +88,8 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 
 | Need | Earn in |
 |------|---------|
-| Decimus holds Cisalpine; Antony wants the province | Ch 20–26: **set the swap/siege** before Ch 27 ditch parley |
+| Cisalpine / Antony hunger / Mutina Via Aemilia / Plancus *yet* | **Seed paid in Ch 20**; do not re-CV the province geography |
+| Decimus holds Cisalpine; Antony wants the province (swap/siege) | Ch 26: **set the siege** before Ch 27 ditch parley |
 | Hirtius + Pansa = consuls of the relief year | Ch 26–27: **name them as the Senate’s swords** before Ch 28 mud kills Hirtius / opens Pansa |
 
 ---
@@ -109,11 +111,11 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–19.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–20.  
 2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–19 glossary already paid.  
+3. Do **not** reopen Ch 1–20 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through funeral Ch 14–19 closed.)
+**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through Act 4 open Ch 14–20 closed.)
 
 *End reader-earn gaps.*
