@@ -3,7 +3,7 @@
 **Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15
 *(Chronological: diadem first, then disclosure walk.)*
 **G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
-**Human-voice pass:** surgical only; diadem + Fulvia debt-word + Trebonius Monday kept.
+**Human-voice:** Ch 7 feel-pass (rules); diadem + Fulvia debt-word + Trebonius Monday kept.
 
 ---
 
@@ -15,21 +15,21 @@ Overhear risk: Forum extreme; house medium
 
 ---
 
-Antony liked the Lupercalia because it let a consul sweat in public without looking weak. Consul: the year’s chair beside Caesar, fasces and colleagues and the right to speak first when the Senate sat. The title still smelled new enough on him that goat-reek could not quite cover it.
+Antony liked the Lupercalia because it let a consul sweat in public without looking weak. Consul: the year’s chair beside Caesar, fasces and colleagues and the right to speak first when the Senate sat. The title still smelled new on him. Goat-reek could not quite cover it.
 
-He ran, joked, slapped backs, played the old fertility chaos that Romans pretended was holy. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it in the special chair (half god, half tired general) watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
+He ran, joked, slapped backs, played the old fertility chaos that Romans pretended was holy. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it in the special chair, half god, half tired general, watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
 
-When Antony came forward with the diadem (call it wreath, call it crown’s cousin, call it a test) the Forum’s noise changed pitch. Offer. The gesture hung. Wool and metal. A child’s cry somewhere under the press. Antony’s grin was wide enough to hide whether he had been told to offer or had offered to see what broke.
+When Antony came forward with the diadem, call it wreath, call it crown’s cousin, call it a test, the Forum’s noise changed pitch. Offer. The gesture hung. Wool and metal. A child’s cry somewhere under the press. Antony’s grin was wide enough to hide whether he had been told to offer or had offered to see what broke.
 
 Caesar refused.
 
-Not once only, refused in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony lowered the thing as if lowering a cup he had not meant to empty. The Forum exhaled wrong, half relief, half hunger.
+Not once only. He refused in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony lowered the thing as if lowering a cup he had not meant to empty. The Forum exhaled wrong, half relief, half hunger.
 
 “He will not be king!” someone shouted, relieved.
 
 “He already is!” someone else shouted, not relieved.
 
-In the press Antony saw a familiar face go pale, Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. He let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale: Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. He let the mouths blur back into Forum.
 
 A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
 
@@ -41,7 +41,7 @@ Antony heard the word *temporary* travel behind his back already rewriting the a
 
 Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
 
-By evening the city’s elite rooms had a new oxygen: fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. Fulvia did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
+By evening the city’s elite rooms had a new fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. Fulvia did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
 
 “They say you called it temporary,” she said.
 
@@ -70,17 +70,17 @@ Overhear risk: Medium-High
 
 ---
 
-They chose a colonnade off the Forum where shadows made faces honest and mouths careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
+They chose a colonnade off the Forum where shadows made faces careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
 
 He didn't begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
-Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step without looking like a herdsman. Herding made Brutus invent philosophy as a fence.
+Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step. He did not herd. Herding made Brutus invent philosophy as a fence.
 
 “We call it the Republic enduring,” Brutus said.
 
-“We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once (no lingering) at the emptied column, then at the boy now arguing a cup price with a muleteer. Ordinary noise was cover; he used it. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
+“We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once at the emptied column, then at the boy now arguing a cup price with a muleteer. Ordinary noise was cover; he used it. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
 
 Brutus stopped. The stop itself was an answer he preferred to speech.
 
@@ -92,7 +92,7 @@ A cart rattled past on the street beyond the columns; someone cursed a mule as i
 
 Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them, not as permission, only as the kind of dread that made postponement look like virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
-“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath, men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
+“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath: men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
 They walked on as if they had been talking about rain.
 
@@ -108,7 +108,7 @@ Cassius let the twitch count as the joke landing. “And if Brutus still burns i
 
 “Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Monday talk. Debt talk. The sort that makes a consul lean in. I am good at Monday.”
 
-Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride with the Forum’s *temporary* still sticky on the city’s tongue, and with Brutus’s refusal still warmer than any diadem.
+Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride. The Forum’s *temporary* was still on the city’s tongue. Brutus’s refusal was still warmer than any diadem.
 
 ---
 
@@ -120,3 +120,4 @@ Cassius kept *Monday* beside *Casca* and *law’s face* and did not go back to B
 **1G:** Antony filed/weather cut; Cassius *was how* cut.
 - **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius Monday/Casca humour kept.
 - **Golden-read P2:** Drop continuity-receipt “festival was still sticky”; colonnade place + goat/diadem weather.
+- **Human-voice (Ch 7):** one feel-pass — open chair/diadem parens; thin oxygen/honest-shadows/sticky-tongue cadence; hold Monday, debt-word, law’s face, decoration, No daggers yet.
