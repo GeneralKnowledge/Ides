@@ -1,8 +1,8 @@
 # Reader DOCX export (post em-dash purge)
 
-**Date:** 2026-10-19  
-**Branch:** `cursor/reader-docx-export-cb1d`  
-**Source:** `main` @ `188631b` (after #56 author-voice em-dash purge + next-reader companion)  
+**Date:** 2026-10-19 (regenerated 07:19 UTC)  
+**Branch:** `main`  
+**Source:** `main` @ `61052b5` (after #56 em-dash purge + #57 exporter fix)  
 **Exporter:** `tools/export_book1_docx.py`  
 **Artifacts:** `exports/` (gitignored) and `/opt/cursor/artifacts/docx/`
 
