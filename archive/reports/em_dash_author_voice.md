@@ -28,6 +28,16 @@ Typical substitutions:
 
 Live check after purge: **0** U+2014 in `drafts/book1/ch*.md`.
 
+## Removal record + sanity
+
+| File | Role |
+|------|------|
+| [`em_dash_removal_log.md`](em_dash_removal_log.md) | Human summary + sanity flags |
+| [`em_dash_removal_log.jsonl`](em_dash_removal_log.jsonl) | One `site` record per removed dash (929) |
+| [`_regen_em_dash_removal_log.py`](_regen_em_dash_removal_log.py) | Regenerator vs pre-purge `12f4591` |
+
+Sanity after purge: one ledger `A., doubtful` fixed to `A.: doubtful`; one intentional period at Ch 13 GO (`thickened. Ligarius’s…`). Completeness gaps: 0.
+
 ## Reading note
 
 Tomorrow’s full read will see the purged punctuation. If a sentence feels flattened or wrongly stopped, note the chapter/moment; do not put the em dash back as a default fix.

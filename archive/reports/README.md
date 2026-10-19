@@ -12,4 +12,4 @@ Read-only guidance scan of unread Ch 7–13 + later war (no edits): [`guidance_s
 
 Next full-reader preparation (questions only; no revision brief): [`next_reader_review_companion.md`](next_reader_review_companion.md).
 
-Em-dash policy: author never uses them; purged from drafts: [`em_dash_author_voice.md`](em_dash_author_voice.md).
+Em-dash policy: author never uses them; purged from drafts: [`em_dash_author_voice.md`](em_dash_author_voice.md). Removal map + sanity: [`em_dash_removal_log.md`](em_dash_removal_log.md).

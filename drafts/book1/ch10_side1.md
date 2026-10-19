@@ -102,7 +102,7 @@ Neighbours already filled the stair with theories. Hordeonius filed them without
 
 Nobody answered. The dead never did. That was why ledgers needed the living.
 
-He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A., doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
 A water-carrier at the stair mouth (jug dripping, no stake in Basilus or Bucco) told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.” Hordeonius did not correct her. Street mouths were how SIDE-1 would travel when larger corpses later taught the city to forget on purpose. He filed her sentence beside the three stair theories and kept OPEN-0: killer still unknown; ash pressure already planted.
 
