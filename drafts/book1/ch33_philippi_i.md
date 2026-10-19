@@ -1,6 +1,7 @@
 # Chapter 33: Philippi I
 
 **Phase 1D.2 / Act5 ordeal** · SC-90, SC-91 (+ OPEN-0 echo folded) · Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
+**Human-voice:** Ch 33 feel-pass (rules); light Philippi — INF death / eagle staff / fog held.
 
 ---
 
@@ -24,13 +25,13 @@ Dust coated his teeth. He spat and pointed and the pointing became cohorts movin
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
 
-He did not think of Italian acres. Acres were for clerks after dust. For one breath a courier’s report from weeks ago surfaced anyway: solvent men sleeping badly on neighbours’ soil, ash tablets nobody solved. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
+He did not think of Italian acres. Acres were for clerks after dust. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Ash tablets nobody solved. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
 ### F3: Laberius
 
 Dust found every gap in Laberius’ teeth; the eagle staff was the only upright fact he trusted.
 
-He saw a signal, or thought he did, flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’ side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms. Plains lied through mouths that needed the story more than the mud did.
+He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’ side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms. Plains lied through mouths that needed the story more than the mud did.
 
 He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Trophies mid-fight got men killed decorated.
 
@@ -52,7 +53,7 @@ Overhear risk: Few
 
 The messenger’s mouth was wrong before the words were.
 
-Dust made the man’s tongue thick; fear made it thicker. He had lost a sandal somewhere on the climb; one foot bled into the packed dirt of Cassius’ forward post. The map in Cassius’ head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day: standards gone, wing broken, Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
+Dust made the man’s tongue thick; fear made it thicker. He had lost a sandal somewhere on the climb; one foot bled into the packed dirt of Cassius’ forward post. The map in Cassius’ head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’ worst sketch of the day. Standards gone. Wing broken. Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
 
 “Say it again,” Cassius said. “Slower. Names. Directions. Which standard.”
 
@@ -66,13 +67,13 @@ The runner came back empty-mouthed. No second count. Only another man who had he
 
 Cassius, who had trusted numbers, trusted a broken number because broken numbers still looked like numbers if you needed them enough to hate delay. Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare, nothing he could count, nothing he could punish.
 
-He almost waited. Waiting was the mathematician’s virtue. Waiting here meant listening to more mouths invent geometry. He felt the old contempt for delay rise and catch on something softer: hope, or the habit of correcting clerks before they ruined a sum. For three breaths he held both: the incomplete report as a sum that would not clear, and the possibility that Brutus was still rearranging the other half of the plain without him.
+He almost waited. Waiting was the mathematician’s virtue. Waiting here meant listening to more mouths invent geometry. He felt the old contempt for delay rise and catch on something softer: hope, or the habit of correcting clerks before they ruined a sum. For three breaths he held both. The incomplete report as a sum that would not clear. And the possibility that Brutus was still rearranging the other half of the plain without him.
 
 The softer thing lost.
 
 He dismissed the messengers with a bow that meant *done*. Alone enough, alone with two men whose faces already disagreed about everything except the steel, he made the end himself rather than wait for the plain to invent a worse one.
 
-He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as closed by belief and closed the account the only way left.
+He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as closed by belief. He closed the account the only way left.
 
 On another part of the field messengers were still lying in good faith. Cassius was already done. Bad news, believed, had been enough. The hesitation before the steel had not been enough to save him from believing it.
 
@@ -87,3 +88,4 @@ On another part of the field messengers were still lying in good faith. Cassius 
 **1G:** Laberius opener differed from Mutina (P2-a).
 - **Law-sweep:** Battle/INF death, humour OFF; Antony/Laberius field ≥3; Cassius incomplete-report ordeal; OPEN-0 echo only; Mutina mud echo in Laberius body; two cameras (not postcard mosaic).
 - **Human-voice:** flattened Antony/Laberius/Cassius parens; cut “Ops body” / “enough geometry” / “ledger closed” craft wrappers; map-fog *as if* flattened; INF death + Philippi compression held, not expanded.
+- **Human-voice (Ch 33):** one light Philippi feel-pass — Italy echo / signal colon / *lost* sketch / both breaths / account close; hold INF death, eagle staff, fog, humour OFF. Not a polish war.
