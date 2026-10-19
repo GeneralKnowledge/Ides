@@ -37,6 +37,8 @@
 | Basilus = praetor / Gaul / denied province | Ch 10 baths soft-hour |
 | Aedile ladder / freedman pay-on-Kalends | Ch 10 Seius + Visellius |
 | Ides = 15 March; Spurinna (haruspex); Sibylline “only a king” | Ch 11 Kitchen + Only a King |
+| Capys tablet (Balbus vouches) | Ch 11 Kitchen (earlier prodigy; replaces premature king-bird) |
+| King-bird / wren in Pompey’s hall | Ch 15 Sour Birds (Ides-morning only) |
 | Philippics word (private joke plant) | Ch 11 Cicero desk (pay Ch 25) |
 | Pediment / tablinum / pontifex office-house | Ch 12 Calpurnia dread |
 | NOTE-1 spare/stay fragment (incomplete) | Ch 12 Nysa corridor |
@@ -44,7 +46,7 @@
 | Capua unpaid / donative late / eagle (veteran powder) | Ch 13 Land Powder |
 | King-word since February (no Lupercalia re-list) | Ch 14 atrium (pays Ch 7) |
 | Mars arms rattle / pontifex house; Jupiter hand-dream; clients; haruspices; Campus; Domina; falling sickness | Ch 14 densify (surgical) |
-| Exta/liver; Greek teacher / sealed unread (Artemidorus-trad.); tribune; blade-into-Senate | Ch 15 densify (surgical); Spurinna/king-bird + Pompey/Curia not re-glossed |
+| Exta/liver; Greek teacher / sealed unread (Artemidorus-trad.); tribune; blade-into-Senate; king-bird Ides-morning | Ch 15 densify (surgical); Pompey/Curia not re-glossed |
 
 ---
 
@@ -98,6 +100,8 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Still open before Ch 18 will:
 |------|---------|
 | Lupercalia diadem / *regnum* fear | **Paid in Ch 7**; do not re-gloss |
 | Ides = 15 March; Spurinna; Sibylline | **Paid in Ch 11**; do not re-gloss |
+| Capys tablet | **Paid in Ch 11**; do not re-gloss |
+| King-bird / wren | **Paid in Ch 15** (Ides morning); do not plant earlier |
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
 | Philippics | Ch 25 (primary): speeches against Antony; Ch 11 pun only if Ch 25 will pay |

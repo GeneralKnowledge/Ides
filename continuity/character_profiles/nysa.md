@@ -56,3 +56,4 @@ Secret child of Caesar; omniscient spymaster; modern slang.
 ## Consistency questions
 - Object-precision over thesis?
 - Omission as survival?
+- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
