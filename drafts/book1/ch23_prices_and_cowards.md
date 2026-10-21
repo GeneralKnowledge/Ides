@@ -1,7 +1,7 @@
 # Chapter 23: Prices and Cowards
 
 **Mid-tier pass** · SC-64, SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
-**Human-voice:** Ch 23 feel-pass (rules); light trough — F4 stool / SIDE-1 fizzle / Seius flinch held.
+**Human-voice:** Ch 23 expanded; Caesar’s papers in Antony’s house, Sicily wholesale / Fulvia’s sitting-room, scrap vs amnesty, Antium seed, Domus to Lepidus’ priesthood, Carinae house; trough held.
 
 ---
 
@@ -21,13 +21,27 @@ Hordeonius arranged his face into mourning for the Republic and his stylus into 
 
 Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
 
-A whisperer tried again to sell him Visellius’ old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool. Ash could not pay.
+“Who says what’s in Caesar’s papers?” the Puteoli man asked.
 
-Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “Archaeology,” he said gently, blessing-flat. “I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward, ego housekeeping, not fear.
+“The man whose house they’re in,” Hordeonius said.
+
+“Antony’s,” Sosia said. “The widow sent the chests over the night of the Ides, notebooks and money both. Safer with the consul, she was told.”
+
+“The whole of Sicily got made Roman off one posting last month,” the Puteoli man said. “Every farmer on the island. Caesar meant it, apparently. Nobody heard him say so.”
+
+“Wholesale,” Hordeonius said. “You’re retail. An eastern king bought his kingdom back in Fulvia’s sitting-room. You want a harbour exemption. Adjust your expectations and your purse.”
+
+A whisperer tried again to sell him Visellius’ old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool: names in a February hand, men sounded at the baths before the Ides. Ash could not pay.
+
+Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “The Senate pardoned the doing in March,” he said. “You want me to pay for the knowing?” Then, gently, blessing-flat: “Archaeology. I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward, ego housekeeping, not fear.
 
 The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offense waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
 
-A Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+The Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+
+“Antium?” the Puteoli man said.
+
+“Brutus’ sea house,” Sosia said, “a day down the coast. He’s sitting there out of Rome’s reach, and his mother has moved her clerks in after him.”
 
 “I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather. Watch which weather arrives with coin.”
 
@@ -59,13 +73,15 @@ Nysa bowed the bow the atrium taught. “We are grateful for the care.”
 
 Phileros laughed once, short, too short for the steward’s kindness, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
 
-Phileros kept the short laugh for the stair, where no steward’s kindness could rewrite it. “People’s chest. People’s seals. People’s careful hands in our cupboards. Empty is empty.”
+Phileros kept the short laugh for the stair, where no steward’s kindness could rewrite it. “People’s chest. People’s seals. People’s careful hands in our cupboards. Empty is empty. House goes with the priesthood, and the priesthood went to Lepidus with Antony holding the ladder. Chief priest’s house, chief priest’s cupboards. We were only ever furniture of the office.”
+
+Nysa had carried the first chests herself as far as the gate, the night of the Ides, by lamplight, and watched Antony’s men take them into the dark. Safe, the consul had promised Calpurnia. These were the leftovers. Careful hands were collecting what safe had missed.
 
 Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become someone else’s line item. The incomplete spare/stay splinter was ash. The house’s new seals were not. Danger continued without the old wax.
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 
-Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. “The Carinae,” he said. “Pompey’s old house. The consul’s now.” In the kitchen they said Antony had bought it at Caesar’s auction and never paid. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
 
 ---
 
@@ -83,31 +99,31 @@ Seius congratulated a Liberator’s cousin with wine-bright eyes and a spine alr
 
 “Liberty,” he said, and meant *I almost stood near the fire and did not burn.*
 
-The cousin clasped his arm too hard. Seius clasped back harder, then softer, etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths weeks ago. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions.
+The cousin clasped his arm too hard. Seius clasped back harder, then softer, etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths back in February. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions.
 
-After the second course a neighbour leaned in with wine on his breath and a tablet half-hidden under his sleeve. Quintus from the next block, a man who borrowed tools and returned gossip. “Sign,” Quintus said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
+After the second course a neighbour leaned in with wine on his breath and a tablet half-hidden under his sleeve. Gavius from the next block, a man who borrowed tools and returned gossip. “Sign,” Gavius said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
 
 Seia Prima’s eyes found Seius across the lamps. Expectation closed like a trap.
 
-Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Quintus was another door. The cousin would hear. The dinner circuit would adjust. Someone would remember Seius as weather that would not commit.
+Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Gavius was another door. The cousin would hear. The dinner circuit would adjust. Someone would remember Seius as weather that would not commit.
 
 “My stomach,” Seius began, and hated the cue even as he used it.
 
-“Your stomach was fine for the toast,” Quintus said.
+“Your stomach was fine for the toast,” Gavius said.
 
 Seius set down his cup carefully. “I will not sign tonight. Ask me when the Forum has decided which knives are fashion.”
 
-Quintus’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
+Gavius’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
 
 “I am with my household,” Seius said. “That is as plain as I get.”
 
-He left before dessert. Seia Prima followed without speaking until the street. “Quintus will tell them you flinched,” she said.
+He left before dessert. Seia Prima followed without speaking until the street. “Gavius will tell them you flinched,” she said.
 
 “Let him,” Seius said. “I still have a door that closes. That is what I bought.”
 
-By morning the petition had four names without his. Quintus had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Quintus’s goodwill, and the mule Quintus used to lend without asking, to keep his name off a list that could kill him.
+By morning the petition had four names without his. Gavius had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Gavius’s goodwill, and the mule Gavius used to lend without asking, to keep his name off a list that could kill him.
 
-On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Quintus gone from the count.
+On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Gavius gone from the count.
 
 ---
 
@@ -115,9 +131,10 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).
 - **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
-**Final integrated:** SC-66: Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
+**Final integrated:** SC-66: Seius refuses neighbour Gavius’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
 - **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.
 - **Expansion D8:** Domus emptying, Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
 - **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).
 - **Golden-read P3-d:** Nysa receipt errand to Antony threshold; refuses soft “stay attached” transfer.
+- **Reader-earn (Ch 23):** earns ride on stall Q&A and Domus staff, no narrator explainer sentences. Puteoli man asks who says what is in Caesar’s papers → Sosia: widow sent notebooks and money to Antony’s house the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12) vs eastern king bought back in Fulvia’s sitting-room (Deiotarus unnamed); whisperer’s scrap = February names from the baths, worthless because the Senate pardoned the doing; Sosia seeds Antium = Brutus’ sea house a day down the coast, Servilia’s clerks moved in (before Ch 24 room); Phileros: house goes with the priesthood, priesthood to Lepidus with Antony holding the ladder; Nysa carried the first chests to the gate on the Ides night; receipt errand to the Carinae, Pompey’s old house bought at Caesar’s auction and never paid (kitchen talk); Seius sounded “back in February”. Not re-glossed: bronze acts / amnesty bargain (Ch 17, 21), Domus Publica office-house (Ch 12), NOTE-1 (Ch 12), Lepidus master of horse (Ch 17), Fulvia (Ch 7), Seius / aedile (Ch 10).
 - **Human-voice (Ch 23):** one light trough feel-pass — ash as-if / stall collision / danger-without-wax / receipt bow / baker corner breaths; hold F4 ledger, SIDE-1 fizzle, Seius flinch, oil-flask fail.

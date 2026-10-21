@@ -43,7 +43,7 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Ammonius** | CLEO | Useful irritant; books/Cicero gossip | Ides plotter |
 | **Festus** | Proscription | Denounces for freedom rumour | Moral lesson furniture only |
 | **Amyntas** | F5 optional | Eastern face if used | Regular POV without assignment |
-| **Quintus** (neighbour) | F2 Ch 23 | Petition under sleeve | Become series villain |
+| **Gavius** (neighbour) | F2 Ch 23 | Petition under sleeve | Become series villain |
 
 ---
 
