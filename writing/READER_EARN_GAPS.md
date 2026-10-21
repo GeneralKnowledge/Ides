@@ -1,6 +1,6 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–21 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium).  
+**Status:** Standing after Ch 1–21 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium) + Ch 26–27 Mutina setup.  
 **Method:** Same as Ch 1–21 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
@@ -26,7 +26,7 @@
 | Parthia = eastern war clock (Crassus eagles / months east) | Ch 5 dust-route |
 | *Dictator perpetuo* = for good (not six-month hire) | Ch 6 Forever doorway |
 | Consulships sold forward / dead calendar | Ch 6 Closed Market |
-| Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay still Ch 26–27) |
+| Hirtius = writing officer / promised consul (seed) | Ch 6 Cicero courier (full Mutina pay Ch 26–27) |
 | Lupercalia diadem / *rex*/*regnum* fear | Ch 7 Diadem (crown’s cousin; three refusals) |
 | Galba / Ligarius / Casca / Trebonius first tags | Ch 7 Veiled Talk (winter; Africa pardon; ugly minute; market-day) |
 | Galba brother’s winter live / Ligarius expect-worst | Ch 8 Mandate (seal tear; Africa tissue) |
@@ -51,8 +51,10 @@
 | Amnesty = killers pardoned **and** Caesar’s acts stand; libertas; Lepidus horse/island; Tellus; Vestals will; which-boy | Ch 17 densify (surgical); Capitol/Cisalpine/donative not re-glossed |
 | Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
 | Wrong Cinna: Helvius poet ≠ Cornelius praetor; Rostra funeral; fuller | Ch 19 densify (surgical) |
-| Cisalpine = N. Italy south of Alps / Decimus grant; Antony hunger; EXIT-1 Macedonia–Syria; Plancus *yet*; Mutina / Via Aemilia seed; Caesarion / Venus Genetrix; Maecenas present | Ch 20 densify (surgical); full Mutina siege still Ch 26–27 |
+| Cisalpine = N. Italy south of Alps / Decimus grant; Antony hunger; EXIT-1 Macedonia–Syria; Plancus *yet*; Mutina / Via Aemilia seed; Caesarion / Venus Genetrix; Maecenas present | Ch 20 densify (surgical); full Mutina siege Ch 26–27 |
 | Cicero on coast-road villas (Fundi → Formiae/Puteoli); Antony’s posted acts from Caesar’s papers (bronze, Capitol); boy landed Brundisium → Philippus villa, Naples bay; Lanuvium = 18 miles down Appian Way; Brutus city praetor / ten-nights rule / Senate excuse | Ch 21 densify (surgical); name-take still Ch 22; Atticus/Hirtius/Sphaerus not re-glossed |
+| Swap law (assembly vote; Cisalpine to Antony + Macedonian legions; Senate silent); siege = ring of ditches vs count of days / army from Rome; move into Mutina + salt oxen; Hirtius + Pansa = consuls from the Kalends, the Senate’s swords | Ch 26 Decimus yard (surgical) |
+| Antony prices both consuls at the ditch (Hirtius sick / Pansa levy / not consul till Kalends); Kalends sitting with Hirtius + Pansa in the chairs; OCT as third blade | Ch 27 parley + SC-74 (surgical) |
 
 ---
 
@@ -85,13 +87,13 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 | Proscription = lists of men to be killed (property follows) | Ch 30 Bononia / street: **one teach-beat** before “lists” becomes weather |
 | Triumvir / three-man board | Ch 30 table: **name the office once** (Antony / Octavian / Lepidus) |
 
-### 6. Mutina / Hirtius / Pansa / Cisalpine (Ch 20–28)
+### 6. Mutina / Hirtius / Pansa / Cisalpine (Ch 20–28) — **paid**
 
 | Need | Earn in |
 |------|---------|
 | Cisalpine / Antony hunger / Mutina Via Aemilia / Plancus *yet* | **Seed paid in Ch 20**; do not re-CV the province geography |
-| Decimus holds Cisalpine; Antony wants the province (swap/siege) | Ch 26: **set the siege** before Ch 27 ditch parley |
-| Hirtius + Pansa = consuls of the relief year | Ch 26–27: **name them as the Senate’s swords** before Ch 28 mud kills Hirtius / opens Pansa |
+| Decimus holds Cisalpine; Antony wants the province (swap/siege) | **Paid in Ch 26** (swap vote paragraph; Ariminum rider; ring/last-ox/army-from-Rome; salt oxen). Do not re-teach the siege. |
+| Hirtius + Pansa = consuls of the relief year | **Paid in Ch 26–27** (Decimus names both from the Kalends; Antony prices both; Kalends sitting in the chairs as the Senate’s swords). Ch 28 mud kills Hirtius / opens Pansa on known men. Do not re-CV. |
 
 ---
 
@@ -117,6 +119,6 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 3. Do **not** reopen Ch 1–21 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through Act 4 letters Ch 14–21 closed.)
+**Suggested order:** Ch 30 lists/Triumvir. (Ides through Act 4 letters Ch 14–21 closed; Mutina setup Ch 26–27 closed.)
 
 *End reader-earn gaps.*
