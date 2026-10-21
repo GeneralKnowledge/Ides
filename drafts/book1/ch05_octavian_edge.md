@@ -18,13 +18,13 @@ Overhear risk: Low–N/A
 
 On the temple steps above the Forum, heat came off the stone into Octavian’s thin shoes. He stood where important men’s shadows fell and practiced being invisible on purpose.
 
-He was eighteen, and nobody had yet found a reason to remember it. His name was Gaius Octavius, and he was Caesar’s sister’s grandson, which in Rome made him a great-nephew: close enough to be invited to the ceremony, far enough to be placed at its edge. His mother had married into a respectable family with a modest fortune and no armies. His uncle had a great many armies. The gap between those two facts was the whole of his position.
+He took his own inventory while he waited, because no one else would. Gaius Octavius. Eighteen, and nobody yet had a reason to remember it. Caesar’s sister’s grandson, which made him a great-nephew: near enough to be invited, far enough to be stood at the edge. On his father’s side, a respectable house with a modest fortune and no armies. On his great-uncle’s, a great many armies. The gap between those two columns was the whole of his position.
 
 Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. He listened more than he spoke. A boy without legions borrowed maps with his ears.
 
 Caesar’s glance found him once, brief as a list check, not unkind, not enough. No prophecy in it. Octavian’s shoulders stayed still until the glance moved on. Only then did he let out the breath he had been holding. He didn’t look at Agrippa to confirm he had been seen. Looking would have spent the moment.
 
-Agrippa at his shoulder said nothing. Marcus Agrippa was the same age, a farm-bred boy with a soldier’s forearms and no family name worth the price of a seat, and he had attached himself to Octavian the way some dogs attach themselves to the one person in the house who forgets to be afraid of them. Apollodorus, somewhere behind with cloaks, fidgeted like a man who wanted his principal to be larger than the hour allowed. He was the Greek tutor, a teacher of rhetoric who had been hired to make a statesman and had so far produced a very good cloak-holder.
+Marcus Agrippa at his shoulder said nothing. Same age. Farm-bred, a soldier’s forearms, no family name worth the price of a seat. He had attached himself to Octavian the way some dogs attach themselves to the one person in the house who forgets to be afraid of them. Apollodorus, his Greek, hired to turn rhetoric into a statesman and so far the maker of a very good cloak-holder, fidgeted somewhere behind with the cloaks like a man who wanted his principal larger than the hour allowed.
 
 “They don’t know your name yet,” Agrippa murmured.
 
@@ -70,7 +70,7 @@ Overhear risk: Low–N/A
 
 Apollonia was not a reward. It was distance with homework.
 
-It was a Greek town on the Illyrian coast, across the sea from the heel of Italy, and Caesar had chosen it for a reason that had nothing to do with Octavian. A great army was gathering in Macedonia: sixteen legions, ten thousand cavalry, the best of what Spain and Africa had left alive. It was bound for the East. Caesar meant to march on Parthia, the empire beyond Syria that had destroyed Crassus and his legions nearly ten years before and kept their eagles in a temple. Rome had never forgiven it. Whoever went east and brought the eagles home would be remembered longer than the man who had merely won the war at home.
+A Greek town on the Illyrian shore, across the water from Italy’s heel, and Caesar had not chosen it for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria. Crassus and his legions destroyed there nearly ten years ago, Crassus’s eagles still hanging in some Parthian temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
 
 Somewhere in that plan, Caesar had given his great-nephew a place. Octavian was to study with the army and sail for the East beside the general’s staff. He was to learn the work of a master of the horse, the second chair, the man who rode behind the dictator. Nobody at the dinners had been told. If they had been, they would have laughed.
 

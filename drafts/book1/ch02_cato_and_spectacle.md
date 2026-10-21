@@ -20,7 +20,7 @@ Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa
 
 “Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud. Shouts. Bets. Sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn't shout. Shouting was for men who sold certainty by the jug.
 
-He knew the shape of it, as any man did who had to price what came after. Thapsus was the battle, the last big one, a spring morning in Africa when the Pompeian armies ran out of men. Utica was the town behind it, where Cato had refused to run, refused to beg, and sat up with a book until his own hand ended the argument. Caesar had been on his way with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
+He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it: the town behind the field, where Cato would not run and would not beg, sat up all night with a book, and closed his own account by hand. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
 
 “Odds, if you want them,” Sosia said, setting a tablet on the counter. Sosia had been at Hordeonius’s elbow since dawn, collecting opinions along with the coins. “Two to one the physician botched the first stitching and Cato only finished the job. Evens that he tore it open himself. Fifteen to one on the version where he accepted the pardon and was merely rude about it.”
 
@@ -42,7 +42,7 @@ The client wanted a moral. Hordeonius gave him a rate. The client’s mouth open
 
 “For Cato’s sake,” the new-ring said, louder now, “shave it. Land is coming. Veterans will pay when the colonies open. A patriot’s rate.”
 
-The colonies were Caesar’s promise to his old soldiers: farms, somewhere, eventually, on ground nobody had yet explained how to take from the men currently farming it. A fine promise. It paid nothing until it was kept.
+*Colonies.* Hordeonius filed the word where he filed all of Caesar’s promises to his old soldiers: farms, somewhere, eventually, on ground nobody had yet explained how to take from the men currently farming it. Fine paper. It paid nothing until it was kept.
 
 Sosia, at Hordeonius’s elbow, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in.
 
@@ -74,7 +74,7 @@ A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The ve
 
 Nobody agreed. The cake-seller sold two honey cakes to each side. The Forum only sold noise. Hordeonius let it run. One unfinished account waited on the Kalends, the first of the month, when interest fell due and half of Rome found out who its friends were.
 
-By afternoon the stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which runners still hugged oil jars like secrets. Hordeonius took those prices down too. He watched a runner from the Domus Publica cut through the press. That was the house beside the Vestals’ temple which Rome lent to its chief priest, and Rome had lent it to Caesar. The victor’s house was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
+By afternoon the stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which runners still hugged oil jars like secrets. Hordeonius took those prices down too. He watched a runner cut through the press from the Domus Publica, the chief priest’s house beside the Vestals’ fire, which the city had lent to Caesar along with the priesthood. A lease with a god on it. Hordeonius would not have written it. The victor’s house was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
 
 ---
 

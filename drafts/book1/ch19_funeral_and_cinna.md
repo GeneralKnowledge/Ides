@@ -18,7 +18,7 @@ Overhear risk: Extreme
 
 In the Forum Romanum Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
 
-A Roman funeral for a great man was a public show: the body carried to the Forum, a eulogy from the Rostra, the speaker’s house walking behind in the ancestors’ masks. The Senate had agreed, in the spirit of the amnesty, that Caesar might have one. It had also hoped, without saying so, that it would be dignified and brief. Antony had no such hope. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
+The Senate had granted Caesar a public funeral in the spirit of the amnesty: body to the Forum, eulogy from the Rostra, the masks walking behind. It had hoped, without saying so, for dignified and brief. Antony had read the hope on their faces and declined it. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
 
@@ -75,7 +75,7 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be, the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
 
-Someone shoved a torch into Quintus the fuller’s hand. A fuller was a cloth-cleaner, a man who stamped wool in stale urine for a living and was at the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
+Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell the vats on him, stale urine and trodden wool, the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note. Capua unpaid had just learned it could walk without waiting for clerks.
 
@@ -144,9 +144,7 @@ The name travelled faster than faces.
 
 Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name the day before. Not the dagger. Only a throat full of syllables.
 
-There were two Cinnas in Rome that month. Cornelius Cinna was a praetor, a senior magistrate, Caesar’s own brother-in-law, who had thrown off his robe of office in the days after the killing and called the dead man a tyrant from the Rostra. Helvius Cinna was a minor poet, a friend of Caesar’s, who had written a long, famously obscure poem and had come to the funeral to mourn. The crowd did not read either of them.
-
-“I am Helvius,” the man said. “I am a poet. I am Helvius, not Cornelius, I am…”
+“I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. The other one is Cornelius, the praetor, his dead wife’s brother, who threw off his robe and called him tyrant from the Rostra. I am Helvius, not Cornelius, I am…”
 
 “Then you are a poet who killed him,” someone said, with the terrible logic of the afternoon.
 

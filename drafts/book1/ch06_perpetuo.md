@@ -18,9 +18,9 @@ Overhear risk: Elite medium
 
 In a Tusculum doorway that smelled of wet stone and other men’s wine, *dictator perpetuo* landed like a joke told by men with swords.
 
-A dictator, in the old Republic, was a man you hired in an emergency. The Senate handed him every power in the state for six months, and he put the fire out and went home. Sulla had broken the habit. Caesar had been stretching it for years, a year here, ten years there, and now someone in the Senate had drafted the last clause: *perpetuo*. Not for the crisis. For good. Tusculum was where half of Rome’s grand houses kept their summer villas, so news of it arrived there with the morning couriers, and the men in the doorway had heard it before breakfast.
+Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. The mind objected in history, because that was where it lived. Six months: that was a dictator, once. A man the Republic hired in an emergency, handed every power, and thanked when he had put the fire out and gone home. Sulla had broken the habit. Caesar had stretched it, a year here, ten years there, and now some obliging senator had drafted the last clause. Not for the crisis. For good. The couriers had carried it up to Tusculum’s summer villas with the morning bread.
 
-Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
+A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
 
 “Say it again,” the clapper urged the clerk, cheerful. “If we practise forever, it becomes manners.”
 
@@ -34,7 +34,7 @@ Cicero heard it and felt his face arrange itself into the old accommodation smil
 
 Nobody laughed at that, which was the first honest thing anyone had said all morning.
 
-Cicero’s smile held. Holding was his craft. He was the best speaker Rome had produced in a generation and had spent the last three years learning what a speaker was worth when the only audience that mattered had stopped needing speeches. Caesar had pardoned him with a courtesy that left no mark and no way to answer it. In private he dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and Atticus. Atticus was the friend of thirty years, a banker with a taste for Greek philosophy, who lived in Athens when Rome became unpleasant, and to whom Cicero wrote the letters that he could not say aloud. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
+Cicero’s smile held. Holding was his craft. He was the best speaker Rome had produced in a generation and had spent the last three years learning what a speaker was worth when the only audience that mattered had stopped needing speeches. Caesar had pardoned him with a courtesy that left no mark and no way to answer it. In private he dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and for Atticus, who had been reading the sentences Cicero could not say aloud for thirty years, usually from Athens, where a banker with a taste for philosophy could wait out an unpleasant Rome. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
 
 He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted. Formal office without steel still let him shape periods. Periods did not shape legions. He knew the difference. He hated knowing it in a doorway while lesser men clapped.
 
@@ -42,7 +42,7 @@ The clerk tried the title once more, almost proud. The wine-mutterer asked wheth
 
 He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once, still warm, and left it unsent in the drawer.
 
-A courier from Hirtius’s orbit arrived as the seals cooled. Hirtius was one of Caesar’s officers, a soldier who wrote well and who had once sat at Cicero’s table to practise his speeches, and who had gone on to a consulship Caesar had already promised him. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences kept men without armies invited to rooms where armies were discussed.
+A courier from Hirtius’s orbit arrived as the seals cooled. Hirtius, Caesar’s officer, had once sat at Cicero’s table to practise his speeches, and Caesar had since promised him a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences kept men without armies invited to rooms where armies were discussed.
 
 “Tell Hirtius,” said Cicero, “that I am delighted by both.”
 
@@ -50,7 +50,7 @@ A courier from Hirtius’s orbit arrived as the seals cooled. Hirtius was one of
 
 “Forever and Parthia. He will know which is which.”
 
-When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. Tiro had been his slave and was now his freedman, a quiet man with a stylus and a private shorthand of his own invention, and he had written down every word Cicero had ever said in public. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
+When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. Tiro’s stylus was already moving in the hooked shorthand he had invented to keep up with his master’s mouth, back when he was a slave and not, as now, a freedman who could have stopped. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
 
 Tiro did not laugh. He sanded. That was how you survived a master’s private complaint without becoming its audience in the street.
 
@@ -78,9 +78,9 @@ Overhear risk: Medium
 
 “They have sold years in advance,” Hordeonius said, scandalised on behalf of liquidity. “Consulships as futures. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
 
-The consulship was the highest office Rome had: two men a year, elected, each a check on the other. Caesar was going east. He would not be there to preside over elections, so he had named the next two years of office-holders himself and left the voters to cheer. The names were already circulating on tablets in the Forum like a price list for a game nobody had been invited to play.
+“Two a year,” a young senator’s agent muttered. “Elected. Each to check the other. That was the consulship. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
 
-A young senator’s agent muttered about fairness. Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
+Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
 
 “Fairness,” said Sosia, “is what men call it when they are not on the list.”
 

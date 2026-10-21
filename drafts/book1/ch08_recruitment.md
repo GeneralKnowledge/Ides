@@ -72,13 +72,11 @@ Ligarius’s smile matched his. “Softly is how men lose brothers.”
 
 Once the lane bent and the portico was blind, Galba’s face dropped. “He weighs my brother’s grain like a patriotic hymn. If Brutus only watches, I am a man who tore a seal for a shrug.”
 
-“Then make Brutus stop watching,” Ligarius said. “Or tear seals for me instead, I at least admit I am already ruined.”
-
-Ligarius had fought for Pompey in Africa and been pardoned, and some part of him had been waiting ever since for the pardon to be rescinded. A man who expects the worst is easy to recruit and hard to keep, and he said so himself, usually after the second cup.
+“Then make Brutus stop watching,” Ligarius said. “Or tear seals for me instead. I fought for Pompey in Africa and I eat on a pardon. I wake every morning waiting for it to be taken back. At least I admit I am already ruined.”
 
 Galba almost laughed, then swallowed it. Laughing in the open street after a Caesarian seal was how men became tavern stories. “Tonight he takes Casca. If Brutus still burns invitations and calls it courage, we are buying winter with poetry.”
 
-“Buy it cheap,” said Ligarius. “Poetry has no resale value.”
+“Buy it cheap,” said Ligarius. “Poetry has no resale value. Neither do men like me: easy to recruit, hard to keep.”
 
 They parted as friends. The word stayed in the air like perfume after a guest: useful, and already slightly false.
 
@@ -142,7 +140,7 @@ Cassius’s jaw worked once, interest stored. “Spare arguments later. Hearing 
 
 Servilia rose. Her hand brushed Brutus’s shoulder, brief, private, not a blessing for Cassius to claim. “Worthy men sleep badly,” she said to the room, then to Cassius with perfect courtesy: “You have been heard. The house is tired.”
 
-They left with festival manners intact, clasps, wishes for health, a joke from Casca about mules and tribunes that made Servilia’s mouth almost move. It was a very old joke, about a mule elected tribune that refused the post on the grounds that it would have to speak in public.
+They left with festival manners intact, clasps, wishes for health, and Casca’s very old joke about the mule elected tribune that declined the honour because it would have to speak in public. Servilia’s mouth almost moved.
 
 In the lane, once the door’s lamp was a coin behind them, Casca exhaled. “He will make us wait until the chickens look insulted.”
 

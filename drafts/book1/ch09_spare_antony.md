@@ -20,7 +20,7 @@ Cassius and Brutus found him on the Sacra Via, the Sacred Way, where processions
 
 “He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
 
-The Curia was where the Senate sat, a long hall with benches for six hundred men. The old one had been half torn down for rebuilding, which meant that for the next sitting the Senate would meet in the hall beside Pompey’s theatre, in the shadow of Pompey’s own statue. Decimus had thought that last thing and felt his stomach turn over.
+The Curia. Not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, six hundred senators on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
 
 Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. That was the obscenity.
 
@@ -44,7 +44,9 @@ A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s
 
 “Then argue it before I walk him anywhere,” Decimus said. “I can walk him to the right threshold and give the signal. Trebonius can keep him with remounts and Gaul paper until the world ends. I will not supply a butcher’s yard and call it friendship.”
 
-Gaul paper was the dull accounting of ten years of war: horse purchases, requisitions, winter quarters, the paperwork of an army that never stopped needing something. Trebonius had signed half of it. Antony had spent a decade pretending to read it. It was the one subject on which a consul could be held in conversation for an hour without noticing the hour had gone.
+“Gaul paper,” Cassius said, almost amused. “Ten years of horse purchases and winter quarters.”
+
+“Trebonius signed half of it. Antony spent a decade pretending to read it. It is the one subject that can hold a consul an hour without his noticing the hour has gone.”
 
 He almost smiled at Trebonius’s delay-talk, then didn’t. Smiling made the plan feel like a joke, and jokes were how men talked themselves out of courage.
 
@@ -80,7 +82,7 @@ There were four of them now: Cassius, Brutus, Decimus, and Trebonius, who had co
 
 Cassius wanted Antony’s morning ended with Caesar’s. “Leave the consul alive and you leave a sword with a mouth,” he said. “He will not write amnesties. He will write funerals. He will lift a bloody toga and make the Forum his client.”
 
-Antony was a big man with a soldier’s laugh and a gambler’s generosity, commander of Caesar’s left wing at Pharsalus and his co-consul now. He could fill a hall with his voice. He had stood at Caesar’s elbow for years, and the Forum knew it, and loved him for it, and followed him.
+Brutus could see him without trying: the big body, the soldier’s laugh, the gambler’s open hand. Caesar’s left wing at Pharsalus. Caesar’s colleague in the consulship now. A man who could fill a hall with his voice, whom the Forum had watched at Caesar’s elbow for years, and loved for it, and would follow.
 
 Brutus shook his head once, the ancestral gesture. “If we kill them in piles, we are not liberators. We are a slaughter. The Senate must see a surgery, not a civil war’s first hour. Spare the consul and we spare the city’s excuse to call us animals.”
 

@@ -18,13 +18,15 @@ Overhear risk: Contubernium gossip
 
 Laberius chewed rumour with hardtack. Rome, the letters said, thought this was mopping. The camp knew mopping that killed. Pompeian sons still hard in the hills. Veterans with nothing left but stubbornness. The ground held last night’s rain like a grudge.
 
-This was Spain, the last card. Pompey was dead and Cato was dead and Africa was closed, and what remained of the other side had crossed to the far end of the world to find its feet: Pompey’s two sons, Gnaeus and Sextus, and every soldier who preferred a lost cause to a pardon. Caesar had come from Rome to the far end of Spain in under a month to finish them. Laberius had marched every mile of it, which was why his knees had opinions.
+“Pompey’s dead,” said the man on his left, Gaius of the split sandal. He talked to keep his fingers warm. “Cato’s dead. Africa’s shut. And still his two boys find the far end of the world to stand on, and every fool who’d sooner lose with a Pompey than live on a pardon.”
 
-“They think we’re polishing a triumph,” said the man on his left, Gaius of the split sandal. He talked to keep his fingers warm.
+Gnaeus and Sextus. Caesar had come from Rome to the bottom of Spain in under a month to finish them, and Laberius had marched every mile of it, which was why his knees had opinions.
+
+“And Rome thinks we’re polishing a triumph,” Gaius said.
 
 “They can think in warm baths,” Laberius said. “We think in mud.”
 
-Vibius, his optio, spat a black fleck and checked the rivets on a shield that had already argued with Spain once. An optio was the man who stood behind a century and kept it from running, and Vibius did it by being more frightening than the enemy. You could see their breath. Orders always came in that hour.
+Vibius, his optio, spat a black fleck and checked the rivets on a shield that had already argued with Spain once. In a fight Vibius stood behind the century and kept it from running, mostly by being more frightening than whatever was in front of it. You could see their breath. Orders always came in that hour.
 
 Gaius tried a grin that cracked dry lips. “If I die tidy, tell Rome I was mopping. If I die filthy, tell them I was founding a colony with my face.”
 
@@ -34,7 +36,9 @@ Gaius tried a grin that cracked dry lips. “If I die tidy, tell Rome I was mopp
 
 “Not by anyone who lived to collect.” The next file looked over. Vibius slapped Gaius’s shoulder once, hard. “Found the colony after the donative. Dirt without coin is just a grave with opinions.”
 
-The donative was the bonus a general paid his men after a victory, in silver, in the hand, and every soldier in the army could have told you the date of the last one. The colony was the other promise, the farm at the end of the war, and nobody could have told you the date of that.
+“Donative’s silver in the hand,” Gaius said. “I can tell you the day of the last one. Now tell me the day of the colony.”
+
+Nobody could. The farm at the end of the war had never once come with a date.
 
 Laberius checked his boots. Checked Gaius again. Checked the dull place behind his knees that meant too little sleep. Philosophy could wait for men with tents. He had a century. He had a fear he refused to name. Naming made it louder.
 
@@ -60,7 +64,7 @@ Overhear risk: Low–Medium
 
 ---
 
-After the field stank of ending, iron and shit and the sweet wrongness of opened bodies, word ran that one Pompeian name was finished and another had slipped somehow. The finished one was Labienus, who had ridden at Caesar’s right hand for ten years in Gaul and then at Pompey’s through the whole war, and who had known every trick Caesar owned because he had helped invent them. Caesar had once trusted him with an army. Now he lay face down in the barley with the others.
+After the field stank of ending, iron and shit and the sweet wrongness of opened bodies, word ran that one Pompeian name was finished and another had slipped somehow. The finished one was Labienus. The older men said the name with something close to respect: ten years at Caesar’s right hand in Gaul, then at Pompey’s through the whole war, every trick the general owned and half of them his own invention. Caesar had once trusted him with an army. Now he lay face down in the barley with the others.
 
 The one who slipped was Sextus, the younger son. Escape stories always arrived cleaner than escapes.
 
@@ -108,9 +112,9 @@ Overhear risk: Household high
 
 Brutus sat under masks that judged eating.
 
-They hung in the atrium in a row, wax faces taken from the dead’s own faces, one for every man of the family who had held office. At funerals men wore them in the procession. At dinners they simply looked.
+Wax faces in a row along the atrium, each taken from a dead man’s own face, each an office held. He had walked behind them at funerals, worn by hired men, and as a boy he had been made to name them in order. At dinner they only looked.
 
-The oldest was the first Brutus, who had driven out the last king and, the story went, put his own sons to death for plotting to bring him back. Beside him hung a Servilius from the mother’s side who had once killed a man for reaching for a crown. Paint and family talk did the speaking. The family had two traditions, and both ended in blood.
+The first Brutus first: drove out the last king, and put his own sons to death when they plotted to bring the king back. Then the Servilius from his mother’s side, who had killed a man for reaching after a crown. Two traditions on one wall, and both ended in blood.
 
 Porcia’s voice stayed low. Low was harder to dodge than shouting.
 
@@ -118,7 +122,7 @@ Porcia’s voice stayed low. Low was harder to dodge than shouting.
 
 “That sounds like your father.”
 
-“It sounds like someone who had to eat with him.” She was Cato’s daughter, and had been Brutus’s wife for less than a year, long enough to learn that her husband could weigh a sentence for an hour and never let it fall. “You are looking at your ancestors as if they owe you a way out. They don’t. They killed a king. You are being asked to accept one.”
+“It sounds like someone who had to eat with him.” Cato’s daughter, and his wife for less than a year: long enough to learn that her husband could weigh a sentence for an hour and never let it fall. “You are looking at your ancestors as if they owe you a way out. They don’t. They killed a king. You are being asked to accept one.”
 
 “Caesar is not a king.”
 
@@ -126,7 +130,7 @@ Porcia’s voice stayed low. Low was harder to dodge than shouting.
 
 Clemency sat in the room like a soft chain. Caesar had spared. At Pharsalus he had sent word down the line before the fighting began: take Brutus alive, if it can be done. Brutus had lived. Tonight the spared life felt less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths. The chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand. Wine gone warm and flat. Unbidden: the hour after the spare. Caesar had kept him late over ordinary talk, laughed at something small, and sent him home as if the war between them had been a misunderstanding their house could afford. That warmth was the part of the chain that still cut.
 
-Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court. Servilia was his mother. She was also, as the whole city knew and Brutus had spent twenty years not knowing, the woman Caesar had loved longest. Not quite an invitation. A mother’s reminder: pardoned sons still owed dinners they did not choose. Soft chains got priced in women’s rooms first. Men’s masks judged later. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard plant, not summons. Women’s power was already arguing his courtesy while he still held a warm cup.
+Before Porcia could press again, a steward brought word that his mother’s messenger waited in the outer court. Servilia. The whole city knew she was the woman Caesar had loved longest; Brutus had spent twenty years not knowing it. Not quite an invitation. A mother’s reminder: pardoned sons still owed dinners they did not choose. Soft chains got priced in women’s rooms first. Men’s masks judged later. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.” Brutus heard plant, not summons. Women’s power was already arguing his courtesy while he still held a warm cup.
 
 “I am not unaware of what the name requires,” Brutus said.
 
@@ -164,9 +168,9 @@ Overhear risk: Medium
 
 Caesar had kept him half an hour on roads.
 
-Not glory roads. Ditch timing. Which bridge would take wagons after rain. Whether a courier could shave a day between Mutina and the city without killing the horse. Mutina was a walled town on the great northern road, in Cisalpine Gaul, the province Caesar meant to hand him next year, and Decimus had been choosing the width of its ditches in his head since the day he heard. Decimus answered with the bluntness Caesar liked: numbers, not compliments. Caesar laughed once at a Spanish memory Decimus had not meant as comedy. The laugh landed in Decimus’s chest. Proof he still belonged in the room where the day was decided.
+Not glory roads. Ditch timing. Which bridge would take wagons after rain. Whether a courier could shave a day between Mutina and the city without killing the horse. Decimus had been choosing the width of Mutina’s ditches in his head since the day he heard: a walled town on the great northern road, in the Cisalpine province Caesar meant to hand him next year. Decimus answered with the bluntness Caesar liked: numbers, not compliments. Caesar laughed once at a Spanish memory Decimus had not meant as comedy. The laugh landed in Decimus’s chest. Proof he still belonged in the room where the day was decided.
 
-He was Decimus Brutus, not the other one, a cousin of a cousin of the man whose family wore their ancestors on the wall. Rome had to be told apart from itself regularly. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Decimus had served him since Gaul, ten years of it, and had commanded his ships at Massilia and held his northern flank at a dozen rivers. He had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
+Decimus Brutus, not the other one. A cousin of a cousin of the man whose family wore its ancestors on the wall, and Rome had to be told apart from itself regularly. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Ten years since Gaul: Caesar’s ships at Massilia, Caesar’s northern flank at a dozen rivers. Decimus had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
 
 “Come back after the afternoon clients,” Caesar said. “I want your eye on the Campus route before the games talk turns into a fight.”
 
@@ -182,9 +186,7 @@ Everyone in Rome who owned a seal had a theory about Caesar’s will. This one h
 
 “Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still, imagine being ink while the queen’s boy across the river learns Latin jokes.”
 
-The queen was Cleopatra, who had come up from Egypt with a fleet of gifts and a child of about two, and who now kept house in Caesar’s gardens on the far side of the Tiber while Rome pretended it hadn’t noticed. The boy was called Caesarion, little Caesar, which was either a joke or a claim.
-
-The thin-ring man inclined his head. “Careful. Transtiberim talk travels. Some men care about the child; some about the gardens; some about whoever still gets half an hour on roads.”
+The thin-ring man inclined his head. “Careful. Cleopatra’s boy has a name now. Caesarion, the Alexandrians call him: little Caesar. Two years old, and his mother keeps house in Caesar’s own gardens across the river while the whole city practises not noticing. A joke or a claim, depending who pays for dinner. Transtiberim talk travels. Some men care about the child; some about the gardens; some about whoever still gets half an hour on roads.”
 
 “I care about the dinner,” said the laugher. “The rest is seasoning.”
 
