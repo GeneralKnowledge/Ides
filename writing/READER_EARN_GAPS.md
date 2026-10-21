@@ -1,6 +1,6 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field + Ch 29 isolation and fasces + Ch 30 lists / triumvirs.  
+**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field + Ch 29 isolation and fasces + Ch 30 lists / triumvirs + Ch 31–34 Formiae / eastern ledger / Philippi.  
 **Method:** Same as Ch 1–25 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
@@ -67,6 +67,7 @@
 | Cicero already tried the sea (ship out of Astura toward Brutus; seasick put-in at Caieta; *die in the country I saved*; slaves turn the litter back to the water); list copy at Tusculum names brother Quintus + nephew under three men’s edict, the boy among them; Popillius = young man Cicero once kept out of the parricide’s sack, now leading the killers | Ch 31 Formiae road (surgical; Formiae protect held); lists / Triumvirate / Philippics / Atticus not re-glossed; no trophy aside |
 | Cassius’s legions = Syria’s garrison come over + Dolabella’s men after Laodicea (Dolabella’s end by his own soldier); court in the boy’s consulship condemns the men of March to empty benches, the three looking east (why the silver now); Trebonius killed at Smyrna by Dolabella’s soldiers, settled at Laodicea; *EID MAR* = two daggers + freedman’s cap (mint-master); Brutus’s own head on the obverse vs his jab at Caesar’s living-face coins | Ch 32 Cassius hall + Brutus mint (surgical); Asia / Decimus rumour / GO night not re-glossed |
 | Philippi ground: Liberators on two hills astride the road west (Brutus north, Cassius south above the marsh, sea-fed) vs Antony’s plain and short bread → causeway through the reeds; Brutus’s men in the boy’s camp (shout reaches Antony, not Cassius); Pindarus = freedman kept since Carrhae for this errand | Ch 33 Antony field + Cassius hill (surgical; Philippi selective density held); fog / INF death not explained |
+| Second day = twenty days on (Cassius’s body to Thasos by night; Brutus’s starve-them plan vs officers’ impatience and desertions); OCT’s camp overrun in the first fight, litter stabbed, doctor’s dream into the marsh; Antony’s division: East to him, Italy + veterans to the boy, Lepidus Africa if not writing to Sextus Pompey | Ch 34 Brutus / OCT / Antony tent (surgical; Philippi close held); no Actium; land hook not re-taught |
 
 ---
 
@@ -131,6 +132,6 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 3. Do **not** reopen Ch 1–25 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 31–34 (Cicero death, eastern ledger, Philippi). (Ides through acts market Ch 14–25 closed (Philippics paid); Mutina through lists Ch 26–30 closed.)
+**Suggested order:** Book 1 reader-earn pass complete (Ch 1–34). Reopen a chapter only on a human cold-read complaint.
 
 *End reader-earn gaps.*
