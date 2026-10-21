@@ -57,6 +57,7 @@
 | Caesar’s papers + money sent by Calpurnia to Antony’s house (why he can “find” acts); Sicily citizenship wholesale vs king bought in Fulvia’s rooms (*Att.* 14.12); SIDE-1 scrap worthless after amnesty; Antium = Brutus’ sea house, Servilia’s clerks (seed for Ch 24); Domus goes with the priesthood → Lepidus pontifex maximus; Antony in Pompey’s Carinae house (unpaid auction) | Ch 23 densify (surgical); bronze acts / amnesty bargain not re-glossed |
 | Swap law (assembly vote; Cisalpine to Antony + Macedonian legions; Senate silent); siege = ring of ditches vs count of days / army from Rome; move into Mutina + salt oxen; Hirtius + Pansa = consuls from the Kalends, the Senate’s swords | Ch 26 Decimus yard (surgical) |
 | Antony prices both consuls at the ditch (Hirtius sick / Pansa levy / not consul till Kalends); Kalends sitting with Hirtius + Pansa in the chairs; OCT as third blade | Ch 27 parley + SC-74 (surgical) |
+| Antium = Servilia’s sea-house (Brutus’s mother); Cicero from Astura on Brutus’s letter; grain-buying commissions (Brutus Asia / Cassius Sicily) as praetor’s excuse to stay out of Rome; Tertulla = Servilia’s daughter, Cassius’s wife; Favonius = Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia’s clause = the corn clause; Laberius’ Capua plot still twine | Ch 24 colony forum + Antium room (surgical) |
 
 ---
 
