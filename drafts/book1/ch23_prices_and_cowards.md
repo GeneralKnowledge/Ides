@@ -101,29 +101,29 @@ Seius congratulated a Liberator’s cousin with wine-bright eyes and a spine alr
 
 The cousin clasped his arm too hard. Seius clasped back harder, then softer, etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths back in February. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions.
 
-After the second course a neighbour leaned in with wine on his breath and a tablet half-hidden under his sleeve. Quintus from the next block, a man who borrowed tools and returned gossip. “Sign,” Quintus said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
+After the second course a neighbour leaned in with wine on his breath and a tablet half-hidden under his sleeve. Gavius from the next block, a man who borrowed tools and returned gossip. “Sign,” Gavius said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
 
 Seia Prima’s eyes found Seius across the lamps. Expectation closed like a trap.
 
-Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Quintus was another door. The cousin would hear. The dinner circuit would adjust. Someone would remember Seius as weather that would not commit.
+Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Gavius was another door. The cousin would hear. The dinner circuit would adjust. Someone would remember Seius as weather that would not commit.
 
 “My stomach,” Seius began, and hated the cue even as he used it.
 
-“Your stomach was fine for the toast,” Quintus said.
+“Your stomach was fine for the toast,” Gavius said.
 
 Seius set down his cup carefully. “I will not sign tonight. Ask me when the Forum has decided which knives are fashion.”
 
-Quintus’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
+Gavius’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
 
 “I am with my household,” Seius said. “That is as plain as I get.”
 
-He left before dessert. Seia Prima followed without speaking until the street. “Quintus will tell them you flinched,” she said.
+He left before dessert. Seia Prima followed without speaking until the street. “Gavius will tell them you flinched,” she said.
 
 “Let him,” Seius said. “I still have a door that closes. That is what I bought.”
 
-By morning the petition had four names without his. Quintus had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Quintus’s goodwill, and the mule Quintus used to lend without asking, to keep his name off a list that could kill him.
+By morning the petition had four names without his. Gavius had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Gavius’s goodwill, and the mule Gavius used to lend without asking, to keep his name off a list that could kill him.
 
-On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Quintus gone from the count.
+On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Gavius gone from the count.
 
 ---
 
@@ -131,7 +131,7 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).
 - **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.
 - MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
-**Final integrated:** SC-66: Seius refuses neighbour Quintus’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
+**Final integrated:** SC-66: Seius refuses neighbour Gavius’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
 - **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.
 - **Expansion D8:** Domus emptying, Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
 - **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).
