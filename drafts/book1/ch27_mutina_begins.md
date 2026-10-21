@@ -2,7 +2,7 @@
 
 **Phase 1D.1** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
 **Human-voice:** Ch 27 feel-pass (rules); Mutina parley refuse / OCT sword / Agrippa stillness held.
-**Reader-earn:** Ch 27 expanded; Antony prices both consuls at the ditch; Kalends sitting puts Hirtius + Pansa in the chairs as the Senate’s swords before Ch 28.
+**Reader-earn:** Ch 27 expanded; Antony prices both consuls at the ditch; Kalends sitting puts Hirtius + Pansa in the chairs as the Senate’s swords before Ch 28; Cicero’s motion makes the boy’s private legions legal.
 
 ---
 
@@ -58,9 +58,7 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “Hirtius will come,” the aide said again, needing it.
 
-“After the Kalends,” the aide said. “Him and Pansa both.”
-
-“Until then we eat salt ox and count hinges,” Decimus said.
+“After the Kalends,” Decimus said. “Him and Pansa both. Until then we eat salt ox and count hinges.”
 
 He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
 
@@ -79,6 +77,8 @@ Overhear risk: Curia
 Cicero argued Octavian into usefulness the way he argued clauses into laws. Cicero. A sweating senator who feared Antony more than boys. Octavian present enough to be aimed.
 
 It was the first sitting of the new year, and the consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones, the man who had finished Caesar’s book on Gaul after Caesar stopped writing it. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Both had been Caesar’s men. Caesar had named both to this year himself. Cicero called them the Senate’s swords. Octavian counted it plainer: the only two men in the room with the right to raise legions and lead them, and the fathers meant to send them north to break the ring around Decimus. Cicero wanted a third blade to go with them.
+
+Cicero read the motion in his court voice. Thanks to the Martian legion and the Fourth, “who left the consul Antony and came over to the Senate and to Gaius Caesar.” Thanks to the veterans “whom Gaius Caesar raised at his own cost.” And for Gaius Caesar himself a praetor’s command, so that the legions he already had would at last belong to a law. Octavian heard *at his own cost* and thought of the actual cost: five hundred denarii a man through the Campanian colonies in the autumn, Philippus’s face when the chests went out, Antony at Brundisium offering his own soldiers a hundred apiece and hearing the ranks laugh. The Senate was thanking him for a crime it had decided to need.
 
 “The young Caesar,” Cicero still choked on the name privately and used it when the Curia needed a handle, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
 
@@ -101,4 +101,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 - **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.
 - **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.
 - **Reader-earn (Ch 27 expanded):** Antony names Hirtius (sick) + Pansa (levy) and the Kalends handover at the parley; aide’s “after the Kalends” + salt-ox callback to Ch 26; SC-74 set at the Kalends sitting with both consuls in the chairs as the Senate’s swords (Hirtius = Caesar’s Gaul book finished; Pansa = recruits/pay); Hirtius/OCT look; Pansa counting. Ch 28 Hirtius-fact / Pansa-open now land on known men.
+- **Reader-earn (Ch 27 gap-close):** Octavian’s army earned in Cicero’s motion (Martian legion + Fourth left Antony; veterans raised at his own cost; praetor’s command to make it legal; cf. Cic. *Phil.* 5) and Octavian’s stake (500 denarii a man in Campanian colonies; Philippus not re-glossed; Antony’s hundred at Brundisium laughed at, App. *BC* 3.43–44 trad.). Ch 28–29 *Martians* now land. Doubled aide line fixed (Decimus answers “after the Kalends”).
 - **Human-voice (Ch 27):** one feel-pass — cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.
