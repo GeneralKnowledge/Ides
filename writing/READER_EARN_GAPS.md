@@ -52,6 +52,7 @@
 | Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
 | Wrong Cinna: Helvius poet ≠ Cornelius praetor; Rostra funeral; fuller | Ch 19 densify (surgical) |
 | Cisalpine = N. Italy south of Alps / Decimus grant; Antony hunger; EXIT-1 Macedonia–Syria; Plancus *yet*; Mutina / Via Aemilia seed; Caesarion / Venus Genetrix; Maecenas present | Ch 20 densify (surgical); full Mutina siege still Ch 26–27 |
+| Caesar’s papers + money sent by Calpurnia to Antony’s house (why he can “find” acts); Sicily citizenship wholesale vs king bought in Fulvia’s rooms (*Att.* 14.12); SIDE-1 scrap worthless after amnesty; Antium = Brutus’ sea house, Servilia’s clerks (seed for Ch 24); Domus goes with the priesthood → Lepidus pontifex maximus; Antony in Pompey’s Carinae house (unpaid auction) | Ch 23 densify (surgical); bronze acts / amnesty bargain not re-glossed |
 
 ---
 
