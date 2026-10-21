@@ -1,6 +1,6 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field + Ch 29 isolation and fasces.  
+**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field + Ch 29 isolation and fasces + Ch 30 lists / triumvirs.  
 **Method:** Same as Ch 1–25 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
@@ -63,6 +63,7 @@
 | Octavian’s private legions = Caesar’s veterans bought in Campanian colonies (500 denarii a man) + Martian legion and Fourth who left Antony (his hundred at Brundisium laughed at); Senate gives the boy a praetor’s command to make them legal | Ch 27 gap-close (Cicero’s motion + Octavian’s cost); Kalends consuls not re-glossed |
 | Laberius fights in the boy’s ranks because the boy paid (500 at Capua vs Antony’s hundred); Forum Gallorum = village a week back down the road where Pansa was carried off wounded (litter seen, cause open) | Ch 28 Vibius in the ditch (surgical); Hirtius shoulder-fact / Martians not re-glossed |
 | Lepidus’s legions take Antony in at the river; boy won’t share a road with Decimus; consul’s chair wants 42, boy has 19 → centurion’s sword (*this will*); fasces = twelve lictors’ rods; Bononia = river island invitation under Lepidus’s + Antony’s seals | Ch 29 aide count + pay line (surgical); Decimus death fog kept |
+| Bononia = river island, Lepidus crosses first, pat-down; triumvirs = tribune’s law, three men for setting the state in order, five years, consul’s power (Antony: Rome’s three-man boards count copper and mind the jail); proscription = names posted, head-money from treasury, slave freed, house to auction pays the legions (Sulla precedent) | Ch 30 Bononia table (surgical); street triptych not re-glossed |
 
 ---
 
@@ -88,12 +89,12 @@ Kin / Agrippa / Apollonia / Parthia paid in Ch 5. Adoption/name as paper the dea
 
 Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage before corridor shopping (gardens/boy/queen). Do not re-announce the bargain as brochure later.
 
-### 5. Proscription / Triumvirate (Ch 30)
+### 5. Proscription / Triumvirate (Ch 30) — **paid**
 
 | Need | Earn in |
 |------|---------|
-| Proscription = lists of men to be killed (property follows) | Ch 30 Bononia / street: **one teach-beat** before “lists” becomes weather |
-| Triumvir / three-man board | Ch 30 table: **name the office once** (Antony / Octavian / Lepidus) |
+| Proscription = lists of men to be killed (property follows) | **Paid in Ch 30** Bononia table (Antony answers Lepidus’s Sulla precedent: names, heads, a sale). Do not re-teach on the street. |
+| Triumvir / three-man board | **Paid in Ch 30** table (Lepidus names the office once; Antony’s mint-and-jail jab). Do not re-CV. |
 
 ### 6. Mutina / Hirtius / Pansa / Cisalpine (Ch 20–28) — **paid**
 
@@ -127,6 +128,6 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 3. Do **not** reopen Ch 1–25 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 30 lists/Triumvir. (Ides through acts market Ch 14–25 closed (Philippics paid); Mutina setup Ch 26–27 closed.)
+**Suggested order:** Ch 31–34 (Cicero death, eastern ledger, Philippi). (Ides through acts market Ch 14–25 closed (Philippics paid); Mutina through lists Ch 26–30 closed.)
 
 *End reader-earn gaps.*
