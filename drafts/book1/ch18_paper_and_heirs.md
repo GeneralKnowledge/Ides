@@ -52,7 +52,7 @@ The whisperer bowed. “Of course. Sacred. Living seals only.” Past the next p
 
 Hordeonius heard the shape without needing every word. He almost added that he mourned Visellius still. He did mourn him, as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
-“He says he mourns you,” Sosia said, without looking up from her own tablet.
+“He says he mourns you,” Sosia said, without looking up from his own tablet.
 
 “I do,” said Hordeonius. “He paid early. It is the most beautiful thing a man can do to another man.”
 
@@ -127,7 +127,7 @@ Nysa saw, for a blink, Decimus’ open morning face in the Domus atrium. She did
 
 “It means he was loved a little less than the boy,” the woman said. “And killed him anyway. That is a very expensive way to be second.”
 
-Phileros, hearing the same news at the vestibule, whispered, “The house will be stripped for souvenirs.” Souvenirs were not the tragedy. The emptying was.
+Back at the Domus, Phileros had heard the same news at the vestibule. “The house will be stripped for souvenirs,” he whispered when she came in. Souvenirs were not the tragedy. The emptying was.
 
 Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 

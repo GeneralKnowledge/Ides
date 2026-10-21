@@ -3,7 +3,7 @@
 **M5 polish** · SC-35, SC-35b
 **Canon:** DREAM-1 · NOTE-1 · HOUSE-1 · DEC-PERS-1 · DIO-OMEN-1 · AMB-1 · AMB-3 · VOICE-1 · TONE-1 · HUMOR-1 (near-off)
 **Soft date:** night of 14 March → dawn 15 March 44 BC · Domus Publica (Sacra Via)
-**Human-voice:** Ch 14 expanded; surgical on gold spine — Lupercalia re-gloss + pediment Senate-vote trimmed; dream / chin-tip / NOTE-1 held.
+**Human-voice:** Ch 14 expanded; surgical on gold spine; Lupercalia re-gloss + pediment Senate-vote trimmed; dream / chin-tip / NOTE-1 held.
 
 ---
 
@@ -112,7 +112,7 @@ Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. C
 
 “I have a great many doors,” Caesar said. “It would be negligent to give each of them only one.”
 
-He rose and the room tilted a fraction, old enemy, the brief swim behind the eyes. He had a falling sickness that came and went, and a general who fainted in the field was a thing his enemies would have paid well to see. He waited it out without granting it a name. Physicians loved names. Names became reasons to stay in bed while other men voted.
+He rose and the room tilted a fraction, old enemy, the brief swim behind the eyes. A general who fainted in the field was a thing his enemies would have paid well to see. He waited it out without granting it a name. Physicians loved names. Names became reasons to stay in bed while other men voted.
 
 In the atrium the first clients would soon arrive, or pretend to: the morning crowd that made a house look like power. The Senate waited at Pompey’s theatre because he had put them there, on a day he had chosen, for business that required bodies in seats. Parthia didn’t move for a wife’s terror. Neither did the Forum’s appetite for a man who hid.
 
@@ -185,9 +185,9 @@ Phileros cleared his throat for the keys’ dignity. “The litter is ready. Chi
 
 “Not your sentence,” Calpurnia said, without looking at him.
 
-Nysa’s voice arrived small and stubborn from the edge. “There was a warning at the door. Incomplete. He wouldn’t take it.”
+Nysa’s voice arrived small and stubborn from the edge. “I have…”
 
-“Mats,” Phileros snapped.
+“Not now,” Phileros snapped.
 
 “Enough,” Caesar said, and the room rearranged around the word. His gaze flicked, doors, lists, Decimus’ face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
 
@@ -323,4 +323,4 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 **M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).
 - **Law-sweep:** Ides-morning peak, humour OFF; household ≥3 collisions; Decimus cheer as relationship-by-behaviour; NOTE-1 dual held (not merged); Spurinna/Decimus callbacks; G1 peak-day mosaic allowed.
 - **Human-voice:** selective cut stacked *as if* / parenthetical / mesh-label polish; held dream packet, NOTE-1 block, chin-tip, Calpurnia’s cut.
-- **Human-voice (Ch 14 expanded):** surgical densify — Mars arms / Jupiter / clients / haruspices / Campus / Domina / falling sickness; cut pediment Senate-vote plaque; cut Lupercalia/diadem/three-refusals list (king since February); hold dream / Decimus cheer / chin-tip / NOTE-1 block; no modern weekdays.
+- **Human-voice (Ch 14 expanded):** surgical densify; Mars arms / Jupiter / clients / haruspices / Campus / Domina / falling sickness; cut pediment Senate-vote plaque; cut Lupercalia/diadem/three-refusals list (king since February); hold dream / Decimus cheer / chin-tip / NOTE-1 block; no modern weekdays.

@@ -8,6 +8,7 @@
 # SC-62: Caesar
 
 POV: Octavian (+ Cicero glimpse) · Naples / Cumae / Philippus villa · Canon: A8 · Apollonia pack
+Date / place: Mid-April 44 · Philippus’ villa, Bay of Naples
 Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say “Caesar”; elders refuse the name
 
 ---
@@ -43,13 +44,13 @@ Agrippa’s head turned a fraction. Octavian’s voice stayed flat. “The name.
 
 The follower flushed, bowed too deep, and fled.
 
-Cicero had walked over from his own house along the shore to return the boy’s visit of two days before, a dutiful call, all respect and no opinions. He came touring the neighbourhood of villas like a man touring symptoms, and heard the followers before he saw the boy. *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
+Cicero had walked over from his own house along the shore to return the boy’s visit of two days before, a dutiful call, all respect and no opinions. He reached the courtyard in time to hear the follower’s *Caesar* going round it as if the word were already a consul. Octavian watched the old man’s smile hold its courtesy while something behind it took a note.
 
 “Philippus will not call him that,” someone murmured.
 
-“Neither will I,” Cicero said lightly, and meant it as taste, not prophecy. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated. Not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume. It had not retired.
+“Neither will I,” Cicero said lightly, as if it were a matter of taste. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated. Not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume. It had not retired.
 
-Cicero’s smile held. “They are still exercising,” he murmured to no one, tasting Fundi’s earlier weather. “Tell me when the exercise stops amusing them.”
+Cicero’s smile held. “They are still exercising,” he murmured, to no one in particular. “Tell me when the exercise stops amusing them.”
 
 Octavian, alone for a stolen minute on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
@@ -70,13 +71,14 @@ That evening they walked the villa’s outer path where gardeners had stopped in
 # SC-63: The Boy
 
 POV: Antony · Rome / Ops orbit · Canon: M13 · Fulvia
+Date / place: April 44 · Temple of Ops, Rome
 Info ENTER: Consul; veterans near · EXIT: Posts Caesar’s acts; underestimates Octavian
 
 ---
 
 Antony counted money the way he counted cohorts: roughly, with threats for arithmetic.
 
-The keys to the Temple of Ops hung on a clerk’s cord, and the clerk stood where Antony could see him. Under the old harvest goddess on the Capitol slope lay the money Caesar had banked for Parthia. Since the Ides it had answered to the consul. Antony liked the sound the keys made.
+The keys to the Temple of Ops hung on a clerk’s cord, and the clerk stood where Antony could see him. “Parthia’s money,” the clerk had said the first morning, “under the harvest goddess.” Since the Ides it had answered to the consul. Antony liked the sound the keys made.
 
 Around the temple the city’s paper heart still beat in Caesar’s rhythm: acts, grants, promises. Clerks moved tablets like bricks. A veteran waited with a petition that smelled of wine and land hunger. Antony meant to keep the rhythm. Rhythm kept veterans fed. Fed veterans kept consuls alive.
 
@@ -117,4 +119,4 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - **Expansion D7:** Agrippa–OCT ordinary evening path after name-take (matched pace; underestimation as behaviour, not caption).
 - **Golden-read P1:** Antony’s underestimation grounded in remembered nephew inventory + Decimus-front preference; mockery cheaper than second war.
 - **Reader-earn (Ch 22):** Campania = shore of senators’ villas (bay/Puteoli/stepfather already placed Ch 21, not repeated); Philippus who sat out Caesar’s war by leave (terrace-rail memory); full name Gaius Julius Caesar + *Octavianus* tag inside OCT’s practice (why narration says Octavian); Cicero walks over from his Puteoli house to return the boy’s call; Temple of Ops keys on a clerk’s cord, Caesar’s Parthian money under the harvest goddess, answering to the consul. Exposition pass: no narrator-only explainer sentences; earns ride on POV/behaviour (no sum, fund mechanics B/C); great-nephew Antony calls nephew. Not re-glossed: Brundisium landing, Antony’s posted acts, city praetor (Ch 21); adoption law (Ch 18); fasces (Ch 7); Cisalpine (Ch 20).
-- **Human-voice (Ch 22):** one light trough feel-pass — cushions as-if / Cicero courtyard / weeks-bet / matched pace / nephew inventory / April time breaths; hold name-take, hopeful-shadow ban, squeak underestimation.
+- **Human-voice (Ch 22):** one light trough feel-pass; cushions as-if / Cicero courtyard / weeks-bet / matched pace / nephew inventory / April time breaths; hold name-take, hopeful-shadow ban, squeak underestimation.

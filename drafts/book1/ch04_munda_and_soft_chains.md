@@ -82,7 +82,7 @@ He stacked shields until his forearms hummed. A boy from another century vomited
 
 Laberius put on the grateful face. He took the water. He nodded like a man in a painting. “Grateful for the clarity,” he said.
 
-When the clerk’s clean sandals had gone, Laberius spat pink and found Vibius and Gaius still within bitching range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
+When the clerk’s clean sandals had gone, Laberius spat pink and found Vibius and Gaius still within grumbling range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
 
 Vibius’s mouth twitched. “You’ll get a statue that owes you pay.”
 
@@ -170,7 +170,7 @@ Caesar had kept him half an hour on roads.
 
 Not glory roads. Ditch timing. Which bridge would take wagons after rain. Whether a courier could shave a day between Mutina and the city without killing the horse. Decimus had been choosing the width of Mutina’s ditches in his head since the day he heard: a walled town on the great northern road, in the Cisalpine province Caesar meant to hand him next year. Decimus answered with the bluntness Caesar liked: numbers, not compliments. Caesar laughed once at a Spanish memory Decimus had not meant as comedy. The laugh landed in Decimus’s chest. Proof he still belonged in the room where the day was decided.
 
-Decimus Brutus, not the other one. A cousin of a cousin of the man whose family wore its ancestors on the wall, and Rome had to be told apart from itself regularly. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Ten years since Gaul: Caesar’s ships at Massilia, Caesar’s northern flank at a dozen rivers. Decimus had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
+*Decimus Brutus, not the other one*: he had been hearing it since boyhood. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Ten years since Gaul: Caesar’s ships at Massilia, Caesar’s northern flank at a dozen rivers. Decimus had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
 
 “Come back after the afternoon clients,” Caesar said. “I want your eye on the Campus route before the games talk turns into a fight.”
 

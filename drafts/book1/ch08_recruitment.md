@@ -94,7 +94,7 @@ Overhear risk: High (Servilia); household
 
 Porcia had gone to bed with a headache that sat behind the eyes like watchfulness. The masks on the wall did what they always did: judged without moving. Servilia remained at the dining room’s edge, wine untouched.
 
-Cassius arrived with Publius Servilius Casca on the threshold as if they had met by chance. They had not. Casca carried the Servilius name, the same as Brutus’s mother, which was why his name opened this door and not some other. Cassius wanted a second voice so Brutus could not turn the evening into a private essay.
+Cassius arrived with Publius Servilius Casca on the threshold as if they had met by chance. They had not. Brutus saw the choice at once: Casca was a Servilius, his mother’s name, and a Servilius could not be turned away at this door. He saw the rest too: Cassius had brought a second voice so the evening could not become a private essay.
 
 “We disturb a quiet house,” Cassius said, formal enough for station.
 

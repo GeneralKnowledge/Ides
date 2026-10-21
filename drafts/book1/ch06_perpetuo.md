@@ -42,15 +42,15 @@ The clerk tried the title once more, almost proud. The wine-mutterer asked wheth
 
 He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once, still warm, and left it unsent in the drawer.
 
-A courier from Hirtius’s orbit arrived as the seals cooled. Hirtius, Caesar’s officer, had once sat at Cicero’s table to practise his speeches, and Caesar had since promised him a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences kept men without armies invited to rooms where armies were discussed.
+A courier from Hirtius’s orbit arrived as the seals cooled. Cicero had once fed Hirtius at his own table and corrected his speeches over the fish; Caesar had since promised his officer a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences kept men without armies invited to rooms where armies were discussed.
 
 “Tell Hirtius,” said Cicero, “that I am delighted by both.”
 
-“Both, my lord?”
+“Both?”
 
 “Forever and Parthia. He will know which is which.”
 
-When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. Tiro’s stylus was already moving in the hooked shorthand he had invented to keep up with his master’s mouth, back when he was a slave and not, as now, a freedman who could have stopped. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
+When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. Tiro’s stylus was already moving in the hooked shorthand he had invented to keep up with that mouth. He had been freed years ago. He had never stopped. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
 
 Tiro did not laugh. He sanded. That was how you survived a master’s private complaint without becoming its audience in the street.
 
