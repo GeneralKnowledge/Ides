@@ -2,7 +2,7 @@
 
 **Phase 1D.1 / Act5 ordeal** · SC-70 (+ folded CLEO-1 / FS11) · late 44 · A10 · CLEO-1 · FS11
 **Human-voice:** Ch 26 feel-pass (rules); Decimus refuse / Plancus *yet* / CLEO rumour held.
-**Reader-earn:** Ch 26 expanded; swap law plain / Mutina siege set (ring + count) / Hirtius + Pansa named as next year’s consuls; salt oxen.
+**Reader-earn:** Ch 26 expanded; swap law plain / Mutina siege set (ring + count) / Hirtius + Pansa named as next year’s consuls; salt oxen; Lepidus’s legions over the Alps priced in the aide’s mouth.
 
 ---
 
@@ -57,6 +57,10 @@ He wrote to Cicero with the stiff pride of a man who still believed praise from 
 
 The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on one boot and perfume still clinging to the other, Plancus’s weather made flesh. “He admires your hinges,” the man said, practising the pretty line. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *yet*, if you pressed. *Yet* is not a day on a road.” Soft refusal with a human face stacked the same height as Antony’s hard threats on the table. Decimus dismissed the man before admiration could invent another perfume. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
 
+The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. The whole coast from the Alps to Spain, and the chief priest’s robe on top of it. One word from him and Antony has friends at his back as well as a wall in front.”
+
+“One word from Lepidus goes to whoever is standing nearest when he has to say it,” Decimus said. “Pray it’s us.” He did not pray. He sent the aide to count the grain.
+
 A southern courier arrived near dusk with dust on his cloak and a packet that smelled of harbour pitch. Cleopatra’s people had sailed, queen and boy both, talking continuity to anyone who asked, not flight. The courier said it like marketplace weather: ships that left looking inevitable. Decimus did not chase the rumour into Alexandria. He had hinges. He had Antony’s hunger. A queen on salt water was confirmation that one fuse had left Italy without needing his map to light it. He set the packet under the stone with Antony’s courtesy-threats. He did not invent a mosaic for a court he could not hear.
 
 Cicero’s latest letter, opened on the same stone, carried a margin note in Cicero’s own hand, unease, not fact. Sextus still held, or seemed to hold, the western sea’s knife; do not invent a Republic that ignores fleets. A second report under the note claimed Sextus finished. Cicero had kept both coals. Decimus kept the contradiction as one more unfinished edge on a board already loud with Antony. He almost smiled at philosophers discovering docks. The smile died when he remembered his own thinning chest.
@@ -95,4 +99,5 @@ Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest
 - **Expansion D11:** Plancus delay as human face, courier who ate at his table brings *yet* without a road date.
 - **Later-book reader pass:** One Lepidus-channel silence stitch beside Plancus *yet* (Ch 20 seed → Ch 29 dual absence).
 - **Reader-earn (Ch 26 expanded):** swap law in Decimus’s stake (assembly vote; Macedonian legions; Senate silent both ways); Ariminum rider → move into Mutina; siege taught as behaviour (ring of ditches / last ox / army from Rome); Hirtius + Pansa named in Decimus’s mouth as consuls from the Kalends and the Senate’s only swords (no narrator explainer, per Process §2); salt-oxen beat (App. *BC* 3.49 trad.). Ch 27 parley now pays on these.
+- **Reader-earn (Ch 26 gap-close):** Lepidus = more legions than Plancus over the Alps (coast to Spain) + chief priest (Ch 23 pontifex not re-glossed), in the aide’s mouth beside the silent Lepidus channel; Decimus: his word goes to whoever stands nearest. Ch 29 Lepidus–Antony join and Ch 30 table now pay on it.
 - **Human-voice (Ch 26):** one feel-pass — siege rehearsal / mornings prices / Cleo mosaic / Sextus margin breaths; hold envoy refuse, Plancus *yet*, partial donative, wall-walk key.
