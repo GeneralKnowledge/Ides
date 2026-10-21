@@ -1,7 +1,7 @@
 # Chapter 22: The Name
 
 **Phase 1D.5** · SC-62, SC-63 · mid-April 44
-**Human-voice:** Ch 22 feel-pass (rules); light trough — name-take / hopeful-shadow ban / Antony squeak held.
+**Human-voice:** Ch 22 expanded; Campania villa coast / Philippus, the will’s name and the narrator’s Octavian, Cicero next door at Puteoli, Temple of Ops keys, great-nephew densify; trough held.
 
 ---
 
@@ -15,6 +15,8 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 Italy smelled different when you arrived as a claim.
 
 Octavian stood in Philippus’ villa light: sea glare, careful chairs, advice thick as oil. Atia’s fear sat in the room without needing a seat. She had already rearranged the cushions twice. Cushions could not refuse a will. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping. Noise for courage.
+
+Below the terrace the villas ran one after another down the Campanian shore, every one of them a senator’s house with a senator’s ears. Philippus had been lifting Octavius onto this same rail since the boy was small enough to be lifted. In the war he had asked Caesar’s leave to stand near no one, got it, and lived. He was handing the boy that trick now as if it were an heirloom.
 
 “Refuse the inheritance,” Philippus urged, not looking at Atia when he said it. Looking would have made it a conspiracy between parents. “Refuse the name. Live. Rome will invent another quarrel without you.”
 
@@ -39,7 +41,9 @@ The follower, emboldened, added with a grin meant as gift: “Not merely the hop
 
 Agrippa’s head turned a fraction. Octavian’s voice stayed flat. “The name. Only the name.”
 
-The follower flushed, bowed too deep, and fled. Cicero, visiting the neighbourhood of villas like a man touring symptoms, heard the followers before he saw the boy. *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
+The follower flushed, bowed too deep, and fled.
+
+Cicero had walked over from his own house along the shore to return the boy’s visit of two days before, a dutiful call, all respect and no opinions. He came touring the neighbourhood of villas like a man touring symptoms, and heard the followers before he saw the boy. *Caesar* said in the courtyard as if the word were already a consul. Cicero’s smile performed courtesy and privately stored a future headache. The boy’s face was still young enough to look temporary. Names were not.
 
 “Philippus will not call him that,” someone murmured.
 
@@ -47,7 +51,7 @@ The follower flushed, bowed too deep, and fled. Cicero, visiting the neighbourho
 
 Cicero’s smile held. “They are still exercising,” he murmured to no one, tasting Fundi’s earlier weather. “Tell me when the exercise stops amusing them.”
 
-Octavian, alone for a stolen minute on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. Agrippa found him there.
+Octavian, alone for a stolen minute on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
 “I almost said it first,” Agrippa murmured, not apology, inventory. “Shadow. Old habit.”
 
@@ -72,13 +76,15 @@ Info ENTER: Consul; veterans near · EXIT: Posts Caesar’s acts; underestimates
 
 Antony counted money the way he counted cohorts: roughly, with threats for arithmetic.
 
-Around the Temple of Ops the city’s paper heart still beat in Caesar’s rhythm: acts, grants, promises. Clerks moved tablets like bricks. A veteran waited with a petition that smelled of wine and land hunger. Antony meant to keep the rhythm. Rhythm kept veterans fed. Fed veterans kept consuls alive.
+The keys to the Temple of Ops hung on a clerk’s cord, and the clerk stood where Antony could see him. Under the old harvest goddess on the Capitol slope lay the money Caesar had banked for Parthia. Since the Ides it had answered to the consul. Antony liked the sound the keys made.
+
+Around the temple the city’s paper heart still beat in Caesar’s rhythm: acts, grants, promises. Clerks moved tablets like bricks. A veteran waited with a petition that smelled of wine and land hunger. Antony meant to keep the rhythm. Rhythm kept veterans fed. Fed veterans kept consuls alive.
 
 Fulvia listened to a client’s petition and priced it with her eyes before Antony opened his mouth: how much loyalty, how much cash, how much theatre. He almost smiled. Almost was marriage.
 
 “The boy is in Campania,” an agent said. “Calling himself Caesar. Followers thick as flies on a sweet stall. Some of ours asked whether his purse travels with the name.”
 
-Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory. Too careful with his face. Too hungry for older men’s approval. A chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
+Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory. Great-nephew, strictly; Antony never spent the extra word. Too careful with his face. Too hungry for older men’s approval. A chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
 
 The waiting veteran shifted. “If the name pays land,” he said carefully, “some will listen. Names do not fill bellies. Pay does. But names open doors to pay.”
 
@@ -110,4 +116,5 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - **Law-sweep:** Hopeful-shadow callback; courtyard elders ≥3 sport; Antony/Fulvia shadow/squeak play; underestimation continues; OCT≠Augustus held.
 - **Expansion D7:** Agrippa–OCT ordinary evening path after name-take (matched pace; underestimation as behaviour, not caption).
 - **Golden-read P1:** Antony’s underestimation grounded in remembered nephew inventory + Decimus-front preference; mockery cheaper than second war.
+- **Reader-earn (Ch 22):** Campania = shore of senators’ villas (bay/Puteoli/stepfather already placed Ch 21, not repeated); Philippus who sat out Caesar’s war by leave (terrace-rail memory); full name Gaius Julius Caesar + *Octavianus* tag inside OCT’s practice (why narration says Octavian); Cicero walks over from his Puteoli house to return the boy’s call; Temple of Ops keys on a clerk’s cord, Caesar’s Parthian money under the harvest goddess, answering to the consul. Exposition pass: no narrator-only explainer sentences; earns ride on POV/behaviour (no sum, fund mechanics B/C); great-nephew Antony calls nephew. Not re-glossed: Brundisium landing, Antony’s posted acts, city praetor (Ch 21); adoption law (Ch 18); fasces (Ch 7); Cisalpine (Ch 20).
 - **Human-voice (Ch 22):** one light trough feel-pass — cushions as-if / Cicero courtyard / weeks-bet / matched pace / nephew inventory / April time breaths; hold name-take, hopeful-shadow ban, squeak underestimation.

@@ -2,6 +2,7 @@
 
 **Phase 1D.1** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
 **Human-voice:** Ch 27 feel-pass (rules); Mutina parley refuse / OCT sword / Agrippa stillness held.
+**Reader-earn:** Ch 27 expanded; Antony prices both consuls at the ditch; Kalends sitting puts Hirtius + Pansa in the chairs as the Senate’s swords before Ch 28.
 
 ---
 
@@ -31,7 +32,7 @@ Antony came on foot the last stretch, body first, cloak open enough to show he w
 
 Decimus felt the hit. He had not known Antony’s count was that close. He kept his face officer-flat. “Hirtius will come.”
 
-“Hirtius will come if Rome remembers how to send men,” Antony said. “Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
+“Hirtius will come when he can sit a horse,” Antony said. “Pansa will come when he has taught enough farm boys which end of a pilum goes forward. Neither of them is consul until the Kalends, and neither of them is here. Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
 
 Antony had opened a count in public, not a negotiation. Decimus’s throat tightened, the old key turning. He didn't climb down. Climbing down would've looked like confession.
 
@@ -57,7 +58,9 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “Hirtius will come,” the aide said again, needing it.
 
-“Until then we eat carefully and count hinges,” Decimus said.
+“After the Kalends,” the aide said. “Him and Pansa both.”
+
+“Until then we eat salt ox and count hinges,” Decimus said.
 
 He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
 
@@ -66,7 +69,7 @@ He walked the walls at night with a cloak that did not keep the Ides out. The de
 # SC-74: The Senate’s Sword
 
 POV: Cicero / Octavian · Rome (compressed)
-Date / place: Curia fringe / after-session
+Date / place: Kalends of January 43 · Curia fringe / after-session
 Canon refs: Chain 6 tragic misread · C5 · C7
 Info ENTER: Fear of Antony · EXIT: Octavian instrumentalised
 Overhear risk: Curia
@@ -75,9 +78,11 @@ Overhear risk: Curia
 
 Cicero argued Octavian into usefulness the way he argued clauses into laws. Cicero. A sweating senator who feared Antony more than boys. Octavian present enough to be aimed.
 
-“The young Caesar,” Cicero still choked on the name privately and used it when the Curia needed a handle, “will defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
+It was the first sitting of the new year, and the consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones, the man who had finished Caesar’s book on Gaul after Caesar stopped writing it. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Both had been Caesar’s men. Caesar had named both to this year himself. Cicero called them the Senate’s swords. Octavian counted it plainer: the only two men in the room with the right to raise legions and lead them, and the fathers meant to send them north to break the ring around Decimus. Cicero wanted a third blade to go with them.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone.
+“The young Caesar,” Cicero still choked on the name privately and used it when the Curia needed a handle, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
+
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Agrippa stood where the Curia fringe still smelled of wet wool and ambition. Close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina. Far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
 
@@ -95,4 +100,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 - Parley grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe aiming Octavian.
 - **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.
 - **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.
+- **Reader-earn (Ch 27 expanded):** Antony names Hirtius (sick) + Pansa (levy) and the Kalends handover at the parley; aide’s “after the Kalends” + salt-ox callback to Ch 26; SC-74 set at the Kalends sitting with both consuls in the chairs as the Senate’s swords (Hirtius = Caesar’s Gaul book finished; Pansa = recruits/pay); Hirtius/OCT look; Pansa counting. Ch 28 Hirtius-fact / Pansa-open now land on known men.
 - **Human-voice (Ch 27):** one feel-pass — cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.
