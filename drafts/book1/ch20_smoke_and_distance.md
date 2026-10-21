@@ -32,15 +32,13 @@ A neighbour’s freedman, helping shift a scorched beam, offered the morning’s
 
 Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
-Cisalpine Gaul was no longer a promotion. It was the province in northern Italy, south of the Alps, that Caesar had given him to govern, and it came with legions. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere. Decimus packed maps, not speeches.
+Decimus packed maps, not speeches. The top one was Cisalpine Gaul: Italy’s north, this side of the Alps, Caesar’s gift to govern, and no longer a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere.
 
 Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
 “East,” Brutus said. Not a question.
 
-Caesar had marked Brutus for Macedonia and Cassius for Syria, the eastern provinces where the legions were and where Caesar himself had meant to go. It was also the farthest place from the Forum.
-
-“You and Cassius,” Decimus said. “I take the nearer knife. Someone has to hold a road in Italy.”
+“You and Cassius,” Decimus said. “Macedonia for you, Syria for him, where Caesar marked you, where the legions are, and as far from the Forum as a man can sit. I take the nearer knife. Someone has to hold a road in Italy.”
 
 Brutus’ face was pale under soot. “They burned Helvius for a name. If you take Cisalpine now, you take Antony’s hunger with it. Come east with us first. Let the nearer knife wait until the Forum’s heat cools.”
 
@@ -56,7 +54,7 @@ Brutus looked at the broken street. “Then do not ask me to bless the nearer kn
 
 He left before philosophy answered, forearm clasp still warm. East was already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus, courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. Plancus was another of Caesar’s commanders, the governor of a neighbouring province across the Alps, a wealthy, careful man who wrote very good letters and kept his legions very close. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina was the walled town on the Via Aemilia, the road across the plain of Cisalpine Gaul, which Decimus meant to make his fortress. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read yet twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus across the Alps, Caesar’s man in the next province over, who wrote very good letters and kept his legions very close: courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina sat on the Via Aemilia where it crossed the Cisalpine plain. Decimus meant to make it his fortress, and had chosen the width of its ditches a year ago. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read yet twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
 
 ---
 
@@ -96,7 +94,7 @@ A Roman clerk from the house’s new legal weather arrived mid-morning with a po
 
 “Then you may be the first to be disappointed.”
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Caesarion was Cleopatra’s son, the small boy whom Egypt called Caesar’s heir and Rome called nothing at all. The inspection became a price without naming one. Ammonius, her chief of staff and her tongue in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, her chief of staff and her tongue in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
@@ -108,7 +106,7 @@ Caesarion asked, in the frank cruelty of children, whether Father would come to 
 
 “Father belongs to their Forum now,” Cleopatra said. Softness later. Ships first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
 
-Ammonius spoke of Cicero’s old rudeness, of books unpaid, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cicero had been promised books from the library at Alexandria, had not received them, and had made a point of saying in Rome what he thought of the woman who had not sent them. Cleopatra kept Ammonius as useful irritant.
+Ammonius spoke of Cicero’s old rudeness, of books promised from the Alexandrian library and never sent, of what Cicero had said about her in Rome since, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept Ammonius as useful irritant.
 
 “We do not beg intermediaries,” she said. “We leave before they invent another inspection.”
 
@@ -122,7 +120,7 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue among Venus’ things in the city, her face in Roman metal, and left it there. Caesar had set a gilded statue of her in the temple of Venus Genetrix, the mother of the Julian family, a goddess’s neighbour, and the whole city had walked past it and said nothing. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
 
 ---
 
@@ -152,7 +150,7 @@ The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises.
 
 He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
 
-They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side, Maecenas’s quieter sort of attention on the other, companions enough that bad news had to choose a face. Maecenas was a rich, well-read Etruscan knight, some years older than Octavian, still just the clever man who happened to be at the table.
+They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side; on the other Maecenas, a few years older, Etruscan money and too many books, still only the clever man who happened to be at the table. Companions enough that bad news had to choose a face.
 
 “Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. Smoke in the report, too. Houses. Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
 

@@ -17,11 +17,11 @@ Overhear risk: Medium
 
 Marcus Seius Vestalis had come to the baths with a grievance polished like a shoe.
 
-Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. An aedile ran the markets and the games and was the first rung of the ladder that led to the praetorship and the consulship, and Seius had been told for ten years that his turn was coming. Seia Prima, his wife, had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
+Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Markets, games, the first rung that might one day lead to praetor and consul: Seius had been told for ten years that his turn was coming. Seia Prima, his wife, had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
 
 He owed Hordeonius’s wax for the toga, for the oil, for the smile, and a man in his position did not have the leisure to be principled. He had come to the baths for the hot room and a little quiet. He had not come for this.
 
-In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Basilus had been a praetor and a soldier of Caesar’s in Gaul, and he had wanted a province that Caesar had not given him. He was a man who resented well and in private.
+In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Seius knew the pitch from dinners. Basilus had soldiered for Caesar in Gaul and been praetor since, and had wanted a province Caesar did not give him, and had been resenting it well and in private ever since.
 
 “You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
 
@@ -43,9 +43,7 @@ A laugh burst from the main hall, someone’s joke about a wrestler. Seius laugh
 
 Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way toward the street.
 
-On the oil benches a client of his, soft-eyed, useful at dinners, pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The palaestra notices who gets invited into quiet and who exits empty.”
-
-The palaestra was the exercise yard of the baths, and it noticed everything.
+On the oil benches a client of his, soft-eyed, useful at dinners, pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The wrestling yard notices who gets invited into quiet and who exits empty.”
 
 “I was never invited anywhere,” Seius said.
 
@@ -77,7 +75,7 @@ Overhear risk: Low–Medium
 
 L. Hordeonius Felix preferred numbers that arrived on the Kalends.
 
-A. Visellius Ralla’s tablet sat among the honest ones, interest tidy, excuses few. Hordeonius respected a freedman’s son who paid. A freedman was a slave who had been set free, and his son was a citizen with a good name and no ancestors to prove it, and men like that paid on time because they could not afford not to. Respect, in his religion, was a rate.
+A. Visellius Ralla’s tablet sat among the honest ones, interest tidy, excuses few. Hordeonius respected a freedman’s son who paid. The father had been bought and freed; the son was a citizen with a good name and no ancestors to prove it, and men like that paid on time because they could not afford to be seen not paying. Respect, in his religion, was a rate.
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 

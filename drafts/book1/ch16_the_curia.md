@@ -19,7 +19,7 @@ Overhear risk: Extreme inside
 
 In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-One door. Too many togae. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence. The Senate had voted him a gilded seat among them, set above the ordinary benches, one more honour that said you are a little more than we are, and he had stopped noticing it as a rebuke.
+One door. Too many togae. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
 
 Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency brand still wet on the Republic’s memory.
 
@@ -70,7 +70,7 @@ Brutus had told himself it would feel like law.
 
 It felt like a bathhouse brawl with better cloth.
 
-Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’ ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch. The death-masks of the Junii stood in the atrium of his house, waxen and patient, worn by hired actors at funerals so the dead could walk behind the living.
+Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’ ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch.
 
 He had to step close. Distance was cowardice; closeness was the thing that would be written, if anything was written truly.
 
@@ -80,7 +80,7 @@ Caesar looked at him.
 
 That was worse than knives.
 
-What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps kai su, perhaps only air leaving a throat that had spoken to the whole world. Kai su is Greek for “you too,” and the story that would be told afterward was that Caesar had said it to Brutus, with the word child behind it, as a father might to a son. Beside him someone swore he heard a child’s name. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
+What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, the Greek for *you too*, perhaps only air leaving a throat that had spoken to the whole world. Beside him someone swore he heard *child* after it, the way a father says it to a son. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
 
 Brutus did not answer. Answers were for courts.
 
@@ -94,7 +94,7 @@ Half the Senate was gone through the doors before he had finished the sentence. 
 
 Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
 
-The Capitol was the sacred hill above the Forum, crowned with the temple of Jupiter and defensible as a fortress. Whatever else the morning was, it would be answered by Rome, and Rome would need to know where to find them. A hill with one steep road up was a good place to be found.
+Brutus understood it a breath late. Jupiter’s hill above the Forum, the temple on its crown, one steep road up: a place a few men could hold, and a place the city would know where to find them.
 
 In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s market day. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
@@ -161,7 +161,7 @@ The woman clutched the bread. “Both?”
 
 “Both,” Nysa said, and felt the story settle into the city like dust. She didn’t know if it was true. She thought she was being precise. That was how such stories travelled.
 
-By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella and, somehow, a list. Dolabella was the young, loud, ambitious man Caesar had named to take his own place as consul when he left for the East, loyal or not depending on the day and the gossip; if a rumour needed a villain, he was the nearest ready-made one. Lists always arrived early in panics. Lists made fear feel organised.
+By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella. “The young one,” a fishwife told her, “that Caesar was making consul in his place when he went east. Loud. He was in it, or they killed him too, depending who’s selling.” And somehow, a list. Lists always arrived early in panics. Lists made fear feel organised.
 
 Nysa stopped under a balcony and vomited nothing. Then she wiped her mouth, as the senator had, and hated the kinship.
 

@@ -20,7 +20,7 @@ Overhear risk: Medium
 
 Under the basilica shade among the Janus bankers’ stools, Hordeonius loved a crisis the way priests loved a festival: for the traffic more than the singing.
 
-The basilica was the long columned hall on the edge of the Forum where Rome did its business out of the weather, and the arcade beside it, the Janus, was where the bankers sat. In calm weather it smelled of ink and sweat. In a crisis it smelled of fear with a decimal point.
+In calm weather the Janus arcade smelled of ink and sweat. In a crisis it smelled of fear with a decimal point.
 
 He sat with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
 
@@ -32,7 +32,7 @@ A man asked whether amnesty meant he could stop paying. Hordeonius tapped the in
 
 A junior senator (Seius’ type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
 
-Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. A sesterce was a small silver coin; three hundred was several months’ pay for a common soldier, and there were hundreds of thousands of citizens. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
+Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. Hordeonius did that sum before the rumour finished: several months of a legionary’s pay, times every citizen on the grain list, and the list ran to hundreds of thousands. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
 “Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
 
@@ -56,7 +56,7 @@ Hordeonius heard the shape without needing every word. He almost added that he m
 
 “I do,” said Hordeonius. “He paid early. It is the most beautiful thing a man can do to another man.”
 
-By the fourth hour, which in Roman reckoning was about the middle of the morning, his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
+By the fourth hour his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
 
 “The boy inherits the name,” someone panted.
 
@@ -89,17 +89,17 @@ Overhear risk: Extreme once leaked
 
 ### Movement A: Antony
 
-Antony watched the seal break in his own house. Piso’s request. Vestals’ custody until now. Calpurnia’s father, Piso, had asked for the will to be opened, and the Vestal Virgins, the priestesses of the city’s sacred hearth, who kept wills and treaties in their house as they kept the flame, had handed it over. It was the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
+Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame, the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
 Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a banker with onion-and-money breath told a client that gardens would move leases whether the seal was holy or not. A widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A junior appetite laughed that Decimus’s second line would make knife-men into punchlines. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
 
-The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. A Roman will could adopt: the dead man could make a stranger his son from the grave, with the name, the household gods and the dead man’s clients all passing to the boy. It was legal. It was also, for an eighteen-year-old great-nephew whom Antony had hardly noticed, a very large coat. Pinarius and Pedius splitting the remaining fourth like polite afterthoughts. They were the other great-nephews, the ones Caesar had not chosen. The people remembered with gardens by the Tiber and three hundred sesterces a head. Secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch. The second degree meant Decimus inherited only if the first heirs failed to, a remote place on the list, but a place, and a place meant the dead man had written his name down.
+The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Antony knew the law well enough to dislike it: a will could adopt, make a son from the grave, and pass him the name, the household gods and every client the dead man had. Legal. Also, for an eighteen-year-old great-nephew Antony had hardly noticed, a very large coat. Pinarius and Pedius, the other great-nephews, splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch. Second degree: Decimus would see a coin only if the first heirs failed. Remote. But a place, and a place meant the dead man had written his name down.
 
 Antony laughed once, short. Not mirth. Recognition.
 
 “He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
-What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts, thin shoes, Atia’s caution, a paper son who had never fed a veteran. Atia was the boy’s mother, Caesar’s niece, a careful Roman matron who kept her son near her and her opinions nearer. Useful ink. Not a rival. He filed that price without writing it down.
+What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts: thin shoes; a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer; a paper son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
 “He is a child,” said one of Piso’s clerks, reading Antony’s face.
 

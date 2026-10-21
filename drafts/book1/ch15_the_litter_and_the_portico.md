@@ -22,8 +22,6 @@ In the Domus Publica vestibule the litter’s smell still hung: wool, leather, t
 
 Phileros talked too much, which meant he was afraid. “The chickens were sullen, domina. The boy said so. And the exta, someone said the liver looked insulted.”
 
-The exta were the organs taken from the sacrificial animal, the liver above all, which the priests read for the gods’ mood the way a banker reads a ledger. A sound liver meant the gods approved the day. A damaged one meant they did not.
-
 “Someone,” Calpurnia said.
 
 “A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
@@ -52,7 +50,7 @@ Phileros, still in the vestibule orbit, heard his name and looked insulted on cu
 
 She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
 
-In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird already torn in Pompey’s hall. The king-bird was a wren, the smallest bird in Italy and, in the old tale, the one that won the crown by riding on the eagle’s back. Somebody had seen one fly into the hall carrying a sprig of laurel, chased by other birds, and torn to pieces before the doorway before the Senate sat. It was the sort of thing a man remembered afterward, whichever way afterward turned out. Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
+In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird. “A wren,” she said. “The little one in the story that rode the eagle’s back and stole the crown. Flew into Pompey’s hall this morning with a sprig of laurel in its beak, and the other birds came after it and tore it to pieces on the step. Before the Senate even sat.” Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
 “Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
 
@@ -108,7 +106,7 @@ The litter swayed. Caesar sat as he sat in triumphs and in mud, half present, ha
 
 Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule: petitions, lists, the city’s endless paper hunger. A Roman of his rank was petitioned in the street the way a river is fished: constantly, hopefully, by men who had nothing to lose by throwing a line. Decimus didn’t look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
 
-Near the turning toward the Campus, a man pressed in, Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. Greek teachers of rhetoric and philosophy were a fixture of Roman great houses, tutors to the sons of senators and sometimes friends of the senators themselves, and this one had the look of a man who had come by a friend’s secret and could not carry it. He pushed a small sealed tablet toward Caesar’s hands.
+Near the turning toward the Campus, a man pressed in, Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. Decimus placed him at once: one of the Greek teachers every great house kept for its sons, and this one had the look of a man who had come by a friend’s secret and could not carry it. He pushed a small sealed tablet toward Caesar’s hands.
 
 “Read this,” the man said, or something near it. “Read it now. Alone.”
 
@@ -170,11 +168,9 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. Antony’s first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. The first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
-
-A tribune was a junior officer or magistrate, someone you sent to do the boring part.
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
@@ -214,7 +210,7 @@ Trebonius’ face was still warm. That was the obscenity. Warmth, while the Curi
 
 “Caesar,” someone yelled, and then the name became a dozen other words: blood, knives, Brutus, liberty, murder, the consul, where is the consul.
 
-Antony felt for a weapon he had not brought into a Senate morning. Carrying a blade into the Senate was forbidden, and a consul, of all men, kept the law. His palm found only the cloth of his tunic.
+Antony felt for a weapon he had not brought; no consul carried iron to a Senate sitting. His palm found only the cloth of his tunic.
 
 Trebonius said something mild. Antony didn’t keep it. The mildness sat wrong, warmth while the Curia broke open.
 

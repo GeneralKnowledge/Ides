@@ -18,15 +18,23 @@ Overhear risk: Extreme (staff)
 
 Staff traded omens like recipes.
 
-In Rome an omen was a public matter. A prodigy, the priests called it: a calf with two heads, a statue that sweated, a bird in the wrong place. It was reported to the Senate, argued over by the augurs, and expiated at the state’s expense. In the kitchens the process was faster and cheaper, and nobody was fined.
+Upstairs, a two-headed calf or a sweating statue went to the Senate, the augurs argued it, and the state paid for the cleansing. Down here the process was faster and cheaper, and nobody was fined.
 
-Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. The chickens were kept for auspices: before any great act a priest would scatter grain and watch, and if the birds ate eagerly the gods approved, and if they sulked the act was put off. Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
+Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. “Wouldn’t touch the grain,” he said. “When they won’t eat, nothing big gets done that day. Ask any priest.” Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
 
-Capys was Capua’s founder in the old tale, and Trojan blood meant the Julii, who claimed Aeneas. Balbus, Caesar’s Spaniard who kept the books, was said to swear the find was real. Half the Forum believed him because he never needed to lie about money. The other half believed him less for the same reason. It was the sort of story that travelled well before any morning that could prove it.
+“Capys founded Capua,” she said, pleased with the name. “In the old days. And Trojan blood is the Julii, everyone knows they come down from Aeneas. Balbus swears the find is real.”
 
-“And Spurinna,” the washerwoman added, pleased with the name, “told him to beware the Ides. Beware is a priest’s whole trade.”
+“Balbus keeps Caesar’s books,” said Pasiphile. “He never needs to lie about money. That is why half the Forum believes him.”
 
-Spurinna was a haruspex, a priest who read the entrails of sacrificed animals, and the story was that he had told Caesar to watch for danger until the Ides of March. The Ides fell in the middle of each month, and in March it was the fifteenth. A bad day for debts, most years, and a worse one for anything else.
+“And the other half?”
+
+“Believes him less, for the same reason.” It was the sort of story that travelled well before any morning that could prove it.
+
+“And Spurinna,” the washerwoman added, “the one who reads the livers, told him to beware until the Ides of March. Beware is a priest’s whole trade.”
+
+“The fifteenth,” Dama said, counting on his fingers, as if the gods had set him sums.
+
+“A bad day for debts, any month,” said Pasiphile. “He could have said it about the Kalends and been right as often.”
 
 Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. The washerwoman wanted it to mean she had been right to spend a coin on Forum talk. Nysa wanted the basin not to spill while three truths fought over one doorpost.
 
@@ -42,7 +50,7 @@ Nysa set the basin down more carefully than the water required. When the washerw
 
 Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for days, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the tablet and the chickens and didn’t decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
 
-Phileros passed through the court and sniffed. He was the steward, the man who held the household’s keys and everyone’s mood, and he moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
+Phileros passed through the court and sniffed, the steward’s keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
 “Mats don’t beware,” Dama muttered, just soft enough.
 
@@ -50,7 +58,7 @@ Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile. 
 
 Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening. Listening kept you fed.
 
-Later she told Medullina, in the Subura, that the house was full of birds and priests. The Subura was the crowded district under the hill, all tenements and tanners and fish, where gossip was traded as the main local industry. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
+Later, in the Subura, among the tenements and tanners and fish-stink where gossip was the main local industry, she told Medullina that the house was full of birds and priests. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
 
 “Chickens don’t pay,” said Medullina.
 
@@ -77,13 +85,13 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-The Sibylline books were a set of prophecies kept in a vault on the Capitol and consulted by a college of priests when Rome was in trouble. They said, someone always said, that the books implied only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+Cicero was an augur himself and knew how a priestly college found what it was looking for. The Sibyl’s books lay in their vault on the Capitol until Rome was frightened, and then the keepers went down and came back with whatever Rome had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
 Below the elite dinners, he knew, kitchens were already trading birds and beware like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
 “Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
-Balbus was Caesar’s man of business, a Spaniard from Gades who had made himself indispensable as a banker and fixer and was now as close to the dictator as a man without a title could be. He wrote Caesar’s letters and kept Caesar’s books. Cicero suspected him of most things and had been right about perhaps half.
+Balbus of Gades kept Caesar’s books and wrote his letters and stood as near the dictator as a man could without a title. Cicero suspected him of most things and had been right about perhaps half.
 
 Tiro, in the corner with his shorthand, did not look up. “You are talking to the room again.”
 
@@ -93,7 +101,7 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were oxygen. Oxygen could also burn.
 
-He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) timed the Philippics of the soul correctly. The word was his own private joke: Demosthenes had spoken against Philip of Macedon, and the speeches were known ever after as the Philippics, and Cicero had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic. Capys tablets and sullen chickens were topics too, until someone made them into policy.
+He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) found his Demosthenes voice in time. He had always had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic. Capys tablets and sullen chickens were topics too, until someone made them into policy.
 
 He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him.
 
