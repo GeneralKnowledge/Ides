@@ -2,6 +2,7 @@
 
 **Phase 1D.1** · SC-80, SC-81 · Apr 43 · A11 · AMB-2
 **Human-voice:** Ch 28 feel-pass (rules); Capua mud / Hirtius-fact / Pansa-open held.
+**Reader-earn:** Ch 28 expanded; Laberius in the boy’s ranks for the boy’s coin; Pansa’s Forum Gallorum wound seen as a litter, cause still open.
 
 ---
 
@@ -21,13 +22,17 @@ In rooms with clean sandals this would be named success before the mud dried. In
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
+“Count what?” said the man behind them. “Five hundred from the boy at Capua to stand in this.”
+
+“Five hundred beats Antony’s hundred,” Vibius said. Laberius had taken the boy’s coin in the end, in the autumn, when the shadow with a seal learned to feed men. It had bought his boots for the young Caesar’s ranks and this ditch. It had not moved the twine.
+
 Pay talk lived under the noise like a second drum. Who owed donatives. Which Caesar’s name still fed mouths. Whether Hirtius’ clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date. Forum smoke had taught him the dirt could walk without clerks. Mutina mud taught him it could drown you while walking. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later, if later still has a road.”
 
 Between assaults, when the yelling thinned and the cold found room, Vibius and two men from the contubernium talked dirt the way other men talked gods. “Capua was a date when the paymaster breathed,” Vibius said, voice flat. Mud did not buy jokes. “Now Capua is only what we stand in.” The second man wiped pink melt from his shield rim. “Still wants a road, if we live.” Laberius did not finish the thought aloud. Finishing would have made Capua a speech. He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway. Signals lied as often as clerks.
 
 Yell-rumours arrived before facts. Someone claimed a consul down. Someone claimed both. Someone claimed a victory large enough to make the ditch look like a lie. Laberius believed the ache in his forearms and nothing else. Until mid-afternoon, when a staff officer he recognised from Hirtius’s tent came past on a blown horse, cloak dark with more than rain, and said to a tribune three paces from Laberius’s ear: “The consul Hirtius is dead. I held his shoulder. Do not invent a better story.”
 
-That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. Laberius didn't promote any Pansa version. He had no shoulder to hold for that one.
+That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. “They carried him off at Forum Gallorum,” Vibius said. “A week back, that village down the road with a market’s name. Javelin in the side. I saw the litter. I didn’t see inside it.” Laberius didn't promote any Pansa version. Vibius had a litter. Nobody had a shoulder.
 
 Near dusk Antony’s near line pulled back toward the higher ground. Not a rout Laberius could swear to. Only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know. Finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had an eagle. And a gap where a friend had been.
 
@@ -82,4 +87,5 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 - **Anti-formula:** F4 silence-for-sale kept without census / face-held / snort-warehouse kit; mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.
 - **Expansion D13:** Contubernium Capua/dirt talk between assaults (humour OFF in mud peak).
 - **Human-voice:** broke ditch cadence; cut craft “humour OFF” caption and fringe dirt-ledger clone; flattened boot paren; held Capua in Laberius/Vibius mouths; Hirtius-fact / Pansa-open held.
+- **Reader-earn (Ch 28 expanded):** why Laberius stands on this side: took the boy’s 500 at Capua (pays Ch 24 scar-veteran “when the shadow learns to feed us” and Ch 27 motion; Antony’s hundred not re-glossed); twine still unmoved. Forum Gallorum named in Vibius’s mouth as the village a week back where Pansa was carried off with a side wound (litter seen, inside not), so AMB-2 stays open. Martians / Hirtius / Pansa not re-CV’d.
 - **Human-voice (Ch 28):** one feel-pass — standard/friend / pay-drum / Hirtius until / eagle gap / gallopers / camp letter breaths; hold Capua boots, Hirtius shoulder-fact, Pansa open, F4 silence-for-sale.
