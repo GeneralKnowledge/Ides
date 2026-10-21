@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–23 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied) + Ch 26–27 Mutina setup.  
-**Method:** Same as Ch 1–23 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup.  
+**Method:** Same as Ch 1–25 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -58,6 +58,7 @@
 | Swap law (assembly vote; Cisalpine to Antony + Macedonian legions; Senate silent); siege = ring of ditches vs count of days / army from Rome; move into Mutina + salt oxen; Hirtius + Pansa = consuls from the Kalends, the Senate’s swords | Ch 26 Decimus yard (surgical) |
 | Antony prices both consuls at the ditch (Hirtius sick / Pansa levy / not consul till Kalends); Kalends sitting with Hirtius + Pansa in the chairs; OCT as third blade | Ch 27 parley + SC-74 (surgical) |
 | Antium room = Brutus’s sea-house with Servilia’s clerks (Ch 23 seed paid); Cicero from Astura on Brutus’s letter; grain-buying commissions (Brutus Asia / Cassius Sicily) as praetor’s excuse to stay out of Rome; Tertulla = Servilia’s daughter, Cassius’s wife; Favonius = Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia’s clause = the corn clause; Laberius’ Capua plot still twine | Ch 24 colony forum + Antium room (surgical) |
+| Philippics = Cicero’s speeches against Antony, named for Demosthenes’ against Philip of Macedon (friend asks the title); Antony’s Senate attack on Cicero’s empty chair → answer in copies; Demosthenes’ poison end (friend jab); Brutus bound for Athens; Asia = Aegean coast cities that paid Pompey then Caesar; factor = Greek agent for three | Ch 25 Cicero desk + East deck (surgical); corn commissions / Macedonia–Syria / *young Caesar* not re-glossed |
 
 ---
 
@@ -110,18 +111,18 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 | King-bird / wren | **Paid in Ch 15** (Ides morning); do not plant earlier |
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
-| Philippics | Ch 25 (primary): speeches against Antony; Ch 11 pun only if Ch 25 will pay |
+| Philippics | **Paid in Ch 25** (friend’s title question; Demosthenes / Philip; pays Ch 11 plant); do not re-gloss |
 | Wrong Cinna | **Paid in Ch 19**; Helvius poet ≠ Cornelius praetor (brother-in-law); do not re-gloss |
 
 ---
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–23.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–25.  
 2. Prefer **behaviour + one plain clause** over brochure CV. No standalone explainer sentences (“X was the …”): carry the fact in a mouth, an object, or the POV’s own stake.  
-3. Do **not** reopen Ch 1–23 glossary already paid.  
+3. Do **not** reopen Ch 1–25 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 30 lists/Triumvir. (Ides through acts market Ch 14–23 closed; Mutina setup Ch 26–27 closed.)
+**Suggested order:** Ch 30 lists/Triumvir. (Ides through acts market Ch 14–25 closed (Philippics paid); Mutina setup Ch 26–27 closed.)
 
 *End reader-earn gaps.*
