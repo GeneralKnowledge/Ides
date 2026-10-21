@@ -37,7 +37,7 @@ On the road edge an older veteran, scar through the lip, no agent’s polish, sp
 
 “And the Liberators?” the corporal asked.
 
-“Philosophers,” the scar said. “Down at Antium in the mother’s sea-house, the lot of them. Brutus’s mother, Servilia, already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
+“Philosophers,” the scar said. “Down at Brutus’s sea-house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
 
 Laberius filed *eagle refuse / Servilia paper* without turning. Behind-backs were how advice rooms arrived pre-loaded. He preferred his pockets. Pockets didn’t require a yes.
 
@@ -50,7 +50,7 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 
 ---
 
-Antium’s light was pretty. Pretty light made disasters look arranged. Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from his mother’s villa asking for counsel, and a man of station did not let Servilia’s son ask twice.
+Antium’s light was pretty. Pretty light made disasters look arranged. Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from Antium asking for counsel, and a man of station did not let Servilia’s son ask twice.
 
 In the colonnade before the room, two clients were already bitching what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
 
@@ -100,4 +100,4 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 - **Expansion D9:** Behind-backs colonnade densify (eagle refuse + boy pay / Servilia paper) as lived delay before Antium room.
 - **Golden-read P3-d:** Laberius refuses Antony-man “guard for safety” transfer, Capua date stays in his boots.
 - **Human-voice (Ch 24):** one feel-pass — donative as-if / purse listen / voltage / navigation / soft-power / day’s fact / Atticus compose breaths; hold Capua refuse, Cassius corn cut, Servilia clause, colonnade exit-complaint.
-- **Reader-earn (Ch 24):** Laberius’ Capua twine (why he is in the colony forum); scar names Brutus’s mother Servilia + her Antium sea-house; Cicero rides from Astura on Brutus’s letter; Brutus’s decree tablet = grain-buying commissions (Asia / Sicily) as a praetor’s excuse past ten nights; Tertulla = Servilia’s daughter married to Cassius (Cicero’s “both knives”); Favonius = Cato’s barefoot copy, civil-war-worse-than-king, no dagger (Cicero memory); Servilia’s clause named as the corn clause. Laberius / Porcia / Cato / ten-nights not re-glossed.
+- **Reader-earn (Ch 24):** Laberius’ Capua twine (why he is in the colony forum); scar puts Brutus + Servilia’s clerks at the Antium sea-house (Ch 23 seed, not re-taught); Cicero rides from Astura on Brutus’s letter; Brutus’s decree tablet = grain-buying commissions (Asia / Sicily) as a praetor’s excuse past ten nights; Tertulla = Servilia’s daughter married to Cassius (Cicero’s “both knives”); Favonius = Cato’s barefoot copy, civil-war-worse-than-king, no dagger (Cicero memory); Servilia’s clause named as the corn clause. Laberius / Porcia / Cato / ten-nights not re-glossed.
