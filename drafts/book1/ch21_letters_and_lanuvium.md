@@ -1,7 +1,7 @@
 # Chapter 21: Letters and Lanuvium
 
 **Phase 1D.5** · SC-60, SC-61 · Apr–May 44 · *Att.* 14–15 energy
-**Human-voice:** Ch 21 feel-pass (rules); light trough — Fundi clash / Lanuvium sport echo / clerk refuse held.
+**Human-voice:** Ch 21 expanded; earns carried in dialogue/objects (coast road, bronze acts, boy landed, Lanuvium road, praetor letter); trough held.
 
 ---
 
@@ -19,6 +19,10 @@ Cicero wrote as other men breathed, until the room filled and writing had to wai
 
 The tablet under his palm was still warm from the last courier’s bag when a second courier arrived dusty, and a neighbour with a taste for Athens arrived thirsty. Fundi’s shade became a small Forum with worse wine. Wax took fingerprints. Cicero liked that: proof that news had a body before it became opinion. Bodies arguing in one room beat stacked tablets for truth’s temperature.
 
+“You came south early this year,” the neighbour said, as if a villa were a confession.
+
+“The coast road was dry,” Cicero said. It had also been the road away from Antony’s Forum, where a former consul could walk out in the morning and not be sure of walking home. Formiae next, then Puteoli. He meant to call it a season.
+
 “If they have no money and no men,” Cicero told the neighbour, “they have a beautiful murder and a short future.”
 
 The neighbour smiled as if force were a vulgar digression. “Surely the Senate…”
@@ -27,11 +31,25 @@ The neighbour smiled as if force were a vulgar digression. “Surely the Senate�
 
 He hated that he sounded like Cassius. He hated more that Cassius might be right.
 
-The first courier, sandals cracked, spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry. Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
+The first courier, sandals cracked, spoke over the neighbour without apology. “Antony’s latest posting: seal looked tired. Theatre, not industry.”
+
+“Another law out of Caesar’s papers?” Cicero asked.
+
+“Cut in bronze and up on the Capitol by noon. The men reading it say Caesar never wrote it. The men who paid for it say he did.” The courier shrugged. “The amnesty says what Caesar wrote stands. So Antony keeps finding things Caesar wrote.”
+
+Cicero had stopped guessing which were real and started counting.
+
+“Baker-rumour says the gardens aren’t walked yet but already sold in talk. And in three wine shops near the Circus, old men are using the boy as sport.”
 
 “Which boy?” the neighbour asked, pleased to be scandalised.
 
 “Octavius. Caesar’s paper-son. They call him a hopeful shadow, a squeak, a name that hasn’t learned to pay. One elder swore he’d last until the first unpaid veteran. Another bet a cup he’d be Caesar by Kalends if Campania kept saying it.”
+
+“And where is he,” Cicero asked, “while they bet on him?”
+
+“Off the Apollonia boat at Brundisium. Caesar’s old soldiers walked out on the road to look at him. Now he’s making for his stepfather’s villa on the bay, Philippus’, near Naples.”
+
+Puteoli was on the same bay. Cicero did not enjoy the arithmetic.
 
 Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already joke*. “Did anyone in the Forum say the name as if it cleared?”
 
@@ -43,7 +61,13 @@ The second courier, younger, contradicted on cue, half-false news fighting in th
 
 “Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practicing the laugh*.
 
-Sphaerus brought a note from Hirtius’s orbit, polite, useless. Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee. Then he wrote Atticus a softer version of *the deed was fair; the result is nothing*. Softness kept invitations open. Under it the wine-shop sport still sat unpaid.
+Sphaerus brought a note from Hirtius’s orbit, polite, useless.
+
+“He asks after your health, master.”
+
+“Tell him it is excellent,” Cicero said, “and that it intends to stay out of Rome.”
+
+Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee. Then he wrote Atticus a softer version of *the deed was fair; the result is nothing*. Softness kept invitations open. Under it the wine-shop sport still sat unpaid.
 
 ---
 
@@ -58,6 +82,10 @@ Overhear risk: Household
 ---
 
 Lanuvium wasn’t exile. Exile would have been cleaner.
+
+Exile came with a sentence. Lanuvium came with a road: eighteen miles of the Appian Way back to the city, an easy day’s ride, and since the funeral fire every mile of it a place to meet the wrong veterans.
+
+The Senate’s letter lay on the study table, moved by Antony, sealed in the Senate’s name. He was the city praetor. He was meant to be in the Forum hearing other men’s lawsuits, with ten nights outside the walls allowed him and no more. Now he might stay out as long as he liked. Brutus had read it twice and could not decide whether it was a kindness or a lock.
 
 Brutus walked the same garden paths until the gravel knew his sandals. Clients came to whisper loyalty and left before dusk, loyalty that evaporated at eighteen miles. Rome was unreachable as Alexandria and louder in rumour than in reach. A steward reported which roads still carried Antonian veterans like dust that refused to settle. Brutus thanked him as if thanks were policy.
 
@@ -81,7 +109,7 @@ Brutus drafted speeches for a city that would not let him deliver them. Ink drie
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 
-Cassius’ letters from elsewhere smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
+Cassius’ letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 
@@ -106,6 +134,7 @@ Through the gate: hills, and beyond them a name war beginning without him, while
 - **1D.5:** Cicero visitor clash (throat/fists); Octavius-not-yet margin; Brutus hears Campania name laugh.
 - **S-B1 / S9 + S11:** Same-room gossip collision (neighbour + two couriers) replaces letter-stack; wine-shop/elder underestimation of the boy as sport; Brutus hears sport echoed at Lanuvium.
 - MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22: OCT accepts name.
+- **Reader-earn (Ch 21):** earns carried in mouths/objects, no standalone explainer sentences. Neighbour jab → coast road away from Antony’s Forum (Formiae, Puteoli next); courier: papers → bronze on Capitol, amnesty joke; courier: boy off Apollonia boat at Brundisium → Philippus villa, Naples bay (Puteoli same bay; name-take still Ch 22); Lanuvium road 18 miles Appian Way; Senate letter on table = city praetor ten-nights excuse moved by Antony; Cassius at own house nearer coast.
 **1G / P1-e:** Brutus returns purse unopened (behavioural cost).
 **Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable, new confinement cost beyond purse.
 - **Golden-read P1:** Stylus stops before finishing Caesar-as-tyrant cruelty, forgiveness still claims grammar.

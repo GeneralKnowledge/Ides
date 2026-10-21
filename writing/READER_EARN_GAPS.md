@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–20 expansion (Act 4 open: smoke / Cleopatra exit / news late).  
-**Method:** Same as Ch 1–20 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Status:** Standing after Ch 1–21 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium).  
+**Method:** Same as Ch 1–21 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -52,6 +52,7 @@
 | Adoption/name as paper (Octavius → son/name); second degree; Piso/Atia; sesterce scale | Ch 18 will densify (surgical); name-path paid |
 | Wrong Cinna: Helvius poet ≠ Cornelius praetor; Rostra funeral; fuller | Ch 19 densify (surgical) |
 | Cisalpine = N. Italy south of Alps / Decimus grant; Antony hunger; EXIT-1 Macedonia–Syria; Plancus *yet*; Mutina / Via Aemilia seed; Caesarion / Venus Genetrix; Maecenas present | Ch 20 densify (surgical); full Mutina siege still Ch 26–27 |
+| Cicero on coast-road villas (Fundi → Formiae/Puteoli); Antony’s posted acts from Caesar’s papers (bronze, Capitol); boy landed Brundisium → Philippus villa, Naples bay; Lanuvium = 18 miles down Appian Way; Brutus city praetor / ten-nights rule / Senate excuse | Ch 21 densify (surgical); name-take still Ch 22; Atticus/Hirtius/Sphaerus not re-glossed |
 
 ---
 
@@ -111,11 +112,11 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–20.  
-2. Prefer **behaviour + one plain clause** over brochure CV.  
-3. Do **not** reopen Ch 1–20 glossary already paid.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–21.  
+2. Prefer **behaviour + one plain clause** over brochure CV. No standalone explainer sentences (“X was the …”): carry the fact in a mouth, an object, or the POV’s own stake.  
+3. Do **not** reopen Ch 1–21 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through Act 4 open Ch 14–20 closed.)
+**Suggested order:** Ch 26–27 Mutina setup → Ch 30 lists/Triumvir. (Ides through Act 4 letters Ch 14–21 closed.)
 
 *End reader-earn gaps.*
