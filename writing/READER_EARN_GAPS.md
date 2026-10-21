@@ -1,7 +1,7 @@
 # Reader-earn gaps — Book 1
 
 **Status:** Standing after Ch 1–23 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied) + Ch 26–27 Mutina setup.  
-**Method:** Same as Ch 1–22 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
+**Method:** Same as Ch 1–23 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
 
@@ -116,11 +116,11 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 
 ## Process
 
-1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–22.  
+1. Expand **one chapter at a time** (author draft → cold-read → light patch → PR), same as Ch 1–23.  
 2. Prefer **behaviour + one plain clause** over brochure CV. No standalone explainer sentences (“X was the …”): carry the fact in a mouth, an object, or the POV’s own stake.  
-3. Do **not** reopen Ch 1–22 glossary already paid.  
+3. Do **not** reopen Ch 1–23 glossary already paid.  
 4. Hard cap: do not bolt “Triumvir” teach-lines into earlier chapters; keep earns in their home chapters.
 
-**Suggested order:** Ch 30 lists/Triumvir. (Ides through name-take Ch 14–22 closed; Mutina setup Ch 26–27 closed.)
+**Suggested order:** Ch 30 lists/Triumvir. (Ides through acts market Ch 14–23 closed; Mutina setup Ch 26–27 closed.)
 
 *End reader-earn gaps.*
