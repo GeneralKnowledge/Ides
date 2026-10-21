@@ -1,6 +1,6 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field.  
+**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close + Ch 28 Mutina field + Ch 29 isolation and fasces.  
 **Method:** Same as Ch 1–25 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
@@ -62,6 +62,7 @@
 | Lepidus = more legions over the Alps than Plancus (coast to Spain) + chief priest’s robe; his word goes to whoever stands nearest | Ch 26 gap-close (aide beside the silent Lepidus channel); pontifex not re-glossed |
 | Octavian’s private legions = Caesar’s veterans bought in Campanian colonies (500 denarii a man) + Martian legion and Fourth who left Antony (his hundred at Brundisium laughed at); Senate gives the boy a praetor’s command to make them legal | Ch 27 gap-close (Cicero’s motion + Octavian’s cost); Kalends consuls not re-glossed |
 | Laberius fights in the boy’s ranks because the boy paid (500 at Capua vs Antony’s hundred); Forum Gallorum = village a week back down the road where Pansa was carried off wounded (litter seen, cause open) | Ch 28 Vibius in the ditch (surgical); Hirtius shoulder-fact / Martians not re-glossed |
+| Lepidus’s legions take Antony in at the river; boy won’t share a road with Decimus; consul’s chair wants 42, boy has 19 → centurion’s sword (*this will*); fasces = twelve lictors’ rods; Bononia = river island invitation under Lepidus’s + Antony’s seals | Ch 29 aide count + pay line (surgical); Decimus death fog kept |
 
 ---
 
