@@ -2,6 +2,7 @@
 
 **Phase 1D.1 / Act5 ordeal** · SC-70 (+ folded CLEO-1 / FS11) · late 44 · A10 · CLEO-1 · FS11
 **Human-voice:** Ch 26 feel-pass (rules); Decimus refuse / Plancus *yet* / CLEO rumour held.
+**Reader-earn:** Ch 26 expanded; swap law plain / Mutina siege set (ring + count) / Hirtius + Pansa named as next year’s consuls; salt oxen.
 
 ---
 
@@ -26,6 +27,8 @@ At mid-morning an envoy came anyway, cloak clean, smile practiced, the sort of m
 “Rome found me this one,” Decimus said. He didn’t offer a chair. Chairs made threats look like visits.
 
 “He will call it a swap,” the envoy went on, mild. “You will call it wisdom. The Senate will call it clarification, when clarification arrives.”
+
+Decimus knew the swap because it had been done to him while he was on the road. In early summer Antony had walked a law through an assembly crowded with his veterans: Cisalpine to Antony for five years, and the Macedonian legions brought home across the sea to go with him. Decimus held the province on Caesar’s grant. The Senate had never voted to take it from him. It had never voted to keep it for him either, and he had stopped waiting for that letter.
 
 Decimus heard the gap in that sentence: *when*. Clarification that might never leave the stable. “Tell him I call it mine until the Senate says otherwise, or until he brings enough men to rename facts. He can call the renaming breakfast if he likes.”
 
@@ -60,7 +63,23 @@ Cicero’s latest letter, opened on the same stone, carried a margin note in Cic
 
 A different courier asked whether to answer Antony’s latest written “request” with softness. Decimus chose a sentence that sounded like law and felt like a door barred from inside.
 
-At night he walked the wall-walk and tasted snow early. The key in his chest cut both ways. It had opened Caesar’s morning. It might yet open his own throat. He checked a hinge twice and didn’t tell the sentry why.
+The sentence did not need an answer. A rider came up the Via Aemilia from Ariminum with his horse lathered to the girth: Antony had left Rome with the Macedonian legions behind him and was on the road north. Not hurrying. That was worse.
+
+Decimus did not wait to be caught on the open plain. He took his legions into Mutina, because Mutina had walls, a granary, and the road running past its gate. In the yard, while carts were loading, the levy spokesman asked what came next.
+
+“He comes up the road,” Decimus said. “He can’t march on into Gaul with a town full of legions at his back, so he stops. He digs ditches round us and waits for us to eat the last ox. We wait for an army from Rome to come and break his ring. Whoever’s count runs out first loses.”
+
+“Which army?” the spokesman said. “Rome’s busy writing.”
+
+“Next year’s,” Decimus said. “On the Kalends the consulship leaves Antony’s hands. Caesar named the next two before he died. Aulus Hirtius, who writes better than he rides and has been sick since spring. Gaius Vibius Pansa, who governed provinces for Caesar and can get farm boys into armour faster than most men get senators into a vote. Letters can’t raise legions. Consuls can, and lead them. Those two are the only swords the Senate owns.”
+
+“Hirtius and Pansa.” The spokesman worked it through aloud. “Caesar’s men. Coming to get Caesar’s…” He stopped. “Coming to get you out.”
+
+“Yes.” Decimus did not help him finish the first sentence. It would only be funny if they arrived.
+
+Inside Mutina he had the draught oxen killed and salted in the granary yard, every beast that could pull a cart, because a shut town had no use for carts and a great deal of use for meat. The butchers worked on past dark by torchlight. Brine and blood ran together in the gutter. The spokesman watched with his arms folded and did not say *partial*.
+
+Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest cut both ways. It had opened Caesar’s morning. It might yet open his own throat. He checked a hinge twice and didn’t tell the sentry why.
 
 ---
 
@@ -75,4 +94,5 @@ At night he walked the wall-walk and tasted snow early. The key in his chest cut
 - **Tissue:** Levy “partial” bite + Decimus almost-cheer (humour ON, character-true); census label strip.
 - **Expansion D11:** Plancus delay as human face, courier who ate at his table brings *yet* without a road date.
 - **Later-book reader pass:** One Lepidus-channel silence stitch beside Plancus *yet* (Ch 20 seed → Ch 29 dual absence).
+- **Reader-earn (Ch 26 expanded):** swap law in Decimus’s stake (assembly vote; Macedonian legions; Senate silent both ways); Ariminum rider → move into Mutina; siege taught as behaviour (ring of ditches / last ox / army from Rome); Hirtius + Pansa named in Decimus’s mouth as consuls from the Kalends and the Senate’s only swords (no narrator explainer, per Process §2); salt-oxen beat (App. *BC* 3.49 trad.). Ch 27 parley now pays on these.
 - **Human-voice (Ch 26):** one feel-pass — siege rehearsal / mornings prices / Cleo mosaic / Sextus margin breaths; hold envoy refuse, Plancus *yet*, partial donative, wall-walk key.
