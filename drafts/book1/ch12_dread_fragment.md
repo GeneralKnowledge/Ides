@@ -17,7 +17,7 @@ Overhear risk: Nysa possible
 
 In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth: necessary, costly, not optional.
 
-The lesser nightmares did not yet collapse the pediment. The pediment was the triangular gable over the front of the house, a thing that belonged properly to temples, and the Senate had voted Caesar one for his roof the way they voted him everything else. She had looked up at it every morning for months. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition. Once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
+The lesser nightmares did not yet collapse the pediment. She had looked up at it every morning for months: a temple’s triangle over a house’s door, voted to Caesar’s roof by the Senate the way they voted him everything else. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition. Once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
 
 Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn’t meet her eyes too long. In the dressing-room the three of them made a temporary country: mistress, dresser, water-carrier, no Senate, only cloth and the question nobody said aloud. Pallas’s fingers paused at a pin. Nysa’s jug paused at the lip of the basin. Calpurnia caught both pauses the way she caught March cold through a curtain.
 
@@ -41,7 +41,7 @@ They did. After the door-latch, in the service slip beside the cubiculum, Pallas
 
 In the chicken court Dama muttered that cheerful visitors left a smell chickens disliked. Phileros, keys already important, told him to invent quieter omens.
 
-Later Caesar found Calpurnia at the tablinum edge. The tablinum was the study at the back of the atrium, where a Roman house kept its records and its master. “You are not usually like this,” he said once, almost mildly, and she hated how often mildness was his kindness.
+Later Caesar found Calpurnia at the edge of the tablinum, among the records at the back of the atrium where he did his work. “You are not usually like this,” he said once, almost mildly, and she hated how often mildness was his kindness.
 
 “The house listens,” she said. “So do I.”
 
@@ -51,7 +51,7 @@ Later Caesar found Calpurnia at the tablinum edge. The tablinum was the study at
 
 “It is March,” he said. “Everything is listening to something new.”
 
-She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep when the city hung whispers on their bed-curtains. Her husband was Rome’s chief priest, the keeper of its calendar and its rites, and the house they lived in belonged to the office, not to them. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
+She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep. Even the bed belonged to the office: the chief priest’s house, lent with the calendar and the rites, and the city hung whispers on its curtains. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
 
 ---
 

@@ -17,11 +17,11 @@ Overhear risk: Medium–Low
 
 “Keep him talking,” Decimus said.
 
-They stood where Pompey’s stone still watched the living arrange a hold. The Senate was to meet in the hall attached to Pompey’s theatre, because the old Curia was still being rebuilt, and Pompey’s statue stood there looking on, the dead rival presiding over the day his conqueror would die. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship. Caesar had rewarded him with the office and trusted him with Spain; Trebonius had accepted both and had gone on owing neither.
+They stood where Pompey’s stone still watched the living arrange a hold, a few walls from the statue that would preside over tomorrow’s sitting. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face had the mildness of someone who had been consul under Caesar and still knew how to make business smell like friendship. Caesar had rewarded him with the office and trusted him with Spain; Trebonius had accepted both and had gone on owing neither.
 
 “Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
 
-The consul was Mark Antony, who held the highest office in the Republic alongside Caesar and was, by size and loyalty, the one man in Rome who might have turned the morning into a brawl. Antony was big, loud, and devoted to Caesar the way a large dog is devoted: by instinct and at volume. If he walked into the chamber, the knives would have to go through him first. So he must not walk in.
+Decimus did not need to say which consul. Antony: big, loud, the one man in Rome who might turn the morning into a brawl, devoted to Caesar the way a large dog is devoted, by instinct and at volume. If he walked into the chamber, the knives would have to go through him first. So he must not walk in.
 
 “And if he smells it?” Trebonius asked.
 
@@ -63,7 +63,7 @@ Overhear risk: N/A
 
 Cicero wrote to Atticus about games.
 
-Atticus was his oldest friend and his banker of the mind, the rich, cautious man in Athens or Epirus or wherever he had decided that month to be safe, to whom Cicero sent his real opinions because nobody else would keep them. The letters were Cicero’s habit as other men keep a temper: daily, compulsively, with relief.
+Atticus would be in Athens or Epirus or wherever he had decided that month to be safe, and would keep Cicero’s real opinions because nobody else would. The letters were Cicero’s habit as other men keep a temper: daily, compulsively, with relief.
 
 Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
@@ -71,9 +71,9 @@ Not only games: also a cousin’s lawsuit, a bookish slight, the eternal questio
 
 He read it back and was pleased. That was the danger of Cicero: he was nearly always pleased by the sentence in front of him, and rarely asked what it was for.
 
-He considered a sentence about Caesar’s departure east and the offices stacked like bricks ahead of lesser men. Caesar was to leave for Parthia within days, and had already arranged who would hold the consulships and magistracies for years in his absence, as if the Republic were a farm he was leasing out. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
+He considered a sentence about Caesar’s departure east in a matter of days, and the offices stacked like bricks ahead of lesser men, a Republic leased out like a farm for the years he would be gone. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus, his secretary, had brought a note from Hirtius’s orbit about nothing that mattered. Hirtius was Caesar’s staff officer, a consul-designate, a gentleman and a gourmand, and Cicero’s most useful friend inside Caesar’s camp, the man he gave dinner lessons in oratory in return for gossip. Cicero answered with courtesy that congratulated itself. He didn’t know Trebonius was learning how to hold a consul with talk. He didn’t know Decimus had become the man who could still walk Caesar in. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
+Sphaerus, his secretary, had brought a note from Hirtius’s orbit about nothing that mattered. Hirtius paid for his dinner lessons in oratory with gossip from Caesar’s camp, and this week the gossip was thin. Cicero answered with courtesy that congratulated itself. He didn’t know Trebonius was learning how to hold a consul with talk. He didn’t know Decimus had become the man who could still walk Caesar in. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
 
 “You look pleased, master,” said Sphaerus.
 
@@ -99,13 +99,11 @@ Overhear risk: High among soldiers
 
 Sextus Laberius Cordus loved Caesar the paymaster more than Caesar the god.
 
-He was a veteran, one of the legionaries who had marched through Gaul and Spain and Africa on Caesar’s word and Caesar’s pay, and who now sat in a camp or a settlement waiting to be turned from soldier into farmer. In Roman custom a legion that won was paid off with land, and land had been promised in huge quantities: colonies founded, plots surveyed, farms taken from the losing side and handed to the winners. The promise was good. The delivery was slow.
+Gaul, Spain, Africa, on Caesar’s word and Caesar’s pay, and now a winter camp in Italy, waiting to be turned from a soldier into a farmer. Land had been promised by the cartload: colonies founded, plots surveyed, farms taken from the losing side and handed to the winners. The promise was good. The delivery was slow.
 
-Around the brazier the talk was colonies and delays. Who had been promised land near Capua, the rich farming country south of Rome. Who had heard the promise thin out into “after Parthia.” Who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative not yet dated. The donative was the cash gift a general paid his men after a victory, and Caesar’s was late. Vibius, his optio, the sergeant who kept the centurion’s orders and the rest of the men’s tempers, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
+Around the brazier the talk was colonies and delays. Who had been promised land near Capua, the rich farming country south of Rome. Who had heard the promise thin out into “after Parthia.” Who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative still not dated. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
 
 “He pays,” Laberius said. “When the eagle eats, we eat.”
-
-The eagle was the legion’s standard, the gilded bird carried at the head of the column, and the men swore by it the way a household swore by its hearth.
 
 “When the eagle flies east,” Vibius answered, “we count dirt.”
 
@@ -137,7 +135,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set, almost.
 
-Tillius for the petition, brother’s exile on the tongue, hands ready to insult with touch. Lucius Tillius Cimber, a senator whose brother Caesar had exiled, was to approach Caesar with a petition to pardon the brother. It was a respectable request, and a respectable request is the best cover for a crowd of men to gather round a chair. When Caesar refused, Tillius would seize his toga and pull it down from the neck, and that tug was the signal. Casca for first ugly courage: Publius Servilius Casca was to strike first, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Galba still owed him a brother’s winter for a torn patron seal. Cassius did not ask whether the grain debt had already called him away from rock and blade.
+Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The Cascas, Cimber, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Galba still owed him a brother’s winter for a torn patron seal. Cassius did not ask whether the grain debt had already called him away from rock and blade.
 
 Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened. Ligarius’s pride was supposed to buy us that body. He sent fever instead. Or a man who smelled like fever.”
 
@@ -149,7 +147,7 @@ Cassius’s finger stopped on one blank place in the list he kept only in his he
 
 “I do not blame him,” Cassius said. “I only note that fever has never once fallen on a man at a banquet.”
 
-Brutus waited. Missing men made rooms louder. Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The Kalends was the first of the month, the day when interest fell due and men paid or were shamed, and the cough wanted an answer as much as the blank line did. Brutus gave neither.
+Brutus waited. Missing men made rooms louder. Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The cough wanted an answer as much as the blank line did. Brutus gave neither.
 
 “We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, fever takes him and we take the door. We do not invent another postponement for a man who already chose not to stand.”
 
@@ -173,7 +171,7 @@ Not inventory. Choice. The word tasted like metal and unpaid interest.
 
 Cassius’s nod was small. Small nods moved mornings. He named the redistributed door once, checked Trebonius’s leash in principle, and stopped talking before talk became a way to unmake the lock.
 
-Brutus nodded once. The ancestral gesture: the nod of a Junius, a family that boasted the first Brutus who expelled the kings. He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cassius slept worse and called it planning.
+Brutus nodded once. The ancestral gesture: the nod of a Junius. He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cassius slept worse and called it planning.
 
 They left the room separately. Outside, a baker’s boy argued ordinary March prices with a customer and, in the same breath, that Caesar had already slipped the city for Parthia in the night, rumour with flour on it, already wrong. Neither man looked twice at the two who had just spent a breath on knives.
 

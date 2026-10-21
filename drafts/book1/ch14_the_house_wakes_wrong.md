@@ -40,7 +40,7 @@ She stopped. Words made it smaller. She didn’t want it smaller.
 
 “Then it is fortunate that I was beneath it only in your sleep. The carpenters have never been so well behaved.”
 
-Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the place where the arms of Mars were kept, metal spoke. Her husband was pontifex maximus, chief priest of Rome, and in his keeping lay the sacred shields and spears of Mars, the god of war; the city still liked its priests to sleep beside its spears. The old belief was that those arms rattled on their own before a great disaster. A clatter. A settling. Something hung for war had remembered it was metal.
+Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter. A settling. Something hung for war had remembered it was metal.
 
 In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off. The house was refusing ordinary night. Not yet the knife.
 
@@ -92,7 +92,7 @@ Overhear risk: Medium
 
 Caesar didn’t tell her about the clouds.
 
-In his sleep he had been lifted, not thrown, until Rome was a stain and the air was thin. Someone’s hand, vast as law, had closed around his. Jupiter’s, the dream insisted, with the shameless clarity of dreams. Jupiter was the king of the gods and the guardian of the Roman state; to be taken by the hand of Jupiter was, in the old reading, either the highest honour a man could have or the end of his usefulness among the living. He had not felt triumph. He had felt the odd calm of finishing a list.
+In his sleep he had been lifted, not thrown, until Rome was a stain and the air was thin. Someone’s hand, vast as law, had closed around his. Jupiter’s, the dream insisted, with the shameless clarity of dreams. Caesar was chief priest; he knew the reading without looking it up. Taken by the hand of the best and greatest: either the highest honour a man could be paid, or notice that his use among the living was over. He had not felt triumph. He had felt the odd calm of finishing a list.
 
 He sat on the edge of the bed and pressed his thumb into the opposite palm until the dream’s altitude drained out of him. Calpurnia watched. He might tip backward into the mattress and never come up.
 
@@ -114,7 +114,7 @@ Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. C
 
 He rose and the room tilted a fraction, old enemy, the brief swim behind the eyes. He had a falling sickness that came and went, and a general who fainted in the field was a thing his enemies would have paid well to see. He waited it out without granting it a name. Physicians loved names. Names became reasons to stay in bed while other men voted.
 
-In the atrium the first clients would soon arrive, or pretend to. Clients were the citizens who owed a great man their morning visit and expected favours in return, and the crowd of them, thick on any other day, was part of what made a house look like power. The Senate waited at Pompey’s theatre because he had put them there, on a day he had chosen, for business that required bodies in seats. Parthia didn’t move for a wife’s terror. Neither did the Forum’s appetite for a man who hid.
+In the atrium the first clients would soon arrive, or pretend to: the morning crowd that made a house look like power. The Senate waited at Pompey’s theatre because he had put them there, on a day he had chosen, for business that required bodies in seats. Parthia didn’t move for a wife’s terror. Neither did the Forum’s appetite for a man who hid.
 
 He thought, without drama, that men had wanted him dead since he was young enough to find it flattering. The thought didn’t name faces. It named pressure, March pressure, familiar as camp rain. Sulla had wanted him dead once, when he was barely a man; pirates had held him for ransom and he had promised them crucifixion, and kept the promise. The list was old and he had stopped reading it.
 
@@ -179,7 +179,7 @@ The word king did what it always did in that house. Everyone in the atrium knew 
 
 Decimus had to answer. Bowing without yielding would not hold against words. “Domina, I walk him to the Senate he summoned. If he dismisses them himself, your dream still gets heard. If he stays, the city writes a different dream for him, and neither of us will like the author.”
 
-Domina was the household’s word for the mistress of a house, used by clients and slaves alike. Decimus said it carefully. He had said it to her at dinner for years, and tonight it sounded like an alibi.
+Decimus had said *domina* to her at dinner for years. This morning it sounded like an alibi.
 
 Phileros cleared his throat for the keys’ dignity. “The litter is ready. Chickens were rude. That is not…”
 
@@ -191,7 +191,7 @@ Nysa’s voice arrived small and stubborn from the edge. “There was a warning 
 
 “Enough,” Caesar said, and the room rearranged around the word. His gaze flicked, doors, lists, Decimus’ face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
 
-The sacrifices were the morning’s rites, in which an animal was killed and the priests, the haruspices, read its liver and entrails to say whether the gods approved the day. A bad liver meant a bad day to do anything of importance. That morning, by every report, it had been bad.
+Decimus had heard it on the doorstep: the morning’s animal opened, the liver wrong, the haruspices sending word that the gods did not like the day.
 
 “Sacrifices are often sour,” Decimus said. “Birds are often rude. If we postpone for every rude bird, Parthia will send its own haruspices and laugh.” He stepped closer, into the radius where only friends stood, and felt Calpurnia’s cut still in the air, unpaid. “Come and dismiss them yourself if you must. Do not send a message that smells of terror. You are not a message.”
 
@@ -205,7 +205,7 @@ He put out his hand, and his chin tipped, half a breath, the old road signal: di
 
 Caesar took the hand.
 
-Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that. The Campus route ahead would use the same trust. The Campus Martius was the great open plain beyond the old city walls where Pompey’s theatre stood, and it was a walk of some distance; he would not spend the habit twice in one morning.
+Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that. The Campus route ahead would use the same trust, out past the old walls to the open plain and Pompey’s theatre, a long way for a litter; he would not spend the habit twice in one morning.
 
 Calpurnia’s hand fell from the doorframe.
 

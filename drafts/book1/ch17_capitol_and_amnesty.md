@@ -22,7 +22,7 @@ On the Capitol’s rock above the Forum, height was supposed to mean clarity.
 
 Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly, theatre of virtue. Cassius kept his voice low and his eyes on approaches, and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. The northern road was the only plan that did not involve being loved by the Forum. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument. Height could not choose among them.
 
-Brutus spoke. He heard himself speak. The words were right (libertas, tyrant, law, ancestors), each one a stone from a good road. Libertas was the old Roman word for freedom from kings, and the one every schoolboy learned beside the story of the first Brutus. Below, the Forum didn’t become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain. Grain was not a consul.
+Brutus spoke. He heard himself speak. The words were right (libertas, tyrant, law, ancestors), each one a stone from a good road. He had learned *libertas* as a schoolboy, in the same lesson as the first Brutus and the last king. Below, the Forum didn’t become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain. Grain was not a consul.
 
 “They will come round,” Casca said, needing it true enough to keep the blade in the open.
 
@@ -40,7 +40,11 @@ He almost ordered the linger as policy. Then he saw Decimus’s shoulder already
 
 “We hold until the reports clarify,” Brutus said, public face, station calm. “Liberty does not run from its own Forum.”
 
-A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age. Lepidus was Caesar’s master of the horse, the man second only to the dictator himself, and he had a legion camped on the island in the Tiber, which made any rumour about him easy to believe. Brutus kept each report as incomplete. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
+A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age.
+
+“Lepidus has a legion on the Tiber island,” Cassius said, eyes still on the approaches. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
+
+Brutus kept each report as incomplete. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
 
 “Cicero is writing the age?” Casca said. “Already?”
 
@@ -93,7 +97,7 @@ Antony’s first clear desire was to kill everyone in a toga who had ever smiled
 
 His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped out of the Curia that morning, in the version he would tell later, in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
 
-Lepidus’ men were a fact in the city’s body. The legion on the Tiber island was the only organised body of soldiers close to Rome. Facts could be marched into the Forum and made into a butcher’s festival. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
+Lepidus’ men were a fact in the city’s body: the legion on the Tiber island, the only organised soldiers close to Rome. Facts could be marched into the Forum and made into a butcher’s festival. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
 
 “Give the word,” Pacuvius said. “We take the Capitol before dark.”
 
@@ -177,7 +181,9 @@ He enjoyed, privately, shamefully, the return of necessity. Necessity had always
 
 Brutus’ people wanted praise and protection. Antony’s people wanted the dictator’s papers to remain law so the city did not tip into a void where every debt could be renegotiated with a knife. Cicero heard both and performed the old trick: show each side the part of its face that could still be called Republic.
 
-Amnesty. The word went around the marble like wine. Amnesty for the killers; validity for Caesar’s acts. A bargain with two handsome hands and a hidden mouth. The Greek word meant forgetting, and Cicero had used it deliberately: the Athenians had once ended a civil war by swearing not to remember it.
+“Amnesty,” Cicero said, and gave them the Greek on purpose. “Forgetting. Athens once ended a civil war by swearing not to remember it.”
+
+The word went around the marble like wine. Amnesty for the killers; validity for Caesar’s acts. A bargain with two handsome hands and a hidden mouth.
 
 Cicero said, “Peace buys the Republic room to breathe. Law returns in that room, or we burn the house to spite one dead man.”
 
@@ -195,7 +201,7 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He left the bargaining room with praise still arranged on his mouth: peace, breath, law’s return. The smile was sized for men who needed Cicero more than they needed a pyre. In the corridor outside, voices were already pricing what the bargain had not named. A banker-looking man, onion-and-money face, stylus, told a junior that gardens across the Tiber would move leases before anyone opened a will. Caesar’s will had been deposited with the Vestal Virgins, as important papers were, and the rumour was that it was lying there, unread, like a sleeping dog. A client asked who the paper might wound first. Decimus, if the dead man had loved him in ink, second line, the dinner joke that had once sounded like party favour. The Liberators, if the crowd got three hundred reasons. Or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
+He left the bargaining room with praise still arranged on his mouth: peace, breath, law’s return. The smile was sized for men who needed Cicero more than they needed a pyre. In the corridor outside, voices were already pricing what the bargain had not named. A banker-looking man, onion-and-money face, stylus, told a junior that gardens across the Tiber would move leases before anyone opened a will. “It is lying with the Vestals, unread,” he said, “like a sleeping dog. Price it anyway.” A client asked who the paper might wound first. Decimus, if the dead man had loved him in ink, second line, the dinner joke that had once sounded like party favour. The Liberators, if the crowd got three hundred reasons. Or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
 
 “The queen is not in the Senate,” the junior said.
 

@@ -14,11 +14,11 @@ Overhear risk: Forum extreme; house medium
 
 ---
 
-Antony liked the Lupercalia because it let a consul sweat in public without looking weak. Consul: the year’s chair beside Caesar, fasces and colleagues and the right to speak first when the Senate sat. Twelve lictors walked in front of him with bundled rods and an axe, the old Roman picture of what a magistrate could do to you, and the title still smelled new on him. Goat-reek could not quite cover it.
+Antony liked the Lupercalia because it let a consul sweat in public without looking weak. He had held the year’s chair beside Caesar since the Kalends of January, and every day of it twelve lictors had walked in front of him with their bundled rods and the axe inside, Rome’s old picture of what a magistrate could do to you. The title still smelled new on him. Goat-reek could not quite cover it.
 
-The festival came every year in the middle of February, and nobody could say how old it was. Young men of good family stripped to a loincloth, sacrificed goats at a cave under the Palatine, and ran through the city in a long, shrieking line, lashing at everyone with strips of the goat’s hide. Women stood in the street to be hit. It was supposed to make them fertile. Romans pretended the whole thing was holy.
+The goats had died at dawn in the cave under the Palatine, older than anyone could date, and now he was running in a loincloth with the rest of the young men of good family, a long shrieking line through the city, lashing whoever stood near with strips of the hide. Women stepped into the street on purpose to be hit. It was supposed to make them fertile. Antony had never asked whether it worked. Asking would have spoiled it.
 
-He ran, joked, slapped backs, played the old fertility chaos. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it on the Rostra, in the special chair, half god, half tired general, wearing the purple robe and the gilded seat the Senate had voted him, watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
+He joked, slapped backs, played the old fertility chaos. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it on the Rostra, in the special chair, half god, half tired general, wearing the purple robe and the gilded seat the Senate had voted him, watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
 
 “You are enjoying this,” said a man running beside him, panting.
 
@@ -30,7 +30,7 @@ He ran, joked, slapped backs, played the old fertility chaos. The Lupercus strip
 
 It was not. Antony had been told, on the way up the steps, by a man who would not say who had told him, that a certain object would be handed to him at the foot of the Rostra and that he would know what to do with it. He had not asked what. Asking was how you became the man who knew.
 
-When Antony came forward with the diadem, call it wreath, call it crown’s cousin, call it a test, the Forum’s noise changed pitch. It was a band of white linen bound round a laurel wreath, the royal headdress of every foreign king Rome had ever hated. A fortnight earlier somebody had tied one to Caesar’s statue on the Rostra, and two tribunes had torn it off in public, and Caesar had had them thrown out of office for it. Nobody could decide who had been insulted. Offer. The gesture hung. Wool and metal. A child’s cry somewhere under the press. Antony’s grin was wide enough to hide whether he had been told to offer or had offered to see what broke.
+When Antony came forward with the diadem, call it wreath, call it crown’s cousin, call it a test, the Forum’s noise changed pitch. White linen bound round laurel, light as nothing in his fist: the headband of every foreign king Rome had ever hated. Somewhere below the Rostra a voice shouted the tribunes’ names, the two who had torn the same white band off Caesar’s statue a fortnight back and lost their office for it. Nobody had yet decided who had been insulted. Offer. The gesture hung. Wool and metal. A child’s cry somewhere under the press. Antony’s grin was wide enough to hide whether he had been told to offer or had offered to see what broke.
 
 Caesar refused.
 
@@ -40,7 +40,7 @@ Not once only. He refused in a way that let every watcher invent a script: humil
 
 “He already is!” someone else shouted, not relieved.
 
-King, in Rome, was a word you did not say. Rome had driven out its seven kings four and a half centuries ago and had spent every year since congratulating itself. The Latin was *rex*, and the thing behind it was *regnum*, and a man could build an empire, hold every office and wear the purple without once uttering either, so long as no one was fool enough to hand him the white band.
+Antony heard the word go up and understood, a beat late, that he had been the fool. *Rex.* Rome had thrown out its last king four and a half centuries ago and congratulated itself every year since. A man could hold every office and wear the purple without anyone saying *regnum* aloud, so long as nobody handed him the white band. Antony had just handed it to him three times.
 
 In the press Antony saw a familiar face go pale: Seius, one of the climbing men who bought applause and sold prudence. Seius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. He let the mouths blur back into Forum.
 
@@ -62,7 +62,7 @@ Antony heard the word *temporary* travel behind his back already rewriting the a
 
 Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
 
-By evening the city’s elite rooms had a new fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. Fulvia was his wife, and she had buried two husbands already, both killed in street politics, which gave her opinions on what a clever joke could cost. She did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
+By evening the city’s elite rooms had a new fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. His wife had buried two clever husbands before him, and Fulvia had opinions on what a clever joke could cost. She did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
 
 “They say you called it temporary,” she said.
 
@@ -104,7 +104,7 @@ Overhear risk: Medium-High
 
 They chose a colonnade off the Forum where shadows made faces careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
 
-He was Brutus’s brother-in-law, married to Brutus’s half-sister, and he had been at Carrhae, the last place a Roman army had met the Parthians and the first place Cassius had learned what a man could do with a bow on a horse. He had brought the survivors home, and Rome had given him no triumph for it and Caesar had pardoned him for backing the wrong side in the war. Last year the praetorships had been handed out. Brutus had got the senior one. Caesar had been kind about it. That, Cassius thought, was what was wrong with him.
+Cassius’s wife was Brutus’s half-sister, which made any stroll between them family business to a watching slave. He walked and thought, as he often did now, about bows. He had been at Carrhae. He had seen what a Parthian could do from a running horse, and he had brought the survivors home, and Rome had given him no triumph for it. Caesar had given him a pardon instead, and this year a praetorship, the junior one. Brutus had the senior. Caesar had been kind about that too. That, Cassius thought, was what was wrong with him.
 
 He didn’t begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
@@ -116,7 +116,9 @@ Brutus walked half a step slower. Ancestors walked with him whether he invited t
 
 “We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once at the emptied column, then at the boy now arguing a cup price with a muleteer. Ordinary noise was cover; he used it. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
 
-Galba had commanded a legion in Gaul under Caesar, had been passed over for a consulship he thought he had earned, and had not forgotten it. Ligarius had backed Pompey in Africa, been pardoned, and lived under that pardon like a man living under a roof he suspected was rotten. Cassius gave them one sentence each and left the rest to what Brutus already knew.
+“Galba,” Brutus said. “He had a legion for Caesar in Gaul.”
+
+“And was passed over for a consulship he thinks he earned. He has not forgotten it. Ligarius fought for Pompey in Africa and lives under his pardon like a man under a roof he thinks is rotten.” Cassius left the rest to what Brutus already knew.
 
 Brutus stopped. The stop itself was an answer he preferred to speech.
 
@@ -142,15 +144,13 @@ They walked on as if they had been talking about rain.
 
 At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft thanks for the stroll, a smile sized for anyone watching from a doorway. Ten paces on, the smile dropped. He found Trebonius loitering with a cup he was not drinking.
 
-Trebonius had served Caesar in Gaul and Spain and held a consulship Caesar had given him. Of every man in the circle he had the most to lose and the least reason to say so, and he had the great gift of being underestimated by people who thought good manners were the same as good nature.
+Cassius had never once seen Trebonius drink the cup he carried. Gaul, Spain, a consulship from Caesar’s own hand: of every man in the circle he had the most to lose and the least habit of saying so, and the great gift of being underestimated by people who thought good manners were the same as good nature.
 
 “Well?” Trebonius asked, mild as market day.
 
 “He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
 
-Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Casca doesn’t do essays. He does the first ugly minute.”
-
-Casca was a senator, a hot-tempered man with a short fuse and a long grudge, and in any company of well-spoken men he was the one who could be trusted to do the thing nobody had said aloud.
+Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Short fuse, long grudge. Casca doesn’t do essays. He does the first ugly minute.”
 
 Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
 
