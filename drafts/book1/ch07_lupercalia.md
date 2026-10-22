@@ -9,6 +9,7 @@
 # SC-16: Diadem
 
 POV: Antony · Lupercal / Forum → evening house · A4
+Date / place: 15 Feb 44 · Lupercal / Forum → Antony’s house
 Info ENTER: Festival heat · EXIT: Diadem offered & refused; monarchy panic Public; *temporary* priced at home
 Overhear risk: Forum extreme; house medium
 
@@ -97,6 +98,7 @@ Antony drank anyway. He stored her sentence where he stored unpaid cohorts: not 
 # SC-15: Veiled Talk
 
 POV: Cassius (Brutus in frame) · portico stroll · App. 2.113 energy
+Date / place: Days after 15 Feb 44 · colonnade off the Forum
 Info ENTER: Separate private thoughts; diadem still sticky in the city · EXIT: Mutual disclosure begins; company plan for Brutus
 Overhear risk: Medium-High
 
@@ -104,7 +106,7 @@ Overhear risk: Medium-High
 
 They chose a colonnade off the Forum where shadows made faces careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
 
-Cassius’s wife was Brutus’s half-sister, which made any stroll between them family business to a watching slave. He walked and thought, as he often did now, about bows. He had been at Carrhae. He had seen what a Parthian could do from a running horse, and he had brought the survivors home, and Rome had given him no triumph for it. Caesar had given him a pardon instead, and this year a praetorship, the junior one. Brutus had the senior. Caesar had been kind about that too. That, Cassius thought, was what was wrong with him.
+His wife would ask tonight what her brother had said, and to any watching slave the stroll would look like family business. He walked and thought, as he often did now, about bows. He had been at Carrhae. He had seen what a Parthian could do from a running horse, and he had brought the survivors home, and Rome had given him no triumph for it. Caesar had given him a pardon instead, and this year a praetorship, the junior one. Brutus had the senior. Caesar had been kind about that too. That, Cassius thought, was what was wrong with him.
 
 He didn’t begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 

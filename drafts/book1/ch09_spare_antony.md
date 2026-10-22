@@ -9,6 +9,7 @@
 # SC-22: Access
 
 POV: Decimus · near Domus Publica / Campus
+Date / place: Late Feb 44 · Sacra Via
 Info ENTER: Caesar’s favour · EXIT: Inside conspiracy as access key (reluctant)
 Overhear risk: Street
 
@@ -54,7 +55,7 @@ He almost smiled at Trebonius’s delay-talk, then didn’t. Smiling made the pl
 
 Cassius’ nod was small. Small nods moved armies.
 
-When Decimus turned away, Brutus caught Cassius’s sleeve for half a breath, both faces still public for any watcher.
+Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and the voices behind him were not as low as they believed.
 
 “He will hate us for using the laugh,” Brutus murmured.
 
@@ -64,13 +65,14 @@ When Decimus turned away, Brutus caught Cassius’s sleeve for half a breath, bo
 
 “It is a very accurate thing to say. Whether it is terrible is a matter for the people who survive to write about us.”
 
-Ten paces on, alone enough, Cassius said to the air what he would not say beside Brutus: “He still smells of Caesar’s wine. Good. Men who smell of nothing are harder to aim.”
+Decimus kept walking. He did not give them the satisfaction of a turned head.
 
 ---
 
 # SC-23: The Argument
 
 POV: Brutus (Cassius & Decimus in frame) · closed garden · M6
+Date / place: Days later · closed garden
 Info ENTER: Ops planning · EXIT: Spare Antony (Brutus wins); Trebonius tasked in principle
 Overhear risk: Low, slave almost hears (**D**)
 

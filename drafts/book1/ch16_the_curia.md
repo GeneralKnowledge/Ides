@@ -2,7 +2,7 @@
 
 **M5 polish** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off
 **Place:** Curia Pompeia / Forum–Subura streets
-**Human-voice:** Ch 16 expanded; surgical peak — Curia/Tillius re-gloss trimmed; knives / kai su / market-day corridor / false Antony held.
+**Human-voice:** Ch 16 expanded; surgical peak; Curia/Tillius re-gloss trimmed; knives / kai su / market-day corridor / false Antony held.
 
 ---
 
@@ -181,4 +181,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 **Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).
 **M5 polish:** header pass; last-words ambiguity held (AMB).
 - **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
-- **Human-voice (Ch 16 expanded):** surgical densify — golden chair / toga sacred / Casca Greek cry / sixty-pack / imagines / kai su dispute / 23 later number / Capitol / Dolabella; cut Curia scaffolding brochure (Ch 9); cut Tillius Pompey-brother CV (Ch 13); cut Subura tenement re-gloss (Ch 11); hold knives, market-day corridor, false Antony; no modern weekdays.
+- **Human-voice (Ch 16 expanded):** surgical densify; golden chair / toga sacred / Casca Greek cry / sixty-pack / imagines / kai su dispute / 23 later number / Capitol / Dolabella; cut Curia scaffolding brochure (Ch 9); cut Tillius Pompey-brother CV (Ch 13); cut Subura tenement re-gloss (Ch 11); hold knives, market-day corridor, false Antony; no modern weekdays.

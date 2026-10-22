@@ -54,7 +54,7 @@ Brutus looked at the broken street. “Then do not ask me to bless the nearer kn
 
 He left before philosophy answered, forearm clasp still warm. East was already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus across the Alps, Caesar’s man in the next province over, who wrote very good letters and kept his legions very close: courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina sat on the Via Aemilia where it crossed the Cisalpine plain. Decimus meant to make it his fortress, and had chosen the width of its ditches a year ago. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read yet twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
+On the road north, while that smoke thinned behind him into other men’s problems, he sent two letters. One went to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home: courteous, asking for a meeting that smelled like alliance and for twenty wagons of grain if the meeting could not be soon. One went to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina, on the Via Aemilia, was the fortress he had built in his head a year ago, ditches and all. He counted the twenty in his head the way he counted remounts before rain: numbers that kept men fed. Plancus’s reply arrived soft: praise, delay, no date, and a careful line that grain “could not yet be spared from his own columns.” Decimus read yet twice, then looked at the empty stretch of road where wagons should have been and were not. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus held the first letter like a receipt with no goods attached. He folded both silences into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. Friends who would not send grain or a roof had already begun the road that ended without wagons. The will’s second line traveled with him like pitch he could not wipe.
 
 ---
 
@@ -94,7 +94,7 @@ A Roman clerk from the house’s new legal weather arrived mid-morning with a po
 
 “Then you may be the first to be disappointed.”
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, her chief of staff and her tongue in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, who ran her household and spoke for her in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
@@ -172,7 +172,7 @@ Octavian didn’t shake the hand off. He also didn’t lean into it. He asked fo
 
 He didn’t say son. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
-Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan. The sealed tablet pressed on Caesar in the litter remained unread among other papers when the body was handled. A household fragment burned elsewhere was never that tablet. Dual tracks stood. Names first.
+Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan. Names first.
 
 ---
 

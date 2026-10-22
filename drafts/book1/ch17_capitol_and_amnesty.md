@@ -62,7 +62,7 @@ Cassius said, close enough that only Brutus and Decimus caught it, “We cannot 
 
 They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped. He had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
 
-Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. He had nodded that winter into February’s portico and left it unpaid; absence was the receipt now, standing where a blade should have stood.
+Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. Brutus remembered the brother’s winter Cassius had promised Galba in February and never paid; absence was the receipt now, standing where a blade should have stood.
 
 Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say Capitol if you must, say it as fear, not as a period.”
 
@@ -95,7 +95,7 @@ Overhear risk: Officers
 
 Antony’s first clear desire was to kill everyone in a toga who had ever smiled at Brutus.
 
-His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped out of the Curia that morning, in the version he would tell later, in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
+His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped away from Pompey’s portico that morning in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
 
 Lepidus’ men were a fact in the city’s body: the legion on the Tiber island, the only organised soldiers close to Rome. Facts could be marched into the Forum and made into a butcher’s festival. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
 
@@ -127,7 +127,7 @@ An officer beside him, young, oil-smell, ambition still unscarred, seconded with
 
 Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
 
-Three wants, one ditch of snowless March air. Pacuvius’s storm. The officer’s paint. Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight, massacre versus optics, and chose the slower blade because the slower blade still had a consul’s name on it.
+Three wants, one ditch of snowless March air. Pacuvius’s storm. The officer’s paint. Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight, massacre versus how the body would look tomorrow, and chose the slower blade because the slower blade still had a consul’s name on it.
 
 Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short version bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
@@ -139,9 +139,9 @@ Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short
 
 Pacuvius made the face of a man receiving wisdom, chin tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
 
-Antony turned toward the Capitol. Behind him, once the consul’s shoulder was a safe width away, Pacuvius’s soft dropped for Lepidus’s nearest ear and two officers who had wanted dark. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger, mark that when the Forum wants blood and we offer clauses.”
+Antony turned toward the Capitol. Behind him Pacuvius’s soft dropped, for Lepidus’s nearest ear and two officers who had wanted dark, and not quite out of a consul’s hearing. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger, mark that when the Forum wants blood and we offer clauses.”
 
-Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
+Antony let it pass without turning. Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
 
 Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol. Contempt would not collapse it. Pacuvius’s hunger still wanted paint; Antony wanted a funeral that paid.
 
@@ -177,7 +177,7 @@ The Senate met two days later, on the seventeenth, in the temple of Tellus near 
 
 “If we do not settle this,” he told a cluster of faces that wanted settling, “we will have a second war before we have buried the first man’s meat.”
 
-He enjoyed, privately, shamefully, the return of necessity. Necessity had always been his favourite climate. In necessity, eloquence looked like courage. He had been consul himself in the year he put down Catiline, the ambitious noble who tried to burn the city, and men had called him father of his country for it; every crisis since had been, for him, a chance to be that man again.
+He enjoyed, privately, shamefully, the return of necessity. Necessity had always been his favourite climate. In necessity, eloquence looked like courage. He had been consul the year Catiline’s men meant to burn the city, and Rome had called him father of his country for stopping them; every crisis since had been, for him, a chance to be that man again.
 
 Brutus’ people wanted praise and protection. Antony’s people wanted the dictator’s papers to remain law so the city did not tip into a void where every debt could be renegotiated with a knife. Cicero heard both and performed the old trick: show each side the part of its face that could still be called Republic.
 
@@ -213,7 +213,7 @@ He left the bargaining room with praise still arranged on his mouth: peace, brea
 
 Farther down the same corridor, near the side door servants used when mistresses did not want to be seen pricing, a woman whose messenger wore Antony’s house-ring stopped a clerk mid-bow. “Amnesty is a night’s kindness,” she said, dry. “Paper that stands overnight is the consul’s war-chest. Do not let Cicero’s peace sand the acts into something soft.” Another mouth answered from the opposite wall: an older steward carrying a tablet still soft with Brutus’s mother’s seal. “Then ask whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Watch when amnesty asks Brutus to thank a consul for surviving.” Neither asked Cicero’s opinion. Both spent the same amnesty he had just sold as breath. Both were already spending someone else’s authority to do it.
 
-The client’s voice thinned once Cicero’s toga was a white edge at the corner: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
+Cicero was nearly at the corner when the client’s voice thinned behind him: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
 Cicero heard enough to file gardens / boy / queen / wound beside amnesty, and Decimus / second line as a debt the dead man still held on the living. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 

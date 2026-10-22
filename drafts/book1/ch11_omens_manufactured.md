@@ -85,13 +85,13 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-Cicero was an augur himself and knew how a priestly college found what it was looking for. The Sibyl’s books lay in their vault on the Capitol until Rome was frightened, and then the keepers went down and came back with whatever Rome had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+Cicero had worn the augur’s robe himself and knew how a priestly college found what it was looking for. The Sibyl’s books lay in their vault on the Capitol until Rome was frightened, and then the keepers went down and came back with whatever Rome had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
 Below the elite dinners, he knew, kitchens were already trading birds and beware like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
 “Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
-Balbus of Gades kept Caesar’s books and wrote his letters and stood as near the dictator as a man could without a title. Cicero suspected him of most things and had been right about perhaps half.
+Cicero suspected Balbus of most things and had been right about perhaps half.
 
 Tiro, in the corner with his shorthand, did not look up. “You are talking to the room again.”
 
@@ -117,7 +117,7 @@ The courier tried once more, almost kindly. “He said the talk is already in ki
 
 Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens are better informed than half the Senate. Tell him I remain occupied.”
 
-“Occupied with what, my lord?”
+“Occupied with what?”
 
 “With being right at a distance,” Cicero said. “It is a full-time occupation.”
 
@@ -128,7 +128,7 @@ Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens
 ## Continuity
 - Ambiguous staff omens (Capys tablet, Spurinna, chickens), unproven (AMB-3); Ides = 15 March; haruspex plant paid. King-bird deferred to Ch 15 (Ides-morning tradition).
 - OMEN-1: manufactured Sibylline king/Parthia talk; Cicero treats as politics; wrong floater guess OK; Balbus densified.
-- Philippics word planted as Cicero private joke (pay Ch 25).
+- Philippics: no plant in this chapter’s prose (Demosthenes voice only); the word is paid in Ch 25.
 - **S-A2 / G1:** Nysa primary dwell extended (3+ kitchen voices held); Cicero second as collision (who floats beware/king); Hirtius refuse kept; soft bridge via kitchen omen-weather.
 - MUST_EXPRESS: E1, E2.
 - Next: Ch 12 dread / fragment / Caesar opacity.

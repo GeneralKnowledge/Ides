@@ -21,7 +21,7 @@ Kingship talk at dinners. Offices promised years ahead while men like him still 
 
 He owed Hordeonius’s wax for the toga, for the oil, for the smile, and a man in his position did not have the leisure to be principled. He had come to the baths for the hot room and a little quiet. He had not come for this.
 
-In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Seius knew the pitch from dinners. Basilus had soldiered for Caesar in Gaul and been praetor since, and had wanted a province Caesar did not give him, and had been resenting it well and in private ever since.
+In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Seius knew the pitch from dinners, and the story that came with it: Gaul served under Caesar, a praetorship earned, and no province at the end of it. Basilus kept the resentment the way some men keep wine.
 
 “You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
 
@@ -117,7 +117,7 @@ Overhear risk: High (neighbours → rumour)
 
 ---
 
-Visellius didn’t arrive on the Kalends.
+Visellius didn’t arrive on the Nones, the day his tablet named.
 
 Hordeonius went himself, because a banker who only sent Sosia learned too late when a ledger had become a corpse. The room smelled of cheap oil, old wine, and the metal tang men pretend is only coins.
 

@@ -32,5 +32,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | Cleopatra court factotum | **Ammonius** (or stand-in) | CLEO / Ch 20, 26 | Useful irritant; books/Cicero gossip |
 | Kitchen omen gossip | **Dama** | F1 / Ch 14 | Chickens sullen (wired) |
 | Antony force officer (Ides eve) | **M. Pacuvius** | ANT / Ch 17 | Scar; Capitol storm urge (wired) |
+| Laberius’s contubernium mate | **Gaius of the split sandal** | F3 / Ch 4, 13 | Talks to keep his fingers warm |
+| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 30 | Borrows tools, returns gossip; replaces earlier “Quintus” |
 
 **Rule:** New recurring names → append here + one-line note in `continuity/canon.md` under NAMES-1.

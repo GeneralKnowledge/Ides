@@ -9,6 +9,7 @@
 # SC-67: Which Caesar Pays
 
 POV: F3 Laberius · Italian veteran talk · FS10
+Date / place: May–June 44 · colony forum near Capua
 Info ENTER: Murder rage · EXIT: Listens for paymaster of the name
 
 ---
@@ -46,13 +47,14 @@ Laberius filed *eagle refuse / Servilia paper* without turning. Behind-backs wer
 # SC-68a: The Room Full of Women and Ruin
 
 POV: Cicero · Antium · 8 June 44 · Canon: digest C · Servilia soft power
+Date / place: 8 June 44 · Brutus’s house, Antium
 Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus abandons Rome return; Servilia will cut decree; Cicero feels wrecked
 
 ---
 
 Antium’s light was pretty. Pretty light made disasters look arranged. Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from Antium asking for counsel, and a man of station did not let Servilia’s son ask twice.
 
-In the colonnade before the room, two clients were already bitching what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
+In the colonnade before the room, two clients were already muttering what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
 
 Cicero heard enough to smile as if he hadn’t. Station required the smile. The unfinished voltage walked with him into the pretty light: eagle refuse on dusty forums, mother rewriting paper.
 
@@ -80,13 +82,13 @@ Brutus’ face did the old slow collapse into resolve. The Rome-return balloon, 
 
 Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 
-Cicero felt the ship take water. He had been invited to advise and had become a spare chair in a family firm’s emergency meeting. Soft power rearranged his sentences after he spoke them.
+Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Soft power rearranged his sentences after he spoke them.
 
 Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus, measuring how much of Cato remained, and how much would survive a ship east.
 
-Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact without future knowledge. The Liberators wouldn’t recover the capital by cleverness alone. His cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
+Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact. The Liberators wouldn’t recover the capital by cleverness alone. His cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised, and the firm did not need him.” The second laughed once, short. “Pretty light. Ugly firm.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page. Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised, and the family did not need him.” The second laughed once, short. “Pretty light. Ugly house.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page. Antium had already taught him how little the page weighed when Servilia moved a clause.
 
 ---
 
@@ -99,5 +101,5 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 - **Law-sweep:** Colonnade behind-backs → exit-complaint after room; eagle refuse / Servilia rewrite pay Ch 23 seeds; Laberius veteran talk; humour short laugh with reaction.
 - **Expansion D9:** Behind-backs colonnade densify (eagle refuse + boy pay / Servilia paper) as lived delay before Antium room.
 - **Golden-read P3-d:** Laberius refuses Antony-man “guard for safety” transfer, Capua date stays in his boots.
-- **Human-voice (Ch 24):** one feel-pass — donative as-if / purse listen / voltage / navigation / soft-power / day’s fact / Atticus compose breaths; hold Capua refuse, Cassius corn cut, Servilia clause, colonnade exit-complaint.
+- **Human-voice (Ch 24):** one feel-pass; donative as-if / purse listen / voltage / navigation / soft-power / day’s fact / Atticus compose breaths; hold Capua refuse, Cassius corn cut, Servilia clause, colonnade exit-complaint.
 - **Reader-earn (Ch 24):** Laberius’ Capua twine (why he is in the colony forum); scar puts Brutus + Servilia’s clerks at the Antium sea-house (Ch 23 seed, not re-taught); Cicero rides from Astura on Brutus’s letter; Brutus’s decree tablet = grain-buying commissions (Asia / Sicily) as a praetor’s excuse past ten nights; Tertulla = Servilia’s daughter married to Cassius (Cicero’s “both knives”); Favonius = Cato’s barefoot copy, civil-war-worse-than-king, no dagger (Cicero memory); Servilia’s clause named as the corn clause. Laberius / Porcia / Cato / ten-nights not re-glossed.

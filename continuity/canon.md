@@ -105,7 +105,7 @@ Working order (not “history proven”):
 | **VOICE-1** | Close third person limited, past tense; no “little did he know”; no future epigraphs | **Structural preference** (book voice) |
 | **TONE-1** | Soft: Spartacus *bite* + GRRM weight — Batiatus-style unintentional ego humour; GOT personality **blends** as lenses only (`writing/voice/TONE_SPARTACUS_GRRM.md`). Not Westeros cosplay; not camp drowning dread | **Structural preference** |
 | **SERIES-1** | Book 1 ends at Philippi emotional arc; sequel hooks only (land, Sextus, Antony–OCT) — no Actium as Book 1 plot | **Narrative invariant** (scope) |
-| **NAMES-1** | Minor cast listed in `writing/NAMES_MINOR_CAST.md` | **Continuity commitment** — new minors OK if logged; avoid silent renames |
+| **NAMES-1** | Minor cast listed in `writing/NAMES_MINOR_CAST.md` | **Continuity commitment** — new minors OK if logged; avoid silent renames. Logged 2026-10: Gaius of the split sandal (Ch 4, 13), Gavius (Ch 23, 30) |
 | **DRAFT-1** | *(Retired as active gate.)* First prose historically followed `LLM_WRITING_BRIEF` + `CHAPTER_MAP` + cards | **RETIRED process** — keep brief as craft aid |
 
 ## Gap-fill locks

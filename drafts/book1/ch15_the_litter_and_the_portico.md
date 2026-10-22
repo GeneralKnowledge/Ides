@@ -42,7 +42,7 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 “Bring me what you have.”
 
-“I burned it,” Nysa said, and felt the linen grain against her ribs contradict her. Same cheap lie she had once sold Phileros with an empty palm. Showing incomplete wax now, with the litter already gone, would only make her the morning’s omen. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn’t Senate shape. It was splinters.”
+“I burned it,” Nysa said. Her hand went once to her ribs and came away empty. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn’t Senate shape. It was splinters.”
 
 Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not someone.”
 
@@ -64,7 +64,7 @@ Phileros tried again from the vestibule edge, softer. “Domina, if the college 
 
 “If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
 
-Nysa nodded once. The order landed on a lie she had not confessed: bring the next splinter before burning. The one against her ribs stayed where fear had put it.
+Nysa nodded once, too quickly. Calpurnia let the quickness go.
 
 Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
 
@@ -216,7 +216,7 @@ Trebonius said something mild. Antony didn’t keep it. The mildness sat wrong, 
 
 Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
-Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face drop. Market day had done its job. He tasted copper and did not congratulate himself. Congratulations belonged to men who still believed surgeries stayed clean.
+At the door Antony looked back once. Trebonius stood alone in the colonnade’s shoulder, and the warm face had come off him like a cloak. Market day had done its job. Antony would remember that face longer than the noise.
 
 ---
 
@@ -233,4 +233,4 @@ Trebonius, alone for a breath in the colonnade’s shoulder, let the warm face d
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
 - **Law-sweep:** market-day callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
-- **Human-voice (Ch 15 expanded):** surgical densify — exta / street petitions / Greek teacher / tribune / blade law; king-bird first-tell moved here from Ch 11; cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.
+- **Human-voice (Ch 15 expanded):** surgical densify; exta / street petitions / Greek teacher / tribune / blade law; king-bird first-tell moved here from Ch 11; cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.
