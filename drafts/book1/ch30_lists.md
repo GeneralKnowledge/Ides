@@ -8,8 +8,8 @@
 
 # SC-84: Bononia
 
-POV: Antony / Octavian / Lepidus · Bononia bargain
-Date / place: Bononia / bridge-island tradition
+POV: Octavian · Bononia bargain
+Date / place: Autumn 43 · river island below Bononia
 Canon refs: A12 · Chain 7 · Cicero naming = C contested
 Info ENTER: Mutual need · EXIT: Triumvirate; lists begun
 Overhear risk: Low (guards)
@@ -20,7 +20,7 @@ They met because none could kill the other two cheaply.
 
 The island sat low in the river below Bononia, a gravel tongue with a tent on it and two camps on the banks watching each other’s fires. Lepidus crossed first over the plank bridge and walked the island with his own eyes before he waved the other two across. On the sand each man let the others’ people pat him down for blades. Nobody pretended it was ceremony.
 
-Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. Across the table sat the Campania squeak grown into a man who could force a bargain. Same cold face Antony had priced as thin shoes, now holding the name like a gate. Antony felt the old joke die in his throat and did not replace it. Octavian brought the name and a cold that still cracked sometimes when the room laughed wrong: crack, then seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. He also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
+Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. He looked across the table at the Campania squeak grown into a man who could force a bargain, and whatever joke he had kept since spring did not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. He also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
 
 Lepidus wanted the law first, because Lepidus always wanted the law first. “A tribune carries it in Rome,” he said. “Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
 
@@ -38,7 +38,7 @@ Antony’s stylus paused on a lesser enemy first, a man who had borrowed money a
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-Lepidus looked at his hands. Hands could not abstain. Octavian’s face didn't move enough to save anyone. For a breath the boy counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood.
+Lepidus looked at his hands. Hands could not abstain. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood.
 
 Antony’s finger stayed on the blank. “Say it,” he said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
 
@@ -52,22 +52,22 @@ Lepidus cleared his throat. “He still has friends who write.”
 
 “Then they can write his epitaph,” Antony said. “Or they can join him.”
 
-Who had first thought the name did not matter on the wood. The name stood because Octavian had said it stood, and no one struck it out. Leaving the first thought contested was still honest; the assent was not.
+Who had first thought the name did not matter on the wood. The name stood because Octavian had said it stood, and no one struck it out.
 
 “We buy the war with this,” Antony said, tapping the tablet beside the ring.
 
-“The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving. Formiae had been purchased in that sound.
+“The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving.
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
-Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Looking would have been an inventory of how wrong Ops had been. Octavian didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew. Somewhere south of the tent, a road toward Formiae had already begun to matter.
+Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
 ---
 
 # SC-85: Proscription Economy
 
 POV: F2 / F4 / F1 (triptych) · Rome
-Date / place: Streets / ledgers / households
+Date / place: Dec 43 · Rome streets, Hordeonius’s stall, the Domus
 Canon refs: A13 · Chain 7 · Festus pattern
 Info ENTER: Lists posted · EXIT: Betrayal market; confiscations
 Overhear risk: Extreme terror
@@ -86,7 +86,7 @@ At the corner Gavius from the next block, petition-tablet man, dinner-circuit me
 
 Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed. Arrived late. Left early. Charged interest he could not collect from his own nerves.
 
-“I am preserving value,” he informed his empty shelf. The shelf didn't absolve. Sosia looked at him the way she looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’ old room for no reason and told himself archaeology was closed.
+“I am preserving value,” he informed his empty shelf. The shelf didn't absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’ old room for no reason and told himself archaeology was closed.
 
 ### F1: Nysa
 
@@ -110,4 +110,5 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Expansion D15:** Lists spectacle, Gavius + neighbour woman collide with Seius on a near-cognomen (household/street collision on a name).
 - **Human-voice:** flattened Bononia/triptych parens; cut stacked *as if* (hands/history, kinship, locks-theology); broke list-growth cadence; ring-click + Formiae purchase sound held.
 - **Reader-earn (Ch 30 expanded):** gap map §5 paid. Island below Bononia with Lepidus crossing first and mutual pat-down (App. *BC* 4.2 trad.); Lepidus’s chair = legions that waded to Antony (pays Ch 29); triumvir office named once in Lepidus’s mouth (tribune’s law, three men for setting the state in order, five years, consul’s power, no veto = Lex Titia) with Antony’s mint-and-jail jab and Octavian’s “minds both”; proscription teach-beat in Antony’s answer to Lepidus’s Sulla precedent (head-money from treasury, slave freed, confiscation auction pays legions; App. *BC* 4.11 trad.) before “lists” becomes weather. F-triptych not re-glossed; Festus slave-informer and Seius board now land on the taught terms.
-- **Human-voice (Ch 30):** one feel-pass — rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
+- **Human-voice (Ch 30):** one feel-pass; rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
+- **Rules audit (Ch 30):** SC-84 locked to Octavian POV (Antony’s joke-die and pour now seen; Formiae previews and narrator verdict cut per VOICE-1); Sosia is *he* (Ch 2–28); scene date lines added.

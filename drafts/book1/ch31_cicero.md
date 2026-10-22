@@ -23,7 +23,7 @@ He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyon
 
 Proscription had turned his name into a price. A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He tried to treat the price as a rhetorical problem and failed. Rhetoric needed an audience; hunters weren't one. He catalogued, helplessly, the old skills: period, antithesis, the pause that made juries lean. None of them lengthened a road.
 
-Atticus lived in his head as audience. So did the Capitol’s first day after the knives, enlarged by memory into courage. So did the boy he had aimed at Antony and called statecraft. The boy had learned. Antony had remembered. Somewhere between them, lists had become the Republic’s new literature. Lanuvium’s polite despair felt, suddenly, like a kinder country. Cages with views. Not prices with blades.
+Atticus lived in his head as audience. So did the Capitol’s first day after the knives, enlarged by memory into courage. So did the boy he had aimed at Antony and called statecraft. The boy had learned. Antony had remembered. Somewhere between them, lists had become the Republic’s new literature. Brutus’s polite exile at Lanuvium felt, suddenly, like a kinder country. A cage with a view. Not a price with a blade.
 
 He remembered telling a friend that the Republic still had a voice. The friend had said the Republic had Cicero’s voice. The distinction, once clever, now walked beside the litter like a creditor. He had waved caution away with a jury gesture once. The gesture had not grown a cohort.
 
@@ -34,6 +34,7 @@ A boy selling fish by the verge stared at the litter. Fame might have been a col
 When the killers found the road, his attendants made the noises attendants make. Panic first. Then the math of their own skins. Someone begged. Someone ran. Someone stayed because staying was also a calculation, and calculations had always been Cicero’s neighbours if not his friends. He put his head out enough to be seen.
 
 The officer at the front had a face he knew. It took a moment; names had begun to take him moments. Popillius. A young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter, and a centurion beside him did the looking for both.
+
 Cicero looked at them the way he had looked at juries: measuring, already composing, already knowing the verdict lived outside the speech.
 
 He didn't deliver a final Philippic. Rhetoric needed breath and an hour. He had seconds and a neck. He offered them the stillness he had practised in courts when the verdict was already known. He almost shaped a line about the Republic. He let it die unspoken.
@@ -44,7 +45,7 @@ The blow came. Pain was brief and total and insultingly ordinary: no period, no 
 
 The sea kept sounding like itself. That offended him more than the blades. The surf didn't pause for a verdict.
 
-He didn't learn what they would do with head and hands. That knowledge belonged to other rooms, other markets, other men who priced trophies. His last clear thought was the petty wish that Atticus would understand the silence without needing a courier to explain it. And that the boy wouldn't mistake silence for permission.
+His last clear thought was the petty wish that Atticus would understand the silence without needing a courier to explain it. And that the boy wouldn't mistake silence for permission.
 
 ---
 
@@ -53,5 +54,5 @@ He didn't learn what they would do with head and hands. That knowledge belonged 
 - MUST_EXPRESS: C7, F11. Next: Ch 32.
 - **Law-sweep:** Formiae death, humour OFF (leave alone); coast road ≥3 around arrest/end; Philippics wager pays; no comedy inject.
 - **Human-voice:** broke salt/letter and attendants cadence; softened fame *as if*; Formiae silence + ordinary blow held.
-- **Human-voice (Ch 31):** one feel-pass — late/early / Lanuvium cages / attendants panic / Republic line / Atticus wish breaths; hold ordinary blow, no trophy aside, Chain 6 close.
+- **Human-voice (Ch 31):** one feel-pass; late/early / Lanuvium cages / attendants panic / Republic line / Atticus wish breaths; hold ordinary blow, no trophy aside, Chain 6 close.
 - **Reader-earn (Ch 31):** why this road (the ship out of Astura toward Brutus, seasick put-in at Caieta, *die in the country I saved* line, slaves turn the litter back to the sea); list copy at Tusculum names Quintus and the nephew under three men, the boy among them (pays Ch 30 seal-ring assent without re-teaching lists or Triumvirate); Popillius = the young man Cicero once kept out of the parricide’s sack, now at the front with a centurion (tradition, POV recognition). Philippics, Atticus, Lanuvium, Demosthenes shadow not re-glossed; no trophy aside; ordinary blow held.
