@@ -126,7 +126,7 @@ They went half a street without speaking. A lamp-boy ran past with a flame in a 
 
 “That is what I cannot work out. Cato’s or Caesar’s.”
 
-Cassius did not answer. He kept the queen talk, and the child, and Sextilius’s silence-on-land, with the names that had smiled wrong. Beneath them, unasked, went a fourth thing: a man who would not owe. He did not yet know which pocket it belonged in. He did not use the word *recruit*. That belonged to later rooms. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
+Cassius did not answer. He kept the queen talk, and the child, and Sextilius’s silence-on-land, with the names that had smiled wrong. Beneath them, unasked, went a fourth thing: a man who would not owe. He did not yet know which pocket it belonged in. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
 
 ---
 

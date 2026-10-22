@@ -206,7 +206,7 @@ Antony’s body understood before his politics did. He shook Trebonius’ hand o
 
 “What in…”
 
-Trebonius’ face was still warm. That was the obscenity. Warmth, while the Curia poured men out like a broken jar. Togas, bare heads, eyes too white.
+Trebonius’ face was still warm. Warm, while the Curia poured men out like a broken jar. Togas, bare heads, eyes too white.
 
 “Caesar,” someone yelled, and then the name became a dozen other words: blood, knives, Brutus, liberty, murder, the consul, where is the consul.
 
@@ -223,7 +223,7 @@ At the door Antony looked back once. Trebonius stood alone in the colonnade’s 
 ## Continuity notes (SC-42)
 - Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
 - Tribune densify; Marcus name; debt/fingers + Hirtius banter; blade-into-Senate law beat.
-- **Gold-edge / S18:** “market day” callback paid; third voice + exit-complaint on remount; Trebonius private drop after hold.
+- **Gold-edge / S18:** “market day” callback paid; third voice (legate’s attendant) waved off on remount; Trebonius warmth held in Antony’s sight only.
 
 ---
 
@@ -232,5 +232,5 @@ At the door Antony looked back once. Trebonius stood alone in the colonnade’s 
 **Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.
 **Edit pass 1:** cut “history to happen” wording from Decimus.
 **M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
-- **Law-sweep:** market-day callback paid; portico ≥3 + remount exit-complaint; Trebonius hold; unread note plant; humour low (Ides approach).
+- **Law-sweep:** market-day callback paid; portico ≥3 + remount attendant; Trebonius hold; unread note plant; humour low (Ides approach).
 - **Human-voice (Ch 15 expanded):** surgical densify; exta / street petitions / Greek teacher / tribune / blade law; king-bird first-tell moved here from Ch 11; cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.

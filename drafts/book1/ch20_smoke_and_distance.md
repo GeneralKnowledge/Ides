@@ -32,7 +32,7 @@ A neighbour’s freedman, helping shift a scorched beam, offered the morning’s
 
 Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
-Decimus packed maps, not speeches. The top one was Cisalpine Gaul: Italy’s north, this side of the Alps, Caesar’s gift to govern, and no longer a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere.
+Decimus packed maps, not speeches. The top one was Cisalpine Gaul, the province Caesar had given him, and it no longer looked like a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere.
 
 Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
@@ -120,7 +120,9 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection. The unfinished question she took to water was whose mouth in Italy would finish her story first. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection.
+
+Once she was on the water, someone in Italy would finish her story for her. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
 
 ---
 
@@ -162,7 +164,7 @@ Octavian felt the floor drop, the childish, humiliating sense that the adult arr
 
 “He sounds forty,” said Agrippa. “He is going to be forty by spring.”
 
-The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, the unfinished questions had already boarded the same weather anyway.
+The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, Octavian thought, all of it was already on the same wind.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 

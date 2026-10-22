@@ -40,7 +40,7 @@ On the road edge an older veteran, scar through the lip, no agent’s polish, sp
 
 “Philosophers,” the scar said. “Down at Brutus’s sea-house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
 
-Laberius filed *eagle refuse / Servilia paper* without turning. Behind-backs were how advice rooms arrived pre-loaded. He preferred his pockets. Pockets didn’t require a yes.
+Laberius filed *eagle refuse / Servilia paper* without turning. Talk behind a man’s back was how the gentry made up their minds before a meeting. He preferred his pockets. Pockets didn’t require a yes.
 
 ---
 
@@ -56,7 +56,7 @@ Antium’s light was pretty. Pretty light made disasters look arranged. Cicero h
 
 In the colonnade before the room, two clients were already muttering what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
 
-Cicero heard enough to smile as if he hadn’t. Station required the smile. The unfinished voltage walked with him into the pretty light: eagle refuse on dusty forums, mother rewriting paper.
+Cicero heard enough to smile as if he hadn’t. Station required the smile. He carried both into the pretty light: eagles refused on dusty forums, a mother rewriting paper.
 
 Brutus asked Cicero to speak as if speech could still be strategy. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “Grain buyers,” he said. “Asia for me, Sicily for Cassius. A praetor’s excuse to be out of Rome past ten nights, and a merchant’s errand to dress it.” The room held Porcia’s severity, Tertulla’s stillness, Favonius’ moral cough, and Servilia, who listened the way bankers listened to interest. Servilia had married that daughter to Cassius. One family, both knives; Cicero had always admired the economy. Favonius he remembered barefoot behind Cato in the Forum, copying the old man’s feet, and remembered the story that he had told Brutus last winter a civil war was worse than a king. Nobody had handed him a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine that nobody truly tasted.
 

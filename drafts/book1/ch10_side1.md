@@ -15,7 +15,7 @@ Overhear risk: Medium
 
 ---
 
-Marcus Seius Vestalis had come to the baths with a grievance polished like a shoe.
+Ten days before the Lupercalia, Marcus Seius Vestalis came to the baths with a grievance polished like a shoe.
 
 Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Markets, games, the first rung that might one day lead to praetor and consul: Seius had been told for ten years that his turn was coming. Seia Prima, his wife, had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
 
@@ -133,13 +133,13 @@ Nobody answered. The dead never did. That was why ledgers needed the living.
 
 He took copies, left the originals for whoever played magistrate this week, and entered Visellius, A.: doubtful with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
-A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. Ash will remember the smell longer than the Senate remembers the name.”
+A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. This stair will remember the smell longer than the Senate remembers the name.”
 
 “Who wanted him quiet?” the neighbour asked.
 
 “Everyone who owed him,” said the water-carrier. “Or everyone he owed. Same thing, with a ledger.”
 
-Hordeonius did not correct her. Street mouths carried what the Senate would later forget on purpose. He filed her sentence beside the three stair theories and kept the one open question: killer still unknown, and the ash already planted.
+Hordeonius did not correct her. Street mouths carried what senators forgot on purpose. He filed her sentence beside the three stair theories and kept the one open question: killer still unknown, and the smell already in the stairwell.
 
 ---
 
@@ -152,6 +152,6 @@ Hordeonius did not correct her. Street mouths carried what the Senate would late
 - OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.
 - Next: Ch 11 omens / Sibylline.
 - **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).
-- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / ash memory, SIDE-1 remembered later as pressure, not solved.
+- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / stair-smell memory, SIDE-1 remembered later as pressure, not solved.
 - **Golden-read P3-b:** Paullus refuse as patronage theatre, tablet possession, stool threat, soft click, ring-check (Batiatus ego without wink).
 - **Human-voice (Ch 10 expanded):** densified Almost / Soften / Body; Basilus + aedile + freedman earned; palaestra “shirts off” cut; hold Visellius refuse, body, OPEN-0, Seius flinch; no modern weekdays.

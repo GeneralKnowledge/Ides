@@ -29,7 +29,7 @@ Now, Cassius thought, not as prayer. Prayer was Brutus’ department.
 
 Tillius’ hands found the toga. Pulled.
 
-The signal was ugly and ordinary: cloth, fist, the insult of touch. A senator was not touched. His person was sacred, his dress was dignity, and a man who laid hands on a toga in the Senate had committed an outrage before any blade appeared. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
+The signal was ugly and ordinary: cloth, fist, the insult of touch. Cassius felt the room flinch at that before any blade appeared. In this house you did not lay hands on a senator’s toga; a fist in the cloth was already sacrilege. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
 “This is violence,” Caesar said, mild with disbelief, to Tillius.
 
@@ -84,9 +84,11 @@ What Caesar said, if he said, Brutus already knew he would not keep the same as 
 
 Brutus did not answer. Answers were for courts.
 
-Caesar folded at the base of Pompey’s statue. The old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. The number of wounds would become a story: twenty-three, the physicians would say afterward, and only one of them deadly. Brutus did not count. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
+Caesar folded at the base of Pompey’s statue. The old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. Brutus did not count the wounds. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
 
-“People, Senate…” His voice sounded written. He hated that. “The tyrant is dead. There is nothing to fear…”
+He found Cicero among the benches, grey, mouth open, already half risen to go, and called the name across the blood like a man calling a witness. “Cicero!” The old man stared at the dagger in his hand and did not come.
+
+“People, Senate…” Brutus’s voice sounded written. He hated that. “The tyrant is dead. There is nothing to fear…”
 
 No one arranged themselves into a people. They ran.
 
@@ -94,7 +96,7 @@ Half the Senate was gone through the doors before he had finished the sentence. 
 
 Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
 
-Brutus understood it a breath late. Jupiter’s hill above the Forum, the temple on its crown, one steep road up: a place a few men could hold, and a place the city would know where to find them.
+Brutus understood it a breath late. One steep road up, Jupiter’s walls at the top: a few men could hold it, and the whole city would know where to look.
 
 In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s market day. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
 
@@ -105,7 +107,7 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 ---
 
 ## Continuity notes (SC-43)
-- CHOREO-1; no Shakespeare Latin last words; disputed Greek fragment + silence/toga-over-face; Pompey statue fall; 23 = later public number (not narrator forensic).
+- CHOREO-1; no Shakespeare Latin last words; disputed Greek fragment + silence/toga-over-face; Pompey statue fall; wound count not given (no narrator forensic); Brutus calls Cicero by name (Cic. *Phil.* 2.28).
 - Curia geography paid Ch 9 (no scaffolding/hall brochure); Tillius brother paid Ch 13 (exile shorthand only).
 - **Gold dwell:** Exit fringe only, Cassius corridor truth (spare/market-day walking toward them); knife pile untouched.
 - **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”
@@ -181,4 +183,4 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 **Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).
 **M5 polish:** header pass; last-words ambiguity held (AMB).
 - **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
-- **Human-voice (Ch 16 expanded):** surgical densify; golden chair / toga sacred / Casca Greek cry / sixty-pack / imagines / kai su dispute / 23 later number / Capitol / Dolabella; cut Curia scaffolding brochure (Ch 9); cut Tillius Pompey-brother CV (Ch 13); cut Subura tenement re-gloss (Ch 11); hold knives, market-day corridor, false Antony; no modern weekdays.
+- **Human-voice (Ch 16 expanded):** surgical densify; golden chair / toga sacred / Casca Greek cry / sixty-pack / imagines / kai su dispute / Cicero named / Capitol / Dolabella; cut Curia scaffolding brochure (Ch 9); cut Tillius Pompey-brother CV (Ch 13); cut Subura tenement re-gloss (Ch 11); hold knives, market-day corridor, false Antony; no modern weekdays.

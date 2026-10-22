@@ -42,7 +42,7 @@ She stopped. Words made it smaller. She didn’t want it smaller.
 
 Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter. A settling. Something hung for war had remembered it was metal.
 
-In the service slip Nysa and Pallas traded one breath of omen without entering the cubiculum: latch wrong, metal wrong, mistress already awake with a name in her mouth. Phileros’s keys answered from farther off. The house was refusing ordinary night. Not yet the knife.
+Out in the service passage a girl’s voice said *metal* and was hushed by an older one. Phileros’s keys answered from farther off. The house was refusing ordinary night. Not yet the knife.
 
 Caesar listened. He always listened to houses. He listened to armies the same way.
 
@@ -277,7 +277,7 @@ Against her ribs, under linen, the wax fragment held its few words. Pressed yest
 
 When she returned to the atrium, Decimus was already there.
 
-He hadn’t come like a knife. He’d come like a friend with a schedule: cloak decent, face open, the particular cheer of a man who intends to move another man from one room to another. Nysa had seen him here a hundred times. That was the obscenity, if it was an obscenity. She didn’t have a word. She had only the wax against her ribs.
+He hadn’t come like a knife. He’d come like a friend with a schedule: cloak decent, face open, the particular cheer of a man who intends to move another man from one room to another. Nysa had seen him here a hundred times. She had no word for what was wrong with that. She had only the wax against her ribs.
 
 She heard him speak of waiting men, of fear, of kings who could not be spoken to. She saw him take Caesar’s hand. She saw Calpurnia’s shoulder fail against the doorframe.
 

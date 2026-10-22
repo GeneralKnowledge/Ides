@@ -60,8 +60,6 @@ Tiro did not laugh. He sanded. That was how you survived a master’s private co
 
 Cicero looked at him a moment longer than the joke deserved.
 
-The unfinished question under *dictator perpetuo* sat in the money: what the city would do with forever once the clapping stopped.
-
 ---
 
 # SC-14: Closed Market

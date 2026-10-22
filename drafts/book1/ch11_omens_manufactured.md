@@ -18,7 +18,7 @@ Overhear risk: Extreme (staff)
 
 Staff traded omens like recipes.
 
-Upstairs, a two-headed calf or a sweating statue went to the Senate, the augurs argued it, and the state paid for the cleansing. Down here the process was faster and cheaper, and nobody was fined.
+“Upstairs,” the cook liked to say, “a two-headed calf goes to the Senate and the state pays for the cleansing. Down here we do it for the price of a cake, and nobody gets fined.”
 
 Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. “Wouldn’t touch the grain,” he said. “When they won’t eat, nothing big gets done that day. Ask any priest.” Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
 
@@ -68,7 +68,7 @@ Later, in the Subura, among the tenements and tanners and fish-stink where gossi
 
 “So do the chickens,” said Nysa. “They just taste better.”
 
-The unfinished question under beware was not whether gods spoke. It was who in the city was already speaking like a god for a living.
+Nysa wiped the chicken grease off on her apron and wondered, not for the first time, who in the city was paid to make the gods talk.
 
 ---
 
@@ -85,7 +85,7 @@ Overhear risk: Elite
 
 Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
 
-Cicero had worn the augur’s robe himself and knew how a priestly college found what it was looking for. The Sibyl’s books lay in their vault on the Capitol until Rome was frightened, and then the keepers went down and came back with whatever Rome had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+Cicero had worn the augur’s robe himself and knew how a priestly college found what it was looking for. He had watched the Sibyl’s keepers go down to the vault under Jupiter’s temple when the city was frightened, and come back up with whatever the city had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
 Below the elite dinners, he knew, kitchens were already trading birds and beware like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
 
@@ -121,7 +121,9 @@ Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens
 
 “With being right at a distance,” Cicero said. “It is a full-time occupation.”
 
-“Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard. The unfinished question from the Domus court had found its elite rhyme: who manufactured the beware, and who would dine with it.
+“Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
+
+Who had written the oracle, he wondered, and who would be invited to dinner to hear it read.
 
 ---
 

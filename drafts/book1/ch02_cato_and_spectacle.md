@@ -60,7 +60,7 @@ The older ring did not bother with courtesy once the banker could not hear. “P
 
 The cake-seller overheard and laughed once, short. Sosia waited. Hordeonius wrote *new-ring: rate held / unpaid* under *Africa: closed enough*. He left the stylus resting on the name.
 
-Across the way stood Cicero. He had backed Pompey, lost, and been forgiven by Caesar, which in the new Rome was a debt that could never be repaid, only rolled over at a worse rate. He received the same Africa as a bruise that had not faded. Cato dead by his own hand. Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it. Lesser men converted suicide into slogan. Hordeonius watched the unfinished period. Interesting. Not urgent. Like any account that had not cleared.
+Across the way stood Cicero. Hordeonius had him filed with the forgiven: backed Pompey, lost, pardoned by Caesar. A debt that could never be repaid, only rolled over at a worse rate. He received the same Africa as a bruise that had not faded. Cato dead by his own hand. Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it. Lesser men converted suicide into slogan. Hordeonius watched the unfinished period. Interesting. Not urgent. Like any account that had not cleared.
 
 A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and leftover triumph wagons.
 
@@ -74,7 +74,7 @@ A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The ve
 
 Nobody agreed. The cake-seller sold two honey cakes to each side. The Forum only sold noise. Hordeonius let it run. One unfinished account waited on the Kalends, the first of the month, when interest fell due and half of Rome found out who its friends were.
 
-By afternoon the stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which runners still hugged oil jars like secrets. Hordeonius took those prices down too. He watched a runner cut through the press from the Domus Publica, the chief priest’s house beside the Vestals’ fire, which the city had lent to Caesar along with the priesthood. A lease with a god on it. Hordeonius would not have written it. The victor’s house was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
+By afternoon the stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which runners still hugged oil jars like secrets. Hordeonius took those prices down too. He watched a runner cut through the press from the Domus Publica. Chief priest’s house, Vestals’ fire next door, handed to Caesar with the priesthood: a lease with a god on it. Hordeonius would not have written it. The victor’s house was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
 
 ---
 

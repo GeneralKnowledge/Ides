@@ -18,7 +18,7 @@ Overhear risk: Extreme
 
 In the Forum Romanum Antony didn’t need a poet. He needed a corpse, a toga that could still show holes, and a crowd that had been paid in promises since the will leaked.
 
-The Senate had granted Caesar a public funeral in the spirit of the amnesty: body to the Forum, eulogy from the Rostra, the masks walking behind. It had hoped, without saying so, for dignified and brief. Antony had read the hope on their faces and declined it. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
+The Senate had voted the funeral in the same sitting as the amnesty, and hoped, without saying so, for dignified and brief. Antony had read the hope on their faces and declined it. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
 
@@ -38,7 +38,7 @@ Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached 
 
 “It is a very efficient funeral.”
 
-The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. The plan had been to carry the body to the Campus for cremation, as custom wished. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, the same man who had hissed on the grain line before, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
+The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. Antony’s marshals had a pyre waiting out on the Campus. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, a grey Gallic-war veteran who had watched towns burn from the wrong side, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
 
 A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
 
@@ -79,7 +79,9 @@ Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell th
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Capua without a living name to date it was only rage looking for a street. Laberius took a mental note of who took torches. Notes survived campaigns. Torches made you someone else’s note. Capua unpaid had just learned it could walk without waiting for clerks.
 
-Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots. Three lives in one surge. Fuller wanting permission. Household wanting water to stay water. Capua still unpaid in Laberius’s fist of air.
+Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
+
+Laberius closed his fist on air. Capua was still unpaid.
 
 An older veteran, scar through the lip, no torch, caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” Laberius felt the cost change. Refusal had just priced him as the man who would not burn for unpaid land while other men burned for the same unpaid word. He did not argue. Argument would have been a second yes.
 
@@ -142,7 +144,7 @@ The name travelled faster than faces.
 “The poet…”
 “Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name the day before. Not the dagger. Only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. Not the dagger. Only a throat full of syllables.
 
 “I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. The other one is Cornelius, the praetor, his dead wife’s brother, who threw off his robe and called him tyrant from the Rostra. I am Helvius, not Cornelius, I am…”
 
