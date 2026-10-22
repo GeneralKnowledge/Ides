@@ -38,7 +38,7 @@ On the road edge an older veteran, scar through the lip, no agent’s polish, sp
 
 “And the Liberators?” the corporal asked.
 
-“Philosophers,” the scar said. “Down at Brutus’s sea-house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
+“Philosophers,” the scar said. “Down at Brutus’s sea house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
 
 Laberius filed *eagle refuse / Servilia paper* without turning. Talk behind a man’s back was how the gentry made up their minds before a meeting. He preferred his pockets. Pockets didn’t require a yes.
 
@@ -58,7 +58,7 @@ In the colonnade before the room, two clients were already muttering what they w
 
 Cicero heard enough to smile as if he hadn’t. Station required the smile. He carried both into the pretty light: eagles refused on dusty forums, a mother rewriting paper.
 
-Brutus asked Cicero to speak as if speech could still be strategy. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “Grain buyers,” he said. “Asia for me, Sicily for Cassius. A praetor’s excuse to be out of Rome past ten nights, and a merchant’s errand to dress it.” The room held Porcia’s severity, Tertulla’s stillness, Favonius’ moral cough, and Servilia, who listened the way bankers listened to interest. Servilia had married that daughter to Cassius. One family, both knives; Cicero had always admired the economy. Favonius he remembered barefoot behind Cato in the Forum, copying the old man’s feet, and remembered the story that he had told Brutus last winter a civil war was worse than a king. Nobody had handed him a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine that nobody truly tasted.
+Brutus asked Cicero to speak as if speech could still be strategy. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “Grain buyers,” he said. “Asia for me, Sicily for Cassius. A praetor’s excuse to be out of Rome past ten nights, and a merchant’s errand to dress it.” The room held Porcia’s severity, Tertulla’s stillness, Favonius’s moral cough, and Servilia, who listened the way bankers listened to interest. Servilia had married that daughter to Cassius. One family, both knives; Cicero had always admired the economy. Favonius he remembered barefoot behind Cato in the Forum, copying the old man’s feet, and remembered the story that he had told Brutus last winter that a civil war was worse than a king. Nobody had handed him a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine that nobody truly tasted.
 
 Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions, Asia’s scraps, Sicily’s corn, as tools rather than humiliations? Better tools than open war with empty hands. He heard himself navigating. He mistook navigation for statesmanship.
 
@@ -66,7 +66,7 @@ Cicero began well. He always began well. Return to Rome under arms? He painted t
 
 “Then we do not gift them a massacre to justify,” Cicero said. “We keep the law’s face. Faces matter.”
 
-Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Absence was an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’ dust to Favonius’ virtue.
+Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Absence was an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
 
 Cassius arrived mid-flow, late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust. He didn’t apologise for lateness. Apology was for men who still believed calendars were shared.
 
@@ -78,7 +78,7 @@ Cicero tried to resume. Cassius didn’t resume. He cut.
 
 “Tools for whom?” Cassius asked. “For your letters? Or for a war that already has a paymaster arguing the name in every dusty forum?”
 
-Brutus’ face did the old slow collapse into resolve. The Rome-return balloon, Cicero’s prettiest paragraph, died in Brutus’ throat. East became less a choice than a harbour with a direction.
+Brutus’s face did the old slow collapse into resolve. The Rome-return balloon, Cicero’s prettiest paragraph, died in Brutus’s throat. East became less a choice than a harbour with a direction.
 
 Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 

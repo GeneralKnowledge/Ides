@@ -37,7 +37,7 @@ Seius’s heart performed a small treason of excitement. He saw himself named la
 
 A laugh burst from the main hall, someone’s joke about a wrestler. Seius laughed too late, then too loud. The recruiter’s eyes cooled.
 
-“I am with the Republic,” Seius said, which was what men said when they meant I am with my skin.
+“I am with the Republic,” Seius said, which was what men said when they meant *I am with my skin*.
 
 “Of course,” the man answered, already done with him.
 
@@ -93,13 +93,13 @@ Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did no
 
 “I am a soft one with a hard ledger. It is the ledger you are negotiating with.”
 
-Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered inquiry, political softness, refuse in a hand so neat it looked like virtue, then checked his ring.
+Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring.
 
 Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn’t.
 
 When the perfume had cleared, Sosia jerked a chin at the empty stool. “So if someone softens Basilus for liberty…”
 
-“Then bring me a name that bleeds,” Hordeonius said, already blotting. “Otherwise Visellius pays as written.” He entered soft hours, storm weather without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
+“Then bring me a name that bleeds,” Hordeonius said, already blotting. “Otherwise Visellius pays as written.” He entered *soft hours, storm weather* without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
 
 “You do not have to join it,” Sosia said. “You only have to charge the people standing in it.”
 
@@ -131,7 +131,7 @@ Neighbours already filled the stair with theories. Hordeonius filed them without
 
 Nobody answered. The dead never did. That was why ledgers needed the living.
 
-He took copies, left the originals for whoever played magistrate this week, and entered Visellius, A.: doubtful with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
 
 A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. This stair will remember the smell longer than the Senate remembers the name.”
 

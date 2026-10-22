@@ -60,7 +60,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
 
-Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn't drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
+Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
 ---
 
@@ -76,17 +76,17 @@ Overhear risk: Extreme terror
 
 ### F2: Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn't stop walking. Stopping looked like guilt.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
 
 At the corner Gavius from the next block, petition-tablet man, dinner-circuit memory, stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap. Seius heard his own flinch from the baths and the dinner return as street weather. A name collision that wanted him to claim or deny kinship with ink that killed.
 
-“I do not know that spelling,” Seius said. True enough to keep his door; false enough that Gavius’s mouth flattened. The woman stepped back. Kinship itself felt contagious. Seius bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks twice. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn't laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her, old Seia who audited his atrium smile against paper. He stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
+“I do not know that spelling,” Seius said. True enough to keep his door; false enough that Gavius’s mouth flattened. The woman stepped back. Kinship itself felt contagious. Seius bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks twice. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn’t laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her, old Seia who audited his atrium smile against paper. He stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
 ### F4: Hordeonius
 
 Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed. Arrived late. Left early. Charged interest he could not collect from his own nerves.
 
-“I am preserving value,” he informed his empty shelf. The shelf didn't absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’ old room for no reason and told himself archaeology was closed.
+“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason and told himself archaeology was closed.
 
 ### F1: Nysa
 

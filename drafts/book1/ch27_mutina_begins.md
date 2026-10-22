@@ -34,7 +34,7 @@ Decimus felt the hit. He had not known Antony’s count was that close. He kept 
 
 “Hirtius will come when he can sit a horse,” Antony said. “Pansa will come when he has taught enough farm boys which end of a pilum goes forward. Neither of them is consul until the Kalends, and neither of them is here. Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
 
-Antony had opened a count in public, not a negotiation. Decimus’s throat tightened, the old key turning. He didn't climb down. Climbing down would've looked like confession.
+Antony had opened a count in public, not a negotiation. Decimus’s throat tightened, the old key turning. He didn’t climb down. Climbing down would’ve looked like confession.
 
 “No,” Decimus said. “Not for breakfast. Not for your count of my smoke.”
 
@@ -60,7 +60,7 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “After the Kalends,” Decimus said. “Him and Pansa both. Until then we eat salt ox and count hinges.”
 
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn't tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
+He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn’t tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
 
 ---
 
@@ -82,11 +82,11 @@ Cicero read the motion in his court voice. Thanks to the Martian legion and the 
 
 “The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn’t think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Agrippa stood where the Curia fringe still smelled of wet wool and ambition. Close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina. Far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero left looking like a man certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero left looking like a man certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn’t correct him.
 
 ---
 

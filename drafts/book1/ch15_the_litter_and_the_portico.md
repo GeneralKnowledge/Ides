@@ -24,7 +24,7 @@ Phileros talked too much, which meant he was afraid. “The chickens were sullen
 
 “Someone,” Calpurnia said.
 
-“A man from the college. Or a man who knows a man from the college.” Phileros’ shoulders performed helplessness. “They always look insulted if you want them to.”
+“A man from the college. Or a man who knows a man from the college.” Phileros’s shoulders performed helplessness. “They always look insulted if you want them to.”
 
 “Do they?”
 
@@ -128,7 +128,7 @@ Decimus felt a cold stitch under the ribs. He didn’t know what the tablet said
 
 Caesar did not open it. The unread paper rode against his knee like any other chore.
 
-At the portico of Pompey the air changed. Shade, columns, the smell of stone that had watched other men’s ambitions. The Senate sat here while their own house stayed unfinished; Pompey’s statue waited inside. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’ mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
+At the portico of Pompey the air changed. Shade, columns, the smell of stone that had watched other men’s ambitions. The Senate sat here while their own house stayed unfinished; Pompey’s statue waited inside. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’s mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
 
 Antony’s laugh carried from farther along the portico, big, soldierly, not yet afraid. Trebonius was already angling toward that laugh with the patience of a door.
 
@@ -140,7 +140,7 @@ He didn’t go in at once. Edges meant Antony. Edges meant keeping the consul’
 
 Caesar entered the Curia of Pompey among men who loved him, hated him, owed him. Decimus knew with a clarity that felt like nausea: they needed him stopped before the Parthian clocks started again.
 
-Decimus wiped his clean hands on his tunic, once, where no one would see, and went to find Trebonius’ eye.
+Decimus wiped his clean hands on his tunic, once, where no one would see, and went to find Trebonius’s eye.
 
 ---
 
@@ -162,7 +162,7 @@ Overhear risk: Medium
 
 ---
 
-Antony liked the Theatre of Pompey complex the way soldiers liked any place with shade and a crowd to read. Columns made people smaller. Smaller people told the truth faster, or lied worse, either was useful.
+Antony liked the Theatre of Pompey complex the way soldiers liked any place with shade and a crowd to read. Columns made people smaller. Smaller people told the truth faster, or lied worse; either was useful.
 
 He arrived with the loose stride of a man who had drunk enough last night to prove he was alive and not enough to prove he was soft. The Ides were a workday. Caesar had called them. Caesar would talk ships and provinces and the endless eastern itch. Antony would agree where agreement bought him quiet and argue where argument bought him men.
 
@@ -172,7 +172,7 @@ Trebonius found him before he reached the Curia door.
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
-“It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’ hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
+“It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’s hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
 “You have a man in my debt who has news from Gaul,” Antony said.
 
@@ -202,11 +202,11 @@ Then the sound changed.
 
 Not a speech-sound. Not a vote-sound. A human noise wrong in the throat, shout stacked on shout, the scrape of benches, something like a scream cut short and replaced by many feet.
 
-Antony’s body understood before his politics did. He shook Trebonius’ hand off without thinking it rude.
+Antony’s body understood before his politics did. He shook Trebonius’s hand off without thinking it rude.
 
 “What in…”
 
-Trebonius’ face was still warm. Warm, while the Curia poured men out like a broken jar. Togas, bare heads, eyes too white.
+Trebonius’s face was still warm. Warm, while the Curia poured men out like a broken jar. Togas, bare heads, eyes too white.
 
 “Caesar,” someone yelled, and then the name became a dozen other words: blood, knives, Brutus, liberty, murder, the consul, where is the consul.
 

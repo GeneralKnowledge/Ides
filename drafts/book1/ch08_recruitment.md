@@ -26,7 +26,7 @@ He walked his own portico until the tiles knew his step. Galba’s name sat in h
 
 A clerk hovered with a tablet about a boundary dispute in some dull estate. Cassius took it, read nothing, handed it back.
 
-“Not now,” he said. “Send to Atticus’ people if they want Latin about ditches.”
+“Not now,” he said. “Send to Atticus’s people if they want Latin about ditches.”
 
 “Master, it concerns the drainage.”
 

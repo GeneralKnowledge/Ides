@@ -32,17 +32,17 @@ Beside him an older client named Naevius held his toga with the weariness of a m
 
 Naevius went up first. The patron said his name, warmly, and the nod travelled the whole distance. Naevius took it, bowed to the exact height, and came back past Seius with a face like a closed shop. “Thirty years,” he whispered. “The nod is a muscle. Yours will grow.”
 
-When Seius’ turn came, the patron’s nod was thin, already halfway to the next man.
+When Seius’s turn came, the patron’s nod was thin, already halfway to the next man.
 
 “We will see,” the patron said. “Caesar’s sky is large. Do not stand in it foolishly. Bring me something useful, news, a marriage rumour, a debt I can collect with a smile.”
 
 A secretary at the patron’s elbow added, polite as oil, “And do not bring us philosophy. Philosophy is what clients do when they have nothing spendable.”
 
-Seius smiled like a man who owned useful things. He didn't. He owned a sister’s strained dowry talk and a talent for sweating through wool.
+Seius smiled like a man who owned useful things. He didn’t. He owned a sister’s strained dowry talk and a talent for sweating through wool.
 
 “I am grateful for the guidance,” Seius said, with the exact bow height the atrium taught.
 
-Outside, in the lane’s cold, the middleman who smelled of Hordeonius’ wax waited with the patience of a professional accident. Seius had already borrowed for the toga and for a jar of oil good enough to be seen carrying. Now, it appeared, he would borrow for the borrowing. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
+Outside, in the lane’s cold, the middleman who smelled of Hordeonius’s wax waited with the patience of a professional accident. Seius had already borrowed for the toga and for a jar of oil good enough to be seen carrying. Now, it appeared, he would borrow for the borrowing. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
 
@@ -60,9 +60,9 @@ Seius’s smile lasted until the atrium door-slave looked away. Then it fell. �
 
 The middleman snorted, audible, unlovely. “Warm receptions are how we sell winter. Sign.”
 
-Seius took the terms because refusal meant standing still, and Seia Prima didn't reward stillness. He passed two clients still comparing whose patron had smiled wider. Comparison was the atrium’s second religion. Seius did not join. He was busy inventing a wider smile for home.
+Seius took the terms because refusal meant standing still, and Seia Prima didn’t reward stillness. He passed two clients still comparing whose patron had smiled wider. Comparison was the atrium’s second religion. Seius did not join. He was busy inventing a wider smile for home.
 
-At the house threshold Seia Prima was already waiting with a broom she did not need, waiting was her way of auditing. She took one look at his mouth and did not ask about the atrium.
+At the house threshold Seia Prima was already waiting with a broom she did not need; waiting was her way of auditing. She took one look at his mouth and did not ask about the atrium.
 
 “Wider than last week,” she said. “That means thinner paper.”
 

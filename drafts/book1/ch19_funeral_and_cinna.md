@@ -108,7 +108,7 @@ A man lifted a child to see the fire and laughed, and Nysa thought of Calpurnia�
 
 She didn’t see Antony as clever or monstrous. She saw a large man steering the crowd with his arms. She didn’t see Brutus at all. Height had become irrelevance.
 
-When the crowd surged, she surged or be crushed. Her incomplete wax stabbed her ribs. She kept it. Relics were stupid. She was allowed one stupidity.
+When the crowd surged, she surged rather than be crushed. Her incomplete wax stabbed her ribs. She kept it. Relics were stupid. She was allowed one stupidity.
 
 ---
 

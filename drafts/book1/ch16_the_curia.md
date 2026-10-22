@@ -19,15 +19,15 @@ Overhear risk: Extreme inside
 
 In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-One door. Too many togae. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’ cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
+One door. Too many togas. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’s cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
 
 Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency brand still wet on the Republic’s memory.
 
 Other senators crowded round the chair with the careful, helpful faces of men who wanted to second the request. It was the natural thing to do. It also put twenty men within arm’s reach.
 
-Now, Cassius thought, not as prayer. Prayer was Brutus’ department.
+Now, Cassius thought, not as prayer. Prayer was Brutus’s department.
 
-Tillius’ hands found the toga. Pulled.
+Tillius’s hands found the toga. Pulled.
 
 The signal was ugly and ordinary: cloth, fist, the insult of touch. Cassius felt the room flinch at that before any blade appeared. In this house you did not lay hands on a senator’s toga; a fist in the cloth was already sacrilege. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
@@ -39,13 +39,13 @@ Publius Casca struck at neck and shoulder, the awkward angle of a first wound ma
 
 Cassius moved.
 
-He didn’t see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills. A body that might yet stand up and make this morning a botched thing. Cassius’ blade went in where flesh allowed it. Heat ran over his knuckles.
+He didn’t see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills. A body that might yet stand up and make this morning a botched thing. Cassius’s blade went in where flesh allowed it. Heat ran over his knuckles.
 
 Around him the room became teeth.
 
 Senators who were not in it screamed anyway. Benches shrieked on stone. Someone fell without being struck, panic’s own casualty. Cassius smelled blood and dust and the sweet oil in Caesar’s hair. He kept his face tight. Soft faces in a killing lost the killing.
 
-The plan had been simple, and in the room it was not. There were more than sixty of them, and not all of them knew where to stand. Men struck at Caesar and at each other. A blade opened Brutus’ hand. The conspirators had sworn to be a surgery and they were, for a few breaths, a pack.
+The plan had been simple, and in the room it was not. There were more than sixty of them, and not all of them knew where to stand. Men struck at Caesar and at each other. A blade opened Brutus’s hand. The conspirators had sworn to be a surgery and they were, for a few breaths, a pack.
 
 Caesar fought. Of course he fought. The man had never learned how to be an offering.
 
@@ -70,7 +70,7 @@ Brutus had told himself it would feel like law.
 
 It felt like a bathhouse brawl with better cloth.
 
-Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’ ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch.
+Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’s ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch.
 
 He had to step close. Distance was cowardice; closeness was the thing that would be written, if anything was written truly.
 
@@ -94,7 +94,7 @@ No one arranged themselves into a people. They ran.
 
 Half the Senate was gone through the doors before he had finished the sentence. Men tangled in their own togas. Some left their shoes. One of the oldest members sat down on his bench and stayed there, white and quiet, as if he had come to observe a game he now realised had stakes.
 
-Cassius’ hand found Brutus’ elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
+Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
 
 Brutus understood it a breath late. One steep road up, Jupiter’s walls at the top: a few men could hold it, and the whole city would know where to look.
 

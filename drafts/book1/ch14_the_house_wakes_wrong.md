@@ -153,7 +153,7 @@ Overhear risk: High (Nysa, Phileros, household)
 
 Decimus washed his hands before he entered, not because they were unclean, but because clean hands were part of the costume of intimacy.
 
-The Sacra Via was already loud. March mornings in Rome never waited for great men. Shop fronts were opening. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. Decimus’ heart sat in his throat like a swallowed coin.
+The Sacra Via was already loud. March mornings in Rome never waited for great men. Shop fronts were opening. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. Decimus’s heart sat in his throat like a swallowed coin.
 
 If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
 
@@ -189,7 +189,7 @@ Nysa’s voice arrived small and stubborn from the edge. “I have…”
 
 “Not now,” Phileros snapped.
 
-“Enough,” Caesar said, and the room rearranged around the word. His gaze flicked, doors, lists, Decimus’ face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
+“Enough,” Caesar said, and the room rearranged around the word. His gaze flicked, doors, lists, Decimus’s face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
 
 Decimus had heard it on the doorstep: the morning’s animal opened, the liver wrong, the haruspices sending word that the gods did not like the day.
 
@@ -201,7 +201,7 @@ Caesar was silent. The silence scared Decimus more than anger would have.
 
 “Make your own courage the omen,” Decimus said, quieter. Need made the sentence. “The Senate has sat since morning. Come.”
 
-He put out his hand, and his chin tipped, half a breath, the old road signal: ditch clear, philosophy later. Calpurnia saw it. Her mouth tightened. She recognised the habit that had always meant he will go with this man. Decimus felt the tip fail under her eyes, too small a betrayal to name, too large to take back, and held the hand open anyway without finishing the joke that used to follow the tip in Spain.
+He put out his hand, and his chin tipped, half a breath, the old road signal: ditch clear, philosophy later. Calpurnia saw it. Her mouth tightened. She recognised the habit that had always meant *he will go with this man*. Decimus felt the tip fail under her eyes, too small a betrayal to name, too large to take back, and held the hand open anyway without finishing the joke that used to follow the tip in Spain.
 
 Caesar took the hand.
 
@@ -211,7 +211,7 @@ Calpurnia’s hand fell from the doorframe.
 
 They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
 
-Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’ job. Decimus didn’t say that. He said, “It will be a short session,” and smiled. Shortness was not mercy. It only sounded like it.
+Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled. Shortness was not mercy. It only sounded like it.
 
 “You have not asked me what is on the agenda,” Caesar said at last.
 
@@ -257,7 +257,7 @@ Not the usual wrong, the cook shouting, a client too early at the vestibule, Phi
 
 She was already on her feet in the side room off the atrium when Calpurnia’s voice came through the cubiculum wall, not words at first, only the sound a throat makes when it has been running in sleep.
 
-Phileros’ lamp bobbed from the vestibule. “If it’s thieves…”
+Phileros’s lamp bobbed from the vestibule. “If it’s thieves…”
 
 “It isn’t,” Nysa said, and hated that she sounded sure.
 
@@ -273,7 +273,7 @@ Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent 
 
 In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people whose incomplete messages no longer cost them a house’s temper.
 
-Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn’t understood the Senate-shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
+Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn’t understood the Senate shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 
 When she returned to the atrium, Decimus was already there.
 
@@ -293,7 +293,7 @@ Decimus glanced at her the way men glanced at furniture that had moved an inch. 
 
 Nysa’s fingers found the linen over the wax and didn’t draw it out.
 
-What would she hand Caesar? A mutter? Against Decimus’ open hands and the Senate’s hunger for his attendance? Against Calpurnia’s broken weather, already spent?
+What would she hand Caesar? A mutter? Against Decimus’s open hands and the Senate’s hunger for his attendance? Against Calpurnia’s broken weather, already spent?
 
 The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa thought he would turn back. He looked at Calpurnia. He looked at Decimus. He didn’t look at Nysa.
 
@@ -307,7 +307,7 @@ Phileros exhaled, victorious over nothing. “If you have wax,” he said, not l
 
 Nysa didn’t put it in the fire. She returned it deeper against her skin, incomplete, childish, unopened by any dictator.
 
-She knew only that her fragment had failed in a vestibule that smelled of onion, and that Decimus’ cheer still hung in the atrium like perfume after a guest has gone.
+She knew only that her fragment had failed in a vestibule that smelled of onion, and that Decimus’s cheer still hung in the atrium like perfume after a guest has gone.
 
 ---
 

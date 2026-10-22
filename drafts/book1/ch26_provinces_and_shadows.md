@@ -20,7 +20,7 @@ Decimus read Antony’s pressure in dispatches before he heard it in hoofbeats.
 
 The tablets arrived with seals that looked like courtesy and read like a hand on a throat. One letter offered friendship in the same sentence as a deadline. Decimus set that letter under a stone so it couldn’t blow into the yard and become gossip.
 
-At mid-morning an envoy came anyway, cloak clean, smile practiced, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll. A levy clerk waited at the door with pay marks still wet. The room wanted to be polite. It was already a siege rehearsal.
+At mid-morning an envoy came anyway, cloak clean, smile practised, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll. A levy clerk waited at the door with pay marks still wet. The room wanted to be polite. It was already a siege rehearsal.
 
 “The consul asks only what the law already leans toward,” the envoy said. “Hand him Cisalpine in good order. Keep your honour. Keep your skin. Rome will find you another usefulness.”
 

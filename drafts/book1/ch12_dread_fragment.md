@@ -65,7 +65,7 @@ Overhear risk: She *is* the overhear
 
 Nysa was resetting a latch when the visitor’s attendant muttered.
 
-The visitor himself, someone Decimus-shaped, or Trebonius-shaped; she never got the face clean, was in the atrium speaking cheerfully about schedules. Cheerful men blended into the walls in this house. He praised the household’s order loud enough for any door-slave to sell later as loyalty. The attendant, waiting with a cloak, answered with the smile attendants wore when masters performed friendship, then, to another cloak, soft enough that stone might miss it:
+The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got the face clean) was in the atrium speaking cheerfully about schedules. Cheerful men blended into the walls in this house. He praised the household’s order loud enough for any door-slave to sell later as loyalty. The attendant, waiting with a cloak, answered with the smile attendants wore when masters performed friendship, then, to another cloak, soft enough that stone might miss it:
 
 “…not the consul, spare, no (friends first) danger, if he stays…”
 

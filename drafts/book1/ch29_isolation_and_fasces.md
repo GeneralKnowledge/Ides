@@ -20,7 +20,7 @@ Decimus left Mutina after the relief had made the wall honest again. Hirtius’s
 
 He looked for a destination mark on the itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing. Antony, bleeding but unbroken, was already sliding toward friends Decimus could not buy.
 
-Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady, gates held, honour intact. He stopped mid-sentence when his hand cramped. He didn't send a second copy.
+Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady, gates held, honour intact. He stopped mid-sentence when his hand cramped. He didn’t send a second copy.
 
 Plancus came after all, in June, when Antony had already walked into Lepidus’s camp. He brought legions and compliments and pitched beside Decimus under the Alps at Cularo, and for a summer the two armies ate the same valley bare and wrote the same letters to Rome asking for the boy to be sent north. The boy did not come. In August letters began arriving for Plancus from Pollio in Spain, under seals Decimus was not shown. In September Plancus took his legions over to Antony with the same apologetic face he had worn arriving, and Decimus’s own recruits, raw and unpaid, began walking off by the hundred.
 
@@ -30,15 +30,15 @@ Then he rode with dwindling staff into country that did not care who freed the R
 
 “They will say I did not pursue,” the first aide muttered.
 
-“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched, I smelled horse-lines on the wind this morning. Plancus has crossed. Lepidus’s man returned the tablet. We do not wait for dates that practice absence.”
+“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched, I smelled horse-lines on the wind this morning. Plancus has crossed. Lepidus’s man returned the tablet. We do not wait for dates that practise absence.”
 
 The second aide, older, tablet-hand still inked from Mutina’s last courtesy copy, spoke the count Decimus had been avoiding as a list of people. “Plancus: came in June, ate our valley all summer, crossed to Antony with Pollio the week before last. Lepidus: promised meeting, messenger who would not take a return tablet, twice, and in May his legions let Antony walk into their camp. Waded the river to embrace him, and Lepidus writes the Senate that his soldiers did it. The boy: will not share a road with the man who held Caesar’s door, and said so where his centurions could hear. Pacuvius’s orbit: Antony’s storm still eating roads we needed soft. Four names, and not one wagon among them. That is the betrayal number, not weather.”
 
-Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fifth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn't stop to fix it. He checked his horse’s mouth for sores and found none. The sores were in the map. Every promised friend a thinner line than yesterday.
+Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fifth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none. The sores were in the map. Every promised friend a thinner line than yesterday.
 
 They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, without speech, of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
 
-On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn't send a search. Searches taught the road your remaining number.
+On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search. Searches taught the road your remaining number.
 
 Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly. Decimus’s remaining aide whispered, “Lepidus’s smile.”
 
@@ -70,7 +70,7 @@ A courier brought the Senate’s thanks for Mutina, and the thanks were not for 
 
 “They will say you let Antony get away,” Agrippa said.
 
-Octavian’s throat tightened once, shame or fever, he didn't sort it. He looked at the pay chests, not at Agrippa’s face. “Then we pay before we argue. Men who are owed invent worse stories than senators do.”
+Octavian’s throat tightened once, shame or fever; he didn’t sort it. He looked at the pay chests, not at Agrippa’s face. “Then we pay before we argue. Men who are owed invent worse stories than senators do.”
 
 He had the clerks open the nearest chest where Agrippa could see the count. Late thanks; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
 
@@ -86,11 +86,11 @@ Octavian wiped sweat from his upper lip with the back of his hand, ugly, visible
 
 Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework with fasces. Only you could make a consulship sound like a debt you intend to clear before bedtime.” Octavian did not smile. Smiling would have spoiled the pay line. He let the twitch count as the joke landing and kept his fingers on the chest.
 
-A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name Caesar as paymaster; Octavian didn't bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
+A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name Caesar as paymaster; Octavian didn’t bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
 Still not serene. Still learning where ruthlessness lived in the body, usually behind the teeth, not in a speech about forever.
 
-By autumn a courier brought Decimus’s end as three incompatible stories. Ditch. Alps. Lepidus’s smile. Antony’s purse, no purse, a speech, no speech. Octavian kept all three on separate scraps and didn't let the clerks merge them. What the stories shared was enough for the ranks: the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen. Decimus’s absence didn't make him wise. It made Bononia feel caused. The empty north. The men behind him louder.
+By autumn a courier brought Decimus’s end as three incompatible stories. Ditch. Alps. Lepidus’s smile. Antony’s purse, no purse, a speech, no speech. Octavian kept all three on separate scraps and didn’t let the clerks merge them. What the stories shared was enough for the ranks: the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen. Decimus’s absence didn’t make him wise. It made Bononia feel caused. The empty north. The men behind him louder.
 
 ---
 
