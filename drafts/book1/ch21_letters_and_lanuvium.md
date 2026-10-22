@@ -47,7 +47,7 @@ Cicero had stopped guessing which were real and started counting.
 
 “And where is he,” Cicero asked, “while they bet on him?”
 
-“Off the Apollonia boat at Brundisium. Caesar’s old soldiers walked out on the road to look at him. Now he’s making for his stepfather’s villa on the bay, Philippus’, near Naples.”
+“Off the Apollonia boat at Brundisium. Caesar’s old soldiers walked out on the road to look at him. Now he’s making for his stepfather’s villa on the bay, Philippus’s, near Naples.”
 
 Puteoli was on the same bay. Cicero did not enjoy the arithmetic.
 
@@ -59,7 +59,7 @@ The second courier, younger, contradicted on cue, half-false news fighting in th
 
 “Sport,” the neighbour said, tasting the wine-shop joke. “Rome’s favourite exercise. Underestimate until the underestimate grows teeth.”
 
-“Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practicing the laugh*.
+“Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practising the laugh*.
 
 Sphaerus, Hirtius’s secretary, brought a note from his master, polite, useless.
 
@@ -109,7 +109,7 @@ Brutus drafted speeches for a city that would not let him deliver them. Ink drie
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 
-Cassius’ letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client bowed too low and went.
+Cassius’s letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client bowed too low and went.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 

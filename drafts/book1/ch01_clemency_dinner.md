@@ -18,11 +18,11 @@ Overhear risk: Servants
 
 Cassius smiled with his teeth and counted who received what: commands, lands, praise.
 
-The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger. Not an insult. Not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon's flattery.
+The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger. Not an insult. Not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
 
-“They have put us together as a lesson,” Sextilius murmured, tearing bread. “Here is the man who joined Caesar's side early. Here is the man who joined it eventually. Observe the difference in the cushions.”
+“They have put us together as a lesson,” Sextilius murmured, tearing bread. “Here is the man who joined Caesar’s side early. Here is the man who joined it eventually. Observe the difference in the cushions.”
 
-“I can't see a difference.”
+“I can’t see a difference.”
 
 “Then keep looking.”
 
@@ -78,7 +78,7 @@ Under the couch his hand had made a fist. He opened it and took another grape.
 
 He knew Cato the way everyone did. Cato had made sure of it. The man had been offered the same cup that was going round this table, had looked at it, and had gone home to his book and his sword. Either that was the stupidest thing anyone had done in the war or it was the only clean one. Cassius had not decided. He resented having to.
 
-Sextilius leaned in, wine-bright, while Aebutius explained the Phaedo to Tettius in the tone of a man correcting a tax return. “Digest carefully. There is talk the queen across the river keeps a child under Caesar’s roof. Private hours. Fresh paint. Best not to notice aloud.”
+Sextilius leaned in, wine-bright, while Aebutius explained the *Phaedo* to Tettius in the tone of a man correcting a tax return. “Digest carefully. There is talk the queen across the river keeps a child under Caesar’s roof. Private hours. Fresh paint. Best not to notice aloud.”
 
 “Whose paint?”
 

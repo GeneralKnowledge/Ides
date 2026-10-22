@@ -15,13 +15,13 @@ Overhear risk: Interpreters
 
 ---
 
-Cassius listened to a city’s elders explain poverty with practiced dignity.
+Cassius listened to a city’s elders explain poverty with practised dignity.
 
-The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” he said. “Rome’s disease is expensive. You will help cure it.” He didn't raise his voice.
+The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” he said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
 
 Behind him, outside the city, legions ate. Syria’s garrison had come over to him in the spring without a blow, and Dolabella’s men after Laodicea, once Dolabella ran out of wall and asked one of his own soldiers for the sword. Legions that came over came over hungry.
 
-He let silence work after the sentence. Brutus’ tool, borrowed without credit. Silence made elders fill the air with offers, most of them dates that were not dates.
+He let silence work after the sentence. Brutus’s tool, borrowed without credit. Silence made elders fill the air with offers, most of them dates that were not dates.
 
 Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. Softening did not soften the silver leaving. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass. The recruitment engine turned tax engine without changing the face that had once counted dinner slight and dinner power.
 
@@ -35,11 +35,11 @@ The elder’s mouth worked. He took the half and the sureties with a bow that co
 
 Cassius signed for ships on the arithmetic. The elder’s step-talk needed no translation. Paid was paid.
 
-Before the audience closed, a courier from the west, dust, salt, a seal cracked by too many hands, brought news that arrived as three incompatible tablets. Mutina won and lost. Consuls dead. Lists in Italy. The boy with fasces, and a court in his consulship that had called the names of every man of March, Cassius’s among them, to empty benches and condemned the benches. Antony still breathing, and the three of them looking east. One tablet named Decimus without poetry: gone, or going, or already a line item in someone else’s revenge. Cassius kept all three and didn't merge them for the hall. Privately the Decimus line cracked something the extraction had been keeping neat. The man who had opened Caesar’s morning with cheer, who had taken the nearer knife and Cisalpine as if a road were still a friendship, now traveled west as rumour ink: lists, fasces, a name that had once been access. Cassius had recruited doors through that access. The west was pricing the door-opener as meat. He didn't halt the silver for a rumour’s sake. He entered *Decimus: incomplete* beside *lists: Italy* in the only ledger he trusted, the one behind his eyes. Trebonius had stood in that column since the winter, since Dolabella’s soldiers came into his bedroom at Smyrna before dawn and carried the market-day man’s head out with them. Laodicea had settled Trebonius. Decimus had no Laodicea. He felt the entry as personal debit, not geography. The crack traveled with him anyway.
+Before the audience closed, a courier from the west, dust, salt, a seal cracked by too many hands, brought news that arrived as three incompatible tablets. Mutina won and lost. Consuls dead. Lists in Italy. The boy with fasces, and a court in his consulship that had called the names of every man of March, Cassius’s among them, to empty benches and condemned the benches. Antony still breathing, and the three of them looking east. One tablet named Decimus without poetry: gone, or going, or already a line item in someone else’s revenge. Cassius kept all three and didn’t merge them for the hall. Privately the Decimus line cracked something the extraction had been keeping neat. The man who had opened Caesar’s morning with cheer, who had taken the nearer knife and Cisalpine as if a road were still a friendship, now travelled west as rumour ink: lists, fasces, a name that had once been access. Cassius had recruited doors through that access. The west was pricing the door-opener as meat. He didn’t halt the silver for a rumour’s sake. He entered *Decimus: incomplete* beside *lists: Italy* in the only ledger he trusted, the one behind his eyes. Trebonius had stood in that column since the winter, since Dolabella’s soldiers came into his bedroom at Smyrna before dawn and carried the market-day man’s head out with them. Laodicea had settled Trebonius. Decimus had no Laodicea. He felt the entry as personal debit, not geography. The crack travelled with him anyway.
 
-An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn't offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*. He did not look at the west courier again until the hall had emptied enough to pretend the crack was only dust.
+An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn’t offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*. He did not look at the west courier again until the hall had emptied enough to pretend the crack was only dust.
 
-On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and didn't smile. Escaped papers became other men’s geometry. He preferred his own, even when his own now held Decimus as an open wound in the column.
+On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and didn’t smile. Escaped papers became other men’s geometry. He preferred his own, even when his own now held Decimus as an open wound in the column.
 
 ---
 
@@ -65,7 +65,7 @@ Brutus held a fresh coin. The metal still held the heat of striking. His own hea
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name traveling wrong, the nearer knife become a rumour of ending. Brutus didn't ask which version was true. Asking would've required a Forum he no longer owned. The GO night’s clean hands felt suddenly like someone else’s. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway, brand as comfort, brand as trap. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. The GO night’s clean hands felt suddenly like someone else’s. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway, brand as comfort, brand as trap. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 

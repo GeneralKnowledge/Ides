@@ -30,7 +30,7 @@ A man asked whether amnesty meant he could stop paying. Hordeonius tapped the in
 
 “The Senate has pardoned murderers,” said Hordeonius. “I have never lent to a murderer. I am therefore under no obligation to forgive you.”
 
-A junior senator (Seius’ type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
+A junior senator (Seius’s type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
 
 Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. Hordeonius did that sum before the rumour finished: several months of a legionary’s pay, times every citizen on the grain list, and the list ran to hundreds of thousands. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. The portico loungers had priced that second line as boots and dinner sport before the knives; now the joke had a seal’s shadow and a market column. A fourth stack, softer and meaner, priced the Transtiberim queen, still lodged in Caesar’s green claim, child and hours and all. Would the paper wound her by silence, or wound Rome by naming her? Dinner gossip from before the knives had become a market question. Hordeonius did not certify the child. He certified that men were already treating Alexandria’s rumour as a clause that might move leases.
 
@@ -42,7 +42,7 @@ The junior wiped his eyes. “You talk as if mourning were a price list.”
 
 “Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became line items. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
 
-He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’ old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
+He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
 
 Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
 
@@ -97,9 +97,9 @@ The main lines came out like blows dressed as clauses. Young Octavius to three p
 
 Antony laughed once, short. Not mirth. Recognition.
 
-“He loved you,” Antony said in Decimus’ general direction though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
+“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
 
-What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts: thin shoes; a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer; a paper son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
+What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts: thin shoes; a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer; a paper-son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
 “He is a child,” said one of Piso’s clerks, reading Antony’s face.
 
@@ -121,7 +121,7 @@ Gardens came first. A woman in the market wept as if she had already walked them
 
 “And Decimus,” said a scribe’s attendant, hungry to be cruel, “written second. The one with the knife.”
 
-Nysa saw, for a blink, Decimus’ open morning face in the Domus atrium. She didn’t have a philosophy for it. She had a stomach.
+Nysa saw, for a blink, Decimus’s open morning face in the Domus atrium. She didn’t have a philosophy for it. She had a stomach.
 
 “What does second mean?” she asked the woman beside her, a washerwoman with chapped hands.
 

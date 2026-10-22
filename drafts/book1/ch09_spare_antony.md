@@ -53,7 +53,7 @@ He almost smiled at Trebonius’s delay-talk, then didn’t. Smiling made the pl
 
 “I will bring him,” Decimus said. “You do the rest without turning the Senate into meat. Or I am not your summons. I am only another corpse who used to know which jokes Caesar still liked.”
 
-Cassius’ nod was small. Small nods moved armies.
+Cassius’s nod was small. Small nods moved armies.
 
 Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and the voices behind him were not as low as they believed.
 

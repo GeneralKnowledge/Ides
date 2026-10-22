@@ -47,7 +47,7 @@ They parted with the clasp of men confirming a hunt, festival-brother hands stil
 
 Glaucia’s mouth twitched. “Bores survive the Ides.”
 
-“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practice a longer hold. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
+“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practise a longer hold. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
 
 ---
 

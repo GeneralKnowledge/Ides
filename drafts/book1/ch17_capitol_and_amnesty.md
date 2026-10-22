@@ -22,7 +22,7 @@ On the Capitol’s rock above the Forum, height was supposed to mean clarity.
 
 Brutus stood where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly, theatre of virtue. Cassius kept his voice low and his eyes on approaches, and on faces that should have been there. Decimus was already half elsewhere in his mind: Gaul, legions, the practical after. The northern road was the only plan that did not involve being loved by the Forum. Casca wiped a spot that would not leave his knuckle. The rock held speech, exit, and argument. Height could not choose among them.
 
-Brutus spoke. He heard himself speak. The words were right (libertas, tyrant, law, ancestors), each one a stone from a good road. He had learned *libertas* as a schoolboy, in the same lesson as the first Brutus and the last king. Below, the Forum didn’t become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain. Grain was not a consul.
+Brutus spoke. He heard himself speak. The words were right (*libertas*, tyrant, law, ancestors), each one a stone from a good road. He had learned *libertas* as a schoolboy, in the same lesson as the first Brutus and the last king. Below, the Forum didn’t become a choir. It became noise with legs. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain. Grain was not a consul.
 
 “They will come round,” Casca said, needing it true enough to keep the blade in the open.
 
@@ -34,7 +34,7 @@ Brutus spoke. He heard himself speak. The words were right (libertas, tyrant, la
 
 Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The late hour after the spare returned without asking leave stood beside the Forum noise. Wine gone warm. Ordinary talk. The war treated as a misunderstanding their house could afford. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available. It looked like hope.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The late hour after the spare returned without asking leave and stood beside the Forum noise. Wine gone warm. Ordinary talk. The war treated as a misunderstanding their house could afford. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available. It looked like hope.
 
 He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
@@ -60,7 +60,7 @@ He was not. An hour later he was on the steps, out of breath, in a clean toga, a
 
 “He will find the letter.”
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’ hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms. Eyes could not make the spare into something other than blood. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Drafting was another way of not leaving.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’s hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms. Eyes could not make the spare into something other than blood. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Drafting was another way of not leaving.
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
@@ -104,7 +104,7 @@ Antony’s first clear desire was to kill everyone in a toga who had ever smiled
 
 His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped away from Pompey’s portico that morning in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
 
-Lepidus’ men were a fact in the city’s body: the legion on the Tiber island, the only organised soldiers close to Rome. Facts could be marched into the Forum and made into a butcher’s festival. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
+Lepidus’s men were a fact in the city’s body: the legion on the Tiber island, the only organised soldiers close to Rome. Facts could be marched into the Forum and made into a butcher’s festival. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
 
 “Give the word,” Pacuvius said. “We take the Capitol before dark.”
 
@@ -144,7 +144,7 @@ Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short
 
 “Then spell patience,” said Antony.
 
-Pacuvius made the face of a man receiving wisdom, chin tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
+Pacuvius made the face of a man receiving wisdom, chin-tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
 
 Antony turned toward the Capitol. Behind him Pacuvius’s soft dropped, for Lepidus’s nearest ear and two officers who had wanted dark, and not quite out of a consul’s hearing. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger, mark that when the Forum wants blood and we offer clauses.”
 
@@ -186,7 +186,7 @@ The Senate met two days later, on the seventeenth, in the temple of Tellus near 
 
 He enjoyed, privately, shamefully, the return of necessity. Necessity had always been his favourite climate. In necessity, eloquence looked like courage. He had been consul the year Catiline’s men meant to burn the city, and Rome had called him father of his country for stopping them; every crisis since had been, for him, a chance to be that man again.
 
-Brutus’ people wanted praise and protection. Antony’s people wanted the dictator’s papers to remain law so the city did not tip into a void where every debt could be renegotiated with a knife. Cicero heard both and performed the old trick: show each side the part of its face that could still be called Republic.
+Brutus’s people wanted praise and protection. Antony’s people wanted the dictator’s papers to remain law so the city did not tip into a void where every debt could be renegotiated with a knife. Cicero heard both and performed the old trick: show each side the part of its face that could still be called Republic.
 
 “Amnesty,” Cicero said, and gave them the Greek on purpose. “Forgetting. Athens once ended a civil war by swearing not to remember it.”
 
@@ -222,7 +222,7 @@ Behind him, near the side door servants used when mistresses did not want to be 
 
 Cicero was nearly at the corner when the client’s voice thinned behind him: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
-Cicero heard enough to file gardens / boy / queen / wound beside amnesty, and Decimus / second line as a debt the dead man still held on the living. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
+Cicero heard enough to file *gardens / boy / queen / wound* beside *amnesty*, and *Decimus / second line* as a debt the dead man still held on the living. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 
 He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Beneath the burial, the city began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again: the old habit, not prophecy.
 

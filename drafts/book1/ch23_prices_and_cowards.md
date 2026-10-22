@@ -31,17 +31,17 @@ Citizenship shortcuts, land whispers, exemptions with seals that looked tired: e
 
 “Wholesale,” Hordeonius said. “You’re retail. An eastern king bought his kingdom back in Fulvia’s sitting-room. You want a harbour exemption. Adjust your expectations and your purse.”
 
-A whisperer tried again to sell him Visellius’ old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool: names in a February hand, men sounded at the baths before the Ides. Ash could not pay.
+A whisperer tried again to sell him Visellius’s old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool: names in a February hand, men sounded at the baths before the Ides. Ash could not pay.
 
 Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “The Senate pardoned the doing in March,” he said. “You want me to pay for the knowing?” Then, gently, blessing-flat: “Archaeology. I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward, ego housekeeping, not fear.
 
-The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offense waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
+The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offence waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
 
 The Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
 
 “Antium?” the Puteoli man said.
 
-“Brutus’ sea house,” Sosia said, “a day down the coast. He’s sitting there out of Rome’s reach, and his mother has moved her clerks in after him.”
+“Brutus’s sea house,” Sosia said, “a day down the coast. He’s sitting there out of Rome’s reach, and his mother has moved her clerks in after him.”
 
 “I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather. Watch which weather arrives with coin.”
 

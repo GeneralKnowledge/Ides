@@ -132,7 +132,7 @@ A cart rattled past on the street beyond the columns; someone cursed a mule as i
 
 “Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
 
-Brutus’ jaw worked, as if clemency were a coin under his tongue he had not chosen to swallow. The diadem’s fear still hung between them. Cassius watched it try to dress postponement up as virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’s jaw worked, as if clemency were a coin under his tongue he had not chosen to swallow. The diadem’s fear still hung between them. Cassius watched it try to dress postponement up as virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
 “Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath: men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 

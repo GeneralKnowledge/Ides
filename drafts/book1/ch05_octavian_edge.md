@@ -16,7 +16,7 @@ Overhear risk: Low–N/A
 
 ---
 
-On the temple steps above the Forum, heat came off the stone into Octavian’s thin shoes. He stood where important men’s shadows fell and practiced being invisible on purpose.
+On the temple steps above the Forum, heat came off the stone into Octavian’s thin shoes. He stood where important men’s shadows fell and practised being invisible on purpose.
 
 He took his own inventory while he waited, because no one else would. Gaius Octavius. Eighteen, and nobody yet had a reason to remember it. Caesar’s sister’s grandson, which made him a great-nephew: near enough to be invited, far enough to be stood at the edge. On his father’s side, a respectable house with a modest fortune and no armies. On his great-uncle’s, a great many armies. The gap between those two columns was the whole of his position.
 
@@ -90,7 +90,7 @@ Those officers brightened at Parthia talk, months east, glory, the map widening.
 
 “When he calls us,” Agrippa said once, meaning Caesar.
 
-“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust route, the wind, Agrippa’s stubborn loyalty, and the attendant’s late bow, filed where names that arrive early get spent.
+“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust-route, the wind, Agrippa’s stubborn loyalty, and the attendant’s late bow, filed where names that arrive early get spent.
 
 An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile and didn’t correct the furniture.
 

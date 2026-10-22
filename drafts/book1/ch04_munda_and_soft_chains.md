@@ -48,7 +48,7 @@ A courier’s gossip claimed Caesar had been hard-pressed yesterday. Another cla
 
 “Noise until steel,” Laberius said, and filed both. When the signal came, packs and lines moved. Men cursed short and got to work.
 
-An older miles on his right mumbled a prayer that sounded like a shopping list: knees, sons, the next donative, land near Capua if the gods and clerks both remembered. Laberius didn’t mock him. He still needed water. He filed donative dated beside colony rumour the way he filed water: needed, not guaranteed.
+An older miles on his right mumbled a prayer that sounded like a shopping list: knees, sons, the next donative, land near Capua if the gods and clerks both remembered. Laberius didn’t mock him. He still needed water. He filed *donative dated* beside *colony rumour* the way he filed water: needed, not guaranteed.
 
 He did not know what Rome would call this morning. He knew what his hands would smell like by night if the morning kept its promises.
 

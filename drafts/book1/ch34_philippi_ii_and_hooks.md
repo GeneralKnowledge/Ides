@@ -23,7 +23,7 @@ He had the versions in incompatible shapes. Cassius broken. Cassius mistaken. Ca
 
 Twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
 
-He didn't deliver a speech about it. This was weight and breath and mud that took boots the way grief took time.
+He didn’t deliver a speech about it. This was weight and breath and mud that took boots the way grief took time.
 
 He fought like a man hoping philosophy could stiffen a shield-wall. For a while it did. Faces that had minted *EID MAR* with him held because holding was what they still knew how to do. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear. An aide offered water. Brutus took it, swallowed wrong, coughed once, ugly, human, and went back to the gap.
 
@@ -45,17 +45,17 @@ On the plain below, an *EID MAR* coin lay in the dust with the rest of the metal
 
 Octavian was ill enough that credit became argument among healthier men.
 
-Fever made the tent canvas pulse. Twenty days ago Brutus’s men had come through this camp and run their swords through the litter he had left an hour before. His doctor had dreamed something and had him carried out into the marsh. Octavian remembered reeds, and lying very still, and being told afterward that it had been prudence. Sweat ran into his eyes and made the map swim. A courier asked for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn't invent himself as genius of the plain. He survived noise. He survived other men’s versions of his usefulness.
+Fever made the tent canvas pulse. Twenty days ago Brutus’s men had come through this camp and run their swords through the litter he had left an hour before. His doctor had dreamed something and had him carried out into the marsh. Octavian remembered reeds, and lying very still, and being told afterward that it had been prudence. Sweat ran into his eyes and made the map swim. A courier asked for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn’t invent himself as genius of the plain. He survived noise. He survived other men’s versions of his usefulness.
 
 Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and didn't bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
+When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and didn’t bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
 
 Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said, Italian soil, promises already louder than the plain’s dust.
 
-“They will want farms that belong to someone else,” Octavian said. He didn't dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still. That was the next war’s seed, held in the same breath as survival. He did not invent a destiny for it. He named the want. He kept breathing.
+“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still. That was the next war’s seed, held in the same breath as survival. He did not invent a destiny for it. He named the want. He kept breathing.
 
 ---
 

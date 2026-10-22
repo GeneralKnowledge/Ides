@@ -18,7 +18,7 @@ Overhear risk: High (Forum)
 
 Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
 
-“Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud. Shouts. Bets. Sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn't shout. Shouting was for men who sold certainty by the jug.
+“Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud. Shouts. Bets. Sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
 
 He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it: the town behind the field, where Cato would not run and would not beg, sat up all night with a book, and closed his own account by hand. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
 
@@ -91,7 +91,7 @@ Overhear risk: Extreme street
 
 Nysa carried bundles through a city that had not finished being drunk on spectacle.
 
-Captives. Gold. Painted lies on wagons. Four triumphs in one month: Gaul, Egypt, Pontus, Africa. Rome had swallowed Caesar’s whole war in four courses, and Africa had been the last, and the taste was still on the street. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She didn't understand why men needed wagons to prove they had already won.
+Captives. Gold. Painted lies on wagons. Four triumphs in one month: Gaul, Egypt, Pontus, Africa. Rome had swallowed Caesar’s whole war in four courses, and Africa had been the last, and the taste was still on the street. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She didn’t understand why men needed wagons to prove they had already won.
 
 A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
 
@@ -119,7 +119,7 @@ Nysa shifted the jar on her hip. “I carry oil.”
 
 The clerk smiled, unoffended, and pocketed the coins. “Good answer. It will cost someone else more.”
 
-Caesar passed at the edge of sight. Or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn't look at her. Great men didn't look at errands. She preferred it. Looking made you responsible for what you saw.
+Caesar passed at the edge of sight. Or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn’t look at her. Great men didn’t look at errands. She preferred it. Looking made you responsible for what you saw.
 
 The younger veteran and the older one went back to arguing about colonies and whether Africa’s corpse meant Italy’s farms.
 
