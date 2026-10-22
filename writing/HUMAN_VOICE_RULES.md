@@ -31,6 +31,8 @@ A substantive recommendation names:
 
 **Acceptance:** a reviewer can explain the problem without saying that a detector flagged it or that a rule says to change it. If they cannot, leave the passage alone.
 
+**Protected material needs a demonstrated defect.** The strongest sequences (the Ch 14–19 gold spine, the held beats and load-bearing brands in §3.4, the settled non-goals in §4.6) and every deliberate ambiguity (`LLM_WRITING_BRIEF.md` §8) are not revised for improvement, tightening or a reviewer’s taste. They change only to fix a defect shown under this rule, and the fix keeps what made them work. The book’s structure is not reopened, and battle or war sequences are not expanded, to make the book feel more substantial.
+
 ---
 
 ## 2. What “synthetic” actually sounds like here

@@ -38,9 +38,19 @@ The digest is the authoritative link to the source text. The commit is the last 
 
 The one gate the author's rereads cannot replace.
 
-**Evidence:** written feedback from at least one reader who has not seen earlier drafts and does not know the intended solutions. Ask about comprehension (who is this, why does this matter, what just happened), pacing (where did you skim or stop), investment (whom did you care about, when) and confusion (what did you have to reread). Do not ask whether they agree with the design.
+**Evidence:** written feedback from readers who have not seen earlier drafts and do not know the intended solutions: ideally one who reads historical fiction and one general fiction reader who will respond to the story rather than the research, optionally a professional editor. Ask about comprehension (who is this, why does this matter, what just happened), pacing (where did you skim or stop), investment (whom did you care about, when) and confusion (what did you have to reread). Do not ask whether they agree with the design.
 
-**Pass when:** every point of confusion is either fixed under the evidence-before-edit rule or kept on purpose with a reason (a mystery meant to stay open, for example). A reader preference that names no defect is noted, not acted on.
+**Triage** every point before touching the manuscript:
+
+| Class | Means | Action |
+|-------|-------|--------|
+| **Defect** | A factual, continuity, clarity or story problem you can demonstrate in the text | Fix, under the evidence-before-edit rule |
+| **Reader response** | A real reaction (confused here, bored there, moved by this) that may or may not need a change | Weigh in context: does the passage fail, or is the reaction the one intended? |
+| **Preference** | A suggestion that would make the book different, not necessarily better | Reject when it conflicts with the novel’s intent; note it either way |
+
+Then make **one** correction round and check only the changed passages and their dependencies (`LLM_WRITING_BRIEF.md` §12b), not every chapter from scratch.
+
+**Pass when:** every point is classified, every defect is fixed or deferred, and every confusion that stays is kept on purpose with a reason (a mystery meant to stay open, for example).
 
 ---
 
