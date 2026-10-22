@@ -2,7 +2,8 @@
 .DS_Store
 Thumbs.db
 
-# Generated reading exports (tool writes here; do not commit)
+# Generated reading exports (tool writes here). Only the full Book 1 docx is tracked:
+# regenerate with tools/export_book1_docx.py on main and commit with `git add -f`.
 exports/
 *.docx
 
