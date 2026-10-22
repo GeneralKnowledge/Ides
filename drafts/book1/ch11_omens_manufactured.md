@@ -46,7 +46,7 @@ Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. T
 
 “Everyone who doesn’t have to pay for the cheese.”
 
-Nysa set the basin down more carefully than the water required. When the washerwoman said beware, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer costs for incomplete messages. Senate and gods could keep their own names.
+Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer costs for incomplete messages. Senate and gods could keep their own names.
 
 Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for days, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the tablet and the chickens and didn’t decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
 

@@ -137,7 +137,7 @@ Togas with red. Togas without dignity. A senator vomited against a column and wi
 “The consuls, both…”
 “Antony…”
 
-The name Antony snagged. Nysa did not see Antony. She saw a gap where a large man might have been and heard, already, two freedmen inventing the rest.
+The name *Antony* snagged. Nysa did not see Antony. She saw a gap where a large man might have been and heard, already, two freedmen inventing the rest.
 
 “They killed the consul too,” one said, eyes bright with the pleasure of worst cases. “Had to. He was Caesar’s dog.”
 

@@ -173,7 +173,7 @@ In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed eno
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
-The word king did what it always did in that house. Everyone in the atrium knew what king meant since February. A man who stayed home for a woman’s dream could be called many things. A man who dismissed the Senate by whim could be called only one.
+The word *king* did what it always did in that house. Everyone in the atrium knew what *king* meant since February. A man who stayed home for a woman’s dream could be called many things. A man who dismissed the Senate by whim could be called only one.
 
 “Do not call my fear a king’s excuse,” Calpurnia said, not a sound, a cut. “You have walked him through ditches and laughed him past philosophy. Do not walk him past me as if I were weather.”
 
@@ -273,7 +273,7 @@ Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent 
 
 In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people whose incomplete messages no longer cost them a house’s temper.
 
-Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: friends, spare, stay, danger, something like consul. She hadn’t understood the Senate shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
+Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: *friends*, *spare*, *stay*, *danger*, something like *consul*. She hadn’t understood the Senate shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 
 When she returned to the atrium, Decimus was already there.
 

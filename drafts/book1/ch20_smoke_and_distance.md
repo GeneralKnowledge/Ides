@@ -172,7 +172,7 @@ Octavian didn’t shake the hand off. He also didn’t lean into it. He asked fo
 
 “We go when going is not suicide,” he said. “First we learn what name I still have, and whether gardens and a boy’s hours are already writing it without us.”
 
-He didn’t say son. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
+He didn’t say *son*. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
 Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan. Names first.
 

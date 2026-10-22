@@ -96,7 +96,7 @@ Casca smiled with his teeth. “We are not here to dine you into a better mood. 
 
 Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin “debt” sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
+“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterward, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
 
 Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
 

@@ -86,7 +86,7 @@ Octavian wiped sweat from his upper lip with the back of his hand, ugly, visible
 
 Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework with fasces. Only you could make a consulship sound like a debt you intend to clear before bedtime.” Octavian did not smile. Smiling would have spoiled the pay line. He let the twitch count as the joke landing and kept his fingers on the chest.
 
-A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name Caesar as paymaster; Octavian didn’t bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
+A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name *Caesar* as paymaster; Octavian didn’t bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
 Still not serene. Still learning where ruthlessness lived in the body, usually behind the teeth, not in a speech about forever.
 

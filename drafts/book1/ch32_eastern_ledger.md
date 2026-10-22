@@ -17,7 +17,7 @@ Overhear risk: Interpreters
 
 Cassius listened to a city’s elders explain poverty with practised dignity.
 
-The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” he said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
+The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” Cassius said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
 
 Behind him, outside the city, legions ate. Syria’s garrison had come over to him in the spring without a blow, and Dolabella’s men after Laodicea, once Dolabella ran out of wall and asked one of his own soldiers for the sword. Legions that came over came over hungry.
 
