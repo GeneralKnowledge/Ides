@@ -63,9 +63,11 @@
 - Contractions in narration (*would’ve*, *didn’t*): POV voice.
 - Unitalicised direct thought (*Now, Cassius thought*; Brutus's *we have killed a man…*): consistent house convention.
 
-## Open (for the author; not mechanical)
+## Author follow-up (resolved 2026-10-22)
 
-1. **Words-as-words italics are mixed bookwide.** Some are italic (*metal*, *domina*, *yet*, *plan*), others roman (the word king, Ch 14; stays / spare / friends and the wax text *friends · spare? · stay / danger · consul?*, Ch 12). Unifying these would touch many lines; worth a decision rather than a sweep.
-2. **Pronoun referent, Ch 25 and Ch 32.** “He already saw Asia’s taxes…” (after the crewman) and “‘Liberty costs,’ he said” (after the young clerk) both mean Cassius. A reader may stumble; any fix is a wording change, not a copyedit.
+Reuben approved both open items:
+
+1. **Words-as-words italicised throughout**, matching the majority (*metal*, *yet*, *plan*): *plant*/*summons* (Ch 4), *debt* (Ch 8, was in quotation marks), *beware* (Ch 11), *stays*/*spare*/*friends*, the wax text and *friends*/*consul* (Ch 12), *king* ×2 and the wax words (Ch 14), the shouted words after *Caesar* (Ch 15), *Antony* (Ch 16), *son* (Ch 20), *spare*/*stay* (Ch 23), *adoption*/*armies* (Ch 27), *Caesar* (Ch 29). Scare quotes that report speech (“settled”, “they”, “request”) stay as quotations.
+2. **Pronoun referent:** Ch 25 “He already saw Asia’s taxes” → “Cassius already saw…”; Ch 32 “‘Liberty costs,’ he said” → “…Cassius said.” Name for pronoun only; nothing else changed.
 
 **Pass ends here** (`HUMAN_VOICE_RULES.md` §5). No successor pass is implied.

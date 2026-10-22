@@ -69,13 +69,13 @@ The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got 
 
 “…not the consul, spare, no (friends first) danger, if he stays…”
 
-The words arrived wrong-ended, emphasis on stays or spare or friends: she couldn’t tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
+The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn’t tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
 
 “Then stop smiling,” said the cloak-friend.
 
 “And be the man who was seen not smiling? I have a wife.”
 
-She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: friends · spare? · stay / danger · consul? Incomplete. Ugly. Misfiled even as she wrote it, she put friends largest because the voice had bitten that word, and consul small because it might have been the thing spared or the thing ignored. Hers either way.
+She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends · spare? · stay / danger · consul?* Incomplete. Ugly. Misfiled even as she wrote it, she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
 
 She wrapped the fragment in linen and set it against her ribs. She didn’t understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door, and that she might already have the wrong half.
 

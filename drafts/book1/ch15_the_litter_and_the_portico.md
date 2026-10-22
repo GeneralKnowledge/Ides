@@ -208,7 +208,7 @@ Antony’s body understood before his politics did. He shook Trebonius’s hand 
 
 Trebonius’s face was still warm. Warm, while the Curia poured men out like a broken jar. Togas, bare heads, eyes too white.
 
-“Caesar,” someone yelled, and then the name became a dozen other words: blood, knives, Brutus, liberty, murder, the consul, where is the consul.
+“Caesar,” someone yelled, and then the name became a dozen other words: *blood*, *knives*, *Brutus*, *liberty*, *murder*, *the consul*, *where is the consul*.
 
 Antony felt for a weapon he had not brought; no consul carried iron to a Senate sitting. His palm found only the cloth of his tunic.
 
