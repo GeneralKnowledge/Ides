@@ -9,7 +9,7 @@
 # SC-82: Allies Evaporate
 
 POV: Decimus · roads after Mutina
-Date / place: North Italian roads · dwindling staff
+Date / place: Sept 43 · north Italian roads, dwindling staff
 Canon refs: A10 end · death path fog OK
 Info ENTER: Siege broken · EXIT: Flight; death-on-road
 Overhear risk: Dwindling staff
@@ -42,7 +42,7 @@ Near a river ford the map promised a contact who could pass them toward the moun
 
 “Or anybody’s price,” Decimus said.
 
-He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible. Optics, even here.
+He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible. Appearances, even here.
 
 They asked for his name. They already knew it. He gave it because lying would have bought minutes instead of miles. A purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved, enough metal for a short road and a long silence.
 
@@ -57,26 +57,26 @@ Word would reach Rome late and wrong in places. The bakers’ short version woul
 # SC-83: Consul
 
 POV: Octavian · approach to Rome
-Date / place: Field of Mars politics / army pressure
+Date / place: Summer 43 → autumn · Field of Mars, army camp
 Canon refs: A12 prep · C5: learning, not serene
-Info ENTER: Armies after Mutina; Decimus death as incomplete rumour · EXIT: Consul; boy with fasces
+Info ENTER: Armies after Mutina; both consuls dead; Senate favours Decimus · EXIT: Consul; boy with fasces; Decimus’s death reaches him as incomplete rumour; Bononia invited
 Overhear risk: Soldiers + Senate terror
 
 ---
 
 Octavian entered the politics of force with hands that still remembered shaking in Apollonia.
 
-A courier brought Decimus’s end as three incompatible stories. Ditch. Alps. Lepidus’s smile. Antony’s purse, no purse, a speech, no speech. Octavian kept all three on separate scraps and didn't let the clerks merge them. What the stories shared was enough for the ranks: the Liberator who had held Mutina was gone. Soldiers heard that shared core before senators finished arguing which version was virtuous.
+A courier brought the Senate’s thanks for Mutina, and the thanks were not for him. The fathers had voted Decimus a triumph and handed him the dead consuls’ legions, the Martians among them, to chase Antony up the road. Octavian was to be thanked and left behind. He read the decree once and gave it to Agrippa, who read it twice.
 
-“They will say you failed to save him,” Agrippa said.
+“They will say you let Antony get away,” Agrippa said.
 
 Octavian’s throat tightened once, shame or fever, he didn't sort it. He looked at the pay chests, not at Agrippa’s face. “Then we pay before we argue. Men who are owed invent worse stories than senators do.”
 
-He had the clerks open the nearest chest where Agrippa could see the count. Incomplete death-rumour; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about honouring Decimus’s memory, Octavian cut him with a nod toward the queue of soldiers. “Memory after the line is fed.”
+He had the clerks open the nearest chest where Agrippa could see the count. Late thanks; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
 
-The vacuum arrived as named pressure, not triumph. With Decimus gone, Mutina no longer had a holder the Senate could point at and call the year settled. A centurion from the Martians said it first, loud enough for the pay line: “The north road has no Liberator left. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march south again for praise that arrived late and sweet while Decimus’s ditch stayed empty of friends. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. The man who had held the province was ash and rumour.
+The vacuum arrived as named pressure, not triumph. Both consuls were dead, Hirtius in the ditch at Mutina and Pansa of his wound a day after, and their chairs stood empty. A centurion from the Martians said it first, loud enough for the pay line: “They want us under the man who held Caesar’s door. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march for an assassin on praise that arrived late and sweet. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. Two chairs were empty.
 
-Senate pressure arrived in a different mouth. A senior voice, careful with consonants, told Octavian that without Decimus the House had lost its northern excuse. No legal Liberator left to balance Antony’s hunger. No Mutina hinge to pretend the war was someone else’s. They needed a miracle that obeyed. They needed it before Antony’s friends finished renaming the map. The same voice reminded him, as if reminding were a kindness, that the law asked forty-two years for a consul’s chair and he had nineteen. Octavian had already sent centurions to the Curia with the ranks’ request in writing. One came back and told the pay line what he had said on the steps when the fathers talked about age. He had put his hand on his sword. *If you will not make him consul, this will.* Octavian offered them a nineteen-year-old with Caesar’s name and enough armed insistence to make elections look like a toll you paid at the gate. Not because destiny asked. Because Decimus’s absence had shortened every polite road. Agrippa’s silence beside him was heavier than speeches. Apollodorus adjusted cloaks. Cloth did not bargain.
+Senate pressure arrived in a different mouth. A senior voice, careful with consonants, told Octavian that with both consuls dead the House had no one in the chairs to point at and call the year settled. Decimus was a Liberator with a triumph and a thinning army, not a consul. Antony was over the Alps with Lepidus’s legions. They needed a miracle that obeyed. They needed it before Antony’s friends finished renaming the map. The same voice reminded him, as if reminding were a kindness, that the law asked forty-two years for a consul’s chair and he had nineteen. Octavian had already sent centurions to the Curia with the ranks’ request in writing. One came back and told the pay line what he had said on the steps when the fathers talked about age. He had put his hand on his sword. *If you will not make him consul, this will.* Octavian offered them a nineteen-year-old with Caesar’s name and enough armed insistence to make elections look like a toll you paid at the gate. Not because destiny asked. Because two empty chairs had shortened every polite road. Agrippa’s silence beside him was heavier than speeches. Apollodorus adjusted cloaks. Cloth did not bargain.
 
 He felt sick after the first hard bargain, stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Publicly he accepted the fasces like owed homework. Twelve lictors shouldered the bound rods and walked ahead of him, and men stepped out of the street for the rods before they looked to see whose face came behind. A clerk miswrote his age; Octavian corrected the number and left the tone alone.
 
@@ -88,7 +88,9 @@ Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework
 
 A senator called him the Republic’s luck and waited for a smile of destiny. Octavian returned a nod calibrated to obedience and didn't trust his mouth with a sentence. A soldier shouted the name Caesar as paymaster; Octavian didn't bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
-Still not serene. Still learning where ruthlessness lived in the body, usually behind the teeth, not in a speech about forever. By autumn a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen. Decimus’s absence didn't make him wise. It made Bononia feel caused. Ranks and Senate both naming the empty north. The men behind him louder.
+Still not serene. Still learning where ruthlessness lived in the body, usually behind the teeth, not in a speech about forever.
+
+By autumn a courier brought Decimus’s end as three incompatible stories. Ditch. Alps. Lepidus’s smile. Antony’s purse, no purse, a speech, no speech. Octavian kept all three on separate scraps and didn't let the clerks merge them. What the stories shared was enough for the ranks: the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen. Decimus’s absence didn't make him wise. It made Bononia feel caused. The empty north. The men behind him louder.
 
 ---
 
@@ -104,4 +106,5 @@ Still not serene. Still learning where ruthlessness lived in the body, usually b
 - **Expansion D14 / IR-1:** Post-relief milestone wait (Plancus empty) + Lepidus-channel rider returns tablet unopened (Ch 20 callback); staff count names both as lived absences, not Lepidus sole killer.
 - **Human-voice:** flattened nested/broken parens (aide count, OCT sweat, ruthlessness close); broke opening multi-clause; cut ford *as if* / cloth-bargain polish; Decimus ordinary ford death held.
 - **Reader-earn (Ch 29 expanded):** older aide’s count adds Lepidus’s legions over the Alps taking Antony in (waded the river; Lepidus blames his soldiers, pays Ch 26 aide) and the boy refusing a road with Caesar’s door-holder; Senate voice: consul’s chair wants forty-two years, he has nineteen; centurion’s sword on the Curia steps (*If you will not make him consul, this will*, Suet. *Aug.* 26 trad.) reported to the pay line; fasces as twelve lictors whose rods move the street; Bononia earned as a two-seal invitation to the river island (fixes the bare Bononia close). Martians / Liberators not re-glossed.
-- **Human-voice (Ch 29):** one feel-pass — *yet* / letter cramp / map sores / death scraps / ranks translate / Senate excuse / Bononia caused breaths; hold ford death, Plancus–Lepidus absences, pay-chest before fasces, homework bite.
+- **Human-voice (Ch 29):** one feel-pass; *yet* / letter cramp / map sores / death scraps / ranks translate / Senate excuse / Bononia caused breaths; hold ford death, Plancus–Lepidus absences, pay-chest before fasces, homework bite.
+- **Rules audit (Ch 29, history order):** consulship (Aug 43) now caused by both consuls dead + Senate’s triumph and legions for Decimus that the ranks refuse; Decimus’s death (Sept 43) reaches OCT after the fasces, as the push toward Bononia (historical_anchors order). SC-82 dated Sept 43; “Optics” idiom cut.

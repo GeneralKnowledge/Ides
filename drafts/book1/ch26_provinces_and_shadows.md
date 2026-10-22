@@ -37,7 +37,7 @@ The envoy’s eyes flicked once to the levy roll on the table: names, marks for 
 That was the first true thing said. Decimus felt it land under the sternum where the Ides still sat like a key he couldn’t return. “Get out,” he said. “If you return with an army, return with an army. Do not return with grammar.”
 
 
-The envoy paused at the threshold long enough for the aide to hear the complaint under the courtesy: “He will remember the refusal more than the wit.” Then he left.
+The envoy paused at the threshold long enough for the room to hear the complaint under the courtesy: “He will remember the refusal more than the wit.” Then he left.
 
 After the man was gone, Decimus walked the gates. Hinges took oil. Oil was easier than ideology. Ideology had not kept his street from burning in March.
 
@@ -100,4 +100,4 @@ Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest
 - **Later-book reader pass:** One Lepidus-channel silence stitch beside Plancus *yet* (Ch 20 seed → Ch 29 dual absence).
 - **Reader-earn (Ch 26 expanded):** swap law in Decimus’s stake (assembly vote; Macedonian legions; Senate silent both ways); Ariminum rider → move into Mutina; siege taught as behaviour (ring of ditches / last ox / army from Rome); Hirtius + Pansa named in Decimus’s mouth as consuls from the Kalends and the Senate’s only swords (no narrator explainer, per Process §2); salt-oxen beat (App. *BC* 3.49 trad.). Ch 27 parley now pays on these.
 - **Reader-earn (Ch 26 gap-close):** Lepidus = more legions than Plancus over the Alps (coast to Spain) + chief priest (Ch 23 pontifex not re-glossed), in the aide’s mouth beside the silent Lepidus channel; Decimus: his word goes to whoever stands nearest. Ch 29 Lepidus–Antony join and Ch 30 table now pay on it.
-- **Human-voice (Ch 26):** one feel-pass — siege rehearsal / mornings prices / Cleo mosaic / Sextus margin breaths; hold envoy refuse, Plancus *yet*, partial donative, wall-walk key.
+- **Human-voice (Ch 26):** one feel-pass; siege rehearsal / mornings prices / Cleo mosaic / Sextus margin breaths; hold envoy refuse, Plancus *yet*, partial donative, wall-walk key.

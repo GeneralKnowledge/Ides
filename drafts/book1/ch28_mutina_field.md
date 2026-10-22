@@ -47,8 +47,8 @@ He stacked a shield that was not his. The owner would not need it. Somewhere beh
 # SC-81: Poison Talk
 
 POV: F4 Hordeonius · rumour ledger / letter traffic
-Date / place: Rome / camp paper · M17 · FT11
-Canon refs: AMB-2: not confirmed
+Date / place: Late April 43 · Hordeonius’s stall, Rome
+Canon refs: AMB-2: not confirmed · M17 · FT11
 Info ENTER: Pansa dying · EXIT: Poison rumour spreads, unconfirmed
 Overhear risk: Extreme rumour
 
@@ -66,7 +66,7 @@ Hordeonius refused the sale and charged for the refusal.
 
 “Do not sell poison as fact,” he told the man, gentle as a father closing a child’s eyes. “I keep seals. Seals are not dinner cleverness. Pay for the refusal if you want a clean margin.”
 
-The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.” Past the first pillar he caught the runner: “He’ll bill you for not gossiping and call it piety. Ask him for poison and he sells you a sermon with interest.”
+The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.” Past the first pillar, loud enough to carry back to the stool, he told the runner: “He’ll bill you for not gossiping and call it piety. Ask him for poison and he sells you a sermon with interest.”
 
 Sosia tipped his cup toward Hordeonius without drinking. “Only you could make refusing a sale sound like a temple tax.”
 
@@ -88,4 +88,4 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 - **Expansion D13:** Contubernium Capua/dirt talk between assaults (humour OFF in mud peak).
 - **Human-voice:** broke ditch cadence; cut craft “humour OFF” caption and fringe dirt-ledger clone; flattened boot paren; held Capua in Laberius/Vibius mouths; Hirtius-fact / Pansa-open held.
 - **Reader-earn (Ch 28 expanded):** why Laberius stands on this side: took the boy’s 500 at Capua (pays Ch 24 scar-veteran “when the shadow learns to feed us” and Ch 27 motion; Antony’s hundred not re-glossed); twine still unmoved. Forum Gallorum named in Vibius’s mouth as the village a week back where Pansa was carried off with a side wound (litter seen, inside not), so AMB-2 stays open. Martians / Hirtius / Pansa not re-CV’d.
-- **Human-voice (Ch 28):** one feel-pass — standard/friend / pay-drum / Hirtius until / eagle gap / gallopers / camp letter breaths; hold Capua boots, Hirtius shoulder-fact, Pansa open, F4 silence-for-sale.
+- **Human-voice (Ch 28):** one feel-pass; standard/friend / pay-drum / Hirtius until / eagle gap / gallopers / camp letter breaths; hold Capua boots, Hirtius shoulder-fact, Pansa open, F4 silence-for-sale.

@@ -22,7 +22,7 @@ They met where the ditch stank of melt and horse and the kind of truce that last
 
 Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 
-Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old optics habit. Cheer might still open a morning. It might not.
+Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots, the old habit of looking like the honest party. Cheer might still open a morning. It might not.
 
 “Last talk,” Antony said, not loud. Loud was for walls. “Yield Mutina. Keep your skin. I take the province the consul needs. You take a road south that isn’t a grave.”
 
@@ -66,7 +66,7 @@ He walked the walls at night with a cloak that did not keep the Ides out. The de
 
 # SC-74: The Senate’s Sword
 
-POV: Cicero / Octavian · Rome (compressed)
+POV: Octavian · Rome (compressed)
 Date / place: Kalends of January 43 · Curia fringe / after-session
 Canon refs: Chain 6 tragic misread · C5 · C7
 Info ENTER: Fear of Antony · EXIT: Octavian instrumentalised
@@ -74,19 +74,19 @@ Overhear risk: Curia
 
 ---
 
-Cicero argued Octavian into usefulness the way he argued clauses into laws. Cicero. A sweating senator who feared Antony more than boys. Octavian present enough to be aimed.
+Cicero argued Octavian into usefulness the way he argued clauses into laws. A sweating senator on the bench beside him feared Antony more than boys. Octavian sat present enough to be aimed.
 
 It was the first sitting of the new year, and the consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones, the man who had finished Caesar’s book on Gaul after Caesar stopped writing it. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Both had been Caesar’s men. Caesar had named both to this year himself. Cicero called them the Senate’s swords. Octavian counted it plainer: the only two men in the room with the right to raise legions and lead them, and the fathers meant to send them north to break the ring around Decimus. Cicero wanted a third blade to go with them.
 
 Cicero read the motion in his court voice. Thanks to the Martian legion and the Fourth, “who left the consul Antony and came over to the Senate and to Gaius Caesar.” Thanks to the veterans “whom Gaius Caesar raised at his own cost.” And for Gaius Caesar himself a praetor’s command, so that the legions he already had would at last belong to a law. Octavian heard *at his own cost* and thought of the actual cost: five hundred denarii a man through the Campanian colonies in the autumn, Philippus’s face when the chests went out, Antony at Brundisium offering his own soldiers a hundred apiece and hearing the ranks laugh. The Senate was thanking him for a crime it had decided to need.
 
-“The young Caesar,” Cicero still choked on the name privately and used it when the Curia needed a handle, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Cicero mistook the closing for virtue’s return.
+“The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered adoption and armies in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
 Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn't think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Agrippa stood where the Curia fringe still smelled of wet wool and ambition. Close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina. Far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Stillness was the cost: if he filled the silence, they would aim him next. Octavian felt the stillness as a withheld hand, Apollonia’s old inventory without the bread joke, and kept his own nod thin.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero went home certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
+Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero left looking like a man certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn't correct him.
 
 ---
 
@@ -102,4 +102,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 - **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.
 - **Reader-earn (Ch 27 expanded):** Antony names Hirtius (sick) + Pansa (levy) and the Kalends handover at the parley; aide’s “after the Kalends” + salt-ox callback to Ch 26; SC-74 set at the Kalends sitting with both consuls in the chairs as the Senate’s swords (Hirtius = Caesar’s Gaul book finished; Pansa = recruits/pay); Hirtius/OCT look; Pansa counting. Ch 28 Hirtius-fact / Pansa-open now land on known men.
 - **Reader-earn (Ch 27 gap-close):** Octavian’s army earned in Cicero’s motion (Martian legion + Fourth left Antony; veterans raised at his own cost; praetor’s command to make it legal; cf. Cic. *Phil.* 5) and Octavian’s stake (500 denarii a man in Campanian colonies; Philippus not re-glossed; Antony’s hundred at Brundisium laughed at, App. *BC* 3.43–44 trad.). Ch 28–29 *Martians* now land. Doubled aide line fixed (Decimus answers “after the Kalends”).
-- **Human-voice (Ch 27):** one feel-pass — cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.
+- **Human-voice (Ch 27):** one feel-pass; cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.
+- **Rules audit (Ch 27):** SC-74 locked to Octavian POV (Cicero’s private choke, misread and certainty now seen from outside); scaffolding fragments joined; “optics” idiom cut.

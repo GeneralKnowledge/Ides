@@ -1,14 +1,14 @@
 # Chapter 34: Philippi II and Hooks
 
 **Phase 1D.2 / Act5 ordeal** · SC-92–95 · Oct 42 · SERIES-1 end · A14
-**Human-voice:** Ch 34 feel-pass (rules); light Philippi close — cleaner-hill refuse / open wax / land seed held.
+**Human-voice:** Ch 34 feel-pass (rules); light Philippi close: cleaner-hill refuse / open wax / land seed held.
 
 ---
 
 # SC-92: Second Day
 
 POV: Brutus (+ OCT breath) · Philippi
-Date / place: Second engagement / camp edge
+Date / place: 23 Oct 42 · Brutus’s line / Octavian’s camp
 Canon refs: A14 · FS02 illness · credit contested C · FS10 seed
 Info ENTER: Second engagement · EXIT: Brutus dead; OCT ill/credit contested; land seed in same breath
 Overhear risk: Camp
@@ -58,7 +58,7 @@ Fever eased, later, into a thin clarity on the road-edge of the camp. “They wi
 # SC-93: Peak
 
 POV: Antony · post-battle tent · Chain 9
-Date / place: Tent · officers
+Date / place: Late Oct 42 · Antony’s tent, Philippi
 Canon refs: underestimates Italy land rage
 Info ENTER: Military prestige · EXIT: Settlement talk; underestimates land crisis
 Overhear risk: Officers
@@ -71,20 +71,40 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments, farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
-Outside the tent-flap, while congratulations still filled the wine, a junior officer muttered to the horse-holder: “Italy always complains, until it bills you in veterans who already know which farms have owners. Capua dates. Mutina mud. Same unpaid dirt, new maps. When the East stops bleeding, the soil still owes.” The horse stamped. Inside, Antony heard only the congratulations. He laughed once, short, and went back to the map.
+By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains, until it bills you in veterans who already know which farms have owners. Capua dates. Mutina mud. Same unpaid dirt, new maps. When the East stops bleeding, the soil still owes.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
 
-On the plain a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. He left the wax open to the weather, and to the next man who would have to price Italian soil that still carried other men’s names. The East pulled one victor. A list of promised acres fluttered in Antony’s unread tomorrow. In Rome, someone found a charred debt mark in a shop that no longer had an owner. No one solved Visellius. Civil war did not keep cold cases for bankers. The open wax and the ash tablet were the same unfinished question: who pays for dirt that already has owners.
+At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
+
+---
+
+# SC-95: Open Wax
+
+POV: F4 Hordeonius · Rome
+Date / place: Nov 42 · an ownerless shop, Rome
+Canon refs: SIDE-1b OPEN-0 · FS10
+Info ENTER: Philippi news by courier · EXIT: Visellius unsolved; land question open
+Overhear risk: None
+
+---
+
+The courier said *Philippi* as if it were a receipt.
+
+Hordeonius was in a shop that no longer had an owner, pricing shelves for an auction the lists had paid for. Two Liberators dead. Antony to the East. The boy to Italy and the veterans. He wrote it down in the column where he kept weather.
+
+Under the counter his thumb found a debt mark scratched into the wood, a sum and a name he did not know. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep cold cases for bankers.
+
+He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
 
 ---
 
 ## Continuity
 - SERIES-1 satisfied; sequel hooks only; no Actium plotting; OCT ill/not genius; Brutus death experiential body ordeal.
-- SC-94 folded into SC-92 OCT breath (land seed); **SC-95 folded into SC-93** (gravity, open wax + SIDE-1b ash collide with Italy underestimation).
+- SC-94 folded into SC-92 OCT breath (land seed); **SC-95 restored as a short Hordeonius coda** (rules audit: the Rome / Visellius close could not sit in Antony’s POV); SC-93 keeps the open wax in Antony’s tent and the officer’s Italy line as something Antony hears and laughs off.
 - MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.
 **Act5 ordeal:** SC-92 Brutus refused cleaner hill as lived cost; grief weight in body; OCT vacuum/land in same camera breath.
 **1G:** anti-Actium wink cut; hooks held.
 **Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
 - Ordeal/grief, humour OFF on Brutus end; Capua/Mutina dirt echo in officer bite; SIDE-1b OPEN-0 ash; OCT breath folded (G1).
 - **Human-voice:** flattened Brutus/OCT parens; thinned fringe *Mark me* / nested Italy-complains paren; softened philosophy *as if* and “dress the geometry”; Italy dirt hooks + open wax held; Philippi not expanded.
-- **Human-voice (Ch 34):** one light Philippi close feel-pass — Cassius versions / water cough / cleaner hill / refuse cost / OCT survive / named want / open wax breaths; hold cleaner-hill refuse, OCT ill, land seed, SIDE-1b ash. Book 1 Ch 1–34 feel-passes complete.
+- **Human-voice (Ch 34):** one light Philippi close feel-pass; Cassius versions / water cough / cleaner hill / refuse cost / OCT survive / named want / open wax breaths; hold cleaner-hill refuse, OCT ill, land seed, SIDE-1b ash. Book 1 Ch 1–34 feel-passes complete.
 - **Reader-earn (Ch 34):** second day placed twenty days on (Cassius’s body sent to Thasos by night; Brutus’s starve-them plan, sea vs plain; desertions + officers’ Cassius-voiced taunt force the battle); OCT’s camp overrun in the first fight, litter stabbed, doctor’s dream carried him into the marsh (credit contested, not genius); Antony divides in his own mouth: East to him, Italy + veterans to the boy, Lepidus Africa if not writing to Sextus (land hook now lands on OCT; Sextus hook). No Actium; open wax / ash tablet held.
