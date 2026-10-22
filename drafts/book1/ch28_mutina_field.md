@@ -60,7 +60,7 @@ Hordeonius recorded three explanations for Pansa’s death before the man had fi
 2. Antony’s smear
 3. The boy’s friends prefer fewer consuls
 
-He labeled all three *Rumour* in Greek abbreviation, because Latin made gossip look like minutes. A client wanted to buy the third as fact, wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet.
+He labeled all three *Rumour* in Greek abbreviation, because Latin made gossip look like evidence. A client wanted to buy the third as fact, wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet.
 
 Hordeonius refused the sale and charged for the refusal.
 

@@ -1,7 +1,53 @@
 # Chapter 25: Philippics and Ships
 
-**Phase 1D.3** · SC-68b, SC-69 · autumn 44 · EXIT-1 · Chain 6 / 8 seed
+**Phase 1D.3** · SC-69, SC-68b (chrono: late Aug, then autumn) · Aug–autumn 44 · EXIT-1 · Chain 6 / 8 seed
 **Human-voice:** Ch 25 feel-pass (rules); Philippics scar / Brutus deck refuse / EXIT-1 held.
+
+---
+
+# SC-69: East
+
+POV: Cassius (+ Brutus) · Velia harbour
+Date / place: Late Aug 44 · Brutus’s ship, harbour at Velia
+Canon refs: A9 · Chain 8 seed · C3
+Info ENTER: Humiliation appointments · EXIT: Liberty brand + war-chest need; Brutus refuses one purity cost
+Overhear risk: Ship crews
+
+---
+
+Cassius boarded to see Brutus off, with contempt for the shoreline. His own keel would follow when he had ships enough.
+
+Pitch smelled honest. Italy smelled of appointments that had tried to turn Liberators into corn clerks. A harbour official wished them “favourable gods” in a voice that meant *please leave before you become my problem.* Cassius thanked him with teeth.
+
+“They offered us corn routes and called it honour,” he told Brutus on a deck that flexed under boots. “Honour is what we mint when we have silver.”
+
+Brutus watched the shore as if it had already begun to shrink. A gull argued with another gull over a scrap that looked like neither bird’s. Brutus’s mouth twitched. “Even the birds have a lawsuit.”
+
+Cassius did not smile. “We leave so we can afford war if war is honest enough to come, not so we can become the cause of one we cannot pay.”
+
+Crewmen cared about wind and the next meal. One asked whether it was true the praetor was bound for Athens, and whether Athens counted as fleeing. “Athens,” Brutus said. “Men still read there. Someone ought to.” Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves, those fat coast cities across the Aegean that had paid Pompey, then Caesar, and would pay whoever arrived next with ships: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
+
+The mate did not let the snort die alone. He spat over the rail, careful of wind, and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned. The other looked at Brutus’s courtesy like a second religion. Cassius heard the mate’s verdict as witness, not mutiny. *Collecting* now had deck mouths attached. Not only a factor’s smile.
+
+A factor from the quay, a Greek who bought and sold for three of those cities, came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
+
+Brutus touched a rail. Salt crusted under his nails. “If we become what we killed…”
+
+“We become victors,” Cassius cut in. “Then we argue about purity. Purity is a peacetime hobby.”
+
+The factor waited. The tablet waited. Pay versus purity, on a deck that still smelled of Italian appointments.
+
+Brutus looked at the numbers a long time. Cassius could watch him do the sum: honest enough to fund men, early enough to make the brand look like a tax before it looked like a cause.
+
+“Not from this deck,” he said. “The Senate sent me out of Rome to buy corn like a clerk. I will not turn clerk for cities that want a seal more than a Republic. Collect when we have cities under our own count, not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened. The factor’s smile thinned, and he said to the mate, not as low as he thought: “They will sell the same coin to whoever stamps first.”
+
+“Then let them hurry,” Brutus said. “We will not.”
+
+Cassius did not argue the purity speech. He took the cost as delay and hated delay. He kept Brutus’s refusal because the brand still needed Brutus’s face on it. He answered the mate’s shout about lines with a nod that meant *move*. Brutus answered the mate with courtesy that belonged to a different Republic, and had just spent a piece of that courtesy refusing easy silver.
+
+A crate labelled with someone’s grain promise tipped on the gangplank and righted itself. Brutus watched it the whole way. Cassius could not tell whether he was reading an omen or counting cargo, and did not ask.
+
+Cassius went down the plank before the lines came in. From the quay he watched Brutus’s ship stand out, and beyond it cities waiting to learn what *libertas* cost per head. One Liberator had already refused to price it in a harbour smile. Cassius had not.
 
 ---
 
@@ -15,7 +61,7 @@ Overhear risk: Public when delivered
 
 ---
 
-Cicero stopped pretending the middle existed.
+By autumn Cicero had stopped pretending the middle existed.
 
 On the desk lay two drafts: one that named Antony a public enemy in music, and one that named him a mistake in manners. He chose music. Mistakes could be forgiven. Music recruited. He sanded a single adjective until it could cut without looking eager. He failed, because eagerness was the point.
 
@@ -54,52 +100,6 @@ The friend, still in the atrium, went pale. “That is not literary criticism.�
 Cicero held the scarred tablet until his fingers stopped pretending to be steady. He thought of Atticus, of audiences, of the Capitol’s first day enlarged by memory. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
 
 He slept poorly and woke eager. Eager men wrote faster than wise ones. He noticed the difference and wrote anyway. The knife-scar sat as applause he refused to name fear.
-
----
-
-# SC-69: East
-
-POV: Cassius (+ Brutus) · Velia harbour
-Date / place: Late Aug 44 · Brutus’s ship, harbour at Velia
-Canon refs: A9 · Chain 8 seed · C3
-Info ENTER: Humiliation appointments · EXIT: Liberty brand + war-chest need; Brutus refuses one purity cost
-Overhear risk: Ship crews
-
----
-
-Cassius boarded to see Brutus off, with contempt for the shoreline. His own keel would follow when he had ships enough.
-
-Pitch smelled honest. Italy smelled of appointments that had tried to turn Liberators into corn clerks. A harbour official wished them “favourable gods” in a voice that meant *please leave before you become my problem.* Cassius thanked him with teeth.
-
-“They offered us corn routes and called it honour,” he told Brutus on a deck that flexed under boots. “Honour is what we mint when we have silver.”
-
-Brutus watched the shore as if it had already begun to shrink. A gull argued with another gull over a scrap that looked like neither bird’s. Brutus’s mouth twitched. “Even the birds have a lawsuit.”
-
-Cassius did not smile. “We leave so we can afford war if war is honest enough to come, not so we can become the cause of one we cannot pay.”
-
-Crewmen cared about wind and the next meal. One asked whether it was true the praetor was bound for Athens, and whether Athens counted as fleeing. “Athens,” Brutus said. “Men still read there. Someone ought to.” Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves, those fat coast cities across the Aegean that had paid Pompey, then Caesar, and would pay whoever arrived next with ships: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
-
-The mate did not let the snort die alone. He spat over the rail, careful of wind, and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned. The other looked at Brutus’s courtesy like a second religion. Cassius heard the mate’s verdict as witness, not mutiny. *Collecting* now had deck mouths attached. Not only a factor’s smile.
-
-A factor from the quay, a Greek who bought and sold for three of those cities, came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
-
-Brutus touched a rail. Salt crusted under his nails. “If we become what we killed…”
-
-“We become victors,” Cassius cut in. “Then we argue about purity. Purity is a peacetime hobby.”
-
-The factor waited. The tablet waited. Pay versus purity, on a deck that still smelled of Italian appointments.
-
-Brutus looked at the numbers. Honest enough to fund men. Early enough to make the brand look like a tax before it looked like a cause. He had already left Rome’s corn-clerk insult behind. He would not leave the insult by becoming a clerk for cities that wanted a seal more than a Republic.
-
-“Not from this deck,” he said. “Collect when we have cities under our own count, not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened. The factor’s smile thinned, and he said to the mate, not as low as he thought: “They will sell the same coin to whoever stamps first.”
-
-“Then let them hurry,” Brutus said. “We will not.”
-
-Cassius did not argue the purity speech. He took the cost as delay and hated delay. He kept Brutus’s refusal because the brand still needed Brutus’s face on it. He answered the mate’s shout about lines with a nod that meant *move*. Brutus answered the mate with courtesy that belonged to a different Republic, and had just spent a piece of that courtesy refusing easy silver.
-
-Brutus watched a crate labelled with someone’s grain promise tip and right itself. He didn’t take it as omen. He took it as cargo he had not yet sold.
-
-Cassius went down the plank before the lines came in. From the quay he watched Brutus’s ship stand out, and beyond it cities waiting to learn what *libertas* cost per head. One Liberator had already refused to price it in a harbour smile. Cassius had not.
 
 ---
 
