@@ -33,9 +33,13 @@ Brutus looked at it. The cost of taking it was clear in the body. Abandon the kn
 
 “Hold what you can,” Brutus said. Not a period. Not an antithesis. Only an order with the paint worn off.
 
-He refused the cleaner hill. The refusal lived as lived cost. The knot shrank. The breath got shorter. The officer’s face went from hope to something flatter. Brutus felt the choice settle behind the sternum where the reports already sat, grief and stubbornness sharing the same muscle. He held what he could until what he could was a shrinking knot that no philosophy could stiffen again.
+He refused the cleaner hill. The knot shrank. The breath got shorter. The officer’s face went from hope to something flatter. Brutus held what he could until what he could was a shrinking knot that no philosophy could stiffen again. Only then, at dusk, with nothing left on the plain to hold, did he take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
 
-He ended without arranging his last posture for witnesses. The men nearest him already disagreed with their eyes about what they were seeing. On the ground the restoration army was broken into names and baggage. An *EID MAR* coin lay in the dust with the rest of the metal. If he thought of Cassius’ contempt for delay one last time, he did not say it. Saying it would have been arranging. He had refused arranging once already today.
+Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. He sent a man down to see whether the camp could be retaken. The man did not come back. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
+
+Strato held it, a friend from the rhetoric schools in Athens, when rhetoric had seemed the hard part. Brutus took his hand first. Then he set the point under his ribs, where the reports had lodged and Cassius had been sitting all day, and leaned. He did not arrange his posture. There was no one left to arrange it for, only Strato, and Strato looked away.
+
+On the plain below, an *EID MAR* coin lay in the dust with the rest of the metal.
 
 ### Octavian
 
@@ -91,7 +95,7 @@ The courier said *Philippi* as if it were a receipt.
 
 Hordeonius was in a shop that no longer had an owner, pricing shelves for an auction the lists had paid for. Two Liberators dead. Antony to the East. The boy to Italy and the veterans. He wrote it down in the column where he kept weather.
 
-Under the counter his thumb found a debt mark scratched into the wood, a sum and a name he did not know. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep cold cases for bankers.
+Under the counter his thumb found a debt mark scratched into the wood, a sum and a name he did not know. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
 
 He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
 
@@ -101,7 +105,7 @@ He left the tablet open on the counter. Soldiers would want farms, and every far
 - SERIES-1 satisfied; sequel hooks only; no Actium plotting; OCT ill/not genius; Brutus death experiential body ordeal.
 - SC-94 folded into SC-92 OCT breath (land seed); **SC-95 restored as a short Hordeonius coda** (rules audit: the Rome / Visellius close could not sit in Antony’s POV); SC-93 keeps the open wax in Antony’s tent and the officer’s Italy line as something Antony hears and laughs off.
 - MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.
-**Act5 ordeal:** SC-92 Brutus refused cleaner hill as lived cost; grief weight in body; OCT vacuum/land in same camera breath.
+**Act5 ordeal:** SC-92 Brutus refuses cleaner hill in the morning, retreats to the hills at dusk, dies by his own sword with Strato holding it (Plut. *Brut.* 51–52; Volumnius refuses); grief weight in body; OCT vacuum/land in same camera breath.
 **1G:** anti-Actium wink cut; hooks held.
 **Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
 - Ordeal/grief, humour OFF on Brutus end; Capua/Mutina dirt echo in officer bite; SIDE-1b OPEN-0 ash; OCT breath folded (G1).

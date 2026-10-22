@@ -31,7 +31,7 @@ He did not think of Italian acres. Acres were for clerks after dust. For one bre
 
 ### F3: Laberius
 
-Dust found every gap in Laberius’ teeth; the eagle staff was the only upright fact he trusted.
+Dust found every gap in Laberius’ teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it.
 
 He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’ side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms. Plains lied through mouths that needed the story more than the mud did.
 
