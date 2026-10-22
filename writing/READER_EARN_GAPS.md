@@ -64,6 +64,7 @@
 | Laberius fights in the boy’s ranks because the boy paid (500 at Capua vs Antony’s hundred); Forum Gallorum = village a week back down the road where Pansa was carried off wounded (litter seen, cause open) | Ch 28 Vibius in the ditch (surgical); Hirtius shoulder-fact / Martians not re-glossed |
 | Lepidus’s legions take Antony in at the river; boy won’t share a road with Decimus; consul’s chair wants 42, boy has 19 → centurion’s sword (*this will*); fasces = twelve lictors’ rods; Bononia = river island invitation under Lepidus’s + Antony’s seals | Ch 29 aide count + pay line (surgical); Decimus death fog kept |
 | Bononia = river island, Lepidus crosses first, pat-down; triumvirs = tribune’s law, three men for setting the state in order, five years, consul’s power (Antony: Rome’s three-man boards count copper and mind the jail); proscription = names posted, head-money from treasury, slave freed, house to auction pays the legions (Sulla precedent) | Ch 30 Bononia table (surgical); street triptych not re-glossed |
+| Cicero already tried the sea (ship out of Astura toward Brutus; seasick put-in at Caieta; *die in the country I saved*; slaves turn the litter back to the water); list copy at Tusculum names brother Quintus + nephew under three men’s edict, the boy among them; Popillius = young man Cicero once kept out of the parricide’s sack, now leading the killers | Ch 31 Formiae road (surgical; Formiae protect held); lists / Triumvirate / Philippics / Atticus not re-glossed; no trophy aside |
 
 ---
 
