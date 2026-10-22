@@ -2,6 +2,7 @@
 
 **Phase 1F** · SC-84, SC-85 · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
 **Human-voice:** Ch 30 feel-pass (rules); Cicero assent / seal-ring / F-triptych held.
+**Reader-earn:** Ch 30 expanded; Bononia island (Lepidus crosses first, pat-down); triumvir office named once at the table; proscription taught in Antony’s mouth (names, heads for silver, slave freed, house to auction pays legions) before the lists run.
 
 ---
 
@@ -17,7 +18,19 @@ Overhear risk: Low (guards)
 
 They met because none could kill the other two cheaply.
 
-Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. Across the table sat the Campania squeak grown into a man who could force a bargain. Same cold face Antony had priced as thin shoes, now holding the name like a gate. Antony felt the old joke die in his throat and did not replace it. Octavian brought the name and a cold that still cracked sometimes when the room laughed wrong: crack, then seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. A table held bread nobody ate. Appetite had moved to paper.
+The island sat low in the river below Bononia, a gravel tongue with a tent on it and two camps on the banks watching each other’s fires. Lepidus crossed first over the plank bridge and walked the island with his own eyes before he waved the other two across. On the sand each man let the others’ people pat him down for blades. Nobody pretended it was ceremony.
+
+Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. Across the table sat the Campania squeak grown into a man who could force a bargain. Same cold face Antony had priced as thin shoes, now holding the name like a gate. Antony felt the old joke die in his throat and did not replace it. Octavian brought the name and a cold that still cracked sometimes when the room laughed wrong: crack, then seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. He also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
+
+Lepidus wanted the law first, because Lepidus always wanted the law first. “A tribune carries it in Rome,” he said. “Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
+
+“Triumvirs,” Antony said, tasting it. “In Rome a board of three counts copper at the mint and minds the jail.”
+
+“Then this one minds both,” Octavian said.
+
+Nobody laughed. Antony laid his palm on the tablet where the money should have been. Forty-odd legions wanted paying, and the colonies Caesar had promised them were still surveyor’s stakes. “Sulla did this,” Lepidus said quietly, as if the dead could be asked for a precedent.
+
+“Sulla posted names,” Antony said. “Any man may kill one of the men on the board and bring in the head for silver from the treasury. A slave who does it walks free. The dead man’s house and land go to auction, and the auction pays the legions. That is all a list is. Names, heads, and a sale.”
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
@@ -96,4 +109,5 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Tissue:** Seia Prima “harvest carefully” bite, cast-wide play, not only Agrippa–OCT.
 - **Expansion D15:** Lists spectacle, Gavius + neighbour woman collide with Seius on a near-cognomen (household/street collision on a name).
 - **Human-voice:** flattened Bononia/triptych parens; cut stacked *as if* (hands/history, kinship, locks-theology); broke list-growth cadence; ring-click + Formiae purchase sound held.
+- **Reader-earn (Ch 30 expanded):** gap map §5 paid. Island below Bononia with Lepidus crossing first and mutual pat-down (App. *BC* 4.2 trad.); Lepidus’s chair = legions that waded to Antony (pays Ch 29); triumvir office named once in Lepidus’s mouth (tribune’s law, three men for setting the state in order, five years, consul’s power, no veto = Lex Titia) with Antony’s mint-and-jail jab and Octavian’s “minds both”; proscription teach-beat in Antony’s answer to Lepidus’s Sulla precedent (head-money from treasury, slave freed, confiscation auction pays legions; App. *BC* 4.11 trad.) before “lists” becomes weather. F-triptych not re-glossed; Festus slave-informer and Seius board now land on the taught terms.
 - **Human-voice (Ch 30):** one feel-pass — rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
