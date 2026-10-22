@@ -1,6 +1,6 @@
 # Reader-earn gaps — Book 1
 
-**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus gap-close.  
+**Status:** Standing after Ch 1–25 expansion (Act 4: smoke / Cleopatra exit / news late / letters and Lanuvium / name taken / acts priced, Domus emptied / Antium / Philippics and ships) + Ch 26–27 Mutina setup + Ch 26 Lepidus / Ch 27 boy’s-legions gap-close.  
 **Method:** Same as Ch 1–25 — one lived scrap or table beat *before* the name works as shorthand. Not a glossary dump. Not a detector pass.
 
 ---
@@ -60,6 +60,7 @@
 | Antium room = Brutus’s sea-house with Servilia’s clerks (Ch 23 seed paid); Cicero from Astura on Brutus’s letter; grain-buying commissions (Brutus Asia / Cassius Sicily) as praetor’s excuse to stay out of Rome; Tertulla = Servilia’s daughter, Cassius’s wife; Favonius = Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia’s clause = the corn clause; Laberius’ Capua plot still twine | Ch 24 colony forum + Antium room (surgical) |
 | Philippics = Cicero’s speeches against Antony, named for Demosthenes’ against Philip of Macedon (friend asks the title); Antony’s Senate attack on Cicero’s empty chair → answer in copies; Demosthenes’ poison end (friend jab); Brutus bound for Athens; Asia = Aegean coast cities that paid Pompey then Caesar; factor = Greek agent for three | Ch 25 Cicero desk + East deck (surgical); corn commissions / Macedonia–Syria / *young Caesar* not re-glossed |
 | Lepidus = more legions over the Alps than Plancus (coast to Spain) + chief priest’s robe; his word goes to whoever stands nearest | Ch 26 gap-close (aide beside the silent Lepidus channel); pontifex not re-glossed |
+| Octavian’s private legions = Caesar’s veterans bought in Campanian colonies (500 denarii a man) + Martian legion and Fourth who left Antony (his hundred at Brundisium laughed at); Senate gives the boy a praetor’s command to make them legal | Ch 27 gap-close (Cicero’s motion + Octavian’s cost); Kalends consuls not re-glossed |
 
 ---
 
