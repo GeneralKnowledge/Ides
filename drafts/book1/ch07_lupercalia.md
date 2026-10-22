@@ -15,9 +15,9 @@ Overhear risk: Forum extreme; house medium
 
 ---
 
-Antony liked the Lupercalia because it let a consul sweat in public without looking weak. He had held the year’s chair beside Caesar since the Kalends of January, and every day of it twelve lictors had walked in front of him with their bundled rods and the axe inside, Rome’s old picture of what a magistrate could do to you. The title still smelled new on him. Goat-reek could not quite cover it.
+Antony liked the Lupercalia because it let a consul sweat in public without looking weak. He had held the year’s chair beside Caesar since the Kalends of January, and every day of it twelve lictors had walked in front of him with their bundled rods, the axes left at the gate because inside the walls the law preferred to threaten more politely. Antony missed the axes. Rods were for schoolmasters. The title still smelled new on him. Goat-reek could not quite cover it.
 
-The goats had died at dawn in the cave under the Palatine, older than anyone could date, and now he was running in a loincloth with the rest of the young men of good family, a long shrieking line through the city, lashing whoever stood near with strips of the hide. Women stepped into the street on purpose to be hit. It was supposed to make them fertile. Antony had never asked whether it worked. Asking would have spoiled it.
+The goats had died at dawn in the Lupercal under the Palatine, and now he was running in a loincloth with the rest of the young men of good family, a long shrieking line through the city, lashing whoever stood near with strips of the hide. Women stepped into the street on purpose to be hit. It was supposed to make them fertile. Antony had never asked whether it worked. Asking would have spoiled it.
 
 He joked, slapped backs, played the old fertility chaos. The Lupercus strips stuck to his thighs; goat-smell and winter sweat made a single perfume. Caesar sat above it on the Rostra, in the special chair, half god, half tired general, wearing the purple robe and the gilded seat the Senate had voted him, watching the city perform itself. Gold caught the February sun and threw it back into the crowd’s eyes until looking up hurt in a useful way.
 
@@ -79,7 +79,7 @@ He grinned the public grin, smaller now. “It was a festival prop.”
 
 “That is a very convenient man.”
 
-She didn’t smile. Temporary symbols were the ones that started wars. She didn’t say so while the messenger still hovered with dust on his sandals, saying so early made you the woman who rusted a husband’s joke. She dismissed the man with courtesy that could have been gratitude, waited until the latch settled, then set the cup down harder than wine required.
+She didn’t smile. She said nothing at all while the messenger still hovered with dust on his sandals; Antony knew that silence, the one she kept for guests so they could not repeat her. She dismissed the man with courtesy that could have been gratitude, waited until the latch settled, then set the cup down harder than wine required.
 
 “Temporary is a debt word,” she said. “Debts collect. Next time you invent a blanket for the Forum, invent one that doesn’t leave the house colder.”
 
@@ -112,7 +112,7 @@ He didn’t begin with murder. He began with the difference between name and pow
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
-Brutus walked half a step slower. Ancestors walked with him whether he invited them or not, imagined shelves, wax faces, the dull pressure of being someone’s correct grandson. Cassius matched the slower step. He did not herd. Herding made Brutus invent philosophy as a fence.
+Brutus walked half a step slower. Cassius could all but see the ancestors walking with him, wax faces off their shelves, the dull pressure of being someone’s correct grandson. Cassius matched the slower step. He did not herd. Herding made Brutus invent philosophy as a fence.
 
 “We call it the Republic enduring,” Brutus said.
 
@@ -132,7 +132,7 @@ A cart rattled past on the street beyond the columns; someone cursed a mule as i
 
 “Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
 
-Brutus’ jaw worked. Clemency sat under his tongue like a coin he had not chosen to swallow. The diadem’s sticky fear still hung between them, not as permission, only as the kind of dread that made postponement look like virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’ jaw worked, as if clemency were a coin under his tongue he had not chosen to swallow. The diadem’s fear still hung between them. Cassius watched it try to dress postponement up as virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
 “Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath: men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 

@@ -64,22 +64,6 @@ Cassius named two other doors Galba might tap, and did not name the full list. C
 
 When Galba reached the street, Cassius finally drank. The wine was ordinary. That pleased him.
 
-At the corner Galba found Ligarius waiting with the look of a man who had not meant to be found, the gratitude-door already half open. They clasped with festival courtesy.
-
-“Cassius asks softly,” Galba said, still smiling for any watcher.
-
-Ligarius’s smile matched his. “Softly is how men lose brothers.”
-
-Once the lane bent and the portico was blind, Galba’s face dropped. “He weighs my brother’s grain like a patriotic hymn. If Brutus only watches, I am a man who tore a seal for a shrug.”
-
-“Then make Brutus stop watching,” Ligarius said. “Or tear seals for me instead. I fought for Pompey in Africa and I eat on a pardon. I wake every morning waiting for it to be taken back. At least I admit I am already ruined.”
-
-Galba almost laughed, then swallowed it. Laughing in the open street after a Caesarian seal was how men became tavern stories. “Tonight he takes Casca. If Brutus still burns invitations and calls it courage, we are buying winter with poetry.”
-
-“Buy it cheap,” said Ligarius. “Poetry has no resale value. Neither do men like me: easy to recruit, hard to keep.”
-
-They parted as friends. The word stayed in the air like perfume after a guest: useful, and already slightly false.
-
 ---
 
 # SC-21: The Room That Would Not Let Him Postpone
@@ -142,32 +126,20 @@ Servilia rose. Her hand brushed Brutus’s shoulder, brief, private, not a bless
 
 They left with festival manners intact, clasps, wishes for health, and Casca’s very old joke about the mule elected tribune that declined the honour because it would have to speak in public. Servilia’s mouth almost moved.
 
-In the lane, once the door’s lamp was a coin behind them, Casca exhaled. “He will make us wait until the chickens look insulted.”
-
-“He will make us wait until he can call himself clean,” Cassius said. “That is why we need him. Clean names sell surgeries.”
-
-“And if he only ‘hears’ until Parthia?”
-
-Cassius glanced back at the door. It might still be listening. “Then we cut without the brand, and the city calls us what we are. Prefer the brand. Prefer the insomnia. Prefer anything but his dinners.”
-
-Casca snorted, then covered it with a cough for a passing watchman. “Insomnia as patriotism. You should sell that to Hordeonius. He’d put a rate on it.”
-
-They walked on like men who had discussed rain.
-
-Inside, Brutus held the refusal draft over the lamp until names blurred. He set it down carefully. He had not said yes. He had said he would hear, and the hearing already felt like a door he could not fully close.
+When the door had shut on them, Brutus held the refusal draft over the lamp until names blurred. He set it down carefully. He had not said yes. He had said he would hear, and the hearing already felt like a door he could not fully close.
 
 He slept little. When he did, the Forum would not stop cheering, and a crown kept returning like a fly.
 
 ---
 
 ## Continuity
-- Recruitment personal (Cassius); Galba priced; **S-A0** exit-complaint with Ligarius.
+- Recruitment personal (Cassius); Galba priced; no off-POV exit coda (Galba/Ligarius and Cassius/Casca lane talk cut, review 2).
 - **S-A0 / S12:** Brutus group persuasion (Cassius + Casca + Servilia); spoken resistance; costly inch = will hear / no massacre / no Antony pile, not clean yes.
 - Servilia social-season pressure, not ops detail (FT13 held); mother relation by behaviour (“my son”), no Ch 4 re-CV.
 - Galba first approach; Ligarius queued + Africa-expect-worst tissue; compartments held.
 - Casca Servilius name opens door; East-weeks clock uses Ch 5/6 without Parthia re-gloss.
 - MUST_EXPRESS: C3 recruitment engine; B2 plural motives begun.
 - Next: Ch 9 Decimus + spare Antony.
-- **Law-sweep:** Group room ≥3 (Cassius/Casca/Servilia/Brutus); Galba→Ligarius exit-complaint; Casca humour + insomnia rate; costly inch not clean yes; Galba winter / Casca doors plants.
+- **Law-sweep:** Group room ≥3 (Cassius/Casca/Servilia/Brutus); Casca humour (mule tribune); costly inch not clean yes; Galba winter / Casca doors plants.
 - **Golden-read P1:** “Debt” thins against ordinary-table closeness / shoulder-touch, friend-door knife weight.
 - **Human-voice (Ch 8 expanded):** densified Mandate / Room; cut Pharsalus Greece gloss; cut Servilia mother/love plaque; hold costly inch, seal tear, shoulder-touch; no modern weekdays.

@@ -194,13 +194,7 @@ Decimus felt warmth, then a draft along the portico tiles. He joked once, correc
 
 “Spanish wine,” said the laugher, to his friend, as Decimus turned. “A man of the people.”
 
-Around the corner, out of the portico’s sightline, the laugher’s voice dropped its perfume. “He still thinks ditch-timing is love. Adorable. If the wax is true, he’s a target with good boots. If false, he’s a rumour with good boots. Either way I dine out on him.”
-
-“And the queen?” thin-ring asked.
-
-“Useful scare for men who hate foreign houses. Don’t put it in writing.”
-
-Decimus did not hear that part. He touched the portico column once, habit, and went back toward Caesar’s voice. That was still where his day lived. Caesar was already speaking to a clerk about grain. He glanced up, found Decimus, and tipped his chin. As if other men’s envy had never interrupted the afternoon.
+He touched the portico column once, habit, and went back toward Caesar’s voice. That was still where his day lived. Caesar was already speaking to a clerk about grain. He glanced up, found Decimus, and tipped his chin. As if other men’s envy had never interrupted the afternoon.
 
 “Campus,” Caesar said. “Before the light goes dishonest.”
 

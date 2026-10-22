@@ -37,9 +37,7 @@ Calpurnia let both sentences sit. She did not thank them. Thanks made servants i
 
 “The kind that hears everything and is never asked.”
 
-They did. After the door-latch, in the service slip beside the cubiculum, Pallas’s voice dropped its careful softness. “She knows we know. That makes us dangerous and useful in the same breath.” Nysa did not answer with comfort. Comfort was a lie with good manners. She carried the empty jug toward the court and kept schedules and doors in different pockets of her mind.
-
-In the chicken court Dama muttered that cheerful visitors left a smell chickens disliked. Phileros, keys already important, told him to invent quieter omens.
+They did. The latch fell behind them. Through the wall she heard one low word from Pallas, then nothing, which was worse.
 
 Later Caesar found Calpurnia at the edge of the tablinum, among the records at the back of the atrium where he did his work. “You are not usually like this,” he said once, almost mildly, and she hated how often mildness was his kindness.
 

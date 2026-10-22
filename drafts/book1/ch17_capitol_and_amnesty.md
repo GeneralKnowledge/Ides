@@ -48,7 +48,13 @@ Brutus kept each report as incomplete. He had been trained for incompleteness in
 
 “Cicero is writing the age?” Casca said. “Already?”
 
-“He has been writing it since breakfast,” Cassius said. “He is waiting for us to finish so he can say he warned us.”
+He was not. An hour later he was on the steps, out of breath, in a clean toga, as if he had stopped at home to change for dinner. He took Brutus by both hands and said *liberty* twice, the second time to hear how it sounded on the hill. Then he told them to have the praetors summon the Senate up here tonight, while the city’s fear was still in their hands.
+
+“Tonight,” Cassius said, “the Senate is under its beds.”
+
+“Then knock,” said Cicero. He stayed long enough to be seen and not long enough to be counted, and went down again before the light changed.
+
+“He will say he warned us,” Cassius said, when the toga had gone.
 
 “He did not warn us.”
 
@@ -62,7 +68,7 @@ Cassius said, close enough that only Brutus and Decimus caught it, “We cannot 
 
 They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped. He had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
 
-Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. Brutus remembered the brother’s winter Cassius had promised Galba in February and never paid; absence was the receipt now, standing where a blade should have stood.
+Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. Brutus did not know what winter Casca meant, only that Cassius’s mouth went tight at it, and that absence was a receipt now, standing where a blade should have stood.
 
 Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say Capitol if you must, say it as fear, not as a period.”
 
@@ -71,6 +77,7 @@ Brutus took the corridor truth without answering it in kind. Answering would hav
 ---
 
 ## Continuity notes (SC-45)
+- **Review 2:** Cicero’s brief Capitol visit on the Ides afternoon (urges praetors to summon the Senate), paid Ch 25/31 “Capitol’s first day”. Brutus does not know Galba’s winter terms (Cassius-only, Ch 8).
 - Liberty optics fail to convert populus.
 - Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.
 - Capitol geography paid Ch 16 (no Jupiter-treasury re-plaque); Cisalpine paid Ch 4 (northern-road shorthand only).
@@ -127,7 +134,7 @@ An officer beside him, young, oil-smell, ambition still unscarred, seconded with
 
 Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
 
-Three wants, one ditch of snowless March air. Pacuvius’s storm. The officer’s paint. Lepidus’s map that still wanted survivors to bargain with. Antony felt the group lean as a single weight, massacre versus how the body would look tomorrow, and chose the slower blade because the slower blade still had a consul’s name on it.
+Pacuvius wanted his storm. The officer wanted his paint. Lepidus wanted survivors left over to bargain with. Antony felt the group lean as a single weight, massacre versus how the body would look tomorrow, and chose the slower blade because the slower blade still had a consul’s name on it.
 
 Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short version bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
@@ -211,7 +218,7 @@ He left the bargaining room with praise still arranged on his mouth: peace, brea
 
 “That is the entire question, young man,” said the banker. “That is why they are shopping.”
 
-Farther down the same corridor, near the side door servants used when mistresses did not want to be seen pricing, a woman whose messenger wore Antony’s house-ring stopped a clerk mid-bow. “Amnesty is a night’s kindness,” she said, dry. “Paper that stands overnight is the consul’s war-chest. Do not let Cicero’s peace sand the acts into something soft.” Another mouth answered from the opposite wall: an older steward carrying a tablet still soft with Brutus’s mother’s seal. “Then ask whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Watch when amnesty asks Brutus to thank a consul for surviving.” Neither asked Cicero’s opinion. Both spent the same amnesty he had just sold as breath. Both were already spending someone else’s authority to do it.
+Behind him, near the side door servants used when mistresses did not want to be seen pricing, a woman whose messenger wore Antony’s house-ring stopped a clerk mid-bow. “Amnesty is a night’s kindness,” she said, dry. “Paper that stands overnight is the consul’s war-chest. Do not let Cicero’s peace sand the acts into something soft.” Another mouth answered from the opposite wall: an older steward carrying a tablet still soft with Brutus’s mother’s seal. “Then ask whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Watch when amnesty asks Brutus to thank a consul for surviving.” Neither asked Cicero’s opinion. Both spent the same amnesty he had just sold as breath. Both were already spending someone else’s authority to do it.
 
 Cicero was nearly at the corner when the client’s voice thinned behind him: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 

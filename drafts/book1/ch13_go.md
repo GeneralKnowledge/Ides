@@ -53,7 +53,7 @@ Glaucia’s mouth twitched. “Bores survive the Ides.”
 
 # SC-32: Blind Calm
 
-POV: Cicero · villa letter desk
+POV: Cicero · Palatine house letter desk (Rome)
 Date / place: 13–14 March · afternoon
 Canon refs: digest pattern · C7 · B3
 Info ENTER: Elite rumour only · EXIT: Still not ops
@@ -63,7 +63,7 @@ Overhear risk: N/A
 
 Cicero wrote to Atticus about games.
 
-Atticus would be in Athens or Epirus or wherever he had decided that month to be safe, and would keep Cicero’s real opinions because nobody else would. The letters were Cicero’s habit as other men keep a temper: daily, compulsively, with relief.
+Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway, because Atticus kept Cicero’s real opinions and nobody else would. The letters were Cicero’s habit as other men keep a temper: daily, compulsively, with relief.
 
 Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
@@ -73,9 +73,9 @@ He read it back and was pleased. That was the danger of Cicero: he was nearly al
 
 He considered a sentence about Caesar’s departure east in a matter of days, and the offices stacked like bricks ahead of lesser men, a Republic leased out like a farm for the years he would be gone. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus, his secretary, had brought a note from Hirtius’s orbit about nothing that mattered. The camp gossip in it was thin. Cicero answered with courtesy that congratulated itself. He didn’t know Trebonius was learning how to hold a consul with talk. He didn’t know Decimus had become the man who could still walk Caesar in. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
+Sphaerus, Hirtius’s secretary, had brought a note from his master about nothing that mattered and stayed for the wine. The camp gossip in it was thin. Cicero answered with courtesy that congratulated itself. Tomorrow the Senate sat in Pompey’s hall, and he would go, and be bored, and come home to write about it. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
 
-“You look pleased, master,” said Sphaerus.
+“You look pleased,” said Sphaerus.
 
 “I am composing a sentence about the death of the Republic,” Cicero said. “It is going quite well.”
 
@@ -83,7 +83,7 @@ Sphaerus, his secretary, had brought a note from Hirtius’s orbit about nothing
 
 “Not until I have finished the sentence,” said Cicero.
 
-He sealed the letter. Sealing felt like action. In the garden a thrush made a sound like a hinge. Cicero took it for spring.
+He sealed the letter. Sealing felt like action. Below the house a cart ground up the Palatine slope, and somewhere a thrush made a sound like a hinge. Cicero took it for spring.
 
 ---
 
@@ -99,7 +99,7 @@ Overhear risk: High among soldiers
 
 Sextus Laberius Cordus loved Caesar the paymaster more than Caesar the god.
 
-Gaul, Spain, Africa, on Caesar’s word and Caesar’s pay, and now a winter camp in Italy, waiting to be turned from a soldier into a farmer. Land had been promised by the cartload: colonies founded, plots surveyed, farms taken from the losing side and handed to the winners. The promise was good. The delivery was slow.
+Gaul, Spain, Africa, on Caesar’s word and Caesar’s pay, and now a winter camp in Italy, waiting to be turned from a soldier into a farmer. “Land by the cartload,” the recruiting centurion had promised in Gaul, and the men still said it to each other as a joke: colonies founded, plots surveyed, some loser’s farm handed over with the furniture. The promise was good. The carts were slow.
 
 Around the brazier the talk was colonies and delays. Who had been promised land near Capua. Who had heard the promise thin out into “after Parthia.” Who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative still not dated. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
 

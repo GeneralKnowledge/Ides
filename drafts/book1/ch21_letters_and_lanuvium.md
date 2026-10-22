@@ -61,9 +61,9 @@ The second courier, younger, contradicted on cue, half-false news fighting in th
 
 “Then stop exercising,” Cicero said lightly, and meant *watch*. He tipped the cracked-sandal boy, scratched *not yet* in a margin, and underlined it twice, then added, smaller: *wine shops already practicing the laugh*.
 
-Sphaerus brought a note from Hirtius’s orbit, polite, useless.
+Sphaerus, Hirtius’s secretary, brought a note from his master, polite, useless.
 
-“He asks after your health, master.”
+“He asks after your health, Cicero.”
 
 “Tell him it is excellent,” Cicero said, “and that it intends to stay out of Rome.”
 
@@ -93,7 +93,7 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 The steward hesitated. Hesitation was news. “Campania says the name. Rome’s wine shops still use him as sport: shadow, squeak, a will with no boots on it. Elders bet cups on how long the joke lasts. For now they laugh.”
 
-Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client, robe too clean for eighteen miles, waited with loyalty that had already checked the sun. Three wants in one gravel path. News. Comfort. And a signature that wasn’t asked yet.
+Porcia didn’t waste comfort. She stood where the steward still held his road-report and a client, robe too clean for eighteen miles, waited with loyalty that had already checked the sun. The steward wanted to give his news. Porcia wanted to give nothing. The client wanted a signature he had not yet asked for.
 
 “They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Neither compliment is meant for your safety.”
 
@@ -109,7 +109,7 @@ Brutus drafted speeches for a city that would not let him deliver them. Ink drie
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 
-Cassius’ letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client left without clasping arms.
+Cassius’ letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not. At the gate a client offered a purse “for expenses on the road south, if the praetor would only write one introduction.” Brutus returned the purse unopened. “I will not buy quiet with other men’s coin,” he said. The client bowed too low and went.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 

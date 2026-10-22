@@ -48,7 +48,7 @@ Octavian stepped into the gap anyway, thin shoes on hotter stone. The attendant�
 
 “He looked at you on the steps.”
 
-“He was checking whether I was ill again.” Octavian had been ill most of his life, coughs and fevers and a stomach that disliked every campaign he had ever approached, and Caesar knew it. The year before, when Caesar had gone to finish the war in Spain, Octavian had followed late, half-wrecked by sea and sickness, and arrived to find the battle already won. His uncle had looked at him as if he were a mildly interesting weather report. Then he had asked, with great politeness, whether the journey had been bad. It had been the longest conversation they had ever had.
+“He was checking whether I was ill again.” Octavian had been ill most of his life, coughs and fevers and a stomach that disliked every campaign he had ever approached, and Caesar knew it. That spring, when Caesar had gone to finish the war in Spain, Octavian had followed late, half-wrecked by sea and sickness, and arrived to find the battle already won. His uncle had looked at him as if he were a mildly interesting weather report. Then he had asked, with great politeness, whether the journey had been bad. It had been the longest conversation they had ever had.
 
 “That’s a conversation,” Agrippa had said at the time.
 

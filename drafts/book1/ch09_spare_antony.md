@@ -21,9 +21,9 @@ Cassius and Brutus found him on the Sacra Via, the Sacred Way, where processions
 
 “He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
 
-The Curia. Not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, six hundred senators on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
+The Curia. Not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, nine hundred senators, most of them Caesar’s new men, on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
 
-Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. That was the obscenity.
+Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. They wanted him for nothing else.
 
 “You are asking me to use the hours he gives me,” Decimus said. “Not a vote. Not a speech. The hours.”
 
@@ -98,7 +98,7 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “You would not have the sandals,” Trebonius said. “That is why he is the consul and you are a praetor.”
 
-Decimus counted thresholds in his head: Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
+Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash, as if he were pricing a route for mules. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
 
 “I do have a gift,” said Trebonius.
 
@@ -126,15 +126,15 @@ Decimus’s mouth twitched despite himself. “Say it louder when we are farther
 
 “I am saying it now so you remember the price while your hands are still clean,” Cassius said. Then, brighter, for a passerby: “Yes, rain tomorrow, if the chickens agree.”
 
-Decimus washed at a basin later and thought, absurdly, of Spanish wine and Caesar’s laugh, then let the laugh go. Doors didn’t get to keep jokes.
+At the garden gate Decimus stopped at the fountain and washed his hands, though there was nothing on them yet. Brutus watched him do it and said nothing. Some jokes a man did not get to make twice.
 
 ---
 
 ## Continuity
 - F2 set-piece; M6 live; Trebonius delay seeded for Ch 13/15; Gaul paper = market-day leash without weekday.
-- **S-A0:** Decimus resists before yes; access shown via door/hours/Spain jokes (no “friendship was the key” caption); exit-complaint after spare decision.
+- **S-A0:** Decimus resists before yes; access shown via door/hours/Spain jokes (no “friendship was the key” caption); living-consul price spoken inside Brutus’s hearing (no off-POV coda).
 - Curia → Pompey’s theatre/statue plant for Ides geography; Antony stakes (Pharsalus left wing / co-consul / Forum love).
 - Next: Ch 10 SIDE-1.
 **M5 polish:** header + voice spot-check; mercy-decision density held.
-- **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; exit-complaint on living consul price; Cassius dry humour on spare; Trebonius remounts plant; no friendship-key caption.
+- **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; living-consul price in-hearing; Cassius dry humour on spare; Trebonius remounts plant; no friendship-key caption.
 - **Human-voice (Ch 9 expanded):** densified Access / Argument; cut Sacra Via “oldest street”; cut Curia “no particular reason to fear”; hold spare Antony, Gaul paper, chickens, Decimus resistance; no modern weekdays.
