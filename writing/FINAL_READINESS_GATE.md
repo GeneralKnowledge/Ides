@@ -60,7 +60,7 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 
 | Gate | State | Evidence |
 |------|-------|----------|
-| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `f0bb9be` (2026-10-22) |
+| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `f395a6b`, digest `c2bc4ba377269b30` (2026-10-22, after Gate 2 copyedit) |
 | 2. Mechanical copyedit | Passing | One full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two open author questions in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
 | 3. Independent reader | Not started | |
 
