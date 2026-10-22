@@ -9,7 +9,8 @@ Concise, actionable conventions for continuing Book 1. Historical development pl
 | [`MUST_EXPRESS.md`](MUST_EXPRESS.md) | Idea-coverage checklist |
 | [`SCENE_TEMPLATE.md`](SCENE_TEMPLATE.md) | Output format per scene |
 | [`STYLE_GLOSSARY.md`](STYLE_GLOSSARY.md) | Diction, Latin, VOICE-1 |
-| [`HUMAN_VOICE_RULES.md`](HUMAN_VOICE_RULES.md) | **Anti-synthetic craft law** — feel over detectors; stop/revert caps |
+| [`HUMAN_VOICE_RULES.md`](HUMAN_VOICE_RULES.md) | **Anti-synthetic craft law** — evidence before edit; feel over detectors; voice survival; stopping rule |
+| [`FINAL_READINESS_GATE.md`](FINAL_READINESS_GATE.md) | **Publication gates** — reading-copy integrity, mechanical copyedit, independent reader |
 | [`NAMES_MINOR_CAST.md`](NAMES_MINOR_CAST.md) | Frozen minor names |
 | [`GAPS_AND_SUGGESTIONS.md`](GAPS_AND_SUGGESTIONS.md) | Gap status |
 | [`STARTER_PROMPT.md`](STARTER_PROMPT.md) | One-chapter paste prompt (historical first-pass) |

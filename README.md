@@ -23,4 +23,4 @@ Book 1 draft (Ch 1–34) is in place with dinner-first opening. Mid-tier expansi
 
 ## Tools
 
-DOCX export (metadata stripped): `python tools/export_book1_docx.py` → writes under `exports/` (gitignored).
+DOCX export (metadata stripped): `python tools/export_book1_docx.py` → writes under `exports/`. Only `exports/Ides_Book1_FULL_Ch01-34.docx` is tracked; it is stamped with its manuscript commit and source digest. `python tools/export_book1_docx.py --check` verifies it against the manuscript (also run in CI). See [`writing/FINAL_READINESS_GATE.md`](writing/FINAL_READINESS_GATE.md).

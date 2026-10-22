@@ -44,4 +44,4 @@ Book 1: 34 chapters, dinner-first opening (late-46 clemency dinner as Ch 1). End
 | 34 | `book1/ch34_philippi_ii_and_hooks.md` |
 
 Scene-card map: [`../writing/CHAPTER_MAP.md`](../writing/CHAPTER_MAP.md).  
-Export: `python tools/export_book1_docx.py`.
+Export: `python tools/export_book1_docx.py` (then `--check`; commit the regenerated full DOCX with any manuscript change).
