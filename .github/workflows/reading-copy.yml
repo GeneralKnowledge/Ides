@@ -1,0 +1,26 @@
+name: Reading copy integrity
+
+on:
+  pull_request:
+    paths:
+      - "drafts/book1/**"
+      - "tools/export_book1_docx.py"
+      - "exports/Ides_Book1_FULL_Ch01-34.docx"
+      - ".github/workflows/reading-copy.yml"
+  push:
+    branches: [main]
+    paths:
+      - "drafts/book1/**"
+      - "tools/export_book1_docx.py"
+      - "exports/Ides_Book1_FULL_Ch01-34.docx"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install python-docx==1.2.0
+      - run: python tools/export_book1_docx.py --check

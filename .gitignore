@@ -3,7 +3,8 @@
 Thumbs.db
 
 # Generated reading exports (tool writes here). Only the full Book 1 docx is tracked:
-# regenerate with tools/export_book1_docx.py on main and commit with `git add -f`.
+# regenerate with tools/export_book1_docx.py and commit with `git add -f` in the same PR as
+# any manuscript change; `--check` verifies it.
 exports/
 *.docx
 

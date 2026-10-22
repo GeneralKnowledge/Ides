@@ -6,6 +6,8 @@
 
 Read this file before drafting. Obey it over improvisation.
 
+**Revising a landed chapter rather than drafting?** §12 (historical verification and change-impact review) is mandatory for any substantive edit, alongside the evidence and stopping rules in `HUMAN_VOICE_RULES.md`. Release readiness is decided by `FINAL_READINESS_GATE.md`.
+
 **Lock tiers:** Not every entry in `canon.md` is the same kind of lock. Prefer [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md): historical invariant · narrative invariant · continuity commitment · structural preference · editorial guardrail. Preserve what must remain true; prefer freedom over *how* the story makes it true. Protection ≠ immunity.
 
 ---
@@ -163,3 +165,38 @@ Info enter → exit: …
 4. Leave a `// TODO_EDITOR:` comment rather than inventing a new historical fact  
 
 If you invent a minor D-detail (servant name, exact dinner dish), keep it consistent and list it under Continuity notes for later canon logging.
+
+---
+
+## 12. Revising landed chapters (mandatory for substantive edits)
+
+A **substantive edit** changes a fact, a date or sequence, who knows what, a relationship, an object, a promise or debt, or what a line of dialogue means. Typo, punctuation and pure rhythm fixes are not substantive. Every substantive edit must pass both checks below and the evidence-before-edit rule in `HUMAN_VOICE_RULES.md` §1.
+
+### 12a. Historical and chronological verification
+
+Any historical claim that could materially mislead a reader is checked against a reliable source: an ancient text (Cicero’s letters, Appian, Plutarch, Suetonius, Dio, Nicolaus) or standard modern scholarship. Another project document is a pointer, not a source. A disputed fact does not become certain because several project files repeat it.
+
+Take particular care with:
+
+- dates, travel times, offices held, and the order in which news arrives;
+- who could know what, and when;
+- quotations, Latin, names, titles and terminology;
+- the line between documented fact, disputed evidence and invented private behaviour.
+
+Record the source and an A/B/C/D certainty label (`docs/README.md`) in `research/citation_verification.md` or the relevant research file.
+
+**Acceptance:** no unresolved high-impact factual error; lower-impact uncertainty is recorded, not silently treated as fact.
+
+### 12b. Change-impact review
+
+A chapter is not approved in isolation when the change reaches other chapters. Trace the dependencies of *this* change and verify those; do not rerun every continuity audit.
+
+- Does each character know what the scene now assumes they know?
+- Do travel, orders, letters and rumours still arrive in the right sequence?
+- Do injuries, objects, promises, debts and relationships persist correctly before and after?
+- Do later scenes that rely on the passage still make sense?
+- Has an ambiguity or mystery (§8) been resolved by accident?
+
+Note the dependents you checked in the PR or pass log. If a continuity commitment in `canon.md` moves, update the log and its dependents in the same change.
+
+**Acceptance:** the revision introduces no broken causal chain and no unexplained change in knowledge, chronology or established fact.
