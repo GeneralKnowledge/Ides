@@ -21,7 +21,19 @@ On the desk lay two drafts: one that named Antony a public enemy in music, and o
 
 Ink stained his fingers the colour of old wine. He felt the old consulship heat return. Heat was better than Lanuvium’s polite despair. Heat made sentences arrive before caution could edit them into safety.
 
-A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “Veterans in the streets,” the friend said carefully. “They drink Antony’s name with their pay. Your periods will not outrun a javelin if you make yourself the loudest man in Rome.”
+A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.”
+
+“He spoke to my empty chair,” Cicero said. “I will answer from his. In every house in Rome that can read.”
+
+The friend lifted the top draft off the desk and weighed it like a brick. “And what do you call this, when the copyists ask?”
+
+“Demosthenes had Philip of Macedon at the gates and talked Athens into fighting him. Philippics, he called them.” Cicero took the sheet back. “Let Antony be my Philip. The copyists may have the title for nothing.” He had meant it as a joke in the spring, at a quieter desk, before March. He liked it too much now to keep it one.
+
+The friend did not laugh. “Athens lost, as I remember. And Demosthenes ended drinking poison in a temple with the Macedonians at the door.”
+
+“Athens listened late,” Cicero said. “I intend to be early.”
+
+“Veterans in the streets,” the friend said. “They drink Antony’s name with their pay. Your periods will not outrun a javelin if you make yourself the loudest man in Rome.”
 
 “The Republic still has a voice,” Cicero said.
 
@@ -65,11 +77,11 @@ Brutus watched Italy shrink. A gull argued with another gull over a scrap that l
 
 Cassius did not smile. “We leave so we can afford war if war is honest enough to come, not so we can become the cause of one we cannot pay.”
 
-Crewmen cared about wind and the next meal. One asked if they were fleeing. Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
+Crewmen cared about wind and the next meal. One asked whether it was true they were bound for Athens, and whether Athens counted as fleeing. “Athens,” Brutus said. “Men still read there. Someone ought to.” Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. He already saw Asia’s taxes rearranging themselves, those fat coast cities across the Aegean that had paid Pompey, then Caesar, and would pay whoever arrived next with ships: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
 
 The mate did not let the snort die alone. He spat over the rail, careful of wind, and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned. The other looked at Brutus’s courtesy like a second religion. Cassius heard the mate’s verdict as witness, not mutiny. *Collecting* now had deck mouths attached. Not only a factor’s smile.
 
-A factor from the quay came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
+A factor from the quay, a Greek who bought and sold for three of those cities, came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
 
 Brutus touched a rail. Salt crusted under his nails. “If we become what we killed…”
 
@@ -100,4 +112,5 @@ They sailed. Behind them, Cicero’s sentences chased Antony through Rome, marke
 - Deck refusal + factor corridor bite; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.
 - **Tissue:** Brutus gull-lawsuit twitch + crewman snort on “collecting” (humour ON, non-F4).
 - **Expansion D10:** Mate + coil-boys witness “collecting” as eat-vs-philosophy, deck social beyond factor.
+- **Reader-earn (Ch 25):** Philippics paid in a mouth: friend’s question at the desk → Demosthenes vs Philip of Macedon, Antony as Cicero’s Philip (pays Ch 11 Demosthenes-voice plant and Ch 5 Apollodorus lesson); Antony’s Senate attack on Cicero’s empty chair (archers, Ides blame) → why copies, not a speech; friend’s Demosthenes-poison jab (Ch 31 shadow, no wink); crewman’s Athens question (Brutus bound for Athens); Asia = coast cities across the Aegean that paid Pompey then Caesar (Cassius’ ledger stake); factor = Greek agent for three of them. Corn commissions (Ch 24), Macedonia/Syria (Ch 20), *young Caesar* (Ch 22), Liberators / Lanuvium not re-glossed.
 - **Human-voice (Ch 25):** one feel-pass — sanded adjective / carpentry / scar smear / knife-scar applause / collecting mouths / Brutus numbers / Cassius delay / libertas cost breaths; hold Philippics return, EXIT-1, deck refuse.
