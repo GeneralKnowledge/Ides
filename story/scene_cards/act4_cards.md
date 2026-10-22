@@ -124,7 +124,7 @@ Aftermath Apr 44 → early 43. Info labels: Public / Elite / Faction / Private /
 - **Ties:** A10  
 - **Flex:** First failed parley  
 
-### SC-74 · B74 · POV: CIC / OCT · Senate’s sword
+### SC-74 · B74 · POV: OCT · Senate’s sword
 - **Loc:** Rome Senate  
 - **Enter:** Fear of Antony  
 - **Exit:** Octavian instrumentalised — tragic misread  

@@ -10,7 +10,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | SIDE-1 Antonian cash agent | **C. Septimius Bucco** | F4, ANT orbit | Bribe courier |
 | Domus Publica door-keeper | **Phileros** | F1 | NOTE-1 delay |
 | Nysa’s Subura contact | **Medullina** | F1 | Rumour swap |
-| F2’s clerk via F4 | **Sosia** | F2/F4 | Impatient collector |
+| Hordeonius’s collector | **Sosia** | F2/F4 | Impatient collector (he) |
 | Trebonius’ attendant | **Glaucia** | ANT delay | Misreads shouts |
 | F3’s optio | **Vibius** | F3 | |
 | Servilia’s steward (Antium) | **Hilarus** | SC-68a | Soft-power room |
@@ -27,7 +27,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | OCT’s early attendant in Campania | **Apollodorus** | OCT | Not Agrippa |
 | Eastern optional face | **Amyntas son of Menodotus** | F5 / SC-87 | Optional POV |
 | Proscription denouncer (slave) | **Festus** | SC-85 | Betrays master for freedom rumour |
-| Hirtius’ secretary | **Sphaerus** | CIC orbit 44 | Letter bridge |
+| Hirtius’ secretary | **Sphaerus** | CIC orbit 44 | Letter bridge (carries Hirtius’s notes to Cicero; never Cicero’s own man; Cicero’s is Tiro) |
 | Crowd leader at funeral (D) | **Quintus the fuller** | SC-50 / Ch 19 | Not “the people” abstraction |
 | Cleopatra court factotum | **Ammonius** (or stand-in) | CLEO / Ch 20, 26 | Useful irritant; books/Cicero gossip |
 | Kitchen omen gossip | **Dama** | F1 / Ch 14 | Chickens sullen (wired) |

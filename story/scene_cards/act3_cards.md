@@ -122,7 +122,7 @@
 - **Ties:** Hour map · A8  
 - **Flex:** Which courier; false details in first report  
 
-### SC-54b · NOTE-1 payoff · POV: mixed
+### SC-54b · NOTE-1 payoff · POV: Decimus (landed in Ch 15, SC-42 route)
 - **Loc:** Litter route / Curia approach (retrospective insert OK beside SC-41–43)
 - **Enter:** Artemidorus-tradition note pressed on Caesar  
 - **Exit:** Unread among other papers  

@@ -39,7 +39,7 @@
 | Ides = 15 March; Spurinna (haruspex); Sibylline “only a king” | Ch 11 Kitchen + Only a King |
 | Capys tablet (Balbus vouches) | Ch 11 Kitchen (earlier prodigy; replaces premature king-bird) |
 | King-bird / wren in Pompey’s hall | Ch 15 Sour Birds (Ides-morning only) |
-| Philippics word (private joke plant) | Ch 11 Cicero desk (pay Ch 25) |
+| Philippics word (Demosthenes lesson plant) | Ch 5 Apollonia Demosthenes lesson (pay Ch 25) |
 | Pediment / tablinum / pontifex office-house | Ch 12 Calpurnia dread |
 | NOTE-1 spare/stay fragment (incomplete) | Ch 12 Nysa corridor |
 | Tillius Cimber = brother exile / petition / toga-tug signal | Ch 13 GO roster |
@@ -120,7 +120,7 @@ Killers pardoned **and** Caesar’s acts stand, stated plain in Cicero brokerage
 | King-bird / wren | **Paid in Ch 15** (Ides morning); do not plant earlier |
 | *Dictator perpetuo* | **Paid in Ch 6**; do not re-gloss |
 | Pharsalus / Munda | **Paid in Ch 4** (Munda scenic + Pharsalus spare scrap); do not re-gloss |
-| Philippics | **Paid in Ch 25** (friend’s title question; Demosthenes / Philip; pays Ch 11 plant); do not re-gloss |
+| Philippics | **Paid in Ch 25** (friend’s title question; Demosthenes / Philip; pays Ch 5 Demosthenes plant); do not re-gloss |
 | Wrong Cinna | **Paid in Ch 19**; Helvius poet ≠ Cornelius praetor (brother-in-law); do not re-gloss |
 
 ---

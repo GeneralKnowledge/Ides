@@ -1,6 +1,6 @@
 # Chapter 20: Smoke and Distance
 
-**M5 polish** · SC-52, SC-53, SC-54 (+ SC-54b echo)
+**M5 polish** · SC-52, SC-53, SC-54
 **Canon:** EXIT-1 seed · CLEO-1 · A8 · SERIES hooks only
 **Dates:** late March 44 → days after Ides (OCT track delayed)
 **Human-voice:** Ch 20 expanded; Cisalpine/Plancus/Mutina + EXIT-1 east densify; CLEO Venus/Caesarion; Maecenas present-tense; trough held.
@@ -181,7 +181,7 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 - Octavian scared/learning/cold seed, not Augustus.
 - Agrippa foreshadow light; Maecenas present densify (no future-friend wink).
 - Smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).
-- **Gravity:** unfinished questions collide across cameras (Decimus gate / Cleo who-finishes-story / OCT name+gardens); NOTE-1 dual folded into OCT breath (no separate stamp collage).
+- **Gravity:** unfinished questions collide across cameras (Decimus gate / Cleo who-finishes-story / OCT name+gardens); NOTE-1 beat lives in Ch 15 only (no OCT echo).
 - **Anti-formula:** Three-census labels + “filed the exit-complaint” strip; timing / sandals / names-first centres held.
 
 ---
@@ -191,6 +191,6 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 ## Act 3 exit info state (card)
 Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capital · OCT elsewhere · SIDE-1 unsolved.
 
-**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 dual stamp holds (now inside SC-54).
+**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 beat moved to Ch 15 (SC-54b); none in SC-54.
 **M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.
 - **Human-voice (Ch 20 expanded):** densify Cisalpine Antony-hunger / Macedonia-Syria EXIT-1 / Plancus / Mutina Via Aemilia / Caesarion / Ammonius / Venus Genetrix / Maecenas present; cut “for a week”; cut Maecenas future-friend wink; hold EXIT-1, CLEO-1, OCT delayed, Plancus *yet*; no modern weekdays.

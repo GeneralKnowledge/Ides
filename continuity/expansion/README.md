@@ -22,7 +22,7 @@
 
 1. **Architecture before dump.** Act summaries + subplot tracks + deposit map exist before *large new* prose dumps. Line fixes and INTEGRATE revisions of landed deposits do not require a new architecture pass.  
 2. **Want/cost first.** New scenes change someone’s next choice. No padding to hit LEN-1.  
-3. **Story-first craft laws still bind** ([`../story_first_intrigue_plan.md`](../../archive/plans/story_first_intrigue_plan.md)): rooms, corridor truth, callbacks, humour, play, gravity — **no** `Three…` census / warehouse kit / craft “exit-complaint” stage-direction.  
+3. **Story-first craft, current form.** Rooms, callbacks, humour, play and gravity still matter. **Corridor truth only at high stakes, and only within the POV’s hearing:** no exit-complaint after every polite scene, no off-POV corner coda the viewpoint character cannot hear. The archived [`story_first_intrigue_plan.md`](../../archive/plans/story_first_intrigue_plan.md) is history, not law; where it conflicts with [`HUMAN_VOICE_RULES.md`](../../writing/HUMAN_VOICE_RULES.md) the voice rules win. **No** `Three…` census / warehouse kit / planning vocabulary (“unfinished question”, “rooms”, “mosaic”) in prose.  
 4. **Subplots intersect Engines A/B** — they do not become a third mystery.  
 5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.  
 6. **Three novelist questions before any new beat.** What should the reader feel/wonder/understand? What human decision produces it? Why can’t existing prose do it? If any answer fails → **leave the manuscript alone.**
@@ -49,7 +49,7 @@ Actium as Book 1 content · SIDE-1 solution-as-Ides-cause · romance-for-spice �
 |--------|------|
 | **LEN-1** (canon soft: 90–130k) | Aspirational scale if *story* needs rooms — **not** a completion gate |
 | Intermediate ~55–70k | Former first-wave landing band — **not** a quota |
-| Current ~50.7k | Post-deposit baseline |
+| Current ~56k prose | Post-deposit baseline (Book 1 Ch 1–34, Oct 2026) |
 
 **Length does not dictate content.** Story-completion for the *expansion phase* is the stopping rule below — not proximity to either band.
 
