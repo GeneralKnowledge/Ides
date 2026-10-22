@@ -20,9 +20,11 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 6 | SC-12, SC-14 (SC-13 folded into F4) | CIC, F4 | Dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
 
+*SIDE-1 body (Ch 10) is early Feb 44, before the Lupercalia: Act 2 is grouped by network, not strict date.*
+
 ---
 
-## ACT 2 — The Network (post-Lupercalia – 14 Mar 44)
+## ACT 2 — The Network (early Feb – 14 Mar 44)
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
@@ -40,12 +42,12 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 15 | SC-40, SC-41, SC-42 | CAL/CAE, DEC, ANT | Morning omens; persuasion; Antony delayed |
+| 15 | SC-40, SC-41, SC-42 (+ SC-54b) | CAL/CAE, DEC, ANT | Morning omens; persuasion; Antony delayed; NOTE-1 unread on route |
 | 16 | SC-43, SC-44 | CAS/BRU, F1 | **Murder**; false Antony-dead rumour |
 | 17 | SC-45, SC-46, SC-47 | BRU, ANT/LEP, CIC | Capitol; no massacre; amnesty |
 | 18 | SC-48, SC-49 | F4, ANT/F1 | Markets; **will** |
 | 19 | SC-50, SC-51 | ANT/F1/F3, F1 | **Funeral riot**; **Cinna** |
-| 20 | SC-52, SC-53, SC-54, SC-54b | DEC/BRU, CLEO, OCT | Collapse; exit; delayed OCT; unread note beat |
+| 20 | SC-52, SC-53, SC-54 | DEC/BRU, CLEO, OCT | Collapse; exit; delayed OCT |
 
 ---
 
@@ -59,7 +61,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68b, SC-69 | CIC, CAS/BRU | Philippics; East departure |
 | 26 | SC-70 (+ CLEO-1/FS11 folded) | DEC | Cisalpine; Cleo/Sextus as rumour-margin only |
-| 27 | SC-73, SC-74 | ANT/DEC, CIC/OCT | Mutina begins; Senate’s sword |
+| 27 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
 
 ---
 
@@ -69,7 +71,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 |----|-------------|--------------|--------------|
 | 28 | SC-80, SC-81 | F3, rumour | Mutina battles; poison rumour only |
 | 29 | SC-82, SC-83 | DEC, OCT | Isolation; consulship |
-| 30 | SC-84, SC-85 | ANT/OCT/LEP, F2/F4/F1 | Triumvirate; **proscriptions** |
+| 30 | SC-84, SC-85 | OCT, F2/F4/F1 | Triumvirate; **proscriptions** |
 | 31 | SC-86 | CIC | **Cicero death** |
 | 32 | SC-87, SC-88 | CAS, BRU | Extraction; liberty brand crack |
 | 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |

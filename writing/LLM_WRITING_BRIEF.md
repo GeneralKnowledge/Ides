@@ -65,7 +65,7 @@ A usable first pass that:
 **Specials:** Caesar (sparse, Acts 1–2 only), Calpurnia, Servilia, Fulvia, Cleopatra.
 
 - Close third person limited **or** first person — pick one per book and stay consistent (**VOICE-1 default below**).  
-- Only one POV per scene.  
+- Only one POV per scene. A scene card may split into sub-headed POV movements (e.g. *Antony / Decimus*), each a clean single POV with a visible break; no head-hopping inside a movement.  
 - POV only knows their information state (see scene card Enter/Exit).  
 - Filter sensory world through status (senator ≠ freedwoman ≠ centurion).
 

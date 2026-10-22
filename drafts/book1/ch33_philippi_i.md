@@ -47,7 +47,7 @@ Pay would come later, if later existed: farms promised by dead men and living bo
 
 POV: Cassius · his hill/camp · M18 information kills
 Date / place: 3 Oct 42 · Cassius’s hill, few witnesses
-Canon refs: M18 · A6
+Canon refs: M18 · A14
 Info ENTER: Incomplete report · EXIT: Suicide on false belief
 Overhear risk: Few
 
@@ -83,7 +83,7 @@ He didn't speechify liberty. He didn't correct the map. He treated the incomplet
 - Cassius dead on bad INF (M18); fog held; no casualty tables; Laberius eagle as local fact.
 - Italy F4 / OPEN-0 not a Philippi-day postcard, echo only under Antony’s order breath (SIDE-1b stays OPEN-0 elsewhere).
 - Battle day: two cameras (Antony/Laberius field + Cassius hill).
-- MUST_EXPRESS: F12, A6. Next: Ch 34.
+- MUST_EXPRESS: F12, A14. Next: Ch 34.
 **Act5 ordeal:** SC-89 folded; SC-91 ops body + hesitation before steel; incomplete INF hurts on the page.
 **1G:** Laberius opener differed from Mutina (P2-a).
 - **Law-sweep:** Battle/INF death, humour OFF; Antony/Laberius field ≥3; Cassius incomplete-report ordeal; OPEN-0 echo only; Mutina mud echo in Laberius body; two cameras (not postcard mosaic).

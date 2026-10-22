@@ -36,7 +36,7 @@ Civil war 43 → Philippi 42.
 - **Ties:** A12 prep  
 - **Flex:** Still learning ruthlessness — not serene  
 
-### SC-84 · B84 · POV: ANT / OCT / LEP · Bononia bargain
+### SC-84 · B84 · POV: OCT · Bononia bargain
 - **Loc:** Bononia / bridge island traditions  
 - **Enter:** Mutual need  
 - **Exit:** Triumvirate terms; victim lists begun  
