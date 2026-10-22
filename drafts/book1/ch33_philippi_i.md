@@ -19,9 +19,11 @@ Overhear risk: Dust/noise
 
 Antony liked the plain’s honesty: kill or be rearranged. Marshes and hills broke sightlines; he liked that too, when it broke the other man’s map.
 
+They had sat down on two hills astride the road west, Brutus on the northern one, Cassius on the southern above the marsh, with the sea behind them bringing grain every morning. Antony had the plain and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
+
 He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Do not chase the pretty gap. Fill it. Timing, not poetry.” The tribune’s mouth opened on a question; Antony was already past him. Omens were for the tents. On the field he trusted weight and the sound of men who still obeyed.
 
-Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’ name from a direction that might have been victory or panic. Antony didn't pause to translate the shout. Translation was for after the counting, if counting still had owners.
+Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’ name from a direction that might have been victory or panic. Antony didn't pause to translate the shout. Another came down the line from the north, carried by a rider with no helmet: Brutus’s men were in the boy’s camp, cutting up the tents. The boy had a fever and Agrippa. Let them keep their own camp. Translation was for after the counting, if counting still had owners.
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
 
@@ -71,7 +73,7 @@ He almost waited. Waiting was the mathematician’s virtue. Waiting here meant l
 
 The softer thing lost.
 
-He dismissed the messengers with a bow that meant *done*. Alone enough, alone with two men whose faces already disagreed about everything except the steel, he made the end himself rather than wait for the plain to invent a worse one.
+He dismissed the messengers with a bow that meant *done*. Alone enough, alone with two men whose faces already disagreed about everything except the steel, he called Pindarus over. He had kept the freedman at his elbow since Carrhae, since the desert where he had watched what the Parthians did with Crassus’s head, for this one errand. Pindarus held the blade where Cassius set it. Cassius made the end himself rather than wait for the plain to invent a worse one.
 
 He didn't speechify liberty. He didn't correct the map. He treated the incomplete report as closed by belief. He closed the account the only way left.
 
@@ -89,3 +91,4 @@ On another part of the field messengers were still lying in good faith. Cassius 
 - **Law-sweep:** Battle/INF death, humour OFF; Antony/Laberius field ≥3; Cassius incomplete-report ordeal; OPEN-0 echo only; Mutina mud echo in Laberius body; two cameras (not postcard mosaic).
 - **Human-voice:** flattened Antony/Laberius/Cassius parens; cut “Ops body” / “enough geometry” / “ledger closed” craft wrappers; map-fog *as if* flattened; INF death + Philippi compression held, not expanded.
 - **Human-voice (Ch 33):** one light Philippi feel-pass — Italy echo / signal colon / *lost* sketch / both breaths / account close; hold INF death, eagle staff, fog, humour OFF. Not a polish war.
+- **Reader-earn (Ch 33):** Antony’s stake in the ground: Liberators on two hills astride the road west (Brutus north, Cassius south above the marsh, sea-fed) vs his plain and short bread → ten nights of causeway through the reeds, seen this morning; north shout that Brutus’s men are in the boy’s camp (Antony shrugs it to Agrippa; Cassius’s hill never hears it, M18 fog held for him); Pindarus = freedman kept since Carrhae for this errand (Crassus’s head), holds the blade where Cassius sets it. No casualty tables; INF death and Laberius eagle held.
