@@ -1,7 +1,73 @@
 # Chapter 25: Philippics and Ships
 
-**Phase 1D.3** · SC-69, SC-68b (chrono: late Aug, then autumn) · Aug–autumn 44 · EXIT-1 · Chain 6 / 8 seed
+**Phase 1D.3** · SC-68c, SC-69, SC-68b (chrono: late July, late Aug, then autumn) · July–autumn 44 · EXIT-1 · Chain 6 / 8 seed
 **Human-voice:** Ch 25 feel-pass (rules); Philippics scar / Brutus deck refuse / EXIT-1 held.
+
+---
+
+# SC-68c: The Hair of the Star
+
+POV: F1 Nysa · Rome · Canon: T9 · `writing/reference/octavian_games_comet.md`
+Date / place: Late July 44 · Antony’s Carinae house; the games for Caesar’s Victory; the street home
+Canon refs: Pliny *NH* 2.93–94 · Suet. *Aug.* 10 · *Att.* 15.2 (Matius) · App. *BC* 3.28
+Info ENTER: Nysa three months in Antony’s kitchen · EXIT: Golden chair kept out; the star seen, meaning left open; Nysa gives the steward a small number and Fulvia’s woman the true one
+Overhear risk: Household / crowd
+
+---
+
+The steward of the Carinae house wanted numbers, and he wanted them small.
+
+“You count,” he told Nysa on the morning the boy’s games opened, as if counting were a dish she had brought over from the Domus with her bundle. “Calpurnia’s people say you count doors. Count heads. How many shout when his name is called. How many for the dead man. How many for the horses. The consul is not going. The consul will ask me at dinner, and I will not be the man who tells him *a great many*.”
+
+Three months in that house had taught her its bow and most of its noise. Fulvia’s women counted silver at dawn and nobody in the kitchen pretended to grieve for anyone. Antony came in from the baths shouting for wine and the whole house turned toward the shout the way a field turns toward weather. She had stopped flinching at it in the first month. In the second she had learned which cupboard the steward watered the good wine in.
+
+He gave her a cloak with no colour in it and a kitchen boy to hold her place on the benches, and she went.
+
+At the entrance Matius’s men were handing out the edict on boards: games for the Victory of Caesar, given by Gaius Caesar his son. A fuller beside her read it aloud for those who could not, and stopped at *son* to see whether anyone would argue. Nobody did. “Matius pays,” someone said behind her. “Caesar’s old friend. The boy hasn’t the money; he sold his farms for the legacy.” “Then who’s paying for the beasts?” “Caesar’s friends. Same as always.”
+
+Nysa found the boy’s seats before she found the boy. They were the seats with the space beside them.
+
+A procession came along the track before the first race with Caesar’s gilded chair in it, the one the Senate had voted him, carried shoulder-high under a gold crown. The bearers took short steps under it. Gilt or not, it was heavy, and they carried it like a thing that might still be sat in. They brought it as far as the boy’s row, and three men in good cloaks stepped into the aisle in front of them. One of the three was a tribune; she knew it by the way the others let him speak. He did not raise his voice. The bearers looked toward the boy. The boy did not move.
+
+The chair went back under its cloth, and the crown with it.
+
+The noise that came off the benches then was not a cheer. It came from low in the crowd, from the cheap rows, and it went on after the chair had gone. Nysa began to count it. Rows, then tens in a row, then the rows behind that she could see from her place, the way she had counted guests at the Domus when Calpurnia wanted to know whether the bread would last. By the time the first chariots came round she had a number. She did not like it, and so she counted again.
+
+The boy himself she saw only as a shape: pale, very still, in the place where his father would have sat, with a man beside him who stood when the boy did not. When the herald called *Gaius Caesar*, the cheap rows stood. The good rows looked at one another first and then some of them stood.
+
+On the fourth day, an hour before sunset, the star came.
+
+She was on the street outside, buying a cup of water for the kitchen boy, when the people around her stopped talking and turned north. Low over the roofs there was a star where no star should be at that hour, bright, with a tail of light behind it like hair blown back from a running face. A veteran with one ear beside the water-seller put his cup down. “He watches,” he said, not loud.
+
+“It’s his soul,” a woman said. “Going up. They burned him and he’s going up.”
+
+“Comets mean kings die,” said a Greek with a basket of figs. “Ask anyone in Alexandria.”
+
+“It means weather,” said the water-seller, who wanted his cup back.
+
+Someone further along was explaining it to a crowd, and Nysa heard, “They say the hair of the star means…” and then a cheer went up from inside the walls and drowned the rest. She never learned what the hair meant. She thought about it afterward, scrubbing pans, and decided she had been better off without the end of the sentence.
+
+It came back every evening for seven evenings, at the same hour, in the same part of the sky. By the third evening the boy’s people had a song about it. By the fifth the song had a verse about the chair.
+
+At the end of the games the steward found her in the scullery. “Well?”
+
+She thought of the number she had counted twice. She thought of his face when he said *a great many*. She thought of the Domus, where the people who carried bad numbers into a room were the ones the room remembered afterwards.
+
+“Some thousands,” she said. “The cheap rows, mostly. Fewer than turned out for the fullers’ guild at a funeral. The rest shouted for the horses.”
+
+He let his breath go. “And the star?”
+
+“Weather,” she said. “The water-seller said.”
+
+That night, through the wall of the dining room, she heard the steward tell it, and heard Antony laugh. It was a big laugh, the kind he gave at dinner when the wine was good. She stood in the dark passage with a jug and listened to her own number go round the table and come back larger as a joke.
+
+Later, when the kitchen was dark, one of Fulvia’s women came down with a lamp and stood in the scullery door. She was the one who counted silver at dawn. She did not sit.
+
+“How many,” she said, “really?”
+
+Nysa looked at the lamp and not at the woman. Then she told her the true number, the one she had counted twice.
+
+The woman nodded once, as if it matched something she already had, and took the lamp back up the stair. Nysa stood in the dark kitchen a while. It was the first time anyone in that house had asked her for the true one.
 
 ---
 
@@ -115,3 +181,4 @@ He slept poorly and woke eager. Eager men wrote faster than wise ones. He notice
 - **Reader-earn (Ch 25):** Philippics paid in a mouth: friend’s question at the desk → Demosthenes vs Philip of Macedon, Antony as Cicero’s Philip (pays Ch 11 Demosthenes-voice plant and Ch 5 Apollodorus lesson); Antony’s Senate attack on Cicero’s empty chair (archers, Ides blame) → why copies, not a speech; friend’s Demosthenes-poison jab (Ch 31 shadow, no wink); crewman’s Athens question (Brutus bound for Athens); Asia = coast cities across the Aegean that paid Pompey then Caesar (Cassius’ ledger stake); factor = Greek agent for three of them. Corn commissions (Ch 24), Macedonia/Syria (Ch 20), *young Caesar* (Ch 22), Liberators / Lanuvium not re-glossed.
 - **Human-voice (Ch 25):** one feel-pass; sanded adjective / carpentry / scar smear / knife-scar applause / collecting mouths / Brutus numbers / Cassius delay / libertas cost breaths; hold Philippics return, EXIT-1, deck refuse.
 - **Rules audit (Ch 25):** EXIT-1: SC-69 dated late Aug 44, Brutus sails, Cassius sees him off and stays (follows later); flashback after SC-68b, so the Cicero-chase close cut (Philippics postdate the sailing). Cicero no longer borrows Lanuvium; spring/March joke fixed; factor line overheard in Cassius’s hearing.
+- **T9 direction change (2026-10-23, development §1a):** SC-68c Nysa POV, games for Caesar’s Victory (late July 44). Antony’s steward sends her to count; Matius’s edict boards (*Att.* 15.2); gilded chair and crown turned back by a tribune in the aisle (App. *BC* 3.28; Antony absent, his men act); the boy seen only as a still shape; star at the eleventh hour in the north, seven evenings (Pliny *NH* 2.93–94); comet meaning left open in mouths only (veteran “He watches”; soul; kings die; weather; Nysa’s half-heard “hair of the star” line, per `octavian_games_comet.md`). Nysa gives the steward a small number (Antony laughs: underestimation fed by his own kitchen) and Fulvia’s silver-counting woman the true one. Plants Fulvia as the sharp reader of the house.

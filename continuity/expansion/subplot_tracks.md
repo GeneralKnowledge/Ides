@@ -161,9 +161,11 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
-| Plant | new 25b | Pompey’s gardens (May 44): Antony refuses Caesar’s money; Octavian sells his own estates |
-| Direction change | new 25b | Victory games and comet (Jul 44), Antony blocks the golden chair; Brundisium (Oct 44), the ranks laugh at 100 denarii and Antony executes centurions; Laberius takes 500 at Casilinum |
-| Payoff | new 25b, 27 | First march on Rome fails (10 Nov 44); Martian legion and Fourth come over; Ch 27 summary replaced by what the reader has seen |
+| Plant | 22 (SC-63b) | Pompey’s gardens (May 44): Antony refuses Caesar’s money; Octavian sells his own estates. **Landed 2026-10-23.** |
+| Direction change | 25 (SC-68c), 26 (SC-70a, SC-70b) | Victory games and comet (Jul 44), Antony blocks the golden chair (Nysa); Brundisium (Oct 44), the ranks laugh at 100 denarii and Antony executes centurions; Laberius takes 500 at Casilinum. **Landed 2026-10-23.** |
+| Payoff | 26 (SC-70c), 27 | First march on Rome fails (10 Nov 44); Martian legion and Fourth come over. Ch 27 SC-74 summary kept as a callback to what the reader has now seen. **Landed 2026-10-23.** |
+
+**Placement note:** T9 went into existing chapters 22, 25 and 26 instead of a new 25b, so no chapter is renumbered while the development phase is open. Renumbering, if wanted, happens once at the end of the phase.
 
 **Intersects:** B (name / heir); T4 (Laberius’s one active choice)  
 **Sources:** Appian *BC* 3.14–48; Cicero *Phil.* 3, 5; *Att.* 16.8–15; Suetonius *Aug.* 10; Pliny *NH* 2.93–94.  

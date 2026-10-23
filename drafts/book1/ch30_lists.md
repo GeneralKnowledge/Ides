@@ -67,7 +67,7 @@ Antony poured wine that did not taste like celebration. He did not look at Octav
 # SC-85: Proscription Economy
 
 POV: F2 / F4 / F1 (triptych) · Rome
-Date / place: Dec 43 · Rome streets, Hordeonius’s stall, the Domus
+Date / place: Dec 43 · Rome streets, Hordeonius’s stall, Antony’s Carinae house
 Canon refs: A13 · Chain 7 · Festus pattern
 Info ENTER: Lists posted · EXIT: Betrayal market; confiscations
 Overhear risk: Extreme terror
@@ -94,7 +94,7 @@ Nysa saw a slave, Festus or a man using Festus’s method, sell a household with
 
 Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated, coin versus chalk. Then he rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction joined you to the wood.
 
-Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
+Phileros drank less now; fear sobered some men and ruined others. He came to the Carinae kitchen door, where Nysa had carried for Antony’s steward since the spring before last, and asked her if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
 ---
 
@@ -112,3 +112,4 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Reader-earn (Ch 30 expanded):** gap map §5 paid. Island below Bononia with Lepidus crossing first and mutual pat-down (App. *BC* 4.2 trad.); Lepidus’s chair = legions that waded to Antony (pays Ch 29); triumvir office named once in Lepidus’s mouth (tribune’s law, three men for setting the state in order, five years, consul’s power, no veto = Lex Titia) with Antony’s mint-and-jail jab and Octavian’s “minds both”; proscription teach-beat in Antony’s answer to Lepidus’s Sulla precedent (head-money from treasury, slave freed, confiscation auction pays legions; App. *BC* 4.11 trad.) before “lists” becomes weather. F-triptych not re-glossed; Festus slave-informer and Seius board now land on the taught terms.
 - **Human-voice (Ch 30):** one feel-pass; rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
 - **Rules audit (Ch 30):** SC-84 locked to Octavian POV (Antony’s joke-die and pour now seen; Formiae previews and narrator verdict cut per VOICE-1); Sosia is *he* (Ch 2–28); scene date lines added.
+- **T9/T11 continuity (2026-10-23):** Nysa serves in Antony’s house from Ch 23; F1 date line and Phileros beat moved to the Carinae kitchen door. Fuller Fulvia-house lists material waits for T11.
