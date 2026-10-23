@@ -114,7 +114,7 @@ Brutus sat under masks that judged eating.
 
 Wax faces in a row along the atrium, each taken from a dead man’s own face, each an office held. He had walked behind them at funerals, worn by hired men, and as a boy he had been made to name them in order. At dinner they only looked.
 
-The first Brutus first: drove out the last king, and put his own sons to death when they plotted to bring the king back. Then the Servilius from his mother’s side, who had killed a man for reaching after a crown. Two traditions on one wall, and both ended in blood.
+*Lucius Junius Brutus, who drove out the last king, and put his own sons to death when they plotted to bring the king back.* He could still say it in the sing-song his tutor had beaten into him. *Gaius Servilius Ahala, on my mother’s side, who killed a man for reaching after a crown.* Two traditions on one wall, and both ended in blood.
 
 Porcia’s voice stayed low. Low was harder to dodge than shouting.
 
@@ -170,7 +170,7 @@ Caesar had kept him half an hour on roads.
 
 Not glory roads. Ditch timing. Which bridge would take wagons after rain. Whether a courier could shave a day between Mutina and the city without killing the horse. Decimus had been choosing the width of Mutina’s ditches in his head since the day he heard: a walled town on the great northern road, in the Cisalpine province Caesar meant to hand him next year. Decimus answered with the bluntness Caesar liked: numbers, not compliments. Caesar laughed once at a Spanish memory Decimus had not meant as comedy. The laugh landed in Decimus’s chest. Proof he still belonged in the room where the day was decided.
 
-*Decimus Brutus, not the other one*: he had been hearing it since boyhood. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Ten years since Gaul: Caesar’s ships at Massilia, Caesar’s northern flank at a dozen rivers. Decimus had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
+*Decimus Brutus, not the other one*: he had been hearing it since boyhood. The joke in the clubs was that the family had made two Brutuses, one for philosophy and one for roads, and Caesar had taken the one who knew where the bridges were. Ten years of it: the ships he had built for Caesar against the Veneti, the fleet he had taken in against Massilia, a dozen northern rivers bridged in the rain. Decimus had stopped counting what he owed. Caesar never mentioned it either. That was how you knew it was friendship.
 
 “Come back after the afternoon clients,” Caesar said. “I want your eye on the Campus route before the games talk turns into a fight.”
 
@@ -182,9 +182,9 @@ Useful. Warm. Specific. Decimus left the inner room still tasting it. Essays had
 
 Someone laughed that Decimus was written into the will’s second line.
 
-Everyone in Rome who owned a seal had a theory about Caesar’s will. This one held that it named its heirs in order: first the blood that mattered, a great-nephew nobody had yet had cause to notice, and after him, if the boy failed, the man who knew the roads. It was a rumour with a price on it, and the laugh came from the man who sold it. He collected other men’s secrets like party favours, and he was waiting in the outer portico with nothing better to do. A second lounger stood with him: thin ring, thinner loyalty, smiling for anyone who might be Caesar’s ear.
+The laugh came from the outer portico, from a man who collected other men’s secrets like party favours and had nothing better to do that morning. Everyone in Rome who owned a seal had a theory about Caesar’s will; his had a price on it. A second lounger stood with him: thin ring, thinner loyalty, smiling for anyone who might be Caesar’s ear.
 
-“Second line,” the laugher said, soft enough to deny. “After the blood that matters. Still, imagine being ink while the queen’s boy across the river learns Latin jokes.”
+“Heirs in order,” the laugher said, soft enough to deny. “First the blood that matters, some great-nephew nobody’s had cause to notice. Then, if the boy fails, the man who knows the roads. Second line.” He let it sit. “Still, imagine being ink while the queen’s boy across the river learns Latin jokes.”
 
 The thin-ring man inclined his head. “Careful. Cleopatra’s boy has a name now. Caesarion, the Alexandrians call him: little Caesar. Two years old, and his mother keeps house in Caesar’s own gardens across the river while the whole city practises not noticing. A joke or a claim, depending who pays for dinner. Transtiberim talk travels. Some men care about the child; some about the gardens; some about whoever still gets half an hour on roads.”
 

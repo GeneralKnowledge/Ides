@@ -30,7 +30,17 @@ Lepidus wanted the law first, because Lepidus always wanted the law first. “A 
 
 Nobody laughed. Antony laid his palm on the tablet where the money should have been. Forty-odd legions wanted paying, and the colonies Caesar had promised them were still surveyor’s stakes. “Sulla did this,” Lepidus said quietly, as if the dead could be asked for a precedent.
 
-“Sulla posted names,” Antony said. “That is all a list is. Names, heads, and a sale, and the sale pays the legions.”
+“Sulla posted names,” Antony said.
+
+Lepidus had brought a secretary, because Lepidus always brought a secretary, and the man had been holding a draft since the bread came in. He read it in the voice clerks keep for inventories. “‘Whoever kills one of those named below and brings in the head shall have from the treasury twenty-five thousand denarii. A slave, ten thousand, with his freedom and his master’s citizenship. Informers the same.’”
+
+“Sulla paid half as much,” Lepidus said.
+
+“Sulla had fewer legions to pay,” Antony said. “Read the rest.”
+
+“‘The goods of the condemned to be sold at auction. Whoever hides one of them, or helps him away, shall be one of them.’”
+
+Antony laid his palm on the tablet again. “There. Names, heads, and a sale, and the sale pays the legions.”
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
@@ -76,7 +86,7 @@ Overhear risk: Extreme terror
 
 ### F2: Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the clerk’s square letters ran: *whoever brings the head… from the treasury… if a slave, his freedom…* and lower, *the goods to be sold*. A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the square letters ran down to the clause men read twice: *whoever hides one of these, or helps him away…* A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
 
 At the corner Gavius from the next block, petition-tablet man, dinner-circuit memory, stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap.
 

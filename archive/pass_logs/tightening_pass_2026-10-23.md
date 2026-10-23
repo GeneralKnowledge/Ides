@@ -25,3 +25,13 @@ In the protected chapters, only single captions were cut (14.56, the vestibule "
   - Cicero's period beat: merged at 31.7–8.
 - **Tags cut:** 5, 12, 26.78, 26.82, 26.84, 27.13, 27.20, 28.12, 29.10, 29.25, 30.22, 30.31, 31.5, 31.8, 32.22, 33.15.
 - **Left for protection:** the banker corridor (17.71–76, 18.8, 18.25) and Cicero's two dreams (17.79–80), because Ch 17–18 is gold spine. Trebonius holding Antony is a load-bearing brand (spare Antony) and is not over-told once 13.17's caption is gone.
+
+## 4. Follow-up rework (Reuben: "rework these if they don't really work… natural")
+- **Bononia (30.8):** the proscription terms are back, read aloud from Lepidus's secretary's draft and argued over. The terms follow App. *BC* 4.11: 25,000 a head; a slave 10,000 with freedom and citizenship; informers the same; goods auctioned; hiders proscribed. The Seius list (30.24) now shows only the hiding clause, which plants T11 (Gavius).
+- **Helvius (19.42):** nothing put back. 19.41 already gives the mix-up (Cornelius, the praetor who spat on Caesar's name in the Senate).
+- **4.38:** the ancestors are now the boy's recitation, not a narrator lesson.
+- **4.60:** Decimus's Gaul is now his own record: the ships against the Veneti, and Massilia.
+- **4.66–67:** the will rumour is now in the laugher's mouth.
+- **Ch 17 corridor (17.71–77, protected; repetition is the defect):** cut to one banker exchange. The side-door women and the aphorism dialogue are gone.
+- **17.79–80:** the second consul dream is cut.
+- **18.8 and 18.25:** the gardens, second-line and queen restatements are trimmed. Hordeonius's sum and the widow's steward stay.
