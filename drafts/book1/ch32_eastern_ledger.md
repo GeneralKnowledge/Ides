@@ -71,7 +71,7 @@ News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid i
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 
-Cassius, somewhere else on the same war, would call this necessity, and would, Brutus guessed, already be entering west names as debits. Brutus called it necessity too, and hated that their mouths agreed while their sleep did not. Sleep, unlike coinage, still refused to clear. In the dark he held the warm coin until it cooled, then put it away. Putting away did not stop a crack from spreading. Decimus. Lists. *EID MAR* heat. The same crack under different Latin.
+Cassius, somewhere else on the same war, would call this necessity, and would, Brutus guessed, already be entering west names as debits. Brutus called it necessity too, and hated that their mouths agreed while their sleep did not. Sleep, unlike coinage, still refused to clear. In the dark he held the warm coin until it cooled, then put it away.
 
 ---
 

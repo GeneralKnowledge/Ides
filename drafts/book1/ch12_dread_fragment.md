@@ -125,7 +125,7 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 
 In the tablinum stack sat unfinished business and the temptation to believe unfinished business was immortality. He didn’t feel a plot as a plot. He felt the city’s nerves. Cities got nerves before campaigns. He’d lived through nerves before.
 
-If someone had handed him a clean list of knives, he might have read it. Nobody did. Weather does not arrive as a list.
+If someone had handed him a clean list of knives, he might have read it. Nobody did.
 
 ---
 

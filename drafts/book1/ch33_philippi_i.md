@@ -59,7 +59,7 @@ Dust made the man’s tongue thick; fear made it thicker. He had lost a sandal s
 
 “Say it again,” Cassius said. “Slower. Names. Directions. Which standard.”
 
-The messenger tried. Names arrived missing: a century mark without a cognomen, a hill that might have been the left ditch. Directions softened into gestures at dust. A standard might have fallen or only dipped. Cassius made him point at the wax sketch of the sector. The finger landed between two lines and stayed there, trembling. The map itself had fog.
+The messenger tried. Names arrived missing: a century mark without a cognomen, a hill that might have been the left ditch. Directions softened into gestures at dust. A standard might have fallen or only dipped. Cassius made him point at the wax sketch of the sector. The finger landed between two lines and stayed there, trembling.
 
 Cassius sent a runner down the reverse slope for a second count: cohort numbers, eagle sightings, anything with a body attached. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. Do the next countable thing while the uncountable arrives.
 

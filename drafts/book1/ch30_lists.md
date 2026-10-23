@@ -58,7 +58,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 “The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving.
 
-They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
+They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed.
 
 Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
@@ -94,7 +94,7 @@ Nysa saw a slave, Festus or a man using Festus’s method, sell a household with
 
 Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated, coin versus chalk. Then he rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction joined you to the wood.
 
-Phileros drank less now; fear sobered some men and ruined others. He came to the Carinae kitchen door, where Nysa had carried for Antony’s steward since the spring before last, and asked her if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
+Phileros drank less now; fear sobered some men and ruined others. He came to the Carinae kitchen door, where Nysa had carried for Antony’s steward since the spring before last, and asked her if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
 ---
 

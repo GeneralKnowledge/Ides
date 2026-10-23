@@ -19,7 +19,7 @@ Overhear risk: Camp
 
 Brutus pressed two fingers under his ribs where the reports had lodged and found no relief there.
 
-He had the versions in incompatible shapes. Cassius broken. Cassius mistaken. Cassius ended by his own hand on a lie the plain told. Brutus kept all three without choosing. What they shared was enough: Cassius was gone. The weight of that sat in the body first, breath short, ribs tight, the old courtesy habit wanting a sentence that would arrange grief into something useful. He had no sentence. He had a line that still needed bodies.
+He had the versions in incompatible shapes. Cassius broken. Cassius mistaken. Cassius ended by his own hand on a lie the plain told. It did not matter which. What they shared was enough: Cassius was gone. The weight of that sat in the body first, breath short, ribs tight, the old courtesy habit wanting a sentence that would arrange grief into something useful. He had no sentence. He had a line that still needed bodies.
 
 Twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
 

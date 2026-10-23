@@ -207,7 +207,7 @@ That was the first true thing said. Decimus felt it land under the sternum where
 
 The envoy paused at the threshold long enough for the room to hear the complaint under the courtesy: “He will remember the refusal more than the wit.” Then he left.
 
-After the man was gone, Decimus walked the gates. Hinges took oil. Oil was easier than ideology. Ideology had not kept his street from burning in March.
+After the man was gone, Decimus walked the gates. Hinges took oil.
 
 In the yard he found the levy spokesman, an older miles with a Caesarian scar and a mouth that had learned to ask for bread without kneeling. “We heard the cloak,” the man said. “If Antony comes, do we fight men who still drink to the name we buried with?”
 
@@ -215,11 +215,11 @@ In the yard he found the levy spokesman, an older miles with a Caesarian scar an
 
 “And pay?”
 
-Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly, honest about the bottom. He ordered a partial donative for the gate cohorts, coin he’d meant to hold for spring, and watched the spokesman’s shoulders drop half an inch. Loyalty bought today might still open a gate tomorrow.
+Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly, honest about the bottom. He ordered a partial donative for the gate cohorts, coin he’d meant to hold for spring, and watched the spokesman’s shoulders drop half an inch.
 
 The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “That’s a word that tastes like next week’s apology.”
 
-Decimus almost grinned, the old cheer that had opened mornings, and stopped it before it became a performance. “Then taste it and still hold the hinge. Next week’s apology is still coin I have to find.” The spokesman barked once, short, surprised, and the yard heard it as weather, not mutiny. Decimus scheduled the rest of the pay talk for morning. He hated that mornings now had prices.
+Decimus almost grinned, the old cheer that had opened mornings, and stopped it before it became a performance. “Then taste it and still hold the hinge. Next week’s apology is still coin I have to find.” The spokesman barked once, short, surprised, and the yard heard it as weather, not mutiny. Decimus scheduled the rest of the pay talk for morning.
 
 He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply, and knew privately that praise was thinner than grain. The same week he wrote Plancus again, shorter, less perfume, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
 

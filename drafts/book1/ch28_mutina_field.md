@@ -38,7 +38,7 @@ Near dusk Antony’s near line pulled back toward the higher ground. Not a rout 
 
 Water ran into his boots. He had stopped noticing wet hours ago; noticing returned when the fighting thinned and the cold found room. Vibius pointed at Mutina’s wall, still closed. “Town’s still his,” Vibius said, meaning Decimus. Laberius grunted. Walls didn’t feed the ditch.
 
-A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it. Leaving was becoming the day’s other habit.
+A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it.
 
 He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried a friend’s boots, left boot split at the heel, still warm somehow. He knew Hirtius was dead. He knew Antony’s near shields had thinned. What Rome would buy with those two facts, he left to the gallopers. He didn’t follow their dust.
 
@@ -66,7 +66,7 @@ Hordeonius refused the sale and charged for the refusal.
 
 “Do not sell poison as fact,” he told the man, gentle as a father closing a child’s eyes. “I keep seals. Seals are not dinner cleverness. Pay for the refusal if you want a clean margin.”
 
-The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.” Past the first pillar, loud enough to carry back to the stool, he told the runner: “He’ll bill you for not gossiping and call it piety. Ask him for poison and he sells you a sermon with interest.”
+The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.”
 
 Sosia tipped his cup toward Hordeonius without drinking. “Only you could make refusing a sale sound like a temple tax.”
 

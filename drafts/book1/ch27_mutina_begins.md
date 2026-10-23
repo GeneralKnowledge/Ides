@@ -42,9 +42,9 @@ Antony’s mouth did something almost like a smile. “Then we introduce you to 
 
 They parted without clasping. The truce ended when the first boot left the ditch mud. Behind Decimus, the aide whispered, “He bluffed the grain.”
 
-“He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed, then didn’t. Laughing in a ditch after refusing winter was how men became other men’s stories.
+“He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed, then didn’t.
 
-That night a courier brought Plancus’s newest courtesy: admiration for Mutina’s hinges, regret that his own columns were “not yet free to join,” a promise dated after a thaw that had not begun. Decimus set the tablet under the same stone as Antony’s old threats. Plancus’s courtesy weighed like another empty sack. The smoke count was already short.
+That night a courier brought Plancus’s newest courtesy, dated after a thaw that had not begun. Decimus set it under the same stone as Antony’s old threats.
 
 ### Antony
 
@@ -60,7 +60,7 @@ He watched the lines tighten and wrote fewer letters that pretended optimism.
 
 “After the Kalends,” Decimus said. “Him and Pansa both. Until then we eat salt ox and count hinges.”
 
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. He checked a gate twice and didn’t tell anyone why the second check felt like apology. Below, Antony’s fires multiplied. The siege had a face now. The face that had counted his smoke.
+He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. Below, Antony’s fires multiplied.
 
 ---
 
