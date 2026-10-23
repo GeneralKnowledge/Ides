@@ -196,7 +196,7 @@ At mid-morning an envoy came anyway, cloak clean, smile practised, the sort of m
 
 “He will call it a swap,” the envoy went on, mild. “You will call it wisdom. The Senate will call it clarification, when clarification arrives.”
 
-Decimus knew the swap because it had been done to him while he was on the road. In early summer Antony had walked a law through an assembly crowded with his veterans: Cisalpine to Antony for five years, and the Macedonian legions brought home across the sea to go with him. Decimus held the province on Caesar’s grant. The Senate had never voted to take it from him. It had never voted to keep it for him either, and he had stopped waiting for that letter.
+Decimus knew the swap because it had been done to him while he was on the road, by an assembly full of Antony’s veterans. The Senate had never voted it back.
 
 Decimus heard the gap in that sentence: *when*. Clarification that might never leave the stable. “Tell him I call it mine until the Senate says otherwise, or until he brings enough men to rename facts. He can call the renaming breakfast if he likes.”
 
@@ -225,7 +225,7 @@ He wrote to Cicero with the stiff pride of a man who still believed praise from 
 
 The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on one boot and perfume still clinging to the other, Plancus’s weather made flesh. “He admires your hinges,” the man said, practising the pretty line. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *yet*, if you pressed. *Yet* is not a day on a road.” Decimus dismissed the man before admiration could invent another perfume. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
 
-The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. The whole coast from the Alps to Spain, and the chief priest’s robe on top of it. One word from him and Antony has friends at his back as well as a wall in front.”
+The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. One word from him and Antony has friends at his back as well as a wall in front.”
 
 “One word from Lepidus goes to whoever is standing nearest when he has to say it,” Decimus said. “Pray it’s us.” He did not pray. He sent the aide to count the grain.
 

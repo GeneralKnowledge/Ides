@@ -30,7 +30,7 @@ Lepidus wanted the law first, because Lepidus always wanted the law first. “A 
 
 Nobody laughed. Antony laid his palm on the tablet where the money should have been. Forty-odd legions wanted paying, and the colonies Caesar had promised them were still surveyor’s stakes. “Sulla did this,” Lepidus said quietly, as if the dead could be asked for a precedent.
 
-“Sulla posted names,” Antony said. “Any man may kill one of the men on the board and bring in the head for silver from the treasury. A slave who does it walks free. The dead man’s house and land go to auction, and the auction pays the legions. That is all a list is. Names, heads, and a sale.”
+“Sulla posted names,” Antony said. “That is all a list is. Names, heads, and a sale, and the sale pays the legions.”
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
@@ -76,7 +76,7 @@ Overhear risk: Extreme terror
 
 ### F2: Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the clerk’s square letters ran: *whoever brings the head… from the treasury… if a slave, his freedom…* and lower, *the goods to be sold*. A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
 
 At the corner Gavius from the next block, petition-tablet man, dinner-circuit memory, stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap.
 

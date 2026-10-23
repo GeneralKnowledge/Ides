@@ -20,7 +20,7 @@ Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa
 
 “Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud. Shouts. Bets. Sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
 
-He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it: the town behind the field, where Cato would not run and would not beg, sat up all night with a book, and closed his own account by hand. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
+He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
 
 “Odds, if you want them,” Sosia said, setting a tablet on the counter. Sosia had been at Hordeonius’s elbow since dawn, collecting opinions along with the coins. “Two to one the physician botched the first stitching and Cato only finished the job. Evens that he tore it open himself. Fifteen to one on the version where he accepted the pardon and was merely rude about it.”
 

@@ -153,7 +153,7 @@ The friend did not laugh. “Athens lost, as I remember. And Demosthenes ended d
 
 “Legions listen to pay. Pay listens to panic. Panic listens to me if I am loud enough.” He heard how raw that sounded and didn’t unsay it. He waved the rest of the caution away with a gesture practised on juries.
 
-Octavian, still not *Caesar* in Cicero’s private mouth, and *young Caesar* in his public one when the Curia needed a handle, could be a sword pointed at Antony. Swords didn’t need to be loved. They needed to be aimed. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he joined them like carpentry.
+Octavian could be a sword pointed at Antony. Swords didn’t need to be loved. They needed to be aimed. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he joined them like carpentry.
 
 A courier waited with copies for men who would pretend they had not asked for copies. Cicero sealed the packets with a satisfaction that felt like courage and sent them into the city’s hungry mouths.
 

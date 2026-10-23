@@ -49,7 +49,7 @@ Later Caesar found Calpurnia at the edge of the tablinum, among the records at t
 
 “It is March,” he said. “Everything is listening to something new.”
 
-She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep. Even the bed belonged to the office: the chief priest’s house, lent with the calendar and the rites, and the city hung whispers on its curtains. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
+She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep. Even the bed belonged to the office, and the city hung whispers on its curtains. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
 
 ---
 
