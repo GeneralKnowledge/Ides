@@ -19,7 +19,7 @@ Ten days before the Lupercalia, Marcus Seius Vestalis came to the baths with a g
 
 Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Markets, games, the first rung that might one day lead to praetor and consul: Seius had been told for ten years that his turn was coming. Seia Prima, his wife, had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
 
-He owed Hordeonius’s wax for the toga, for the oil, for the smile, and a man in his position did not have the leisure to be principled. He had come to the baths for the hot room and a little quiet. He had not come for this.
+He owed Hordeonius’s wax for the canvass, for the toga, for the oil, for the smile, and a man in his position did not have the leisure to be principled. He had come to the baths for the hot room and a little quiet. He had not come for this.
 
 In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Seius knew the pitch from dinners, and the story that came with it: Gaul served under Caesar, a praetorship earned, and no province at the end of it. Basilus kept the resentment the way some men keep wine.
 
