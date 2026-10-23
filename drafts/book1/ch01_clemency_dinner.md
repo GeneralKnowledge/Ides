@@ -1,6 +1,6 @@
 # Chapter 1: Soft Chain
 
-**Dinner-first opening (Option 2a)** · SC-08 · late 46 BC · Chain 1 · FS06 seed
+**Opening after the Utica prologue** (dinner-first Option 2a superseded 2026-10-23) · SC-08 · late 46 BC · Chain 1 · FS06 seed
 **D dinner:** Caesarian host room; Africa-favour climber Sextilius (not a documented appointment)
 **Expanded draft:** densified dinner + Cato scene (Tettius / Aebutius); Thapsus caption cut; aphorism gravity thinned
 
@@ -11,12 +11,14 @@
 POV: Cassius · elite dinner
 Date / place: Late 46 BC · dining room (D host), after Africa triumphs; queen newly lodged across the Tiber
 Canon refs: PERS motive · C3 · slight **D** · S2 soft (Cleopatra presence **B**)
-Info ENTER: Pardoned, watching · EXIT: Private resentment crystallises; queen/child talk as rumour
+Info ENTER: Pardoned, watching; wants a place on Caesar’s Spanish staff · EXIT: Spain goes to Sextilius; Cassius pays for his couch with “I digest”; drafts the clement-master line to Cicero; queen/child talk as rumour
 Overhear risk: Servants
 
 ---
 
 Cassius smiled with his teeth and counted who received what: commands, lands, praise.
+
+He had come for one thing. Caesar was going to Spain before the winter to finish Pompey’s sons, and the host was one of the men who drew up the names for his staff. A pardoned man who rode on the next campaign stopped being a pardoned man and became an officer again. Cassius had written to the host twice. Tonight he meant to hear the answer in the host’s voice, and he had decided on the way over that he would not ask.
 
 The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger. Not an insult. Not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
 
@@ -30,11 +32,13 @@ The host toasted Caesar’s clemency. Mercy made leftover Pompeians sound edible
 
 Cassius ate. The fish was good enough to make silence look like gratitude.
 
-A lesser guest leaned too far toward the host’s couch while the toast was still warm. “If your house still remembers my brother’s petition…” he began, loud enough for the wrong ears.
+“They say the Spanish roads are bad in winter,” Cassius said, to the fish.
 
-The host did not look at him. He looked at the wine, then at Sextilius, then past the petitioner. Sextilius’s laugh arrived a beat late and aimed at nothing. Cassius almost answered for him. He reached for bread instead.
+“Sextilius will tell us,” said the host. “He goes out with Caesar’s staff at the month’s end.” He lifted his cup toward the next couch. “To Spain, and a short war.”
 
-A servant leaned in with the jug. The petitioner swallowed the rest of his sentence with the pour. Someone talked about rain. Someone else about cousins. A mule that had thrown a clerk. Ordinary noise, the kind a table makes to cover a hole in itself.
+Sextilius lifted his own and laughed, exactly on the beat, the laugh of a man who had been told before dinner. The table drank. Cassius drank with it. He found that he had a piece of bread in his hand and did not remember taking it.
+
+So that was the answer, and it had come in the host’s voice after all, and he had not asked. A servant leaned in with the jug. Someone talked about rain. Someone else about cousins. A mule that had thrown a clerk. Ordinary noise, the kind a table makes to cover a hole in itself.
 
 Into that noise, from the foot of the couches, came a clear young voice.
 
@@ -92,19 +96,21 @@ The host’s smile did not change. He had heard. Of course he had. “We notice 
 
 “Nobody here would dream of sealing it,” said Sextilius.
 
-“Nobody here owns a seal worth the wax,” said Aebutius, and the laugh went round again.
+“Nobody here owns a seal worth the wax,” said Aebutius, and the laugh went round again. He pointed a grape at Cassius. “Our friend is an Epicurean now, did you know? Gods who take no interest in us. Pleasure in moderation. It must save a fortune on sacrifices.”
 
-The petitioner tried a smaller ask, only an introduction, a name in the right ear. The host’s shoulder was already turned toward better amusement. By the fruit course Cassius’s rib still knew the difference between the favour that shone and the one that had not.
+“It saves on gratitude,” Cassius said.
+
+That got a better laugh than he wanted. By the fruit course Sextilius had been toasted twice more for Spain, and Cassius’s rib still knew the difference between the favour that shone and the one that had not.
 
 Cassius spoke lightly, into the gap between host and Sextilius: “Some of us are forgiven into rooms like this.”
 
-Sextilius barked a laugh that wanted company. The host’s eyes narrowed a fraction. The petitioner laughed too, glad to be included in any sound, then looked sorry he had. Tettius laughed loudest, having understood none of it, which made him the only honest man at the table.
+Sextilius barked a laugh that wanted company. The host’s eyes narrowed a fraction. Tettius laughed loudest, having understood none of it, which made him the only honest man at the table.
 
 He left early and courteous: thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend.
 
 In the street Sextilius caught up, still smiling for the door-slaves.
 
-“He feeds you forgiveness and keeps the favour for men who laugh on cue,” Sextilius said the moment the threshold lamp was behind them. “I laughed. I am not proud. I am employed.”
+“He feeds you forgiveness and keeps Spain for men who laugh on cue,” Sextilius said the moment the threshold lamp was behind them. “I laughed. I am not proud. I am employed.”
 
 Cassius walked. “You laughed at the right toast.”
 
@@ -126,7 +132,13 @@ They went half a street without speaking. A lamp-boy ran past with a flame in a 
 
 “That is what I cannot work out. Cato’s or Caesar’s.”
 
-Cassius did not answer. He kept the queen talk, and the child, and Sextilius’s silence-on-land, with the names that had smiled wrong. Beneath them, unasked, went a fourth thing: a man who would not owe. He did not yet know which pocket it belonged in. Through the door-slaves’ gap, the petitioner was still smiling at nothing.
+Cassius did not answer.
+
+At home he did not go to bed. He had a lamp lit and wrote to Cicero, because Cicero would enjoy the dinner and could be trusted to tell no one but Atticus. He wrote about the fish, and the country cousin, and an Epicurean’s view of gratitude, and made it light. Then, without having meant to, he wrote about Spain: that if it had to be one master or another, he would rather keep the old and clement one than try a new and cruel one.
+
+He read the sentence back. It was true. It sounded like a man thanking his chain. He scraped it off the wax with the flat of the stylus, and sat a while, and wrote it again word for word, because it was still true.
+
+Then he sat with the lamp and thought about a man at Utica who had been offered the same terms, and had not written anything at all.
 
 ---
 
@@ -138,3 +150,4 @@ Cassius did not answer. He kept the queen talk, and the child, and Sextilius’s
 - Chain 1: clemency as social instrument; resentment crystallises without knives.
 - AMB-1 untouched; SIDE-1 not planted here.
 - Next: Ch 2 Hordeonius street (same season; Cato/Africa as living market weather that now has a dinner antecedent).
+- **Ch 1 rework (2026-10-23, after Utica prologue; Reuben’s go-ahead):** Cassius now wants something he can lose: a place on Caesar’s Spanish staff (Caesar left for Spain late 46). He does not ask; the host gives Spain to Sextilius in a toast. “I digest” is now his price for keeping his couch. Petitioner cut (his ignored-ask beat moved to Cassius). Aebutius teases his Epicureanism (Cassius’s conversion, cf. Cic. *Fam.* 15.16–19), “It saves on gratitude”. New close: at home Cassius drafts to Cicero the line he wrote in Jan 45, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it and writes it again; ends on Utica (pays the prologue). Whether and when it is sent is left to the letters. Tettius’s Cato question now plays as irony against the prologue; Sextilius’s physician lines pay Cleanthes.

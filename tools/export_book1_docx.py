@@ -31,6 +31,8 @@ DRAFTS = ROOT / "drafts" / "book1"
 EXPORTS = ROOT / "exports"
 FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-34.docx"
 CHAPTER_COUNT = 34
+# Optional prologue before Chapter 1, header "# Prologue: Title"; parsed as number 0.
+PROLOGUE = DRAFTS / "prologue_utica.md"
 
 ACTS = [
     (1, "Act 1: Foundations"),
@@ -130,9 +132,13 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
     m = re.match(
         rf"#\s+Chapter\s+(\d+){_TITLE_SEP}(.+)", lines[0].strip()
     )
-    if not m:
+    pm = re.match(rf"#\s+Prologue{_TITLE_SEP}(.+)", lines[0].strip())
+    if m:
+        num, title = int(m.group(1)), m.group(2).strip()
+    elif pm:
+        num, title = 0, pm.group(1).strip()
+    else:
         raise ValueError(f"Bad chapter header in {path}")
-    num, title = int(m.group(1)), m.group(2).strip()
 
     blocks: list[tuple[str, str]] = []
     i = 1
@@ -241,7 +247,7 @@ def reading_paragraphs(
     for num, title, blocks in chapters:
         if num in act_by_start:
             out.append((act_by_start[num], 18))
-        out.append((f"Chapter {num}", 14))
+        out.append(("Prologue" if num == 0 else f"Chapter {num}", 14))
         out.append((title, 0))
         for kind, text in blocks:
             out.append((text, 10 if kind == "scene" else 0))
@@ -323,6 +329,12 @@ def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, st
     for (n, p), (num, _, _) in zip(files, chapters):
         if n != num:
             raise SystemExit(f"{p.name}: filename says Ch {n}, header says Ch {num}")
+    if PROLOGUE.exists():
+        pro = parse_chapter(PROLOGUE)
+        if pro[0] != 0:
+            raise SystemExit(f"{PROLOGUE.name}: header must be '# Prologue: Title'")
+        files.insert(0, (0, PROLOGUE))
+        chapters.insert(0, pro)
     assert_reading_clean(chapters)
     return [p for _, p in files], chapters
 
@@ -439,7 +451,7 @@ def main() -> None:
         )
 
     label = (
-        "Book 1 reading export · dinner-first opening · ends at Philippi · "
+        "Book 1 reading export · Utica prologue, then Ch 1 dinner · ends at Philippi · "
         "author-voice (no em dash)"
     )
     source = stamp_line(stamp)
@@ -447,9 +459,9 @@ def main() -> None:
     full = build_doc(
         all_ch,
         subtitle="Book 1: FULL Review Draft (Chapters 1–34)",
-        banner="THIS FILE CONTAINS ALL 34 CHAPTERS · OPENS WITH CHAPTER 1",
+        banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 34 CHAPTERS · OPENS WITH THE PROLOGUE",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · chapters 1–34",
+        source_note=f"Source: {source} · prologue and chapters 1–34",
         end_line=FULL_END_LINE,
         stamp=stamp,
     )
