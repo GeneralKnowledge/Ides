@@ -3,7 +3,7 @@
 Each track accounts to the story: **dramatic promise**, **direction changes**, **Engine A/B intersect**, **payoff / deliberate open / deferred**.  
 Rule: every *new* deposit must change a next choice. Tracks that already work get **no obligatory new beats**.
 
-**Integration status (Review 2.0):** All seven tracks have plant→travel→payoff (or deliberate open) in prose.
+**Integration status (Review 2.0):** All seven original tracks have plant→travel→payoff (or deliberate open) in prose.
 
 **New tracks (2026-10-23):** New tracks may be added. The earlier ban was useful while refining existing deposits; Book 1 now needs real historical side plots so that the historical cast lives parallel lives, not only the fictional POVs. A new track gets a T-number and a table here (promise, plant, direction change, payoff, engine intersect, must-not) before its prose lands.
 
@@ -133,6 +133,107 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **End state:** Paid — extraction as lived rooms; humour OFF at brand-crack peaks.  
 **Must not:** Actium foreshadow as evidence.  
 **Integration note:** D5 payoff = refuse-to-buy courtesy on schedule (IR-1 docs + prose meta strip). Ch 26 courier = sail confirmation only (CLEO-1).
+
+---
+
+## T8 — Brutus’s prisoner (historical)
+
+**Promise:** Brutus learns what Caesar’s mercy cost by holding a spared man himself.  
+**Faces:** Brutus, Gaius Antonius, Marcus Cicero (son), Horace, Q. Hortensius · **Zones:** F9, F13  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | new 25a | Athens: lectures, Marcus Cicero and Horace recruited; Hortensius hands over Macedonia |
+| Direction change | new 25a | Apollonia (spring 43): Gaius Antonius surrenders; Brutus spares him, hears Caesar’s warmth in his own voice |
+| Travel | 32 | Gaius works on the legions; moved to a ship under guard; Cicero urges death |
+| Payoff | 32, 34 | After Cicero’s and Decimus’s deaths Brutus orders Hortensius to kill him; Antony kills Hortensius on his brother’s grave |
+
+**Intersects:** A (clemency as soft chain, Ch 1/4 reversed); B (Antonian family revenge)  
+**Sources:** Plutarch *Brutus* 24–28, *Antony* 22; Cicero *Ad Brutum*.  
+**Must not:** make Brutus a hypocrite by narration; the cost is felt, not argued.
+
+---
+
+## T9 — Octavian’s autumn (historical)
+
+**Promise:** A name becomes an army only when someone pays for it, and the first try fails.  
+**Faces:** Octavian, Agrippa, Philippus, Antony, Fulvia, Matius, Laberius · **Zones:** F7, F10  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | new 25b | Pompey’s gardens (May 44): Antony refuses Caesar’s money; Octavian sells his own estates |
+| Direction change | new 25b | Victory games and comet (Jul 44), Antony blocks the golden chair; Brundisium (Oct 44), the ranks laugh at 100 denarii and Antony executes centurions; Laberius takes 500 at Casilinum |
+| Payoff | new 25b, 27 | First march on Rome fails (10 Nov 44); Martian legion and Fourth come over; Ch 27 summary replaced by what the reader has seen |
+
+**Intersects:** B (name / heir); T4 (Laberius’s one active choice)  
+**Sources:** Appian *BC* 3.14–48; Cicero *Phil.* 3, 5; *Att.* 16.8–15; Suetonius *Aug.* 10; Pliny *NH* 2.93–94.  
+**Must not:** confirm the comet as Caesar’s soul (`writing/reference/octavian_games_comet.md`); OCT≠Augustus.
+
+---
+
+## T10 — Dolabella and Trebonius (historical)
+
+**Promise:** Caesar’s own men do to the killers what the killers did to Caesar, without the speeches.  
+**Faces:** Dolabella, Trebonius, Cicero, Tiro, Nysa, Cassius, Amyntas (F5) · **Zones:** F7, F13  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 21 | The false Marius’s altar at the pyre site; Antony executes him; Dolabella pulls down the column; Cicero’s “wonderful Dolabella” and Tullia |
+| Direction change | 24 | Trebonius leaves for Asia; last market-day talk with Cassius |
+| Payoff | new 27a, 27, 32 | Smyrna (Jan 43) through Amyntas; Dolabella declared enemy (Phil. 11); Laodicea, Dolabella’s death as a scene |
+
+**Intersects:** A (spare-Antony paid by another Caesarian); T1 (Nysa’s grief finds a place)  
+**Sources:** Cicero *Att.* 14.15–16, *Phil.* 1.5, 11; Appian *BC* 3.2–3, 3.26, 4.60–62; Dio 47.29–30.  
+**Must not:** put Trebonius in POV; torture stays offstage in detail.
+
+---
+
+## T11 — Proscription faces (historical)
+
+**Promise:** The lists have names, and families decide them.  
+**Faces:** Julia, Lucius Caesar, Antony, Fulvia, Atticus, Lepidus/Paullus, Plancus/Plotius, Hortensia; Nysa, Hordeonius, Laberius, Seius · **Zones:** F12, F14  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 23 | **Decided 2026-10-23:** Nysa takes the new bow and serves in Antony’s house |
+| Direction change | 30 | Julia shields Lucius Caesar (Nysa pours the wine); Atticus struck off by Antony for his kindness to Fulvia (Hordeonius); the brothers’ triumph song (Laberius) |
+| Payoff | 30 | **Decided 2026-10-23:** Seius hides and saves the listed neighbour; early 42 Hortensia in the Forum (Nysa) |
+
+**Intersects:** B (lists as reverse will); T2 women’s rooms (public ending); T3 (Hordeonius’s unclean acquisitions vs Atticus); T5 (Plancus’s brother closes soft-ally)  
+**Sources:** Plutarch *Antony* 20; Appian *BC* 4.12–51; Nepos *Att.* 9–12; Velleius 2.67; Valerius Maximus 6.8.5.  
+**Must not:** a census of the dead; Seius becomes brave once, not a hero.
+
+---
+
+## T12 — Cicero’s pun (historical)
+
+**Promise:** A joke in a letter outlives the man who made it.  
+**Faces:** Cicero, Tiro, Decimus, Segulius Labeo, Octavian, Agrippa · **Zones:** F2  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 28 | Cicero’s day carried to the Capitol (Apr 43); at dinner: praise, honour, *tollendum* |
+| Direction change | 29 | Decimus warns Cicero from Eporedia; Labeo tells Octavian |
+| Payoff | 30 | “Cicero stays” with the word in Octavian’s head; never stated as cause |
+
+**Sources:** Cicero *Fam.* 11.20; *Ad Brutum* 1.3.  
+**Must not:** collapse Ch 30’s cost reasoning into revenge.
+
+---
+
+## T13 — Porcia (historical)
+
+**Promise:** Brutus’s wife pays for the Ides in a currency he never counts.  
+**Faces:** Porcia, Brutus · **Zones:** F14  
+
+| Stage | Chapters | Beat |
+|-------|----------|------|
+| Plant | 13 | The thigh wound, shown after GO |
+| Direction change | 21, 25 | Lanuvium: her account of the Ides morning (false death report); Velia: Hector and Andromache painting |
+| Payoff | 32 | Cicero’s consolation reaches Brutus; manner of death left open |
+
+**Sources:** Plutarch *Brutus* 13–15, 23, 53; Cicero *Ad Brutum* 1.9.  
+**Must not:** touch the Ch 14–19 gold spine; no narrator verdict on how she died.
 
 ---
 
