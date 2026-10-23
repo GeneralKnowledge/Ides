@@ -199,7 +199,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 23 | **Decided 2026-10-23:** Nysa takes the new bow and serves in Antony’s house |
 | Direction change | 30 | Julia shields Lucius Caesar (Nysa pours the wine); Atticus struck off by Antony for his kindness to Fulvia (Hordeonius); the brothers’ triumph song (Laberius) |
-| Payoff | 30 | **Decided 2026-10-23:** Seius hides and saves the listed neighbour; early 42 Hortensia in the Forum (Nysa) |
+| Payoff | 30 | **Decided 2026-10-23:** Seius hides and saves the listed neighbour, who is **Gavius** (signed the Liberators’ petition in Ch 23); the hiding is paid for with a Hordeonius loan (collects the Ch 3 debt); early 42 Hortensia in the Forum (Nysa) |
 
 **Intersects:** B (lists as reverse will); T2 women’s rooms (public ending); T3 (Hordeonius’s unclean acquisitions vs Atticus); T5 (Plancus’s brother closes soft-ally)  
 **Sources:** Plutarch *Antony* 20; Appian *BC* 4.12–51; Nepos *Att.* 9–12; Velleius 2.67; Valerius Maximus 6.8.5.  

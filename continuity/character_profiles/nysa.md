@@ -58,4 +58,4 @@ Secret child of Caesar; omniscient spymaster; modern slang; narrated as slave/pr
 ## Consistency questions
 - Object-precision over thesis?
 - Omission as survival?
-- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
+- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. **Decided 2026-10-23 (Reuben):** Caesar freed her, so she is legally Julia Nysa and after the Ides her patron is his heir, Octavian; her *obsequium* falls on the boy while she serves in Antony’s house (pays in Ch 25 undercount and later when he returns to Rome). House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
