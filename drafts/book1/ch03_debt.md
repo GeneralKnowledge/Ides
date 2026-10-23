@@ -76,7 +76,7 @@ At the house threshold Seia Prima was already waiting with a broom she did not n
 
 “It lets in weather.”
 
-Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. She was old Seius’s eldest, born to the name she had married back into, and her father had sold Rome its grain at a loss for a whole year and still had men nodding to him in the street for it, thirty years on. She had married his nephew to have that nod in the house again. “Then we dine as if the nod were meat,” she said, and turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
+Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “My father sold this city its grain at a loss for a whole year,” she said, “and thirty years on men still nod to him in the street. I was born a Seia and married one, so that nod would stay in the house. Tonight we dine as if yours were meat.” She turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
 
 ---
 
