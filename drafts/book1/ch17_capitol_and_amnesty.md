@@ -218,6 +218,8 @@ He left the bargaining room with praise still arranged on his mouth: peace, brea
 
 “That is the entire question, young man,” said the banker. “That is why they are shopping.”
 
+By the side door the servants used, a maid from Antony’s house had stopped a clerk mid-bow. “Tell them the acts stand overnight,” she said. “Peace is for the Capitol. Paper is for the consul.” From the opposite wall an older steward, a tablet in his hand still soft with Servilia’s seal, answered without looking at her: “Then ask whose sons the paper wounds before the seal breaks.” Neither of them asked Cicero.
+
 Cicero was nearly at the corner when the banker’s voice thinned behind him: “He polishes periods while we price the corpse. Useful man.”
 
 Cicero heard enough. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.

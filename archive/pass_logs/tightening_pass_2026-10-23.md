@@ -35,3 +35,4 @@ In the protected chapters, only single captions were cut (14.56, the vestibule "
 - **Ch 17 corridor (17.71–77, protected; repetition is the defect):** cut to one banker exchange. The side-door women and the aphorism dialogue are gone.
 - **17.79–80:** the second consul dream is cut.
 - **18.8 and 18.25:** the gardens, second-line and queen restatements are trimmed. Hordeonius's sum and the widow's steward stay.
+- **Correction:** the 17.76 cut removed logged deposit D2 (T2 women's rooms) and the 18.25 trim thinned D3 (will-reading fringe). Both are restored in lean form: Antony's-house maid and Servilia's steward at the side door; steward, freedman and junior at the will reading.
