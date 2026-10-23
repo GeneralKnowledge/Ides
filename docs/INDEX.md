@@ -41,7 +41,7 @@ Active working surface only. Completed plans and pass logs: [`../archive/`](../a
 | Consequence chains | `story/consequence_chains.md` |
 | Plant / payoff | `story/foreshadowing.md` |
 | POV lock | `story/pov_lock.md`, `story/pov_structure.md` |
-| Fictional POV one-pagers | `story/characters/` |
+| Fictional POV profiles | `continuity/character_profiles/` |
 | SIDE-1 murder subplot | `story/side1_clue_schedule.md` |
 
 ## Research

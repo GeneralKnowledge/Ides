@@ -45,7 +45,7 @@ Still table-only in [`secondary_cast.md`](secondary_cast.md): Hirtius · Pansa (
 
 ## Locked minor D-cast (card in `secondary_cast.md`)
 
-Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Seia Prima · Pacuvius · Apollodorus · Amyntas (opt.) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Gavius (Seius neighbour, Ch 23)  
+Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Seia Prima · Pacuvius · Apollodorus · Amyntas (opt., [`amyntas.md`](amyntas.md)) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Gavius (Seius neighbour, Ch 23)  
 *(Phileros promoted — see above.)*
 
 ---

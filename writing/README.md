@@ -5,7 +5,7 @@ Concise, actionable conventions for continuing Book 1. Historical development pl
 | File | Purpose |
 |------|---------|
 | [`LLM_WRITING_BRIEF.md`](LLM_WRITING_BRIEF.md) | **Master constraints** — read first |
-| [`CHAPTER_MAP.md`](CHAPTER_MAP.md) | Ch 1–34 ↔ scene cards (dinner-first order) |
+| [`CHAPTER_MAP.md`](CHAPTER_MAP.md) | Prologue + Ch 1–34 ↔ scene cards |
 | [`MUST_EXPRESS.md`](MUST_EXPRESS.md) | Idea-coverage checklist |
 | [`SCENE_TEMPLATE.md`](SCENE_TEMPLATE.md) | Output format per scene |
 | [`STYLE_GLOSSARY.md`](STYLE_GLOSSARY.md) | Diction, Latin, VOICE-1 |

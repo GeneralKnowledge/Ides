@@ -30,6 +30,6 @@ Mark findings as **problem** (contradicts profile + text) or **preference** (you
 | `INDEX.md` | Full roster + chapter map |
 | `*.md` (principals) | One profile per major figure |
 | `secondary_cast.md` | Named supporting cast |
-| `story/characters/F*.md` | Original F-slot planning dossiers |
+| `../../archive/story_characters/` | Original F-slot planning dossiers (folded into these profiles 2026-10-23) |
 | `writing/voice/POV_DICTION.md` | Per-POV diction cheatsheet |
 | `writing/NAMES_MINOR_CAST.md` | Locked D-names |

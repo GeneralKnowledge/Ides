@@ -86,9 +86,9 @@ Fictional characters should **intersect** these, not eclipse them.
 
 | Slot | Working name | File |
 |------|--------------|------|
-| F1 | Nysa | `characters/F1_nysa.md` |
-| F2 | M. Seius Vestalis | `characters/F2_seius.md` |
-| F3 | Sex. Laberius Cordus | `characters/F3_laberius.md` |
-| F4 | L. Hordeonius Felix | `characters/F4_hordeonius.md` |
+| F1 | Nysa | `../continuity/character_profiles/nysa.md` |
+| F2 | M. Seius Vestalis | `../continuity/character_profiles/seius.md` |
+| F3 | Sex. Laberius Cordus | `../continuity/character_profiles/laberius.md` |
+| F4 | L. Hordeonius Felix | `../continuity/character_profiles/hordeonius.md` |
 
 POV lock: `pov_lock.md`. Further bio detail only after Stage 3 canon choices (HOUSE-1, SIDE-1, etc.).

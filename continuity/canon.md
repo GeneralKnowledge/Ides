@@ -42,9 +42,12 @@ Including: Caesar dies 15 Mar 44; will elevates Octavian; funeral riot; Mutina; 
 | ID | Decision | Tier | Notes |
 |----|----------|------|-------|
 | **POV-1** | Option A/D hybrid ensemble | **Structural preference** | `story/pov_lock.md` — review route for future changes |
-| **POV-2** | Regular historical POVs: Decimus, Brutus, Cassius, Antony, Cicero, Octavian | **Structural preference** (+ knowledge bans below) | Specials: Caesar sparse, Calpurnia, Servilia, Fulvia, Cleopatra |
-| **FIC-1..4** | Nysa, Seius, Laberius, Hordeonius | **Continuity commitment** | `story/characters/` — identities relied on in prose |
-| **BEAT-1** | Five-act beat sheets | **Structural preference** | `story/beats/` — outcomes > sheet labels |
+| **POV-2** | Regular historical POVs: Decimus, Brutus, Cassius, Antony, Cicero, Octavian | **Structural preference** (+ knowledge bans below) | Specials: Caesar sparse, Calpurnia, Servilia, Fulvia, Cleopatra; one-scene: Cleanthes (prologue) |
+| **FIC-1..4** | Nysa, Seius, Laberius, Hordeonius | **Continuity commitment** | `continuity/character_profiles/` — identities relied on in prose |
+| **FIC-1a** | Nysa is Caesar’s freedwoman (Julia Nysa); after the Ides her patron is his heir, Octavian. From spring 44 (Ch 23) she serves in Antony’s Carinae house | **Continuity commitment** (decided 2026-10-23) | Pays: Ch 25 undercount; Ch 30 kitchen door; Ch 34 ending |
+| **FIC-2a** | Seius is the nephew of the real Marcus Seius (curule aedile 74, cheap grain); Seia Prima is that man’s eldest daughter (cousin marriage). His Hordeonius debt is the aedile canvass | **Continuity commitment** (decided 2026-10-23) | Ch 3, 10 |
+| **FIC-2b** | In the proscriptions Seius hides and saves **Gavius**, paid for with a Hordeonius loan | **Continuity commitment** (decided 2026-10-23) | Plant: Ch 30 hiding clause; payoff T11 |
+| **BEAT-1** | Five-act beat sheets | **Structural preference** (pre-draft; the manuscript now leads) | `story/beats/` — outcomes > sheet labels |
 | **AMB-1** | M1 Caesar’s knowledge ambiguous to reader | **Narrative invariant** | May add evidence; must not *confirm* |
 | **AMB-2** | Pansa poison rumour-only | **Narrative invariant** | |
 | **AMB-3** | No confirmed divine causation | **Narrative invariant** | |
@@ -131,10 +134,14 @@ Working order (not “history proven”):
 | **HUMOR-1** | Medium; Batiatus on F4/Cicero; near-off on Ides knives / Cicero death | Guardrail / preference |
 | **SOFT-1** | FUNERAL-1 / EXIT-1 / CLEO-1 blessed for drafting | History |
 
-### OPEN-1 — Clemency dinner opening (**continuity commitment** / **D**)
-- **Book 1 opens** on a fictional Caesarian dinner, **late 46 BC** (after Africa triumphs; Cleopatra newly lodged across the Tiber — presence **B**/S2).  
-- **Climber:** Africa-favour recipient **Sextilius** (invented favour/posting texture, **not** a documented appointment; formerly tagged *new Africa* / New-Africa as nickname — retired as sounding like a translated name).  
-- **Was:** late-45 “New-Spain” slight in former Ch 4 SC-08. **Reworked** for chronological dinner-first open (Option 2a); see `opening_pov_design_review.md` §11 + `dinner_first_opening_pass_log.md`. **2026-10-23:** a Utica prologue (Cato’s death, physician Cleanthes POV) now precedes the dinner; in Ch 1 Cassius loses a Spanish staff place to Sextilius.  
+### PROLOGUE-1 — Utica (**continuity commitment**, 2026-10-23)
+- **Book 1 opens** at Utica, April 46, on Cato’s death, seen by his physician Cleanthes (Plutarch *Cato Min.* 66–70). One-scene POV. Ends on Caesar’s horsemen near and the counters spilled.
+- The reader enters the Ch 1 dinner knowing what the table won’t say: Cato refused the pardon.
+
+### OPEN-1 — Clemency dinner (**continuity commitment** / **D**)
+- **Ch 1** is a fictional Caesarian dinner, **late 46 BC** (after the Africa triumphs; Cleopatra newly lodged across the Tiber, presence **B**/S2). It follows PROLOGUE-1.
+- **Climber:** Africa-favour recipient **Sextilius** (invented favour/posting texture, **not** a documented appointment; the old *New-Africa* nickname is retired).
+- **History:** formerly the late-45 “New-Spain” slight in old Ch 4 SC-08; moved to a dinner-first open (Option 2a, `archive/plans/opening_pov_design_review.md` §11), then preceded by the prologue.
 - Brutus’s burned invitation (Ch 4 SC-07) is a **separate** late-45 soft-chain dinner — not a replay of OPEN-1.
 
 ## Still unlocked

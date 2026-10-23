@@ -22,16 +22,17 @@ This document guides drafting. It is **not** a veto on a stronger demonstrated a
 - **Servilia** — select soft-power scenes  
 - **Fulvia** — growing Act 4–5  
 - **Cleopatra** — segment arcs  
+- **Cleanthes** — one scene only: the Utica prologue (Cato’s physician). Added 2026-10-23: gives the book a physical opening before the Ch 1 dinner; no knowledge bans touched; canon PROLOGUE-1.  
 
 ### Fictional regular POVs (approved slots)
 | ID | Working name | Function |
 |----|--------------|----------|
-| **F1** | **Nysa** | Household INF agent (freedwoman secretary/attendant orbiting Calpurnia–Caesar domus) |
+| **F1** | **Nysa** | Household INF agent (Caesar’s freedwoman; Calpurnia’s house until spring 44, then Antony’s Carinae house) |
 | **F2** | **M. Seius Vestalis** | Minor aristocrat / junior senator almost-recruited |
 | **F3** | **Sex. Laberius Cordus** | Military mid-level (centurion → camp politics) |
 | **F4** | **L. Hordeonius Felix** | Financial/commercial (equestrian credit & grain paper) |
 
-Full one-pagers: `story/characters/F1_nysa.md` … `F4_hordeonius.md`.
+Full profiles: `continuity/character_profiles/nysa.md`, `seius.md`, `laberius.md`, `hordeonius.md`.
 
 ### Invariants (do not casually break)
 - No POV knows the future.  

@@ -24,7 +24,7 @@ Times are Roman daylight approximations (hora), not clock precision (**B** model
 | CAL | Calpurnia |
 | LEP | Lepidus |
 | CIC | Cicero |
-| F1 | Fictional household INF agent (see characters/F1) |
+| F1 | Fictional household INF agent (see `continuity/character_profiles/nysa.md`) |
 | POP | Urban populus (aggregate) |
 | OCT | Octavian (Apollonia — delayed track) |
 

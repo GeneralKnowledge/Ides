@@ -17,7 +17,7 @@ High/medium gaps and remaining soft-research items are **filled** below. Only ed
 | Dream/omen parallel table | `writing/reference/dream_omen_parallels.md` |
 | Coin imagery (*EID MAR* etc.) | `writing/reference/coin_imagery.md` |
 | Proscription vignette roster | `writing/reference/proscription_roster.md` |
-| Eastern city optional face | `story/characters/F5_amyntas_optional.md` |
+| Eastern city optional face | `continuity/character_profiles/amyntas.md` |
 | OCT games / comet texture | `writing/reference/octavian_games_comet.md` |
 | Soft chronology (funeral / exits / Cleopatra) | `writing/reference/soft_chronology_pack.md` |
 | Ides morning sources (Decimus + Dio 44.17) | `writing/reference/ides_morning_sources.md` |
