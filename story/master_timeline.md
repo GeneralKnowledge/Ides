@@ -86,7 +86,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 - [ ] Almost-recruitment refusal (beat B24 — detail open)
 - [ ] Letter intercepted Mutina  
 
-Beat spine: `story/beats/`
+Beat spine (pre-draft, archived): `archive/planning/story/beats/`
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Files audited (current versions)
 - `continuity/canon.md`
-- `story/historical_anchors.md`, `flexibility_zones.md`, `pov_lock.md`, `pov_structure.md`, `mysteries.md`
+- `story/historical_anchors.md`, `flexibility_zones.md`, `pov_lock.md`, `pov_structure.md` (archived), `mysteries.md`
 - `writing/CHAPTER_MAP.md`, `MUST_EXPRESS.md`, `LLM_WRITING_BRIEF.md`
 - `continuity/expansion/` (README, summaries, tracks, deposit map, integration review)
 - `../archive/pass_logs/integration_revision_1_pass_log.md`

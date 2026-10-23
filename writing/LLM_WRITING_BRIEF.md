@@ -18,7 +18,7 @@ Read this file before drafting. Obey it over improvisation.
 2. `continuity/canon.md` (**locks + tiers**) + skim `continuity/lock_architecture_audit.md` when proposing structural change  
 3. `story/historical_anchors.md`  
 4. `story/pov_lock.md` + `continuity/character_profiles/`  
-5. `story/scene_cards/` for the act you are drafting  
+5. The chapter you are touching in `drafts/book1/` and its row in `CHAPTER_MAP.md` (pre-draft scene cards are archived in `archive/planning/story/scene_cards/`)  
 6. `story/ides_week_hour_map.md` (for Act 2–3)  
 7. `writing/MUST_EXPRESS.md` (behavioural checklist — outcomes may travel by alternate scene delivery)  
 8. `writing/STYLE_GLOSSARY.md`  

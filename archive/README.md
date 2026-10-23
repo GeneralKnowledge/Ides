@@ -13,6 +13,8 @@ Live authority lives elsewhere — see the [root README](../README.md) and [docs
 | [`pass_logs/`](pass_logs/) | Completed prose/craft passes and screening logs |
 | [`plans/`](plans/) | Finished phase plans and drafting-start decisions |
 | [`reports/`](reports/) | Editorial diagnoses, audits, cold-read packets, evaluations |
+| [`planning/`](planning/) | Pre-draft architecture (beat sheets, scene cards, POV structure) and finished-phase records (reader-earn gaps, gaps list, starter prompt, act and story summaries, golden-read decisions), moved 2026-10-23; paths mirror where they lived |
+| [`story_characters/`](story_characters/) | F1–F5 planning dossiers, folded into `continuity/character_profiles/` 2026-10-23 |
 
 ## Classification principle
 
