@@ -1,7 +1,6 @@
 # Chapter 11: Omens Manufactured
 
-**S-A2 dwell** · SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
-**Human-voice:** Ch 11 expanded; Ides/Spurinna/Sibylline earned; Capys tablet (not king-bird); Calpurnia CV trimmed.
+**Scenes:** SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
 
 ---
 
@@ -124,13 +123,6 @@ Who had written the oracle, he wondered, and who would be invited to dinner to h
 ---
 
 ## Continuity
-- Ambiguous staff omens (Capys tablet, Spurinna, chickens), unproven (AMB-3); Ides = 15 March; haruspex plant paid. King-bird deferred to Ch 15 (Ides-morning tradition).
-- OMEN-1: manufactured Sibylline king/Parthia talk; Cicero treats as politics; wrong floater guess OK; Balbus densified.
-- Philippics: no plant in this chapter’s prose (Demosthenes voice only); the word is paid in Ch 25.
-- **S-A2 / G1:** Nysa primary dwell extended (3+ kitchen voices held); Cicero second as collision (who floats beware/king); Hirtius refuse kept; soft bridge via kitchen omen-weather.
-- MUST_EXPRESS: E1, E2.
-- Next: Ch 12 dread / fragment / Caesar opacity.
-**Final integrated / E4:** SC-27: Cicero refuses Hirtius’s live dinner to “speak plainly” about Parthia talk; cost of dismissing the balloon is absence from the room, not only distaste.
-- **Law-sweep:** Kitchen ≥3 (Dama/Pasiphile/washerwoman); Nysa dwell extended; Cicero collision on manufactured beware/king; Hirtius refuse bridge; humour light/off near omen dread; AMB-3/OMEN-1 held.
-- **Golden-read P3-c:** Competing versions of Calpurnia’s “running sleep” (gods / nerves / politics), dream packet plant before Ch 14 peak; no wife-CV plaque.
-- **Human-voice (Ch 11 expanded):** densified Kitchen / Only a King; Calpurnia CV cut (sleep that runs holds); hold chickens-not-senators, Hirtius refuse, AMB-3; no modern weekdays.
+- **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses wrong who floated it. He refuses Hirtius’s dinner, so he is not in the room. Calpurnia’s “running sleep” has three versions in the kitchen (gods, nerves, politics).
+- **Plants → pays:** the haruspex; the dream packet before Ch 14; Demosthenes (in Cicero’s voice only; the word *Philippics* waits for Ch 25). The king-bird is told in Ch 15, not here.
+- **Must not:** no Calpurnia CV.

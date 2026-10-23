@@ -1,7 +1,6 @@
 # Chapter 33: Philippi I
 
-**Phase 1D.2 / Act5 ordeal** · SC-90, SC-91 (+ OPEN-0 echo folded) · Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
-**Human-voice:** Ch 33 feel-pass (rules); light Philippi: INF death / eagle staff / fog held.
+**Scenes:** SC-90, SC-91 (+ OPEN-0 echo folded) · Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
 
 ---
 
@@ -80,13 +79,6 @@ He didn’t speechify liberty. He didn’t correct the map. He treated the incom
 ---
 
 ## Continuity
-- Cassius dead on bad INF (M18); fog held; no casualty tables; Laberius eagle as local fact.
-- Italy F4 / OPEN-0 not a Philippi-day postcard, echo only under Antony’s order breath (SIDE-1b stays OPEN-0 elsewhere).
-- Battle day: two cameras (Antony/Laberius field + Cassius hill).
-- MUST_EXPRESS: F12, A14. Next: Ch 34.
-**Act5 ordeal:** SC-89 folded; SC-91 ops body + hesitation before steel; incomplete INF hurts on the page.
-**1G:** Laberius opener differed from Mutina (P2-a).
-- **Law-sweep:** Battle/INF death, humour OFF; Antony/Laberius field ≥3; Cassius incomplete-report ordeal; OPEN-0 echo only; Mutina mud echo in Laberius body; two cameras (not postcard mosaic).
-- **Human-voice:** flattened Antony/Laberius/Cassius parens; cut “Ops body” / “enough geometry” / “ledger closed” craft wrappers; map-fog *as if* flattened; INF death + Philippi compression held, not expanded.
-- **Human-voice (Ch 33):** one light Philippi feel-pass; Italy echo / signal colon / *lost* sketch / both breaths / account close; hold INF death, eagle staff, fog, humour OFF. Not a polish war.
-- **Reader-earn (Ch 33):** Antony’s stake in the ground: Liberators on two hills astride the road west (Brutus north, Cassius south above the marsh, sea-fed) vs his plain and short bread → ten nights of causeway through the reeds, seen this morning; north shout that Brutus’s men are in the boy’s camp (Antony shrugs it to Agrippa; Cassius’s hill never hears it, M18 fog held for him); Pindarus = freedman kept since Carrhae for this errand (Crassus’s head), holds the blade where Cassius sets it. No casualty tables; INF death and Laberius eagle held.
+- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in fog (M18); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Laberius’s eagle staff is a local fact; Mutina mud in his body.
+- **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
+- **Must not:** no casualty tables; no postcard from Rome; two cameras only.

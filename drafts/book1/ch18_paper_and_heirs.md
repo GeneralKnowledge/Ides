@@ -1,9 +1,8 @@
 # Chapter 18: Paper and Heirs
 
-**M5 polish** · SC-48, SC-49
+**Scenes:** SC-48, SC-49
 **Canon:** A6 · FS05 · FS21 · SIDE-1 echo · HUMOR-1 medium (F4) · TONE-1
 **Dates:** ~18 March 44 (will opened / leaked) per soft chronology
-**Human-voice:** Ch 18 expanded; name-path / adoption-as-paper earned at seal; will clauses / Hordeonius stool / Decimus second-line held.
 
 ---
 
@@ -67,12 +66,7 @@ He waited for the next fool with a question and a purse.
 ---
 
 ## Continuity notes (SC-48)
-- F4 Batiatus ego-humour on; SIDE-1 blackmail fizzles (OPEN-0 path); no craft tag in scenic prose.
-- Will rumour hits markets before/as formal reading.
-- Basilica/Janus densify; sesterce scale; amnesty as market refusal (bargain paid Ch 17).
-- **S-B1 / S7:** Queen/gardens/child priced as unfinished Roman problem before seal (pays Ch 4/6 gossip; CLEO-1 held).
-- // M5: HS figure stays street talk (C mush OK).
-- **Anti-formula / tissue:** Warehouse/snort gag strip; F4 bite retied to gardens/boy/queen market risk; Decimus second-line / queen stacks as paid callbacks.
+- **Knows / learns:** the will rumour hits the stalls before or as it is read. Basilica, Janus, the scale in sesterces; the amnesty as a market refusal. Queen, gardens and child priced as a Roman problem before the seal. SIDE-1 blackmail fizzles (OPEN-0). The sum stays street talk.
 
 ---
 
@@ -138,19 +132,7 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 ---
 
 ## Continuity notes (SC-49)
-- Suet. 83: Antony’s house; Piso; Vestals; Octavius ¾; Pedius+Pinarius ¼; adoption; Decimus 2nd degree; gardens + 300 HS.
-- **Name-path pay:** adoption/name as paper the dead can write (Octavius → son/name); second degree glossed.
-- Piso = Calpurnia’s father; Vestals = hearth/vault densify (deposit paid Ch 17); Atia; Pinarius/Pedius.
-- Leak cascade via F1/market.
-- // M5: Formal vs street timing left intentionally mushy (C).
-- **Law-sweep:** Consul-smooth open-jar face → anteroom exit-complaint; Decimus secondary irony pays Ch 4 portico plant.
-- **Expansion D3:** Will-reading public fringe, banker / widow’s steward / junior appetite collide on gardens/boy/second-line before seal finishes.
-- **Golden-read P1:** Antony prices Octavius as soft cohort / paper son / not rival, opinion, not fringe-noise only.
+- **Knows / learns:** Suet. *Jul.* 83: read at Antony’s house; Piso (Calpurnia’s father); the Vestals; Octavius three-quarters, Pedius and Pinarius a quarter; adoption and the name; Decimus an heir in the second degree; the gardens and 300 sesterces a man. Atia. Antony prices Octavius as a paper son, not a rival. At the edges: the widow’s steward, a freedman with Caesar’s house-ring, a junior (D3). Formal and street timing deliberately blurred.
+- **Plants → pays:** Decimus as second heir pays Ch 4; the name as paper the dead can write (Ch 22).
 
 ---
-
-# Chapter 18: End matter
-
-**Edit pass 1 / read-through:** holds. Will / markets / Decimus irony intact.
-**M5 polish:** TODO_EDITOR cleared; destiny→street-fate sell softened.
-- **Human-voice (Ch 18 expanded):** name-path earned (will-adoption); densify basilica/Janus, sesterce scale, Piso/Vestals, Atia, Pinarius/Pedius, second-degree, washerwoman second; cut SIDE-1 craft tag from scenic; soften week idiom; hold Hordeonius stool, Decimus second-line, boy price; no modern weekdays.

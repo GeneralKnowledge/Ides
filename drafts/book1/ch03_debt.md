@@ -1,8 +1,6 @@
 # Chapter 3: Debt
 
-**Mid-tier pass** · SC-03, SC-04 · late 46–45 · TONE-1
-**Dinner-first reorder:** former Ch 2; follows Ch 2 street weather.
-**Expanded draft:** Naevius line-rules; Spain/Pompey-sons gloss; sea paper / Puteoli; Seia window-door; cake-seller umbrellas densified
+**Scenes:** SC-03, SC-04 · late 46–45 · TONE-1
 
 ---
 
@@ -129,12 +127,7 @@ A cake-seller from two stalls over (flour still on her forearms) leaned in with 
 ---
 
 ## Continuity
-- F2 deeper debt to F4; patronage machinery shown; F4 Batiatus tone held.
-- **Expanded:** Naevius line-rules (cough / exact hour / nod as muscle); lint-thickness pricing; Seia window/door; Spain = Pompey sons + smoke on loans; sea paper / Puteoli gloss; cake-seller umbrellas densified.
-- **Cold-read patch:** *salutatio* institutional plaque cut; Naevius teaches the line.
-- **S-A0:** polite atrium → lane complaint; audible humour (warehouse / cake) with in-scene reaction.
-- FS11 Sextus sea-paper demoted from scenic stamp (may return when it prices a decision). MUST_EXPRESS: B5, C9.
-- **Law-sweep:** ≥3-person atrium (patron + secretary + Seius + Naevius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour; Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.
-- **Opening prose pass:** Ch 2 *new-ring: rate held / unpaid* still on the wax (transition stitch only).
-- Next: Ch 4 Munda + soft chains.
-- **Seius family (2026-10-23, Reuben):** Naevius places Seius as old (real) Marcus Seius’s nephew, the cheap-grain aedile of 74 (Cic. *Off.* 2.58); Seia Prima is that man’s eldest daughter, a cousin marriage, which is why she wants the nod back; the borrowed sum is now the aedile canvass. Real Seius stays offstage.
+- **Knows / learns:** Seius goes deeper into debt to Hordeonius. Naevius, the patron’s man, teaches the line (cough, exact hour, the nod) and places Seius as nephew of the real Marcus Seius, the cheap-grain aedile of 74 (Cic. *Off.* 2.58). Seia Prima is that man’s eldest daughter, a cousin marriage, which is why she wants the nod back. The borrowed sum is for the aedile canvass. Spain means Pompey’s sons and smoke on loan rates.
+- **Plants → pays:** Seius’s obligation to the patron, to be collected later; Spain-unfinished rates call back the Ch 2 street; Sextus at sea (FS11) only as a line of paper, to return when it prices a decision.
+- **Must not:** the real Marcus Seius stays offstage.
+- **Decisions:** 2026-10-23 (Reuben): the Seius family as above.

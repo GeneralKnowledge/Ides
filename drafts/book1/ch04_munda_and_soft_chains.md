@@ -1,8 +1,6 @@
 # Chapter 4: Munda and Soft Chains
 
-**Dinner-first reorder** · SC-05, SC-06, SC-07, SC-09 · 45 BC · A2 · FS05 · FS11 · FS21
-**Note:** Cassius’s clemency dinner now opens the book (Ch 1, late 46). This chapter keeps Munda and the Brutus/Decimus ~45 material only, no dinner replay.
-**Human-voice:** Ch 4 expanded; boots/chin-tip/soft-chain densified; Spain/Porcia/Decimus/Cleo earned; masks plaque trimmed.
+**Scenes:** SC-05, SC-06, SC-07, SC-09 · 45 BC · A2 · FS05 · FS11 · FS21
 
 ---
 
@@ -203,11 +201,7 @@ Decimus fell into step. He didn’t know the wax. He knew the chin-tip. The road
 ---
 
 ## Continuity
-- A2 Munda body cost; Rome “easy win” late/false texture; Labienus finished; Sextus to sea.
-- Chain 1 continued: soft-chain refuse (BRU burns a **different** late-45 dinner invitation, not Ch 1’s late-46 room); trust-height (DEC).
-- **S-A0 / S1:** Cleopatra/Caesarion/Transtiberim still priced in portico gossip, no Cleo POV. Queen plant already seeded Ch 1; this is continued weather.
-- FS05/FS21 planted. Plural motives.
-- MUST_EXPRESS: A8 seed, B1, C1–C3 seeds. Next: Ch 5 Octavian.
-- **Expansion D17:** Servilia named as mother + Caesar’s longest love; Porcia as Cato’s daughter; Pharsalus spare plain; Decimus Cisalpine/Mutina + Massilia trust scrap.
-- **Golden-read P1:** Brutus late-hour after-spare memory (closeness, not debt furniture only).
-- **Human-voice (Ch 4 expanded):** densified Hard-Pressed / Sextus / Ancestors / Second Line; trimmed ancestor-masks plaque; held hardtack, soft chain, chin-tip, Capua, clean sandals.
+- **Knows / learns:** Munda’s body cost (Laberius); in Rome it is an easy win, heard late and wrong. Labienus is dead; Sextus Pompey gets to sea. Servilia is Brutus’s mother and Caesar’s longest love; Porcia is Cato’s daughter. Brutus remembers being spared after Pharsalus. Decimus’s Gaul is his own record (the ships against the Veneti, Massilia); Cisalpine and Mutina are named. Queen, Caesarion and Transtiberim are still portico gossip. The will rumour is in a laugher’s mouth.
+- **Plants → pays:** Brutus burns a different, late-45 dinner invitation (not Ch 1’s); the ancestors as his boyhood recitation; Decimus’s chin-tip, ditch timing and road trust (Ch 14); Mutina (Ch 20, 26); Decimus as second heir (Ch 18); FS05, FS21.
+- **Must not:** no Cleopatra POV.
+- **Decisions:** 2026-10-23: ancestors as Brutus’s recitation, Gaul in Decimus’s own record, will rumour in the laugher’s mouth (tightening pass).

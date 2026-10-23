@@ -1,7 +1,6 @@
 # Chapter 25: Philippics and Ships
 
-**Phase 1D.3** · SC-68c, SC-69, SC-68b (chrono: late July, late Aug, then autumn) · July–autumn 44 · EXIT-1 · Chain 6 / 8 seed
-**Human-voice:** Ch 25 feel-pass (rules); Philippics scar / Brutus deck refuse / EXIT-1 held.
+**Scenes:** SC-68c, SC-69, SC-68b (chrono: late July, late Aug, then autumn) · July–autumn 44 · EXIT-1 · Chain 6 / 8 seed
 
 ---
 
@@ -170,15 +169,9 @@ He slept poorly and woke eager. Eager men wrote faster than wise ones. He notice
 ---
 
 ## Continuity
-- EXIT-1 held; Philippics wager begun with returned/marked copy as body risk.
-- SC-69: Brutus refuses early Asia receipts on deck (pay vs purity), lived cost, not recruiting thesis only.
-- MUST_EXPRESS: C7, C3, B7 seed. Next: Ch 26 Decimus (CLEO/Sextus folded).
-**Phase 1D.3:** SC-68b public friction; SC-69 East held/tightened.
-**Act5 ordeal:** SC-68b scar+wider kept; SC-69 refused cost deepened.
-- Deck refusal + factor corridor bite; Brutus purity cost; Philippics marked-tablet body risk; Asia tax plant toward Ch 32.
-- **Tissue:** Brutus gull-lawsuit twitch + crewman snort on “collecting” (humour ON, non-F4).
-- **Expansion D10:** Mate + coil-boys witness “collecting” as eat-vs-philosophy, deck social beyond factor.
-- **Reader-earn (Ch 25):** Philippics paid in a mouth: friend’s question at the desk → Demosthenes vs Philip of Macedon, Antony as Cicero’s Philip (pays Ch 11 Demosthenes-voice plant and Ch 5 Apollodorus lesson); Antony’s Senate attack on Cicero’s empty chair (archers, Ides blame) → why copies, not a speech; friend’s Demosthenes-poison jab (Ch 31 shadow, no wink); crewman’s Athens question (Brutus bound for Athens); Asia = coast cities across the Aegean that paid Pompey then Caesar (Cassius’ ledger stake); factor = Greek agent for three of them. Corn commissions (Ch 24), Macedonia/Syria (Ch 20), *young Caesar* (Ch 22), Liberators / Lanuvium not re-glossed.
-- **Human-voice (Ch 25):** one feel-pass; sanded adjective / carpentry / scar smear / knife-scar applause / collecting mouths / Brutus numbers / Cassius delay / libertas cost breaths; hold Philippics return, EXIT-1, deck refuse.
-- **Rules audit (Ch 25):** EXIT-1: SC-69 dated late Aug 44, Brutus sails, Cassius sees him off and stays (follows later); flashback after SC-68b, so the Cicero-chase close cut (Philippics postdate the sailing). Cicero no longer borrows Lanuvium; spring/March joke fixed; factor line overheard in Cassius’s hearing.
-- **T9 direction change (2026-10-23, development §1a):** SC-68c Nysa POV, games for Caesar’s Victory (late July 44). Antony’s steward sends her to count; Matius’s edict boards (*Att.* 15.2); gilded chair and crown turned back by a tribune in the aisle (App. *BC* 3.28; Antony absent, his men act); the boy seen only as a still shape; star at the eleventh hour in the north, seven evenings (Pliny *NH* 2.93–94); comet meaning left open in mouths only (veteran “He watches”; soul; kings die; weather; Nysa’s half-heard “hair of the star” line, per `octavian_games_comet.md`). Nysa gives the steward a small number (Antony laughs: underestimation fed by his own kitchen) and Fulvia’s silver-counting woman the true one. Plants Fulvia as the sharp reader of the house.
+- **SC-68c (late July 44, T9):** Antony’s steward sends Nysa to count at the games for Caesar’s Victory. Matius’s edict boards (*Att.* 15.2); the gilded chair and crown turned back by a tribune in the aisle (App. *BC* 3.28; Antony absent, his men act); the boy only a still shape; a star at the eleventh hour in the north for seven evenings (Pliny *NH* 2.93–94). Its meaning stays open, in mouths only (a veteran’s “He watches”; a soul; kings die; weather; Nysa half hears “hair of the star”; see `writing/reference/octavian_games_comet.md`). Nysa gives the steward a small number (Antony laughs: underestimation fed by his own kitchen) and gives Fulvia’s silver-counting woman the true one.
+- **SC-69 (late Aug 44, Velia):** Brutus sails for Athens; Cassius sees him off and stays (follows later). Brutus refuses early Asia receipts on deck (pay against purity); the mate and coil-boys laugh at “collecting”. Asia = the coast cities across the Aegean that paid Pompey, then Caesar; the factor is a Greek agent for three of them.
+- **SC-68b (autumn 44):** told after SC-69 (the Philippics postdate the sailing). Philippics paid in a friend’s question: Demosthenes against Philip, Antony as Cicero’s Philip. Antony attacks Cicero’s empty chair in the Senate (archers, the Ides blame), which is why copies, not a speech. A marked copy comes back as a risk to his body; the friend’s Demosthenes-poison jab.
+- **Plants → pays:** Fulvia as the sharp reader of the house; Asia tax (Ch 32); Demosthenes (Ch 11, 31); comet ambiguity (T9).
+- **Must not:** the comet stays ambiguous; Cicero does not borrow Lanuvium. Not re-glossed: corn commissions (Ch 24), Macedonia and Syria (Ch 20), *young Caesar* (Ch 22).
+- **Decisions:** 2026-10-23 (Reuben): SC-68c added for T9.

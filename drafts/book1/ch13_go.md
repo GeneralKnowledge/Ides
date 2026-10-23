@@ -1,7 +1,6 @@
 # Chapter 13: GO
 
-**Phase 1D.4** · SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
-**Human-voice:** Ch 13 expanded; Tillius Cimber tag + Capua powder densified; Lupercalia three-refusals re-gloss cut.
+**Scenes:** SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
 
 ---
 
@@ -178,15 +177,6 @@ They left the room separately. Outside, a baker’s boy argued ordinary March pr
 ---
 
 ## Continuity
-- Trebonius delay tasked (CHOREO-1 / M6); Pompey theatre/statue callback; Antony stakes densified.
-- **SC-32** Cicero blind calm: Atticus/Hirtius densified; elite rumour only; still not ops.
-- F3 land powder (FS10) soft for funeral rage; Capua/donative/eagle earned without Lupercalia re-gloss.
-- **Tillius Cimber tag paid:** brother exile + petition + toga-tug signal (one person).
-- **1D.4:** GO friction, missing Ligarius cousin; money creditor; last doubt before lock; GO chosen not tallied.
-- **Later-book reader pass:** Galba winter/debt tag on GO roster (antecedent for Ch 17 Capitol absence).
-- **Golden-read P0:** Baker’s boy sells prices + already-wrong Parthia rumour, plants bakers as rumour mill before Ch 16+.
-- Spare-Antony / no hive mind held.
-- MUST_EXPRESS: A5 prep, B4, C7 blindness.
-- Chapter map updated to include SC-32.
-- **Anti-formula:** Census labels / Continuity-receipt roster speech / Capua-face gag strip; dramatic centre = GO choice under creditor cough + missing door-man.
-- **Human-voice (Ch 13 expanded):** densified Hold / Blind / Powder / GO; cut Lupercalia three-refusals re-gloss; “Bores survive the Ides”; hold Capua unpaid, Ligarius blank, baker rumour; no modern weekdays.
+- **Knows / learns:** Trebonius is tasked with holding Antony; Pompey’s theatre and statue called back. Cicero is blindly calm (Atticus, Hirtius; elite rumour only). In the winter quarter, land hunger is powder (Capua, the donative). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: a Ligarius cousin missing, a creditor at the door, one last doubt.
+- **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 19).
+- **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.

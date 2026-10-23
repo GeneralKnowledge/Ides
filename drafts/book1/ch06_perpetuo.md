@@ -1,7 +1,6 @@
 # Chapter 6: Perpetuo
 
-**S-A2 dwell** · SC-12, SC-14 (SC-13 folded) · early 44 · A3 · FS22 · G1/G2
-**Human-voice:** Ch 6 expanded; *perpetuo* gloss + Atticus/Tiro/Hirtius/closed-market densified; Cicero CV trimmed; liberty-sack caption cut.
+**Scenes:** SC-12, SC-14 (SC-13 folded) · early 44 · A3 · FS22 · G1/G2
 
 ---
 
@@ -115,12 +114,6 @@ He felt the market’s mood thicken. Thick markets made people invent virtues. V
 ---
 
 ## Continuity
-- A3 perpetuo: disgust + compliance (CIC); doorway as 3-voice room (clapper / mutterer / clerk); six-month → Sulla → *perpetuo* gloss paid.
-- **S-A2 / G1–G2:** Two POVs only (Cicero primary → F4 collision). Former SC-13 Nysa packing folded into F4 stall talk, FS22 Parthia clock held without third camera.
-- Offices futures grievance (F4) as recruitment fuel overheard; consulship-as-futures gloss paid.
-- Atticus / Tiro / Hirtius (promised consulship seed) planted for later pay.
-- **S-A1 / S1:** Warped re-hearing of queen/child talk at banker stalls (gardens/hours/collateral), no certification; CLEO-1 held.
-- **Law-sweep:** Doorway ≥3; accommodation smile → Tiro private drop; stall ≥3 + Sosia snort on queen/gardens (audible); CLEO/FS22 plants; G1/G2 held (2 cameras).
-- MUST_EXPRESS: B3, FS22. Next: Ch 7 Lupercalia (gold spine, not M2).
-- **Golden-read P2:** Doorway place before *perpetuo*; cut was-not-X/it-was-Y close.
-- **Human-voice (Ch 6 expanded):** densified Forever / Closed Market; cut Pompey CV half; cut liberty-sack caption; hold Hordeonius stool, dead calendar, Parthia packing, gardens/collateral.
+- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are traded like futures (Hordeonius), which feeds recruitment. Queen and child talk comes back garbled at the stalls (gardens, hours, collateral), unconfirmed.
+- **Plants → pays:** Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
+- **Must not:** two POVs only. CLEO-1 held.

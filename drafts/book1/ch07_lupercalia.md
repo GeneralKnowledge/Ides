@@ -1,8 +1,6 @@
 # Chapter 7: Lupercalia
 
-**Phase 1F** · SC-16, SC-15 · 15 Feb 44 · A4 · FT15
-**G1:** Fulvia folded into Antony camera (no third POV cut); Cassius dwell extended.
-**Human-voice:** Ch 7 expanded; *regnum*/diadem + roster tags earned; festival plaque trimmed; Cassius Syria clause cut.
+**Scenes:** SC-16, SC-15 · 15 Feb 44 · A4 · FT15
 
 ---
 
@@ -88,10 +86,9 @@ Antony drank anyway. He stored her sentence where he stored unpaid cohorts: not 
 ---
 
 ## Continuity notes (SC-16)
-- A4 Public king-panic. Seius observed from Antony; Fulvia reaction held inside Antony camera (no separate POV cut).
-- **1F / E3:** POV borders restored (no Seius/Fulvia interior as own blocks).
-- **G1:** Fulvia folded; Forum panic without census label; client corridor bite on *temporary*; Fulvia prices the word by behaviour.
-- **Expansion:** Lupercalia lived; diadem = crown’s cousin; *rex*/*regnum*; three refusals + Jupiter; tribune statue plant.
+- **Knows / learns:** the Lupercalia lived through; the diadem (crown’s cousin), *rex* and *regnum*; three refusals and the line about Jupiter. Panic in the Forum. Fulvia reads the word *temporary* by her behaviour.
+- **Plants → pays:** the tribunes and the statue.
+- **Must not:** Seius and Fulvia are seen only from Antony; no interior for them here.
 
 ---
 
@@ -167,12 +164,6 @@ Cassius kept *market day* beside *Casca* and *law’s face* and did not go back 
 ---
 
 ## Continuity
-- A4 hit; conspiracy disclosure begun after Lupercalia.
-- **S-A0:** Brutus spoken resistance (not shared-permission tip); Cassius→Trebonius exit plan for company/Casca.
-- MUST_EXPRESS: F1 set-piece (diadem). Next: Ch 8 recruitment.
-**1F / E3:** Antony POV borders; Fulvia marked beat.
-**1G:** Antony filed/weather cut; Cassius *was how* cut.
-- **Anti-formula:** Three-mouth census + craft “file the exit-complaint” strip; diadem + Fulvia debt-word centres held; Galba/Ligarius plants + Trebonius market-day/Casca humour kept.
-- **Golden-read P2:** Drop continuity-receipt “festival was still sticky”; colonnade place + goat/diadem weather.
-- **Roster tags paid:** Galba (winter/consulship slight); Ligarius (Africa pardon); Casca (first ugly minute); Trebonius (market day / hold Antony). Basilus/Cimber/Tillius still later.
-- **Human-voice (Ch 7 expanded):** densified Diadem / Veiled Talk; festival tenants clause trimmed; Cassius Syria clause cut; hold market day, debt-word, law’s face, decoration, No daggers yet.
+- **Knows / learns:** after Lupercalia, the conspiracy begins to be spoken. Brutus resists aloud. Cassius uses Trebonius to bring in Casca.
+- **Plants → pays:** Galba (winter terms, consulship slight); Ligarius (pardoned after Africa); Casca (the first ugly minute); Trebonius (market day; holding Antony, Ch 15). Basilus, Cimber and Tillius come later.
+- **Must not:** no daggers yet.

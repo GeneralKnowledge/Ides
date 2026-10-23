@@ -1,7 +1,6 @@
 # Chapter 12: Dread / Fragment / Weather
 
-**Phase 1F** · SC-28, SC-29, SC-30 · lead-in to Ides week · NOTE-1 prep · AMB-1 · AMB-3
-**Human-voice:** Ch 12 expanded; pediment/tablinum/pontifex + bodyguard densified; pediment “measurement” clause trimmed.
+**Scenes:** SC-28, SC-29, SC-30 · lead-in to Ides week · NOTE-1 prep · AMB-1 · AMB-3
 
 ---
 
@@ -130,16 +129,6 @@ If someone had handed him a clean list of knives, he might have read it. Nobody 
 ---
 
 ## Continuity
-- Calpurnia lesser nightmares → toward DREAM-1; pediment temple-gable plant (no measurement caption).
-- Nysa NOTE-1 fragment seeded (incomplete; misreadable emphasis; not Artemidorus note).
-- **S-A1 / S4:** Household near-miss, Phileros almost catches linen; delayed safer handoff; fragment still ≠ Artemidorus sealed note (NOTE-1 dual held).
-- Caesar opacity: danger-as-weather; AMB-1 held; trusts Decimus habit; Spanish bodyguard dismissed + Senate oath joke.
-- Tablinum / pontifex maximus (office-house) glossed once.
-- **1F / E3:** SC-29 muddy overhear; SC-30 novelist-future wink cut.
-- MUST_EXPRESS: C6, D2, D6 prep, E3 prep.
-- Calpurnia dwell; dressing-room gossip (Spurinna/Decimus-door); atrium cheer → attendant cloak truth (spare/stay/friends); humour OFF (dread); NOTE-1 dual not merged.
-- **Anti-formula:** craft “exit-complaint” noun strip in narration.
-- **Expansion D21:** Household mesh fringe, Dama/Phileros/Pallas-Nysa wants without Senate (chicken-court weather).
-- Next: Ch 13 GO night (+ SC-32).
-**1G:** soft future “night that would break her” cut; wax/dread not weather.
-- **Human-voice (Ch 12 expanded):** densified Nightmares / Fragment / Weather; pediment measurement clause cut; hold near-catch, NOTE-1, Caesar weather opacity; no modern weekdays.
+- **Knows / learns:** Calpurnia’s lesser nightmares, toward DREAM-1. Nysa hears a fragment (NOTE-1): incomplete, its emphasis misreadable, not Artemidorus’s note. Phileros nearly catches the linen; she hands it off later and safer. Caesar treats danger as weather (AMB-1), trusts Decimus by habit, dismisses the Spanish bodyguard, jokes about the Senate’s oath. The household’s small wants go on (Dama, Phileros, Pallas, Nysa).
+- **Plants → pays:** the pediment (Ch 14); dressing-room gossip about Spurinna and Decimus at the door.
+- **Must not:** the two notes are never merged; the pontifex’s office-house glossed once; no future winks.

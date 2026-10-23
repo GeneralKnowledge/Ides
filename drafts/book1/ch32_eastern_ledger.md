@@ -1,7 +1,6 @@
 # Chapter 32: Eastern Ledger
 
-**Phase 1D.3** · SC-87, SC-88 · 43–42 · Chain 8 · F5 skip · B7
-**Human-voice:** Ch 32 feel-pass (rules); half+sureties / Decimus crack / *EID MAR* held.
+**Scenes:** SC-87, SC-88 · 43–42 · Chain 8 · F5 skip · B7
 
 ---
 
@@ -76,11 +75,7 @@ Cassius, somewhere else on the same war, would call this necessity, and would, B
 ---
 
 ## Continuity
-- Liberty as tax; *EID MAR* crack; F5 skipped; west courier incomplete (Mutina/lists/fasces).
-- MUST_EXPRESS: B7, C2/C3. Next: Philippi.
-**Phase 1D.3:** SC-87 courier bridge + template trim; SC-88 Italy-rumour echo.
-**Final integrated / E5:** SC-87: elder refuses full immediate take; sack weighed short; Cassius imposes half-now + sureties. Solvency epigram trimmed; immediate pressure before Philippi.
-- Elder step-talk after thanks-face (no craft “filed exit-complaint”); west courier Decimus/lists as **personal ledger crack**; *EID MAR* + GO-night + Decimus rumour as paid callbacks; humour OFF (extraction / brand crack).
-- **Human-voice:** flattened broken silence / mint-rumour / Cato-ledger parens; thinned fringe *mark me* and stacked *as if*; Philippi compressed as place-not-prophecy held.
-- **Human-voice (Ch 32):** one feel-pass; tax engine / elder step / west tablets / Decimus debit / GO thoughts / coin trap / crack Latin breaths; hold half+sureties, *becoming paid*, *EID MAR*, Philippi place-not-prophecy.
-- **Reader-earn (Ch 32):** Cassius’s hungry legions = Syria’s garrison came over + Dolabella’s men after Laodicea (Dolabella’s end by his own soldier’s sword); west tablets add the court in the boy’s consulship that condemned the men of March to empty benches, and the three looking east (why the silver now); Trebonius’s death at Smyrna (Dolabella, before dawn) sits in Cassius’s ledger above Decimus, Laodicea settled it; *EID MAR* reverse = two daggers + freedman’s cap, glossed by the mint-master, Brutus corrects to Rome; Brutus’s own head on the obverse vs his winter jab at Caesar’s living-face coins. Asia / *libertas* / Decimus rumour / GO night not re-glossed.
+- **SC-87 (Cassius):** liberty as a tax. An elder refuses to hand over all at once; the sack weighs short; Cassius imposes half now and sureties. His hungry legions: Syria’s garrison came over, and Dolabella’s men after Laodicea (Dolabella dead by his own soldier’s sword). West tablets, incomplete: Mutina, lists, fasces; the court in the boy’s consulship that condemned the men of March to empty benches; the three looking east (why the silver now); Trebonius killed at Smyrna before dawn (Dolabella), above Decimus in Cassius’s ledger.
+- **SC-88 (Brutus):** *EID MAR*: two daggers and the freedman’s cap, glossed by the mint-master; Brutus corrects it to Rome. His own head on the obverse against his winter jab at Caesar’s living-face coins.
+- **Plants → pays:** GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
+- **Must not:** not re-glossed: Asia, *libertas*, the Decimus rumour, GO night.
