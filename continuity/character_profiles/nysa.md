@@ -1,7 +1,6 @@
 # Nysa (F1)
 
 **Type:** Fictional · Regular POV  
-**Planning dossier:** `story/characters/F1_nysa.md`  
 **Subplot ownership:** T1 (household INF)
 
 ## Desire
@@ -58,4 +57,50 @@ Secret child of Caesar; omniscient spymaster; modern slang; narrated as slave/pr
 ## Consistency questions
 - Object-precision over thesis?
 - Omission as survival?
-- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. **Decided 2026-10-23 (Reuben):** Caesar freed her, so she is legally Julia Nysa and after the Ides her patron is his heir, Octavian; her *obsequium* falls on the boy while she serves in Antony’s house (pays in Ch 25 undercount and later when he returns to Rome). House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
+- **Legal status:** Freedwoman (*liberta*) per the planning dossier below / POV lock — not a slave. **Decided 2026-10-23 (Reuben):** Caesar freed her, so she is legally Julia Nysa and after the Ides her patron is his heir, Octavian; her *obsequium* falls on the boy while she serves in Antony’s house (pays in Ch 25 undercount and later when he returns to Rome). House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
+
+## Planning dossier (folded in from `story/characters/` on 2026-10-23)
+
+### Identity
+| Field | Content |
+|-------|---------|
+| **Name** | Nysa (Greek name common in servile/freed populations) |
+| **Legal status** | Caesar’s freedwoman (Julia Nysa); after the Ides her patron is Octavian; bound by *obsequium* (canon FIC-1a) |
+| **Age c. 44** | ~28 |
+| **Languages** | Greek (native), Latin (fluent spoken; functional reading of tablets) |
+| **Skills** | Dictation aid, seal-watching, message running, memory for faces |
+| **Literacy** | Moderate — enough to be dangerous, not a Tiro-level secretary |
+
+### Access map
+- **House:** Domus Publica on the Sacra Via (HOUSE-1) until spring 44; from Ch 23 Antony’s house in the Carinae  
+- **Can enter:** Calpurnia’s rooms (with permission), atrium edges, kitchen, side door to street, some waiting clients’ chatter  
+- **Cannot enter:** Closed Senate; Antony’s inner consilium; Liberators’ core meetings (unless sent)  
+- **Patrons:** Owes loyalty to household; privately calculates survival  
+- **NOTE-1:** Her wax fragment is a *parallel* incomplete warning — not the unread Artemidorus-tradition note pressed on Caesar en route
+
+### Relationships
+| Person | Edge |
+|--------|------|
+| Calpurnia | Mistress until spring 44; sees dread |
+| Antony’s steward / Fulvia | Household from Ch 23 |
+| Octavian | Legal patron after the Ides |
+| Caesar | Distant dominus; fear + fascination |
+| Door-keeper (D name TBD) | Rival/ally for tips |
+| F4 Hordeonius | Occasional message overlap (debts/gifts) |
+| Subura contact “Medullina” (D) | Rumour swap |
+
+### Information profile
+- **Speed:** Fast inside Rome  
+- **Reliability:** High on household fact; low on political meaning  
+- **Arc seed:** Carries a warning fragment too late / incomplete (echo M3 without claiming Artemidorus identity)
+
+### Ides week function
+See `ides_week_hour_map.md` F1 beats: spare-Antony fragment; blocked tablet; false “Antony dead”; Cinna lynching witness.
+
+### Must not
+- Solve the conspiracy alone  
+- Be secret child of Caesar  
+- Die only to ennoble an elite POV (if she dies, it must be consequence, not lesson furniture)
+
+### Theme
+Knowledge without power; loyalty under manumission debt.

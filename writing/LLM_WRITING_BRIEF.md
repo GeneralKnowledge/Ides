@@ -17,7 +17,7 @@ Read this file before drafting. Obey it over improvisation.
 1. `docs/executive_overview.md`  
 2. `continuity/canon.md` (**locks + tiers**) + skim `continuity/lock_architecture_audit.md` when proposing structural change  
 3. `story/historical_anchors.md`  
-4. `story/pov_lock.md` + `story/characters/*`  
+4. `story/pov_lock.md` + `continuity/character_profiles/`  
 5. `story/scene_cards/` for the act you are drafting  
 6. `story/ides_week_hour_map.md` (for Act 2–3)  
 7. `writing/MUST_EXPRESS.md` (behavioural checklist — outcomes may travel by alternate scene delivery)  

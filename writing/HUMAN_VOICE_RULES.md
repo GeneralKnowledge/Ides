@@ -72,7 +72,7 @@ Fix these when they cluster. Leave scattered singles alone.
 4. **Keep load-bearing brands** even if a detector flags them: soft chain, “I digest,” hopeful-shadow ban, name-take, spare Antony, NOTE-1 mud, wrong Cinna, Seius mule, Decimus ford, Cassius INF.
 5. **Surgical on gold spine (Ch 14–19).** Prefer fewer, higher-value cuts. Do not flatten Ides propulsion.
 6. **Stop after one successful feel-pass** on a chapter unless a human cold read names a concrete leftover cluster.
-7. **Hard cap: two targeted passes per chapter** without a new whole-book reason. A third detector-led pass is a revert signal (see Ch 5).
+7. **Hard cap: two targeted passes per chapter** without a new whole-book reason. A third detector-led pass is a revert signal (see Ch 5). A whole-book audit with evidence for each change (for example the 2026-10-23 tightening pass, `archive/pass_logs/tightening_pass_2026-10-23.md`) is such a reason; it does not reset the count for later detector-led passes.
 8. **No em dashes** in scenic prose (author voice).
 9. **No modern weekdays** (Monday–Sunday). Rome runs on Kalends / Nones / Ides and the eight-day market cycle (*nundinae*). Trebonius’s boring-business leash is **market day**, not Monday.
 10. **Make the voice survive the improvement.** A line is not better because it is shorter, clearer, more vivid or more elegant. Before changing dialogue or close-third narration, check that it keeps the speaker’s vocabulary and professional habits, their evasions and blind spots, what they know, their status and immediate aim, and their own rhythm and degree of polish.

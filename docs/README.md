@@ -32,7 +32,7 @@ Never quietly promote C→A or D→A.
 | Open questions | [`../continuity/unresolved_questions.md`](../continuity/unresolved_questions.md) |
 | Historical invariants | [`../story/historical_anchors.md`](../story/historical_anchors.md) |
 | Story architecture | [`../story/`](../story/), [`../continuity/expansion/`](../continuity/expansion/) |
-| Characters | [`../continuity/character_profiles/`](../continuity/character_profiles/), [`../story/characters/`](../story/characters/) |
+| Characters | [`../continuity/character_profiles/`](../continuity/character_profiles/) |
 | Writing brief | [`../writing/LLM_WRITING_BRIEF.md`](../writing/LLM_WRITING_BRIEF.md) |
 | Research | [`../research/`](../research/) |
 | Completed development records | [`../archive/`](../archive/) |
