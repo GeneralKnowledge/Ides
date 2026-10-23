@@ -9,8 +9,6 @@
 
 | Doc | Purpose |
 |-----|---------|
-| [`book1_story_summary.md`](book1_story_summary.md) | One-page spine, dual engines, grandeur must-feel |
-| [`act_summaries.md`](act_summaries.md) | Per-act dramatic question + **causal chains** |
 | [`subplot_tracks.md`](subplot_tracks.md) | T1–T7: promise, travel, payoff / open, engine intersect |
 | [`beat_deposit_map.md`](beat_deposit_map.md) | Beats + **disposition** (earned / under-integrated / …) |
 | [`expansion_integration_review.md`](../../archive/reports/expansion_integration_review.md) | *(archive)* Diagnosis 2.0 — historical |

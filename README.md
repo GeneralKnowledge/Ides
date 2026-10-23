@@ -4,12 +4,26 @@ Historical fiction — Book 1 of a late-Republic novel (Rome ~46–42 BC), endin
 
 ## Source of truth (read in this order)
 
-1. **Manuscript** — [`drafts/book1/`](drafts/book1/) (34 chapters). Authoritative for what is presently written.
+1. **Manuscript** — [`drafts/book1/`](drafts/book1/) (Utica prologue + 34 chapters). Authoritative for what is presently written.
 2. **Canon & anchors** — [`continuity/canon.md`](continuity/canon.md), [`story/historical_anchors.md`](story/historical_anchors.md), [`continuity/contradictions.md`](continuity/contradictions.md).
-3. **Story architecture** — [`story/`](story/) (timeline, POV, scene cards, mysteries, consequences) + [`continuity/expansion/`](continuity/expansion/) + [`continuity/character_profiles/`](continuity/character_profiles/).
+3. **Story architecture** — [`story/`](story/) (master timeline, POV lock, mysteries, consequences) + [`continuity/character_profiles/`](continuity/character_profiles/) + [`continuity/expansion/subplot_tracks.md`](continuity/expansion/subplot_tracks.md) (tracks, planned and landed) and [`beat_deposit_map.md`](continuity/expansion/beat_deposit_map.md) (logged deposits).
 4. **Writing guidance** — [`writing/LLM_WRITING_BRIEF.md`](writing/LLM_WRITING_BRIEF.md), [`writing/CHAPTER_MAP.md`](writing/CHAPTER_MAP.md), [`writing/`](writing/).
 5. **Research** — [`research/`](research/) when a historical question arises.
 6. **Archive** — [`archive/`](archive/) completed plans, pass logs, and editorial history.
+
+**Which file is current for what**
+
+| Question | File |
+|----------|------|
+| What happens, and in which chapter | [`writing/CHAPTER_MAP.md`](writing/CHAPTER_MAP.md) |
+| What must stay true | [`continuity/canon.md`](continuity/canon.md) |
+| Which history we follow, and when | [`story/historical_anchors.md`](story/historical_anchors.md), [`story/master_timeline.md`](story/master_timeline.md) |
+| Who a character is | [`continuity/character_profiles/`](continuity/character_profiles/) |
+| What is being built next | [`continuity/expansion/subplot_tracks.md`](continuity/expansion/subplot_tracks.md) |
+| How to write and revise | [`writing/HUMAN_VOICE_RULES.md`](writing/HUMAN_VOICE_RULES.md), [`writing/LLM_WRITING_BRIEF.md`](writing/LLM_WRITING_BRIEF.md), [`writing/STYLE_GLOSSARY.md`](writing/STYLE_GLOSSARY.md) |
+| Is it ready | [`writing/FINAL_READINESS_GATE.md`](writing/FINAL_READINESS_GATE.md) |
+
+Pre-draft beat sheets, scene cards and finished-phase records are in [`archive/planning/`](archive/planning/) (moved 2026-10-23).
 
 Open questions: [`continuity/unresolved_questions.md`](continuity/unresolved_questions.md).  
 Navigation by need: [`docs/INDEX.md`](docs/INDEX.md).  

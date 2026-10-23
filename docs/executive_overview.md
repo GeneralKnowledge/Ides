@@ -67,7 +67,7 @@ Eighteen cores including Caesar’s knowledge, dreams, Decimus’ aims, Antony s
 
 ## G. POV framework
 
-See `story/pov_structure.md`.
+See `story/pov_lock.md` (the older `pov_structure.md` is archived in `archive/planning/story/`).
 
 **Recommended:** Option A/D hybrid — rotating historical ensemble (Decimus, Brutus, Cassius, Antony, Cicero, Octavian + specials) plus fictional slots for missing altitudes. Caesar as intermittent early POV only.
 
@@ -157,9 +157,9 @@ Resume from the manuscript + `continuity/canon.md`. Optional later work (line ed
 
 **Canon highlights:** Domus Publica; Suet. 81.3 dream; dual warning notes; manufactured Sibylline king-talk; SIDE-1 debt murder; working Ides choreography; **Book 1 ends at Philippi**; close-third past tense.
 
-**Drafting entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `CHAPTER_MAP.md` + `story/scene_cards/` + `drafts/book1/`.
+**Drafting entrypoint:** `writing/LLM_WRITING_BRIEF.md` + `CHAPTER_MAP.md` + `drafts/book1/` (pre-draft scene cards archived in `archive/planning/story/scene_cards/`).
 
-**Idea coverage:** `writing/MUST_EXPRESS.md` and `writing/GAPS_AND_SUGGESTIONS.md`.
+**Idea coverage:** `writing/MUST_EXPRESS.md`.
 
 Revise **one chapter or stitch at a time**. Do not one-shot the novel. Do not reopen completed archive plans as current work.
 
@@ -179,7 +179,7 @@ History constrains; mistakes matter; rumours err; characters lack future knowled
 /drafts/book1/  manuscript (Ch 01–34)
 /continuity/    canon, questions, contradictions, future_research,
                 lock_architecture_audit, character_profiles/, expansion/
-/story/         architecture, beats, scene cards, mysteries, POV
+/story/         anchors, timeline, mysteries, POV lock (pre-draft beats and cards in archive/planning/)
 /writing/       drafting brief, chapter map, voice, reference
 /research/      historical evidence
 /archive/       completed plans, pass logs, reports

@@ -33,14 +33,14 @@ Active working surface only. Completed plans and pass logs: [`../archive/`](../a
 | What we can invent freely | `story/flexibility_zones.md` |
 | Act structure (no chapters) | `story/master_story_frame.md` |
 | Story-facing chronology | `story/master_timeline.md` |
-| Beat sheets | `story/beats/` |
-| Scene cards (info in/out) | `story/scene_cards/` |
+| Beat sheets (pre-draft, archived) | `archive/planning/story/beats/` |
+| Scene cards (pre-draft, archived) | `archive/planning/story/scene_cards/` |
 | Mysteries & ambiguity | `story/mysteries.md` |
 | How rumour moves | `story/information_network.md` |
 | Who knew what (14–15 Mar 44) | `story/ides_week_hour_map.md` |
 | Consequence chains | `story/consequence_chains.md` |
 | Plant / payoff | `story/foreshadowing.md` |
-| POV lock | `story/pov_lock.md`, `story/pov_structure.md` |
+| POV lock | `story/pov_lock.md` |
 | Fictional POV profiles | `continuity/character_profiles/` |
 | SIDE-1 murder subplot | `story/side1_clue_schedule.md` |
 

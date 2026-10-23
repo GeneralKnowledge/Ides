@@ -47,7 +47,7 @@ Including: Caesar dies 15 Mar 44; will elevates Octavian; funeral riot; Mutina; 
 | **FIC-1a** | Nysa is Caesar’s freedwoman (Julia Nysa); after the Ides her patron is his heir, Octavian. From spring 44 (Ch 23) she serves in Antony’s Carinae house | **Continuity commitment** (decided 2026-10-23) | Pays: Ch 25 undercount; Ch 30 kitchen door; Ch 34 ending |
 | **FIC-2a** | Seius is the nephew of the real Marcus Seius (curule aedile 74, cheap grain); Seia Prima is that man’s eldest daughter (cousin marriage). His Hordeonius debt is the aedile canvass | **Continuity commitment** (decided 2026-10-23) | Ch 3, 10 |
 | **FIC-2b** | In the proscriptions Seius hides and saves **Gavius**, paid for with a Hordeonius loan | **Continuity commitment** (decided 2026-10-23) | Plant: Ch 30 hiding clause; payoff T11 |
-| **BEAT-1** | Five-act beat sheets | **Structural preference** (pre-draft; the manuscript now leads) | `story/beats/` — outcomes > sheet labels |
+| **BEAT-1** | Five-act beat sheets | **Structural preference** (pre-draft; the manuscript now leads) | `archive/planning/story/beats/` (archived 2026-10-23) — outcomes > sheet labels |
 | **AMB-1** | M1 Caesar’s knowledge ambiguous to reader | **Narrative invariant** | May add evidence; must not *confirm* |
 | **AMB-2** | Pansa poison rumour-only | **Narrative invariant** | |
 | **AMB-3** | No confirmed divine causation | **Narrative invariant** | |
