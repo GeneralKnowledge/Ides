@@ -93,7 +93,7 @@ After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `co
 ## Expansion deposits (architecture-first)
 
 See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md) and [`archive/reports/expansion_integration_review.md`](../archive/reports/expansion_integration_review.md).  
-Update this map only after beats are marked **LANDED** there. Review 2.0: **integrate-first**; no new wave toward LEN-1.
+Update this map only after beats are marked **LANDED** there. Review 2.0 was integrate-first; from 2026-10-23 a historical-subplot wave is open (see `continuity/expansion/README.md`). Still no padding toward LEN-1.
 
 | Wave | Chapters | LANDED IDs | Integration flags |
 |------|----------|------------|-------------------|

@@ -76,7 +76,7 @@ Passing these conditions means the expansion phase has stopped inventing materia
 
 ## Recommended next action
 
-Default: **leave the manuscript alone** unless a reader-led problem appears. No LEN-1 deposit wave. No new expansion phase from this folder.
+**2026-10-23, reader-led:** the author found that Book 1 lacks real historical side plots. A new expansion phase is open for documented historical subplots (new tracks allowed; see [`subplot_tracks.md`](subplot_tracks.md)). Each new beat still answers the three novelist questions above, and no beat is added only to reach LEN-1.
 
 ---
 

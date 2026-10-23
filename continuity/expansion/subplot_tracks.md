@@ -3,7 +3,9 @@
 Each track accounts to the story: **dramatic promise**, **direction changes**, **Engine A/B intersect**, **payoff / deliberate open / deferred**.  
 Rule: every *new* deposit must change a next choice. Tracks that already work get **no obligatory new beats**.
 
-**Integration status (Review 2.0):** All seven tracks have plant→travel→payoff (or deliberate open) in prose. Residual work is revision of under-integrated deposits, not new track invention.
+**Integration status (Review 2.0):** All seven tracks have plant→travel→payoff (or deliberate open) in prose.
+
+**New tracks (2026-10-23):** New tracks may be added. The earlier ban was useful while refining existing deposits; Book 1 now needs real historical side plots so that the historical cast lives parallel lives, not only the fictional POVs. A new track gets a T-number and a table here (promise, plant, direction change, payoff, engine intersect, must-not) before its prose lands.
 
 ---
 
@@ -137,6 +139,6 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 ## Track priority (post–Review 2.0)
 
 1. **Integrate** under-integrated deposits (T2/D2, T3/D16, clarify D5) — revision, not new IDs.  
-2. **Do not** invent new tracks.  
+2. **New tracks are welcome** when they are documented history or a flexibility-zone invention that intersects Engine A/B. Log each one here first.  
 3. **Do not** force every track through every act.  
 4. Further LEN-1 growth only if a beat answers the three novelist questions in `README.md`.
