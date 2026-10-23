@@ -35,9 +35,9 @@ A whisperer tried again to sell him Visellius’s old tablet ghosts, Basilus orb
 
 Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “The Senate pardoned the doing in March,” he said. “You want me to pay for the knowing?” Then, gently, blessing-flat: “Archaeology. I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterward, ego housekeeping, not fear.
 
-The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offence waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
+The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” Sosia’s mouth twitched, then he drank so the twitch would look like thirst.
 
-The Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+The Puteoli man and Sosia argued the next question in the same breath. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
 
 “Antium?” the Puteoli man said.
 
@@ -58,7 +58,7 @@ He priced the Puteoli question twice, once for Antony’s veterans, once for a b
 POV: F1 Nysa · Domus Publica after masters shift
 Date / place: Service court / tablinum edge · M12
 Canon refs: NOTE-1 residue · HOUSE-1
-Info ENTER: Grief logistics · EXIT: Tablets/seals become others’ weapons
+Info ENTER: Grief logistics · EXIT: Tablets/seals become others’ weapons; Nysa takes the new bow and serves in Antony’s house
 Overhear risk: Extreme staff
 
 ---
@@ -81,7 +81,15 @@ Dama muttered that the chickens had better taste than the new authority. Nysa di
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 
-Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. “The Carinae,” he said. “Pompey’s old house. The consul’s now.” In the kitchen they said Antony had bought it at Caesar’s auction and never paid. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow. Nysa gave the bow the atrium had taught and walked back while she still could. She kept her eyes on doors that no longer held her mornings.
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. “The Carinae,” he said. “Pompey’s old house. The consul’s now.” In the kitchen they said Antony had bought it at Caesar’s auction and never paid. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow.
+
+Nysa looked past him into the atrium. Calpurnia’s women were already chosen for wherever Calpurnia went next, and Nysa was not one of them. The Domus was going to Lepidus’s people with its cupboards. The Subura had rooms, and rooms had rent. The clerk waited the way men wait who have already counted the answer.
+
+A kitchen girl came through the door behind her with a basket, and Nysa watched her bow to the clerk: shallower than the Domus bow, quicker, the eyes down before the head moved, a bow that took less time because in this house there were more people to give it to. Nysa gave it back to the clerk on the first try.
+
+He nodded as if a jar had been shelved. “The kitchen,” he said. “Tomorrow, before light. The steward likes to know who carries.”
+
+She walked back across the Sacra Via for her bundle while the streets were still hers to cross. She did not tell Phileros which bow she had given. He saw it anyway in the morning, when she gave it to him at the gate out of a night’s practice, and he laughed his short laugh, and this time it was not too short.
 
 ---
 
@@ -135,6 +143,6 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 - **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.
 - **Expansion D8:** Domus emptying, Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
 - **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).
-- **Golden-read P3-d:** Nysa receipt errand to Antony threshold; refuses soft “stay attached” transfer.
+- **Golden-read P3-d:** Nysa receipt errand to Antony threshold. **Changed 2026-10-23 (Reuben’s decision, T11 plant / T9):** she now takes the “stay attached” offer, learns the Carinae bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; Domus to Lepidus; Subura rent). Pays Ch 25 SC-68c (games count) and Ch 30 F1 (lists seen from Fulvia’s house).
 - **Reader-earn (Ch 23):** earns ride on stall Q&A and Domus staff, no narrator explainer sentences. Puteoli man asks who says what is in Caesar’s papers → Sosia: widow sent notebooks and money to Antony’s house the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12) vs eastern king bought back in Fulvia’s sitting-room (Deiotarus unnamed); whisperer’s scrap = February names from the baths, worthless because the Senate pardoned the doing; Sosia seeds Antium = Brutus’ sea house a day down the coast, Servilia’s clerks moved in (before Ch 24 room); Phileros: house goes with the priesthood, priesthood to Lepidus with Antony holding the ladder; Nysa carried the first chests to the gate on the Ides night; receipt errand to the Carinae, Pompey’s old house bought at Caesar’s auction and never paid (kitchen talk); Seius sounded “back in February”. Not re-glossed: bronze acts / amnesty bargain (Ch 17, 21), Domus Publica office-house (Ch 12), NOTE-1 (Ch 12), Lepidus master of horse (Ch 17), Fulvia (Ch 7), Seius / aedile (Ch 10).
 - **Human-voice (Ch 23):** one light trough feel-pass; ash as-if / stall collision / danger-without-wax / receipt bow / baker corner breaths; hold F4 ledger, SIDE-1 fizzle, Seius flinch, oil-flask fail.

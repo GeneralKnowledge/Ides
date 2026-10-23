@@ -111,11 +111,7 @@ He told the courier, “Tell Hirtius the books are being misused by flatterers, 
 
 The courier hesitated. “He asked for you in the room, not on the tablet.”
 
-“Then he may read my tablet in the room,” Cicero said, and sealed nothing that committed his body to anyone’s test balloon.
-
-The courier tried once more, almost kindly. “He said the talk is already in kitchens. Tablets. Beware. Same weather, cheaper cups.”
-
-Cicero’s mouth twitched, almost a smile, almost a bruise. “Then the kitchens are better informed than half the Senate. Tell him I remain occupied.”
+“Then he may read my tablet in the room,” Cicero said.
 
 “Occupied with what?”
 

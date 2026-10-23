@@ -17,7 +17,7 @@ Project overview: [`docs/README.md`](docs/README.md).
 
 ## Current state
 
-Book 1 draft (Ch 1–34) is in place with dinner-first opening. Mid-tier expansion and later development phases are **complete** (records in [`archive/`](archive/)). Resume work from the manuscript and canon — not from completed phase plans.
+Book 1 draft (Utica prologue + Ch 1–34) is in place; the Ch 1 dinner follows the prologue (2026-10-23). Mid-tier expansion and later development phases are **complete** (records in [`archive/`](archive/)). Resume work from the manuscript and canon — not from completed phase plans.
 
 **Book 1 ends at Philippi.** Actium / Principate are series hooks only, not this volume’s plot.
 

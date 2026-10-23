@@ -30,6 +30,8 @@ Beside him an older client named Naevius held his toga with the weariness of a m
 
 “Arrive at the exact hour of a man who has already eaten. Not early enough to look hungry. Not late enough to look busy.” Naevius shifted his weight. “Nobody manages it. Everyone tries.”
 
+“You’re old Seius’s nephew,” Naevius added, still not moving his lips. “The grain man. My father ate cheap bread off your uncle the year the city went hungry. Every old client in this line remembers it. None of them will give you a nod for it.”
+
 Naevius went up first. The patron said his name, warmly, and the nod travelled the whole distance. Naevius took it, bowed to the exact height, and came back past Seius with a face like a closed shop. “Thirty years,” he whispered. “The nod is a muscle. Yours will grow.”
 
 When Seius’s turn came, the patron’s nod was thin, already halfway to the next man.
@@ -42,7 +44,7 @@ Seius smiled like a man who owned useful things. He didn’t. He owned a sister�
 
 “I am grateful for the guidance,” Seius said, with the exact bow height the atrium taught.
 
-Outside, in the lane’s cold, the middleman who smelled of Hordeonius’s wax waited with the patience of a professional accident. Seius had already borrowed for the toga and for a jar of oil good enough to be seen carrying. Now, it appeared, he would borrow for the borrowing. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
+Outside, in the lane’s cold, the middleman who smelled of Hordeonius’s wax waited with the patience of a professional accident. Seius had already borrowed for the canvass: the whitened toga for the aedile elections, the small gifts a candidate is seen to give, a jar of oil good enough to be seen carrying. Now, it appeared, he would borrow for the borrowing. The sum was small enough to feel temporary and large enough to change what dinners Seius could refuse.
 
 “Partial favour upstairs,” the middleman said. “Full paper downstairs. You understand leverage.”
 
@@ -74,7 +76,7 @@ At the house threshold Seia Prima was already waiting with a broom she did not n
 
 “It lets in weather.”
 
-Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “Then we dine as if the nod were meat,” she said, and turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
+Seius handed her the invented warmth first, then the true sum. She weighed both without raising her voice. “My father sold this city its grain at a loss for a whole year,” she said, “and thirty years on men still nod to him in the street. I was born a Seia and married one, so that nod would stay in the house. Tonight we dine as if yours were meat.” She turned back inside before the lane could hear her correct him. The middleman’s wax had followed him home; Seia Prima set an extra cup anyway and did not drink from it.
 
 ---
 
@@ -135,3 +137,4 @@ A cake-seller from two stalls over (flour still on her forearms) leaned in with 
 - **Law-sweep:** ≥3-person atrium (patron + secretary + Seius + Naevius) and stall knot; polite-face → lane complaint held; warehouse humour with baker snort; Seia Prima audits smile vs paper by behaviour; Africa *closed enough* → Spain-unfinished rates callback to Ch 2 street; Seius obligation planted for later collect.
 - **Opening prose pass:** Ch 2 *new-ring: rate held / unpaid* still on the wax (transition stitch only).
 - Next: Ch 4 Munda + soft chains.
+- **Seius family (2026-10-23, Reuben):** Naevius places Seius as old (real) Marcus Seius’s nephew, the cheap-grain aedile of 74 (Cic. *Off.* 2.58); Seia Prima is that man’s eldest daughter, a cousin marriage, which is why she wants the nod back; the borrowed sum is now the aedile canvass. Real Seius stays offstage.

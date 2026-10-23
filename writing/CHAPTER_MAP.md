@@ -56,11 +56,11 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
 | 21 | SC-60, SC-61 | CIC, BRU | Letters; Lanuvium cage |
-| 22 | SC-62, SC-63 | OCT/CIC, ANT | **Name Caesar**; Antony underestimates |
-| 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house; majority cowardice |
+| 22 | SC-62, SC-63, SC-63b | OCT/CIC, ANT, OCT | **Name Caesar**; Antony underestimates; Pompey’s gardens refusal (T9) |
+| 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
-| 25 | SC-68b, SC-69 | CIC, CAS/BRU | Philippics; East departure |
-| 26 | SC-70 (+ CLEO-1/FS11 folded) | DEC | Cisalpine; Cleo/Sextus as rumour-margin only |
+| 25 | SC-68c, SC-69, SC-68b | F1, CAS/BRU, CIC | Victory games and star (T9); East departure; Philippics |
+| 26 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
 | 27 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
 
 ---
@@ -93,7 +93,7 @@ After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `co
 ## Expansion deposits (architecture-first)
 
 See [`continuity/expansion/beat_deposit_map.md`](../continuity/expansion/beat_deposit_map.md) and [`archive/reports/expansion_integration_review.md`](../archive/reports/expansion_integration_review.md).  
-Update this map only after beats are marked **LANDED** there. Review 2.0: **integrate-first**; no new wave toward LEN-1.
+Update this map only after beats are marked **LANDED** there. Review 2.0 was integrate-first; from 2026-10-23 a historical-subplot wave is open (see `continuity/expansion/README.md`). Still no padding toward LEN-1.
 
 | Wave | Chapters | LANDED IDs | Integration flags |
 |------|----------|------------|-------------------|

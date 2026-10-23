@@ -30,7 +30,17 @@ Lepidus wanted the law first, because Lepidus always wanted the law first. “A 
 
 Nobody laughed. Antony laid his palm on the tablet where the money should have been. Forty-odd legions wanted paying, and the colonies Caesar had promised them were still surveyor’s stakes. “Sulla did this,” Lepidus said quietly, as if the dead could be asked for a precedent.
 
-“Sulla posted names,” Antony said. “Any man may kill one of the men on the board and bring in the head for silver from the treasury. A slave who does it walks free. The dead man’s house and land go to auction, and the auction pays the legions. That is all a list is. Names, heads, and a sale.”
+“Sulla posted names,” Antony said.
+
+Lepidus had brought a secretary, because Lepidus always brought a secretary, and the man had been holding a draft since the bread came in. He read it in the voice clerks keep for inventories. “‘Whoever kills one of those named below and brings in the head shall have from the treasury twenty-five thousand denarii. A slave, ten thousand, with his freedom and his master’s citizenship. Informers the same.’”
+
+“Sulla paid half as much,” Lepidus said.
+
+“Sulla had fewer legions to pay,” Antony said. “Read the rest.”
+
+“‘The goods of the condemned to be sold at auction. Whoever hides one of them, or helps him away, shall be one of them.’”
+
+Antony laid his palm on the tablet again. “There. Names, heads, and a sale, and the sale pays the legions.”
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
@@ -58,7 +68,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 “The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving.
 
-They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed. Seals did not wash.
+They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed.
 
 Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
@@ -67,7 +77,7 @@ Antony poured wine that did not taste like celebration. He did not look at Octav
 # SC-85: Proscription Economy
 
 POV: F2 / F4 / F1 (triptych) · Rome
-Date / place: Dec 43 · Rome streets, Hordeonius’s stall, the Domus
+Date / place: Dec 43 · Rome streets, Hordeonius’s stall, Antony’s Carinae house
 Canon refs: A13 · Chain 7 · Festus pattern
 Info ENTER: Lists posted · EXIT: Betrayal market; confiscations
 Overhear risk: Extreme terror
@@ -76,9 +86,9 @@ Overhear risk: Extreme terror
 
 ### F2: Seius
 
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
+Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the square letters ran down to the clause men read twice: *whoever hides one of these, or helps him away…* A neighbour who had once loaned him applause was present in black letters. Seius didn’t stop walking. Stopping looked like guilt.
 
-At the corner Gavius from the next block, petition-tablet man, dinner-circuit memory, stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap. Seius heard his own flinch from the baths and the dinner return as street weather. A name collision that wanted him to claim or deny kinship with ink that killed.
+At the corner Gavius from the next block, petition-tablet man, dinner-circuit memory, stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap.
 
 “I do not know that spelling,” Seius said. True enough to keep his door; false enough that Gavius’s mouth flattened. The woman stepped back. Kinship itself felt contagious. Seius bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks twice. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn’t laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her, old Seia who audited his atrium smile against paper. He stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
@@ -94,7 +104,7 @@ Nysa saw a slave, Festus or a man using Festus’s method, sell a household with
 
 Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. A woman stopped him mid-letter, pressed a coin into his palm, and whispered a different spelling. The boy hesitated, coin versus chalk. Then he rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not correct him. Correction joined you to the wood.
 
-Phileros drank less now; fear sobered some men and ruined others. He asked Nysa if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. Survival was an unprinted decree. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
+Phileros drank less now; fear sobered some men and ruined others. He came to the Carinae kitchen door, where Nysa had carried for Antony’s steward since the spring before last, and asked her if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
 
 ---
 
@@ -112,3 +122,4 @@ Phileros drank less now; fear sobered some men and ruined others. He asked Nysa 
 - **Reader-earn (Ch 30 expanded):** gap map §5 paid. Island below Bononia with Lepidus crossing first and mutual pat-down (App. *BC* 4.2 trad.); Lepidus’s chair = legions that waded to Antony (pays Ch 29); triumvir office named once in Lepidus’s mouth (tribune’s law, three men for setting the state in order, five years, consul’s power, no veto = Lex Titia) with Antony’s mint-and-jail jab and Octavian’s “minds both”; proscription teach-beat in Antony’s answer to Lepidus’s Sulla precedent (head-money from treasury, slave freed, confiscation auction pays legions; App. *BC* 4.11 trad.) before “lists” becomes weather. F-triptych not re-glossed; Festus slave-informer and Seius board now land on the taught terms.
 - **Human-voice (Ch 30):** one feel-pass; rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
 - **Rules audit (Ch 30):** SC-84 locked to Octavian POV (Antony’s joke-die and pour now seen; Formiae previews and narrator verdict cut per VOICE-1); Sosia is *he* (Ch 2–28); scene date lines added.
+- **T9/T11 continuity (2026-10-23):** Nysa serves in Antony’s house from Ch 23; F1 date line and Phileros beat moved to the Carinae kitchen door. Fuller Fulvia-house lists material waits for T11.

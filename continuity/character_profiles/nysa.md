@@ -21,7 +21,7 @@ Precise about things; rare dry survival asides. Not omniscient spy.
 
 ## Off-page life
 Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridors after sale.  
-**P3-d:** Orbit may widen to new-authority thresholds (receipt errands); refuse soft “stay attached” transfers — still no Senate core.
+**P3-d (changed 2026-10-23):** Takes the Carinae “stay attached” offer in Ch 23 and serves in Antony’s kitchen from spring 44. Still no Senate core: she sees Antony’s house from the scullery, counts for the steward, and is asked for the true number only by Fulvia’s woman (Ch 25).
 
 ## Relationship matrix (attitude)
 
@@ -40,7 +40,8 @@ Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridor
 | Setup | 1, 6, 11–12 | Edge; Capys/Spurinna kitchen; NOTE-1 fragment |
 | Pressure | 14–16 | Blocked tablet; “I burned it” lie; Curia spit / false Antony amplify |
 | Cost | 18–19 | Will street leak; funeral water; Wrong Cinna; true wax burn |
-| End | 23, 30 | Empty seals; lists triptych; fear moved house |
+| Turn | 23, 25 | Empty seals; takes the new bow; games count, small number for the steward, true one for Fulvia’s woman |
+| End | 30 | Lists triptych from the Carinae kitchen door; fear moved house |
 
 ## Behavioral tells
 Basin careful; blank tablet habit then shelf; chickens safer than senators; wax against ribs until charcoal.
@@ -57,4 +58,4 @@ Secret child of Caesar; omniscient spymaster; modern slang; narrated as slave/pr
 ## Consistency questions
 - Object-precision over thesis?
 - Omission as survival?
-- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.
+- **Legal status:** Freedwoman (*liberta*) per `story/characters/F1_nysa.md` / POV lock — not a slave. **Decided 2026-10-23 (Reuben):** Caesar freed her, so she is legally Julia Nysa and after the Ides her patron is his heir, Octavian; her *obsequium* falls on the boy while she serves in Antony’s house (pays in Ch 25 undercount and later when he returns to Rome). House temper / incomplete-message cost may still frighten her (*obsequium*); do not narrate her as property.

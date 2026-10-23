@@ -1,6 +1,6 @@
 # Human-voice rules — Book 1
 
-**Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22.  
+**Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22; revision vs development split (§1a) added 2026-10-23.  
 **Purpose:** Keep the novel feeling like rooms with bodies, not polished caption.  
 **Not:** A detector-optimisation programme. Detector flags are clues, not success metrics.
 
@@ -31,7 +31,19 @@ A substantive recommendation names:
 
 **Acceptance:** a reviewer can explain the problem without saying that a detector flagged it or that a rule says to change it. If they cannot, leave the passage alone.
 
-**Protected material needs a demonstrated defect.** The strongest sequences (the Ch 14–19 gold spine, the held beats and load-bearing brands in §3.4, the settled non-goals in §4.6) and every deliberate ambiguity (`LLM_WRITING_BRIEF.md` §8) are not revised for improvement, tightening or a reviewer’s taste. They change only to fix a defect shown under this rule, and the fix keeps what made them work. The book’s structure is not reopened, and battle or war sequences are not expanded, to make the book feel more substantial.
+**Protected material needs a demonstrated defect.** The strongest sequences (the Ch 14–19 gold spine, the held beats and load-bearing brands in §3.4, the settled non-goals in §4.6) and every deliberate ambiguity (`LLM_WRITING_BRIEF.md` §8) are not revised for improvement, tightening or a reviewer’s taste. They change only to fix a defect shown under this rule, and the fix keeps what made them work. Protection guards against polishing, not against story. When development work (below) genuinely needs a protected passage, open it: say what the new material needs from it, change only that, and record what was kept.
+
+### 1a. Revision and development are different work
+
+The rules above govern **revision**: changing prose that already exists to make it better. **Development** is adding story: new scenes, new tracks, new chapters, or moving material so a turning point happens on the page instead of in summary. Development is allowed whenever it answers a story need, and it follows its own test instead of evidence-before-edit:
+
+1. **Story need.** Name what the reader currently misses: a choice made offstage, a relationship with no scene at its crisis, a real event reported in a clause, a character who only observes.
+2. **A scene, not a report.** The addition has a viewpoint character who wants something, meets resistance and leaves changed, or makes a decision that alters what comes next.
+3. **It pays or plants.** It pays off something already planted, or plants something a later chapter pays. A new track is logged in [`../continuity/expansion/subplot_tracks.md`](../continuity/expansion/subplot_tracks.md) first.
+4. **Invariants hold.** Historical anchors, knowledge bans, deliberate ambiguities and the series scope stay intact (`LLM_WRITING_BRIEF.md` §8, `continuity/canon.md`).
+5. **No padding.** Length is never the reason. Battle and war sequences may grow only where a character's choice happens inside them, and stay within the fog rules.
+
+Development is not a licence to revise surrounding prose for taste. Where an addition touches existing scenes, those touches are limited to what the addition needs (a stitch, a callback, a cut summary paragraph the new scene replaces), and they are reviewed under §1.
 
 ---
 
@@ -94,6 +106,8 @@ Every final-stage pass (voice, copyedit, continuity, history) has a stated purpo
 5. **Keep a short record:** accepted fixes, rejected recommendations (one line on why) and unresolved issues.
 
 **A pass ends** when its defined defects are resolved or explicitly deferred. It does not create an automatic successor pass.
+
+A development phase (§1a) ends when the story needs it was opened for are met: its tracks are paid or deliberately left open. Revision passes then resume under the rules above.
 
 ---
 

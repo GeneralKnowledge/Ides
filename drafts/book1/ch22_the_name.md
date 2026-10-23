@@ -1,6 +1,6 @@
 # Chapter 22: The Name
 
-**Phase 1D.5** · SC-62, SC-63 · mid-April 44
+**Phase 1D.5** · SC-62, SC-63, SC-63b · mid-April–May 44
 **Human-voice:** Ch 22 expanded; Campania villa coast / Philippus, the will’s name and the narrator’s Octavian, Cicero next door at Puteoli, Temple of Ops keys, great-nephew densify; trough held.
 
 ---
@@ -108,6 +108,79 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 
 ---
 
+# SC-63b: Pompey’s Gardens
+
+POV: Octavian · Rome · Canon: T9 plant · App. *BC* 3.14–23
+Date / place: May 44 · praetor’s tribunal in the Forum; Antony’s gardens; Philippus’s town house
+Info ENTER: Name taken; elders bet weeks · EXIT: Accepts the inheritance in law before Antony’s brother; Antony refuses Caesar’s money; Octavian sells his own land to pay the legacy
+Overhear risk: Forum crowd / Antony’s guests
+
+---
+
+The praetor who heard him was an Antonius.
+
+Brutus’s chair had stood empty since April, and wills still had to be heard, so the consul’s younger brother sat in it. Gaius Antonius had the family jaw and less behind it. He looked like a man who had been told the family joke and was waiting for his turn to tell it. Octavian stood below the tribunal in a toga Atia had had brushed twice on the road. Six witnesses stood at his back, Philippus’s choosing, men with good ears and no opinions. Agrippa stood further off by a fruit seller, where a friend could pass for a customer.
+
+“Gaius Octavius, son of Gaius,” the praetor read, and looked up. “You know the form.”
+
+“I accept the inheritance of Gaius Julius Caesar,” Octavian said, “and his name with it.”
+
+He had said the sentence on every stage of the Appian Way until the mule-driver could say it with him. He said it now without the road in it. The clerk wrote. A man in the crowd called *Caesar* a little too loud and a second man hushed him, and the hush carried further than the name.
+
+Gaius Antonius leaned on one elbow, friendly. Octavian had heard that lean described in wine shops; it belonged to the brother. “Mine will want to know you said it clearly.”
+
+“Tell him I did.”
+
+“He’ll laugh.”
+
+“Then he will have heard it,” Octavian said.
+
+The praetor’s eyes went over the crowd the way a steward’s go over a store-room before the master asks. Octavian watched him count. He noted which faces the man stopped on, and that he stopped on the loud one twice.
+
+Antony received him three days later in Pompey’s gardens, out past the theatre on the Campus side, and made him wait at the gate long enough for the waiting to say what Antony would not.
+
+“Pompey’s gardens,” Agrippa said at the gate, looking at the gilded finials. “Pompey’s statue in the Curia. Pompey’s house on the Carinae.” He kicked a pebble off the step. “He collects Pompey.”
+
+Octavian did not answer. Gate slaves had ears and wanted supper.
+
+When the gate opened, the consul was lying on a couch in a garden room that smelled of bath oil and cut box, with a dish of early figs and two friends who did not get up. Antony’s hair was still wet. He looked bigger lying down than most men looked standing. He waved the boy toward a stool. Octavian stood.
+
+“The will leaves three hundred sesterces to every citizen in Rome,” Octavian said. “The heir pays the legacies. The money he left is in the Temple of Ops. I have come for it.”
+
+Antony ate a fig. He took his time over it, as if the boy might change his mind before he swallowed.
+
+“The money he left,” he said, “was the state’s money, and the state has spent it. Your great-uncle ran the treasury like a camp chest. Half of what was in it was promised before you were off the boat.” He wiped his fingers on a napkin a slave held out. “And while you were learning Greek at Apollonia, boy, I stood in that Senate the day after the Ides and kept his acts alive. If I had not, they would have thrown him in the Tiber like a dead tyrant, and his will after him, and his name with it. You are standing in my garden on a name I saved. You might call that a legacy.”
+
+One of the friends laughed. Antony let him.
+
+Behind the couch a clerk went past on some errand, a cord at his belt with keys on it. Octavian saw the keys and did not look at them twice.
+
+“Then the people will be paid from my own estate,” he said.
+
+Antony’s eyebrows went up. He had good eyebrows for it. “With what?”
+
+“With what is mine.”
+
+“Your father’s farms at Velitrae?” Antony laughed, generous with it. “Sell them, then. Sell your mother’s jewels. Rome will drink your health for a month and forget the face. Go home to Philippus. He has the right idea. He sat out the whole war and he is the best-fed man in Campania.”
+
+Octavian found that he was standing with his weight on one hip and a hand loose at his side, as the consul stood when he stood, and he set both feet square again. He did not know how long he had been copying the man. Long enough for the friends to see it, perhaps. He bowed the exact depth owed a consul by a private citizen, no more, and went out past the gate slaves into the evening.
+
+“That went well,” Agrippa said on the road back, which was the nearest Agrippa came to a joke.
+
+“It went,” Octavian said. “He told me what he has. A treasury and a laugh. Now I know what I have.”
+
+At Philippus’s town house that night the lamps burned late. A banker’s freedman sat at the table with tablets: the Velitrae land, a house, a share in a Campanian vineyard that had come down through the Octavii, a list of slaves with their trades beside their names. Atia came in with a box under her arm and set it on the table without a word, and Octavian understood that the box was her jewels and that she had brought them herself so that no slave could be blamed for carrying them.
+
+Philippus looked at the list the way he had looked at the sea at Puteoli, as a thing that would go on with or without his leave. “You are selling your father’s land,” he said, “to pay a dead man’s promise to strangers.”
+
+“To every citizen in the city,” Octavian said. “Strangers vote. Strangers stand in the Forum when the consul speaks.” He pushed the box back toward his mother. “Not these. Not yet.”
+
+Atia did not take it. She left it on the table and went out.
+
+The freedman held the first sale tablet ready. Octavian took off the ring, warmed the wax over the lamp, and pressed the seal. The pale band on his finger showed for the time it took, and then the ring was back on it.
+
+---
+
 ## Continuity
 - Name accepted; Antony misreads. Chain 5 lit. Next: Ch 23 street/money/majority.
 - **1D.5:** Follower *Caesar* greeting aloud; Atia/Philippus pressure; veteran pay-door warning Antony dismisses.
@@ -120,3 +193,4 @@ The veteran’s careful sentence sat in the room like an unopened letter. Antony
 - **Golden-read P1:** Antony’s underestimation grounded in remembered nephew inventory + Decimus-front preference; mockery cheaper than second war.
 - **Reader-earn (Ch 22):** Campania = shore of senators’ villas (bay/Puteoli/stepfather already placed Ch 21, not repeated); Philippus who sat out Caesar’s war by leave (terrace-rail memory); full name Gaius Julius Caesar + *Octavianus* tag inside OCT’s practice (why narration says Octavian); Cicero walks over from his Puteoli house to return the boy’s call; Temple of Ops keys on a clerk’s cord, Caesar’s Parthian money under the harvest goddess, answering to the consul. Exposition pass: no narrator-only explainer sentences; earns ride on POV/behaviour (no sum, fund mechanics B/C); great-nephew Antony calls nephew. Not re-glossed: Brundisium landing, Antony’s posted acts, city praetor (Ch 21); adoption law (Ch 18); fasces (Ch 7); Cisalpine (Ch 20).
 - **Human-voice (Ch 22):** one light trough feel-pass; cushions as-if / Cicero courtyard / weeks-bet / matched pace / nephew inventory / April time breaths; hold name-take, hopeful-shadow ban, squeak underestimation.
+- **T9 plant (2026-10-23, development §1a):** SC-63b Octavian POV, May 44. Declares acceptance before acting city praetor Gaius Antonius (Antony’s brother; T8 face planted: family jaw, waits to tell the joke, counts the crowd); Pompey’s gardens: Antony on the couch refuses Caesar’s money (state’s money, spent; “a name I saved”), Ops keys pass behind the couch (pays SC-63 “who holds the keys”); Octavian copies Antony’s stance and corrects it; sells Velitrae land etc. for the 300-sesterce legacy (App. *BC* 3.14–23; Suet. *Jul.* 83); Atia’s jewels refused “not yet”; ring + pale band (SC-62) on the first sale seal. Ch 27 “Philippus’s face” callback now lands on seen material.

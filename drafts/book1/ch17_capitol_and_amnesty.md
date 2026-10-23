@@ -208,25 +208,25 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 “Good,” Cicero said. “Then we still have a consul who prefers a forum to a pyre.”
 
-He left the bargaining room with praise still arranged on his mouth: peace, breath, law’s return. The smile was sized for men who needed Cicero more than they needed a pyre. In the corridor outside, voices were already pricing what the bargain had not named. A banker-looking man, onion-and-money face, stylus, told a junior that gardens across the Tiber would move leases before anyone opened a will. “It is lying with the Vestals, unread,” he said, “like a sleeping dog. Price it anyway.” A client asked who the paper might wound first. Decimus, if the dead man had loved him in ink, second line, the dinner joke that had once sounded like party favour. The Liberators, if the crowd got three hundred reasons. Or the queen still lodged in Caesar’s green claim, unfinished as a Roman problem.
+He left the bargaining room with praise still arranged on his mouth: peace, breath, law’s return. In the corridor outside, men were already pricing what the bargain had not named. A banker with an onion-and-money face was telling a junior that the gardens across the Tiber would move leases before anyone opened the will. “It is lying with the Vestals, unread,” he said, “like a sleeping dog. Price it anyway.”
 
 “The queen is not in the Senate,” the junior said.
 
-“Neither is a will until it walks,” the banker answered. “Acts stand. Gardens walk. Boys inherit. Finish her story or she finishes yours, men are already shopping the options.”
+“Neither is a will, until someone reads it out,” the banker answered. “But she is in his gardens, with his boy, and the leases are on his trees.”
 
 “Which boy?” said the junior.
 
 “That is the entire question, young man,” said the banker. “That is why they are shopping.”
 
-Behind him, near the side door servants used when mistresses did not want to be seen pricing, a woman whose messenger wore Antony’s house-ring stopped a clerk mid-bow. “Amnesty is a night’s kindness,” she said, dry. “Paper that stands overnight is the consul’s war-chest. Do not let Cicero’s peace sand the acts into something soft.” Another mouth answered from the opposite wall: an older steward carrying a tablet still soft with Brutus’s mother’s seal. “Then ask whose sons the paper wounds before the seal breaks. Mothers rewrite what rooms praise. Watch when amnesty asks Brutus to thank a consul for surviving.” Neither asked Cicero’s opinion. Both spent the same amnesty he had just sold as breath. Both were already spending someone else’s authority to do it.
+By the side door the servants used, a maid from Antony’s house had stopped a clerk mid-bow. “Tell them the acts stand overnight,” she said. “Peace is for the Capitol. Paper is for the consul.” From the opposite wall an older steward, a tablet in his hand still soft with Servilia’s seal, answered without looking at her: “Then ask whose sons the paper wounds before the seal breaks.” Neither of them asked Cicero.
 
-Cicero was nearly at the corner when the client’s voice thinned behind him: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
+Cicero was nearly at the corner when the banker’s voice thinned behind him: “He polishes periods while we price the corpse. Useful man.”
 
-Cicero heard enough to file *gardens / boy / queen / wound* beside *amnesty*, and *Decimus / second line* as a debt the dead man still held on the living. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
+Cicero heard enough. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 
-He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Beneath the burial, the city began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again: the old habit, not prophecy.
+He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again: the old habit, not prophecy.
 
-On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and didn’t dream of funerals. He dreamed, again, that he was consul. The corridor’s shopping list waited under the dream like interest.
+On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and did not dream at all.
 
 ---
 

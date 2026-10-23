@@ -17,7 +17,7 @@ Overhear risk: Street
 
 They didn’t recruit Decimus with philosophy. They recruited him with a floor plan.
 
-Cassius and Brutus found him on the Sacra Via, the Sacred Way, where processions walked and the noise of a hundred stalls could drown a dangerous sentence. Cassius spoke first; Brutus stood half a step back, the brand already tired of being used.
+Cassius and Brutus found him on the Sacra Via, where processions walked and the noise of a hundred stalls could drown a dangerous sentence. Cassius spoke first; Brutus stood half a step back, the brand already tired of being used.
 
 “He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
 

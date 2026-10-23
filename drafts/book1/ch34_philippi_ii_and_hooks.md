@@ -19,7 +19,7 @@ Overhear risk: Camp
 
 Brutus pressed two fingers under his ribs where the reports had lodged and found no relief there.
 
-He had the versions in incompatible shapes. Cassius broken. Cassius mistaken. Cassius ended by his own hand on a lie the plain told. Brutus kept all three without choosing. What they shared was enough: Cassius was gone. The weight of that sat in the body first, breath short, ribs tight, the old courtesy habit wanting a sentence that would arrange grief into something useful. He had no sentence. He had a line that still needed bodies.
+He had the versions in incompatible shapes. Cassius broken. Cassius mistaken. Cassius ended by his own hand on a lie the plain told. It did not matter which. What they shared was enough: Cassius was gone. The weight of that sat in the body first, breath short, ribs tight, the old courtesy habit wanting a sentence that would arrange grief into something useful. He had no sentence. He had a line that still needed bodies.
 
 Twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
 
@@ -75,7 +75,7 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments, farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
-By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains, until it bills you in veterans who already know which farms have owners. Capua dates. Mutina mud. Same unpaid dirt, new maps. When the East stops bleeding, the soil still owes.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
+By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains until it bills you in veterans who know which farms have owners.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
 
 At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
 

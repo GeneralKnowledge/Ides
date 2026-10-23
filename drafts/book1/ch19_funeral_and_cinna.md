@@ -146,7 +146,7 @@ The name travelled faster than faces.
 
 Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. Not the dagger. Only a throat full of syllables.
 
-“I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. The other one is Cornelius, the praetor, his dead wife’s brother, who threw off his robe and called him tyrant from the Rostra. I am Helvius, not Cornelius, I am…”
+“I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. I am Helvius, not Cornelius, I am…”
 
 “Then you are a poet who killed him,” someone said, with the terrible logic of the afternoon.
 

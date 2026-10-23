@@ -50,3 +50,6 @@ Secret hero; series villain.
 
 ## Consistency questions
 - Flinch as priced event?
+
+## Family (decided 2026-10-23)
+Nephew of the real Marcus Seius (curule aedile 74 BC, remembered for cheap grain; friend of Cicero, Varro and Atticus), who stays offstage as a name and reputation. **Seia Prima** is that Marcus Seius’s eldest daughter, so Seius married his cousin; the family’s one glory is her father’s, which is why she pushes him toward the aedileship. His debt to Hordeonius is the cost of standing for aedile (canvassing gifts, whitened toga, expected games). In T11 he hides and saves **Gavius**, the neighbour who called him a coward, and pays for the hiding by borrowing from Hordeonius. Recommended by Claude; confirm with Reuben before drafting if he has not objected.

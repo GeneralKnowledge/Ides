@@ -70,7 +70,7 @@ Overhear risk: Low–N/A
 
 Apollonia was not a reward. It was distance with homework.
 
-“A Greek town with Italy’s heel for a view,” Agrippa had said from the boat rail, and that was description enough. Caesar had not chosen it for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria. Crassus and his legions destroyed there nearly ten years ago, Crassus’s eagles still hanging in some Parthian temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
+“A Greek town with Italy’s heel for a view,” Agrippa had said from the boat rail, and that was description enough. Caesar had not chosen it for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria, where Crassus’s eagles still hung in some temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
 
 Somewhere in that plan, Caesar had given his great-nephew a place. Octavian was to study with the army and sail for the East beside the general’s staff. He was to learn the work of a master of the horse, the second chair, the man who rode behind the dictator. Nobody at the dinners had been told. If they had been, they would have laughed.
 
@@ -120,7 +120,7 @@ Apollodorus found them at the end of the day, grey with dust and distaste, carry
 
 They drilled again until the erased dust-route lived in Octavian’s legs as much as in his head. An officer asked whether the boy would last a month east. Agrippa answered with water and another lap, which was clearer than speech. Octavian did not thank him in front of the men. Thanks announced need.
 
-Before sleep they shared a heel of bread Agrippa had bullied from a cook who respected fists more than kin names. No officers. No Parthia sticks in dust. Just the ordinary theft of calories and Agrippa’s rule spoken twice without theatre: no shadows between them. Octavian practised a thank-you and discarded it. He bumped Agrippa’s shoulder back, clumsy, almost play, and lay down sore, young, and unfinished, exactly as far from Senate heat as the sea allowed. He didn’t dream of crowns. He dreamed of the reserved place offered to the wrong chest, then of missing a drill step and being laughed at by men whose names he needed. Both dreams felt like the same inventory.
+Before sleep they shared a heel of bread Agrippa had bullied from a cook who respected fists more than kin names. No officers. No Parthia sticks in dust. Just the ordinary theft of calories and Agrippa’s rule spoken twice without theatre: no shadows between them. Octavian practised a thank-you and discarded it. He bumped Agrippa’s shoulder back, clumsy, almost play, and lay down sore, young, and unfinished, exactly as far from Senate heat as the sea allowed. He didn’t dream of crowns. He dreamed of the reserved place offered to the wrong chest, then of missing a drill step and being laughed at by men whose names he needed.
 
 ---
 

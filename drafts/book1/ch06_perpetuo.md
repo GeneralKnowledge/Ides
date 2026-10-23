@@ -34,7 +34,7 @@ A colleague clapped as if forever were a festival. Another muttered *king* and t
 
 Nobody laughed at that, which was the first honest thing anyone had said all morning.
 
-Cicero’s smile held. Holding was his craft. He was the best speaker Rome had produced in a generation and had spent the last three years learning what a speaker was worth when the only audience that mattered had stopped needing speeches. Caesar had pardoned him with a courtesy that left no mark and no way to answer it. In private he dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and for Atticus, who had been reading the sentences Cicero could not say aloud for thirty years, usually from Athens, where a banker with a taste for philosophy could wait out an unpleasant Rome. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
+Cicero’s smile held. Holding was his craft. He had spent the last three years learning what the best speaker in Rome was worth when the only audience that mattered had stopped needing speeches. Caesar had pardoned him with a courtesy that left no mark and no way to answer it. In private he dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and for Atticus, who had been reading the sentences Cicero could not say aloud for thirty years. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
 
 He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted. Formal office without steel still let him shape periods. Periods did not shape legions. He knew the difference. He hated knowing it in a doorway while lesser men clapped.
 
@@ -108,7 +108,7 @@ He did not certify the child. He certified that the market had begun shopping th
 
 “Nobody needs to,” said Sosia. “You have said the trees.”
 
-He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway. Dead calendars at the stall. Eastern crates counting months. Same unfinished arithmetic, three faces.
+He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway. Dead calendars at the stall. Eastern crates counting months.
 
 “Watch,” the young agent said, already halfway to a darker room in his mind. Hordeonius marked him for interest, not for liberty.
 

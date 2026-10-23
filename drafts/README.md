@@ -2,7 +2,7 @@
 
 **Authoritative prose for what is presently written.** Canon and scene cards still constrain invention; the chapters govern what is on the page.
 
-Book 1: 34 chapters, dinner-first opening (late-46 clemency dinner as Ch 1). Ends at Philippi.
+Book 1: a prologue (`book1/prologue_utica.md`, Cato’s death at Utica, April 46) and 34 chapters; the late-46 clemency dinner is Ch 1. Ends at Philippi.
 
 ## Chapter index
 

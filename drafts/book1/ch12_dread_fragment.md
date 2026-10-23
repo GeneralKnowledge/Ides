@@ -49,7 +49,7 @@ Later Caesar found Calpurnia at the edge of the tablinum, among the records at t
 
 “It is March,” he said. “Everything is listening to something new.”
 
-She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep. Even the bed belonged to the office: the chief priest’s house, lent with the calendar and the rites, and the city hung whispers on its curtains. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
+She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. She stopped pretending the dread was private. Privacy was a luxury the pontifex maximus’s wife didn’t keep. Even the bed belonged to the office, and the city hung whispers on its curtains. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
 
 ---
 
@@ -93,7 +93,7 @@ She had almost made the linen disappear under her tunic when Phileros turned the
 
 “Mats,” he added. “Before the atrium invents another omen.”
 
-She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night, under a loose tile, behind a water jar, and Phileros’s basket had stolen the minute. Delayed handoff. Hunted feeling. In the court she passed Pallas again and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter, mercy or trap depending on which word you stressed, and it hadn’t yet grown legs as street rumour. It had only almost become a door-search. The attendant’s muttered truth stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space.
+She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night, under a loose tile, behind a water jar, and Phileros’s basket had stolen the minute. In the court she passed Pallas again and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter, mercy or trap depending on which word you stressed, and it hadn’t yet grown legs as street rumour. It had only almost become a door-search. The attendant’s muttered truth stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space.
 
 ---
 
@@ -125,7 +125,7 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 
 In the tablinum stack sat unfinished business and the temptation to believe unfinished business was immortality. He didn’t feel a plot as a plot. He felt the city’s nerves. Cities got nerves before campaigns. He’d lived through nerves before.
 
-If someone had handed him a clean list of knives, he might have read it. Nobody did. Weather does not arrive as a list.
+If someone had handed him a clean list of knives, he might have read it. Nobody did.
 
 ---
 
