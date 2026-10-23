@@ -75,7 +75,7 @@ Dust still lived in his teeth; wine only moved it around. “We divide,” he sa
 
 A tribune mentioned Italian land assignments, farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
-By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains, until it bills you in veterans who already know which farms have owners. Capua dates. Mutina mud. Same unpaid dirt, new maps. When the East stops bleeding, the soil still owes.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
+By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains until it bills you in veterans who know which farms have owners.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
 
 At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
 

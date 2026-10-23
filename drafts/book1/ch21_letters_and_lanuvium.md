@@ -55,7 +55,7 @@ Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already j
 
 The courier shrugged. “As if it amused. Not as if it cleared.”
 
-The second courier, younger, contradicted on cue, half-false news fighting in the same air. Antony generous. Antony monstrous. Brutus worshipped. Brutus finished. The boy already gathering flies in Campania. The boy already finished by Antony’s laugh. Cicero kept both halves without labelling either *true*. Same-room collision beat letter-stack. He could watch which mouth sweat.
+The second courier, younger, contradicted on cue, half-false news fighting in the same air. Antony generous. Antony monstrous. Brutus worshipped. Brutus finished. The boy already gathering flies in Campania. The boy already finished by Antony’s laugh. Cicero kept both halves without labelling either *true*. He could watch which mouth sweat.
 
 “Sport,” the neighbour said, tasting the wine-shop joke. “Rome’s favourite exercise. Underestimate until the underestimate grows teeth.”
 

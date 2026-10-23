@@ -93,7 +93,7 @@ Cassius did not smile. “We leave so we can afford war if war is honest enough 
 
 Crewmen cared about wind and the next meal. One asked whether it was true the praetor was bound for Athens, and whether Athens counted as fleeing. “Athens,” Brutus said. “Men still read there. Someone ought to.” Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. Cassius already saw Asia’s taxes rearranging themselves, those fat coast cities across the Aegean that had paid Pompey, then Caesar, and would pay whoever arrived next with ships: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
 
-The mate did not let the snort die alone. He spat over the rail, careful of wind, and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned. The other looked at Brutus’s courtesy like a second religion. Cassius heard the mate’s verdict as witness, not mutiny. *Collecting* now had deck mouths attached. Not only a factor’s smile.
+The mate did not let the snort die alone. He spat over the rail, careful of wind, and spoke for the two boys coiling line who had heard *collecting* and not known whether to laugh. “Collecting means cities pay. Cities paying means we eat. Fleeing means we starve and call it philosophy. Tell your senators that when they stamp receipts.” One boy grinned. The other looked at Brutus’s courtesy like a second religion.
 
 A factor from the quay, a Greek who bought and sold for three of those cities, came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
 
@@ -165,7 +165,7 @@ The friend, still in the atrium, went pale. “That is not literary criticism.�
 
 Cicero held the scarred tablet until his fingers stopped pretending to be steady. He thought of Atticus, of audiences, of the Capitol’s first day enlarged by memory. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
 
-He slept poorly and woke eager. Eager men wrote faster than wise ones. He noticed the difference and wrote anyway. The knife-scar sat as applause he refused to name fear.
+He slept poorly and woke eager. Eager men wrote faster than wise ones. He noticed the difference and wrote anyway.
 
 ---
 

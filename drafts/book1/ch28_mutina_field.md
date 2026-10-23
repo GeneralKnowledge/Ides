@@ -26,7 +26,7 @@ Vibius spat black grit. “Win,” he said. “Then count.”
 
 “Five hundred beats Antony’s hundred,” Vibius said. Laberius had taken the boy’s coin in the end, in the autumn, when the shadow with a seal learned to feed men. It had bought his boots for the young Caesar’s ranks and this ditch. It had not moved the twine.
 
-Pay talk lived under the noise like a second drum. Who owed donatives. Which Caesar’s name still fed mouths. Whether Hirtius’s clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date. Forum smoke had taught him the dirt could walk without clerks. Mutina mud taught him it could drown you while walking. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later, if later still has a road.”
+Pay talk lived under the noise like a second drum. Who owed donatives. Which Caesar’s name still fed mouths. Whether Hirtius’s clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later, if later still has a road.”
 
 Between assaults, when the yelling thinned and the cold found room, Vibius and two men from the contubernium talked dirt the way other men talked gods. “Capua was a date when the paymaster breathed,” Vibius said, voice flat. Mud did not buy jokes. “Now Capua is only what we stand in.” The second man wiped pink melt from his shield rim. “Still wants a road, if we live.” Laberius did not finish the thought aloud. Finishing would have made Capua a speech. He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway. Signals lied as often as clerks.
 
@@ -72,7 +72,7 @@ Sosia tipped his cup toward Hordeonius without drinking. “Only you could make 
 
 Hordeonius did not smile. “Silence clears. Cleverness does not.”
 
-Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*. The poison talk lived. The ledger did not.
+Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*.
 
 A second client asked whether to short land near Mutina. Hordeonius took a fee for advising against it and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
 

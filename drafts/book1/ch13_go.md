@@ -47,7 +47,7 @@ They parted with the clasp of men confirming a hunt, festival-brother hands stil
 
 Glaucia’s mouth twitched. “Bores survive the Ides.”
 
-“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practise a longer hold. The spare-Antony mercy now had a body attached: Trebonius’s voice as a leash.
+“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practise a longer hold.
 
 ---
 
@@ -167,7 +167,7 @@ The room was small enough that fear had to stand close. Brutus’s hesitation la
 
 “GO,” Brutus said.
 
-Not inventory. Choice. The word tasted like metal and unpaid interest.
+The word tasted like metal and unpaid interest.
 
 Cassius’s nod was small. Small nods moved mornings. He named the redistributed door once, checked Trebonius’s leash in principle, and stopped talking before talk became a way to unmake the lock.
 

@@ -222,7 +222,7 @@ Behind him, near the side door servants used when mistresses did not want to be 
 
 Cicero was nearly at the corner when the client’s voice thinned behind him: “He sanded periods while we priced the corpse. Useful man. Expensive illusion.”
 
-Cicero heard enough to file *gardens / boy / queen / wound* beside *amnesty*, and *Decimus / second line* as a debt the dead man still held on the living. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
+Cicero heard enough. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 
 He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Beneath the burial, the city began shopping the dead man’s paper before the seal broke. Cicero slept two hours and dreamed he was consul again: the old habit, not prophecy.
 

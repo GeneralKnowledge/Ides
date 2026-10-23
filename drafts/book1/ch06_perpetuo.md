@@ -108,7 +108,7 @@ He did not certify the child. He certified that the market had begun shopping th
 
 “Nobody needs to,” said Sosia. “You have said the trees.”
 
-He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway. Dead calendars at the stall. Eastern crates counting months. Same unfinished arithmetic, three faces.
+He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway. Dead calendars at the stall. Eastern crates counting months.
 
 “Watch,” the young agent said, already halfway to a darker room in his mind. Hordeonius marked him for interest, not for liberty.
 

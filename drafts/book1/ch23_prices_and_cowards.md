@@ -37,7 +37,7 @@ Hordeonius picked the scrap up with two fingers, the way a man lifts something t
 
 The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” His offence waited for the next pillar: “He’ll price a boy’s name and call a murder tablet poetry. Ask him for Basilus and he sells you piety.” Sosia’s mouth twitched, almost audible, then he drank so the twitch would look like thirst.
 
-The Puteoli man and Sosia argued the next question in the same breath, same stool-space: collision, not correspondence. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+The Puteoli man and Sosia argued the next question in the same breath. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
 
 “Antium?” the Puteoli man said.
 

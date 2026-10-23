@@ -149,7 +149,7 @@ Back inside she set down the oil. Dama waited with the inventory face. Phileros 
 
 “Everyone is stupid for two coppers. That is why it is two.”
 
-She reported the early clients at the Domus smile, and the banker by the steps. She did not report the land spit. Carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours. She left that unsaid too. None of her oil. Parade noise still pressed the walls. Closed Africa had not closed the counting.
+She reported the early clients at the Domus smile, and the banker by the steps. She did not report the land spit. Carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours. She left that unsaid too. None of her oil. Parade noise still pressed the walls.
 
 ---
 

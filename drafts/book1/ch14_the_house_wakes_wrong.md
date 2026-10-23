@@ -167,7 +167,7 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 “Then I shall give it very good ones.”
 
-Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move. The hiss became a third presence in the vestibule: key-holder, girl, and the fetch who needed the house to pretend this was ordinary.
+Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move.
 
 In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted. Caesar’s ease. Calpurnia’s grip on the doorframe. Phileros’s keys. Nysa’s empty hands still unfinished.
 
