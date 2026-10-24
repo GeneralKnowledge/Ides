@@ -92,6 +92,8 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Early | News of Cicero’s death reaches Brutus; he orders Hortensius to kill Gaius Antonius | H | Ch 32 SC-88b (T8) |
 | Early | Hortensia speaks at the triumvirs’ tribunal; the women’s tax cut from 1,400 to 400 | H | Ch 31 SC-86c (Nysa) |
 | Campaign | Eastern extraction; *EID MAR* coin | H | Ch 32 |
+| Early | Sardis: the closed-room quarrel; Favonius; Lucius Pella condemned | H | Ch 32 SC-88c (S1) |
+| Summer | Abydos: Brutus’s night visitor, “You will see me at Philippi”; Cassius’s Epicurean answer | H/C | Ch 33 SC-89a (S2); left open |
 | Oct (first battle) | Philippi I; Cassius’s death | H | Ch 33 |
 | Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 34 |
 | After | Antony’s cloak over Brutus; Hortensius sent to die at Gaius’s grave (Plut. *Ant.* 22) | H | Ch 34 SC-93 (T8) |
