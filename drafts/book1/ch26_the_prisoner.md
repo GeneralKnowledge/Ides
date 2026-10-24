@@ -26,7 +26,7 @@ The old man laughed and went back to the lecture. Brutus sat on a stone bench am
 
 Then somebody did.
 
-He was a broad young man of twenty-one with his father’s nose and none of his father’s caution, who came up to Brutus at the gate of the Lyceum after Cratippus’s lecture with his toga over the wrong shoulder and wine on his breath at the eighth hour.
+He was a broad young man of twenty-one with none of his father’s caution, who came up to Brutus at the gate of the Lyceum after Cratippus’s lecture with his toga over the wrong shoulder and wine on his breath at the eighth hour.
 
 “Marcus Cicero,” he said. “The son. Not the one who writes.” He grinned. “My father writes to me twice a week about my debts and my drinking and my Greek, in that order. He writes to you about the Republic. I thought you should know we’re on the same list.”
 

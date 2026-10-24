@@ -112,7 +112,7 @@ Then he rode with dwindling staff into country that did not care who freed the R
 
 The second aide, older, tablet-hand still inked from Mutina’s last courtesy copy, spoke the count Decimus had been avoiding as a list of people. “Plancus: gone to Antony. Lepidus: promised meeting, messenger who would not take a return tablet, twice, and in May his legions let Antony walk into their camp. Waded the river to embrace him, and Lepidus writes the Senate that his soldiers did it. The boy: will not share a road with the man who held Caesar’s door, and said so where his centurions could hear. Three names, and not one wagon among them.”
 
-Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fifth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
+Decimus heard the names as doors that had already closed while he counted hinges. “Then we do not invent a fourth name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
 
 They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, without speech, of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
 
@@ -144,9 +144,9 @@ Overhear risk: Soldiers + Senate terror
 
 Octavian entered the politics of force with hands that still remembered shaking in Apollonia.
 
-A courier brought the Senate’s thanks for Mutina, and the thanks were not for him. The fathers had voted Decimus a triumph and handed him the dead consuls’ legions, the Martians among them, to chase Antony up the road. Octavian was to be thanked and left behind. He read the decree once and gave it to Agrippa, who read it twice.
+A courier brought the Senate’s thanks for Mutina, and the thanks were not for him. Decimus had the triumph and the dead consuls’ legions, the Martians among them. Octavian was to be thanked and left behind. He read the decree once and gave it to Agrippa, who read it twice.
 
-Segulius Labeo came to dinner in the camp that month, because Labeo came to dinner everywhere, and brought a saying with him the way other guests brought a jar. He told it at the end of the meal, in front of the tribunes, and watched Octavian’s face while he told it. *Laudandum adulescentem, ornandum, tollendum.* Praise the young man, honour him, lift him up. Lift him off.
+Segulius Labeo came to dinner in the camp that month, because Labeo came to dinner everywhere, and brought a saying with him the way other guests brought a jar. He told it at the end of the meal, in front of the tribunes, and watched Octavian’s face while he told it. *Laudandum adulescentem, ornandum, tollendum.*
 
 The tribunes laughed and then stopped, unsure whether they were allowed. Agrippa did not laugh at all.
 
@@ -162,7 +162,7 @@ Octavian’s throat tightened once, shame or fever; he didn’t sort it. He look
 
 He had the clerks open the nearest chest where Agrippa could see the count. Late thanks; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
 
-Both consuls were dead, Hirtius in the ditch at Mutina and Pansa of his wound a day after, and their chairs stood empty. A centurion from the Martians said it first, loud enough for the pay line: “They want us under the man who held Caesar’s door. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march for an assassin on praise that arrived late and sweet. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. Two chairs were empty.
+A centurion from the Martians said it first, loud enough for the pay line: “They want us under the man who held Caesar’s door. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march for an assassin on praise that arrived late and sweet. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. Two chairs were empty.
 
 Philippus wrote from Rome in the stepfather’s hand Octavian had learned to read sideways, every warning folded inside a piece of news. The House was frightened and could not say of what. Decimus was a Liberator with a triumph and a thinning army, not a consul. Antony was over the Alps with Lepidus’s legions. Some of the fathers wanted a consul who obeyed and would settle for one who was young. And then, as if he were only reminding a boy of his lessons: the law wanted forty-two years for the chair. *You have nineteen. Count them before anyone else does.*
 
