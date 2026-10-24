@@ -77,7 +77,7 @@ Use when revising or auditing voice. “Never” = a default to break only with 
 **Never:** Omniscient spy genius; modern slang.  
 **Tell:** Feet and ears; survival calculus; Greek words under stress optional rare.
 
-## F2 Seius
+## F2 Seius (retired 2026-10-24)
 **Says:** advancement, what people will think, debt excuses.  
 **Register:** Anxious junior elite.  
 **GOT blend:** Podrick anxiety + need to belong.  

@@ -32,7 +32,7 @@ Every item below appears **in story behaviour**, not as essay narration. All ite
 | B2 | Conspirators want different afters | Spare-Antony argument; day-after confusion | ✓ Ch 9; Ch 17 Capitol |
 | B3 | Formal office ≠ power | Cicero eloquent without legions; OCT gains with name+army | ✓ Ch 17/25/28 vs Ch 22/31 |
 | B4 | Veterans/land/donatives as sovereign force | F3 arc; funeral rage; Mutina | ✓ Ch 3, 19, 30 |
-| B5 | Debt & patronage bind and fail | F2/F4; Basilus slight; clemency beneficiaries | ✓ Ch 2, 10; SIDE-1 |
+| B5 | Debt & patronage bind and fail | F4; Ligarius (Ch 3); Basilus slight; clemency beneficiaries | ✓ Ch 2, 3, 10; SIDE-1 |
 | B6 | Women as soft power (Roman forms) | Servilia at Antium; Fulvia deals; Calpurnia dread | ✓ Ch 7 Fulvia; Ch 14 Cal; Ch 24 Servilia |
 | B7 | “Liberty” can mean someone else’s tax | Eastern extraction beat | ✓ Ch 34 |
 | B8 | Popular Rome decides the capital | Funeral riot reverses Liberators | ✓ Ch 19 |
@@ -86,7 +86,7 @@ Every item below appears **in story behaviour**, not as essay narration. All ite
 |---|-----------|------|-------|
 | F1 | Lupercalia diadem | SC-16 | ✓ Ch 7 |
 | F2 | Spare-Antony argument | SC-23 | ✓ Ch 9 |
-| F3 | Almost-recruit F2 | SC-24 | ✓ Ch 10 |
+| F3 | Almost-recruit (Statilius, Favonius; Plut. *Brut.* 12) | SC-24 | ✓ Ch 10 |
 | F4 | SIDE-1 body discovery | SC-25b | ✓ Ch 10 |
 | F5 | Night of dreams + Decimus fetches | SC-35 | ✓ Ch 14–15 |
 | F6 | Murder in Curia Pompeia | SC-43 | ✓ Ch 16 |
@@ -104,7 +104,7 @@ Every item below appears **in story behaviour**, not as essay narration. All ite
 | POV | Must provide | Done? |
 |-----|----------------|-------|
 | F1 Nysa | Class-crossing INF; dream/household; Cinna; NOT solve Ides | ✓ Ch 14–16, 19; burns own wax only |
-| F2 Seius | Almost-recruit; majority cowardice/survival | ✓ Ch 7 edge; Ch 10; Ch 23; Ch 32 |
+| ~~F2 Seius~~ retired 2026-10-24 | Almost-recruit → Statilius (Ch 7 edge, 10, 23, 36); proscription hiding → Calenus/Varro (Ch 32) | ✓ |
 | F3 Laberius | Soldier truth; name-of-Caesar recruitment | ✓ Ch 3, 19, 30 |
 | F4 Hordeonius | Money; SIDE-1; proscription profit shame | ✓ Ch 2, 10, 18, 32, 35 |
 

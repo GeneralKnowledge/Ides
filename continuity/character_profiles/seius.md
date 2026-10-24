@@ -1,4 +1,6 @@
-# M. Seius Vestalis (F2)
+# M. Seius Vestalis (F2): RETIRED 2026-10-24
+
+> Retired by Reuben’s decision (real figures over invented). Kept for history only. Ch 3 → Cicero pleads for Ligarius; Ch 7, 10, 23, 36 → Statilius; Ch 18, 30 → cut; Ch 32 → Calenus hides Varro. Log: `archive/pass_logs/retire_seius_2026-10-24.md`.
 
 **Type:** Fictional · Regular POV  
 **Subplot ownership:** T3 (money street / cowardice economy)

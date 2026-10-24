@@ -73,7 +73,7 @@ Fix these when they cluster. Leave scattered singles alone.
 1. **Pilot one chapter, cold-read, then expand.** Ch 1 → bookwide is the pattern. Do not launch a bookwide scrub from a detector paste alone.
 2. **Break breath, not voice.** Shorter cadence is good; sanding every POV into the same plainness is not.
 3. **Protect character-true diction.** Hordeonius invoices; Laberius boots/Capua; Trebonius market-day; Nysa withhold; Decimus ditches; Cassius salt; Octavian furniture ban (dialogue); soft-chain / digest.
-4. **Keep load-bearing brands** even if a detector flags them: the soft chain of clemency; Cassius’s “I digest”; Octavian banning the “hopeful shadow” nickname and taking the name; spare Antony; the unread note at the Curia and Nysa’s separate fragment; the wrong Cinna; the mule Gavius stops lending Seius; Decimus taken at the ford; Cassius as the man who reads information (and dies of bad information). A brand is kept, not repeated: one strong use beats four.
+4. **Keep load-bearing brands** even if a detector flags them: the soft chain of clemency; Cassius’s “I digest”; Octavian banning the “hopeful shadow” nickname and taking the name; spare Antony; the unread note at the Curia and Nysa’s separate fragment; the wrong Cinna; Decimus taken at the ford; Cassius as the man who reads information (and dies of bad information). A brand is kept, not repeated: one strong use beats four.
 5. **Surgical on gold spine (Ch 14–19).** Cut padding there as anywhere (§1), but do not flatten Ides propulsion or touch the protected core.
 6. **Stop after one successful feel-pass** on a chapter unless a human cold read names a concrete leftover cluster.
 7. **Hard cap: two style-only passes per chapter** (voice, cadence, detector-led). A third is a revert signal (see Ch 5). The cap does not apply to fixes for a reader’s note, continuity or factual fixes, cutting repetition (§1), or development (§1a); those are judged on their evidence, however many times the chapter has been opened.
@@ -92,8 +92,8 @@ Fix these when they cluster. Leave scattered singles alone.
 4. **Don’t stack aphorism replacements.** Swapping one thesis wrapper for another (“That would have shown need”) is still caption.
 5. **Don’t run chapter-by-chapter detector loops.** If Ch N still “fails” after two feel-passes, leave it and trust cold read — or revert.
 6. **Don’t run polish wars on the settled chapters.** Each has a named core that changes only for a demonstrated defect (§1); the prose around it is ordinary text:
-   - **Prologue and Ch 1–3:** Cato refuses the pardon at Utica; the clemency dinner where nobody says so; Seius’s canvass debt to Hordeonius.
-   - **Ch 20–23:** the Liberators leave Rome; Octavian takes the name; Nysa’s house is emptied by kind stewards; Seius keeps his name off the petition.
+   - **Prologue and Ch 1–3:** Cato refuses the pardon at Utica; the clemency dinner where nobody says so; Cicero wins Ligarius’s pardon from Caesar (Ch 3).
+   - **Ch 20–23:** the Liberators leave Rome; Octavian takes the name; Nysa’s house is emptied by kind stewards; Statilius keeps his name off the petition.
    - **Philippi (Ch 35–36):** Cassius dies on bad information, Pindarus holding the blade; Brutus dies on his own sword with Strato holding it; credit for Octavian’s survival stays contested.
 7. **Don’t treat the watch-list as a hit queue.** Notice ≠ revise.
 8. **Don’t impose quotas or bans** on sentence length, fragments, adverbs, metaphors, humour, sensory detail, aphorisms or any construction beyond the author-voice rules above (§3.8–9).

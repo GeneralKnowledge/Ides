@@ -57,7 +57,7 @@ A book that:
 
 ## 4. POV rules for prose
 
-**Regular POVs:** Decimus, Brutus, Cassius, Antony, Cicero, Octavian, plus F1 Nysa, F2 Seius, F3 Laberius, F4 Hordeonius.  
+**Regular POVs:** Decimus, Brutus, Cassius, Antony, Cicero, Octavian, plus F1 Nysa, F3 Laberius, F4 Hordeonius (F2 Seius retired 2026-10-24; his beats went to Statilius, Cicero/Ligarius and Calenus/Varro).  
 **Specials:** Caesar (sparse, Acts 1–2 only), Calpurnia, Servilia, Fulvia, Cleopatra.
 
 - Close third person limited **or** first person — pick one per book and stay consistent (**VOICE-1 default below**).  

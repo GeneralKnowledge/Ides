@@ -4,10 +4,9 @@ The spine of this book is history: what happened, where, to whom, and in what or
 
 ## What is invented
 
-Five of the viewpoint characters are invented. They show the people the histories leave out: the household, the junior senator, the soldier, the lender and a provincial treasurer.
+Four of the viewpoint characters are invented. They show the people the histories leave out: the household, the soldier, the lender and a provincial treasurer.
 
 - **Nysa**, Caesar’s freedwoman in the Domus Publica. After the Ides her patron is his heir, and from spring 44 she serves in Antony’s house in the Carinae.
-- **Marcus Seius Vestalis**, a junior senator in debt for an aedile’s canvass. His uncle is the real Marcus Seius, the aedile of 74 who sold grain cheap. His wife, **Seia Prima**, is that man’s daughter.
 - **Sextus Laberius Cordus**, a soldier of Caesar’s from Munda to Philippi, with a plot of land promised at Capua. He has no connection to the playwright Decimus Laberius.
 - **Lucius Hordeonius Felix**, a moneylender in the Forum, and his collector **Sosia**.
 - **Amyntas son of Menodotus**, treasurer of Smyrna, who feeds Dolabella’s army from behind a locked gate.
@@ -18,7 +17,9 @@ Invented events:
 - The murder of Aulus Visellius Ralla and the tablets that implicate both sides.
 - Nysa’s warning tablet. It is a separate thing from the note pressed on Caesar on his way to the Senate, which comes from the ancient tradition.
 - Galba’s absence from the Capitol on the afternoon of the Ides.
-- Seius hiding his neighbour Gavius from the proscription, and the loan that pays for it.
+- The loan that pays Calenus’s household while Varro hides. Appian says only that no slave betrayed him.
+- Statilius’s refusal to sign for the Liberators and his letter to Brutus. Plutarch gives his refusal in February and his death at Philippi; what lies between is invented.
+- The news of Porcia’s death reaching Brutus on the morning a legion would not move. Both happened in the summer of 43; putting them on one morning is the book’s.
 - Nysa in the house of Antony’s mother on the night Julia barred the door to save her brother. Julia’s words at the door are Plutarch’s.
 - Every household servant, neighbour, centurion, kitchen boy and informer who is not in the cast list as a historical person.
 

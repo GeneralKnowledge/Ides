@@ -4,61 +4,65 @@
 
 ---
 
-# SC-24: Almost
+# SC-24: A Question at Dinner
 
-POV: F2 Seius · baths side-room
-Date / place: Early Feb 44 · quiet room off the palaestra
-Canon refs: F2 · Plut. Favonius/Statilius parallel
-Info ENTER: Grievance ready · EXIT: Flinches; knows *something* hangs
-Overhear risk: Medium
+POV: Statilius · Brutus’s house
+Date / place: Early Feb 44 · dining room, then the street
+Canon refs: Plut. *Brut.* 12 (Favonius, Statilius, Labeo sounded out) · Epicurus, “live unnoticed”
+Info ENTER: Kingship talk at dinners · EXIT: Statilius answers the question as philosophy and learns too late it was not; Labeo stays behind
+Overhear risk: Household, guests
 
 ---
 
-Ten days before the Lupercalia, Marcus Seius Vestalis came to the baths with a grievance polished like a shoe.
+Brutus asked it over the fruit, as if it had only just occurred to him.
 
-Kingship talk at dinners. Offices promised years ahead while men like him still counted aedileship like a ladder with missing rungs. Markets, games, the first rung that might one day lead to praetor and consul: Seius had been told for ten years that his turn was coming. Seia Prima, his wife, had said that morning, sweet as vinegar, that a husband who only admired liberty would die admired and poor.
+“Suppose a city has fallen under one man,” he said. “Not a monster. A capable man, even a merciful one. And suppose the people do not much mind. Should a wise man put himself in danger to free them?”
 
-He owed Hordeonius’s wax for the canvass, for the toga, for the oil, for the smile, and a man in his position did not have the leisure to be principled. He had come to the baths for the hot room and a little quiet. He had not come for this.
+Statilius had been eating a fig. He finished it, because a question like that would keep and a fig would not. The dining room was warm, the lamps were good, and Brutus kept the best Chian in Rome and drank almost none of it, which was one of the things Statilius loved him for. Around the couches the talk had been of dinners all evening, other men’s dinners: who had been asked where, who had been seated below whom, what was being said about the ten years and whether the next title would be shorter or longer. Basilus, who had served Caesar in Gaul and been given a praetorship and no province at the end of it, had drunk steadily through all of it and said very little.
 
-In the side-room the air was wet wool and oil. L. Minucius Basilus’s voice, or a man who spoke Basilus’s careful pitch, kept soft: not knives, never knives, only friends who refuse to watch Rome become a household. Seius knew the pitch from dinners, and the story that came with it: Gaul served under Caesar, a praetorship earned, and no province at the end of it. Basilus kept the resentment the way some men keep wine.
+Favonius answered first, because Favonius always answered first. He had grown his beard like Cato’s and went barefoot like Cato in the street, and he had Cato’s habit of saying the hard thing before anyone else could say the sensible one.
 
-“You have been wronged by the calendar,” the man said. “So have others. When the moment comes, men of standing will be remembered.”
+“No,” Favonius said. “Not if it means war. Civil war is worse than a monarchy that breaks the law. I have seen both now. The monarchy at least lets you sleep.”
 
-Seius’s heart performed a small treason of excitement. He saw himself named later in a clean story. Then he saw Antony’s face in some remembered dinner, and Cassius’s dryness, and his own body’s talent for sweating through tunic wool.
+“That is a strange thing for you to say,” said Labeo, from the end couch.
 
-“What moment?” Seius asked, and hated that his voice cracked like a boy’s.
+“It is a strange thing to have learned.”
 
-“You will know if you are meant to know,” the man said. “For now, listen harder. Speak less. If you cannot bear weight, do not pick it up.”
+Brutus turned his cup in his fingers and looked at Statilius, politely, the way a host passes the dish to the next guest. Statilius had the curious sensation of being weighed by a man who was not looking at the scales.
 
-“I can bear weight.”
+“Statilius?”
 
-“You are bearing a towel.”
+“You know what my master says.” Statilius wiped his fingers. “Live unnoticed. A wise man does not go into public life unless something forces him, and even then he should go in the way you go into cold water, quickly and hoping to come out.” He smiled round the couches. “Your question has a weakness, Marcus. You say the people do not much mind. Then the wise man would be risking his life and his peace for people who are foolish and ignorant and do not want what he is risking it for. That is not courage. That is a bad bargain made by a man who has read too much Plato.”
 
-A laugh burst from the main hall, someone’s joke about a wrestler. Seius laughed too late, then too loud. The recruiter’s eyes cooled.
+Favonius laughed. Basilus did not. Labeo sat up on his elbow.
 
-“I am with the Republic,” Seius said, which was what men said when they meant *I am with my skin*.
+“And if the wise man is not doing it for the foolish?” Labeo said. “If he is doing it because it is right?”
 
-“Of course,” the man answered, already done with him.
+“Then he is doing it for an idea,” said Statilius, “and ideas do not come to your funeral.”
 
-Seius left with oil still on his shoulders and a knowledge like a splinter: something hung in the city, and he had flinched at the height where hanging became holding. He congratulated himself for prudence all the way toward the street.
+“Nor do Epicureans, I expect,” said Labeo. “Too far to walk.”
 
-On the oil benches a client of his, soft-eyed, useful at dinners, pretended to adjust a strap and spoke without looking up. “Soft rooms are for men who finish sentences, Marcus. You left mid-breath. The wrestling yard notices who gets invited into quiet and who exits empty.”
+That got the laugh, and Statilius gave it to him gladly. He liked Labeo. He liked all of them; he had known most of them since the schools, since they had been young men arguing about the gods with nothing at stake but supper. Labeo pressed on. He argued that a man who saw a wrong and could right it and did not was as guilty as the man who did it. Favonius argued back. It went round the couches the way such arguments always did, pleasantly, with the wine.
 
-“I was never invited anywhere,” Seius said.
+Brutus said almost nothing. He listened to each of them with the same courteous attention, and once he smiled at something Statilius said about the gods having the sense to live in the gaps between worlds where nobody could petition them. When the argument began to tire he said that it was a hard question and he did not think the ancients had settled it either, and asked Favonius about his farm.
 
-“Then you will not mind that everyone saw you leave.”
+It was only on the way home that Statilius thought about the smile.
 
-Seius smiled the smile of a man who had paid for privacy and bought a notice instead. By the time he reached home Seia Prima had already heard, from someone who sold oil and opinions, that her husband had been tapped for a quiet hour and come out without a name. She did not ask which room. She only said, sweet as vinegar again, that prudence was expensive when it looked like flinching in public.
+The street was cold and nearly empty. His slave walked ahead with the lantern. Behind him, at Brutus’s door, the other guests had been saying their goodnights, and Statilius had noticed without noticing that Labeo had not been among them. Labeo had still been on his couch when Statilius left, with his sandals off, as if he expected to stay.
 
-“I did not flinch,” said Seius.
+*Suppose a city has fallen under one man.* Brutus did not ask idle questions. He had never in his life asked an idle question. He asked questions the way other men took soundings from a boat, and Statilius had answered him as if it were a game, with a joke about Plato.
 
-“Then what did you do?”
+He stopped in the street. The slave stopped too and looked back with the lantern.
 
-“I declined to be hasty.”
+Statilius thought of going back. He could knock and be let in and say: I answered the wrong question. Ask me the real one. He stood there long enough for the lantern to burn down a finger’s width, and he did not go back, and he could not have said whether it was wisdom or the cold.
 
-“That is flinching in better shoes.”
+Live unnoticed. He had been noticed. He had been noticed and then, very gently, passed over, like a dish a guest declines.
 
-Prudence tasted like relief and cowardice mixed. He couldn’t tell which was stronger.
+“Master?” said the slave.
+
+“Nothing,” Statilius said. “A fig disagreeing with me.”
+
+He walked home. He slept badly, which he blamed on the fig, and in the morning he did not go to Brutus’s house, and Brutus did not send for him.
 
 ---
 
@@ -143,6 +147,6 @@ Hordeonius did not correct her. Street mouths carried what senators forgot on pu
 ---
 
 ## Continuity
-- **Knows / learns:** Seius nearly recruited and flinches (early Feb 44); his soft-hour door-tapping costs him (a client notices; Seia Prima’s vinegar). Hordeonius softens a debt; Visellius Paullus refuses. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
+- **Knows / learns:** Brutus sounds out Favonius and Statilius at dinner as a philosophical question; Favonius: civil war worse than lawless monarchy; Statilius: a wise man does not risk himself for the foolish; Labeo argues against both and stays behind (Plut. *Brut.* 12). Statilius sees too late that it was not a game and does not go back. Basilus present (Gaul, a praetorship, no province), says little. (Replaces the retired Seius bath scene, 2026-10-24.) Hordeonius softens a debt; Visellius Paullus refuses. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
 - **Plants → pays:** Hordeonius prices a consul who walks free of a bad morning as an uninsured morning (Ch 15, no spoiler); the water-carrier remembers SIDE-1 as pressure later.
 - **Must not:** OPEN-0 held (no solution); don’t re-introduce Basilus later.

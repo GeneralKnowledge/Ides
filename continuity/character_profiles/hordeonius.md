@@ -27,7 +27,7 @@ Entering *acquired: unclean*; smelling Visellius’s room; refusing poison-as-fa
 |--------|---------|---------|
 | Sosia | Impatient collector | Snort tax |
 | Visellius | Dead instrument | Ash OPEN-0 |
-| Seius type | Junior appetite | Lists neighbour |
+| Calenus’s steward | — | The clean loan |
 | Liberators/OCT | Market columns | Whichever clears |
 
 ## Arc beat sheet
@@ -36,7 +36,7 @@ Entering *acquired: unclean*; smelling Visellius’s room; refusing poison-as-fa
 |-------|----------|------|
 | Setup | 1–2, 10 | Rates; SIDE-1 body |
 | Pressure | 18, 23 | Will market (basilica/Janus); amnesty≠blot debt; SIDE-1 archaeology refuse; petition weather |
-| Cost | 30, 32 | Silence-for-sale; unclean leases; called in Fulvia’s paper in spring 43 and learns Atticus’s kindness to her cleared; lends to Seius on the Sabine farm and enters it *clean* |
+| Cost | 30, 32 | Silence-for-sale; unclean leases; called in Fulvia’s paper in spring 43 and learns Atticus’s kindness to her cleared; lends to Calenus’s steward on Calenus’s plate (Seius retired 2026-10-24) and enters it *clean* |
 | End | 35–36 | Ash echo |
 
 ## Behavioral tells
@@ -74,7 +74,7 @@ Mastermind; treasury replacement system.
 | Person | Edge |
 |--------|------|
 | Atticus-type peers | Professional courtesy (do not replace Atticus) |
-| F2 Seius | Creditor |
+| Calenus (via steward) | Creditor, Ch 32 |
 | F1 Nysa | Occasional courier hire |
 | Antony’s agents | Bribe/liquidity post-Ides |
 | Liberators | Some clients among them — awkward |

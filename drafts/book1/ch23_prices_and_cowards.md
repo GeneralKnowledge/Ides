@@ -84,51 +84,63 @@ She walked back across the Sacra Via for her bundle while the streets were still
 
 ---
 
-# SC-66: Congratulates, Then Hides
+# SC-66: Not on the Tablet
 
-POV: F2 Seius · municipal dinner
-Date / place: Rome fringe · *Att.* 14.14 type
-Canon refs: F2 majority mode
-Info ENTER: Almost-knowledge guilt · EXIT: Private joy; public absence
+POV: Statilius · a dinner on the Quirinal
+Date / place: Late April 44 · after the Liberators have left Rome
+Canon refs: Plut. *Brut.* 12 (callback) · Cic. *Att.* 14.14 (men who cheered and then went quiet)
+Info ENTER: The February question · EXIT: keeps his name off the open declaration; writes to Brutus as a friend, not a signer
 Overhear risk: Medium
 
 ---
 
-Seius congratulated a Liberator’s cousin with wine-bright eyes and a spine already planning exit routes.
+The tablet came round after the second course, under a napkin, as if it were something to be ashamed of, which Statilius thought was the first honest thing about it.
 
-“Liberty,” he said, and meant *I almost stood near the fire and did not burn.*
+It had six names on it already. A declaration of support, open, for Brutus and Cassius and the rest, now that they were out of the city and the city was deciding what it thought of them. The man who carried it was a cousin of Cassius’s wife, a decent young man with a new beard, and he set it down by Statilius’s elbow with a stylus already warmed.
 
-The cousin clasped his arm too hard. Seius clasped back harder, then softer, etiquette as a vane. At home he told no one he had been sounded for recruitment in the baths back in February. He told Seia Prima the city was dangerous for honest men. She believed him because belief was cheaper than questions.
+“You were at his house,” the cousin said. “Everyone knows you’re his friend.”
 
-After the second course a neighbour leaned in with wine on his breath and a tablet half-hidden under his sleeve. Gavius from the next block, a man who borrowed tools and returned gossip. “Sign,” Gavius said softly. “Open support for the Liberators. Three names already. Yours would make four. The cousin saw you clasp. He expects ink.”
+“I am his friend.”
 
-Seia Prima’s eyes found Seius across the lamps. Expectation closed like a trap.
+“Then sign.”
 
-Seius felt the old bath-recruitment cold return to his wrists. A signature was a door you could not un-open when Antonian veterans walked the street. Refusal in front of Gavius was another door. The cousin would hear. The dinner circuit would adjust. Someone would remember Seius as weather that would not commit.
+The dinner was a good one. The host had been at the Capitol on the first night and talked about it as if he had held a sword, which he had not; he had held a lamp, and Statilius had seen him hold it. Six weeks ago every couch in Rome had been full of men like that. Statilius had watched them. They had cheered in March, and in April Antony had put a guard on his house and read Caesar’s papers aloud in the Senate, and the cheering had gone into the kind of quiet that waits to see who is winning. Some of the men who had cheered loudest had already gone to Antony’s morning reception. Statilius had seen them too, from the street.
 
-“My stomach,” Seius began, and hated the cue even as he used it.
+He looked at the names. Two of them belonged to men who would be in Antony’s atrium by the Kalends.
 
-“Your stomach was fine for the toast,” Gavius said.
+“I won’t sign,” he said.
 
-Seius set down his cup carefully. “I will not sign tonight. Ask me when the Forum has decided which knives are fashion.”
+The cousin’s face changed. Down the couches the talk dropped, the way talk drops when a dish is sent back.
 
-Gavius’s mouth flattened. “Then you are not with us. Say it plain for the cousin.”
+“You said at his table,” said the cousin, who had clearly been told, “that a wise man should not take risks for fools. Is that what we are?”
 
-“I am with my household,” Seius said. “That is as plain as I get.”
+“That is what I said. I said it in February.” Statilius picked up the stylus and looked at it and put it down again, on the napkin, so it would not mark the couch. “I said it when he asked me a question he was not asking. I answered the question he was asking with a joke, and he was kind enough to let me. He went to the Curia without me. I will not go to the tablet after him, now that it costs nothing to sign and will cost a great deal later, and call that friendship.”
 
-He left before dessert. Seia Prima followed without speaking until the street. “Gavius will tell them you flinched,” she said.
+“It costs nothing?”
 
-“Let him,” Seius said. “I still have a door that closes. That is what I bought.”
+“Not tonight. Tonight it is a dinner.” He smiled. “Ask me when it costs something.”
 
-By morning the petition had four names without his. Gavius had already told the baker’s corner that Seius congratulated with wine and vanished with excuses. He had asked Seius’s wife, within earshot of two neighbours, whether honest men still shared tools with cowards. Seius cancelled the near dinners and accepted one far from anyone who could open another tablet under a sleeve. He had not become a hero. He had spent Gavius’s goodwill, and the mule Gavius used to lend without asking, to keep his name off a list that could kill him.
+The cousin took the tablet back. He did not say *coward*; he was too well brought up. He said it with his shoulders instead, going back down the couches, and the host cleared his throat and called for the next course, and the talk came back up the way water closes over a stone.
 
-On the way to the far dinner he didn’t rehearse congratulations. He counted which faces would still lend him a mule if the winds turned, and found the number smaller by one. Gavius gone from the count.
+Statilius ate the next course. He made himself. A man who left a dinner early after refusing a tablet was a man who had something to be ashamed of, and he was not sure yet whether he had.
+
+At home he did not go to bed. He sat in the small garden he had made behind the house, a few herbs and a fig tree and a bench, the way his master taught, a garden as a place to be left alone in. It was too dark to see the fig. He could smell it.
+
+Live unnoticed. He had built his whole life on the sentence, and it had held, through Pharsalus and Africa and the pardons and the ten years and the Ides. He had never been on anyone’s list. He had never put his name on anyone’s tablet. He had been free, which his master said was the only thing worth having, and he had spent the spring watching his friends leave the city one by one by the Appian road while he stayed in his garden being free.
+
+He called for a lamp and wax. He did not write to the Senate, or to the cousin, or to anyone who would read it aloud at a dinner. He wrote to Brutus, at Lanuvium.
+
+*I will not sign for the Republic. I don’t believe in it, and you know I don’t, and you were right not to ask me in February. But if there is ever a thing to be done that wants a friend and not a cause, I am the same man you used to argue with, and I am not doing anything else.*
+
+He read it over and thought it sounded like a man who had drunk the host’s wine. He sealed it anyway.
+
+In the morning he gave it to a carrier going south and went back to his garden, and found, to his annoyance, that he could not sit in it.
 
 ---
 
 ## Continuity
-- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); Antium is Brutus’s sea house, with Servilia’s clerks moved in. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
+- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); Antium is Brutus’s sea house, with Servilia’s clerks moved in. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Statilius keeps his name off the open declaration for the Liberators at a dinner (“Ask me when it costs something”); men who cheered in March already at Antony’s reception (*Att.* 14.14); he writes to Brutus at Lanuvium as a friend, not a signer (plants Ch 36 SC-93 torch).
 - **Nysa’s errand:** she takes a receipt to the Carinae (Pompey’s old house, bought at Caesar’s auction, never paid for), takes the “stay attached” offer, learns the bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; the Domus to Lepidus; Subura rent).
-- **Plants → pays:** Antium (Ch 24); Gavius (Ch 32, T11); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 32 lists).
-- **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7); Seius as aedile’s kin (Ch 3, 10).
+- **Plants → pays:** Antium (Ch 24); Statilius’s letter (Ch 36); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 32 lists).
+- **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7).
 - **Decisions:** 2026-10-23 (Reuben, T9/T11): Nysa moves to Antony’s kitchen.

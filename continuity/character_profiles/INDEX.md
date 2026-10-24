@@ -23,7 +23,7 @@
 | H-FUL | Fulvia | Historical | Limited | [`fulvia.md`](fulvia.md) |
 | H-CLE | Cleopatra VII | Historical | Segment | [`cleopatra.md`](cleopatra.md) |
 | F1 | Nysa | Fictional | Regular | [`nysa.md`](nysa.md) |
-| F2 | M. Seius Vestalis | Fictional | Regular | [`seius.md`](seius.md) |
+| F2 | ~~M. Seius Vestalis~~ | Fictional | Retired 2026-10-24 | [`seius.md`](seius.md) |
 | F3 | Sex. Laberius Cordus | Fictional | Regular | [`laberius.md`](laberius.md) |
 | F4 | L. Hordeonius Felix | Fictional | Regular | [`hordeonius.md`](hordeonius.md) |
 
@@ -45,7 +45,7 @@ Still table-only in [`secondary_cast.md`](secondary_cast.md): Hirtius · Pansa (
 
 ## Locked minor D-cast (card in `secondary_cast.md`)
 
-Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Seia Prima · Pacuvius · Apollodorus · Amyntas (opt., [`amyntas.md`](amyntas.md)) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Gavius (Seius neighbour, Ch 23)  
+Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas · Paullus · Pacuvius · Apollodorus · Amyntas (opt., [`amyntas.md`](amyntas.md)) · Festus · Sphaerus · Quintus the fuller · Ammonius · Vibius · Gavius (Seius neighbour, Ch 23)  
 *(Phileros promoted — see above.)*
 
 ---
@@ -63,7 +63,7 @@ Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas
 | 7 | ANT, FUL, CAS |
 | 8 | CAS, BRU |
 | 9 | DEC, BRU |
-| 10 | F2, F4 |
+| 10 | Statilius, F4 |
 | 11 | F1, CIC |
 | 12 | CAL, F1, CAE |
 | 13 | TRE/DEC, CIC, F3, BRU/CAS |
@@ -76,14 +76,14 @@ Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas
 | 20 | DEC, CLE, OCT |
 | 21 | CIC, BRU |
 | 22 | OCT, ANT |
-| 23 | F4, F1, F2 |
+| 23 | F4, F1, Statilius |
 | 24 | F3, CIC (+ Servilia) |
 | 25 | CIC, CAS/BRU |
 | 27 | DEC, CLE, CIC |
 | 28 | ANT/DEC, CIC/OCT |
 | 30 | F3, F4 |
 | 31 | DEC, OCT |
-| 32 | ANT/OCT/LEP, F2/F4/F1 |
+| 32 | ANT/OCT/LEP, F4/F1, Calenus |
 | 33 | CIC |
 | 34 | CAS, BRU |
 | 35 | F4, ANT/F3, CAS |

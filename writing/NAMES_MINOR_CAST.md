@@ -10,7 +10,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | SIDE-1 Antonian cash agent | **C. Septimius Bucco** | F4, ANT orbit | Bribe courier |
 | Domus Publica door-keeper | **Phileros** | F1 | NOTE-1 delay |
 | Nysa’s Subura contact | **Medullina** | F1 | Rumour swap |
-| Hordeonius’s collector | **Sosia** | F2/F4 | Impatient collector (he) |
+| Hordeonius’s collector | **Sosia** | F4 | Impatient collector (he) |
 | Trebonius’ attendant | **Glaucia** | ANT delay | Misreads shouts |
 | F3’s optio | **Vibius** | F3 | |
 | Servilia’s steward (Antium) | **Hilarus** | SC-68a | Soft-power room |
@@ -22,7 +22,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | Domus kitchen boy | **Dama** | F1, SC-26 | Chicken/omen gossip |
 | Calpurnia’s ornatrix | **Pallas** | CAL | Dresses dread |
 | Basilus-orbit middleman | **L. Statius Paullus** | SIDE-1 / F4 | Soften-debt ask |
-| F2’s ambitious wife | **Seia Prima** | F2 | Status pressure |
+| ~~F2’s ambitious wife~~ | ~~Seia Prima~~ | retired 2026-10-24 | |
 | Antony’s veteran centurion contact | **M. Pacuvius** | ANT / F3 | Donative talk |
 | OCT’s early attendant in Campania | **Apollodorus** | OCT | Not Agrippa |
 | Eastern optional face | **Amyntas son of Menodotus** | F5 / SC-87 | Optional POV |
@@ -33,7 +33,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | Kitchen omen gossip | **Dama** | F1 / Ch 14 | Chickens sullen (wired) |
 | Antony force officer (Ides eve) | **M. Pacuvius** | ANT / Ch 17 | Scar; Capitol storm urge (wired) |
 | Laberius’s contubernium mate | **Gaius of the split sandal** | F3 / Ch 4, 13 | Talks to keep his fingers warm |
-| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 32 | Borrows tools, returns gossip; replaces earlier “Quintus”; listed in Ch 32, saved by Seius |
-| Seius’s doorkeeper | **Dromo** | F2 / Ch 32 | Old porter; freed before he can inform |
+| ~~Seius’s neighbour~~ | ~~Gavius~~ | retired 2026-10-24 | |
+| ~~Seius’s doorkeeper~~ | ~~Dromo~~ | retired 2026-10-24 | |
 
 **Rule:** New recurring names → append here + one-line note in `continuity/canon.md` under NAMES-1.

@@ -15,7 +15,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | Prologue | SC-00 | Cleanthes | Cato’s death at Utica (Apr 46); the pardon refused (PROLOGUE-1) |
 | 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour climber Sextilius; queen/child rumour |
 | 2 | SC-01, SC-02 | F4, F1 | Cato/Africa market weather; spectacle residue; land hunger seed |
-| 3 | SC-03 (SC-04 cut 2026-10-24) | F2 | Debt/patronage |
+| 3 | SC-03 (SC-04 cut 2026-10-24) | CIC | Debt/patronage: Cicero pleads for Ligarius |
 | 4 | SC-05, SC-06, SC-07, SC-09 | F3, BRU, DEC | Munda; Porcia pressure; will whisper (no dinner replay) |
 | 5 | SC-11 (SC-10 folded 2026-10-24) | OCT | Peripheral boy; Apollonia/Agrippa plant |
 | 6 | SC-11b, SC-12, SC-14 (SC-13 folded into F4) | BRU, CIC, F4 | City praetorship over Cassius; dictator perpetuo; Parthia clock; offices market |
@@ -31,7 +31,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 |----|-------------|--------------|--------------|
 | 8 | SC-20, SC-21 | CAS, BRU | Recruitment heat; ancestral pressure |
 | 9 | SC-22, SC-23 | DEC, CAS/BRU/DEC | Insider trust; **spare Antony** |
-| 10 | SC-24, SC-25, SC-25b | F2, F4 | Almost-recruit; debt ask; **SIDE-1 body** |
+| 10 | SC-24, SC-25, SC-25b | Statilius, F4 | Almost-recruit (Statilius, Favonius); debt ask; **SIDE-1 body** |
 | 11 | SC-26, SC-27 | F1, CIC | Omens; **manufactured Sibylline talk** |
 | 12 | SC-28, SC-29, SC-30 | CAL, F1, CAE | Dread; fragment; Caesar opacity |
 | 13 | SC-31, SC-32, SC-33, SC-34 | TRE/DEC, CIC, F3, BRU/CAS | Delay assignment; Cicero blind calm; veterans; GO |
@@ -58,7 +58,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 |----|-------------|--------------|--------------|
 | 21 | SC-60, SC-60a–c, SC-61 | CIC, CAS, F1, BRU | Letters; Trebonius leaves; the column; *wonderful Dolabella* (T10); Lanuvium cage |
 | 22 | SC-62, SC-63, SC-63b | OCT/CIC, ANT, OCT | **Name Caesar**; Antony underestimates; Pompey’s gardens refusal (T9) |
-| 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
+| 23 | SC-64, SC-65, SC-66 | F4, F1, Statilius | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68c, SC-69, SC-68b | F1, CAS/BRU, CIC | Victory games and star (T9); East departure; Philippics |
 | 26 | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8) |
@@ -74,7 +74,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 |----|-------------|--------------|--------------|
 | 30 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
 | 31 | SC-82, SC-82a, SC-83 | DEC, BRU, OCT | Isolation; Cularo; Porcia’s death reaches Brutus; the march on Rome and the consulship |
-| 32 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
+| 32 | SC-84, SC-85, SC-85a–d | OCT, F4/F1, Calenus | Triumvirate; **proscriptions**; Julia’s door; Calenus hides Varro; Atticus spared |
 | 33 | SC-86, SC-86a, SC-86b, SC-86c | CIC, ANT, F3, F1 | **Cicero death**; Julia at the tribunal; the brothers’ song; Hortensia |
 | 34 | SC-87a, SC-87, SC-88, SC-88b, SC-88c | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
 | 35 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
