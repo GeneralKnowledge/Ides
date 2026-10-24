@@ -81,7 +81,7 @@ Overhear risk: Extreme once leaked
 
 ---
 
-### Movement A: Antony
+### Antony
 
 Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame, the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
@@ -107,7 +107,7 @@ Someone urged delay until the city cooled, polite as a man offering a cloak in a
 
 In the anteroom, after the seal’s news had begun to leak toward the street, the delayer said nothing more to the clerk who still wanted hours. The clerk would hear the boy’s name from the street soon enough; delay had already lost.
 
-### Movement B: Nysa
+### Nysa
 
 Nysa heard the will in pieces, which was how the poor always heard law.
 

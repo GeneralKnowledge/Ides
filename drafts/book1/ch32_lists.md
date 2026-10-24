@@ -40,6 +40,8 @@ Lepidus had brought a secretary, because Lepidus always brought a secretary, and
 
 Antony laid his palm on the tablet again. “There. Names, heads, and a sale, and the sale pays the legions.”
 
+Across the sea, Brutus had been keeping Antony’s brother since the spring. Octavian watched the hand on the tablet for any sign of that and found none, which told him nothing either way.
+
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
 Antony’s stylus paused on a lesser enemy first, a man who had borrowed money and returned sermons. Easy. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
@@ -82,7 +84,7 @@ Overhear risk: Extreme terror
 
 ---
 
-### F2: Seius
+### Seius
 
 Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the square letters ran down to the clause men read twice: *whoever hides one of these, or helps him away…* Eleven lines down, in the same black letters, stood Gavius from the next block, the petition-tablet man who had called him a coward over dessert. Seius didn’t stop walking. Stopping looked like guilt.
 
@@ -90,13 +92,13 @@ At the corner Gavius himself stood under the same wood with a woman who had borr
 
 “I do not know that spelling,” Seius said. True enough to keep his door; false enough that Gavius’s mouth flattened. He did not say *eleven lines down*. The woman stepped back. Kinship itself felt contagious. Seius bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks twice. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn’t laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her, old Seia who audited his atrium smile against paper. He stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
-### F4: Hordeonius
+### Hordeonius
 
 Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed. Arrived late. Left early. Charged interest he could not collect from his own nerves.
 
 “I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason and told himself archaeology was closed.
 
-### F1: Nysa
+### Nysa
 
 Nysa saw Festus sell a household with a sentence. By the third day the whole Subura knew the name: a slave from the Esquiline who had walked his master’s hiding place to the tribunal and walked back a citizen. Informers priced breath. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong. Laughter that sounded like March smoke returning.
 

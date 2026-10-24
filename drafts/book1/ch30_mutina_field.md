@@ -184,7 +184,7 @@ Hordeonius did not smile. “Silence clears. Cleverness does not.”
 
 Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*.
 
-A second client asked whether to short land near Mutina. Hordeonius took a fee for advising against it and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
+Sosia brought a tablet up from the Carinae end of the Sacred Way: Fulvia’s paper, and her steward asking for a month. “The Senate has voted her husband an enemy,” Sosia said. “Everybody on the Janus is calling her in.” Hordeonius called it in, in full, charged the steward a fee for the haste, and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
 
 ---
 

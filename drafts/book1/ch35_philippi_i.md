@@ -94,7 +94,7 @@ A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, sh
 
 He did not think of Italian acres. Acres were for clerks after dust. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Auction quarrels nobody settled. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
-### F3: Laberius
+### Laberius
 
 Dust found every gap in Laberius’s teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it.
 

@@ -24,7 +24,7 @@ He gave her a cloak with no colour in it and a kitchen boy to hold her place on 
 
 At the entrance Matius’s men were handing out the edict on boards: games for the Victory of Caesar, given by Gaius Caesar his son. A fuller beside her read it aloud for those who could not, and stopped at *son* to see whether anyone would argue. Nobody did. “Matius pays,” someone said behind her. “Caesar’s old friend. The boy hasn’t the money; he sold his farms for the legacy.” “Then who’s paying for the beasts?” “Caesar’s friends. Same as always.”
 
-Nysa found the boy’s seats before she found the boy. They were the seats with the space beside them.
+Nysa found the boy’s seats before she found the boy. They were the seats with the space beside them. The will that made him Caesar’s son had made her his freedwoman, and she had come in the steward’s cloak to count his crowd.
 
 A procession came along the track before the first race with Caesar’s gilded chair in it, the one the Senate had voted him, carried shoulder-high under a gold crown. The bearers took short steps under it. Gilt or not, it was heavy, and they carried it like a thing that might still be sat in. They brought it as far as the boy’s row, and three men in good cloaks stepped into the aisle in front of them. One of the three was a tribune; she knew it by the way the others let him speak. He did not raise his voice. The bearers looked toward the boy. The boy did not move.
 

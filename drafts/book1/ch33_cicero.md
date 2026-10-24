@@ -18,7 +18,7 @@ Cicero had always believed a sentence could outrun a sword if the sentence were 
 
 The litter swayed on the Formiae road. Sea air lifted the curtain edges and brought salt that tasted like unfinished letters. Atticus unanswered. Philippics still warm in memory like a fever that thought it was an army. He had left too late and too early. Late for safety. Early for the dignity of a man who still thought negotiation might grow legs if fed enough clauses.
 
-He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyond the far coast with legions and a welcome, and the swell had turned his stomach and then his nerve. He had made them put in at Caieta. He had climbed to the villa above Formiae with salt in his beard and told his slaves, *Let me die in the country I have so often saved.* By dinner the sentence embarrassed him; it had come too easily. At first light the slaves had not asked his opinion. They had lifted him into the litter and turned it back toward the water.
+He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyond the far coast with legions and a welcome, and Marcus among the legions, and the swell had turned his stomach and then his nerve. He had made them put in at Caieta. He had climbed to the villa above Formiae with salt in his beard and told his slaves, *Let me die in the country I have so often saved.* By dinner the sentence embarrassed him; it had come too easily. At first light the slaves had not asked his opinion. They had lifted him into the litter and turned it back toward the water.
 
 Proscription had turned his name into a price. A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He tried to treat the price as a rhetorical problem and failed. Rhetoric needed an audience; hunters weren’t one. He catalogued, helplessly, the old skills: period, antithesis, the pause that made juries lean. None of them lengthened a road.
 
@@ -156,7 +156,7 @@ The women had gone ahead. Nysa caught them in the Argiletum, and by the time the
 
 The triumvirs sat on their chairs on the tribunal in a row. Lepidus in the middle, because he was consul. Antony on one side, big and bored. On the other side the boy, who was not a boy any more, in a toga with a purple border, his face still and pale.
 
-Nysa had seen him once since he came back to Rome, at a distance, in the street with the lictors in front of him. He was her patron. In law, the old man’s freedwoman belonged to the old man’s son. She owed him her duty and her vote, if she had had a vote, and her presence when he called for it, which he never had. She did not think he knew her name. She stood at the edge of the crowd and counted.
+Nysa had seen him once since he came back to Rome, at a distance, in the street with the lictors in front of him. He was her patron. She owed him her duty and her vote, if she had had a vote, and her presence when he called for it, which he never had. She did not think he knew her name. She stood at the edge of the crowd and counted.
 
 The lictors stood across the front of the tribunal with their rods. The tall woman walked straight up to them, as if they were not there, and the lictors looked at each other, and somehow she was through, and the others behind her.
 
