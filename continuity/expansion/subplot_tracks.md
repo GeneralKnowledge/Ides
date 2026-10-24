@@ -242,7 +242,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Direction change | 21, 25 | Lanuvium: her account of the Ides morning (false death report); Velia: Hector and Andromache painting |
 | Payoff | 32 | Cicero’s consolation reaches Brutus; manner of death left open |
 
-**Status 2026-10-24: not landed.** Ch 21 Lanuvium has Porcia but not her Ides-morning account; the Ch 13 wound, the Velia painting and the Ch 32 consolation are still planned.
+**Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 32 SC-88b (the consolation at the bottom of the cedar box; three versions of her death).
 
 **Sources:** Plutarch *Brutus* 13–15, 23, 53; Cicero *Ad Brutum* 1.9.  
 **Must not:** touch the Ch 14–19 gold spine; no narrator verdict on how she died.

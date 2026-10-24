@@ -47,6 +47,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Spring | Nysa takes the Carinae bow and serves in Antony’s house | F | Ch 23; T11 plant |
 | Jun | Antony’s law gives him Cisalpine + Macedonian legions | H | Ch 26 (Decimus) |
 | Jul | Victory games; comet; Antony blocks the golden chair | H | Ch 25 (SC-68c, Nysa); comet stays ambiguous |
+| Late Aug | Velia: Porcia and the Hector and Andromache painting; she goes back to Rome | H | Ch 25 SC-68d (T13) |
 | Late Aug | Brutus sails east; Cassius later | H | Ch 25; EXIT-1 |
 | Autumn | Athens: Brutus’s statue beside the tyrant-killers; Marcus Cicero and Horace take commands; Hortensius hands over Macedonia | H | Ch 25a SC-69a (T8) |
 | Sept onward | Philippics | H | Ch 25 |
@@ -72,6 +73,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | May | Lepidus’s legions let Antony into their camp | H | Ch 29 |
 | Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 SC-82 (Decimus) |
 | Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 SC-87a (Amyntas) |
+| ~Jun | Porcia dies in Rome (manner open); Cicero’s consolation (*Ad Brut.* 1.9) | H | Ch 32 SC-88b (recalled, T13) |
 | Jul | Four hundred centurions to the Senate; Cornelius’s sword (Suet. *Aug.* 26) | H | Ch 29 SC-83 |
 | Late Jul–Aug | Rubicon; African legions defect; Cornutus’s suicide; Atia and Octavia at the Vestals’; Cicero greets him last (App. *BC* 3.88–93) | H | Ch 29 SC-83 |
 | 19 Aug | Octavian consul at nineteen with Pedius; vultures; Pedian court condemns the assassins | H | Ch 29 SC-83 (S5) |
