@@ -1,6 +1,66 @@
 # Chapter 32: Eastern Ledger
 
-**Scenes:** SC-87, SC-88, SC-88b · 43–42 · Chain 8 · F5 skip · B7
+**Scenes:** SC-87a, SC-87, SC-88, SC-88b · summer 43 → 42 · Chain 8 · F5 (Amyntas) · B7
+
+---
+
+# SC-87a: Laodicea
+
+POV: F5 Amyntas · the coast of Syria
+Date / place: Summer 43 · Cassius’s siege lines before Laodicea; the town after
+Canon refs: T10 · App. *BC* 4.60–62 · Dio 47.30
+Info ENTER: Dolabella shut in Laodicea; Smyrna emptied · EXIT: Dolabella dead by his own guard’s sword; the Smyrna treasurer counts what is left
+Overhear risk: Cassius’s officers
+
+---
+
+Smyrna sent its treasurer to Cassius because there was nothing left in the treasury to send instead.
+
+Amyntas went by sea in the hot months, with a letter from the council and the books, down the coast past Rhodes and Cyprus to where the Syrian shore ran flat and white under the sun and a town sat on its headland with the sea on three sides and an army on the fourth. Laodicea. Dolabella had gone in there in the spring, when Cassius came against him with more legions than he had, and the town had opened its gates to him, because he had been consul of Rome last year and had good teeth. Now it had walls round it on the land side, Cassius’s walls, a double ditch and a rampart across the neck of the headland, and on the sea side Cassius’s ships rode at anchor in a line, and nothing went in.
+
+Amyntas was given a tent in the lines and told to wait. He waited nine days.
+
+He spent them as he spent everything, counting. The siege works: so many feet of ditch, so many towers. The ships. The bread ration in the camp, which was better than Smyrna’s had been since January. The men who came out of Laodicea by night, swimming or on rafts or let down from the wall on ropes, to sell what they knew for a loaf: that the town was eating its horses; that Dolabella paid his soldiers in promises now and in silver plate cut up with chisels; that his guards were Gauls, and loved him, and that the rest did not.
+
+On the tenth day Amyntas was brought to Cassius.
+
+He had expected a philosopher, from what was said of the Liberators. He found a lean grey man in a cuirass at a table covered in tablets, who listened to the letter from the council without looking up, and then asked one question.
+
+“How much did he take?”
+
+Amyntas told him. To the drachma. He had the figures by heart. The strongroom, the temple deposits, the harbour dues for the year, the cup.
+
+Cassius looked up then. “The cup?”
+
+“He sent me a silver cup, Imperator. As thanks for the barley. Before.” Amyntas found that his voice was steady, as it had been on the steps. “I entered it as a gift to the city. He took it back with the rest.”
+
+Cassius looked at him for some time. It was not an unkind look. It was the look of a man reading an account and finding the sum correct.
+
+“Smyrna will owe me,” he said. “Not today. Today it owes me nothing, because it has nothing, and I don’t waste clerks. Stay. Watch. When this is done you can tell your council what you saw, and then they’ll know what the sum is for.”
+
+It was done four days later.
+
+Amyntas did not see the gate open. Nobody in the lines did; it happened in the dark before dawn, on the landward side, where the centurions who held the gate for Dolabella had been talking to Cassius’s centurions across the ditch for a week. There was a noise, not loud. Then the trumpets in the lines, and the cohorts going in at a run over a causeway of fascines, and by full light Cassius’s standards were on the wall.
+
+He was taken in at noon with the officers, because Cassius had told him to watch.
+
+The town smelled of horse. The streets were full of soldiers sitting down, Dolabella’s men, with their shields at their feet, waiting to be told whose they were now. Nobody was fighting. Amyntas had begun to understand that this was how cities fell, in these wars between Romans: not with a storm but with a gate and a price and men sitting down in the street.
+
+Dolabella was in a house near the harbour.
+
+He lay in the courtyard on his back, without his head. A Gaul lay beside him, a big fair man in a Roman mail shirt, with his own sword through his own chest and his hand still on the hilt. The head was on a cloak on the paving between them, set down carefully, face up, as if somebody had meant to bring it somewhere and then not had the heart.
+
+Cassius’s officers stood round and told it to each other. When the gate went, Dolabella had sent for the captain of his guard and bared his neck and told him to take the head to Cassius and buy his own life with it. The Gaul had done the first part. Then he had sat down by the body and done the other thing instead.
+
+Amyntas looked at the face on the cloak. It was the same face. Handsome, flushed even now, the very good teeth. He waited to feel what he had felt on the steps at Smyrna, and it did not come. What came instead was the thought of the ivory chair on the tribunal, and of how Dolabella had glanced at it, the way a man glances at a table that has not been cleared.
+
+Somebody had cleared this one.
+
+Cassius came into the courtyard a little later and stood for a moment by the body. He did not make a speech. He looked at the Gaul longer than at Dolabella, and then he told an officer to have both of them burned properly, together, and to find out the Gaul’s name.
+
+Then he turned to the paymaster beside him and asked what Laodicea had in its treasury, and the paymaster began to read the figures, and Amyntas found himself listening to the sums with a professional ear, adding them as they went, and noticed that the town was going to be asked for more than it had. He knew the shape of that sum. He had read it aloud himself, in January, on the steps.
+
+He went home to Smyrna on the next ship with Cassius’s receipt for nothing, and gave the council his report. He told them the figures. He told them about the Gaul. He did not tell them what Cassius had said the sum was for, because when he came to write it down he found he did not know.
 
 ---
 
@@ -125,6 +185,7 @@ When the secretary had gone he put the August letter back in the cedar box with 
 ---
 
 ## Continuity
+- **SC-87a (Amyntas, summer 43, T10):** Smyrna sends its treasurer because the treasury is empty; Laodicea on its headland, Cassius’s double ditch and ships; deserters: horses eaten, plate cut with chisels, Gaulish guards. Cassius: “How much did he take?”; the cup taken back; “Stay. Watch.” The gate sold by centurions before dawn; men sitting down in the street. Dolabella headless in a harbour courtyard; the Gaul with his own sword through him; the head set down on a cloak (App. *BC* 4.62). Cassius looks longer at the Gaul; both burned together; the Gaul’s name to be found. Laodicea asked for more than it has; Smyrna gets a receipt for nothing.
 - **SC-87 (Cassius):** liberty as a tax. An elder refuses to hand over all at once; the sack weighs short; Cassius imposes half now and sureties. His hungry legions: Syria’s garrison came over, and Dolabella’s men after Laodicea (Dolabella dead by his own soldier’s sword). West tablets, incomplete: Mutina, lists, fasces; the court in the boy’s consulship that condemned the men of March to empty benches; the three looking east (why the silver now); Trebonius killed at Smyrna before dawn (Dolabella), above Decimus in Cassius’s ledger.
 - **SC-88 (Brutus):** *EID MAR*: two daggers and the freedman’s cap, glossed by the mint-master; Brutus corrects it to Rome. His own head on the obverse against his winter jab at Caesar’s living-face coins.
 - **SC-88b (Brutus, early 42, T8):** Cicero’s letters in a cedar box. April 43: kill Gaius “out of arithmetic”; Brutus refuses, the Senate has not condemned him. Summer 43: Gaius works on the legions with wine and lictors; a three-day standing mutiny, ended without a death; Gaius moved to an anchored ship under guard, lictors ashore. August: “Do you think he would spare you?” News of Cicero’s death (details not asked) and Decimus’s. Brutus dictates the order to Hortensius: quick, without insult, burial fitting his rank (Plut. *Brut.* 26, 28). No warmth comes; the seal of Lucius Brutus who watched his sons die “seemed like a letter”.

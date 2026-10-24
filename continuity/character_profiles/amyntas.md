@@ -1,6 +1,6 @@
 # Amyntas (F5, optional)
 
-**Type:** Fictional · optional POV (T10 Smyrna is the planned use)
+**Type:** Fictional · POV in Ch 27a SC-74a (Smyrna) and Ch 32 SC-87a (Laodicea), T10. Treasurer of Smyrna, eleven years; wife and two daughters; house below the temple of Nemesis; the silver cup
 
 *Folded in from `story/characters/F5_amyntas_optional.md` on 2026-10-23.*
 
