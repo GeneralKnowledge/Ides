@@ -58,6 +58,9 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Jan | Trebonius killed at Smyrna by Dolabella | H | Reported Ch 32; T10 will dramatise |
 | 14 Apr | Forum Gallorum; Pansa wounded | H | Ch 28 (Vibius’s litter); S4 will dramatise |
 | 21 Apr | Mutina; Hirtius killed; Pansa dies after | H | Ch 28; poison rumour **C** (AMB-2) |
+| 20 Apr | True news of Forum Gallorum; crowd carries Cicero to the Capitol and the Rostra | H | Ch 28 SC-81b (recalled) |
+| Late Apr–May | Cicero’s *laudandum, ornandum, tollendum*; Labeo carries it to Octavian | H | Ch 28 SC-81b, Ch 29; T12 |
+| 24 May | Decimus writes it to Cicero from Eporedia (*Fam.* 11.20) | H | Ch 29 |
 | May | Lepidus’s legions let Antony into their camp | H | Ch 29 |
 | Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 summary; S3 will dramatise |
 | Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 (reported); T10 will dramatise |

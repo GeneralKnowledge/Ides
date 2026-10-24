@@ -46,7 +46,7 @@ Antony’s stylus paused on a lesser enemy first, a man who had borrowed money a
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-Lepidus looked at his hands. Hands could not abstain. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood.
+Lepidus looked at his hands. Hands could not abstain. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood. Under the count, in an old man’s voice, three verbs went past in order, praise, honour, lift, and the last one turned over and showed its other face. He did not let it into the count. He noticed that he had to decide not to.
 
 Antony’s finger stayed on the blank. “Say it,” he said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
 
@@ -465,5 +465,6 @@ She came and put her hand flat on his chest, over the heart, the way she checked
 - **SC-85d (Seius):** before light, Seius’s good mule, chaff cart, Capena gate; he talks the decurion past with his congratulating manner and a coin; Gavius south toward Circeii. Dromo gone, the bar left by the door. Seius has no mule now.
 - **Plants → pays:** Ch 31 death bought by the assent; Ch 23 flinch and “a door that closes”; Ch 3 canvass debt; Ch 25 Fulvia’s woman; Ch 32 courier; Sextus (FS11); the Sabine farm (later collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
+- **T12:** at “Cicero stays”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
 - **Must not (T11):** no census of the dead; Seius brave once, not a hero; Gavius’s fate after the beach left open.
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added.

@@ -1,6 +1,6 @@
 # Chapter 28: Mutina Field
 
-**Scenes:** SC-80, SC-81 · Apr 43 · A11 · AMB-2
+**Scenes:** SC-80, SC-81, SC-81b · Apr 43 · A11 · AMB-2
 
 ---
 
@@ -76,6 +76,66 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 
 ---
 
+# SC-81b: Three Verbs
+
+POV: Cicero · his house on the Palatine
+Date / place: Last days of April 43 · dinner
+Canon refs: T12 · Cic. *Ad Brut.* 1.3.2 · *Fam.* 11.20–21
+Info ENTER: Mutina relieved; both consuls dead; the Senate’s honours for Decimus · EXIT: The saying out of the room
+Overhear risk: One guest
+
+---
+
+A week earlier the crowd had carried him up the Capitol.
+
+Cicero kept coming back to it the way the tongue goes back to a sore tooth, except that this did not hurt. The news from Forum Gallorum had reached Rome wrong first, as news did. For a day the city believed Antony had won, and Cicero’s enemies had begun saying in the Forum that he meant to take the fasces for himself and should be stopped before he did. Then a second courier came in, and the truth with him, and by the afternoon a crowd Cicero had not summoned and could not have counted was at his door. They took him up the hill to Jupiter, and down again to the Rostra, and set him there, and shouted his name until he had to raise his hand to stop them. He had written it to Brutus that night and been careful to sound modest about it. He had not felt modest. He had felt, for the first time since the Ides, like a man whose sentences moved bodies.
+
+Then Mutina, and the siege broken, and the price of it: Hirtius dead in the ditch, Pansa of his wound a day after. Two consuls gone in a week. The Senate had sat with their chairs empty and voted what it could. A triumph for Decimus, who had held the wall. The dead consuls’ legions to Decimus, to finish Antony. Thanksgivings. Statues. And for the boy, whose veterans had stood in the mud beside the consuls, an ovation and a vote of thanks, and a quiet agreement among the older benches that he had served his turn.
+
+Cicero had argued for more. Not much more. Enough that the boy would not feel the slight.
+
+“He’ll feel it anyway,” said Tiro, clearing tablets at the door of the dining room. Tiro said such things at doors, where they could be taken as housekeeping.
+
+There were six at dinner. Two young senators who had found their courage since the news came; a cousin of Atticus; a magistrate’s brother whose name Cicero kept losing; and Segulius Labeo, who was nobody in particular and went everywhere, and who collected sayings the way other men collected cameos, to take out and show at other tables.
+
+The fish was good. The wine was better. Somewhere past the second jug one of the young senators, flushed and pleased with himself, asked what was to be done with young Caesar now.
+
+“Now that he’s won,” the young man said. “Now that we’ve won. He has legions. He has that name. He has no consul above him any more. What do we do with him?”
+
+Everyone looked at Cicero. Cicero had been waiting for the question all evening without knowing it.
+
+He knew a dozen true answers. That the boy was nineteen and grieving and owed money he could not pay. That the veterans loved the name more than the man and would leave him the day the name stopped feeding them. That he was clever, much cleverer than the older benches thought, and had written to Cicero every week since the autumn in a tone of respectful sonship that Cicero did not entirely believe and did not entirely disbelieve. That nobody knew what to do with him, least of all Cicero, who had brought him into the Senate as a sword and now had to decide where to hang it.
+
+None of those was an answer for the second jug.
+
+“*Laudandum adulescentem,*” Cicero said. “*Ornandum. Tollendum.*”
+
+Praise the young man. Honour him. Raise him up.
+
+And the last word turned over in the air, as he had meant it to, and showed its other face. *Tollere.* To lift. To lift away. To remove.
+
+There was half a breath of silence, which was the sound of the table hearing the second meaning. Then the laugh came, and it was a good one, the kind of laugh Cicero had been buying with sentences for forty years. The young senator slapped the couch. Atticus’s cousin wiped his eyes. The magistrate’s brother said it again, *tollendum*, to taste it.
+
+Labeo laughed last. He laughed with his mouth while his eyes did something else, a small movement like a man putting a coin in his purse. Cicero saw it and was flattered by it. A saying worth keeping. He had made it. It would go round the city by the end of the week, and men who had never heard him plead would know he was still the quickest tongue in Rome.
+
+At the door Tiro had stopped clearing.
+
+Later, when the guests had gone and the lamps were guttering, Tiro said, “Labeo dines with everyone.”
+
+“That is why one says things in front of him.”
+
+“He dines with the boy’s friends too.”
+
+Cicero waved a hand. He was tired and warm and a week ago a crowd had carried him up the Capitol. “It was a joke, Tiro. A pun. The boy has had a Greek education. He knows what a pun is.”
+
+“He knows what *tollendum* means,” said Tiro.
+
+Cicero thought about rebuking him and found he could not be bothered. He went to bed. He slept well. He did not dream of anything at all, and in the morning he could remember only that the dinner had gone off well and that he had been, for one moment, very good.
+
+---
+
 ## Continuity
 - **Knows / learns:** Mutina is costly. Laberius took the boy’s 500 at Capua; his twine has still not moved. Forum Gallorum, named by Vibius as the village a week back where Pansa was carried off with a side wound (the litter seen, not inside it). Hirtius’s death is a fact Laberius can know; Pansa’s cause stays open (AMB-2). Between assaults, the tent group’s Capua and dirt talk (D13). In Rome, Hordeonius sells silence; poison talk.
+- **SC-81b (Cicero, last days of April 43):** a week after the crowd carried him to the Capitol and the Rostra on the true Forum Gallorum news (after a false day when enemies said he wanted the fasces; *Ad Brut.* 1.3.2). The Senate’s honours: triumph and the dead consuls’ legions to Decimus; the boy an ovation and thanks. Dinner of six (two young senators, Atticus’s cousin, a magistrate’s brother, Segulius Labeo). Asked what to do with young Caesar, Cicero says *laudandum adulescentem, ornandum, tollendum* (cf. *Fam.* 11.20). Labeo laughs last. Tiro: “He knows what *tollendum* means.” Cicero sleeps well.
+- **Plants → pays (T12):** Labeo carries it to Octavian and to Decimus (Ch 29); the word under Octavian’s count at Bononia (Ch 30).
 - **Must not:** no invented battle order; Laberius’s and Hordeonius’s “later” is guesswork in the present. Not re-glossed: the Martians, Hirtius, Pansa, Antony’s hundred.
