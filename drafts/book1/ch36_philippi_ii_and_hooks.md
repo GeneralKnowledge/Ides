@@ -58,7 +58,7 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said, Italian soil, promises already louder than the plain’s dust.
 
-“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still. That was the next war’s seed.
+“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still.
 
 ---
 
@@ -96,8 +96,6 @@ Gaius had been killed in the spring, quickly, without insult, as the order said,
 
 Nobody asked whether he meant the coast, which was a long way off, or whether he would be content with something nearer and quicker and a stone that would do. Antony did not tell them. Hortensius looked at him a moment longer, with his father’s eyes, and then the soldiers took him out, and Antony drank, and the officers began, carefully, to talk about the East.
 
-A tribune mentioned Italian land assignments, farms, promises. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
-
 At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
 
 ---
@@ -120,7 +118,7 @@ He turned back a leaf for a clean line, and his thumb found his own hand instead
 
 Last winter a woman of Fulvia’s, the one who counted the mistress’s silver, had stopped at the stall with a basket on her arm, asked very politely what his rate was on a month, and gone away without borrowing. Sosia had laughed. Hordeonius had not. Antony did not keep ledgers.
 
-He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
+He left the tablet open on the counter.
 
 ---
 
@@ -279,7 +277,7 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 ## Continuity
 - **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook. Statilius goes down through the pickets to the camp, raises the torch, and does not come back: “If Statilius is alive, he will come” (Plut. *Brut.* 51; pays Ch 23 SC-66).
 - **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
-- **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The officer’s Italy line, which Antony hears and laughs off; the open wax.
+- **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The open wax; the list of promised acres unread under his cup (the tribune’s Italy line cut 2026-10-24 final validation: one land beat per POV before SC-95b).
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0).
 - **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He rubs the tablet blank and hands it to her. An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time; “They’ll want to know who carries.” Fulvia’s woman: “Blank?” “Blank.” “Good.” Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
 - **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
