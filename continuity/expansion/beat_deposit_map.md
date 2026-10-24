@@ -1,6 +1,8 @@
 # Beat Deposit Map — Book 1
 
-**Rule:** Deposit only what is listed (or a strict subset). One dramatic centre per new/expanded beat.  
+**Status:** History of the Review 2.0 deposit waves (D1–D24). It no longer gates new work: new story goes through `writing/HUMAN_VOICE_RULES.md` §1a and `subplot_tracks.md`. The PROTECT definition below still applies.
+
+**Rule (Review 2.0, historical):** Deposit only what is listed (or a strict subset). One dramatic centre per new/expanded beat.  
 **CHAPTER_MAP** updates only after a beat is marked **LANDED**.  
 **Review 2.0:** Disposition classes guide *revision*, not automatic new prose.  
 **Lock tiers:** [`../lock_architecture_audit.md`](../lock_architecture_audit.md).

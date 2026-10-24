@@ -8,11 +8,10 @@ Date / place: <from card>
 Canon refs: <anchors, mysteries, FS>
 Info ENTER: <from card>
 Info EXIT: <from card — must land here>
-Overhear risk: <Low/Med/High/Extreme>
 
 ---
 
-<prose first pass>
+<prose>
 
 ---
 
@@ -30,6 +29,5 @@ Facts only. Pass history (what a revision pass cut or kept) goes in `archive/pas
 
 - [ ] Does this move an Anchor? If yes, STOP.  
 - [ ] Does POV know something they shouldn’t yet? If yes, CUT.  
-- [ ] Is there a rumour that could be wrong? Prefer yes.  
 - [ ] Did status/hierarchy shape speech and space?  
 - [ ] Did I explain a mystery that should stay open? If yes, UN-explain.

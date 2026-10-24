@@ -1,6 +1,6 @@
-# MUST EXPRESS — Ideas Checklist for the First-Pass Draft
+# MUST EXPRESS — Ideas Checklist
 
-Every item below must appear **in story behaviour**, not as essay narration. Editors will tick these after the LLM pass.
+Every item below appears **in story behaviour**, not as essay narration. All items are ticked in the landed book; use the list to check that a revision has not lost one.
 
 **Authority:** Audit aid for behavioural coverage — **not** a forced inventory that forbids alternate scene delivery of the same requirement. Chapter citations below are evidence of landing, not permanent SC/chapter locks. See [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md).
 

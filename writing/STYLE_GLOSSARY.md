@@ -1,4 +1,4 @@
-# Style Glossary — First-Pass Guardrails
+# Style Glossary — Book 1
 
 **Also read:** [`HUMAN_VOICE_RULES.md`](HUMAN_VOICE_RULES.md) for anti-synthetic cadence, shared ledger dialect, and stop/revert caps after the 2026-10 human-voice work.
 
@@ -97,7 +97,7 @@ Swap the concept, not just the word. Bankers stay bankers: futures → sold forw
 
 ---
 
-## VOICE-1 (locked for first pass)
+## VOICE-1
 
 - Close third limited  
 - Past tense  

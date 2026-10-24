@@ -116,7 +116,7 @@ Working order (not “history proven”):
 | ID | Decision | Tier |
 |----|----------|------|
 | **SAMPLE-1** | Voice gold = `writing/voice/SAMPLE_SC35_nysa.md` (tone anchor, not immutable plot beyond canon) | Preference |
-| **LEN-1** | Soft target 90–130k for Book 1; chapter map is the unit — **not** a completion gate | Preference / scale |
+| **LEN-1** | Record, not target (revised 2026-10-24): Book 1 is about 88k reading words after the Ides trim. No floor and no ceiling; length follows story. The old 90–130k band is retired | Record |
 | **MAP-1** | `research/maps/rome_ides_schematic.svg` + Domus plan are binding *relative* geography | Continuity |
 | **F5-OPT** | Amyntas optional for SC-87 only | Preference |
 | **FUNERAL-1** | Soft: public funeral + Antony speech **20 Mar 44** | Continuity (soft date) |

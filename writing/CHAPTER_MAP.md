@@ -1,10 +1,10 @@
-# Chapter Map — Draftable Units for LLM Pass
+# Chapter Map — Book 1
 
-Maps scene cards → suggested chapter groupings. Titles are working labels only.
+Maps chapters to the scene cards they were drafted from (cards archived in `archive/planning/story/scene_cards/`). Titles are working labels only.
 
 **Authority:** This map is a **structural preference** (preferred units for drafting and Continuity indexing), not a historical invariant. The same narrative requirement may be delivered by a different chapter/SC bundling if dramatic merit, anchors, and Continuity notes hold. See [`continuity/lock_architecture_audit.md`](../continuity/lock_architecture_audit.md) and `continuity/canon.md` lock tiers.
 
-**Drafting instruction:** One chapter ≈ 1–3 scene cards. Generate **one chapter at a time**.
+**Working unit:** one chapter (or stitch) at a time.
 
 ---
 

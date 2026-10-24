@@ -1,6 +1,6 @@
 # TONE-1 — Spartacus Bite + GRRM Weight (Soft Lock)
 
-**Status:** Soft lock for first-pass dialogue/character energy. Does **not** override VOICE-1, anchors, or Roman texture.  
+**Status:** Soft lock for dialogue and character energy. Does **not** override VOICE-1, anchors, or Roman texture.  
 **Steal craft, not costumes:** no dragons, no “m’lord,” no arena soap replacing Senate politics.
 
 ---

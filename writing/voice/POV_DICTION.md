@@ -1,7 +1,7 @@
 # Per-POV Diction Cheatsheets
 
-Use when drafting or auditing voice. “Never says” = first-pass ban, not absolute historical linguistics.  
-**Tone lens:** `TONE_SPARTACUS_GRRM.md` (GOT blends + Batiatus rule). Humour notes below are first-pass targets.
+Use when revising or auditing voice. “Never” = a default to break only with a reason, not absolute historical linguistics.  
+**Tone lens:** `TONE_SPARTACUS_GRRM.md` (GOT blends + Batiatus rule). Humour notes below are defaults.
 
 ---
 
