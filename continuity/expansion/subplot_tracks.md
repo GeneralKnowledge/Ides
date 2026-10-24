@@ -19,10 +19,11 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Plant | 11–12, 14 | Omens; fragment; dressing-room pauses; Phileros near-miss |
 | Direction change | 16–19 | Murder rumour in service corridors; house no longer mistress’s weather |
 | Travel | 23 | Emptying under kind stewards; flask want fails (D8) |
-| Payoff | 30 | Lists chalk-wall; fear moved house |
+| Payoff | 30, 34 | Lists chalk-wall; fear moved house; Ch 34 SC-95a: the true number given too late, the tablet rubbed blank, Nysa goes to her patron’s house under her own name |
 
 **Intersects:** A (warnings fail as method); B (paper/seals as weapons)  
 **End state:** Paid — blank wax / ash continuity; Nysa does not solve Ides.  
+**Landed 2026-10-24 (Phase 3):** Ch 34 SC-95a “The True Number”.  
 **Must not:** Phileros as NOTE-1 sole author; thicken fringe into knife core.  
 **Integration note:** D21/D22 fringe OK; protect peaks.
 
@@ -73,10 +74,11 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 3 | Capua prayer; colony-with-face |
 | Direction change | 13, 19, 24 | Brazier powder; funeral Capua named + changed-cost (D4); veterans listen |
-| Payoff | 28, 30, 34 | Mud Capua echo (D13 light); lists soil; Italy underestimation |
+| Payoff | 28, 30, 34 | Mud Capua echo (D13 light); lists soil; Italy underestimation; Ch 34 SC-95b: the twine surveyed over a farmer’s beans, Laberius steps over it |
 
 **Intersects:** B (who pays after Caesar); public rage after funeral  
 **End state:** Paid — Italy unpaid dirt is Book 1’s last seed, not Actium.  
+**Landed 2026-10-24 (Phase 3):** Ch 34 SC-95b “Twine”, the book’s last scene; Ch 4 clerk named as Sextilius (Ch 1 stitch).  
 **Must not:** Generic “land” without Capua cost after Ch 19.  
 **Integration note:** D13 useful/light — no further Capua densify unless want/cost missing.
 

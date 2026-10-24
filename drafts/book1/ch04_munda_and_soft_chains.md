@@ -70,9 +70,9 @@ An optio spat. “Someone’s always left for the sea.”
 
 Laberius was already thinking of pay and whether the colony rumours were lies. “Let clerks name the fish. I want the donative dated before my boots dry.”
 
-He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. A clerk arrived late with Rome’s easy-win story dressed as fact: mopping finished; Spain settled. The clerk had clean sandals.
+He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. A staff man arrived late with Rome’s easy-win story dressed as fact: mopping finished; Spain settled. Somebody said his name was Sextilius and that he had come out with Caesar’s people from Rome. He had clean sandals.
 
-“Rome is already building the triumph,” the clerk said, brightly. “They’ll call it a Spanish triumph, naturally. One cannot triumph over Romans.”
+“Rome is already building the triumph,” Sextilius said, brightly. “They’ll call it a Spanish triumph, naturally. One cannot triumph over Romans.”
 
 “Naturally,” said Vibius. “And what do they call us, when we’ve killed thousands of them?”
 
@@ -80,7 +80,7 @@ He stacked shields until his forearms hummed. A boy from another century vomited
 
 Laberius put on the grateful face. He took the water. He nodded like a man in a painting. “Grateful for the clarity,” he said.
 
-When the clerk’s clean sandals had gone, Laberius spat pink and found Vibius and Gaius still within grumbling range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
+When Sextilius’s clean sandals had gone, Laberius spat pink and found Vibius and Gaius still within grumbling range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
 
 Vibius’s mouth twitched. “You’ll get a statue that owes you pay.”
 
