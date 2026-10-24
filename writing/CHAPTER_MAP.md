@@ -75,9 +75,9 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 29 | SC-82, SC-83 | DEC, OCT | Isolation; Cularo; the march on Rome and the consulship |
 | 30 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
 | 31 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
-| 32 | SC-87, SC-88 | CAS, BRU | Extraction; liberty brand crack |
+| 32 | SC-87, SC-88, SC-88b | CAS, BRU | Extraction; liberty brand crack; Gaius Antonius’s death ordered (T8) |
 | 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |
-| 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; lean SERIES-1 hooks |
+| 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); lean SERIES-1 hooks |
 
 ---
 
