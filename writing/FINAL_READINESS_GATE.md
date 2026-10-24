@@ -60,7 +60,7 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 
 | Gate | State | Evidence |
 |------|-------|----------|
-| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `35e2e8c`, digest `5dd1a39f4ac152a0` (2026-10-23, after PR #157: prologue, T9, tightening pass) |
+| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `ffdd9d7`, digest `ba985021c92337a0` (2026-10-24, cleanup C: notes only; reading text identical to `35e2e8c`, 1975 paragraphs) |
 | 2. Mechanical copyedit | Re-opened for new material | Prose written after 2026-10-22 (prologue, T9 scenes, Ch 1/3/30 reworks) has not had the mechanical pass; schedule a top-up after the development phase. Earlier pass: one full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two open author questions in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
 | 3. Independent reader | Not started | |
 

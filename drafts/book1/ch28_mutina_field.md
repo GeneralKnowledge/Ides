@@ -1,8 +1,6 @@
 # Chapter 28: Mutina Field
 
-**Phase 1D.1** · SC-80, SC-81 · Apr 43 · A11 · AMB-2
-**Human-voice:** Ch 28 feel-pass (rules); Capua mud / Hirtius-fact / Pansa-open held.
-**Reader-earn:** Ch 28 expanded; Laberius in the boy’s ranks for the boy’s coin; Pansa’s Forum Gallorum wound seen as a litter, cause still open.
+**Scenes:** SC-80, SC-81 · Apr 43 · A11 · AMB-2
 
 ---
 
@@ -79,13 +77,5 @@ A second client asked whether to short land near Mutina. Hordeonius took a fee f
 ---
 
 ## Continuity
-- Mutina costly; Hirtius death as Laberius-knowable fact; Pansa cause open (AMB-2). No fake OB.
-- MUST_EXPRESS: B4, A6, D4. Next: Ch 29.
-**Phase 1D.1:** SC-80 fact vs rumour split; plains future-lean cut; SC-81 AMB-2 held.
-**1F / E3:** re-check, no narrator history-wink residue; Laberius/Hordeonius “later” = present speculation only.
-**1G:** “great success” softened to present ditch irony.
-- **Anti-formula:** F4 silence-for-sale kept without census / face-held / snort-warehouse kit; mud ordeal not reopened for gags; Hirtius-fact / Pansa-open callback across cameras.
-- **Expansion D13:** Contubernium Capua/dirt talk between assaults (humour OFF in mud peak).
-- **Human-voice:** broke ditch cadence; cut craft “humour OFF” caption and fringe dirt-ledger clone; flattened boot paren; held Capua in Laberius/Vibius mouths; Hirtius-fact / Pansa-open held.
-- **Reader-earn (Ch 28 expanded):** why Laberius stands on this side: took the boy’s 500 at Capua (pays Ch 24 scar-veteran “when the shadow learns to feed us” and Ch 27 motion; Antony’s hundred not re-glossed); twine still unmoved. Forum Gallorum named in Vibius’s mouth as the village a week back where Pansa was carried off with a side wound (litter seen, inside not), so AMB-2 stays open. Martians / Hirtius / Pansa not re-CV’d.
-- **Human-voice (Ch 28):** one feel-pass; standard/friend / pay-drum / Hirtius until / eagle gap / gallopers / camp letter breaths; hold Capua boots, Hirtius shoulder-fact, Pansa open, F4 silence-for-sale.
+- **Knows / learns:** Mutina is costly. Laberius took the boy’s 500 at Capua; his twine has still not moved. Forum Gallorum, named by Vibius as the village a week back where Pansa was carried off with a side wound (the litter seen, not inside it). Hirtius’s death is a fact Laberius can know; Pansa’s cause stays open (AMB-2). Between assaults, the tent group’s Capua and dirt talk (D13). In Rome, Hordeonius sells silence; poison talk.
+- **Must not:** no invented battle order; Laberius’s and Hordeonius’s “later” is guesswork in the present. Not re-glossed: the Martians, Hirtius, Pansa, Antony’s hundred.

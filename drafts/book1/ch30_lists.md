@@ -1,8 +1,6 @@
 # Chapter 30: Lists
 
-**Phase 1F** · SC-84, SC-85 · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
-**Human-voice:** Ch 30 feel-pass (rules); Cicero assent / seal-ring / F-triptych held.
-**Reader-earn:** Ch 30 expanded; Bononia island (Lepidus crosses first, pat-down); triumvir office named once at the table; proscription taught in Antony’s mouth (names, heads for silver, slave freed, house to auction pays legions) before the lists run.
+**Scenes:** SC-84, SC-85 · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
 
 ---
 
@@ -109,17 +107,8 @@ Phileros drank less now; fear sobered some men and ruined others. He came to the
 ---
 
 ## Continuity
-- Lex Titia; proscriptions; Cicero naming contested (C), Antony shapes; OCT assents aloud + seal-ring token; refuses quieter swap.
-- **1F / I2:** Bononia moral pause + Lepidus nudge; chalk-wall street beat so Formiae feels bought.
-- **Golden-read P1:** Antony feels Ops joke die across the table; will not look while pouring, misread without essay.
-- **Act5 ordeal:** visible irreversible at table (assent + token) so Ch 31 death feels purchased by choice; F-triptych held.
-- MUST_EXPRESS: F11 prep, C9, F2. Next: Ch 31.
-**1G:** historiographic “traditions would disagree” removed.
-- Bononia; F2/F4/F1 triptych; Seius relief/shame by behaviour; Cinna-wrong laugh echo (bitter); lists pay Ch 23 flinch / Ch 32 courier; SIDE-1 archaeology held.
-- **Tissue:** Seia Prima “harvest carefully” bite, cast-wide play, not only Agrippa–OCT.
-- **Expansion D15:** Lists spectacle, Gavius + neighbour woman collide with Seius on a near-cognomen (household/street collision on a name).
-- **Human-voice:** flattened Bononia/triptych parens; cut stacked *as if* (hands/history, kinship, locks-theology); broke list-growth cadence; ring-click + Formiae purchase sound held.
-- **Reader-earn (Ch 30 expanded):** gap map §5 paid. Island below Bononia with Lepidus crossing first and mutual pat-down (App. *BC* 4.2 trad.); Lepidus’s chair = legions that waded to Antony (pays Ch 29); triumvir office named once in Lepidus’s mouth (tribune’s law, three men for setting the state in order, five years, consul’s power, no veto = Lex Titia) with Antony’s mint-and-jail jab and Octavian’s “minds both”; proscription teach-beat in Antony’s answer to Lepidus’s Sulla precedent (head-money from treasury, slave freed, confiscation auction pays legions; App. *BC* 4.11 trad.) before “lists” becomes weather. F-triptych not re-glossed; Festus slave-informer and Seius board now land on the taught terms.
-- **Human-voice (Ch 30):** one feel-pass; rain cousins / lesser name / spent aloud / street flinch / Seia smile / sleep interest / Cinna laugh / chalk coin breaths; hold Cicero assent, seal-ring click, Ops joke die, F-triptych.
-- **Rules audit (Ch 30):** SC-84 locked to Octavian POV (Antony’s joke-die and pour now seen; Formiae previews and narrator verdict cut per VOICE-1); Sosia is *he* (Ch 2–28); scene date lines added.
-- **T9/T11 continuity (2026-10-23):** Nysa serves in Antony’s house from Ch 23; F1 date line and Phileros beat moved to the Carinae kitchen door. Fuller Fulvia-house lists material waits for T11.
+- **SC-84 (Octavian POV):** the island below Bononia; Lepidus crosses first; they search each other (App. *BC* 4.2). Lepidus’s chair is the legions that waded to Antony. The triumvirate named once, by Lepidus: a tribune’s law, three men to set the state in order, five years, a consul’s power, no veto (Lex Titia); Antony jabs about mint and jail; Octavian “minds both”. Lepidus’s secretary reads the edict draft: 25,000 denarii a head; a slave 10,000 with freedom and his master’s citizenship; informers the same; goods auctioned; hiders proscribed (App. *BC* 4.11). Lepidus: “Sulla paid half as much.” Antony: “Sulla had fewer legions to pay.” Cicero’s name is contested and Antony shapes it; Octavian assents aloud and gives the seal-ring token; he refuses a quieter swap. Octavian sees Antony’s Ops joke die and sees him not look while he pours. Lepidus nudges.
+- **SC-85 (Dec 43):** Seius (relief and shame; a near-cognomen collision with Gavius and a neighbour woman, D15; the list he reads shows only the hiding clause; Seia Prima’s “harvest carefully”); Hordeonius (chalk on the wall; the Cinna laugh, bitter); Nysa at the Carinae kitchen door, lists seen from Fulvia’s house.
+- **Plants → pays:** Ch 31 death bought by the assent; Ch 23 flinch; Ch 32 courier; the hiding clause (T11, Gavius). SIDE-1 kept as archaeology.
+- **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
+- **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23; the fuller Fulvia-house lists material waits for T11.

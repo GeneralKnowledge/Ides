@@ -1,8 +1,6 @@
 # Chapter 8: Recruitment
 
-**Phase 1D.4** · SC-20, SC-21 · post-Lupercalia · FT3 · A4
-**S-A0:** group persuade Brutus; exit-complaint; audible humour
-**Human-voice:** Ch 8 expanded; East clock + Galba winter live + Casca Servilius door; Servilia/Pharsalus plaques trimmed.
+**Scenes:** SC-20, SC-21 · post-Lupercalia · FT3 · A4
 
 ---
 
@@ -133,13 +131,6 @@ He slept little. When he did, the Forum would not stop cheering, and a crown kep
 ---
 
 ## Continuity
-- Recruitment personal (Cassius); Galba priced; no off-POV exit coda (Galba/Ligarius and Cassius/Casca lane talk cut, review 2).
-- **S-A0 / S12:** Brutus group persuasion (Cassius + Casca + Servilia); spoken resistance; costly inch = will hear / no massacre / no Antony pile, not clean yes.
-- Servilia social-season pressure, not ops detail (FT13 held); mother relation by behaviour (“my son”), no Ch 4 re-CV.
-- Galba first approach; Ligarius queued + Africa-expect-worst tissue; compartments held.
-- Casca Servilius name opens door; East-weeks clock uses Ch 5/6 without Parthia re-gloss.
-- MUST_EXPRESS: C3 recruitment engine; B2 plural motives begun.
-- Next: Ch 9 Decimus + spare Antony.
-- **Law-sweep:** Group room ≥3 (Cassius/Casca/Servilia/Brutus); Casca humour (mule tribune); costly inch not clean yes; Galba winter / Casca doors plants.
-- **Golden-read P1:** “Debt” thins against ordinary-table closeness / shoulder-touch, friend-door knife weight.
-- **Human-voice (Ch 8 expanded):** densified Mandate / Room; cut Pharsalus Greece gloss; cut Servilia mother/love plaque; hold costly inch, seal tear, shoulder-touch; no modern weekdays.
+- **Knows / learns:** Cassius recruits in person and Galba names his price. Brutus is worked on by Cassius, Casca and Servilia together; what he gives is a costly inch (he will hear it; no massacre; Antony not to be killed), not a clean yes. Servilia presses as a mother in the social season, not in operational detail. Galba is approached first; Ligarius is queued. Casca opens doors through the Servilius name.
+- **Plants → pays:** Galba’s winter terms (Ch 17 absence); Casca’s doors.
+- **Must not:** no Ch 4 re-introduction of Servilia; no coda outside the POV; compartments held (FT13).

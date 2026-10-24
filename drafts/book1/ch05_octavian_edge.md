@@ -1,7 +1,6 @@
 # Chapter 5: Edge of the Ceremony
 
-**S-A2 dwell** · SC-10 → SC-11 continuous · 45–early 44 · FS01–03 · G1
-**Human-voice:** Ch 5 expanded; kin/Agrippa/Apollonia/Parthia earned; double-thanks trimmed; adoption-paper plant deferred.
+**Scenes:** SC-10 → SC-11 continuous · 45–early 44 · FS01–03 · G1
 
 ---
 
@@ -125,14 +124,6 @@ Before sleep they shared a heel of bread Agrippa had bullied from a cook who res
 ---
 
 ## Continuity
-- OCT peripheral; no destiny voiceover; Agrippa planted (FS03); Apollonia distance; Parthia clock (Crassus eagles / months east).
-- Softened future-wink vs earlier draft. MUST_EXPRESS: C5.
-- **S-A0 / S18–S19:** nickname “hopeful shadow” planted + hated; Agrippa tease → ban; dry playfulness. Pay in Ch 22+.
-- **S-A2 / S5 / G1:** Single Octavian POV; Forum→Apollonia bridged as continuous unfinished inventory (no mosaic cut). Attendant gap retained.
-- **Name path:** Gaius Octavius + great-nephew planted; adoption/name-as-paper deferred (before Ch 18 will).
-- Next: Ch 6 perpetuo.
-**Final integrated / E4:** SC-10: attendant aims reserved place at Agrippa; Octavian takes the resisted gap; inventory gains social friction, not only faces.
-- **Law-sweep:** Sole Octavian dwell (G1); officers ≥3 on Parthia talk; hopeful-shadow plant + ban; Agrippa tease as relationship-by-behaviour; audible almost-laugh turned cough; coast bridge held.
-- **Expansion D18:** Apollonia ordinary, shared bread + soft-name ban lived as friendship behaviour (not caption).
-- **Golden-read P2:** Open on temple steps / Forum heat before invisibility thesis.
-- **Human-voice (Ch 5 expanded):** densified Nobody Watches / Apollonia; kin/Agrippa/Apollodorus/Parthia earned; cut second “Thanks announced need.”
+- **Knows / learns:** Octavian is Gaius Octavius, Caesar’s great-nephew, on the edge of things. Parthia is a clock (Crassus’s eagles, months east). At the ceremony his attendant aims for the reserved place by Agrippa; Octavian takes the gap no one wanted. Apollonia: ordinary days, shared bread.
+- **Plants → pays:** the nickname “hopeful shadow”, which he hates and bans (Ch 20, 22); Agrippa (FS03); adoption and the name as paper (Ch 18 will).
+- **Must not:** no destiny voice; no future winks.

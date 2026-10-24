@@ -1,7 +1,6 @@
 # Chapter 19: Funeral and Cinna
 
-**M5 polish** · SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
-**Human-voice:** Ch 19 expanded; Wrong Cinna poet≠praetor earned; cloth wrestle / Capua / NOTE-1 burn held.
+**Scenes:** SC-50, SC-51 · FUNERAL-1 (20 Mar soft) · A7 · M14 · M15 · HUMOR-1 near-off
 
 ---
 
@@ -113,15 +112,9 @@ When the crowd surged, she surged rather than be crushed. Her incomplete wax sta
 ---
 
 ## Continuity notes (SC-50)
-- Funeral = FUNERAL-1 soft 20 Mar; riot; Liberators’ Rome broken.
-- Antony calculated-but-not-omniscient; officer grain pushback (caption→friction).
-- Triple lens: ANT / F3 / F1; Laberius refuses torch (commitment).
-- Funeral custom densify (Rostra / eulogy); imagines shorthand only (Ch 16 paid actors); Campus cremation custom vs Forum fire; fuller densify; Capua liberty joke.
-- // M5: Antony speech held as refrain (lightly compressed); not blank verse.
-- **Gold-edge:** Soft “aimed it / controlled permission” captions cut; market-day echo at close.
-- **Gold dwell:** Cloth wrestle; two-officer friction (grain vs teach); heat outrunning plan.
-- **Golden-read P0:** Pyre→buildings handoff stitched, brand/bench leaves Forum fire for Liberator doors (Antony + Laberius); not a longer funeral.
-- **Expansion D4:** Fuller / household water / veteran collide; scar-lip changed-cost reply (Capua as dirt that walks), not gag.
+- **Knows / learns:** the funeral (FUNERAL-1, soft date 20 March); Antony calculating but not all-seeing; an officer pushes back on grain. Rostra and eulogy; the masks are actors (Ch 16); cremation belongs on the Campus, but the fire is in the Forum. Laberius refuses a torch. A fuller, a woman carrying water and a veteran: Capua is “dirt that walks” (D4). The fire leaves the pyre for the Liberators’ doors.
+- **Plants → pays:** Capua unpaid (Ch 3, 13) changes cost: the paymaster is dead; the market-day echo at the close.
+- **Must not:** Antony’s speech is a refrain, not blank verse; no Shakespeare.
 
 ---
 
@@ -179,14 +172,6 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 ---
 
 ## Continuity notes (SC-51)
-- **Wrong Cinna paid:** Helvius poet ≠ Cornelius praetor (brother-in-law), stated plain in street; ≥3 mob reads open; Nysa burns own fragment only.
-- **IR-1:** This is the true burn of the Ch 12/14 fragment; Ch 15 “I burned it” was a lie to Calpurnia (survival), not a second copy.
+- **Knows / learns:** the wrong Cinna: Helvius the poet, not Cornelius the praetor (Caesar’s brother-in-law), said plain in the street. Nysa burns her own fragment here: the real burning of the Ch 12/14 fragment. Ch 15 “I burned it” was a lie, not a second copy.
 
 ---
-
-# Chapter 19: End matter
-
-**Edit pass 1:** cut meta “Shakespeare” line. Mysteries held (M14/M15).
-**M5 polish:** funeral speech compressed; TODO_EDITOR cleared.
-- Funeral/Cinna, humour OFF; F3 **Capua** unpaid pays Ch 3/13 as changed cost (paymaster dead → dirt becomes torch-fuel for others); will/gardens/300 callbacks; wrong-Cinna terror held.
-- **Human-voice (Ch 19 expanded):** Wrong Cinna poet≠praetor earned in Nysa/street mouths; densify Rostra funeral, decrees-as-accusation, efficient-funeral banter, Campus custom vs Forum fire, fuller, Capua/liberty joke; imagines actors not re-taught (Ch 16); hold cloth wrestle, Capua refusal, pyre→doors, NOTE-1 true burn; no modern weekdays.

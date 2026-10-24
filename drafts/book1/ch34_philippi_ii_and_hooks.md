@@ -1,7 +1,6 @@
 # Chapter 34: Philippi II and Hooks
 
-**Phase 1D.2 / Act5 ordeal** · SC-92–95 · Oct 42 · SERIES-1 end · A14
-**Human-voice:** Ch 34 feel-pass (rules); light Philippi close: cleaner-hill refuse / open wax / land seed held.
+**Scenes:** SC-92–95 · Oct 42 · SERIES-1 end · A14
 
 ---
 
@@ -102,13 +101,8 @@ He left the tablet open on the counter. Soldiers would want farms, and every far
 ---
 
 ## Continuity
-- SERIES-1 satisfied; sequel hooks only; no Actium plotting; OCT ill/not genius; Brutus death experiential body ordeal.
-- SC-94 folded into SC-92 OCT breath (land seed); **SC-95 restored as a short Hordeonius coda** (rules audit: the Rome / Visellius close could not sit in Antony’s POV); SC-93 keeps the open wax in Antony’s tent and the officer’s Italy line as something Antony hears and laughs off.
-- MUST_EXPRESS: A8/FS10/11 hooks; F12 already closed.
-**Act5 ordeal:** SC-92 Brutus refuses cleaner hill in the morning, retreats to the hills at dusk, dies by his own sword with Strato holding it (Plut. *Brut.* 51–52; Volumnius refuses); grief weight in body; OCT vacuum/land in same camera breath.
-**1G:** anti-Actium wink cut; hooks held.
-**Final integrated / E6:** ending lands on open wax / unpaid Italian acres rather than stacked sequel thesis.
-- Ordeal/grief, humour OFF on Brutus end; Capua/Mutina dirt echo in officer bite; SIDE-1b OPEN-0 ash; OCT breath folded (G1).
-- **Human-voice:** flattened Brutus/OCT parens; thinned fringe *Mark me* / nested Italy-complains paren; softened philosophy *as if* and “dress the geometry”; Italy dirt hooks + open wax held; Philippi not expanded.
-- **Human-voice (Ch 34):** one light Philippi close feel-pass; Cassius versions / water cough / cleaner hill / refuse cost / OCT survive / named want / open wax breaths; hold cleaner-hill refuse, OCT ill, land seed, SIDE-1b ash. Book 1 Ch 1–34 feel-passes complete.
-- **Reader-earn (Ch 34):** second day placed twenty days on (Cassius’s body sent to Thasos by night; Brutus’s starve-them plan, sea vs plain; desertions + officers’ Cassius-voiced taunt force the battle); OCT’s camp overrun in the first fight, litter stabbed, doctor’s dream carried him into the marsh (credit contested, not genius); Antony divides in his own mouth: East to him, Italy + veterans to the boy, Lepidus Africa if not writing to Sextus (land hook now lands on OCT; Sextus hook). No Actium; open wax / ash tablet held.
+- **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook.
+- **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The officer’s Italy line, which Antony hears and laughs off; the open wax.
+- **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0).
+- **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
+- **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.

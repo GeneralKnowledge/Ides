@@ -150,9 +150,9 @@ Info enter → exit: …
 
 [prose]
 
-## Continuity notes (bullets)
-- What new Private/Faction knowledge exists now
-- Open mysteries touched
+## Continuity notes (bullets, facts only)
+- Knows / learns: new Private/Faction knowledge; open mysteries touched
+- Plants → pays (chapter numbers); Must not; dated Decisions
 ```
 
 ---

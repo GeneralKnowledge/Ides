@@ -1,7 +1,6 @@
 # Chapter 21: Letters and Lanuvium
 
-**Phase 1D.5** · SC-60, SC-61 · Apr–May 44 · *Att.* 14–15 energy
-**Human-voice:** Ch 21 expanded; earns carried in dialogue/objects (coast road, bronze acts, boy landed, Lanuvium road, praetor letter); trough held.
+**Scenes:** SC-60, SC-61 · Apr–May 44 · *Att.* 14–15 energy
 
 ---
 
@@ -130,14 +129,5 @@ Through the gate: hills, and beyond them a name war beginning without him, while
 ---
 
 ## Continuity
-- Liberators bottled in Latium; Cicero sees force-gap via letter-objects.
-- **1D.5:** Cicero visitor clash (throat/fists); Octavius-not-yet margin; Brutus hears Campania name laugh.
-- **S-B1 / S9 + S11:** Same-room gossip collision (neighbour + two couriers) replaces letter-stack; wine-shop/elder underestimation of the boy as sport; Brutus hears sport echoed at Lanuvium.
-- MUST_EXPRESS: D3, C7, A9 seed. Next: Ch 22: OCT accepts name.
-- **Reader-earn (Ch 21):** earns carried in mouths/objects, no standalone explainer sentences. Neighbour jab → coast road away from Antony’s Forum (Formiae, Puteoli next); courier: papers → bronze on Capitol, amnesty joke; courier: boy off Apollonia boat at Brundisium → Philippus villa, Naples bay (Puteoli same bay; name-take still Ch 22); Lanuvium road 18 miles Appian Way; Senate letter on table = city praetor ten-nights excuse moved by Antony; Cassius at own house nearer coast.
-**1G / P1-e:** Brutus returns purse unopened (behavioural cost).
-**Final integrated:** Municipal clerk refused Brutus’s seal on a “liberty” record; neighbouring town prices him unavailable, new confinement cost beyond purse.
-- **Golden-read P1:** Stylus stops before finishing Caesar-as-tyrant cruelty, forgiveness still claims grammar.
-- **Law-sweep:** Fundi same-room collision ≥3; wine-shop boy-sport; Lanuvium echo; polite visitor clash; audible underestimation humour; name-war plants toward Ch 22.
-- **Expansion D6:** Porcia + steward + client 3-voice pressure; “plan” costs a refusal (gravel path).
-- **Human-voice (Ch 21):** one light trough feel-pass; Fundi open / half-false list / Atticus soft / three wants / stylus stop / flour report breaths; hold wine-shop sport, clerk refuse, purse return.
+- **Knows / learns:** the Liberators bottled up in Latium; Cicero sees the gap in force through letters and objects. At Fundi, a neighbour and two couriers in one room: the coast road away from Antony’s Forum (Formiae, Puteoli next); the acts posted in bronze on the Capitol; the boy off the boat from Apollonia at Brundisium, now at Philippus’s villa on the Bay of Naples (the name-taking is Ch 22); the city praetor’s ten-nights excuse, moved by Antony. Wine-shop elders treat the boy as sport, and Brutus hears it echoed at Lanuvium (18 miles down the Appian Way). Cassius is at his own house nearer the coast. Brutus returns a purse unopened; a town clerk refuses his seal on a “liberty” record. Porcia, a steward and a client press him; a plan costs a refusal. His stylus stops before he finishes calling Caesar a tyrant.
+- **Plants → pays:** the name war (Ch 22).

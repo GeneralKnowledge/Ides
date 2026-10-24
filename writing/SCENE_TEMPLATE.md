@@ -17,13 +17,14 @@ Overhear risk: <Low/Med/High/Extreme>
 ---
 
 ## Continuity notes
-- New Private knowledge:
-- New Faction knowledge:
-- Public/Elite shifts:
-- Mysteries touched (still open):
-- New D inventions to log later:
+- **Knows / learns:** (what each POV, faction and the public know by the end; mysteries touched, still open)
+- **Plants → pays:** (with chapter numbers)
+- **Must not:**
+- **Decisions:** (dated author decisions; new D inventions to log later)
 - // TODO_EDITOR:
 ```
+
+Facts only. Pass history (what a revision pass cut or kept) goes in `archive/pass_logs/`, not in the chapter.
 
 ## Mini preflight (30 seconds)
 

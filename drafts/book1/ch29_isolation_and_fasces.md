@@ -1,8 +1,6 @@
 # Chapter 29: Isolation and Fasces
 
-**Phase 1D.1** · SC-82, SC-83 · summer 43 · A10 end / A12 prep · C1 / C5
-**Human-voice:** Ch 29 feel-pass (rules); ford death / Plancus–Lepidus *yet* / pay-chest fasces held.
-**Reader-earn:** Ch 29 expanded; Lepidus’s legions take Antony in; boy refuses Decimus; consul’s age / centurion’s sword; lictors’ rods; Bononia island invitation under two seals.
+**Scenes:** SC-82, SC-83 · summer 43 · A10 end / A12 prep · C1 / C5
 
 ---
 
@@ -93,16 +91,7 @@ By autumn a courier brought Decimus’s end as three incompatible stories. Ditch
 ---
 
 ## Continuity
-- Decimus death-on-road as ordeal (priced ford; no speech); OCT consul under army pressure after incomplete death-rumour.
-- Vacuum after Decimus: named pressure from ranks (north road empty) + Senate (no Mutina holder left) → fasces/Bononia feel caused.
-- MUST_EXPRESS: C1 close, C5. Next: Triumvirate / proscriptions (Ch 30).
-**Phase 1D.1:** SC-82 experiential death; SC-83 vacuum→fasces without Augustus mind.
-**Act5 ordeal:** SC-82 left sensory; SC-83 deepened so Bononia reads as consequence of Decimus gone.
-**Final integrated / E1:** Removed shared “They will say many things / Say them after…” echo. Decimus resolves with fork/schedule/waterskins; Octavian with pay-chest order, body shake, refusal of destiny smile.
-- Road ordeal, humour OFF at Decimus death; ranks/Senate pressure on OCT; Decimus incomplete rumour callback; pay-chest before destiny.
-- **Tissue:** Agrippa “homework with fasces” bite after pay-line (humour ON, OCT refuses smile), playfulness without caption.
-- **Expansion D14 / IR-1:** Post-relief milestone wait (Plancus not yet come; joins June, deserts Sept, time jump in prose) + Lepidus-channel rider returns tablet unopened (Ch 20 callback); staff count names both as lived absences, not Lepidus sole killer.
-- **Human-voice:** flattened nested/broken parens (aide count, OCT sweat, ruthlessness close); broke opening multi-clause; cut ford *as if* / cloth-bargain polish; Decimus ordinary ford death held.
-- **Reader-earn (Ch 29 expanded):** older aide’s count adds Lepidus’s legions over the Alps taking Antony in (waded the river; Lepidus blames his soldiers, pays Ch 26 aide) and the boy refusing a road with Caesar’s door-holder; Senate voice: consul’s chair wants forty-two years, he has nineteen; centurion’s sword on the Curia steps (*If you will not make him consul, this will*, Suet. *Aug.* 26 trad.) reported to the pay line; fasces as twelve lictors whose rods move the street; Bononia earned as a two-seal invitation to the river island (fixes the bare Bononia close). Martians / Liberators not re-glossed.
-- **Human-voice (Ch 29):** one feel-pass; *yet* / letter cramp / map sores / death scraps / ranks translate / Senate excuse / Bononia caused breaths; hold ford death, Plancus–Lepidus absences, pay-chest before fasces, homework bite.
-- **Rules audit (Ch 29, history order):** consulship (Aug 43) now caused by both consuls dead + Senate’s triumph and legions for Decimus that the ranks refuse; Decimus’s death (Sept 43) reaches OCT after the fasces, as the push toward Bononia (historical_anchors order). SC-82 dated Sept 43; “Optics” idiom cut.
+- **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come (joins in June, deserts in September; time jumps in the prose); a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech.
+- **SC-83:** the consulship (Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse; consul’s chair wants forty-two years, he has nineteen; a centurion’s sword on the Curia steps (“If you will not make him consul, this will”, Suet. *Aug.* 26) reported to the pay line; the fasces as twelve lictors whose rods move the street. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death (Sept 43) reaches him after the fasces, as the push to Bononia; Bononia comes as a two-seal invitation to the river island.
+- **Plants → pays:** Ch 26 aide on Lepidus; the Bononia table (Ch 30).
+- **Must not:** Lepidus is not the sole killer; no Augustus mind. Not re-glossed: the Martians, the Liberators.

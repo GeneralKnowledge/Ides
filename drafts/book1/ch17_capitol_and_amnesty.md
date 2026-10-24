@@ -1,9 +1,8 @@
 # Chapter 17: Capitol and Amnesty
 
-**M5 polish** · SC-45, SC-46, SC-47
+**Scenes:** SC-45, SC-46, SC-47
 **Canon:** M11 · A5 aftermath · Digest 14.14 energy · HUMOR-1 low
 **Dates:** 15 March afternoon → 16–17 March
-**Human-voice:** Ch 17 expanded; amnesty plain bargain earned; Capitol/Cisalpine/donative re-gloss trimmed; corridor / Pacuvius held.
 
 ---
 
@@ -77,15 +76,8 @@ Brutus took the corridor truth without answering it in kind. Answering would hav
 ---
 
 ## Continuity notes (SC-45)
-- **Review 2:** Cicero’s brief Capitol visit on the Ides afternoon (urges praetors to summon the Senate), paid Ch 25/31 “Capitol’s first day”. Brutus does not know Galba’s winter terms (Cassius-only, Ch 8).
-- Liberty optics fail to convert populus.
-- Capitol linger = strategic mistake shown as resisted want (speak / wait / leave) under 3+ Liberator pressure.
-- Capitol geography paid Ch 16 (no Jupiter-treasury re-plaque); Cisalpine paid Ch 4 (northern-road shorthand only).
-- Libertas densify; Lepidus = master of horse + Tiber island legion.
-- **Gold dwell:** Casca/Decimus/Cassius room; Cassius corridor truth after Brutus’s public face.
-- **Golden-read P1:** Behavioural guilt, killed the man who forgave/kept him close; will not look at palms.
-- **Tissue:** Galba brother’s winter unpaid → Capitol absence (Ch 8 price paid as missing blade).
-- // M5: Capitol oration reconstruction deferred, behaviour holds without verbatim fragment.
+- **Knows / learns:** Cicero visits the Capitol on the Ides afternoon and urges the praetors to summon the Senate (Ch 25, 31 “the Capitol’s first day”). The liberty speech fails to move the people. Waiting on the Capitol is a mistake shown as a want resisted (speak, wait, leave) under Casca, Decimus and Cassius. Lepidus: master of horse, a legion on the Tiber island. Brutus will not look at his palms. Galba is absent, his winter terms unpaid (Ch 8). Brutus does not know Galba’s terms.
+- **Must not:** no verbatim Capitol speech; no Jupiter treasury plaque (Ch 16); Cisalpine as northern-road shorthand only (Ch 4).
 
 ---
 
@@ -157,13 +149,9 @@ Antony spat blood from a bitten cheek he did not remember biting and stared towa
 ---
 
 ## Continuity notes (SC-46)
-- M11: force available, massacre not chosen.
-- Antony thinking funeral/body optics, calculated, not verse performance.
-- False death rumour noted; slave-cloak escape plant; Trebonius-liar pay.
-- Donative paid Ch 4/13 (Pacuvius as contact only, no re-definition).
-- // M5: Lepidus held as present/careful, neither hero nor cartoon.
-- **Law-sweep:** Pacuvius polite assent → exit-complaint (rooms vs warm knives); ≥3 with Lepidus/officers in earshot.
-- **Expansion D1:** Pacuvius / officer / Lepidus as group pressure (massacre vs funeral optics) before Antony chooses rooms.
+- **Knows / learns:** Antony has the force and does not choose a massacre; he thinks about the funeral and the body. Pacuvius, an officer and Lepidus press (massacre against how a funeral will look) before he chooses rooms (D1). The false death rumour noted.
+- **Plants → pays:** the slave-cloak escape; Trebonius the liar; Pacuvius as contact only (donative not re-defined).
+- **Must not:** Lepidus present and careful, neither hero nor cartoon.
 
 ---
 
@@ -231,16 +219,8 @@ On the seventeenth, when the bargain had begun to harden, he allowed himself a t
 ---
 
 ## Continuity notes (SC-47)
-- Contemporary hope shown; **amnesty + acts stand stated plain** (killers pardoned; Caesar’s acts valid) before corridor shopping.
-- Tellus / 17 March; Catiline / pater patriae densify; Vestals hold will; which-boy seed.
-- **S-B1 / S7:** Corridor pre-will shopping, gardens / boy / who the paper wounds / queen as unfinished Roman problem (3 voices); will arrives pre-loaded.
-- **Law-sweep:** Cicero praise-face → corridor complaint (periods vs corpse price); Decimus second-line + queen/gardens callbacks from Ch 4/6; humour OFF (aftermath / Capitol grief band).
-- **Expansion D2 / IR-1:** Corridor pressure via Antony-house messenger + Servilia-orbit steward (seal still soft), lived authority, no “shaped” labels; T2; no new POV.
+- **Knows / learns:** the amnesty stated plain: the killers pardoned, Caesar’s acts stand. Temple of Tellus, 17 March; Catiline, *pater patriae*; the Vestals hold the will. In the corridor, before the will: the gardens, the boy, whom the paper wounds, the queen as an unfinished Roman problem. A maid from Antony’s house and Servilia’s steward at the side door (D2).
+- **Plants → pays:** which boy (Ch 18).
+- **Must not:** no future-leaning lines for Cicero.
 
 ---
-
-# Chapter 17: End matter
-
-**Edit pass 1 / read-through:** cut Cicero “later he would invent” future-lean.
-**M5 polish:** TODO_EDITOR cleared/deferred; Lepidus dial checked.
-- **Human-voice (Ch 17 expanded):** amnesty plain bargain earned (pardon + acts stand + Greek forgetting); densify libertas / Lepidus horse / slave cloak / Tellus / Catiline / Vestals / which-boy; cut Capitol Jupiter-treasury plaque (Ch 16); cut Cisalpine province CV (Ch 4); cut donative re-definition (Ch 4/13); hold Capitol corridor, Galba absence, Pacuvius soft→hunger; no modern weekdays.

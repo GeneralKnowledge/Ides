@@ -1,7 +1,6 @@
 # Chapter 10: Almost / Soften / Body
 
-**Mid-tier pass** · SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
-**Human-voice:** Ch 10 expanded; Basilus tag + aedile/freedman gloss densified; palaestra “shirts off” trimmed.
+**Scenes:** SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
 
 ---
 
@@ -144,14 +143,6 @@ Hordeonius did not correct her. Street mouths carried what senators forgot on pu
 ---
 
 ## Continuity
-- F2 almost-recruit flinch (F3 set-piece).
-- **S-A1 / S2:** Seius pays non-conspirator social cost for soft-hour door-tapping (client notice + Seia Prima vinegar), city catching a cold.
-- F4 refuse softness; SIDE-1 body; tablets implicate Basilus orbit + Bucco; killer unknown (≥3 theories).
-- **Basilus tag paid:** praetor / Gaul / denied province / private resentment (do not re-CV).
-- **S-A1 / S3:** Hordeonius prices “consul walks free of a bad morning” as uninsured morning / invoice refuse (non-conspirator mouth; no Trebonius/market-day spoil), later-book pass: plant kept, atmosphere sermon cut.
-- OPEN-0 held. MUST_EXPRESS: F3, F4, B5, C9.
-- Next: Ch 11 omens / Sibylline.
-- **Law-sweep:** Bath soft-hour + client notice (polite room → palaestra complaint); Seia Prima vinegar by behaviour; F4 taberna humour medium; SIDE-1 body/OPEN-0; consul-walks-free insurance plant (S3).
-- **Expansion D20:** Water-carrier street mouth on Kalends-pay / soft-debt / stair-smell memory, SIDE-1 remembered later as pressure, not solved.
-- **Golden-read P3-b:** Paullus refuse as patronage theatre, tablet possession, stool threat, soft click, ring-check (Batiatus ego without wink).
-- **Human-voice (Ch 10 expanded):** densified Almost / Soften / Body; Basilus + aedile + freedman earned; palaestra “shirts off” cut; hold Visellius refuse, body, OPEN-0, Seius flinch; no modern weekdays.
+- **Knows / learns:** Seius nearly recruited and flinches (early Feb 44); his soft-hour door-tapping costs him (a client notices; Seia Prima’s vinegar). Hordeonius softens a debt; Visellius Paullus refuses. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
+- **Plants → pays:** Hordeonius prices a consul who walks free of a bad morning as an uninsured morning (Ch 15, no spoiler); the water-carrier remembers SIDE-1 as pressure later.
+- **Must not:** OPEN-0 held (no solution); don’t re-introduce Basilus later.

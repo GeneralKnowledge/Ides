@@ -1,9 +1,8 @@
 # Chapter 15: The Litter and the Portico
 
-**M5 polish** · SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)
+**Scenes:** SC-40, SC-41, SC-42 (+ NOTE-1 unread on route)
 **Canon:** HOUSE-1 · DEC-PERS-1 · CHOREO-1 · NOTE-1 · M4 · M6 · AMB-3 · HUMOR-1 near-off
 **Continues:** Ch 14 litter departure
-**Human-voice:** Ch 15 expanded; king-bird earned on Ides morning (moved from Ch 11); Pompey/Curia re-gloss trimmed; unread seal / market day / scream→door held.
 
 ---
 
@@ -75,11 +74,7 @@ The bed did not argue. From the street rose the ordinary roar of the Ides. The l
 ---
 
 ## Continuity notes (SC-40)
-- Aftermath-only (stay already lost in Ch 14). Omen gossip = AMB-3.
-- Exta/liver densify; king-bird/wren earned here (Ides-morning; not Ch 11); Spurinna name paid Ch 11; free-spread washerwoman held.
-- **Gold-edge:** Calpurnia active order (Nysa / Phileros by name); physician-slave stamp cut.
-- **Gold dwell:** Household 3-room (Dama/washerwoman/Pallas); omen theatre refused; bridge toward later silence; Decimus chin-tip retained as private image.
-- **IR-1:** Nysa’s “I burned it” = deliberate lie (fragment still on body → Ch 19 burn); Calpurnia does not search; NOTE-1 dual unchanged.
+- **Knows / learns:** aftermath only: the stay was lost in Ch 14. The entrails and liver; the king-bird (wren) told here as Ides-morning tradition; Spurinna named back to Ch 11; omen gossip unproven (AMB-3). Calpurnia gives orders by name (Nysa, Phileros). Nysa’s “I burned it” is a lie: the fragment is still on her (burned Ch 19). Calpurnia does not search her.
 
 ---
 
@@ -145,9 +140,8 @@ Decimus wiped his clean hands on his tunic, once, where no one would see, and we
 ---
 
 ## Continuity notes (SC-41)
-- Unread note planted (≠ Nysa’s). Hand-er foggy on purpose. Decimus peels to Antony delay.
-- Greek-teacher densify; Pompey theatre/statue geography paid Ch 9 (no Pharsalus / first-stone re-CV).
-- **Gold dwell:** Seal almost opens / Decimus almost-snatch cost; NOTE-1 dual held (seal stays unread).
+- **Knows / learns:** a Greek teacher hands Caesar a note (not Nysa’s); who handed it is deliberately foggy. The seal almost opens; Decimus almost snatches it; it stays unread. Decimus peels off to help delay Antony.
+- **Must not:** no Pompey/Pharsalus/first-stone re-telling (Ch 9).
 
 ---
 
@@ -221,16 +215,8 @@ At the door Antony looked back once. Trebonius stood alone in the colonnade’s 
 ---
 
 ## Continuity notes (SC-42)
-- Suspicion low until shouts; Trebonius = talk; Antony misses the blows.
-- Tribune densify; Marcus name; debt/fingers + Hirtius banter; blade-into-Senate law beat.
-- **Gold-edge / S18:** “market day” callback paid; third voice (legate’s attendant) waved off on remount; Trebonius warmth held in Antony’s sight only.
+- **Knows / learns:** Trebonius holds Antony with talk (debts, fingers, Hirtius banter, the law against blades in the Senate); Antony suspects little until the shouts and misses the blows. A tribune named Marcus. The legate’s attendant is waved off.
+- **Plants → pays:** “market day” (Ch 7, 9).
+- **Exit state:** the note unread on the route; Antony held outside; Calpurnia powerless.
 
 ---
-
-# Chapter 15: End matter
-
-**Rollup:** Unread note on route · Antony held outside · Calpurnia powerless.
-**Edit pass 1:** cut “history to happen” wording from Decimus.
-**M5 polish:** header pass; CHOREO-1 / NOTE-1 dual held.
-- **Law-sweep:** market-day callback paid; portico ≥3 + remount attendant; Trebonius hold; unread note plant; humour low (Ides approach).
-- **Human-voice (Ch 15 expanded):** surgical densify; exta / street petitions / Greek teacher / tribune / blade law; king-bird first-tell moved here from Ch 11; cut Pompey Pharsalus / first-stone / Curia-means-hall (Ch 9); hold unread seal, market-day, scream→door; no modern weekdays.

@@ -1,9 +1,8 @@
 # Chapter 20: Smoke and Distance
 
-**M5 polish** · SC-52, SC-53, SC-54
+**Scenes:** SC-52, SC-53, SC-54
 **Canon:** EXIT-1 seed · CLEO-1 · A8 · SERIES hooks only
 **Dates:** late March 44 → days after Ides (OCT track delayed)
-**Human-voice:** Ch 20 expanded; Cisalpine/Plancus/Mutina + EXIT-1 east densify; CLEO Venus/Caesarion; Maecenas present-tense; trough held.
 
 ---
 
@@ -59,13 +58,8 @@ On the road north, while that smoke thinned behind him into other men’s proble
 ---
 
 ## Continuity notes (SC-52)
-- Split: Decimus → Cisalpine track; Brutus/Cassius → East (Macedonia/Syria) track (EXIT-1 seed).
-- **Mutina seed:** Antony hunger for Cisalpine legions; Plancus across Alps; Mutina / Via Aemilia fortress (Ch 4 Mutina plant densified, not re-CV of ditch timing).
-- **1G / P1-b:** Plancus soft delay + Lepidus silence seed ally-evaporation before Ch 29.
-- **Final integrated:** Decimus/Brutus timing disagreement (east-first vs nearer knife); Plancus refuses grain “yet”; Lepidus channel will not take a return tablet.
-- Property damage shown; which house burns = flex, keep generic elite street.
-- Second-line will callback; Tiber smoke bridge toward SC-53; Decimus/Brutus timing fight by clasp (no nametag).
-- **Golden-read P3-c:** Street misremembers Calpurnia dream (≥3 versions; Decimus files, does not crown), aftermath of dream packet.
+- **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Plancus over the Alps; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Plancus refuses grain “yet”; Lepidus’s people will not take a reply tablet. The street misremembers Calpurnia’s dream (three versions). Property burns; which house is left generic.
+- **Plants → pays:** Plancus and Lepidus fall away (Ch 26, 29); the second heir.
 
 ---
 
@@ -127,13 +121,9 @@ Once she was on the water, someone in Italy would finish her story for her. Cler
 ---
 
 ## Continuity notes (SC-53)
-- CLEO-1 lodging; departure plan; Caesarion present (Egypt’s heir / Rome’s nothing).
-- Ammonius = chief of staff; Venus Genetrix statue densify; Cicero books unpaid.
-- No dagger-circle claim; dynastic lens.
-- **S-B1 / S8:** Cleopatra as **payoff** of prior gardens/queen/child gossip (not introduction); packing obstruction (clerk inspection); *regina* debate kept out of her POV.
-- // M5: *regina* debate kept out of Cleopatra POV: verified.
-- Smoke bridge from SC-52; clerk inspection / porter corridor bite; gardens/child payoff held; humour OFF (flight weather).
-- **Expansion D5 / IR-1:** Payoff = refuse intermediaries/Cicero books on schedule (CLEO-1 held). Later Ch 26 courier is confirmation of sail only, not a Cleo reunion scene. Meta “Ch 26” foreshadow stripped from prose.
+- **Knows / learns:** the lodging (CLEO-1); she plans to leave; Caesarion present (Egypt’s heir, Rome’s nothing). Ammonius runs her staff; the Venus Genetrix statue; Cicero’s books unpaid. A clerk inspects the packing. She pays the earlier gossip about gardens, queen and child; it is not her introduction.
+- **Plants → pays:** Ch 26 courier confirms only that she sailed.
+- **Must not:** no claim she was in the dagger circle; the *regina* debate stays out of her POV.
 
 ---
 
@@ -179,20 +169,12 @@ Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been 
 ---
 
 ## Continuity notes (SC-54)
-- Delayed knowledge; will not fully known yet.
-- Octavian scared/learning/cold seed, not Augustus.
-- Agrippa foreshadow light; Maecenas present densify (no future-friend wink).
-- Smoke/gardens/boy rumour bridge; hopeful-shadow ban echoed by refusal of soft nickname; humour OFF (death news).
-- **Gravity:** unfinished questions collide across cameras (Decimus gate / Cleo who-finishes-story / OCT name+gardens); NOTE-1 beat lives in Ch 15 only (no OCT echo).
-- **Anti-formula:** Three-census labels + “filed the exit-complaint” strip; timing / sandals / names-first centres held.
+- **Knows / learns:** news arrives late and incomplete; the will is not yet fully known. Octavian scared, learning, cold, not Augustus. Maecenas present; Agrippa light. He refuses a soft nickname (Ch 5 ban).
+- **Must not:** no future-friend wink for Maecenas; no NOTE-1 echo here (Ch 15 only).
 
 ---
 
 # Chapter 20: End matter
 
-## Act 3 exit info state (card)
-Public ≈ Caesar martyr · Elite amnesty+fear · Liberators shattered in capital · OCT elsewhere · SIDE-1 unsolved.
-
-**Edit pass 1 / read-through:** cut will-foresight wink; header aligned with Ides block. NOTE-1 beat moved to Ch 15 (SC-54b); none in SC-54.
-**M5 polish:** *regina* kept out of Cleopatra POV; destiny voice soft-checked.
-- **Human-voice (Ch 20 expanded):** densify Cisalpine Antony-hunger / Macedonia-Syria EXIT-1 / Plancus / Mutina Via Aemilia / Caesarion / Ammonius / Venus Genetrix / Maecenas present; cut “for a week”; cut Maecenas future-friend wink; hold EXIT-1, CLEO-1, OCT delayed, Plancus *yet*; no modern weekdays.
+## Act 3 exit state
+Public: Caesar a martyr. Elite: amnesty and fear. Liberators broken in the capital. Octavian elsewhere. SIDE-1 unsolved.

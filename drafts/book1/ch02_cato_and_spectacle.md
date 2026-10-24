@@ -1,8 +1,7 @@
 # Chapter 2: Cato and Spectacle
 
-**Dinner-first opening (Option 2a)** · SC-01, SC-02 · late 46 BC · A1 aftermath · FS10 · G1/G2
+**Scenes:** SC-01, SC-02 · late 46 BC · A1 aftermath · FS10 · G1/G2
 **Chronology:** Same season as Ch 1 dinner, Forum still living under Africa-closed weather (not a jump back to spring news-hour).
-**Expanded draft:** Thapsus/Utica/Cato earned glossary; Sosia stitch odds (pays Ch 1); colonies/faster-slower banter; Nysa four-triumph / Juba / copper refuse densified
 
 ---
 
@@ -154,10 +153,7 @@ She reported the early clients at the Domus smile, and the banker by the steps. 
 ---
 
 ## Continuity
-- A1 moral-economic shock preserved as **living late-46 weather** after Ch 1 dinner (not spring news-flashback).
-- **Expanded:** Thapsus/Utica/Cato glossary earned in-scene; Sosia stitch odds pay Ch 1 Tettius/physician; colonies promise gloss; faster/slower farms banter; Nysa four-triumph / Juba / painted Cato / copper refuse / Dama two-coppers.
-- **Cold-read patches:** Cicero CV brochure trimmed; SC-01 close triad cut (land on Kalends); Domus Publica gloss kept once; F4 ledger italics held.
-- FS10 land hunger seeded (veteran spit). Competing interpretations held.
-- Soft Transtiberim fringe retained as withheld rumour (no Cleo POV).
-- **G1:** Hordeonius primary; Nysa second as collision with *Africa: closed enough*.
-- MUST_EXPRESS: A1, B4 seed. Next: Ch 3 debt.
+- **Knows / learns:** late 46, after the Ch 1 dinner (not a spring flashback). Thapsus, Utica and Cato are learned in street talk; the four triumphs, Juba, the painted Cato, the colonies promise; Africa is “closed enough”. Queen and Transtiberim talk stays withheld rumour.
+- **Cast:** Hordeonius, Sosia (he), Nysa, Dama.
+- **Plants → pays:** Sosia’s stitch odds pay Ch 1 Tettius and the physician; a veteran’s spit seeds land hunger (FS10); Hordeonius’s wax “new ring: rate held / unpaid” carries into Ch 3.
+- **Must not:** no Cleopatra POV; the Domus Publica glossed once only.

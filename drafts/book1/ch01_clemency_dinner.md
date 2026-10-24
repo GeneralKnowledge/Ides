@@ -1,8 +1,7 @@
 # Chapter 1: Soft Chain
 
-**Opening after the Utica prologue** (dinner-first Option 2a superseded 2026-10-23) · SC-08 · late 46 BC · Chain 1 · FS06 seed
+**Scenes:** SC-08 · late 46 BC · Chain 1 · FS06 seed
 **D dinner:** Caesarian host room; Africa-favour climber Sextilius (not a documented appointment)
-**Expanded draft:** densified dinner + Cato scene (Tettius / Aebutius); Thapsus caption cut; aphorism gravity thinned
 
 ---
 
@@ -143,11 +142,8 @@ Then he sat with the lamp and thought about a man at Utica who had been offered 
 ---
 
 ## Continuity
-- **Opening 2a:** Book opens on Cassius dinner, late 46 (**D** host / Africa-favour climber **Sextilius**). Not a documented historical banquet.
-- **Expanded dinner:** Tettius (country cousin) asks Cato/stitches; Aebutius grey senator; Caesar’s grudge-death line; soft-chain / digest held as behaviour + grape fist.
-- **Thapsus:** no place-name dump; Africa as triumph dust + unpaid mule-train scrap; Cato earned as table scene (pays into Ch 2 Forum weather).
-- **FS06 / S2:** queen/child/Transtiberim as **rumour** (painter invoice / Egyptian blue); lodging newly public. No Actium; no narrator paternity.
-- Chain 1: clemency as social instrument; resentment crystallises without knives.
-- AMB-1 untouched; SIDE-1 not planted here.
-- Next: Ch 2 Hordeonius street (same season; Cato/Africa as living market weather that now has a dinner antecedent).
-- **Ch 1 rework (2026-10-23, after Utica prologue; Reuben’s go-ahead):** Cassius now wants something he can lose: a place on Caesar’s Spanish staff (Caesar left for Spain late 46). He does not ask; the host gives Spain to Sextilius in a toast. “I digest” is now his price for keeping his couch. Petitioner cut (his ignored-ask beat moved to Cassius). Aebutius teases his Epicureanism (Cassius’s conversion, cf. Cic. *Fam.* 15.16–19), “It saves on gratitude”. New close: at home Cassius drafts to Cicero the line he wrote in Jan 45, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it and writes it again; ends on Utica (pays the prologue). Whether and when it is sent is left to the letters. Tettius’s Cato question now plays as irony against the prologue; Sextilius’s physician lines pay Cleanthes.
+- **Cast:** the host (a climber who did well out of Africa; invented occasion, not a documented banquet); Sextilius, given Caesar’s Spanish staff place in a toast; Tettius, country cousin, asks about Cato; Aebutius, grey senator, teases Cassius’s Epicureanism (“It saves on gratitude”; cf. Cic. *Fam.* 15.16–19).
+- **Knows / learns:** Cassius wanted the Spanish staff place (Caesar left for Spain late 46), never asked, and pays “I digest” to keep his couch. Thapsus and Africa reach the table only as triumph dust and an unpaid mule-train. The queen, the child and the Transtiberim lodging are rumour only (a painter’s invoice, Egyptian blue); the lodging is newly public.
+- **Plants → pays:** Caesar’s grudge-death line and Tettius’s Cato question play against the prologue; Sextilius’s physician lines pay Cleanthes; the table’s Cato carries into Ch 2 street weather. Close: Cassius drafts to Cicero his Jan 45 line, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it, writes it again, and ends on Utica. Whether and when it is sent is left to the letters.
+- **Must not:** no Actium; no narrator verdict on the child’s father; no Utica gloss (the prologue carries it); no knives yet. AMB-1 untouched; SIDE-1 not planted.
+- **Decisions:** 2026-10-23 (Reuben): Ch 1 reworked after the prologue. The petitioner is cut and his ignored-ask beat moved to Cassius.

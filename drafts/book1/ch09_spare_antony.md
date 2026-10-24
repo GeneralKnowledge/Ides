@@ -1,8 +1,6 @@
 # Chapter 9: Spare Antony
 
-**M5 polish** · SC-22, SC-23 · M6 · CHOREO-1 prep · B2
-**S-A0:** show-don’t-tell access; Decimus resistance; exit-complaint
-**Human-voice:** Ch 9 expanded; Curia/Pompey-theatre plant + Gaul paper + Antony stakes; Sacra Via/Curia plaques trimmed.
+**Scenes:** SC-22, SC-23 · M6 · CHOREO-1 prep · B2
 
 ---
 
@@ -131,10 +129,6 @@ At the garden gate Decimus stopped at the fountain and washed his hands, though 
 ---
 
 ## Continuity
-- F2 set-piece; M6 live; Trebonius delay seeded for Ch 13/15; Gaul paper = market-day leash without weekday.
-- **S-A0:** Decimus resists before yes; access shown via door/hours/Spain jokes (no “friendship was the key” caption); living-consul price spoken inside Brutus’s hearing (no off-POV coda).
-- Curia → Pompey’s theatre/statue plant for Ides geography; Antony stakes (Pharsalus left wing / co-consul / Forum love).
-- Next: Ch 10 SIDE-1.
-**M5 polish:** header + voice spot-check; mercy-decision density held.
-- **Law-sweep:** Garden ≥3; Decimus access shown by doors/hours/Spain; living-consul price in-hearing; Cassius dry humour on spare; Trebonius remounts plant; no friendship-key caption.
-- **Human-voice (Ch 9 expanded):** densified Access / Argument; cut Sacra Via “oldest street”; cut Curia “no particular reason to fear”; hold spare Antony, Gaul paper, chickens, Decimus resistance; no modern weekdays.
+- **Knows / learns:** Decimus resists before he says yes; his access to Caesar is shown by doors, hours and Spain jokes. The cost of a living consul is spoken where Brutus can hear. Antony’s stake: the left wing at Pharsalus, co-consul, loved in the Forum.
+- **Plants → pays:** Trebonius’s delay (Ch 13, 15); Gaul paper as a market-day leash; the Curia in Pompey’s theatre and the statue (Ch 15, 16).
+- **Must not:** no “friendship was the key”; no modern weekdays.

@@ -1,8 +1,7 @@
 # Chapter 24: Antium
 
-**Phase 1D.5** · SC-67, SC-68a · May–8 June 44
+**Scenes:** SC-67, SC-68a · May–8 June 44
 **Set-piece:** Antium consilium (*Att.* 15.11)
-**Human-voice:** Ch 24 feel-pass (rules); Laberius refuse / Antium room / Servilia cut held.
 
 ---
 
@@ -93,13 +92,6 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 ---
 
 ## Continuity
-- Antium locks East path + Servilia agency. Batch B complete.
-- **1D.5:** Laberius dual-offer refuse (listen-decision); Cassius name-war cut vs Cicero tools; Servilia mild trap held.
-- **S-B1 / S10:** Behind-backs pre-load, eagle men refuse boy’s pay; Servilia rewriting paper; colonnade polite-face → exit-complaint after room.
-- Next: Ch 25 Philippics + East departure.
-**M5 polish held:** Antium room sensory/agency; Hilarus present.
-- **Law-sweep:** Colonnade behind-backs → exit-complaint after room; eagle refuse / Servilia rewrite pay Ch 23 seeds; Laberius veteran talk; humour short laugh with reaction.
-- **Expansion D9:** Behind-backs colonnade densify (eagle refuse + boy pay / Servilia paper) as lived delay before Antium room.
-- **Golden-read P3-d:** Laberius refuses Antony-man “guard for safety” transfer, Capua date stays in his boots.
-- **Human-voice (Ch 24):** one feel-pass; donative as-if / purse listen / voltage / navigation / soft-power / day’s fact / Atticus compose breaths; hold Capua refuse, Cassius corn cut, Servilia clause, colonnade exit-complaint.
-- **Reader-earn (Ch 24):** Laberius’ Capua twine (why he is in the colony forum); scar puts Brutus + Servilia’s clerks at the Antium sea-house (Ch 23 seed, not re-taught); Cicero rides from Astura on Brutus’s letter; Brutus’s decree tablet = grain-buying commissions (Asia / Sicily) as a praetor’s excuse past ten nights; Tertulla = Servilia’s daughter married to Cassius (Cicero’s “both knives”); Favonius = Cato’s barefoot copy, civil-war-worse-than-king, no dagger (Cicero memory); Servilia’s clause named as the corn clause. Laberius / Porcia / Cato / ten-nights not re-glossed.
+- **Knows / learns:** at a colony forum near Capua, the eagle men refuse the boy’s pay; Laberius is there for his Capua twine; a scar-lipped veteran puts Brutus and Servilia’s clerks at the Antium sea house. Laberius refuses both offers, and refuses an Antony man’s “guard for safety” transfer: the Capua date stays in his boots. Antium, 8 June 44: Cicero rides from Astura on Brutus’s letter; Brutus’s decree is the grain-buying commissions (Asia, Sicily), a praetor’s excuse past ten nights; Tertulla is Servilia’s daughter, married to Cassius (Cicero’s “both knives”); Favonius, Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia rewrites the paper (the corn clause). Hilarus present. The East path is locked in.
+- **Plants → pays:** the scar-lip veteran’s “when the shadow learns to feed us” and “which purse still dates dirt” (Ch 26 SC-70b, Ch 28).
+- **Must not:** not re-glossed: Laberius, Porcia, Cato, ten nights.

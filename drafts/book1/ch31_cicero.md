@@ -1,7 +1,6 @@
 # Chapter 31: Formiae Road
 
-**Mid-tier pass** · SC-86 · 7 Dec 43 · A13 · Chain 6 · HUMOR-1 off · F11
-**Human-voice:** Ch 31 feel-pass (rules); Formiae ordinary blow / Atticus silence held.
+**Scenes:** SC-86 · 7 Dec 43 · A13 · Chain 6 · HUMOR-1 off · F11
 
 ---
 
@@ -50,9 +49,6 @@ His last clear thought was the petty wish that Atticus would understand the sile
 ---
 
 ## Continuity
-- A13 / F11; Chain 6 closed; no out-of-POV trophy aside.
-- MUST_EXPRESS: C7, F11. Next: Ch 32.
-- **Law-sweep:** Formiae death, humour OFF (leave alone); coast road ≥3 around arrest/end; Philippics wager pays; no comedy inject.
-- **Human-voice:** broke salt/letter and attendants cadence; softened fame *as if*; Formiae silence + ordinary blow held.
-- **Human-voice (Ch 31):** one feel-pass; late/early / Lanuvium cages / attendants panic / Republic line / Atticus wish breaths; hold ordinary blow, no trophy aside, Chain 6 close.
-- **Reader-earn (Ch 31):** why this road (the ship out of Astura toward Brutus, seasick put-in at Caieta, *die in the country I saved* line, slaves turn the litter back to the sea); list copy at Tusculum names Quintus and the nephew under three men, the boy among them (pays Ch 30 seal-ring assent without re-teaching lists or Triumvirate); Popillius = the young man Cicero once kept out of the parricide’s sack, now at the front with a centurion (tradition, POV recognition). Philippics, Atticus, Lanuvium, Demosthenes shadow not re-glossed; no trophy aside; ordinary blow held.
+- **Knows / learns:** why this road: a ship out of Astura toward Brutus; seasick, he puts in at Caieta; “let me die in the country I saved”; the slaves turn the litter back to the sea. A copy of the list at Tusculum names Quintus and the nephew under three men, the boy among them. Popillius, the young man Cicero once kept out of the parricide’s sack, is at the front with a centurion (tradition; Cicero recognises him). The blow is ordinary.
+- **Plants → pays:** the Ch 30 seal-ring assent; the Philippics wager.
+- **Must not:** no trophy aside (head and hands) outside his POV; no comedy. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.

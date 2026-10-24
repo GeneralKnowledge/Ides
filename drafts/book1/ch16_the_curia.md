@@ -1,8 +1,7 @@
 # Chapter 16: The Curia
 
-**M5 polish** · SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off
+**Scenes:** SC-43, SC-44 · CHOREO-1 · A5 · M8 · M9 · HUMOR-1 off
 **Place:** Curia Pompeia / Forum–Subura streets
-**Human-voice:** Ch 16 expanded; surgical peak; Curia/Tillius re-gloss trimmed; knives / kai su / market-day corridor / false Antony held.
 
 ---
 
@@ -107,11 +106,8 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 ---
 
 ## Continuity notes (SC-43)
-- CHOREO-1; no Shakespeare Latin last words; disputed Greek fragment + silence/toga-over-face; Pompey statue fall; wound count not given (no narrator forensic); Brutus calls Cicero by name (Cic. *Phil.* 2.28).
-- Curia geography paid Ch 9 (no scaffolding/hall brochure); Tillius brother paid Ch 13 (exile shorthand only).
-- **Gold dwell:** Exit fringe only, Cassius corridor truth (spare/market-day walking toward them); knife pile untouched.
-- **Golden-read P0:** Caesar’s first cry is speech (“What is this violence?”), not meta “Latin burst out.”
-- **Golden-read P1:** Body crush = late-hour forgiveness intimacy (betrayal size), not abstract debt list.
+- **Knows / learns:** the petition and the room as choreographed (CHOREO-1). Caesar’s first cry is speech (“What is this violence?”); the Greek last words are disputed, then silence and the toga over the face. Pompey’s statue. Brutus calls Cicero by name (Cic. *Phil.* 2.28). Cassius at the exit: Antony spared, walking toward them.
+- **Must not:** no Shakespeare Latin; no wound count; no Curia brochure (Ch 9); Tillius’s brother is shorthand only (Ch 13).
 
 ---
 
@@ -172,15 +168,8 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 ---
 
 ## Continuity notes (SC-44)
-- False Antony-dead seeded; Nysa amplifies in good faith; mutates (Dolabella/list). Corrected Ch 17/19.
-- Subura paid Ch 11 (no tenement re-plaque); Dolabella densify held.
-- **Golden-read P0:** “bakers’ rumour” scaffolds street mill (pays Ch 13 plant).
+- **Knows / learns:** a false rumour that Antony is dead; Nysa passes it on in good faith; it mutates (Dolabella, a list). The bakers spread it (Ch 13).
+- **Plants → pays:** corrected in Ch 17 and 19.
+- **Exit state:** Caesar dead; the killers on the Capitol; the streets in chaos.
 
 ---
-
-# Chapter 16: End matter
-
-**Rollup:** A5 done · Capitol exit · street INF chaos. **Edit pass 1:** tightened last-words beat (no “later men would”).
-**M5 polish:** header pass; last-words ambiguity held (AMB).
-- **Law-sweep:** Curia knives, humour OFF (protect intact); petition/room choreography; NOTE-1 dual vs Artemidorus held; spare-Antony leash pays; no law-inject gags.
-- **Human-voice (Ch 16 expanded):** surgical densify; golden chair / toga sacred / Casca Greek cry / sixty-pack / imagines / kai su dispute / Cicero named / Capitol / Dolabella; cut Curia scaffolding brochure (Ch 9); cut Tillius Pompey-brother CV (Ch 13); cut Subura tenement re-gloss (Ch 11); hold knives, market-day corridor, false Antony; no modern weekdays.

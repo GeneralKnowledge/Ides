@@ -1,7 +1,6 @@
 # Chapter 23: Prices and Cowards
 
-**Mid-tier pass** · SC-64, SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
-**Human-voice:** Ch 23 expanded; Caesar’s papers in Antony’s house, Sicily wholesale / Fulvia’s sitting-room, scrap vs amnesty, Antium seed, Domus to Lepidus’ priesthood, Carinae house; trough held.
+**Scenes:** SC-64, SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
 
 ---
 
@@ -136,13 +135,8 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 ---
 
 ## Continuity
-- Money/house/elite flinch; SIDE-1 blackmail fizzles (OPEN-0).
-- **S-B1 / S10 + S11:** Same-room stall collision prices boy-Caesar + seeds Antium behind-backs (Servilia soft paper / eagle refuse) before Ch 24 room.
-- MUST_EXPRESS: C9, D2, F2 cowardice. Next: Ch 24 veterans + Antium (M5).
-**Final integrated:** SC-66: Seius refuses neighbour Gavius’s petition signature at dinner; loses block goodwill; flinch becomes a priced social event, not motto-only.
-- **Anti-formula:** Warehouse/snort gag strip; F4 bite retied to boy-Caesar / Servilia paper risk; Seius petition remains dramatic centre; NOTE-1 ash echo held.
-- **Expansion D8:** Domus emptying, Nysa’s cracked oil-flask want fails under steward kindness-as-theft (Phileros/Dama witness).
-- **Golden-read P3-b:** Archaeology scrap returned to palm + finger wipe (living-seal ego).
-- **Golden-read P3-d:** Nysa receipt errand to Antony threshold. **Changed 2026-10-23 (Reuben’s decision, T11 plant / T9):** she now takes the “stay attached” offer, learns the Carinae bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; Domus to Lepidus; Subura rent). Pays Ch 25 SC-68c (games count) and Ch 30 F1 (lists seen from Fulvia’s house).
-- **Reader-earn (Ch 23):** earns ride on stall Q&A and Domus staff, no narrator explainer sentences. Puteoli man asks who says what is in Caesar’s papers → Sosia: widow sent notebooks and money to Antony’s house the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12) vs eastern king bought back in Fulvia’s sitting-room (Deiotarus unnamed); whisperer’s scrap = February names from the baths, worthless because the Senate pardoned the doing; Sosia seeds Antium = Brutus’ sea house a day down the coast, Servilia’s clerks moved in (before Ch 24 room); Phileros: house goes with the priesthood, priesthood to Lepidus with Antony holding the ladder; Nysa carried the first chests to the gate on the Ides night; receipt errand to the Carinae, Pompey’s old house bought at Caesar’s auction and never paid (kitchen talk); Seius sounded “back in February”. Not re-glossed: bronze acts / amnesty bargain (Ch 17, 21), Domus Publica office-house (Ch 12), NOTE-1 (Ch 12), Lepidus master of horse (Ch 17), Fulvia (Ch 7), Seius / aedile (Ch 10).
-- **Human-voice (Ch 23):** one light trough feel-pass; ash as-if / stall collision / danger-without-wax / receipt bow / baker corner breaths; hold F4 ledger, SIDE-1 fizzle, Seius flinch, oil-flask fail.
+- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); a whisperer’s scrap of February names from the baths, worthless because the Senate pardoned the deed; Antium is Brutus’s sea house a day down the coast, with Servilia’s clerks moved in. SIDE-1 blackmail fizzles (OPEN-0); Hordeonius returns an archaeology scrap to the palm. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
+- **Nysa’s errand:** she takes a receipt to the Carinae (Pompey’s old house, bought at Caesar’s auction, never paid for), takes the “stay attached” offer, learns the bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; the Domus to Lepidus; Subura rent).
+- **Plants → pays:** Antium (Ch 24); Gavius (Ch 30, T11); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 30 lists).
+- **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7); Seius as aedile’s kin (Ch 3, 10).
+- **Decisions:** 2026-10-23 (Reuben, T9/T11): Nysa moves to Antony’s kitchen.

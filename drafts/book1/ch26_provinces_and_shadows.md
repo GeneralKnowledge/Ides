@@ -1,8 +1,6 @@
 # Chapter 26: Provinces and Shadows
 
-**Phase 1D.1 / Act5 ordeal** · SC-70a, SC-70b, SC-70c, SC-70 (+ folded CLEO-1 / FS11) · Oct–Dec 44 · A10 · CLEO-1 · FS11
-**Human-voice:** Ch 26 feel-pass (rules); Decimus refuse / Plancus *yet* / CLEO rumour held.
-**Reader-earn:** Ch 26 expanded; swap law plain / Mutina siege set (ring + count) / Hirtius + Pansa named as next year’s consuls; salt oxen; Lepidus’s legions over the Alps priced in the aide’s mouth.
+**Scenes:** SC-70a, SC-70b, SC-70c, SC-70 (+ folded CLEO-1 / FS11) · Oct–Dec 44 · A10 · CLEO-1 · FS11
 
 ---
 
@@ -256,17 +254,10 @@ Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest
 ---
 
 ## Continuity
-- Decimus primary POV; entrenched after refusing Antonian envoy; pay cost shown; Plancus soft refuse.
-- CLEO-1 as courier/rumour only (queen sailed; continuity not flight), no Cleo mosaic.
-- Sextus as one unease line in Cicero margin (FS11), no postcard POV.
-- MUST_EXPRESS: C8, A10 seed, FS11, C1 residual, CLEO-1. Next: Ch 27 Mutina begins.
-**Act5 ordeal:** SC-71/72 folded into SC-70 Decimus camera; one primary POV held.
-**Final integrated / Decimus seam:** Plancus refuses grain/cohorts “while his own theatre remained unsettled”, concrete non-support before Mutina, not omniscient betrayal.
-- Envoy swap-talk → threshold complaint; CLEO sail courier; Plancus soft refuse; Sextus margin unease; sole Decimus dwell (G1).
-- **Tissue:** Levy “partial” bite + Decimus almost-cheer (humour ON, character-true); census label strip.
-- **Expansion D11:** Plancus delay as human face, courier who ate at his table brings *yet* without a road date.
-- **Later-book reader pass:** One Lepidus-channel silence stitch beside Plancus *yet* (Ch 20 seed → Ch 29 dual absence).
-- **Reader-earn (Ch 26 expanded):** swap law in Decimus’s stake (assembly vote; Macedonian legions; Senate silent both ways); Ariminum rider → move into Mutina; siege taught as behaviour (ring of ditches / last ox / army from Rome); Hirtius + Pansa named in Decimus’s mouth as consuls from the Kalends and the Senate’s only swords (no narrator explainer, per Process §2); salt-oxen beat (App. *BC* 3.49 trad.). Ch 27 parley now pays on these.
-- **Reader-earn (Ch 26 gap-close):** Lepidus = more legions than Plancus over the Alps (coast to Spain) + chief priest (Ch 23 pontifex not re-glossed), in the aide’s mouth beside the silent Lepidus channel; Decimus: his word goes to whoever stands nearest. Ch 29 Lepidus–Antony join and Ch 30 table now pay on it.
-- **Human-voice (Ch 26):** one feel-pass; siege rehearsal / mornings prices / Cleo mosaic / Sextus margin breaths; hold envoy refuse, Plancus *yet*, partial donative, wall-walk key.
-- **T9 direction change + payoff (2026-10-23, development §1a):** three scenes before SC-70; the old “one primary POV” fold for this chapter is opened for story need (Ch 27 summary was carrying the boy’s army). SC-70a Antony POV, Brundisium mid-Oct 44: four Macedonian legions laugh at a hundred denarii; the boy’s leaflets on the quay; centurions by lot in his host’s colonnade with Fulvia beside him, blood fleck on her cheek (Cic. *Phil.* 3.4, 5.22, 13.18; App. *BC* 3.43–44); violence by sound, not detail; Fulvia: silence means counting the other offer. SC-70b Laberius POV, Casilinum, 11 Oct 44: Octavian in person, 500 denarii (*Att.* 16.8; App. *BC* 3.40); the clerk finds his twine in the colony rolls with his thumb: the coin is dated, the dirt is “a matter for after” (pays Ch 24 “which purse still dates dirt” and scar-lip “when the shadow learns to feed us”; Ch 28 “taken the boy’s coin… had not moved the twine” now seen). SC-70c Octavian POV, 10 Nov 44: Temple of Castor, tribune Cannutius, oath with hand to Caesar’s statue (*Att.* 16.15.3); scar-lip veteran: “He was Caesar’s too”; a third go home; Laberius glimpsed counting the leavers, unnamed; Arretium (Maecenas’s country, Ch 20 face); Martian legion shuts Alba Fucens on Antony, the Fourth follows (App. *BC* 3.45); letter to Cicero sets up Ch 27 SC-74. Decimus rider line now says “what the boy had left him of the Macedonian legions”.
+- **SC-70a (Brundisium, mid-Oct 44):** four Macedonian legions laugh at a hundred denarii; the boy’s leaflets on the quay; centurions chosen by lot in his host’s colonnade with Fulvia beside Antony, a fleck of blood on her cheek (Cic. *Phil.* 3.4, 5.22, 13.18; App. *BC* 3.43–44); the violence by sound only. Fulvia: silence means they are counting the other offer.
+- **SC-70b (Casilinum, 11 Oct 44):** Octavian in person, 500 denarii (*Att.* 16.8; App. *BC* 3.40); the clerk finds Laberius’s twine in the colony rolls with his thumb: the coin is dated, the dirt is “a matter for after”.
+- **SC-70c (10 Nov 44):** Temple of Castor, the tribune Cannutius, the oath with a hand toward Caesar’s statue (*Att.* 16.15.3); the scar-lipped veteran: “He was Caesar’s too”; a third go home; Laberius glimpsed counting the leavers, unnamed; Arretium (Maecenas’s country); the Martian legion shuts Alba Fucens on Antony and the Fourth follows (App. *BC* 3.45); a letter to Cicero sets up Ch 27.
+- **SC-70 (Decimus):** refuses Antony’s envoy and digs in; the swap law (an assembly vote; the Macedonian legions; the Senate silent both ways); the Ariminum rider sends him into Mutina with what the boy left him of the Macedonian legions; siege as ditches, the last ox, an army from Rome; Hirtius and Pansa, consuls from the Kalends, the Senate’s only swords; salt oxen (App. *BC* 3.49). Plancus refuses grain and cohorts “while his own theatre remained unsettled” and sends *yet* with no road date by a courier who ate at his table (D11); Lepidus’s people silent; Lepidus has more legions than Plancus (coast to Spain) and is chief priest; his word goes to whoever stands nearest. The levy is “partial”. A courier: the queen sailed (CLEO-1). Sextus is one line of unease in Cicero’s margin (FS11).
+- **Plants → pays:** Ch 24 “which purse still dates dirt” and “when the shadow learns to feed us”; Ch 28 “had not moved the twine”; Lepidus joins Antony (Ch 29), the Bononia table (Ch 30).
+- **Must not:** no Cleopatra scene; no omniscient betrayal by Plancus.
+- **Decisions:** 2026-10-23 (Reuben, T9): SC-70a–c added; the chapter is no longer single-POV.

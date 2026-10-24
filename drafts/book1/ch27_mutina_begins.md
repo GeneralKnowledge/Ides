@@ -1,8 +1,6 @@
 # Chapter 27: Mutina Begins
 
-**Phase 1D.1** · SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
-**Human-voice:** Ch 27 feel-pass (rules); Mutina parley refuse / OCT sword / Agrippa stillness held.
-**Reader-earn:** Ch 27 expanded; Antony prices both consuls at the ditch; Kalends sitting puts Hirtius + Pansa in the chairs as the Senate’s swords before Ch 28; Cicero’s motion makes the boy’s private legions legal.
+**Scenes:** SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
 
 ---
 
@@ -91,16 +89,6 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 ---
 
 ## Continuity
-- Parley dramatised: grain-count pressure; Decimus refuses; siege lit (SC-73 held).
-- SC-74 compressed: one 3-person persuasion fringe; OCT as Senate sword; not-Augustus held.
-- MUST_EXPRESS: C5, C7, A10. Next: Ch 28 Mutina field.
-**Phase 1D.1:** SC-73 failed parley scene; SC-74 learning voice tightened.
-**Act5 ordeal:** SC-74 summary compressed; SC-73 parley protected.
-**1G / P1-c:** Plancus soft-ally tablet before Ch 29 road.
-- Parley grain-count pressure; aide/Plancus soft-ally echoes; Curia fringe aiming Octavian.
-- **Tissue:** Aide chair-joke after refuse (humour ON, dies before becoming performance); census strip.
-- **Expansion D12:** Agrippa stillness cost on Curia fringe while Pacuvius/Antony timing mutters; OCT≠Augustus held.
-- **Reader-earn (Ch 27 expanded):** Antony names Hirtius (sick) + Pansa (levy) and the Kalends handover at the parley; aide’s “after the Kalends” + salt-ox callback to Ch 26; SC-74 set at the Kalends sitting with both consuls in the chairs as the Senate’s swords (Hirtius = Caesar’s Gaul book finished; Pansa = recruits/pay); Hirtius/OCT look; Pansa counting. Ch 28 Hirtius-fact / Pansa-open now land on known men.
-- **Reader-earn (Ch 27 gap-close):** Octavian’s army earned in Cicero’s motion (Martian legion + Fourth left Antony; veterans raised at his own cost; praetor’s command to make it legal; cf. Cic. *Phil.* 5) and Octavian’s stake (500 denarii a man in Campanian colonies; Philippus not re-glossed; Antony’s hundred at Brundisium laughed at, App. *BC* 3.43–44 trad.). Ch 28–29 *Martians* now land. Doubled aide line fixed (Decimus answers “after the Kalends”).
-- **Human-voice (Ch 27):** one feel-pass; cheer as-if / Plancus sack / siege face / Agrippa fringe / courier fragments breaths; hold grain-count refuse, chair-joke, OCT tool nod, Agrippa stillness.
-- **Rules audit (Ch 27):** SC-74 locked to Octavian POV (Cicero’s private choke, misread and certainty now seen from outside); scaffolding fragments joined; “optics” idiom cut.
+- **Knows / learns:** the parley at the ditch: Antony names Hirtius (sick) and Pansa (the levy) and the Kalends handover; he presses on grain counts; Decimus refuses (the aide: “after the Kalends”; salt oxen); the aide’s chair joke dies. The siege begins. Plancus sends a soft-ally tablet. SC-74, Kalends of January 43, Octavian’s POV: both consuls in their chairs as the Senate’s swords (Hirtius finished Caesar’s Gaul book; Pansa, recruits and pay). Cicero’s motion legalises the boy’s army (the Martian and Fourth left Antony; veterans raised at his own cost; a praetor’s command; cf. Cic. *Phil.* 5); 500 denarii in the Campanian colonies against Antony’s hundred. Cicero’s private choke and certainty seen from outside. Agrippa’s stillness at the Curia edge while Pacuvius mutters about Antony’s timing (D12).
+- **Plants → pays:** Hirtius as fact and Pansa as open (Ch 28); “Martians” (Ch 28–29); Plancus (Ch 29); Philippus’s face (Ch 22 SC-63b).
+- **Must not:** Octavian ≠ Augustus; Philippus not re-glossed.

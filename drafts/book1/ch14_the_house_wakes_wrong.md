@@ -1,9 +1,8 @@
 # Chapter 14: The House Wakes Wrong
 
-**M5 polish** · SC-35, SC-35b
+**Scenes:** SC-35a–SC-35d
 **Canon:** DREAM-1 · NOTE-1 · HOUSE-1 · DEC-PERS-1 · DIO-OMEN-1 · AMB-1 · AMB-3 · VOICE-1 · TONE-1 · HUMOR-1 (near-off)
 **Soft date:** night of 14 March → dawn 15 March 44 BC · Domus Publica (Sacra Via)
-**Human-voice:** Ch 14 expanded; surgical on gold spine; Lupercalia re-gloss + pediment Senate-vote trimmed; dream / chin-tip / NOTE-1 held.
 
 ---
 
@@ -73,9 +72,8 @@ She didn’t sleep again. Sleep had already spent what it meant to spend.
 ---
 
 ## Continuity notes (SC-35a)
-- Calpurnia has *lived* DREAM-1; Mars-arms noise unproven (AMB-3). M2 open.
-- Pediment image held; no Senate-vote re-announce (Ch 12 paid).
-- **Expansion D22:** Household/omen mesh fringe (Nysa/Pallas/Phileros) around dream peak, not Curia core.
+- **Knows / learns:** Calpurnia lives DREAM-1; the noise of Mars’s arms is unproven (AMB-3). The household (Nysa, Pallas, Phileros) stays at the edge.
+- **Must not:** no re-telling of the Senate vote on the pediment (Ch 12).
 
 ---
 
@@ -135,8 +133,7 @@ Caesar left the clouds where they belonged: behind his teeth.
 ---
 
 ## Continuity notes (SC-35b)
-- Jupiter/clouds dream private; mild vertigo unconfessed; AMB-1 held; falling sickness unnamed.
-- **Gold-edge:** Soft “Trust showed up as…” caption cut; Decimus arrival shown as body ease.
+- **Knows / learns:** Caesar’s Jupiter-above-the-clouds dream is private; mild vertigo, not confessed; the falling sickness is never named. Decimus’s arrival is felt as ease. AMB-1 held.
 
 ---
 
@@ -232,11 +229,9 @@ Decimus kept his hand available until Caesar no longer needed it, then let go as
 ---
 
 ## Continuity notes (SC-35c)
-- Attendance locked. Persuasion: optics, waiting Senate, courage-as-omen, short session. M4/M5 live.
-- King-word pays Ch 7 without Lupercalia/diadem/three-refusals re-list.
-- **Gold-edge / S18:** Chin-tip / ditch-timing / Campus-route road-trust pay (Ch 4 plant); Campus Martius gloss once.
-- **Gold dwell:** Calpurnia spoken cut Decimus must answer; Phileros/Nysa collision; chin-tip fails as lived habit under her eyes (not memory caption).
-- **Golden-read P0:** “Someone would talk” cut straight to Phileros mid-sentence, staged, not thesis-only.
+- **Knows / learns:** Caesar will attend. Decimus’s case: how it looks, the Senate waiting, courage as an omen, a short session. Calpurnia says something he has to answer. The king-word recalls Ch 7.
+- **Plants → pays:** the chin-tip, ditch timing and Campus route trust pay Ch 4; the chin-tip fails under her eyes.
+- **Must not:** no Lupercalia, diadem or three-refusals list.
 
 ---
 
@@ -312,15 +307,7 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 ---
 
 ## Continuity notes (SC-35d)
-- Nysa tablet blocked ≠ Curia unread note (Ch 15). Blockers: Phileros + Decimus gravity.
+- **Knows / learns:** Nysa’s tablet is blocked by Phileros and Decimus’s gravity. It is not the unread note at the Curia (Ch 15).
+- **Exit state:** dread at its height; attendance locked; the two notes kept apart; the public morning still routine.
 
 ---
-
-# Chapter 14: End matter
-
-**Rollup:** Dread max · attendance locked · NOTE-1 dual held · public still routine.
-**Edit pass 1 / read-through:** cut future-wink (Nicolaus); Nysa = SC-35d; “history” wording softened.
-**M5 polish:** header pass; SAMPLE-1 density left intact (no bulk expand).
-- **Law-sweep:** Ides-morning peak, humour OFF; household ≥3 collisions; Decimus cheer as relationship-by-behaviour; NOTE-1 dual held (not merged); Spurinna/Decimus callbacks; G1 peak-day mosaic allowed.
-- **Human-voice:** selective cut stacked *as if* / parenthetical / mesh-label polish; held dream packet, NOTE-1 block, chin-tip, Calpurnia’s cut.
-- **Human-voice (Ch 14 expanded):** surgical densify; Mars arms / Jupiter / clients / haruspices / Campus / Domina / falling sickness; cut pediment Senate-vote plaque; cut Lupercalia/diadem/three-refusals list (king since February); hold dream / Decimus cheer / chin-tip / NOTE-1 block; no modern weekdays.
