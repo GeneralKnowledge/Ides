@@ -38,7 +38,7 @@ Fulvia sat beside him. She had asked to. He had not refused her; he did not refu
 
 At some point he looked at his wife. There was a fleck of red high on her cheekbone, under the eye. She had not moved her head and she did not move it now. She did not wipe it away while the next man was brought in, or the one after.
 
-When it was over the courtyard smelled of the sea and of the other thing. A slave brought a basin. Fulvia dipped two fingers and touched them to her cheek, without hurry, and looked at the water afterward.
+When it was over the courtyard smelled of the sea and of the other thing. A slave brought a basin. Fulvia dipped two fingers and touched them to her cheek, without hurry, and looked at the water afterwards.
 
 “Tomorrow they will take your hundred,” she said, “and not laugh.”
 

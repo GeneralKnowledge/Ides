@@ -84,7 +84,7 @@ Octavian listened to himself become a tool. When Cicero’s gaze sought approval
 
 Agrippa stood where the Curia fringe still smelled of wet wool and ambition. Close enough to hear Pacuvius’s name travel in a courier’s mutter, Antony’s storm-man still pricing timing at Mutina. Far enough that senators could pretend the boy arrived alone. A sweating senator wanted Octavian to smile gratitude. Agrippa did not move. Octavian kept his own nod thin.
 
-Afterward a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero left looking like a man certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn’t correct him.
+Afterwards a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure. Agrippa’s stillness held until the clasp ended. Only then did he match pace toward the vendor street. A northern courier’s fragments stayed unmerged in Octavian’s hand: Decimus holding, Antony digging, Pacuvius still hungry for storm. Cicero left looking like a man certain he had saved the Republic. Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and didn’t correct him.
 
 ---
 
