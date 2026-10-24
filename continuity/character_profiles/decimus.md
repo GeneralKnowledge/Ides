@@ -41,7 +41,7 @@ When not POV: writing Plancus, oiling hinges, counting pay chests, arguing timin
 | Setup | 4, 9 | Road-trust; spare Antony as friendship logistics |
 | Pressure | 14–15 | Cheer-fetch; sealed tablet among papers; portico edges |
 | Choice | 17, 26–27 | Capitol fear not period; refuse swap; refuse winter breakfast |
-| Cost | 18, 27–29 | Second-line will irony; soft allies empty; priced ford |
+| Cost | 18, 27–29 | Second-line will irony; soft allies empty; Cularo summer with Plancus, condemned by the Pedian court, watches Plancus cross; priced ford |
 | End | 29 | Ditch-ordinary death; unpaid by meaning |
 
 ## Behavioral tells
