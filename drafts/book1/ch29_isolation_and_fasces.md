@@ -124,7 +124,7 @@ Near a river ford the map promised a contact who could pass them toward the moun
 
 He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible. Appearances, even here.
 
-They asked for his name. They already knew it. He gave it because lying would have bought minutes instead of miles. A purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved, enough metal for a short road and a long silence.
+They asked for his name. They already knew it. He gave it because lying would have bought a few breaths instead of miles. A purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved, enough metal for a short road and a long silence.
 
 There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and ordinary: meltwater, a broken rein, the smell of wet wool.
 
