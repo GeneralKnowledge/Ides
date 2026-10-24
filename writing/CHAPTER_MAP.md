@@ -61,10 +61,10 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68c, SC-69, SC-68b | F1, CAS/BRU, CIC | Victory games and star (T9); East departure; Philippics |
-| 26 | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8). Insert until the renumbering pass |
+| 26 | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8) |
 | 27 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
 | 28 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
-| 29 | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10). Insert until the renumbering pass |
+| 29 | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10) |
 
 ---
 

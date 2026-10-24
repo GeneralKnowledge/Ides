@@ -47,7 +47,7 @@ Actium as Book 1 content · SIDE-1 solution-as-Ides-cause · romance-for-spice �
 |--------|------|
 | **LEN-1** (canon soft: 90–130k) | Aspirational scale if *story* needs rooms — **not** a completion gate |
 | Intermediate ~55–70k | Former first-wave landing band — **not** a quota |
-| Current ~79k reading words | Prologue, Ch 1–36 and insert Ch 26 on main after T8 (2026-10-24): T9, T11, T12, S3, S4, S5 and T8 landed; T10 and T13 not yet. Plan in the Claude Doc “Book 1: updated plan” |
+| Current ~90k reading words | Prologue and Ch 1–36 on main (2026-10-24), after Phases 2–3 (T8–T13, S1–S5, the Ch 36 endings) and the renumbering pass. Plan in the Claude Doc “Book 1: updated plan” |
 
 **Length does not dictate content.** Story-completion for the *expansion phase* is the stopping rule below — not proximity to either band.
 
