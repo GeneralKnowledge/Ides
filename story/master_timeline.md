@@ -40,6 +40,9 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | 15 Mar | Assassination | H | Info chaos |
 | 16–17 Mar | Amnesty negotiations | H | Elite bargaining |
 | ~20 Mar | Will + funeral | H | Public turns |
+| Mid-Apr | Trebonius leaves Rome for Asia before dawn | H | Ch 21 SC-60a (T10) |
+| Apr | Altar and column on the pyre site; the false Marius killed on Antony’s order; with Antony in Campania, Dolabella pulls the column down | H | Ch 21 SC-60b (Nysa) |
+| 1 May | Cicero: *O my wonderful Dolabella* (*Att.* 14.15) | H | Ch 21 SC-60c |
 | Apr–May | Octavian returns; name taken; Pompey’s gardens: Antony refuses Caesar’s money, Octavian sells Velitrae land | H | Ch 22 (SC-63b); T9 plant |
 | Spring | Nysa takes the Carinae bow and serves in Antony’s house | F | Ch 23; T11 plant |
 | Jun | Antony’s law gives him Cisalpine + Macedonian legions | H | Ch 26 (Decimus) |
@@ -56,7 +59,8 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | When | Event | Type | Info note |
 |------|-------|------|-----------|
 | 1 Jan | Hirtius and Pansa consuls; Octavian given praetor’s command | H | Ch 27 (Curia threshold) |
-| Jan | Trebonius killed at Smyrna by Dolabella | H | Reported Ch 32; T10 will dramatise |
+| Jan | Trebonius killed at Smyrna by Dolabella | H | Ch 27a SC-74a (Amyntas) |
+| Early Mar | *Phil.* 11; Dolabella declared a public enemy | H | Ch 27a SC-74b |
 | Feb | Senate confirms Brutus in Macedonia, Illyricum and Greece (*Phil.* 10) | H | Ch 25a SC-69b |
 | Mar | Gaius Antonius surrenders Apollonia; Brutus spares him | H | Ch 25a SC-69b (T8) |
 | Summer | Gaius works on the legions; moved to a ship under guard; Cicero urges his death | H | Ch 32 SC-88b (recalled) |
@@ -67,7 +71,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | 24 May | Decimus writes it to Cicero from Eporedia (*Fam.* 11.20) | H | Ch 29 |
 | May | Lepidus’s legions let Antony into their camp | H | Ch 29 |
 | Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 SC-82 (Decimus) |
-| Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 (reported); T10 will dramatise |
+| Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 SC-87a (Amyntas) |
 | Jul | Four hundred centurions to the Senate; Cornelius’s sword (Suet. *Aug.* 26) | H | Ch 29 SC-83 |
 | Late Jul–Aug | Rubicon; African legions defect; Cornutus’s suicide; Atia and Octavia at the Vestals’; Cicero greets him last (App. *BC* 3.88–93) | H | Ch 29 SC-83 |
 | 19 Aug | Octavian consul at nineteen with Pedius; vultures; Pedian court condemns the assassins | H | Ch 29 SC-83 (S5) |

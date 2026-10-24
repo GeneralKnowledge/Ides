@@ -14,6 +14,8 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
 | **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 29 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
 | **Octavia** | Octavian’s sister, 26; Ch 29 at the Vestals’; Ch 31 receives the women | Uses his old name | Political schemer in Book 1 |
+| **Dolabella** | Consul 44 after Caesar; pulls down the column (Ch 21); Cicero’s ex-son-in-law (Tullia); Smyrna (Ch 27a); dies at Laodicea by his Gaul’s sword (Ch 32) | Handsome flushed face, very good teeth; scarlet cloak; charming letters about the dowry | Given a POV; a speech at his death |
+| **The false Marius** | Claims to be Marius’s grandson; leads the altar cult; killed without trial on Antony’s order (Ch 21) | Fine voice, good beard, growing pedigree | Named Amatius or Herophilus in narration |
 | **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 25a); works on the legions, the ship, killed early 42 (Ch 32) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
 | **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 25a); carries out the order (Ch 32); killed after Philippi (Ch 34) | Can count; “My sister got all the courage” | Brave |
 | **Marcus Cicero** (son) | Twenty-one in Athens; cavalry; takes Piso’s legion (Ch 25a) | Toga on the wrong shoulder; drinking at the eighth hour | Comic only |

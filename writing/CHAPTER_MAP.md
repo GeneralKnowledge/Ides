@@ -56,7 +56,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 21 | SC-60, SC-61 | CIC, BRU | Letters; Lanuvium cage |
+| 21 | SC-60, SC-60a–c, SC-61 | CIC, CAS, F1, BRU | Letters; Trebonius leaves; the column; *wonderful Dolabella* (T10); Lanuvium cage |
 | 22 | SC-62, SC-63, SC-63b | OCT/CIC, ANT, OCT | **Name Caesar**; Antony underestimates; Pompey’s gardens refusal (T9) |
 | 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
@@ -64,6 +64,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 25a | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8). Insert until the renumbering pass |
 | 26 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
 | 27 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
+| 27a | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10). Insert until the renumbering pass |
 
 ---
 
@@ -75,7 +76,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 29 | SC-82, SC-83 | DEC, OCT | Isolation; Cularo; the march on Rome and the consulship |
 | 30 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
 | 31 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
-| 32 | SC-87, SC-88, SC-88b | CAS, BRU | Extraction; liberty brand crack; Gaius Antonius’s death ordered (T8) |
+| 32 | SC-87a, SC-87, SC-88, SC-88b | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8) |
 | 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |
 | 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); lean SERIES-1 hooks |
 

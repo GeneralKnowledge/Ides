@@ -186,7 +186,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Direction change | 24 | Trebonius leaves for Asia; last market-day talk with Cassius |
 | Payoff | new 27a, 27, 32 | Smyrna (Jan 43) through Amyntas; Dolabella declared enemy (Phil. 11); Laodicea, Dolabella’s death as a scene |
 
-**Status 2026-10-24: not landed.** The Ch 21 and Ch 24 plants and the Ch 32 summary lines (Smyrna, Laodicea) are in prose; the new 27a scene is still planned.
+**Landed 2026-10-24:** Ch 21 SC-60a (Trebonius leaves, Cassius POV), SC-60b (the column, Nysa), SC-60c (*wonderful Dolabella*, Cicero); new Ch 27a SC-74a (Smyrna, Amyntas) and SC-74b (*Phil.* 11, Cicero); Ch 32 SC-87a (Laodicea, Amyntas). **Placement changes:** Trebonius’s departure moved from Ch 24 to Ch 21 (he left Rome in April 44, *Att.* 14.10); *Phil.* 11 sits in 27a, not Ch 27, which ends at the Kalends of January.
 
 **Intersects:** A (spare-Antony paid by another Caesarian); T1 (Nysa’s grief finds a place)  
 **Sources:** Cicero *Att.* 14.15–16, *Phil.* 1.5, 11; Appian *BC* 3.2–3, 3.26, 4.60–62; Dio 47.29–30.  
