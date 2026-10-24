@@ -196,7 +196,7 @@ One packet came back before dusk.
 
 The seal was broken. The wax had been thumb-smeared and pressed again badly: an insult, not a forgery. Across the top margin someone had scored a short line with a knife-point, deep enough to scar the wood beneath. No sentence. Only the mark. A smear of something that might have been wine or might have been worse.
 
-The friend, still in the atrium, went pale. “That is not literary criticism.”
+The friend, still in the atrium, went pale and said nothing.
 
 Cicero held the scarred tablet until his fingers stopped pretending to be steady. He thought of Atticus, of audiences, of the Capitol’s first day enlarged by memory. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
 

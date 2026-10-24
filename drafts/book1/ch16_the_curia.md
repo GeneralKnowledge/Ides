@@ -141,15 +141,11 @@ The name *Antony* snagged. Nysa did not see Antony. She saw a gap where a large 
 
 “Opened him how?” said a third, a baker with flour to the elbows and a morbid appetite.
 
-“Like a fish,” said the first freedman, who had never seen a fish opened but had a gift for anatomy.
+“Like a fish,” said the first freedman.
 
 Nysa’s mouth moved before her caution did. “Antony is dead?”
 
 “Dead as the dictator,” the first freedman said, happy to be source. “Tell them in the Subura before the bakers’ rumour cleans it.”
-
-“I am the bakers,” said the third man, wounded.
-
-“Then clean it faster,” said the second.
 
 She ran because standing still made you a witness, and witnesses were questioned. The wax fragment under her tunic knocked against her ribs. A second heart that had failed earlier and wanted usefulness now.
 

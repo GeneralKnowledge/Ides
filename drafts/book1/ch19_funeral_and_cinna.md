@@ -35,7 +35,7 @@ Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached 
 
 “You are doing both.”
 
-“It is a very efficient funeral.”
+Antony did not answer that.
 
 The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. Antony’s marshals had a pyre waiting out on the Campus. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, a grey Gallic-war veteran who had watched towns burn from the wrong side, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
 
@@ -142,8 +142,6 @@ Nysa was pinned in a side street’s mouth when the mob found a man who answered
 “I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. I am Helvius, not Cornelius, I am…”
 
 “Then you are a poet who killed him,” someone said, with the terrible logic of the afternoon.
-
-The mob didn’t do literary criticism.
 
 Nysa saw the first stone. She didn’t see the last. She saw enough to understand the lesson Phileros would never teach: information didn’t have to be true to kill. It only had to move faster than a face.
 

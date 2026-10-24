@@ -98,7 +98,7 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 “The room agrees with me.”
 
-“The room has no choice, master. It is a very polite room.”
+“The room has no choice, master.”
 
 He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were lamp oil. Lamp oil could also burn.
 
