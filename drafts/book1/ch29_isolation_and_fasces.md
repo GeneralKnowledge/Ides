@@ -1,6 +1,6 @@
 # Chapter 29: Isolation and Fasces
 
-**Scenes:** SC-82, SC-83 · summer 43 · A10 end / A12 prep · C1 / C5
+**Scenes:** SC-82, SC-83 · late Apr–autumn 43 · A10 end / A12 prep · C1 / C5
 
 ---
 
@@ -19,6 +19,12 @@ Decimus left Mutina after the relief had made the wall honest again. Hirtius’s
 He looked for a destination mark on the itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing. Antony, bleeding but unbroken, was already sliding toward friends Decimus could not buy.
 
 Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady, gates held, honour intact. He stopped mid-sentence when his hand cramped. He didn’t send a second copy.
+
+At Eporedia, at the foot of the Alps, in the last week of May, Segulius Labeo rode in with the dust of the boy’s camp still on him and ate Decimus’s bread as if he had been invited. Labeo went everywhere. That was his use. Over the second cup he told Decimus that he had been with young Caesar, that they had talked a great deal about Cicero, and that the boy had no complaint against Cicero at all, none, except for one saying that was going about.
+
+“*Laudandum adulescentem,*” Labeo said, “*ornandum, tollendum.*” He waited for Decimus to laugh. Decimus didn’t. “The boy says he has no intention of being lifted,” Labeo added. “In either sense.”
+
+That night Decimus wrote it to Cicero exactly as he had heard it, with Labeo’s name, because a man in his position could not afford to soften news for an old man’s feelings. He wrote that the veterans were talking too, that they believed Cicero meant them harm, and that the boy’s soldiers were not a mood to be joked with. He asked again for money. He did not write what he thought, which was that the best tongue in Rome had found the one word in Latin that could not be taken back, and spent it at dinner.
 
 Plancus came after all, in June, when Antony had already walked into Lepidus’s camp. He brought legions and compliments and pitched beside Decimus under the Alps at Cularo, and for a summer the two armies ate the same valley bare and wrote the same letters to Rome asking for the boy to be sent north. The boy did not come. In August letters began arriving for Plancus from Pollio in Spain, under seals Decimus was not shown. In September Plancus took his legions over to Antony with the same apologetic face he had worn arriving, and Decimus’s own recruits, raw and unpaid, began walking off by the hundred.
 
@@ -66,6 +72,16 @@ Octavian entered the politics of force with hands that still remembered shaking 
 
 A courier brought the Senate’s thanks for Mutina, and the thanks were not for him. The fathers had voted Decimus a triumph and handed him the dead consuls’ legions, the Martians among them, to chase Antony up the road. Octavian was to be thanked and left behind. He read the decree once and gave it to Agrippa, who read it twice.
 
+Segulius Labeo came to dinner in the camp that month, because Labeo came to dinner everywhere, and brought a saying with him the way other guests brought a jar. He told it at the end of the meal, in front of the tribunes, and watched Octavian’s face while he told it. *Laudandum adulescentem, ornandum, tollendum.* Praise the young man, honour him, lift him up. Lift him off.
+
+The tribunes laughed and then stopped, unsure whether they were allowed. Agrippa did not laugh at all.
+
+“Which way does he mean it?” Octavian asked.
+
+“All three, I should think,” said Labeo. “That’s the art.”
+
+Octavian turned his cup a quarter turn on the table. “Tell your friends I have no intention of being lifted. In either sense.” He said it pleasantly. Labeo went away pleased with the answer, which he would carry to the next table, and Octavian sat on after the others had gone with the three verbs going round in his head in their order, like coins being counted, and found that he could not make the last one come out as only a joke.
+
 “They will say you let Antony get away,” Agrippa said.
 
 Octavian’s throat tightened once, shame or fever; he didn’t sort it. He looked at the pay chests, not at Agrippa’s face. “Then we pay before we argue. Men who are owed invent worse stories than senators do.”
@@ -94,4 +110,5 @@ By autumn a courier brought Decimus’s end as three incompatible stories. Ditch
 - **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come (joins in June, deserts in September; time jumps in the prose); a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech.
 - **SC-83:** the consulship (Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse; consul’s chair wants forty-two years, he has nineteen; a centurion’s sword on the Curia steps (“If you will not make him consul, this will”, Suet. *Aug.* 26) reported to the pay line; the fasces as twelve lictors whose rods move the street. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death (Sept 43) reaches him after the fasces, as the push to Bononia; Bononia comes as a two-seal invitation to the river island.
 - **Plants → pays:** Ch 26 aide on Lepidus; the Bononia table (Ch 30).
+- **T12:** May 43, Labeo tells the saying at dinner in Octavian’s camp; Octavian: “no intention of being lifted. In either sense”; the last verb won’t come out as only a joke. Late May, Eporedia: Labeo repeats saying and answer to Decimus, who writes it to Cicero with Labeo’s name, the veterans’ talk, and another request for money (*Fam.* 11.20, 24 May 43).
 - **Must not:** Lepidus is not the sole killer; no Augustus mind. Not re-glossed: the Martians, the Liberators.
