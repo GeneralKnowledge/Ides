@@ -40,7 +40,7 @@ Drafting unread speeches; folding immortality scraps; answering Cassius with mea
 | Setup | 4, 7–8 | Clemency refuse; disclosure resist; group inch |
 | Pressure | 9, 13 | Spare Antony; GO under creditor cough |
 | Choice | 16–17 | Curia blow; Capitol linger; *libertas* fails to choir |
-| Cost | 21, 25, 32 | Lanuvium cage; purity refuse; *EID MAR* crack |
+| Cost | 21, 25, 25a, 32 | Lanuvium cage; purity refuse; Gaius spared in Caesar’s warm voice; *EID MAR* crack; the order to Hortensius, no warmth |
 | End | 34 | Cleaner-hill refuse; unarranged death |
 
 ## Behavioral tells

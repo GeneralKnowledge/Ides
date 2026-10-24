@@ -148,6 +148,8 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Travel | 32 | Gaius works on the legions; moved to a ship under guard; Cicero urges death |
 | Payoff | 32, 34 | After Cicero’s and Decimus’s deaths Brutus orders Hortensius to kill him; Antony kills Hortensius on his brother’s grave |
 
+**Landed 2026-10-24:** Ch 25a SC-69a (Athens: statues, Marcus Cicero, Horace, Hortensius) and SC-69b (Apollonia: Gaius spared, Caesar’s warmth, the stopped hand); Ch 32 SC-88b (the cedar box, the mutiny, the ship, the order); Ch 34 SC-93 (Antony’s cloak on Brutus; “Take him to my brother”).
+
 **Intersects:** A (clemency as soft chain, Ch 1/4 reversed); B (Antonian family revenge)  
 **Sources:** Plutarch *Brutus* 24–28, *Antony* 22; Cicero *Ad Brutum*.  
 **Must not:** make Brutus a hypocrite by narration; the cost is felt, not argued.

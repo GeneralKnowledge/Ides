@@ -45,6 +45,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Jun | Antony’s law gives him Cisalpine + Macedonian legions | H | Ch 26 (Decimus) |
 | Jul | Victory games; comet; Antony blocks the golden chair | H | Ch 25 (SC-68c, Nysa); comet stays ambiguous |
 | Late Aug | Brutus sails east; Cassius later | H | Ch 25; EXIT-1 |
+| Autumn | Athens: Brutus’s statue beside the tyrant-killers; Marcus Cicero and Horace take commands; Hortensius hands over Macedonia | H | Ch 25a SC-69a (T8) |
 | Sept onward | Philippics | H | Ch 25 |
 | Oct | Brundisium: 100 denarii laughed at, centurions executed; Casilinum: Octavian pays 500 | H | Ch 26 (SC-70a, SC-70b) |
 | 10 Nov | Octavian’s march on Rome fails; veterans go home; Arretium | H | Ch 26 (SC-70c) |
@@ -56,6 +57,9 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 |------|-------|------|-----------|
 | 1 Jan | Hirtius and Pansa consuls; Octavian given praetor’s command | H | Ch 27 (Curia threshold) |
 | Jan | Trebonius killed at Smyrna by Dolabella | H | Reported Ch 32; T10 will dramatise |
+| Feb | Senate confirms Brutus in Macedonia, Illyricum and Greece (*Phil.* 10) | H | Ch 25a SC-69b |
+| Mar | Gaius Antonius surrenders Apollonia; Brutus spares him | H | Ch 25a SC-69b (T8) |
+| Summer | Gaius works on the legions; moved to a ship under guard; Cicero urges his death | H | Ch 32 SC-88b (recalled) |
 | 14 Apr | Forum Gallorum; Pansa wounded; Hirtius’s dusk counterstroke | H | Ch 28 SC-79 (Laberius) |
 | 21 Apr | Mutina; Hirtius killed; Pansa dies after | H | Ch 28; poison rumour **C** (AMB-2) |
 | 20 Apr | True news of Forum Gallorum; crowd carries Cicero to the Capitol and the Rostra | H | Ch 28 SC-81b (recalled) |
@@ -79,10 +83,12 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 ## 42 BC
 | When | Event | Type | Info note |
 |------|-------|------|-----------|
+| Early | News of Cicero’s death reaches Brutus; he orders Hortensius to kill Gaius Antonius | H | Ch 32 SC-88b (T8) |
 | Early | Hortensia speaks at the triumvirs’ tribunal; the women’s tax cut from 1,400 to 400 | H | Ch 31 SC-86c (Nysa) |
 | Campaign | Eastern extraction; *EID MAR* coin | H | Ch 32 |
 | Oct (first battle) | Philippi I; Cassius’s death | H | Ch 33 |
 | Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 34 |
+| After | Antony’s cloak over Brutus; Hortensius sent to die at Gaius’s grave (Plut. *Ant.* 22) | H | Ch 34 SC-93 (T8) |
 | After | Division of the world; land promises | H | Ch 34; sequel hooks |
 
 ---

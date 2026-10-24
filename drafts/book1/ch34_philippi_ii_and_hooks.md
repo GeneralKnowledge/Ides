@@ -72,6 +72,26 @@ Antony drank the win without sweetness.
 
 Dust still lived in his teeth; wine only moved it around. “We divide,” he said. “I take the East. It has the money and it is coughing blood. The boy takes Italy and the veterans.” An officer asked after Lepidus. “Lepidus keeps Africa,” Antony said, “if it turns out he has not been writing letters to Sextus Pompey.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies.
 
+They had found Brutus in the morning, on the hill, with his own men’s cloaks under him. Antony had gone up to look. He had not expected to want to, and had wanted to, and had stood over the body a long time while the officers waited further down the slope, and then he had taken off his own cloak, the general’s purple, and laid it over the dead man from the chin down. He had told a freedman to see him burned properly and the ashes sent to his mother. He did not explain it to the officers. He was not sure he could have.
+
+Then the prisoners. Most of them were nobody, and he let the boy’s people have them, because the boy wanted names and Antony wanted dinner. One of them he asked for.
+
+They brought Hortensius in with his hands tied in front of him and his good toga gone and a soldier’s cloak over his shoulders that somebody had given him out of pity. The orator’s son. He had his father’s looks still, a little, under the dirt.
+
+“You held the ship,” Antony said.
+
+Hortensius did not pretend not to understand. “I had the order from Brutus.”
+
+“I know you had the order.” Antony turned his cup. The officers had gone quiet. “I asked whether you held the ship.”
+
+“Yes,” said Hortensius.
+
+Gaius had been killed in the spring, quickly, without insult, as the order said, and his servants had buried him in a manner fitting his rank, in a tomb by the road on the coast, and the news had come to Antony in Italy in a letter he had read standing up and then put in the brazier. He had not wept at the time. He had had the lists to finish. He found now, with the man in front of him who had done it, that the tears were still waiting, and that he did not intend to let them out in front of officers.
+
+“Take him to my brother,” he said. “Do it there. On the stones.”
+
+Nobody asked whether he meant the coast, which was a long way off, or whether he would be content with something nearer and quicker and a stone that would do. Antony did not tell them. Hortensius looked at him a moment longer, with his father’s eyes, and then the soldiers took him out, and Antony drank, and the officers began, carefully, to talk about the East.
+
 A tribune mentioned Italian land assignments, farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
 By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains until it bills you in veterans who know which farms have owners.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
@@ -102,6 +122,7 @@ He left the tablet open on the counter. Soldiers would want farms, and every far
 
 ## Continuity
 - **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook.
+- **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
 - **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The officer’s Italy line, which Antony hears and laughs off; the open wax.
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0).
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).

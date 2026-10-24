@@ -32,6 +32,8 @@ EXPORTS = ROOT / "exports"
 FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-34.docx"
 CHAPTER_COUNT = 34
 # Optional prologue before Chapter 1, header "# Prologue: Title"; parsed as number 0.
+# Inserted chapters (ch25a_*.md, "# Chapter 25a: Title") sit after their base
+# chapter until the one renumbering pass; at most one letter per insert.
 PROLOGUE = DRAFTS / "prologue_utica.md"
 
 ACTS = [
@@ -114,14 +116,45 @@ def source_stamp(files: list[Path]) -> dict[str, str]:
     }
 
 
-def chapter_files() -> list[tuple[int, Path]]:
-    """Chapter files sorted by chapter number."""
+class ChapNum(int):
+    """Chapter number with an optional insert letter: 25a sorts after 25."""
+
+    def __new__(cls, n: int, suffix: str = "") -> "ChapNum":
+        obj = super().__new__(cls, n)
+        obj.suffix = suffix
+        return obj
+
+    def key(self) -> tuple[int, str]:
+        return (int(self), self.suffix)
+
+    def __eq__(self, other: object) -> bool:
+        return self.key() == (other.key() if isinstance(other, ChapNum) else (other, ""))
+
+    def __ne__(self, other: object) -> bool:
+        return not self == other
+
+    def __hash__(self) -> int:
+        return hash(self.key()) if self.suffix else int.__hash__(self)
+
+    def __str__(self) -> str:
+        return f"{int(self)}{self.suffix}"
+
+    __format__ = lambda self, spec: format(str(self), spec)
+
+
+def chapter_files() -> list[tuple[ChapNum, Path]]:
+    """Chapter files sorted by chapter number, inserts after their base."""
     out = []
-    for p in sorted(DRAFTS.glob("ch*.md")):
-        m = re.match(r"ch(\d+)_", p.name)
+    for p in DRAFTS.glob("ch*.md"):
+        m = re.match(r"ch(\d+)([a-z]?)_", p.name)
         if m:
-            out.append((int(m.group(1)), p))
-    return sorted(out)
+            out.append((ChapNum(int(m.group(1)), m.group(2)), p))
+    return sorted(out, key=lambda t: t[0].key())
+
+
+def expected_heads(nums: list[ChapNum]) -> list[str]:
+    """Chapter headings in reading order: 1..CHAPTER_COUNT plus any inserts."""
+    return [str(n) for n in nums]
 
 
 def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
@@ -130,11 +163,11 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
     lines = text.splitlines()
 
     m = re.match(
-        rf"#\s+Chapter\s+(\d+){_TITLE_SEP}(.+)", lines[0].strip()
+        rf"#\s+Chapter\s+(\d+)([a-z]?){_TITLE_SEP}(.+)", lines[0].strip()
     )
     pm = re.match(rf"#\s+Prologue{_TITLE_SEP}(.+)", lines[0].strip())
     if m:
-        num, title = int(m.group(1)), m.group(2).strip()
+        num, title = ChapNum(int(m.group(1)), m.group(2)), m.group(3).strip()
     elif pm:
         num, title = 0, pm.group(1).strip()
     else:
@@ -323,12 +356,17 @@ def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]])
 def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, str]]]]]:
     files = chapter_files()
     nums = [n for n, _ in files]
-    if nums != list(range(1, CHAPTER_COUNT + 1)):
-        raise SystemExit(f"Expected chapter files 1–{CHAPTER_COUNT} once each, got {nums}")
+    base = [int(n) for n in nums if not n.suffix]
+    if base != list(range(1, CHAPTER_COUNT + 1)) or len(set(nums)) != len(nums):
+        raise SystemExit(
+            f"Expected chapter files 1–{CHAPTER_COUNT} once each, got {[str(n) for n in nums]}"
+        )
     chapters = [parse_chapter(p) for _, p in files]
     for (n, p), (num, _, _) in zip(files, chapters):
         if n != num:
             raise SystemExit(f"{p.name}: filename says Ch {n}, header says Ch {num}")
+        if num.suffix and ChapNum(int(num)) not in nums:
+            raise SystemExit(f"{p.name}: insert Ch {num} has no base Ch {int(num)}")
     if PROLOGUE.exists():
         pro = parse_chapter(PROLOGUE)
         if pro[0] != 0:
@@ -388,8 +426,8 @@ def check(path: Path) -> int:
         problems.append("title page does not carry the source digest")
 
     # Chapters appear once each, in order.
-    heads = [int(m.group(1)) for r in got if (m := re.fullmatch(r"Chapter (\d+)", plain(r)))]
-    if heads != list(range(1, CHAPTER_COUNT + 1)):
+    heads = [m.group(1) for r in got if (m := re.fullmatch(r"Chapter (\d+[a-z]?)", plain(r)))]
+    if heads != expected_heads([c[0] for c in chapters if c[0] != 0]):
         problems.append(f"chapter headings out of order or repeated: {heads}")
 
     # Nothing omitted or duplicated (multiset), then exact sequence and italics.
@@ -418,8 +456,10 @@ def check(path: Path) -> int:
         for p in problems[:40]:
             print("  " + p)
         return 1
+    extra = [str(c[0]) for c in chapters if getattr(c[0], "suffix", "")]
+    inserts = f" (+ inserts {', '.join(extra)})" if extra else ""
     print(
-        f"OK: {path.name} · {CHAPTER_COUNT} chapters once, in order · "
+        f"OK: {path.name} · {CHAPTER_COUNT} chapters once{inserts}, in order · "
         f"{len(body)} reading paragraphs match the manuscript · no leaks\n"
         f"    {cp.comments}"
     )

@@ -14,6 +14,10 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
 | **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 29 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
 | **Octavia** | Octavian’s sister, 26; Ch 29 at the Vestals’; Ch 31 receives the women | Uses his old name | Political schemer in Book 1 |
+| **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 25a); works on the legions, the ship, killed early 42 (Ch 32) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
+| **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 25a); carries out the order (Ch 32); killed after Philippi (Ch 34) | Can count; “My sister got all the courage” | Brave |
+| **Marcus Cicero** (son) | Twenty-one in Athens; cavalry; takes Piso’s legion (Ch 25a) | Toga on the wrong shoulder; drinking at the eighth hour | Comic only |
+| **Horace** | Freedman’s son from Venusia; Brutus’s tribune (Ch 25a) | Laughs a beat early; “bad verse, so far” | Wink at the later poet |
 | **Q. Pedius** | Fellow consul, 19 Aug 43; another grandson of Caesar’s sister; his law sets the court | Elderly; coughs | Rival to Octavian |
 | **Cornelius** (centurion) | Leads the deputation, Jul 43 (Suet. *Aug.* 26) | Scar through one eyebrow; throws back his cloak | Ordered by Octavian on the page |
 | **Cornutus** | Urban praetor; falls on his sword when the African legions defect | Reported only | Given a scene |
