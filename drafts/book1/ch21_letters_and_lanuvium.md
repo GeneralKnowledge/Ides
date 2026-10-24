@@ -252,6 +252,24 @@ The clerk’s smile died. “Without your name the tablet is nothing we can show
 
 The clerk left without clasping arms. Before supper the steward returned from the neighbouring town’s market with flour and a report that cost more than flour. Two clients who had meant to sleep at Lanuvium had already turned back, told at the gate there that Brutus’s house would not shield them. One refusal had made his name a local absence by nightfall. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
 
+At dusk Porcia walked the gravel with him. She still favoured the leg a little. She had told the Lanuvium doctor it was an old fall, and he had believed her, because she said it the way she said everything.
+
+“You never asked me about that morning,” she said.
+
+He had not. He had come home from the Capitol on the third day with the amnesty in his ears and his mother in the atrium, and there had been no room in the house for anyone’s morning but his own.
+
+“I couldn’t sit,” Porcia said. “After you went out. I sent a boy to the theatre to tell me when you went in, and another to tell me when Caesar came, and then another, and they kept coming back with nothing, because Caesar didn’t come. I asked every one of them what you looked like. They said you looked like a praetor. I sent them back.” Her voice did not change. “At the fourth hour a boy came running and said Caesar had left his house at last, and I stood up, and the floor came up at me. My women said afterwards I was gone for a long time. Long enough that they began the wailing. Long enough that somebody sent a boy to the theatre to tell you I was dead.”
+
+Brutus stopped walking.
+
+He remembered. He had not let himself remember. A slave of his own household at the edge of the porch, white as a sheet, and the words said in his ear, *the mistress*, *dead*, and Cassius’s face turning toward him, and his own voice saying something steady. He had stayed. He had stood in the porch with the others and waited for Caesar, and in the space of perhaps a hundred breaths he had decided, without deciding, that his wife was dead and that it did not change the morning. Then Caesar’s litter had come into the square, and there had been no more room in him for anything.
+
+He had been told by nightfall that she was alive. He had been glad. He had not thought about the hundred breaths since.
+
+“I know you stayed,” Porcia said. “They told me.” She looked at him in the last light, Cato’s look, clear and unforgiving and not unkind. “I would have stayed too. That is not what I wanted to say. I only wanted you to know that I was there, on the floor, while you were there. In case you thought it was only you who had a morning.”
+
+She went in. Brutus stood on the gravel until the steward came out with a lamp to see if he wanted one.
+
 He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period. He still had a view, and fewer doors that would open if he knocked.
 
 Through the gate: hills, and beyond them a name war beginning without him, while a neighbouring town filed his silence under *unavailable*.
@@ -259,7 +277,7 @@ Through the gate: hills, and beyond them a name war beginning without him, while
 ---
 
 ## Continuity
-- **Knows / learns:** the Liberators bottled up in Latium; Cicero sees the gap in force through letters and objects. At Fundi, a neighbour and two couriers in one room: the coast road away from Antony’s Forum (Formiae, Puteoli next); the acts posted in bronze on the Capitol; the boy off the boat from Apollonia at Brundisium, now at Philippus’s villa on the Bay of Naples (the name-taking is Ch 22); the city praetor’s ten-nights excuse, moved by Antony. Wine-shop elders treat the boy as sport, and Brutus hears it echoed at Lanuvium (18 miles down the Appian Way). Cassius is at his own house nearer the coast. Brutus returns a purse unopened; a town clerk refuses his seal on a “liberty” record. Porcia, a steward and a client press him; a plan costs a refusal. His stylus stops before he finishes calling Caesar a tyrant.
+- **Knows / learns:** the Liberators bottled up in Latium; Cicero sees the gap in force through letters and objects. At Fundi, a neighbour and two couriers in one room: the coast road away from Antony’s Forum (Formiae, Puteoli next); the acts posted in bronze on the Capitol; the boy off the boat from Apollonia at Brundisium, now at Philippus’s villa on the Bay of Naples (the name-taking is Ch 22); the city praetor’s ten-nights excuse, moved by Antony. Wine-shop elders treat the boy as sport, and Brutus hears it echoed at Lanuvium (18 miles down the Appian Way). Cassius is at his own house nearer the coast. Brutus returns a purse unopened; a town clerk refuses his seal on a “liberty” record. Porcia, a steward and a client press him; a plan costs a refusal. **T13:** at dusk Porcia tells her Ides morning: boys sent to the theatre; at the fourth hour she fainted; the women began the wailing; a boy told Brutus in the porch she was dead (Plut. *Brut.* 15). He stayed through about a hundred breaths and has not thought of them since. “In case you thought it was only you who had a morning.” She tells the Lanuvium doctor the leg is an old fall. His stylus stops before he finishes calling Caesar a tyrant.
 - **SC-60a (Cassius, mid-April 44, T10):** Trebonius leaves for Asia before dawn from a posting station below Lanuvium (*Att.* 14.10); the market-day voice; on the Ides he talked with Antony about weather, his mother, a horse (“He thought I was being friendly.” “You were.” “That’s the part I think about.”). Dolabella, twenty-five, in debt, “I was at his wedding”; Smyrna has good walls. “We should have done him too.”
 - **SC-60b (Nysa, mid → late April 44, T10/T1):** altar on the pyre site; offerings; *To the father of his country*; the false Marius leads prayers and curses the men of the Ides. The Numidian column goes up (Suet. *Jul.* 85). Antony has Marius killed without trial; crosses and the Rock (App. *BC* 3.2–3), the thread woman’s son. With Antony in Campania, Dolabella pulls the column down in person; more crosses and the Rock (Cic. *Phil.* 1.5). Nysa stands on the pale square at dusk, then buys the oil.
 - **SC-60c (Cicero, 1 May 44, Puteoli):** *O my wonderful Dolabella* (*Att.* 14.15); Tiro: the dowry (third instalment overdue); Tullia married at twenty-eight, divorced while carrying his child, died at Tusculum Feb 45; copy of the paragraph sent to Dolabella.

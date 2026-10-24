@@ -36,7 +36,10 @@ Listening from colonnades; watching clerks ask for roofs; not wasting comfort.
 |-------|----------|------|
 | Setup/Pressure | 21 | Cage with a view; plan-as-debt |
 | Deposit | 21 D6 | 3-voice room (Porcia + steward + client) |
-| End | Book 1 | Pressure held; not softener of Philippi |
+| Proof | 13 | The thigh cut shown after GO; “Good.” (T13) |
+| Morning | 21 | Her Ides morning on the floor; “only you who had a morning” (T13) |
+| Parting | 25 | Velia: Andromache painting; Brutus refuses Hector’s loom line (T13) |
+| End | 32 | Dead in 43, manner open in three versions; Cicero’s consolation unread at the bottom of the box (T13) |
 
 ## Behavioral tells
 Leaves words like debts; silence as question; watches hands.

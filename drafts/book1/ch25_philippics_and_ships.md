@@ -1,6 +1,6 @@
 # Chapter 25: Philippics and Ships
 
-**Scenes:** SC-68c, SC-69, SC-68b (chrono: late July, late Aug, then autumn) · July–autumn 44 · EXIT-1 · Chain 6 / 8 seed
+**Scenes:** SC-68c, SC-68d, SC-69, SC-68b (chrono: late July, late Aug, then autumn) · July–autumn 44 · EXIT-1 · Chain 6 / 8 seed
 
 ---
 
@@ -67,6 +67,42 @@ Later, when the kitchen was dark, one of Fulvia’s women came down with a lamp 
 Nysa looked at the lamp and not at the woman. Then she told her the true number, the one she had counted twice.
 
 The woman nodded once, as if it matched something she already had, and took the lamp back up the stair. Nysa stood in the dark kitchen a while. It was the first time anyone in that house had asked her for the true one.
+
+---
+
+# SC-68d: Andromache
+
+POV: Brutus · Velia
+Date / place: Late Aug 44 · a friend’s house above the harbour, the night before sailing
+Canon refs: T13 · Plut. *Brut.* 23 · *Iliad* 6
+Info ENTER: Brutus leaving Italy; Porcia to go back to Rome · EXIT: The parting; Brutus will not say Hector’s line
+Overhear risk: Acilius; the household
+
+---
+
+The house they borrowed at Velia had a painting in the dining room, and Porcia stopped in front of it on the last evening and did not move.
+
+It was an old painting, Greek work, the colours gone soft with lamp smoke. A man in armour on a city wall, his helmet in his hand. A woman holding out a child to him. The child was frightened of the plume and had turned its face into the nurse’s shoulder. Everybody who had ever had a tutor knew who they were. Hector, going out to fight. Andromache, who knew he would not come back.
+
+Brutus saw his wife’s shoulders and knew she was crying, and did not go to her at once, because she would not have wanted to be seen being comforted. He waited by the door. In all the months of their marriage he had never seen her cry. Not at Lanuvium. Not on the morning of the Ides, when she had lain on the floor. Not when her leg was at its worst.
+
+Acilius, whose house it was, came in behind him, saw, and did what a well-read man does when he does not know what to do. He quoted.
+
+“*Hector, you are my father now, and my mother, and my brother*,” he said, softly, in Homer’s Greek. “*And my husband, young and strong.*”
+
+Porcia turned round. Her face was wet and perfectly composed.
+
+“Go on,” she said to Acilius. “The next part is Hector’s. Where he tells her to go back to the house and see to her loom and her maids, and leave the war to the men.” She looked at Brutus. “Go on. Somebody say it.”
+
+Nobody said it. Acilius looked at his feet.
+
+Brutus came into the room. He looked at the painting, at the man on the wall with his helmet in his hand, and thought of the barber’s knife, and the fever in her hand in March, and her voice on the gravel at Lanuvium telling him she had been on the floor while he was in the porch.
+
+“I can’t give her Hector’s answer,” he said, to Acilius, because it was easier to say it to Acilius. “She hasn’t the body to carry a sword. That’s all. She has everything else.”
+
+Porcia did not thank him. She never thanked him for true things. She nodded once, and wiped her face with the heel of her hand like a girl, and went to see that the baggage for Rome was properly corded.
+
+In the morning she went north by road with her women, and he went down to the harbour, where Cassius was waiting to see him off and pretend he had not come to.
 
 ---
 
@@ -170,6 +206,7 @@ He slept poorly and woke eager. Eager men wrote faster than wise ones. He notice
 
 ## Continuity
 - **SC-68c (late July 44, T9):** Antony’s steward sends Nysa to count at the games for Caesar’s Victory. Matius’s edict boards (*Att.* 15.2); the gilded chair and crown turned back by a tribune in the aisle (App. *BC* 3.28; Antony absent, his men act); the boy only a still shape; a star at the eleventh hour in the north for seven evenings (Pliny *NH* 2.93–94). Its meaning stays open, in mouths only (a veteran’s “He watches”; a soul; kings die; weather; Nysa half hears “hair of the star”; see `writing/reference/octavian_games_comet.md`). Nysa gives the steward a small number (Antony laughs: underestimation fed by his own kitchen) and gives Fulvia’s silver-counting woman the true one.
+- **SC-68d (late Aug 44, Velia, T13):** the borrowed house of Acilius; the painting of Hector’s farewell; Porcia weeps for the first time Brutus has seen; Acilius quotes Andromache (*Iliad* 6); Porcia demands Hector’s loom line; Brutus: “I can’t give her Hector’s answer… She hasn’t the body to carry a sword… She has everything else” (Plut. *Brut.* 23). Next morning she goes north to Rome; he goes down to Cassius.
 - **SC-69 (late Aug 44, Velia):** Brutus sails for Athens; Cassius sees him off and stays (follows later). Brutus refuses early Asia receipts on deck (pay against purity); the mate and coil-boys laugh at “collecting”. Asia = the coast cities across the Aegean that paid Pompey, then Caesar; the factor is a Greek agent for three of them.
 - **SC-68b (autumn 44):** told after SC-69 (the Philippics postdate the sailing). Philippics paid in a friend’s question: Demosthenes against Philip, Antony as Cicero’s Philip. Antony attacks Cicero’s empty chair in the Senate (archers, the Ides blame), which is why copies, not a speech. A marked copy comes back as a risk to his body; the friend’s Demosthenes-poison jab.
 - **Plants → pays:** Fulvia as the sharp reader of the house; Asia tax (Ch 32); Demosthenes (Ch 11, 31); comet ambiguity (T9).
