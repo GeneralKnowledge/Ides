@@ -114,9 +114,9 @@ The courier said *Philippi* as if it were a receipt.
 
 Hordeonius was in a shop that no longer had an owner, pricing shelves for an auction the lists had paid for. Two Liberators dead. Antony to the East. The boy to Italy and the veterans. He wrote it down in the column where he kept weather.
 
-Under the counter his thumb found a debt mark scratched into the wood, a sum and a name he did not know. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
+He turned back a leaf for a clean line, and his thumb found his own hand instead: *Seius: lent*, and under it, in cipher, *Clean*, and behind both a Sabine farm that had been an old man’s birthplace. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
 
-He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
+He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. One of them carried his seal. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
 
 ---
 

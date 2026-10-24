@@ -345,10 +345,12 @@ def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]])
         r"Act5 ordeal|S-A\d|Gold dwell|Expansion D\d",
         re.I,
     )
+    # Planning codes used as scene headings: "F2: Seius", "Movement A: Antony", "(False)"
+    bad_heading = re.compile(r"^F\d:|^Movement [A-Z]\b|\((?:True|False)\)")
     leaks: list[str] = []
     for num, _title, blocks in chapters:
         for kind, text in blocks:
-            if bad.search(text):
+            if bad.search(text) or (kind == "scene" and bad_heading.search(text)):
                 leaks.append(f"ch{num}: {text[:100]}")
     if leaks:
         raise SystemExit("Craft metadata leaked into export body:\n  " + "\n  ".join(leaks[:20]))

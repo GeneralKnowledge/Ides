@@ -111,7 +111,7 @@ Brutus looked once more at the shape on the stones. Softness tried to rise in hi
 
 ---
 
-# SC-44: The Consul Is Dead (False)
+# SC-44: The Consul Is Dead
 
 POV: Nysa (F1)
 Date / place: Streets from Campus approaches → Forum fringe → Subura edge
