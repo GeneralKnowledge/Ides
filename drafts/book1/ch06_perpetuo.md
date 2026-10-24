@@ -1,6 +1,83 @@
 # Chapter 6: Perpetuo
 
-**Scenes:** SC-12, SC-14 (SC-13 folded) · early 44 · A3 · FS22 · G1/G2
+**Scenes:** SC-11b, SC-12, SC-14 (SC-13 folded) · late 45–early 44 · A3 · FS22 · G1/G2
+
+---
+
+# SC-11b: The First Praetorship
+
+POV: Brutus · Domus Publica, Caesar’s work room
+Date / place: Late December 45 · evening · Domus Publica
+Canon refs: Plut. *Brut.* 6–8 · *Caes.* 62 · Cic. *Att.* 14.1 (Nicaea) · Caesar’s *Anticato* (45) · pays Ch 7 SC-15 (Cassius has the junior praetorship)
+Info ENTER: Brutus and Cassius both want the city praetorship · EXIT: Brutus has it; Caesar’s warmth seen, not recalled; Cassius goes in after
+Overhear risk: Household high
+**G1:** Brutus POV; the one room Caesar and Brutus share before the Curia
+
+---
+
+The outer court of the Domus Publica was full of men pretending not to wait. Brutus knew most of them by the backs of their heads. Cassius stood by the cold brazier with his arms folded, the way he stood on a ship’s deck, and pretended nothing.
+
+“He’ll see you first,” Cassius said.
+
+“He sent for us both.”
+
+“He sent for us both at the same hour. That is a different thing.” Cassius looked at the door to the inner rooms. “Go on. I’ll warm the brazier with my temper.”
+
+A slave led Brutus through rooms that smelled of lamp oil and old priests. The chief priest of Rome lived in the house of its religion and kept his papers there like a general’s baggage. Caesar sat at a table under two lamps with lists spread in front of him, and his secretary Faberius at the far end copied names in a hand so small it looked like seed.
+
+“Marcus,” Caesar said, and stood, which he did not need to do. “Sit. You look like a man who has come to be sentenced.”
+
+“I have come to be told.”
+
+“In this house that is the same thing.” Caesar turned one of the tablets so Brutus could read it. Next year, written out: the consuls, the praetors, the provinces after. Brutus found his own name before he found the words beside it. *Praetor urbanus.* The city praetorship. The court in the Forum, the edicts, the games of Apollo in July. The first of the praetors, the one men remembered.
+
+Two lines below: *C. Cassius Longinus, inter peregrinos.* The praetor for foreigners. A Greek and a Gaul quarrelling over a cargo of hides.
+
+“Cassius has served longer,” Brutus said. He had promised himself on the walk over that he would say it, and he was relieved to hear that he had. “He held Syria after Carrhae with what was left of Crassus’s army. He beat the Parthians at Antigonea when nobody in Rome could have found it on a map.”
+
+“I know. I have read his letters. He writes them as if the Senate were a slow schoolboy.” Caesar took the stylus from Faberius, looked at the tablet, and handed it back. “Cassius has the juster claim. But Brutus must have the first.”
+
+Faberius wrote nothing. It was already written.
+
+Brutus waited to be sent away, and was not. Caesar called for wine and then forgot to drink it. He asked about Cisalpine Gaul, where Brutus had governed the year before, and listened to the answer, which was rare enough in Rome that Brutus caught himself talking too long. Caesar had ridden through the province on his way home from Spain and found the towns grateful instead of merely afraid, and he said so, and named two of the towns correctly.
+
+“And you have been writing,” Caesar said.
+
+“A little.”
+
+“A little. Your *Cato* reached me in Spain. So did Cicero’s. I had a war to finish and two books telling me Cato was the last Roman, so I wrote back from camp.” He smiled. “You have read my answer?”
+
+“I have.”
+
+“It isn’t good. It’s angry, which is worse than bad. I lost my temper with a dead man, and the dead always win that.” He tapped the table. “Write me another and I will answer that too. We will keep the copyists fed.”
+
+Brutus laughed, and heard himself laugh, and could not take it back.
+
+Caesar talked about Nicaea, two summers gone, when Brutus had stood in front of him and spoken for King Deiotarus, who had backed Pompey and wanted to keep his kingdom anyway. “I sat there thinking, it matters a great deal what this young man wants. Because whatever he wants, he wants hard.” He meant it as praise. Brutus took it as praise, and only later, walking home, wondered who else had heard it said.
+
+Faberius trimmed the lamps and went back to his seed-small names. Two doors away the court was still waiting. Caesar talked about the dull things a man talks about at the end of a day: a leaking cistern, a horse gone lame at Narbo, a priest who could not be made to finish a sacrifice before noon. He asked after Porcia.
+
+“Is she as clever as her father?”
+
+“Cleverer. Less patient.”
+
+“Then you will do well, if she lets you.”
+
+When Brutus rose at last, Caesar walked him to the inner door with a hand on his shoulder. It had the same weight it had had at Larissa after Pharsalus, when Brutus came in out of the mud expecting chains and was given dinner.
+
+“People tell me things about you,” Caesar said at the door, lightly. He laid the flat of his hand on his own chest. “I tell them Brutus will wait for this poor body. He can afford to.”
+
+Then he was back at his lists, and Brutus was in the corridor with his face doing something he had not told it to do.
+
+Cassius was still by the brazier. He looked at Brutus once and unfolded his arms.
+
+“Well?”
+
+“He will tell you himself.”
+
+“He has already told me,” Cassius said. “You came out smiling.” He went past Brutus toward the inner rooms without waiting for the slave. The men in the court watched him go and then watched Brutus, and Brutus put the smile away too late for any of them to miss it.
+
+He walked home the long way, through the Forum, past the tribunal where in a few days he would sit as first praetor of Rome. The weight stayed on his shoulder the whole way. He tried to think of it as a debt, because a debt could be paid.
 
 ---
 
@@ -69,7 +146,7 @@ Canon refs: A3 aftermath · grievance seed · FS22
 Info ENTER: Bribe season memory · EXIT: Multi-year designations = grievance; Parthia clock priced
 Overhear risk: Medium
 **G1:** Second POV: collides with Cicero’s unfinished question (forever → dead calendar / East packing as market weather)
-**G2:** No third camera; former SC-13 Parthia crates folded into stall talk (FS22 held without F1 cut)
+**G2:** No extra camera for the crates; former SC-13 Parthia crates folded into stall talk (FS22 held without F1 cut)
 
 ---
 
@@ -95,25 +172,13 @@ Sosia grunted. “Crates don’t vote. Men with unpaid offices do.”
 
 Hordeonius entered *Parthia: packing noise* beside *offices: closed forward*. He had not seen the Domus service rooms. He did not need to. Packing talk reached stalls faster than straps found themselves. A house aiming at a horizon with a name was a rate change in laundry’s clothes.
 
-A third voice, two stools down, tried to sell another question as grain. “And the gardens across the river: if the foreign lodging holds, do the trees count as collateral, or only the leases men are already shopping?”
+He felt the market’s mood thicken. Thick markets made people invent virtues, and virtues priced wrongly became recruitment talk before anyone admitted the word.
 
-Sosia snorted into his cup. “Last month it was half-hours on roads and a boy with a schedule. Now it’s trees. Same river, worse arithmetic.”
-
-“Gardens are gardens,” Hordeonius said, mild as a rate sheet. “I price what a lease can move before the Kalends. I do not underwrite Alexandria on a dinner story.”
-
-He did not certify the child. He certified that the market had begun shopping the river as if trees could clear a debt. Enough for a banker who preferred Kalends to crowns.
-
-“Nobody says the queen’s name,” said the third voice, pleased with himself.
-
-“Nobody needs to,” said Sosia. “You have said the trees.”
-
-He felt the market’s mood thicken. Thick markets made people invent virtues. Virtues, priced wrongly, became recruitment talk before anyone admitted the word. Forever at the doorway. Dead calendars at the stall. Eastern crates counting months.
-
-“Watch,” the young agent said, already halfway to a darker room in his mind. Hordeonius marked him for interest, not for liberty.
+The young agent folded his tablet of names into his sleeve and went off toward the baths, where men who were not on the list had begun to meet in the side rooms. Hordeonius marked him for interest, not for liberty.
 
 ---
 
 ## Continuity
-- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. Queen and child talk comes back garbled at the stalls (gardens, hours, collateral), unconfirmed.
-- **Plants → pays:** Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
-- **Must not:** two POVs only. CLEO-1 held.
+- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. The gardens-across-the-river chorus was cut 2026-10-24; CLEO-1 rumour enters later.
+- **Plants → pays:** SC-11b (added 2026-10-24): Brutus gets the city praetorship over Cassius (“the juster claim”), paid in Ch 7 SC-15 and recalled at the Curia (Ch 16); the hand on the shoulder. Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
+- **Must not:** three POVs only (Brutus, Cicero, Hordeonius). CLEO-1 held. Caesar’s “this poor body” line is spoken once, here.

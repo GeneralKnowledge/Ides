@@ -1,6 +1,6 @@
 # Chapter 3: Debt
 
-**Scenes:** SC-03, SC-04 · late 46–45 · TONE-1
+**Scenes:** SC-03 (SC-04 cut 2026-10-24) · late 46–45 · TONE-1
 
 ---
 
@@ -78,56 +78,8 @@ Seius handed her the invented warmth first, then the true sum. She weighed both 
 
 ---
 
-# SC-04: Peace Rates
-
-POV: F4 Hordeonius · Janus / basilica
-Date / place: Same season · stalls near Janus medius
-Canon refs: Econ · FS11 · C9
-Info ENTER: Rates easing after Africa · EXIT: Spain unfinished; Sextus discount odd
-Overhear risk: Medium
-
----
-
-“Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is the month I lend at one in the hundred instead of two. Do not confuse it with virtue. Virtue does not clear.”
-
-He adjusted tablets with priestly care. Africa’s ending had softened some rates, the same *closed enough* the Forum had spit about while cake-sellers laughed. The western edges of the paper still burned enough to keep bakers polite.
-
-“The west?” said a man in the knot, as if it might be a district.
-
-“Spain,” said Hordeonius. “Pompey’s sons got out of Africa with ships, grudges and their father’s name, and Spain is full of old soldiers who still owe the father a favour. Caesar will have to go and finish it. Until he does, any loan with a Spanish edge smells of smoke.”
-
-The new-ring’s held rate still sat unpaid under yesterday’s wax: patriotism that had not cleared. Spain unfinished was not a rumour. It was a column that refused to settle. A baker’s agent wanted cheaper seed grain “now that Cato is philosophy.” Hordeonius priced the man’s hunger without insulting it. Insulting hunger was bad for repeat custom.
-
-Sosia, at his shoulder, muttered for the knot’s benefit, “Sea paper makes honest men seasick.”
-
-Hordeonius held a little sea paper and loved none of it. “A loan on a cargo,” he told the knot. “Repaid if the ship comes in, forgiven if Neptune keeps it. A bet that the sea pays its debts.”
-
-A client laughed, loud enough that two stalls looked over. “You talk as if the Republic were a warehouse.”
-
-“The Republic,” Hordeonius said solemnly, “is the only warehouse large enough to hold our greed without confessing it. I do not bet against Caesar. I bet against other men’s certainty. Certainty is expensive and usually wrong.”
-
-The baker’s agent snorted wine through his nose and had to wipe his chin on his sleeve. “Warehouse of greed, Jupiter. Write that on a cake.”
-
-“I will write it on your rate,” said Hordeonius, “which is the only cake I bake.”
-
-Hordeonius did not smile. Smiling would have spoiled the sale. He entered Seius’s fresh obligation among the morning’s new wax, small and neat, already growing interest, and ignored the courier from Puteoli until the knot thinned. Sosia had already read the man’s dust: the harbour road from Puteoli, where the Alexandrian grain ships tied up, so he knew a week ahead of the Forum whether Rome would eat. Sea-rumour dressed as numbers could wait. Laughter that bought a second cup could not.
-
-When the baker left clutching his rate like a blessing, Sosia waited until the man’s back was only a tunic in the crowd. “He’ll tell his wife you made a joke. You’ll become witty by accident again.”
-
-“Wit is a tax on clarity,” Hordeonius said. “I prefer clarity. Clarity clears.”
-
-A cake-seller from two stalls over (flour still on her forearms) leaned in with a question that wanted to be gossip and a price that wanted to be faith. “If Spain settles, do my boys eat cheaper seed, or do you invent another unfinished west?” Hordeonius priced her hunger the way he priced the baker’s: without insult, without prophecy. “When Spain settles, rates move. Until then I sell umbrellas for unfinished weather.” The cake-seller snorted once and bought the rate anyway.
-
-“The courier is still sweating,” Sosia said.
-
-“Let him. A ship that is late is only late. A ship that is announced early is a salesman.”
-
-“A man who needs a nod,” he added to the shelf, “will always pay for the story of the nod.” The shelf did not argue. That was why he liked it.
-
----
-
 ## Continuity
-- **Knows / learns:** Seius goes deeper into debt to Hordeonius. Naevius, the patron’s man, teaches the line (cough, exact hour, the nod) and places Seius as nephew of the real Marcus Seius, the cheap-grain aedile of 74 (Cic. *Off.* 2.58). Seia Prima is that man’s eldest daughter, a cousin marriage, which is why she wants the nod back. The borrowed sum is for the aedile canvass. Spain means Pompey’s sons and smoke on loan rates.
-- **Plants → pays:** Seius’s obligation to the patron, to be collected later; Spain-unfinished rates call back the Ch 2 street; Sextus at sea (FS11) only as a line of paper, to return when it prices a decision.
+- **Knows / learns:** Seius goes deeper into debt to Hordeonius. Naevius, the patron’s man, teaches the line (cough, exact hour, the nod) and places Seius as nephew of the real Marcus Seius, the cheap-grain aedile of 74 (Cic. *Off.* 2.58). Seia Prima is that man’s eldest daughter, a cousin marriage, which is why she wants the nod back. The borrowed sum is for the aedile canvass. Spain (Pompey’s sons) is carried by Ch 4 (Munda, SC-05/SC-06).
+- **Plants → pays:** Seius’s obligation to the patron, to be collected later. Former SC-04 (Hordeonius, peace rates) cut 2026-10-24; Spain and Sextus (FS11) now enter in Ch 4 SC-05/SC-06.
 - **Must not:** the real Marcus Seius stays offstage.
 - **Decisions:** 2026-10-23 (Reuben): the Seius family as above.

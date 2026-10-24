@@ -118,41 +118,57 @@ Pay would come later, if later existed: farms promised by dead men and living bo
 
 POV: Cassius · his hill/camp · M18 information kills
 Date / place: 3 Oct 42 · Cassius’s hill, few witnesses
-Canon refs: M18 · A14
+Canon refs: M18 · A14 · Plut. *Brut.* 43 · App. *BC* 4.113 (Titinius; the standard; the empty tent; his birthday)
 Info ENTER: Incomplete report · EXIT: Suicide on false belief
 Overhear risk: Few
 
 ---
 
-The messenger’s mouth was wrong before the words were.
+By noon Cassius had lost his camp.
 
-Dust made the man’s tongue thick; fear made it thicker. He had lost a sandal somewhere on the climb; one foot bled into the packed dirt of Cassius’s forward post. The map in Cassius’s head hungered for confirmation anyway. The first report said *lost* in a shape that matched Cassius’s worst sketch of the day. Standards gone. Wing broken. Brutus somewhere beyond the marsh and silent. Cassius’s hand found a tablet edge and gripped until the wax remembered his thumb.
+He had watched it go from the slope above the marsh. Antony’s men came up out of the reeds at the end of the causeway they had spent ten nights building, and the palisade went down in one place and then in three, and his tents were burning before the trumpets on his own side had finished arguing about what to sound. He took a standard from a man who was running past him and drove it into the ground at his feet. The man kept running. Now Cassius stood on a low hill above the ruin with a few officers, a handful of horse and Pindarus, and below him the plain was dust.
 
-“Say it again,” Cassius said. “Slower. Names. Directions. Which standard.”
+It was his birthday. The cook had said so at dawn, over the bread, and Cassius had told him to save it for the evening.
 
-The messenger tried. Names arrived missing: a century mark without a cognomen, a hill that might have been the left ditch. Directions softened into gestures at dust. A standard might have fallen or only dipped. Cassius made him point at the wax sketch of the sector. The finger landed between two lines and stayed there, trembling.
+“Brutus,” he said. Nobody answered, because nobody knew. The messengers who came up the slope had lost sandals and words on the climb. One said the left was gone. One said the right was. A third said there had been shouting somewhere north, which could have meant anything. Cassius made each of them point. Their fingers landed on different parts of the same dust.
 
-Cassius sent a runner down the reverse slope for a second count: cohort numbers, eagle sightings, anything with a body attached. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. Do the next countable thing while the uncountable arrives.
+“Numbers,” Cassius said. “Cohorts. Eagles. Anything with a body attached.”
 
-The runner came back empty-mouthed. No second count. Only another man who had heard the first yell secondhand and wanted to be useful by repeating it louder.
+There were no numbers. He sent a runner down the reverse slope for a count and the runner did not come back. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. His eyes had never been good at distance, and in glare they were worse. He had spent twenty years making other men’s reports clear enough to act on, and now he could not see the end of his own hill.
 
-“Brutus,” Cassius said. One clarifying question about the sector. The answer came as a shrug wearing words: *no word; marsh between; dust.*
+Then horsemen came out of the dust from the north, a troop of them, riding hard toward the hill.
 
-Cassius, who had trusted numbers, trusted a broken number because broken numbers still looked like numbers if you needed them enough to hate delay. Incomplete had always been his enemy in other men’s mouths. Now it lived in his own ears. He looked once toward the dust where Brutus might still be winning and saw only glare, nothing he could count, nothing he could punish.
+“Ours,” said one of the officers.
 
-He almost waited. Waiting was the mathematician’s virtue. Waiting here meant listening to more mouths invent geometry. He felt the old contempt for delay rise and catch on something softer: hope, or the habit of correcting clerks before they ruined a sum. For three breaths he held both. The incomplete report as a sum that would not clear. And the possibility that Brutus was still rearranging the other half of the plain without him.
+“Antony’s,” said another. “They’ve gone round the marsh.”
 
-The softer thing lost.
+Cassius looked for a colour, a crest, the way a man sat a horse, and got only movement. “Titinius.”
 
-He dismissed the messengers with a bow that meant *done*. With only two men left near him, whose faces already disagreed about everything except the steel, he called Pindarus over. He had kept the freedman at his elbow since Carrhae, since the desert where he had watched what the Parthians did with Crassus’s head, for this one errand. Pindarus held the blade where Cassius set it. Cassius made the end himself rather than wait for the plain to invent a worse one.
+Titinius was beside him at once. He was an old friend and had the good soldier’s habit of waiting to be told.
 
-He closed the account the only way left.
+“Go down and see who they are,” Cassius said. “Then come back up and tell me. Not your opinion. What you see.”
+
+Titinius rode down. Cassius watched him go small. He watched him reach the horsemen and watched them close round him, and then a shout went up off the plain, a great ragged roar, and men were jumping down off their horses and seizing Titinius and pulling him out of the saddle.
+
+“Taken,” said the officer who had said *Antony’s*.
+
+Nobody contradicted him. From the hill it looked exactly like that. It looked like a man dragged down by his enemies with his friends standing on a hill doing nothing. Cassius held the sight for three breaths and tried to make it into anything else. A man pulled from a horse. A shout. Arms round a body. He had always despised officers who acted on half a report. He stood there and could not get the other half.
+
+“I have loved being alive too much,” he said, quite quietly. “I waited, and now I have watched them take a friend in front of my face.”
+
+He walked away from the officers to an empty tent at the back of the hill, a supply tent with nothing in it but a broken stool, and called Pindarus in after him. He had kept the freedman at his elbow since Carrhae, since the desert where he had seen what the Parthians did with Crassus’s head, for this one errand. Pindarus came in and let the flap fall.
+
+Cassius drew his cloak up over his head. The wool smelled of smoke from the camp. He found the place on his neck with two fingers and set the point of the blade there and put Pindarus’s hand on the hilt.
+
+Outside, hooves were coming up the hill, a lot of them, and voices with them, too many voices to make words of. He could not tell from inside the cloak whose they were.
+
+He did not wait to find out. Pindarus held the blade where Cassius set it. Cassius made the end himself.
 
 ---
 
 ## Continuity
 - **SC-89a (Cassius, summer 42, Abydos, S2):** Brutus comes barefoot before the trumpets; reports the figure in the low lamp at the third watch: *I am your evil spirit, Brutus. You will see me at Philippi.* / *Then I will see you.* Slaves and guard saw nothing (Plut. *Brut.* 36–37). Cassius gives the Epicurean answer gently (films off things, the tired mind; no spirits); the name because they have talked of nothing else; “It would also… ask me about the grain.” “I don’t believe anything I can’t count.” “That’s not the same.” “No. It isn’t.” He does not want the men told. Left open: dream, fatigue or something else.
-- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in fog (M18); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Laberius’s eagle staff is a local fact; Mutina mud in his body.
+- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in dust and glare (M18): his camp lost, he sends Titinius to the horsemen from the north, sees him pulled from the saddle (Brutus’s men cheering him; read from the hill as capture), goes into an empty tent and covers his head (rewritten concretely 2026-10-24); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Laberius’s eagle staff is a local fact; Mutina mud in his body.
 - **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
 - **Must not:** no casualty tables; no postcard from Rome; two cameras only.
 - **Graph pass 2026-10-24:** Rufrius (spared at Forum Gallorum, Ch 30) asks Antony to put the Second at the end of the causeway beside the boy’s lent cohorts: “I’d like him on my left.” Antony grants it at the cost of a quarter hour on the hill. Rufrius stands on Laberius’s left. Development touch in protected Philippi: only the two stitches; fog rules and two cameras kept.

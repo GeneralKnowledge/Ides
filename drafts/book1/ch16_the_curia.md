@@ -99,7 +99,7 @@ Brutus understood it a breath late. One steep road up, Jupiter’s walls at the 
 
 At the door Cassius said it again, softer, for Brutus alone. “Capitol. Trebonius has Antony talking in the portico, and talk does not hold a consul long.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the December evening of the praetorship, when Caesar had given him the first chair over Cassius and then kept him late anyway, as if he wanted the company. The leaking cistern. The laugh Brutus could not take back. The hand on his shoulder at the door. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
 
 “Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 

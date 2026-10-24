@@ -220,7 +220,7 @@ Brutus walked the same garden paths until the gravel knew his sandals. Clients c
 
 “Peace required a plan,” Porcia answered, and left him the word *plan* like a debt.
 
-Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty. Late-hour forgiveness still had a claim on the grammar. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence. He pressed his thumb hard into the wooden rim of the bench.
+Brutus drafted speeches for a city that would not let him deliver them. Ink dried on periods that would never meet a Forum. Twice he began a sentence that needed Caesar’s name as tyrant and found his hand stopping before the stylus could finish the cruelty. He read Cato into the hedges until a steward’s report of Antonian veterans drinking in the Forum made him set the scroll down mid-sentence. He pressed his thumb hard into the wooden rim of the bench.
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 

@@ -1,14 +1,14 @@
 # Chapter 33: Formiae Road
 
-**Scenes:** SC-86, SC-86b, SC-86c · 7 Dec 43 → early 42 · A13 · Chain 6 · HUMOR-1 off · F11
+**Scenes:** SC-86, SC-86a, SC-86b, SC-86c · 7 Dec 43 → early 42 · A13 · Chain 6 · HUMOR-1 off · F11
 
 ---
 
 # SC-86: The Voice Ends
 
 POV: Cicero · Formiae coast road
-Date / place: 7 Dec 43 · litter / coast road
-Canon refs: A13 · Chain 6 closes · C7
+Date / place: 7 Dec 43 · Caieta villa, the shaded walk to the sea
+Canon refs: A13 · Chain 6 closes · C7 · Plut. *Cic.* 47–48 (crows, the walk, Philologus, hand at chin, neck out of the litter) · last words per later tradition
 Info ENTER: Flight from proscription · EXIT: Murder, oratory loses to arms
 Overhear risk: Killers / attendants
 
@@ -16,38 +16,93 @@ Overhear risk: Killers / attendants
 
 Cicero had always believed a sentence could outrun a sword if the sentence were good enough.
 
-The litter swayed on the Formiae road. Sea air lifted the curtain edges and brought salt that tasted like unfinished letters. Atticus unanswered. Philippics still warm in memory like a fever that thought it was an army. He had left too late and too early. Late for safety. Early for the dignity of a man who still thought negotiation might grow legs if fed enough clauses.
+The crows woke him. There was a small temple of Apollo on the shore below the villa, and the birds that lived in its roof had come up to his window at first light, a whole quarrelling crowd of them on the sill. One had hopped inside and was tugging with its beak at the blanket over his face. He lay and watched it work. Tiro would have written it down as an omen. Tiro was not there. The slaves were, standing in the doorway, and they were not asking his opinion.
 
-He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyond the far coast with legions and a welcome, and Marcus among the legions, and the swell had turned his stomach and then his nerve. He had made them put in at Caieta. He had climbed to the villa above Formiae with salt in his beard and told his slaves, *Let me die in the country I have so often saved.* By dinner the sentence embarrassed him; it had come too easily. At first light the slaves had not asked his opinion. They had lifted him into the litter and turned it back toward the water.
+He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyond the far coast with legions and a welcome, and Marcus among the legions, and the swell had turned his stomach and then his nerve. He had made them put in at Caieta. He had climbed to the villa with salt in his beard and told his slaves, *Let me die in the country I have so often saved.* By dinner the sentence embarrassed him. It had come too easily.
 
-Proscription had turned his name into a price. A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He tried to treat the price as a rhetorical problem and failed. Rhetoric needed an audience; hunters weren’t one. He catalogued, helplessly, the old skills: period, antithesis, the pause that made juries lean. None of them lengthened a road.
+“There are soldiers on the Formiae road, master,” said the steward. “We are taking you to the ship.”
 
-Atticus lived in his head as audience. So did the Capitol’s first day after the knives, enlarged by memory into courage. So did the boy he had aimed at Antony and called statecraft. The boy had learned. Antony had remembered. Brutus’s polite exile at Lanuvium felt, suddenly, like a kinder country. A cage with a view.
+They lifted him into the litter in his night tunic, with a cloak thrown over it, and carried him out by the garden door and down the shaded walk that ran through the trees to the sea. Through the gap in the curtain he saw green and then grey, the water showing between trunks. Sea air brought salt that tasted like unfinished letters.
 
-He remembered telling a friend that the Republic still had a voice. The friend had said the Republic had Cicero’s voice. The distinction, once clever, now walked beside the litter like a creditor. He had waved caution away with a jury gesture once. The gesture had not grown a cohort.
+Proscription had turned his name into a price. A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He had tried to treat it as a rhetorical problem and failed. Rhetoric needed an audience, and hunters were not one. The boy he had aimed at Antony and called statecraft had learned. Antony had remembered.
 
-A boy selling fish by the verge stared at the litter. Fame might have been a colour on it. Cicero almost shaped a greeting and then didn’t. Greeting belonged to mornings when names weren’t prices. He counted the poles’ rhythm and tried to turn it into a period. The period refused to close.
+Behind them, up at the villa, someone was beating on a door. Then wood gave, and there was shouting in the house, the flat Latin of men who had been told a name and a reward.
 
-“Faster,” he told the bearers, then hated the undignified word. Speed wasn’t eloquence. Speed was what animals did when the forest closed.
+“Faster,” he told the bearers, and hated the word. Speed was not eloquence. Speed was what animals did when the forest closed.
 
-When the killers found the road, his attendants made the noises attendants make. Panic first. Then the reckoning of their own skins. Someone begged. Someone ran. Someone stayed because staying was also a calculation, and calculations had always been Cicero’s neighbours if not his friends. He put his head out enough to be seen.
+He looked back up the walk through the curtain. At the top of it, by the garden door, a young man was standing among the soldiers and pointing down the path between the trees. Cicero knew the shape of him before he knew the face. Philologus. Quintus’s freedman, a clever boy Cicero had taught to read Greek himself, at his own table, because the boy had wanted it so badly. Philologus pointed, and the soldiers came down the walk at a run, and some of them peeled off to the left to go round by the shore and cut the litter off where the trees ended.
 
-The officer at the front had a face he knew. It took a moment; names had begun to take him moments. Popillius. A young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter, and a centurion beside him did the looking for both.
+His bearers stopped. Some of the slaves had knives out. One of them, a big Thracian who carried the front left pole, turned with his feet set as if he meant to hold the path alone.
 
-Cicero looked at them the way he had looked at juries: measuring, already composing, already knowing the verdict lived outside the speech.
+“Put it down,” Cicero said. “Put it down. All of you. Put those away.”
 
-He didn’t deliver a final Philippic. Rhetoric needed breath and an hour. He had seconds and a neck. He offered them the stillness he had practised in courts when the verdict was already known. He almost shaped a line about the Republic. He let it die unspoken.
+They put the litter down on the walk. He did not get out. He sat as he had sat in a hundred courts while the other side finished, his left hand at his chin, and looked at the men coming down between the trees. He knew what he looked like. Dust in his hair, which nobody had combed; a face gone thin with the weeks since Tusculum; sixty-three years old in a night tunic in a wood. He let them look.
 
-He thought, absurdly, of a softened sentence he had once drafted for Atticus about extraordinary medicine. Medicine had become the list. The list had become this road.
+The officer at the front had a face he knew. It took a moment; names had begun to take him moments. Popillius. A young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter. The centurion beside him did the looking for both. Herennius, someone said. The name meant nothing. That seemed wrong too.
+
+Most of the soldiers covered their faces. He noticed that and was absurdly grateful for it, as for applause from the back benches.
+
+He did not deliver a final Philippic. Rhetoric needed breath and an hour, and he had a neck. He thought of Atticus, who would understand the silence without needing a courier to explain it. He hoped the boy would not mistake it for permission.
+
+Herennius came up to the litter. Cicero leaned out of it and stretched his neck over the edge, the way a man leans out to hear something said quietly.
+
+“Come on, veteran,” he said. “If you can do nothing else properly, do this.”
 
 The blow came. Pain was brief and total and insultingly ordinary: no period, no antithesis, no applause.
 
-The sea kept sounding like itself. That offended him more than the blades. The surf didn’t pause for a verdict.
-
-His last clear thought was the petty wish that Atticus would understand the silence without needing a courier to explain it. And that the boy wouldn’t mistake silence for permission.
+Through the trees the sea kept sounding like itself.
 
 ---
 
+# SC-86a: Good Sister
+
+POV: Antony · the triumvirs’ tribunal, Forum
+Date / place: Mid-December 43, before the Saturnalia · the tribunal in the Forum
+Canon refs: T11 · App. *BC* 4.37 · Plut. *Ant.* 2, 20 · pays Ch 32 SC-85a (“Tomorrow I go to the Forum”)
+Info ENTER: Lucius Caesar hidden in Julia’s house · EXIT: Antony gives his uncle back in public; the lists go on
+Overhear risk: The whole Forum
+
+---
+
+The tribunal had been built in a morning, out of planks and an old awning, and by December it had the look of a counting table that had been left out in the rain. Antony sat at one end of it, Lepidus in the middle because Lepidus liked the middle, and the boy at the far end with a brazier at his feet and a cloak up to his ears.
+
+Business came up the steps in the order the clerks allowed. A slave who had given up his master wanted the reward and his freedom, and had a witness to swear he had pointed out the right man. A widow wanted her dowry back out of an estate that was being auctioned. A tribune of the soldiers wanted a house on the Esquiline before the auction rather than after it. Antony paid the slave, refused the widow, and told the tribune to bid like an honest thief. The crowd below liked that. The crowd liked most of what he said, the way a crowd likes a big man who is not pretending to be sorry.
+
+Then the crowd went quiet from the back, which crowds do not do for petitions, and opened.
+
+His mother came through it with two grey maids and her old doorkeeper behind her. She had put on her good stola and no jewellery at all. She walked as if the Forum were her own atrium and the soldiers along the steps were furniture somebody else had bought, and when she reached the foot of the tribunal she did not wait for a clerk.
+
+“Imperator,” she said.
+
+She had never once called him that. He had been *Marcus* to her through two wars and a consulship, and *you* when she was angry.
+
+“I have come to inform against myself,” Julia said, clearly enough for the back of the crowd. “Lucius Caesar is in my house. I took him in and I am keeping him, and I will go on keeping him until you kill us both, since the law you have made gives the same penalty to those who hide them.”
+
+Nobody on the tribunal moved. Lepidus looked at his hands. Antony could feel the boy looking at him from the far end without turning his head.
+
+Lucius had stood up in the Senate in the spring and voted his nephew a public enemy. Antony had remembered it at Bononia, on the island in the river, with the three of them trading names like dice. The boy had given up Cicero. Lepidus had given up his own brother. Antony had given up his mother’s brother and thought it cheap at the price. Cicero was on a path at Caieta now. Lepidus’s brother was on his way to Brutus. Lucius was in a back room below the Carinae, drinking his sister’s wine.
+
+He looked down at her. She was smaller than he remembered, and straighter. Her hands were inside her sleeves. He had seen her stand like this once before, when he was twenty and his stepfather had been strangled in the prison under the Capitol on Cicero’s word, and his mother had gone to Cicero’s wife to beg for the body. Cicero had made her beg.
+
+She was not going to wait for this.
+
+Antony laughed. It came out louder than he meant, and the front of the crowd flinched before it understood that it was being allowed to laugh too.
+
+“You have been a good sister,” he said, as loud as she had been. “You have been a very bad mother. You should have let him go to the river in the spring, when he was voting me an enemy, and you should let him go now.” He leaned back. The planks creaked. “Plancus.”
+
+Plancus was at the foot of the steps with his own clerks, a fortnight from his triumph and his consulship both, and he came up the steps as fast as dignity allowed.
+
+“The consul-designate will bring a motion,” Antony said, “restoring Lucius Julius Caesar to his rights. My mother has the gratitude of the Republic, which is not much, and mine, which is less.”
+
+Plancus said that it would be done. The crowd made the noise a crowd makes when it has been given a story to take home.
+
+Julia did not thank him. She looked at him a moment longer, the look that had always meant she would discuss it with him later, and then she turned and went back through the crowd the way she had come, with the doorkeeper hurrying to keep up.
+
+The boy said, from the far end, quietly, “That was well done.”
+
+“It was my mother,” Antony said. “Next.”
+
+The next man up the steps had a list of his own, three neighbours and a debt, and he had already started talking. Antony listened. He found that he was listening hard, harder than the man deserved, so that he would not have to look at the gap in the crowd where his mother had been.
 # SC-86b: Brothers
 
 POV: F3 Laberius · the Sacred Way
@@ -206,16 +261,17 @@ Medullina stared at her, waiting for the price.
 
 “It’s free,” said Nysa. “Everyone in the Forum is saying it.” And she pulled her sleeve away and went back up the hill.
 
-The next day it was given out that the list of women was cut from fourteen hundred to four hundred, and that men with more than a hundred thousand would pay instead. The kitchen talked about nothing else. The cook said it was the first time in living memory the three of them had taken a step back. The steward said it was arithmetic. The boy who could read said Lucius Caesar was off the lists too, and had been since before the Saturnalia, after his sister stood in front of this same tribunal and said she had hidden him and would go with him if he went. Nysa had heard the beginning of that, at a door, with a jug in her hand.
+The next day it was given out that the list of women was cut from fourteen hundred to four hundred, and that men with more than a hundred thousand would pay instead. The kitchen talked about nothing else. The cook said it was the first time in living memory the three of them had taken a step back. The steward said it was arithmetic. The boy who could read said Lucius Caesar was off the lists too, and had been since before the Saturnalia. Nysa had heard the beginning of that, at a door, with a jug in her hand.
 
 She gave Fulvia’s woman the true number, as near as she could make it. Fulvia’s woman wrote it down and did not thank her. She wrote it on a tablet that already had a column on it, and Nysa, who had learned to read upside down in the Domus, slowly, saw what the column was: the names of the men who had called in the mistress’s paper in the spring, when the Senate voted the master an enemy. Near the top, in a clean hand, *Hordeonius, at the Janus*. Fulvia’s woman saw her see it and did not cover it. Nysa found she had not wanted thanks.
 
 ---
 
 ## Continuity
-- **Knows / learns:** why this road: a ship out of Astura toward Brutus; seasick, he puts in at Caieta; “let me die in the country I saved”; the slaves turn the litter back to the sea. A copy of the list at Tusculum names Quintus and the nephew under three men, the boy among them. Popillius, the young man Cicero once kept out of the parricide’s sack, is at the front with a centurion (tradition; Cicero recognises him). The blow is ordinary.
+- **Knows / learns:** why this road: a ship out of Astura toward Brutus; seasick, he puts in at Caieta; “let me die in the country I saved”; the slaves turn the litter back to the sea. A copy of the list at Tusculum names Quintus and the nephew under three men, the boy among them. Rewritten concretely 2026-10-24: crows at the window; the slaves carry him down the shaded walk; Philologus, Quintus’s freedman, points the soldiers the way; Cicero has the litter set down and forbids a fight; hand at chin; Popillius (the young man he once kept out of the parricide’s sack) at the front, Herennius the centurion strikes; “Come on, veteran” (tradition). The blow is ordinary.
+- **SC-86a (Antony, mid-Dec 43; added 2026-10-24):** Julia at the tribunal informs against herself for hiding Lucius Caesar and dares them to kill both (App. *BC* 4.37). Antony laughs, calls her a good sister and a bad mother, and has Plancus (consul-designate) bring the motion restoring Lucius. His memory: Lucius voted him an enemy in the spring; Bononia trade (Cicero, Paullus, Lucius); Lentulus’s body in 63, Julia made to beg (Plut. *Ant.* 2). Octavian: “That was well done.” “It was my mother. Next.” Pays SC-85a.
 - **SC-86b (Laberius, 29 Dec 43):** Plancus’s triumph over the Gauls; his soldiers sing *De germanis, non de Gallis, duo triumphant consules* (Velleius 2.67); Vibius glosses it. Lepidus’s brother Paullus got away to Brutus’s people; Plancus’s brother Plotius was found at Salernum by his perfume after his slaves held out under torture (Val. Max. 6.8.5). Vibius joins five Mutina men to hunt a former praetor in the Appian tombs; Laberius refuses (“I fight for the man on my left”); “Win. Then count.” He hums the tune without the words.
-- **SC-86c (Nysa, early 42):** the women’s tax (1,400 women). Octavia and Julia received the women; Fulvia shuts the door on them. Fulvia’s woman sends Nysa to count. Hortensia, daughter of Hortensius, at the triumvirs’ tribunal (App. *BC* 4.32–34): lost fathers, sons, husbands, brothers; why tax women who have no share in honours, commands, statecraft; the women of the Hannibal war gave freely. Lictors sent; the crowd shouts *Shame!*; Lepidus adjourns. Next day: 400 women; men with over 100,000 pay. Lucius Caesar off the lists since before the Saturnalia after Julia faced the tribunal (App. *BC* 4.37). Octavian is Nysa’s patron and doesn’t know her name. Nysa gives Medullina Hortensia’s name free; gives Fulvia’s woman the true count (41 at the door, 300-odd at the tribunal).
+- **SC-86c (Nysa, early 42):** the women’s tax (1,400 women). Octavia and Julia received the women; Fulvia shuts the door on them. Fulvia’s woman sends Nysa to count. Hortensia, daughter of Hortensius, at the triumvirs’ tribunal (App. *BC* 4.32–34): lost fathers, sons, husbands, brothers; why tax women who have no share in honours, commands, statecraft; the women of the Hannibal war gave freely. Lictors sent; the crowd shouts *Shame!*; Lepidus adjourns. Next day: 400 women; men with over 100,000 pay. Lucius Caesar off the lists since before the Saturnalia (shown in SC-86a). Octavian is Nysa’s patron and doesn’t know her name. Nysa gives Medullina Hortensia’s name free; gives Fulvia’s woman the true count (41 at the door, 300-odd at the tribunal).
 - **Plants → pays:** the Ch 32 seal-ring assent; the Philippics wager; Ch 32 SC-85a (Julia); Ch 25 count; Ch 11 Medullina; “Win. Then count” (Ch 30).
-- **Must not:** no trophy aside (head and hands) outside his POV, including in SC-86b–c; no comedy in SC-86. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.
+- **Must not:** no trophy aside (head and hands) outside his POV, including in SC-86a–c; no comedy in SC-86. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.
 - **Graph pass 2026-10-24:** Fulvia’s woman writes Nysa’s count on a tablet listing the men who called in Fulvia’s paper in the spring; *Hordeonius, at the Janus* near the top. Pays Ch 32 “She does [keep ledgers]”; Ch 36 Open Wax.
