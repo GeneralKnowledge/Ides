@@ -75,7 +75,7 @@ He grinned the public grin, smaller now. “It was a festival prop.”
 
 “A man I could not describe to a magistrate.”
 
-“That is a very convenient man.”
+“Convenient.”
 
 She didn’t smile. She said nothing at all while the messenger still hovered with dust on his sandals; Antony knew that silence, the one she kept for guests so they could not repeat her. She dismissed the man with courtesy that could have been gratitude, waited until the latch settled, then set the cup down harder than wine required.
 

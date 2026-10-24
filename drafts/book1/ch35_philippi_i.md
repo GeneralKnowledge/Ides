@@ -88,19 +88,19 @@ They had sat down on two hills astride the road west, Brutus on the northern one
 
 He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Do not chase the pretty gap. Fill it. Timing, not poetry.” The tribune’s mouth opened on a question; Antony was already past him. Omens were for the tents. On the field he trusted weight and the sound of men who still obeyed.
 
-Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’s name from a direction that might have been victory or panic. Antony didn’t pause to translate the shout. Another came down the line from the north, carried by a rider with no helmet: Brutus’s men were in the boy’s camp, cutting up the tents. The boy had a fever and Agrippa. Let them keep their own camp. Translation was for after the counting, if counting still had owners.
+Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’s name from a direction that might have been victory or panic. Antony didn’t pause to translate the shout. Another came down the line from the north, carried by a rider with no helmet: Brutus’s men were in the boy’s camp, cutting up the tents. The boy had a fever and Agrippa. Let them keep their own camp.
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
 
-He did not think of Italian acres. Acres were for clerks after dust. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Auction quarrels nobody settled. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
+He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Auction quarrels nobody settled. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
 ### Laberius
 
 Dust found every gap in Laberius’s teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it.
 
-He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’s side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms. Plains lied through mouths that needed the story more than the mud did.
+He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’s side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms.
 
-He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Trophies mid-fight got men killed decorated.
+He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Men who stopped for trophies got killed.
 
 His own eagle still stood. He put his hand on the staff once: wood, sweat, the crack that had been there since Mutina’s ditch. He kept it there while the shouts about Cassius’s hill cancelled each other. He did not know Cassius’s hill. He knew thirst and the next order that might be wrong.
 

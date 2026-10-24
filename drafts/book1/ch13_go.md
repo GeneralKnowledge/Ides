@@ -108,7 +108,7 @@ Around the brazier the talk was colonies and delays. Who had been promised land 
 
 Gaius did not grin. “Capua was a date once. Now it’s after Parthia. After Parthia is not a place.”
 
-“It is a very large place,” said Laberius. “It has a great many men who didn’t come back from it.”
+“Big place,” said Laberius. “Lot of men didn’t come back from it.”
 
 “That is the joke, then.”
 
@@ -140,7 +140,7 @@ Cassius’s finger stopped on one blank place in the list he kept only in his he
 
 “Ligarius is sick?” Brutus said.
 
-“Ligarius is always sick when there is work. It is a very reliable fever. It comes with a courtesy note.”
+“Ligarius is always sick when there is work. The fever comes with a courtesy note.”
 
 “He was Pompey’s man once. He came back and was pardoned. I would not blame him for wanting to stay out of it.”
 

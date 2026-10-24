@@ -30,12 +30,6 @@ Citizenship shortcuts, land whispers, exemptions with seals that looked tired: e
 
 “Wholesale,” Hordeonius said. “You’re retail. An eastern king bought his kingdom back in Fulvia’s sitting-room. You want a harbour exemption. Adjust your expectations and your purse.”
 
-A whisperer tried again to sell him Visellius’s old tablet ghosts, Basilus orbit, an Antonian hand, the Subura stair that still had a rumour attached. He laid a scrap on the stool: names in a February hand, men sounded at the baths before the Ides. Ash could not pay.
-
-Hordeonius picked the scrap up with two fingers, the way a man lifts something that might stain, and set it back on the whisperer’s palm. “The Senate pardoned the doing in March,” he said. “You want me to pay for the knowing?” Then, gently, blessing-flat: “Archaeology. I deal in the living. The living pay interest. The dead pay only in stories, and stories are oversupplied.” He wiped his fingers on the stall-cloth afterwards, ego housekeeping, not fear.
-
-The whisperer bowed as if receiving a funeral oration. “Of course. Living seals.” Sosia’s mouth twitched, then he drank so the twitch would look like thirst.
-
 The Puteoli man and Sosia argued the next question in the same breath. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
 
 “Antium?” the Puteoli man said.
@@ -135,7 +129,7 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 ---
 
 ## Continuity
-- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); a whisperer’s scrap of February names from the baths, worthless because the Senate pardoned the deed; Antium is Brutus’s sea house, with Servilia’s clerks moved in. SIDE-1 blackmail fizzles (OPEN-0); Hordeonius returns an archaeology scrap to the palm. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
+- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); Antium is Brutus’s sea house, with Servilia’s clerks moved in. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
 - **Nysa’s errand:** she takes a receipt to the Carinae (Pompey’s old house, bought at Caesar’s auction, never paid for), takes the “stay attached” offer, learns the bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; the Domus to Lepidus; Subura rent).
 - **Plants → pays:** Antium (Ch 24); Gavius (Ch 32, T11); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 32 lists).
 - **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7); Seius as aedile’s kin (Ch 3, 10).

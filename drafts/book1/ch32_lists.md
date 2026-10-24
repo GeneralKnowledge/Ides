@@ -68,7 +68,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 “The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving.
 
-They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. The whisper would become three contradictory stories by morning. They sealed what could be sealed.
+They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. By morning both camps would know a name had been traded, and neither would know which. They sealed what could be sealed.
 
 Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 

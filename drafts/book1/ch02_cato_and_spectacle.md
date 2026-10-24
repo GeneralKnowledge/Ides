@@ -104,7 +104,7 @@ Nysa kept the spit with the cheers. Cheers were loud. Spit lasted.
 
 A painted board had gone by showing Cato at the end. The street had groaned. Nysa did not know whether groaning was allowed. She kept it with the spit.
 
-Children screamed at elephants, or at the idea of elephants that had already passed. A woman in the crowd named a captive wrongly and was corrected with pride. Rumour walked faster than any procession left in memory. Nysa kept both wrong names. Wrong names were how the street remembered.
+Children screamed at elephants, or at the idea of elephants that had already passed. A woman in the crowd named a captive wrongly and was corrected with pride. Nysa kept both wrong names. Wrong names were how the street remembered.
 
 Near the Domus steps a banker-looking man paused: ring, stylus, onion-and-money face. He watched the street the way a rate sheet watches numbers. Nysa did not know his name. She knew the look. Men who priced marble before it cooled. Phileros had warned her that such men sometimes bought household gossip by the cup. She kept her face blank and her oil upright.
 
@@ -118,7 +118,7 @@ Nysa shifted the jar on her hip. “I carry oil.”
 
 The clerk smiled, unoffended, and pocketed the coins. “Good answer. It will cost someone else more.”
 
-Caesar passed at the edge of sight. Or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn’t look at her. Great men didn’t look at errands. She preferred it. Looking made you responsible for what you saw.
+Caesar passed at the edge of sight. Or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn’t look at her. She preferred it. Looking made you responsible for what you saw.
 
 The younger veteran and the older one went back to arguing about colonies and whether Africa’s corpse meant Italy’s farms.
 

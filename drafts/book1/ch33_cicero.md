@@ -40,7 +40,7 @@ He didn’t deliver a final Philippic. Rhetoric needed breath and an hour. He ha
 
 He thought, absurdly, of a softened sentence he had once drafted for Atticus about extraordinary medicine. Medicine had become the list. The list had become this road.
 
-The blow came. Pain was brief and total and insultingly ordinary: no period, no antithesis, no applause. Rome’s most expensive voice became silence with blood in it.
+The blow came. Pain was brief and total and insultingly ordinary: no period, no antithesis, no applause.
 
 The sea kept sounding like itself. That offended him more than the blades. The surf didn’t pause for a verdict.
 

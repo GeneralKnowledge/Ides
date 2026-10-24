@@ -1,15 +1,16 @@
 # Historical Note
 
-The spine of this book is history: what happened, where, to whom, and in what order. It runs from Cato’s death at Utica in April 46 BC to the second battle at Philippi in October 42. Caesar dies on the Ides of March at a meeting of the Senate in the hall attached to Pompey’s theatre. The will names his great-nephew as heir and son. The funeral becomes a riot, and the crowd tears apart the wrong Cinna. The war over Mutina costs both consuls their lives. Three men on an island near Bononia carve up the state and draw up the proscription lists, and Cicero is killed on the road from his villa at Formiae. Brutus and Cassius die at Philippi. None of this is invented, and no invented person changes it.
+The spine of this book is history: what happened, where, to whom, and in what order. It runs from Cato’s death at Utica in April 46 BC to the second battle at Philippi in October 42, and closes in the winter and spring after, when the veterans come home to their land. Caesar dies on the Ides of March at a meeting of the Senate in the hall attached to Pompey’s theatre. The will names his great-nephew as heir and son. The funeral becomes a riot, and the crowd tears apart the wrong Cinna. Brutus takes Macedonia and spares Antony’s brother Gaius, then orders his death. Dolabella takes Smyrna by night and kills Trebonius, and dies at Laodicea. The war over Mutina costs both consuls their lives. Three men on an island near Bononia carve up the state and draw up the proscription lists, and Cicero is killed on the road from his villa at Formiae. Brutus and Cassius die at Philippi. None of this is invented, and no invented person changes it.
 
 ## What is invented
 
-Four of the viewpoint characters are invented. They show the people the histories leave out: the household, the junior senator, the soldier, the lender.
+Five of the viewpoint characters are invented. They show the people the histories leave out: the household, the junior senator, the soldier, the lender and a provincial treasurer.
 
 - **Nysa**, Caesar’s freedwoman in the Domus Publica. After the Ides her patron is his heir, and from spring 44 she serves in Antony’s house in the Carinae.
 - **Marcus Seius Vestalis**, a junior senator in debt for an aedile’s canvass. His uncle is the real Marcus Seius, the aedile of 74 who sold grain cheap. His wife, **Seia Prima**, is that man’s daughter.
-- **Sextus Laberius Cordus**, a soldier of Caesar’s from Munda to Mutina. He has no connection to the playwright Decimus Laberius.
+- **Sextus Laberius Cordus**, a soldier of Caesar’s from Munda to Philippi, with a plot of land promised at Capua. He has no connection to the playwright Decimus Laberius.
 - **Lucius Hordeonius Felix**, a moneylender in the Forum, and his collector **Sosia**.
+- **Amyntas son of Menodotus**, treasurer of Smyrna, who feeds Dolabella’s army from behind a locked gate.
 
 Invented events:
 
@@ -17,6 +18,8 @@ Invented events:
 - The murder of Aulus Visellius Ralla and the tablets that implicate both sides.
 - Nysa’s warning tablet. It is a separate thing from the note pressed on Caesar on his way to the Senate, which comes from the ancient tradition.
 - Galba’s absence from the Capitol on the afternoon of the Ides.
+- Seius hiding his neighbour Gavius from the proscription, and the loan that pays for it.
+- Nysa in the house of Antony’s mother on the night Julia barred the door to save her brother. Julia’s words at the door are Plutarch’s.
 - Every household servant, neighbour, centurion, kitchen boy and informer who is not in the cast list as a historical person.
 
 ## Where the sources disagree
@@ -25,6 +28,8 @@ Invented events:
 - **The order of the blows.** The order is a working choice. The twenty-three wounds are Suetonius’s count, not the narrator’s.
 - **Calpurnia’s dream.** The dream follows Suetonius. The talk of omens does not decide whether the gods sent them.
 - **Pansa’s death.** Pansa died of his wounds after Forum Gallorum. The story that his physician poisoned him to clear the way for the young Caesar is told by Suetonius and denied by others. Here it stays a rumour.
+- **Porcia’s death.** Cicero’s letter of consolation to Brutus, in the summer of 43, seems to mourn her, which would mean she died long before Philippi. Plutarch tells the story of the coals and also reports a letter that puts her death earlier, from illness. Brutus never learns which, and neither does the reader.
+- **The apparition.** Plutarch says a figure appeared in Brutus’s tent and called itself his evil genius. Brutus tells it to Cassius, and the book tells it as Cassius hears it.
 - **Cicero on the list.** Plutarch says the young Caesar resisted for two days before giving Cicero up. The book shows the bargain, not a verdict on who wanted it most.
 
 ## Names and dates

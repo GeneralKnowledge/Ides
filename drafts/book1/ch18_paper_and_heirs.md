@@ -119,7 +119,7 @@ Nysa saw, for a blink, Decimus’s open morning face in the Domus atrium. She di
 
 “What does second mean?” she asked the woman beside her, a washerwoman with chapped hands.
 
-“It means he was loved a little less than the boy,” the woman said. “And killed him anyway. That is a very expensive way to be second.”
+“It means he was loved a little less than the boy,” the woman said. “And he killed him anyway.”
 
 Back at the Domus, Phileros had heard the same news at the vestibule. “The house will be stripped for keepsakes,” he whispered when she came in. Keepsakes were not the tragedy. The emptying was.
 

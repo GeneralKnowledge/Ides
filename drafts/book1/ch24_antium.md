@@ -39,7 +39,7 @@ On the road edge an older veteran, scar through the lip, no agent’s polish, sp
 
 “Philosophers,” the scar said. “Down at Brutus’s sea house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
 
-Laberius filed *eagle refuse / Servilia paper* without turning. Talk behind a man’s back was how the gentry made up their minds before a meeting. He preferred his pockets. Pockets didn’t require a yes.
+Laberius filed *eagle refuse / Servilia paper* without turning. Let the gentry talk behind his back. He had his pay to count.
 
 ---
 

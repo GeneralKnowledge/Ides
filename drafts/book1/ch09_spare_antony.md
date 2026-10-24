@@ -61,7 +61,7 @@ Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and 
 
 “That is a terrible thing to say.”
 
-“It is a very accurate thing to say. Whether it is terrible is a matter for the people who survive to write about us.”
+“It is accurate. Whether it is terrible is for the people who survive us to write.”
 
 Decimus kept walking. He did not give them the satisfaction of a turned head.
 

@@ -58,7 +58,7 @@ Seius smiled the smile of a man who had paid for privacy and bought a notice ins
 
 “That is flinching in better shoes.”
 
-Prudence tasted like relief and cowardice mixed. He couldn’t tell which was stronger. Doors got tapped after soft hours. Men who flinched paid in gossip before anyone admitted knives.
+Prudence tasted like relief and cowardice mixed. He couldn’t tell which was stronger.
 
 ---
 
