@@ -116,7 +116,7 @@ Vibius poked the brazier with a stick until ash rose. “Dirt without coin is st
 
 “I would salute the promise if it were wearing boots,” said Gaius.
 
-Laberius didn’t hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps. He didn’t know a funeral would be the match. He only knew the powder was soft underfoot already, and soft powder still burned.
+Laberius didn’t hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps. He knew the powder was soft underfoot already, and soft powder still burned.
 
 Someone sang a dirty song about kings that borrowed the Forum’s February panic and made it tavern-shaped. Laberius did not laugh. Capua unpaid was not a joke tonight, only powder waiting for a name he still trusted on the wind.
 
@@ -136,19 +136,21 @@ Names checked. Roles set, almost.
 
 Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The Cascas, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
 
-Cassius’s finger stopped on one blank place in the list he kept only in his head. “Ligarius’s cousin,” he said. “The one who swore he would stand at the door with a message if the Forum thickened. Ligarius’s pride was supposed to buy us that body. He sent fever instead. Or a man who smelled like fever.”
+Cassius’s finger stopped on one place in the list he kept only in his head. “Ligarius,” he said. “Fever, I hear. Fever comes very easily to pardoned men.”
 
-“Ligarius is sick?” Brutus said.
+“I went this afternoon,” Brutus said.
 
-“Ligarius is always sick when there is work. The fever comes with a courtesy note.”
+He had found him in a shuttered room off the atrium, the bedding damp through and a slave sponging his wrists with vinegar. A grey man, thinner than Brutus remembered. Brutus had stood at the foot of the bed and said the only thing that came to him. “What a time to be ill, Ligarius.”
 
-“He was Pompey’s man once. He came back and was pardoned. I would not blame him for wanting to stay out of it.”
+Ligarius had got up on one elbow and taken his hand. “If you have anything in hand worthy of yourself, Brutus,” he said, “I am well.” Then he had put his feet on the floor, and the slave had to catch the basin.
 
-“I do not blame him,” Cassius said. “I only note that fever has never once fallen on a man at a banquet.”
+“He’ll stand?” Cassius said.
 
-Brutus waited. Missing men made rooms louder. Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The cough wanted an answer as much as the blank line did. Brutus gave neither.
+“In a litter if he has to. He said he has been thanking Caesar since the pardon, and he would like to stop.”
 
-“We do not wait for cousins,” Cassius said. “We redistribute the door. If he talks before dawn, fever takes him and we take the door. We do not invent another postponement for a man who already chose not to stand.”
+Cassius looked at him a moment longer, then moved his finger on.
+
+Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The cough wanted an answer. Brutus gave none.
 
 Brutus’s money sat outside the door like a creditor not invited. The lender’s note had come that afternoon, and Brutus had not answered it. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
 
@@ -200,6 +202,6 @@ He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cass
 
 ## Continuity
 - **SC-34 coda (T13):** Porcia waits up; shows the thigh cut (barber’s knife from his dressing room, February; the Ch 8 headache was the wound, the fever too; the doctor thinks she fell against a chest) (Plut. *Brut.* 13). He breaks his own Ch 7 rule (“You will not tell Porcia”) and tells her all of it. “Good.” Her hand hot with fever until the window greys.
-- **Knows / learns:** Trebonius is tasked with holding Antony; Pompey’s theatre and statue called back. Cicero is blindly calm (Atticus, Hirtius; elite rumour only). In the winter quarter, land hunger is powder (Capua, the donative). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: a Ligarius cousin missing, a creditor at the door, one last doubt.
+- **Knows / learns:** Trebonius is tasked with holding Antony; Pompey’s theatre and statue called back. Cicero is blindly calm (Atticus, Hirtius; elite rumour only). In the winter quarter, land hunger is powder (Capua, the donative). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
 - **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 19).
 - **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.
