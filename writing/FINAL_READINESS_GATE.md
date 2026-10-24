@@ -61,7 +61,7 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 | Gate | State | Evidence |
 |------|-------|----------|
 | 1. Reading-copy integrity | Passing | `--check` OK, manuscript `158fd7f`, digest `194ce5c95aebb6cd` (2026-10-24, after the renumbering pass, joins read, Gate 2 top-up and coverage-review fixes: prologue and Ch 1–36, 2731 reading paragraphs, ~90k words) |
-| 2. Mechanical copyedit | Passing | Top-up 2026-10-24 (#175) over everything written after the first pass, with the checks run across all of `drafts/book1`: [`archive/pass_logs/gate2_topup_2026-10-24.md`](../archive/pass_logs/gate2_topup_2026-10-24.md). The coverage-review edits (#176 and the follow-up) came after it and were written to the same house style. First full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two open author questions in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
+| 2. Mechanical copyedit | Passing | Top-up 2026-10-24 (#175) over everything written after the first pass, with the checks run across all of `drafts/book1`: [`archive/pass_logs/gate2_topup_2026-10-24.md`](../archive/pass_logs/gate2_topup_2026-10-24.md). The coverage-review edits (#176 and the follow-up) came after it and were written to the same house style. First full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two author questions (resolved 2026-10-22) in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
 | 3. Independent reader | Not started | |
 
 *End final readiness gate.*
