@@ -12,7 +12,11 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 |------|----------------|--------------|----------|
 | **Hirtius** | Consul; dies Mutina (Laberius-knowable) | Clean reputation vs mud | POV required |
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
-| **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece) | Refuse name / cushions | Destiny coaches |
+| **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 29 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
+| **Octavia** | Octavian’s sister, 26; Ch 29 at the Vestals’; Ch 31 receives the women | Uses his old name | Political schemer in Book 1 |
+| **Q. Pedius** | Fellow consul, 19 Aug 43; another grandson of Caesar’s sister; his law sets the court | Elderly; coughs | Rival to Octavian |
+| **Cornelius** (centurion) | Leads the deputation, Jul 43 (Suet. *Aug.* 26) | Scar through one eyebrow; throws back his cloak | Ordered by Octavian on the page |
+| **Cornutus** | Urban praetor; falls on his sword when the African legions defect | Reported only | Given a scene |
 | **Sextus Pompeius** | Western sea knife (secondhand) | Rumour dual reports | On-page Actium path |
 | **Helvius Cinna** | Wrong name lynched (Ch 19) | Minor poet; Caesar’s friend; “I am Helvius” | Joke-only treatment of death; conflate with Cornelius |
 | **Cornelius Cinna** | Praetor; Caesar’s brother-in-law | Tyrant speech from Rostra after Ides | Swap identity with Helvius |
