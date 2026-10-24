@@ -33,7 +33,7 @@ Brutus spoke. He heard himself speak. The words were right (*libertas*, tyrant, 
 
 Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again if speech is the plan. Leave if leaving is. Do not stand in the middle and call it philosophy.”
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The late hour after the spare returned without asking leave and stood beside the Forum noise. Wine gone warm. Ordinary talk. The war treated as a misunderstanding their house could afford. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved. Waiting was the softest cowardice available. It looked like hope.
+Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The late hour after the spare returned without asking leave and stood beside the Forum noise. Wine gone warm. Ordinary talk. The war treated as a misunderstanding their house could afford. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved.
 
 He almost ordered the linger as policy. Then he saw Decimus’s shoulder already half-turned toward Gaul, and Cassius’s mouth ready to price another hour on stone, and Casca’s open blade becoming theatre the city could hate.
 
@@ -43,7 +43,7 @@ A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses;
 
 “Lepidus has a legion on the Tiber island,” Cassius said, eyes still on the approaches. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
 
-Brutus kept each report as incomplete. He had been trained for incompleteness in books. The street’s incompleteness had teeth. The decision to wait used incompleteness as cover.
+Brutus kept each report as incomplete. He had been trained for incompleteness in books. The street’s incompleteness had teeth.
 
 “Cicero is writing the age?” Casca said. “Already?”
 
@@ -59,19 +59,19 @@ He was not. An hour later he was on the steps, out of breath, in a clean toga, a
 
 “He will find the letter.”
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’s hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms. Eyes could not make the spare into something other than blood. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Drafting was another way of not leaving.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’s hands smelled of metal no matter how often he washed them in a basin someone provided like a sacrament. He dried them on his toga and still would not look at his own palms. He drafted, in his head, the speech he might write down so the day would have a cleaner spine than it deserved. Drafting was another way of not leaving.
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
 “We can call it beginning,” Brutus said, still the public sentence.
 
-They moved a few paces off the sight-line, into a corridor of stone where the Forum’s noise became weather. Cassius’s polite face dropped. He had set down a cup. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays. Mark that when your vocabulary comes back stained.”
+Cassius waited until Casca had turned to the parapet. “Beginning,” he said, not for the crowd. “You just spent the afternoon teaching Rome that knives climb hills and wait to be loved. Decimus wants a road. Casca wants a cheer. You want a cleaner text. The city is shopping for who pays.”
 
 Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. Brutus did not know what winter Casca meant, only that Cassius’s mouth went tight at it, and that absence was a receipt now, standing where a blade should have stood.
 
 Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say Capitol if you must, say it as fear, not as a period.”
 
-Brutus took the corridor truth without answering it in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid. The rock had just taught him that waiting could be a choice with a cost, not only a virtue with a view.
+Brutus did not answer in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid.
 
 ---
 
@@ -126,7 +126,7 @@ An officer beside him, young, oil-smell, ambition still unscarred, seconded with
 
 Lepidus’s careful mouth found a third pressure: “If you paint senators tonight, tomorrow’s Forum buries you with them. I can hold men for a funeral. I cannot hold them for a butcher’s festival that makes every toga a relative of the dead.”
 
-Pacuvius wanted his storm. The officer wanted his paint. Lepidus wanted survivors left over to bargain with. Antony felt the group lean as a single weight, massacre versus how the body would look tomorrow, and chose the slower blade because the slower blade still had a consul’s name on it.
+Antony chose the slower blade, because the slower blade still had a consul’s name on it.
 
 Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short version bury him; he would arrive at his own funeral as a miracle with a consul’s temper.
 
@@ -136,13 +136,7 @@ Rumour had him dead in the Subura. He almost liked that. Let the bakers’ short
 
 “Then spell patience,” said Antony.
 
-Pacuvius made the face of a man receiving wisdom, chin-tip, eyes grateful, the station grin that kept consuls from smelling mutiny. “As you say. Rooms. Doors. Feed them soft.”
-
-Antony turned toward the Capitol. Behind him Pacuvius’s soft dropped, for Lepidus’s nearest ear and two officers who had wanted dark, and not quite out of a consul’s hearing. “Rooms. While the rock still has senators on it with warm knives. He’ll remember caution more than our hunger, mark that when the Forum wants blood and we offer clauses.”
-
-Antony let it pass without turning. Lepidus did not contradict. Contradiction in open air made you the man who lit the massacre early. Pacuvius looked cheated anyway. Good. Cheated soldiers still listened. Satisfied soldiers invented orders.
-
-Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol. Contempt would not collapse it. Pacuvius’s hunger still wanted paint; Antony wanted a funeral that paid.
+Antony spat blood from a bitten cheek he did not remember biting and stared toward the Capitol.
 
 “You wanted liberty,” he said to the hill, too soft for officers. “Congratulate yourselves. Now learn the price of a crowd.”
 
@@ -208,13 +202,11 @@ He left the bargaining room with praise still arranged on his mouth: peace, brea
 
 By the side door the servants used, a maid from Antony’s house had stopped a clerk mid-bow. “Tell them the acts stand overnight,” she said. “Peace is for the Capitol. Paper is for the consul.” From the opposite wall an older steward, a tablet in his hand still soft with Servilia’s seal, answered without looking at her: “Then ask whose sons the paper wounds before the seal breaks.” Neither of them asked Cicero.
 
-Cicero was nearly at the corner when the banker’s voice thinned behind him: “He polishes periods while we price the corpse. Useful man.”
+Cicero did not stop. Stopping would have made him a stall. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
 
-Cicero heard enough. He did not enter the corridor argument. Entering would have made him a stall. He preferred rooms that asked for periods. The praise-smile lasted until the temple steps; then it was only a face arranging itself for Atticus.
+He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours.
 
-He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours and dreamed he was consul again: the old habit, not prophecy.
-
-On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone. He slept two more hours and did not dream at all.
+On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone.
 
 ---
 
@@ -222,5 +214,6 @@ On the seventeenth, when the bargain had begun to harden, he allowed himself a t
 - **Knows / learns:** the amnesty stated plain: the killers pardoned, Caesar’s acts stand. Temple of Tellus, 17 March; Catiline, *pater patriae*; the Vestals hold the will. In the corridor, before the will: the gardens, the boy, whom the paper wounds, the queen as an unfinished Roman problem. A maid from Antony’s house and Servilia’s steward at the side door (D2).
 - **Plants → pays:** which boy (Ch 18).
 - **Must not:** no future-leaning lines for Cicero.
+- **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---

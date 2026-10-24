@@ -368,7 +368,7 @@ Hordeonius heard *the coast* and *the gate* and let them go past him like carts.
 
 “Then I want the Sabine land,” Hordeonius said. “All of it, as security. The old debt rolled in, the new one on top, the whole of it secured on the farm. If you default, I take the farm.”
 
-Seius closed his eyes. The farm was where his wife’s father had been born, Hordeonius knew. He knew because Seius had pledged it once before and taken it back, years ago, when the canvass still looked like a road to a statue.
+Seius closed his eyes. The farm was where his wife’s father had been born, Hordeonius knew. He knew because he had asked for it once before, the week after the Ides, and Seius had paid an extra half in the hundred every month since rather than give it.
 
 “Done,” said Seius.
 
@@ -470,3 +470,4 @@ She came and put her hand flat on his chest, over the heart, the way she checked
 - **T12:** at “Cicero stays”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
 - **Must not (T11):** no census of the dead; Seius brave once, not a hero; Gavius’s fate after the beach left open.
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added.
+- **Graph pass 2026-10-24:** Hordeonius had asked for the Sabine farm the week after the Ides (Ch 18); Seius paid the extra half monthly rather than give it.

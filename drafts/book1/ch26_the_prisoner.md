@@ -28,7 +28,7 @@ Then somebody did.
 
 He was a broad young man of twenty-one with none of his father’s caution, who came up to Brutus at the gate of the Lyceum after Cratippus’s lecture with his toga over the wrong shoulder and wine on his breath at the eighth hour.
 
-“Marcus Cicero,” he said. “The son. Not the one who writes.” He grinned. “My father writes to me twice a week about my debts and my drinking and my Greek, in that order. He writes to you about the Republic. I thought you should know we’re on the same list.”
+“Marcus Cicero,” he said. “The son. Not the one who writes.” He grinned. “My father writes to me twice a week about my debts and my drinking and my Greek, in that order. He writes to you about the Republic. I thought you should know we’re on the same list.” He was enjoying himself. “Trebonius came through in the spring on his way to Asia. He took me to dinner and wrote my father that I was a reformed character. My father believed him for almost a month.”
 
 Brutus had read some of those letters to the son. Half of Rome had. The father sent copies of his advice to friends, the way other men sent copies of their speeches. Now the father was writing a whole book of it, on duty, addressed to *my son Marcus*, which the son had promised to read and possibly would.
 
@@ -158,3 +158,4 @@ Brutus did not answer. Down in the camp, in the good house he had given him, Gai
 - **Plants → pays:** Gaius in the camp with his lictors (Ch 34 SC-88b: the legions, the ship, the order); Hortensius (Ch 34, Ch 36 SC-93); Horace (Philippi, left open); Ch 4 and Ch 8 clemency reversed; Ch 9 (Antony spared) echoed in the brother.
 - **Must not:** no narrator verdict on Brutus’s mercy; Horace does not become a wink; Octavian is not in Apollonia now.
 - **Decisions:** 2026-10-24: drafted as insert chapter 25a (Reuben’s default); numbered Ch 26 in the renumbering pass the same day.
+- **Graph pass 2026-10-24:** Marcus Cicero says Trebonius dined with him in Athens in the spring on the way to Asia and wrote his father he was reformed (Cic. *Fam.* 12.16).

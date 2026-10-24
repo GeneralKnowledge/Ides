@@ -108,11 +108,9 @@ Then he rode with dwindling staff into country that did not care who freed the R
 
 “They will say I did not pursue,” the first aide muttered.
 
-“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched, I smelled horse-lines on the wind this morning. Plancus has crossed. Lepidus’s man returned the tablet. We do not wait for dates that practise absence.”
+“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
 
-The second aide, older, tablet-hand still inked from Mutina’s last courtesy copy, had kept back the news from the south until the bridge was behind them. In May Lepidus’s legions had waded the river to embrace Antony, and Lepidus had written to the Senate that his soldiers did it. And the boy would not share a road with the man who had held Caesar’s door, and had said so where his centurions could hear.
-
-Decimus heard it as one more door that had closed while he counted hinges. “Then we do not invent a name for hope,” he said. The first aide opened his mouth on another complaint. Decimus was already counting remaining waterskins aloud, making the count the argument beside the named absences. At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
+At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
 
 They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, without speech, of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
 
@@ -212,6 +210,14 @@ She looked at him a long moment. Then her face went blank, as it had gone blank 
 
 He ate. He ate standing up, bread and cheese from a soldier’s pack, on the steps of the Vestals’ house with his mother watching, and it was the first food he had kept down in three days.
 
+While he ate, Octavia gave him the household news, the way she had put it in letters he had not had time to read. Calpurnia had gone to her father’s. The old house’s freedmen were scattered: one keeping a wine shop by the Circus, two gone to Lepidus with the Domus, one girl in Antony’s kitchen on the Carinae.
+
+“She counted heads at your games for his steward,” Octavia said. “Matius heard it. Somebody laughed at the number at Antony’s dinner.”
+
+Octavian swallowed. He remembered the cheap rows standing. “What’s her name?”
+
+Octavia did not know. Octavian looked past her at Agrippa, who nodded once and wrote nothing down, which meant he would remember.
+
 The senators came to meet him in the afternoon. They came in twos and threes, in their bordered togas, and made speeches on the steps about the Republic and the young Caesar’s piety, and Octavian thanked each of them by name, because he had learned all their names in the winter from Cicero’s letters and Agrippa’s lists. Some of them had voted a week before to send the African legions out against him. They did not mention it. He did not mention it either.
 
 Cicero came last.
@@ -235,6 +241,8 @@ The treasury was in the Temple of Saturn, under the Capitol, and the keys came t
 He did not touch them. He sent a tribune with a guard and a clerk with tablets, and they brought the chests down the temple steps to the Forum in daylight, where the whole city could watch them, and set them out on trestles in the square. Twenty-five hundred a man: the first payment of what the Senate had voted and not paid. The rest promised. The clerks called the names by century, and the men came up in their order, and took their coin, and signed, or made their mark, and went away. It took two days. Octavian sat behind the tables for most of both, and when a tribune leaned in on the first afternoon to say the fathers had sent to ask when the election would be held, he did not look up.
 
 “Honours after the line is fed,” he said.
+
+One man in the line he remembered afterwards. A centurion in boots resoled more than once came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
 
 The line was fed on the second evening. The election was on the nineteenth.
 
@@ -262,8 +270,6 @@ Octavian wiped sweat from his upper lip with the back of his hand, ugly, visible
 
 Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework with fasces. Only you could make a consulship sound like a debt you intend to clear before bedtime.” Octavian did not smile. Smiling would have spoiled the pay line. He let the twitch count as the joke landing and kept his fingers on the chest.
 
-A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name *Caesar* as paymaster; Octavian didn’t bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
-
 By autumn a courier brought Decimus’s end in two lines: a ford in the hills, and somebody’s purse. Octavian did not ask whose. It was enough for the ranks that the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen.
 
 ---
@@ -274,3 +280,4 @@ By autumn a courier brought Decimus’s end in two lines: a ford in the hills, a
 - **Plants → pays:** Ch 27 aide on Lepidus; the Bononia table (Ch 32).
 - **T12:** May 43, Labeo tells the saying at dinner in Octavian’s camp; Octavian: “no intention of being lifted. In either sense”; the last verb won’t come out as only a joke. Late May, Eporedia: Labeo repeats saying and answer to Decimus, who writes it to Cicero with Labeo’s name, the veterans’ talk, and another request for money (*Fam.* 11.20, 24 May 43).
 - **Must not:** Lepidus is not the sole killer; no Augustus mind. Not re-glossed: the Martians, the Liberators.
+- **Graph pass 2026-10-24:** Octavia’s household news at the Vestals: one of the old house’s freedwomen counts in Antony’s kitchen; Octavian asks her name; Agrippa will find it (pays Ch 36 “Julia Nysa”). At the pay tables Octavian has Laberius’s plot line copied on to Agrippa’s list (pays Ch 36 Twine freedman). Decimus’s aide recap of the Lepidus news cut (SC-82 already shows it).

@@ -247,7 +247,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 **Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 34 SC-88b (the consolation at the bottom of the cedar box; three versions of her death).
 
 **Sources:** Plutarch *Brutus* 13–15, 23, 53; Cicero *Ad Brutum* 1.9.  
-**Must not:** touch the Ch 14–19 gold spine; no narrator verdict on how she died.
+**Must not:** touch the protected Ides core (HUMAN_VOICE_RULES §1); no narrator verdict on how she died.
 
 ---
 

@@ -47,8 +47,6 @@ Calpurnia held the girl’s gaze until inventing an answer would have cost more 
 
 Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
 
-She did not go to the cubiculum yet. The house wanted her to become furniture that waited. She refused that shape for one more room of air.
-
 In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird. “A wren,” she said. “The little one in the story that rode the eagle’s back and stole the crown. Flew into Pompey’s hall this morning with a sprig of laurel in its beak, and the other birds came after it and tore it to pieces on the step. Before the Senate even sat.” Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
 “Enough,” Calpurnia said. Three mouths closed at different speeds. “Chickens are breakfast. Spurinna sells beware by the hour. I will not have this house invent his return out of birds.”
@@ -65,11 +63,11 @@ Phileros tried again from the vestibule edge, softer. “Domina, if the college 
 
 Nysa nodded once, too quickly. Calpurnia let the quickness go.
 
-Only then did Calpurnia walk to the cubiculum and close the door that had opened itself in the night. The latch was ordinary. Ordinary things had begun to feel like insults.
+Then Calpurnia walked to the cubiculum and closed the door that had opened itself in the night. The latch was ordinary.
 
-“He will come back,” she told the empty bed, and hated that she had said it aloud. Speech could not hire a return. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes: the little road habit that had always meant the friend would go. She practised the silence she would keep when the house tried again to make omen into conversation.
+“He will come back,” she told the empty bed, and hated that she had said it aloud. She did not invent the sound that would prove her wrong. She sat with the order she had given, and with Decimus’s chin-tip still bright behind her eyes: the little road habit that had always meant the friend would go.
 
-The bed did not argue. From the street rose the ordinary roar of the Ides. The litter was already gone. Refusing theatre until news arrived with a body attached was all the power left.
+The bed did not argue. From the street rose the ordinary roar of the Ides. The litter was already gone.
 
 ---
 
@@ -113,15 +111,13 @@ The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast
 
 “It is for him,” the man said. “It matters what hand it is read in.”
 
-Caesar’s thumb brushed the seal. Curiosity almost woke. Then he slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists. Unread became ordinary again. Ordinary was how mornings killed.
+Caesar’s thumb brushed the seal. Curiosity almost woke. Then he slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists.
 
 Decimus felt a cold stitch under the ribs. He didn’t know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak. The almost-snatch would live longer in his wrist than in Caesar’s attention.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
 “The street writes to everyone,” said Caesar. “It is only a matter of whether they write back.”
-
-Caesar did not open it. The unread paper rode against his knee like any other chore.
 
 At the portico of Pompey the air changed. Shade, columns, the smell of stone that had watched other men’s ambitions. The Senate sat here while their own house stayed unfinished; Pompey’s statue waited inside. Senators clustered in the false casualness of men who had arrived early on purpose. Decimus saw Casca’s shoulder, Tillius’s mouth already shaped for petition, Cassius too still. Brutus stood carved for a different century.
 
@@ -206,7 +202,7 @@ Trebonius’s face was still warm. Warm, while the Curia poured men out like a b
 
 Antony felt for a weapon he had not brought; no consul carried iron to a Senate sitting. His palm found only the cloth of his tunic.
 
-Trebonius said something mild. Antony didn’t keep it. The mildness sat wrong, warmth while the Curia broke open.
+Trebonius said something mild. Antony didn’t keep it.
 
 Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
@@ -218,5 +214,6 @@ At the door Antony looked back once. Trebonius stood alone in the colonnade’s 
 - **Knows / learns:** Trebonius holds Antony with talk (debts, fingers, Hirtius banter, the law against blades in the Senate); Antony suspects little until the shouts and misses the blows. A tribune named Marcus. The legate’s attendant is waved off.
 - **Plants → pays:** “market day” (Ch 7, 9).
 - **Exit state:** the note unread on the route; Antony held outside; Calpurnia powerless.
+- **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---

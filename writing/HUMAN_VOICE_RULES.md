@@ -31,7 +31,9 @@ A substantive recommendation names:
 
 **Acceptance:** a reviewer can explain the problem without saying that a detector flagged it or that a rule says to change it. If they cannot, leave the passage alone.
 
-**Protected material needs a demonstrated defect.** The strongest sequences (the Ch 14–19 gold spine, the held beats and load-bearing brands in §3.4, the settled non-goals in §4.6) and every deliberate ambiguity (`LLM_WRITING_BRIEF.md` §8) are not revised for improvement, tightening or a reviewer’s taste. They change only to fix a defect shown under this rule, and the fix keeps what made them work. Protection guards against polishing, not against story. When development work (below) genuinely needs a protected passage, open it: say what the new material needs from it, change only that, and record what was kept.
+**Protected material needs a demonstrated defect.** Protection covers beats, not word counts. The protected core of the Ides chapters (Ch 14–19) is: Caesar dies at the Curia of Pompey on the Ides; Trebonius holds Antony outside, and what follows from it; the disputed last words stay disputed; the continuous, dreamlike quality of the killing; the wrong Cinna; Antony spared. With the held beats and load-bearing brands in §3.4, the settled non-goals in §4.6 and every deliberate ambiguity (`LLM_WRITING_BRIEF.md` §8), these are not revised for improvement or a reviewer’s taste. They change only to fix a defect shown under this rule, and the fix keeps what made them work.
+
+The prose around that core is ordinary text (`continuity/lock_architecture_audit.md` §4.1–4.2). Restatements, corridor verdicts, thesis lines and recaps in Ch 14–19 are cut to the same standard as anywhere else, and continuity fixes and weak lines are fixed. Protection guards against polishing and against evening out the Ides peaks, not against story. When development work (below) needs a protected passage, open it: say what the new material needs from it, change only that, and record what was kept.
 
 ### 1a. Revision and development are different work
 
@@ -70,7 +72,7 @@ Fix these when they cluster. Leave scattered singles alone.
 2. **Break breath, not voice.** Shorter cadence is good; sanding every POV into the same plainness is not.
 3. **Protect character-true diction.** Hordeonius invoices; Laberius boots/Capua; Trebonius market-day; Nysa withhold; Decimus ditches; Cassius salt; Octavian furniture ban (dialogue); soft-chain / digest.
 4. **Keep load-bearing brands** even if a detector flags them: soft chain, “I digest,” hopeful-shadow ban, name-take, spare Antony, NOTE-1 mud, wrong Cinna, Seius mule, Decimus ford, Cassius INF.
-5. **Surgical on gold spine (Ch 14–19).** Prefer fewer, higher-value cuts. Do not flatten Ides propulsion.
+5. **Surgical on gold spine (Ch 14–19).** Cut padding there as anywhere (§1), but do not flatten Ides propulsion or touch the protected core.
 6. **Stop after one successful feel-pass** on a chapter unless a human cold read names a concrete leftover cluster.
 7. **Hard cap: two targeted passes per chapter** without a new whole-book reason. A third detector-led pass is a revert signal (see Ch 5). A whole-book audit with evidence for each change (for example the 2026-10-23 tightening pass, `archive/pass_logs/tightening_pass_2026-10-23.md`) is such a reason; it does not reset the count for later detector-led passes.
 8. **No em dashes** in scenic prose (author voice).
@@ -87,7 +89,7 @@ Fix these when they cluster. Leave scattered singles alone.
 3. **Don’t delete every short punch** (`Cassius ate.` / `Glory.` / `Ditch timing.`) — those are human, not the problem.
 4. **Don’t stack aphorism replacements.** Swapping one thesis wrapper for another (“That would have shown need”) is still caption.
 5. **Don’t run chapter-by-chapter detector loops.** If Ch N still “fails” after two feel-passes, leave it and trust cold read — or revert.
-6. **Don’t reopen Ch 1–3 / Ch 20–23 / Philippi** for polish wars without a new whole-book reason (settled non-goals).
+6. **Don’t reopen Ch 1–3 / Ch 20–23 / Philippi** for polish wars without a new whole-book reason (settled non-goals). Cutting restatement and fixing continuity are not polish wars.
 7. **Don’t treat the watch-list as a hit queue.** Notice ≠ revise.
 8. **Don’t impose quotas or bans** on sentence length, fragments, adverbs, metaphors, humour, sensory detail, aphorisms or any construction beyond the author-voice rules above (§3.8–9).
 9. **Don’t require every scene to contain** conflict, humour, a physical action or a reversal, and don’t expand a landed chapter to reach a word count.

@@ -29,17 +29,29 @@ A man asked whether amnesty meant he could stop paying. Hordeonius tapped the in
 
 “The Senate has pardoned murderers,” said Hordeonius. “I have never lent to a murderer. I am therefore under no obligation to forgive you.”
 
-A junior senator (Seius’s type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
+Seius laughed too loudly. He had come in the whitened toga he had bought on Hordeonius’s paper, for an aedile’s canvass in an election Caesar had arranged before Parthia, and Caesar would not be going to Parthia. Sosia, on the next stool, did not laugh. The laugh wanted company; the stall offered rates instead.
 
 Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. Hordeonius did that sum before the rumour finished: several months of a legionary’s pay, times every citizen on the grain list, and the list ran to hundreds of thousands. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. A fourth stack, softer and meaner, was the queen across the river, still in Caesar’s gardens with the child. Hordeonius did not certify the child. He certified that men were already treating her as a clause that might move leases.
 
-“Acts stand,” Sosia muttered, tasting the amnesty bargain. “Gardens walk. Who finishes the queen?”
+Seius wiped his eyes. “You talk as if mourning were a price list.”
 
-“Whoever opens the seal,” Hordeonius said. “Or whoever pretends not to notice she was priced before the seal existed.”
+“Then buy a list,” Hordeonius said, stylus already moving, “or tell me what you came for.”
 
-The junior wiped his eyes. “You talk as if mourning were a price list.”
+Seius had come for a month. The canvass paper fell due on the Kalends: the toga, the small gifts, the jar of oil good enough to be seen carrying, all bought for a year that might not now have elections in it. “Roll it,” he said. “Until the Senate decides whether there is a year.”
 
-“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became entries in a daybook. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
+Half the Janus was calling in Caesarian paper that morning, every loan secured on a dead man’s goodwill. Calling Seius would clear a column and cost nothing but a client who had never been worth much. Hordeonius looked at the column, and then at the man in the white toga, sweating through it.
+
+“I will roll it,” he said. “At two in the hundred. On the Sabine farm. Your wife’s father’s.”
+
+Seius’s laugh went out like a lamp. “Not the farm.”
+
+“Then two and a half, and no farm.”
+
+“Done,” said Seius, too fast, and went before the stall could think of a third thing.
+
+“You could have had his house on the Kalends,” Sosia said.
+
+“I could have had a house nobody will buy this month.” Hordeonius entered the new rate. “Interest keeps. Houses burn.”
 
 He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
 
@@ -47,9 +59,9 @@ Hordeonius looked at the copy with the tenderness due a dead client who had once
 
 “This,” he said, gentle as a blessing, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
 
-The whisperer bowed. “Of course. Sacred. Living seals only.” Past the next pillar he caught a runner who had been waiting for crumbs: “He mourns punctual corpses and prices gardens. Ask him for blackmail and he sells you a sermon. Next time we take the tablet to someone who still believes the dead can squeal.”
+The whisperer bowed. “Of course. Sacred. Living seals only.” He took the tablet two pillars down, to someone who still believed the dead could squeal.
 
-Hordeonius heard the shape without needing every word. He almost added that he mourned Visellius still. He did mourn him, as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
+He did mourn Visellius, as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
 
 “He says he mourns you,” Sosia said, without looking up from his own tablet.
 
@@ -67,6 +79,7 @@ He waited for the next fool with a question and a purse.
 
 ## Continuity notes (SC-48)
 - **Knows / learns:** the will rumour hits the stalls before or as it is read. Basilica, Janus, the scale in sesterces; the amnesty as a market refusal. Queen, gardens and child priced as a Roman problem before the seal. SIDE-1 blackmail fizzles (OPEN-0). The sum stays street talk.
+- **Graph pass 2026-10-24:** Seius at the stall in the whitened toga; asks a month on the canvass paper (Kalends). Hordeonius rolls it at two in the hundred on the Sabine farm; Seius refuses the farm; two and a half, no farm. Sosia: “You could have had his house.” “Interest keeps. Houses burn.” Pays Ch 30 (Dromo, the extra half) and Ch 32 (the farm taken as security).
 
 ---
 
@@ -85,13 +98,13 @@ Overhear risk: Extreme once leaked
 
 Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame, the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
-Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus’s second line would make knife-men into a mime’s turn, and nobody laughed with him. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
+Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus’s second line would make knife-men into a mime’s turn, and nobody laughed with him. Antony stood where a consul stands when he intends to own the consequences.
 
 The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Antony knew the law well enough to dislike it: a will could adopt, make a son from the grave, and pass him the name, the household gods and every client the dead man had. Legal. Also, for an eighteen-year-old great-nephew Antony had hardly noticed, a very large coat. Pinarius and Pedius, the other great-nephews, splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch. Second degree: Decimus would see a coin only if the first heirs failed. Remote. But a place, and a place meant the dead man had written his name down.
 
 Antony laughed once, short. Not mirth. Recognition.
 
-“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink. The laugh wanted to become a story. Antony swallowed it. Stories would be for the Forum.
+“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree. Second line. The portico joke had grown teeth and ink.
 
 What mattered: the boy. The name. The crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts: thin shoes; a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer; a paper-son who had never fed a veteran. Useful ink. Not a rival. He filed that price without writing it down.
 
@@ -104,8 +117,6 @@ What mattered: the boy. The name. The crowd’s three hundred reasons to remembe
 Someone urged delay until the city cooled, polite as a man offering a cloak in a fire.
 
 “The city is not cooling,” Antony said. “It is fermenting. Open the jar.”
-
-In the anteroom, after the seal’s news had begun to leak toward the street, the delayer said nothing more to the clerk who still wanted hours. The clerk would hear the boy’s name from the street soon enough; delay had already lost.
 
 ### Nysa
 
@@ -134,5 +145,6 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 ## Continuity notes (SC-49)
 - **Knows / learns:** Suet. *Jul.* 83: read at Antony’s house; Piso (Calpurnia’s father); the Vestals; Octavius three-quarters, Pedius and Pinarius a quarter; adoption and the name; Decimus an heir in the second degree; the gardens and 300 sesterces a man. Atia. Antony prices Octavius as a paper son, not a rival. At the edges: the widow’s steward, a freedman with Caesar’s house-ring, a junior (D3). Formal and street timing deliberately blurred.
 - **Plants → pays:** Decimus as second heir pays Ch 4; the name as paper the dead can write (Ch 22).
+- **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---

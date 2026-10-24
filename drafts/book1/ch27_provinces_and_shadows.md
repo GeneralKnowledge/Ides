@@ -227,13 +227,9 @@ The aide asked anyway, one finger holding open the empty slot in the letter-case
 
 “One word from Lepidus goes to whoever is standing nearest when he has to say it,” Decimus said. “Pray it’s us.” He did not pray. He sent the aide to count the grain.
 
-A southern courier arrived near dusk with dust on his cloak and a packet that smelled of harbour pitch. The queen was home in Alexandria, boy and all, months gone from Caesar’s gardens, and her people were calling it continuity to anyone who asked, not flight. The courier said it like marketplace weather. Decimus did not chase the rumour across the sea. He had hinges. He had Antony’s hunger. He set the packet under the stone with Antony’s courtesy-threats. What the queen meant to do with Egypt was Egypt’s business until it had ships in his harbour.
+A southern courier arrived near dusk with a packet that smelled of harbour pitch. The queen was home in Alexandria, boy and all, months gone from Caesar’s gardens. Decimus set the packet under the stone with Antony’s courtesy-threats. Egypt was Egypt’s business until it had ships in his harbour.
 
-Cicero’s latest letter, opened on the same stone, carried a margin note in Cicero’s own hand, unease, not fact. Sextus still held, or seemed to hold, the western sea’s knife; do not invent a Republic that ignores fleets. A second report under the note claimed Sextus finished. Cicero had kept both coals. Decimus kept the contradiction as one more unfinished edge on a board already loud with Antony. He almost smiled at philosophers discovering docks. The smile died when he remembered his own thinning chest.
-
-A different courier asked whether to answer Antony’s latest written “request” with softness. Decimus chose a sentence that sounded like law and felt like a door barred from inside.
-
-The sentence did not need an answer. A rider came up the Via Aemilia from Ariminum with his horse lathered to the girth: Antony had left Rome with what the boy had left him of the Macedonian legions and was on the road north. Not hurrying. That was worse.
+A rider came up the Via Aemilia from Ariminum with his horse lathered to the girth: Antony had left Rome with what the boy had left him of the Macedonian legions and was on the road north. Not hurrying. That was worse.
 
 Decimus did not wait to be caught on the open plain. He took his legions into Mutina, because Mutina had walls, a granary, and the road running past its gate. In the yard, while carts were loading, the levy spokesman asked what came next.
 

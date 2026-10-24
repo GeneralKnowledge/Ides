@@ -47,9 +47,7 @@ Cicero had walked over from his own house along the shore to return the boy’s 
 
 “Philippus will not call him that,” someone murmured.
 
-“Neither will I,” Cicero said lightly, as if it were a matter of taste. Behind him two elders from a neighbouring villa were already converting the courtyard chant into wine-shop sport updated. Not *whether* the boy would squeak, but *how many weeks* until Antony’s laugh bought him cheap. Underestimation had changed costume. It had not retired.
-
-Cicero’s smile held. “They are still exercising,” he murmured, to no one in particular. “Tell me when the exercise stops amusing them.”
+“Neither will I,” Cicero said lightly, as if it were a matter of taste.
 
 Octavian, alone for a stolen moment on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
@@ -91,8 +89,6 @@ The waiting veteran shifted. “If the name pays land,” he said carefully, “
 
 Fulvia’s eyes flicked to Antony, price and risk and theatre, then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten. For a breath the veteran’s sentence almost interested him. Then Decimus’s Cisalpine hunger filled the interest the way a real war fills a map.
 
-He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees that kept the dead man’s calendar breathing. The crowd heard stability. Liberators heard a noose made of paperwork. Antony heard himself buying time. Time, in April, still felt cheaper than blood.
-
 “If the boy becomes loud,” Fulvia said, “buy his friends or break them. Do not wait until the wine shops stop laughing.”
 
 “He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.” The word was easy because it kept the boy small enough to mock. Mockery cost less than another front.
@@ -100,10 +96,6 @@ He posted continuity like piety: Caesar’s acts stand. Ink dried on decrees tha
 Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you. Campania already stopped.”
 
 “Shadow,” Antony repeated, amused, tasting an officer’s old joke secondhand. “Even better. Shadows don’t hold fasces.”
-
-A clerk asked whether the Campania rumour should be answered in writing. Antony waved him off. Writing gave squeaks a shape. He preferred them as jokes told over wine, already half forgotten by morning.
-
-The veteran’s careful sentence sat in the room like an unopened letter. Antony didn’t open it. He had a city to drink into loyalty, and a name he still thought belonged to a corpse and a posting board.
 
 ---
 

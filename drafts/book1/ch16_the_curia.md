@@ -97,9 +97,9 @@ Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Ca
 
 Brutus understood it a breath late. One steep road up, Jupiter’s walls at the top: a few men could hold it, and the whole city would know where to look.
 
-In the lane of light just beyond the Curia door, before the crowd’s animal closed again, Cassius’s mouth changed. “Capitol,” he repeated, softer, not for the room. “Say it as fear. Antony was held outside, Trebonius’s market day. That gift is already walking toward us with a sword-shaped appetite. Do not stand over the marble arranging vocabulary while the spare learns he is spare.”
+At the door Cassius said it again, softer, for Brutus alone. “Capitol. Trebonius has Antony talking in the portico, and talk does not hold a consul long.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted, long enough to feel the softness as a weight that would follow him up the hill. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved. Under the crush the spare was not mercy’s clean face now. It was a clock. The crush did not empty him. It only made room to walk.
+Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the late hour after forgiveness when Caesar had still wanted his company and made the war feel finished between them. The ordinary talk. The laugh at something small. The hand on his shoulder like kinship politics had not earned. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
 
 “Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 
@@ -167,5 +167,6 @@ She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome op
 - **Knows / learns:** a false rumour that Antony is dead; Nysa passes it on in good faith; it mutates (Dolabella, a list). The bakers spread it (Ch 13).
 - **Plants → pays:** corrected in Ch 17 and 19.
 - **Exit state:** Caesar dead; the killers on the Capitol; the streets in chaos.
+- **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
