@@ -96,7 +96,7 @@ At the corner Gavius himself stood under the same wood with a woman who had borr
 
 Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed. Arrived late. Left early. Charged interest he could not collect from his own nerves.
 
-“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason and told himself archaeology was closed.
+“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason. Bucco was back from the south that week, Sosia said, lending to the triumvirs’ soldiers against their share of the auctions, and no magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son’s throat. Hordeonius told himself archaeology was closed.
 
 ### Nysa
 

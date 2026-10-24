@@ -104,7 +104,7 @@ Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living
 
 Casca leaned forward. “Courtesy is how we all stayed alive. It is also how the diadem got a second cheer. I am tired of surviving beautifully.”
 
-Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful. The shoulder-touch from the spared years sat in his muscle anyway, closer than paint, harder to draft away. For a breath he let himself picture Caesar’s face if the door ever opened with a knife behind it, and the picture hurt enough that he almost ordered them out for that reason alone.
+Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful. For a breath he let himself picture Caesar’s face if the door ever opened with a knife behind it, and the picture hurt enough that he almost ordered them out for that reason alone.
 
 “If it is done as murder,” he said, back still half-turned, “I am not with you. If it is done as a street, I am against you. I have not said yes. I have said I hate kings. Hating kings is not the same as opening a friend’s door with a knife behind it.”
 

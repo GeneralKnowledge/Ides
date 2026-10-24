@@ -1,6 +1,6 @@
 # Chapter 31: Isolation and Fasces
 
-**Scenes:** SC-82, SC-83 · late Apr–autumn 43 · A10 end / A12 prep · C1 / C5
+**Scenes:** SC-82, SC-82a, SC-83 · late Apr–autumn 43 · A10 end / A12 prep · C1 / C5
 
 ---
 
@@ -127,6 +127,68 @@ They asked for his name. They already knew it. He gave it because lying would ha
 There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee. The ditch at the ford’s edge was shallow and ordinary: meltwater, a broken rein, the smell of wet wool.
 
 If he thought of Caesar’s laugh one last time, the thought stayed inside.
+
+---
+
+# SC-82a: The Legion That Stood
+
+POV: Brutus · Macedonia, the camp
+Date / place: June 43 · the parade ground; the gate of his quarters
+Canon refs: T13 · T8 · Cic. *Ad Brut.* 1.9 · Plut. *Brut.* 26, 53 · pays Ch 34 SC-88b (the standing mutiny; the June letter)
+Info ENTER: Gaius Antonius working on the legions · EXIT: Porcia dead; Brutus does not ask how; the legion moves; Gaius to the ship
+Overhear risk: The whole camp
+
+---
+
+On the second morning the legion stood again.
+
+It stood on the parade ground in its lines with its shields grounded and its standards up, in good order, and when the trumpet went it did not move. Nobody shouted. Nobody threw anything. Five thousand men stood in the sun as if they had been told to, and looked across the camp at the good house where Gaius Antonius had dined with their centurions every night that week.
+
+Brutus watched from the gate of his quarters. He had a speech ready. He had had it ready since the first morning, and each time he looked at the lines it seemed more likely that the speech was what they were waiting for, so that they could refuse to listen to it.
+
+“They want to be asked,” said one of his officers.
+
+“They want to be paid,” said another.
+
+“They want to be his brother’s,” Brutus said, “and they do not want to say so.”
+
+A rider came up the coast road in the middle of that, grey with dust, with his mother’s seal on the bag, and the guards let him through. It was Servilia’s freedman, the old one who had carried her letters for thirty years and had once carried Brutus on his shoulders round the atrium to look at the masks. He got down off the horse badly. He did not hand over the bag. He stood in front of Brutus with it held against his chest, and Brutus knew from the way he held it.
+
+“Tell me,” Brutus said.
+
+“The lady Porcia, master. In Rome. Before the Kalends.”
+
+Brutus nodded. He found he was still nodding and stopped.
+
+“Your mother writes that she had been...”
+
+“No,” Brutus said. “Not how. Not yet.”
+
+The freedman opened the bag. There were three letters on top, and the uppermost had Cicero’s seal. Cicero must have written the same day the news went round the Palatine and sent it to Servilia’s house to travel with hers, because Cicero would always know which courier was fastest. Brutus took that one. He could bear Cicero. Cicero would be well written.
+
+It was. It told him he was a philosopher, and that philosophers were watched. It told him that the whole army was looking to see how he bore it, and that a man who had read what he had read would know how to set a measure to grief.
+
+He looked up from the wax. Across the parade ground five thousand men were looking at him.
+
+They had seen the rider. They had seen the old man’s face, and the bag held like that, and their general at his gate reading. Word was already going down the ranks the way word does in a camp, faster than a trumpet: the front cohort, then the second, a turn of heads like wind going over barley.
+
+He gave the letter to the freedman. “Put it with the others.”
+
+Then he walked out onto the parade ground without his lictors and without the speech. The sun was hot on his head. He walked until he was in front of the first cohort, near enough to see the sweat on the standard-bearer’s lip, and he stopped there and said nothing at all. He had nothing he could say that would not be either about her or not about her, and both were impossible.
+
+“Sound it,” he said to the trumpeter, over his shoulder.
+
+The trumpet went.
+
+For three breaths nothing happened. Then the centurion of the front cohort, a broad Picene with a scar through one eyebrow who had dined at Gaius’s table two nights running, lifted his shield off the ground. His men lifted theirs. Down the line, cohort by cohort, the shields came up, and the standards dipped and rose, and the legion turned the way it was meant to turn and marched off the parade ground to its drill.
+
+Brutus stood and watched it go. He knew why they had moved. It was not the Republic, and it was not his speech, and it was not the pay chest. They had moved because their general’s wife was dead and he had walked out into the sun with no words, and they could not bring themselves to make him stand there.
+
+He would have given a great deal for it to have been the Republic.
+
+That evening he gave the order for the ship. Gaius would be well treated, with his own servants and a guard, anchored off the coast and out of reach of anyone’s dinner. Brutus wrote it to the Senate as a measure for Gaius’s own safety, and it was well written.
+
+His mother’s letter he did not open. He knew it would tell him how. He put it in the cedar box with Cicero’s, unopened, and sat with his hand on the lid until the lamp went out on its own. He thought of her hand in March, hot in his until the window greyed, and her voice saying *I can*.
 
 ---
 
@@ -276,6 +338,7 @@ By autumn a courier brought Decimus’s end in two lines: a ford in the hills, a
 
 ## Continuity
 - **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come. **Cularo (S3):** June, Decimus brings his recruit legions and a few veteran cohorts over the passes to Plancus at Cularo on the Isara; Plancus’s scent; side-by-side camps (Plancus on the higher ground); joint letters to Rome (“one mind”; hold the Isara; the boy must be sent north; he doesn’t come); Plancus’s brother Plotius in Rome, same scent (pays Ch 33 SC-86b). Mid-August: the boy consul with Pedius; the Pedian court condemns the men of the Ides in absence, Decimus among them (fire and water). Pollio’s sealed letters for Plancus; Decimus asks at dinner; Plancus: Pollio thinks the Curia men are the price of peace; “I have not answered him.” September dawn: Plancus’s legions cross his Isara bridge to Antony and Lepidus; Plancus raises a hand halfway over, Decimus doesn’t; a courteous letter after; the recruits walk off, some to Plancus, some to the boy, some home; Decimus stops counting. a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech.
+- **SC-82a (Brutus, June 43; added 2026-10-24):** second morning of the standing mutiny Gaius Antonius has worked up; Servilia’s old freedman brings the news of Porcia; Brutus stops him before *how*; reads Cicero’s consolation (*Ad Brut.* 1.9: philosophers are watched) and looks up to find the legion watching; walks out without lictors or speech; the trumpet; the Picene centurion lifts his shield first; they moved for her, not the Republic. Gaius to the anchored ship that evening. Servilia’s letter left sealed in the cedar box (pays Ch 34 SC-88b).
 - **SC-83 (S5):** the consulship (19 Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse. Philippus writes: forty-two years for the chair, he has nineteen. July: four hundred centurions and picked men go to Rome; Cornelius (old burn down one forearm) throws back his cloak in the House, “If you will not make him consul, this will” (Suet. *Aug.* 26), and tells it at the pay line; Octavian neither ordered nor forbade it. Late July: the Rubicon with eight legions; he feels nothing, the men feel it for him. The Senate’s money offered then recalled; two African legions go over outside the walls; Cornutus the urban praetor falls on his sword. Atia and Octavia in the Vestals’ house; Octavia uses his old name; Atia kept the jewel box, he says “Not now either” (pays Ch 22); “Eat something… before you do anything you can’t take back.” Cicero greets him last: “You are the last of my friends to greet me” (App. *BC* 3.92), with the three verbs in his head; the night rumour, Cicero at the Curia door, then the closed litter. Treasury chests from Saturn set out in the Forum: 2,500 a man, the rest promised; “Honours after the line is fed.” Election on the Field of Mars with Pedius (another grandson of Caesar’s sister, coughs); six vultures at the auspices, six more at the speech; the camp says twelve and Romulus, Agrippa says six and six and the river (App. *BC* 3.94; Suet. *Aug.* 95), left open. The fasces as twelve lictors whose rods move the street. The Pedian court condemns the men of the Ides in a day; Octavian turns the tablet face down. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death (Sept 43) reaches him after the fasces, as the push to Bononia; Bononia comes as a two-seal invitation to the river island.
 - **Plants → pays:** Ch 27 aide on Lepidus; the Bononia table (Ch 32).
 - **T12:** May 43, Labeo tells the saying at dinner in Octavian’s camp; Octavian: “no intention of being lifted. In either sense”; the last verb won’t come out as only a joke. Late May, Eporedia: Labeo repeats saying and answer to Decimus, who writes it to Cicero with Labeo’s name, the veterans’ talk, and another request for money (*Fam.* 11.20, 24 May 43).

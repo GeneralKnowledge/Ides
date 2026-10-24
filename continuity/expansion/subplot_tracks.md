@@ -147,7 +147,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | new 26 | Athens: lectures, Marcus Cicero and Horace recruited; Hortensius hands over Macedonia |
 | Direction change | new 26 | Apollonia (spring 43): Gaius Antonius surrenders; Brutus spares him, hears Caesar’s warmth in his own voice |
-| Travel | 34 | Gaius works on the legions; moved to a ship under guard; Cicero urges death |
+| Travel | 31, 34 | Gaius works on the legions; the standing mutiny ends the morning Porcia’s news arrives (Ch 31 SC-82a); moved to a ship under guard; Cicero urges death |
 | Payoff | 34, 36 | After Cicero’s and Decimus’s deaths Brutus orders Hortensius to kill him; Antony kills Hortensius on his brother’s grave |
 
 **Landed 2026-10-24:** Ch 26 SC-69a (Athens: statues, Marcus Cicero, Horace, Hortensius) and SC-69b (Apollonia: Gaius spared, Caesar’s warmth, the stopped hand); Ch 34 SC-88b (the cedar box, the mutiny, the ship, the order); Ch 36 SC-93 (Antony’s cloak on Brutus; “Take him to my brother”).
@@ -242,9 +242,9 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 13 | The thigh wound, shown after GO |
 | Direction change | 21, 25 | Lanuvium: her account of the Ides morning (false death report); Velia: Hector and Andromache painting |
-| Payoff | 34 | Cicero’s consolation reaches Brutus; manner of death left open |
+| Payoff | 31, 34 | June 43: the news reaches Brutus during the standing mutiny; Cicero’s consolation; he does not ask how. Ch 34 callback: three versions of her death, none chosen |
 
-**Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 34 SC-88b (the consolation at the bottom of the cedar box; three versions of her death).
+**Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 34 SC-88b (the consolation at the bottom of the cedar box; three versions of her death). **2026-10-24 (through-line pass):** Ch 31 SC-82a carries the news on the page; SC-88b trimmed to a callback.
 
 **Sources:** Plutarch *Brutus* 13–15, 23, 53; Cicero *Ad Brutum* 1.9.  
 **Must not:** touch the protected Ides core (HUMAN_VOICE_RULES §1); no narrator verdict on how she died.

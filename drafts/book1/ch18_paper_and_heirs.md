@@ -53,7 +53,7 @@ Seius’s laugh went out like a lamp. “Not the farm.”
 
 “I could have had a house nobody will buy this month.” Hordeonius entered the new rate. “Interest keeps. Houses burn.”
 
-He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
+He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal. Hordeonius had already looked for the Antonian name himself that morning. Bucco’s stool by the Janus stood empty, his boards taken down in the night, and the soldiers’ widows who owed him were telling each other he had gone south with his tablets before anyone thought to ask for them.
 
 Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
 

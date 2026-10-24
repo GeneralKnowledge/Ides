@@ -15,10 +15,10 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | Prologue | SC-00 | Cleanthes | Cato’s death at Utica (Apr 46); the pardon refused (PROLOGUE-1) |
 | 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour climber Sextilius; queen/child rumour |
 | 2 | SC-01, SC-02 | F4, F1 | Cato/Africa market weather; spectacle residue; land hunger seed |
-| 3 | SC-03, SC-04 | F2, F4 | Debt/patronage |
+| 3 | SC-03 (SC-04 cut 2026-10-24) | F2 | Debt/patronage |
 | 4 | SC-05, SC-06, SC-07, SC-09 | F3, BRU, DEC | Munda; Porcia pressure; will whisper (no dinner replay) |
-| 5 | SC-10, SC-11 | OCT | Peripheral boy; Apollonia/Agrippa plant |
-| 6 | SC-12, SC-14 (SC-13 folded into F4) | CIC, F4 | Dictator perpetuo; Parthia clock; offices market |
+| 5 | SC-11 (SC-10 folded 2026-10-24) | OCT | Peripheral boy; Apollonia/Agrippa plant |
+| 6 | SC-11b, SC-12, SC-14 (SC-13 folded into F4) | BRU, CIC, F4 | City praetorship over Cassius; dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
 
 *SIDE-1 body (Ch 10) is early Feb 44, before the Lupercalia: Act 2 is grouped by network, not strict date.*
@@ -73,9 +73,9 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
 | 30 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
-| 31 | SC-82, SC-83 | DEC, OCT | Isolation; Cularo; the march on Rome and the consulship |
+| 31 | SC-82, SC-82a, SC-83 | DEC, BRU, OCT | Isolation; Cularo; Porcia’s death reaches Brutus; the march on Rome and the consulship |
 | 32 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
-| 33 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
+| 33 | SC-86, SC-86a, SC-86b, SC-86c | CIC, ANT, F3, F1 | **Cicero death**; Julia at the tribunal; the brothers’ song; Hortensia |
 | 34 | SC-87a, SC-87, SC-88, SC-88b, SC-88c | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
 | 35 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
 | 36 | SC-92–95, SC-95a, SC-95b (SC-94 in SC-92 breath) | BRU/OCT, ANT, report, F1, F3 | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); Nysa’s true number and her own name (T1, SC-95a); Laberius’s twine, the last scene (T4, SC-95b) |
