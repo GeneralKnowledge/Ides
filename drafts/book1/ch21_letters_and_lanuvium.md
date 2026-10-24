@@ -140,7 +140,7 @@ People brought things. Bread. Honey cakes. Little jars of oil no bigger than a t
 
 A man stood by the altar most days. He called himself Marius, the grandson of the great Marius, who had been Caesar’s uncle by marriage. He had a fine voice and a good beard and a story about his descent that grew longer every time Nysa heard it. He led the prayers. He took the offerings in at the end of the day for safekeeping. The crowd loved him, because he loved Caesar louder than anyone, and because he said the names of the men of the Ides out loud with a curse after each one, in the open Forum, where the Senate could hear.
 
-Nysa went again the next day, without being sent. She took nothing. She stood at the back of the crowd and looked at the stone and thought about the morning she had dressed Calpurnia in the grey and the master had gone out of the door, and the tablet in her tunic that was ash now. She did not pray. She did not know who she would have prayed to. It was only that the place was there, and she had nowhere else to stand that was his.
+Nysa went again the next day, without being sent. She took nothing. She stood at the back of the crowd and looked at the stone and thought about the morning she had carried Calpurnia’s water in the grey and the master had gone out of the door, and the tablet in her tunic that was ash now. She did not pray. She did not know who she would have prayed to. It was only that the place was there, and she had nowhere else to stand that was his.
 
 On the fifth day the altar had a column.
 

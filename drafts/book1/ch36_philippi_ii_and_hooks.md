@@ -92,7 +92,7 @@ Gaius had been killed in the spring, quickly, without insult, as the order said,
 
 Nobody asked whether he meant the coast, which was a long way off, or whether he would be content with something nearer and quicker and a stone that would do. Antony did not tell them. Hortensius looked at him a moment longer, with his father’s eyes, and then the soldiers took him out, and Antony drank, and the officers began, carefully, to talk about the East.
 
-A tribune mentioned Italian land assignments, farms, promises, men who would want soil that already had owners. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
+A tribune mentioned Italian land assignments, farms, promises. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
 By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains until it bills you in veterans who know which farms have owners.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
 
@@ -238,7 +238,7 @@ The surveyor set up his groma by the boundary stone and squinted along it. His m
 
 “This land belongs to Gnaeus Aulius,” the farmer said. He said it to the freedman, not to Laberius. “My father bought it from the man who had it before the war. I have the tablet. I can show you the tablet.”
 
-“I’m sure you can,” said the freedman, not unkindly. He had a clerk’s patience, and he had said this before, many times, this spring. “The land of eighteen cities is assigned to the veterans by the triumvirs’ decree. Capua is one of them. There’ll be compensation.”
+“I’m sure you can,” said the freedman, not unkindly. He had said this before, many times, this spring. “The land of eighteen cities is assigned to the veterans by the triumvirs’ decree. Capua is one of them. There’ll be compensation.”
 
 “When?”
 
