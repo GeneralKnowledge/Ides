@@ -36,7 +36,7 @@ Brazier talk; counting left-hand men; smelling horse-lines; not searching desert
 |-------|----------|------|
 | Setup | 3 | Capua prayer; mopping |
 | Pressure | 13, 19 | Powder; funeral Capua named; fist on air not torch; liberty≈Capua joke |
-| Cost | 24, 28 | Veterans listen; mud echo |
+| Cost | 24, 28 | Veterans listen; Forum Gallorum: spares Rufrius in the reeds, Gaius sees; Gaius dies at Mutina; mud echo |
 | End | 31, 33–34 | Plancus’s triumph, the brothers’ song; refuses the tomb head-hunt Vibius joins; Philippi field |
 
 ## Behavioral tells

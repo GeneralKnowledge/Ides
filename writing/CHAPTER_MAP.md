@@ -70,7 +70,7 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 28 | SC-80, SC-81, SC-81b | F3, rumour, CIC | Mutina battles; poison rumour only; Cicero’s *tollendum* |
+| 28 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
 | 29 | SC-82, SC-83 | DEC, OCT | Isolation; consulship |
 | 30 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
 | 31 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |

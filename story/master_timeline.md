@@ -56,7 +56,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 |------|-------|------|-----------|
 | 1 Jan | Hirtius and Pansa consuls; Octavian given praetor’s command | H | Ch 27 (Curia threshold) |
 | Jan | Trebonius killed at Smyrna by Dolabella | H | Reported Ch 32; T10 will dramatise |
-| 14 Apr | Forum Gallorum; Pansa wounded | H | Ch 28 (Vibius’s litter); S4 will dramatise |
+| 14 Apr | Forum Gallorum; Pansa wounded; Hirtius’s dusk counterstroke | H | Ch 28 SC-79 (Laberius) |
 | 21 Apr | Mutina; Hirtius killed; Pansa dies after | H | Ch 28; poison rumour **C** (AMB-2) |
 | 20 Apr | True news of Forum Gallorum; crowd carries Cicero to the Capitol and the Rostra | H | Ch 28 SC-81b (recalled) |
 | Late Apr–May | Cicero’s *laudandum, ornandum, tollendum*; Labeo carries it to Octavian | H | Ch 28 SC-81b, Ch 29; T12 |
