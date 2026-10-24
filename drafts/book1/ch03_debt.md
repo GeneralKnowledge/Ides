@@ -88,7 +88,7 @@ Overhear risk: Medium
 
 ---
 
-“Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is a temporary reduction in risk premiums. Do not confuse it with virtue. Virtue does not clear.”
+“Peace,” Hordeonius announced to a knot of men who wanted comfort priced, “is the month I lend at one in the hundred instead of two. Do not confuse it with virtue. Virtue does not clear.”
 
 He adjusted tablets with priestly care. Africa’s ending had softened some rates, the same *closed enough* the Forum had spit about while cake-sellers laughed. The western edges of the paper still burned enough to keep bakers polite.
 

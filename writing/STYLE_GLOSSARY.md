@@ -68,6 +68,10 @@ Smoke, urine alleys, garum, blood from sacrifice, oil in baths, horse sweat, wet
 - Banned: a speaker briefing a listener on what both already know (“As you know, Bob”). The tell is “everyone knows”, or a speaker reciting the listener’s own province, office or career to them.
 - Introduce each real person **once** with traits; later scenes show them, they do not re-list the same traits.
 
+### Modern concepts → Roman ground
+
+Swap the concept, not just the word. Bankers stay bankers: futures → sold forward like olives on the tree; liquidity → ready coin; risk premium → one in the hundred a month; cash flow → the Kalends; line item → an entry in the daybook; brand → name; footnote → a line in the annals; punchline → a mime’s turn; homework → lessons, declamation; minute → moment or hour; tax return → census declaration; decimal → twelfths.
+
 ### TONE-1 seasoning (see `voice/TONE_SPARTACUS_GRRM.md`)
 
 - Slight elevation OK (Spartacus-adjacent); not every line inverted.  

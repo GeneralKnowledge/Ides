@@ -110,7 +110,7 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 “He is a very good writer, majesty.”
 
-“He is a very good writer who thinks I am a bad debt. I would rather be a bad debt than a footnote.”
+“He is a very good writer who thinks I am a bad debt. I would rather be a bad debt than a line in someone’s annals.”
 
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 

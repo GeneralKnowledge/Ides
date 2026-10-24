@@ -94,7 +94,7 @@ Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did no
 
 Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring.
 
-Sosia, his collector, muttered that philosophers were bad for cash flow. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn’t.
+Sosia, his collector, muttered that philosophers were bad for the Kalends. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn’t.
 
 When the perfume had cleared, Sosia jerked a chin at the empty stool. “So if someone softens Basilus for liberty…”
 

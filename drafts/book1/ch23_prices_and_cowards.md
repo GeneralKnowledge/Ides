@@ -16,7 +16,7 @@ Overhear risk: Medium
 
 Hordeonius arranged his face into mourning for the Republic and his stylus into appetite.
 
-“Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme liquidity.”
+“Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme ready coin.”
 
 Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
 
@@ -76,7 +76,7 @@ Phileros kept the short laugh for the stair, where no steward’s kindness could
 
 Nysa had carried the first chests herself as far as the gate, the night of the Ides, by lamplight, and watched Antony’s men take them into the dark. Safe, the consul had promised Calpurnia. These were the leftovers. Careful hands were collecting what safe had missed.
 
-Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become someone else’s line item. The incomplete *spare*/*stay* splinter was ash. The house’s new seals were not. Danger continued without the old wax.
+Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become an entry in someone else’s daybook. The incomplete *spare*/*stay* splinter was ash. The house’s new seals were not. Danger continued without the old wax.
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 

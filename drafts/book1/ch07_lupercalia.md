@@ -149,7 +149,7 @@ Cassius had never once seen Trebonius drink the cup he carried. Gaul, Spain, a c
 
 “He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
 
-Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Short fuse, long grudge. Casca doesn’t do essays. He does the first ugly minute.”
+Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Short fuse, long grudge. Casca doesn’t do essays. He does the first ugly moment.”
 
 Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
 
@@ -165,5 +165,5 @@ Cassius kept *market day* beside *Casca* and *law’s face* and did not go back 
 
 ## Continuity
 - **Knows / learns:** after Lupercalia, the conspiracy begins to be spoken. Brutus resists aloud. Cassius uses Trebonius to bring in Casca.
-- **Plants → pays:** Galba (winter terms, consulship slight); Ligarius (pardoned after Africa); Casca (the first ugly minute); Trebonius (market day; holding Antony, Ch 15). Basilus, Cimber and Tillius come later.
+- **Plants → pays:** Galba (winter terms, consulship slight); Ligarius (pardoned after Africa); Casca (the first ugly moment); Trebonius (market day; holding Antony, Ch 15). Basilus, Cimber and Tillius come later.
 - **Must not:** no daggers yet.
