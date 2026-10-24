@@ -41,7 +41,7 @@ She stopped. Words made it smaller. She didn’t want it smaller.
 
 Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter. A settling. Something hung for war had remembered it was metal.
 
-Out in the service passage a girl’s voice said *metal* and was hushed by an older one. Phileros’s keys answered from farther off. The house was refusing ordinary night. Not yet the knife.
+Out in the service passage a girl’s voice said *metal* and was hushed by an older one. Phileros’s keys answered from farther off.
 
 Caesar listened. He always listened to houses. He listened to armies the same way.
 
@@ -166,7 +166,7 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move.
 
-In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted. Caesar’s ease. Calpurnia’s grip on the doorframe. Phileros’s keys. Nysa’s empty hands still unfinished.
+In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted. Caesar’s ease. Calpurnia’s grip on the doorframe. Phileros’s keys.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
@@ -202,13 +202,13 @@ He put out his hand, and his chin tipped, half a breath, the old road signal: di
 
 Caesar took the hand.
 
-Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that. The Campus route ahead would use the same trust, out past the old walls to the open plain and Pompey’s theatre, a long way for a litter; he would not spend the habit twice in one morning.
+Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that.
 
 Calpurnia’s hand fell from the doorframe.
 
 They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
 
-Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled. Shortness was not mercy. It only sounded like it.
+Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
 
 “You have not asked me what is on the agenda,” Caesar said at last.
 
@@ -220,11 +220,9 @@ Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatte
 
 At the threshold Nysa stepped forward again with something like purpose. Phileros’s arm barred her, keys first, girl second. She did not cry out. She only looked at Decimus. Another door that closed.
 
-Good, Decimus thought, without knowing what he was calling good. The morning was moving. Moving mornings did not tip into accusations in atriums, only into silences that would wait for the litter to return.
-
 “We go,” Caesar said.
 
-Decimus kept his hand available until Caesar no longer needed it, then let go as friends let go, casually. The world had narrowed to the width of a blade. Calpurnia’s cut was still lodged under the casual.
+Decimus kept his hand available until Caesar no longer needed it, then let go as friends let go, casually.
 
 ---
 
@@ -266,7 +264,7 @@ Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Ny
 
 Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.” Not unkind. Not kind. A redirection of weather.
 
-In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both. Forgetting was a luxury for people whose incomplete messages no longer cost them a house’s temper.
+In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both.
 
 Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: *friends*, *spare*, *stay*, *danger*, something like *consul*. She hadn’t understood the Senate shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
 
@@ -296,11 +294,11 @@ The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa
 
 They went.
 
-Nysa stood until the litter sound changed, swallowed by the Forum’s morning throat. Only then did she realise she was counting: steps, heartbeats, something. Numbers would not make a door stay closed.
+Nysa stood until the litter sound changed, swallowed by the Forum’s morning throat. Only then did she realise she was counting: steps, heartbeats, something.
 
 Phileros exhaled, victorious over nothing. “If you have wax,” he said, not looking at her tunic, “put it in the fire. Houses burn for less.”
 
-Nysa didn’t put it in the fire. She returned it deeper against her skin, incomplete, childish, unopened by any dictator.
+Nysa didn’t put it in the fire. She returned it deeper against her skin.
 
 She knew only that her fragment had failed in a vestibule that smelled of onion, and that Decimus’s cheer still hung in the atrium like perfume after a guest has gone.
 
@@ -309,5 +307,6 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 ## Continuity notes (SC-35d)
 - **Knows / learns:** Nysa’s tablet is blocked by Phileros and Decimus’s gravity. It is not the unread note at the Curia (Ch 15).
 - **Exit state:** dread at its height; attendance locked; the two notes kept apart; the public morning still routine.
+- **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
