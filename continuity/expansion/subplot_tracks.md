@@ -50,7 +50,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 ## T3 — Money street
 
 **Promise:** Interest clears while the Republic pretends to be a festival; lists harvest what soft hours planted.  
-**Faces:** Hordeonius, Sosia, Seius, Seia Prima, Visellius ash · **Zones:** F7, F8  
+**Faces:** Hordeonius, Sosia, Visellius ash (Seius retired 2026-10-24) · **Zones:** F7, F8  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
@@ -199,19 +199,20 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 ## T11 — Proscription faces (historical)
 
 **Promise:** The lists have names, and families decide them.  
-**Faces:** Julia, Lucius Caesar, Antony, Fulvia, Atticus, Lepidus/Paullus, Plancus/Plotius, Hortensia; Nysa, Hordeonius, Laberius, Seius · **Zones:** F12, F14  
+**Faces:** Julia, Lucius Caesar, Antony, Fulvia, Atticus, Lepidus/Paullus, Plancus/Plotius, Hortensia, Calenus, Varro; Nysa, Hordeonius, Laberius · **Zones:** F12, F14  
 
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 23 | **Decided 2026-10-23:** Nysa takes the new bow and serves in Antony’s house |
 | Direction change | 32 | SC-85a: Julia shields Lucius Caesar at her door while Nysa pours the wine (Plut. *Ant.* 20). SC-85c: Antony strikes Atticus off for his kindness to Fulvia (Nepos *Att.* 9–10), heard by Hordeonius, who called in Fulvia’s paper in spring 43 |
-| Payoff | 32, 33 | **Decided 2026-10-23:** SC-85b/d: Seius hides and saves **Gavius** (listed; signed the Liberators’ petition in Ch 23), frees his door slave before he can do what Festus did, and gets Gavius to Sextus’s boats on the coast (App. *BC* 4.36); SC-85c: the hiding is paid for with a Hordeonius loan secured on the Sabine land, rolling in the Ch 3 canvass debt. Ch 33 SC-86b: the soldiers’ song at Plancus’s triumph, 29 Dec 43 (Velleius 2.67; Plotius found by his perfume, Val. Max. 6.8.5), Laberius refuses the head-hunt Vibius joins. SC-86c: early 42 Hortensia, Fulvia’s door then the Forum (App. *BC* 4.32–34), Nysa; Lucius Caesar spared after Julia faced Antony in the Forum (App. *BC* 4.37). Medullina and Festus paid in SC-85 |
+| Payoff | 32, 33 | ~~**Decided 2026-10-23:** SC-85b/d: Seius hides and saves **Gavius** (listed; signed the Liberators’ petition in Ch 23), frees his door slave before he can do what Festus did, and gets Gavius to Sextus’s boats on the coast (App. *BC* 4.36); SC-85c: the hiding is paid for with a Hordeonius loan secured on the Sabine land, rolling in the Ch 3 canvass debt. Ch 33 SC-86b: the soldiers’ song at Plancus’s triumph, 29 Dec 43 (Velleius 2.67; Plotius found by his perfume, Val. Max. 6.8.5), Laberius refuses the head-hunt Vibius joins. SC-86c: early 42 Hortensia, Fulvia’s door then the Forum (App. *BC* 4.32–34), Nysa; Lucius Caesar spared after Julia faced Antony in the Forum (App. *BC* 4.37). Medullina and Festus paid in SC-85~~ Superseded 2026-10-24: Calenus hides Varro (see below). |
 
 **Landed 2026-10-24 (PR #161):** Ch 32 SC-85a–d and Ch 33 SC-86b–c as above.
 
 **Intersects:** B (lists as reverse will); T2 women’s rooms (public ending); T3 (Hordeonius’s unclean acquisitions vs Atticus); T5 (Plancus’s brother closes soft-ally)  
 **Sources:** Plutarch *Antony* 20; Appian *BC* 4.12–51; Nepos *Att.* 9–12; Velleius 2.67; Valerius Maximus 6.8.5.  
-**Must not:** a census of the dead; Seius becomes brave once, not a hero.
+**Must not:** a census of the dead; Calenus stays Antony’s friend, not a hero.
+**Changed 2026-10-24 (Seius retired):** SC-85b/d now Calenus hides Varro at the villa where Antony stops (App. *BC* 4.47); the Hordeonius loan goes to Calenus’s steward for the household’s silver.
 
 ---
 

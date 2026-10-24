@@ -8,7 +8,7 @@
 
 POV: Brutus (+ OCT breath) · Philippi
 Date / place: 23 Oct 42 · Brutus’s line / Octavian’s camp
-Canon refs: A14 · FS02 illness · credit contested C · FS10 seed
+Canon refs: A14 · FS02 illness · credit contested C · FS10 seed · Plut. *Brut.* 51 (Statilius’s torch)
 Info ENTER: Second engagement · EXIT: Brutus dead; OCT ill/credit contested; land seed in same breath
 Overhear risk: Camp
 
@@ -34,7 +34,13 @@ Brutus looked at it. The cost of taking it was clear in the body. Abandon the kn
 
 He refused the cleaner hill. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
 
-Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. He sent a man down to see whether the camp could be retaken. The man did not come back. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
+Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. Somebody had to find out whether the camp still stood, and the only way to it was down through the enemy’s pickets. Statilius offered. He did not say anything about wise men and fools. He said that if he found the camp safe he would hold up a torch, and then he went down among the rocks into the dark, an Epicurean on a soldier’s errand. Brutus had kept his letter from Rome, two springs gone, the one about a thing that wanted a friend and not a cause.
+
+After a long time a torch went up, small and far off, over the place where the camp was. Brutus watched it. The camp was safe. The torch burned down and Statilius did not come back.
+
+“If Statilius is alive,” Brutus said, to nobody in particular, “he will come.”
+
+He did not come. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
 
 Strato held it, a friend from the rhetoric schools in Athens, when rhetoric had seemed the hard part. Brutus took his hand first. Then he set the point under his ribs, where the reports had lodged and Cassius had been sitting all day, and leaned. He did not arrange his posture. There was no one left to arrange it for, only Strato, and Strato looked away.
 
@@ -110,11 +116,11 @@ The courier said *Philippi* as if it were a receipt.
 
 Hordeonius was in a shop that no longer had an owner, pricing shelves for an auction the lists had paid for. Two Liberators dead. Antony to the East. The boy to Italy and the veterans. He wrote it down in the column where he kept weather.
 
-He turned back a leaf for a clean line, and his thumb found his own hand instead: *Seius: lent*, and under it, in cipher, *Clean*, and behind both a Sabine farm that had been an old man’s birthplace. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
+He turned back a leaf for a clean line, and his thumb found his own hand instead: *Calenus’s steward: lent*, and under it, in cipher, *Clean*, and behind both an old man with ink on his fingers who was still alive somewhere in Italy, writing. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
 
 Last winter a woman of Fulvia’s, the one who counted the mistress’s silver, had stopped at the stall with a basket on her arm, asked very politely what his rate was on a month, and gone away without borrowing. Sosia had laughed. Hordeonius had not. Antony did not keep ledgers.
 
-He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. One of them carried his seal. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
+He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
 
 ---
 
@@ -271,7 +277,7 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 ---
 
 ## Continuity
-- **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook.
+- **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook. Statilius goes down through the pickets to the camp, raises the torch, and does not come back: “If Statilius is alive, he will come” (Plut. *Brut.* 51; pays Ch 23 SC-66).
 - **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
 - **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The officer’s Italy line, which Antony hears and laughs off; the open wax.
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0).

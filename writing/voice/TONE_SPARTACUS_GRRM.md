@@ -99,7 +99,7 @@ These are **inspiration lenses**, not cosplay. Mix aspects; drop what breaks A-f
 | **F4 Hordeonius** | **Littlefinger** (price of panic) + **Batiatus** (house honour, ledger piety) | **Primary unintentional comic** — solemn about interest while corpses cool |
 | **F1 Nysa** | **Shae**/servant sightlines + **Missandei** precision + bit of **Arya** noticing | Rare; dry survival asides |
 | **F3 Laberius** | **Bronn** + **Grey Worm** (pay, eagle, miles) | Soldier gallows humour — GRRM tavern grade |
-| **F2 Seius** | **Podrick** anxiety + almost-**Theon** need to belong | Awkward; laughs at wrong time |
+| **F2 Seius** (retired 2026-10-24) | **Podrick** anxiety + almost-**Theon** need to belong | Awkward; laughs at wrong time |
 | **F5 Amyntas (opt.)** | Taxed city elder; **Master of coin**’s victims | Bitter courtesy |
 
 ### Spartacus-specific spice (optional seasoning)

@@ -14,6 +14,7 @@ Do **not** fully design biographies yet — define slots.
 **Payoff examples:** Misdelivers a warning; survives to see funeral; chooses a side in proscriptions.
 
 ## Slot F2 — Minor aristocrat / junior senator
+**Retired 2026-10-24 (Reuben):** real figures carry this slot (Statilius, Favonius, Ligarius, Calenus).
 **Function:** Close enough to smell politics; too weak to steer it.  
 **Sees:** Elections hollowed out; pressure to join conspiracy; debt.  
 **Arc potential:** Almost recruited; becomes witness; compromised.  

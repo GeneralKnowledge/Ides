@@ -44,17 +44,14 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Hilarus** | Servilia | Soft-power room steward | Explain Antium thesis |
 | **Dama** | Kitchen | Sullen chickens | Prophecy confirm |
 | **Pallas** | Calpurnia | Dresses dread | Political strategist |
-| **Seia Prima** | F2 wife | Status pressure; belief cheaper than questions | Nag stereotype only |
 | **M. Pacuvius** | Antony | Prefers storm to grammar; scar | Permanent rage bot |
 | **Vibius** | F3 optio | “Win. Then count.” | Eloquent theory |
 | **Apollodorus** | OCT attendant | Cloaks; not Agrippa | Replace Agrippa |
 | **Sphaerus** | Hirtius/Cicero | Polite useless notes | Force plot |
 | **Quintus the fuller** | Funeral crowd | Crowd not abstraction | Comic only |
 | **Ammonius** | CLEO | Useful irritant; books/Cicero gossip | Ides plotter |
-| **Festus** | Proscription | Esquiline slave who informs on his master and is freed (Ch 32); the example Seia Prima names for Dromo | Moral lesson furniture only |
+| **Festus** | Proscription | Esquiline slave who informs on his master and is freed (Ch 32); the name every household knows | Moral lesson furniture only |
 | **Amyntas** | F5 optional | Eastern face if used | Regular POV without assignment |
-| **Gavius** (neighbour) | F2 Ch 23, 32 | Petition under sleeve; listed; hidden by Seius, sent to Sextus’s boats | Become series villain |
-| **Dromo** | F2 Ch 32 | Seius’s doorkeeper; freed, leaves the bar by the door | Informer |
 
 ---
 
@@ -65,3 +62,13 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 3. AMB-2: never let a servant “know” Pansa was poisoned as fact.  
 4. SIDE-1 names never unlock Caesar’s assassination.  
 5. Crowd / fuller / bakers = ecology, not “the people” thesis mouthpiece.
+
+
+## Added 2026-10-24 (Seius retired)
+
+| Person | Where | Note | Must not |
+|---|---|---|---|
+| **Statilius** (real; Epicurean) | Ch 7 (seen by Antony), 10 POV, 23 POV, 36 | Sounded out by Brutus and refuses (Plut. *Brut.* 12); keeps off the petition; letter to Brutus “a friend, not a cause”; the torch at Philippi (*Brut.* 51) | Convert to the cause by speech |
+| **Q. Fufius Calenus** (real; cos. 47) | Ch 32 POV | Antony’s man in the Senate; hides Varro at the villa where Antony stops (App. *BC* 4.47) | Turn against Antony |
+| **M. Terentius Varro** (real) | Ch 32 | 73; Casinum taken by Antony (*Phil.* 2.103–105); writes on the Latin language in the accounts room | Speeches about the Republic |
+| **Q. Ligarius** (real) | Ch 3 (absent), 7, 8, 13 | Pardoned on Cicero’s plea (*Pro Lig.*; Plut. *Cic.* 39) | POV in Ch 3 |

@@ -28,7 +28,7 @@ This document guides drafting. It is **not** a veto on a stronger demonstrated a
 | ID | Working name | Function |
 |----|--------------|----------|
 | **F1** | **Nysa** | Household INF agent (Caesar’s freedwoman; Calpurnia’s house until spring 44, then Antony’s Carinae house) |
-| **F2** | **M. Seius Vestalis** | Minor aristocrat / junior senator almost-recruited |
+| **F2** | ~~M. Seius Vestalis~~ retired 2026-10-24 | Beats moved to real figures: Statilius (almost-recruit, petition, Philippi), Cicero/Ligarius (Ch 3), Calenus/Varro (Ch 32) |
 | **F3** | **Sex. Laberius Cordus** | Military mid-level (centurion → camp politics) |
 | **F4** | **L. Hordeonius Felix** | Financial/commercial (equestrian credit & grain paper) |
 

@@ -176,8 +176,6 @@ Hordeonius did not smile. “Silence clears. Cleverness does not.”
 
 Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*.
 
-Seius’s interest came in on the same day, a day before it was due, carried by his doorkeeper, an old man called Dromo who counted it out on the board himself and then watched Hordeonius count it again. The extra half in the hundred was there. It had been there every month since the Ides. Seius no longer came in person. Hordeonius entered it under the farm he had asked for and not been given, and thought, not for the first time, that a man who paid that much to keep his wife’s father’s fields was either a fool or the best risk on his tablets.
-
 Sosia brought a tablet up from the Carinae end of the Sacred Way: Fulvia’s paper, and her steward asking for a month. “The Senate has voted her husband an enemy,” Sosia said. “Everybody on the Janus is calling her in.” Hordeonius called it in, in full, charged the steward a fee for the haste, and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
 
 ---
@@ -246,4 +244,4 @@ Cicero thought about rebuking him and found he could not be bothered. He went to
 - **SC-81b (Cicero, last days of April 43):** a week after the crowd carried him to the Capitol and the Rostra on the true Forum Gallorum news (after a false day when enemies said he wanted the fasces; *Ad Brut.* 1.3.2). The Senate’s honours: triumph and the dead consuls’ legions to Decimus; the boy an ovation and thanks. Dinner of six (two young senators, Atticus’s cousin, a magistrate’s brother, Segulius Labeo). Asked what to do with young Caesar, Cicero says *laudandum adulescentem, ornandum, tollendum* (cf. *Fam.* 11.20). Labeo laughs last. Tiro: “He knows what *tollendum* means.” Cicero sleeps well.
 - **Plants → pays (T12):** Labeo carries it to Octavian and to Decimus (Ch 31); the word under Octavian’s count at Bononia (Ch 32).
 - **Must not:** no invented battle order; Laberius’s and Hordeonius’s “later” is guesswork in the present. Not re-glossed: the Martians, Hirtius, Pansa, Antony’s hundred.
-- **Graph pass 2026-10-24:** Mud trimmed of the Pansa-litter recap and the Capua/pay repetition that SC-79 now carries. Poison Talk: Seius’s interest brought a day early by Dromo, with the extra half since the Ides (plants Dromo for Ch 32).
+- **Graph pass 2026-10-24:** Mud trimmed of the Pansa-litter recap and the Capua/pay repetition that SC-79 now carries.

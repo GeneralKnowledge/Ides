@@ -82,7 +82,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Nov–Dec | Proscription edict (App. *BC* 4.11 terms); lists posted | H | Ch 32 |
 | Nov–Dec | Julia bars her door to the soldiers for her brother Lucius Caesar; later faces Antony at the tribunal and Lucius is spared | H | Ch 32 SC-85a (Nysa present); Ch 33 SC-86c (reported) |
 | Nov–Dec | Antony writes to Atticus in his own hand: come out, for his kindness to Fulvia | H | Ch 32 SC-85c (Hordeonius) |
-| Nov–Dec | Seius hides Gavius, frees Dromo, borrows from Hordeonius on the Sabine farm, gets Gavius through the Capena gate toward Sextus’s boats | F | Ch 32 SC-85b–d; T11 |
+| Nov–Dec | Calenus hides Varro at his villa; Antony stops there; no slave informs; the household’s silver borrowed from Hordeonius | B (hiding) / F (loan) | Ch 32 SC-85b–d; T11 |
 | 7 Dec | Cicero killed near Formiae | H | Ch 33 |
 | 29 Dec | Plancus’s triumph; the soldiers’ *de germanis* song (Lepidus’s follows 31 Dec) | H | Ch 33 SC-86b (Laberius) |
 
@@ -104,7 +104,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 ---
 
 ## Fictional inserts (characters locked; event details still open)
-- [x] F1 Nysa, F2 Seius, F3 Laberius, F4 Hordeonius — see `../continuity/character_profiles/` + `pov_lock.md`
+- [x] F1 Nysa, F3 Laberius, F4 Hordeonius (F2 Seius retired 2026-10-24) — see `../continuity/character_profiles/` + `pov_lock.md`
 - [ ] F1 first leak event detail (NOTE-1)
 - [x] Side murder in Feb 44 tied to debt (SIDE-1, Ch 10; solution stays open, SIDE-1b)
 - [ ] One manufactured omen (OMEN-1)

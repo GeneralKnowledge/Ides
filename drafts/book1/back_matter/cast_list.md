@@ -8,7 +8,7 @@
 - **Nysa**†, Caesar’s freedwoman
 - **Phileros**†, door-keeper of the Domus Publica
 - **Dama**†, kitchen boy; **Pasiphile**†, of the wash-court; **Pallas**†, Calpurnia’s dresser
-- **Lucius Cornelius Balbus**, Caesar’s man of business
+- **Lucius Cornelius Balbus**, Caesar’s man of business; **Faberius**, his secretary
 - **Gaius Matius**, Caesar’s friend
 - **Spurinna**, the soothsayer
 
@@ -22,12 +22,13 @@
 - **Publius Servilius Casca**, who strikes first
 - **Lucius Tillius Cimber**, who holds the toga
 - **Servius Sulpicius Galba**
-- **Quintus Ligarius**
+- **Quintus Ligarius**, pardoned by Caesar on Cicero’s plea; **Quintus Aelius Tubero**, who prosecuted him
 - **Lucius Minucius Basilus**
 - **Marcus Favonius**, Cato’s shadow, who was not asked
+- **Statilius**, the Epicurean, who was not asked either
 - **Strato** of Aegae and **Publius Volumnius**, with Brutus at Philippi
 - **Quintus Horatius Flaccus**, the poet Horace, who joins Brutus at Athens
-- **Pindarus**, Cassius’s freedman
+- **Pindarus**, Cassius’s freedman; **Titinius**, his friend
 - **Lucius Pella**, condemned by Brutus at Sardis
 - **Quintus Hortensius Hortalus**, governor of Macedonia, Hortensia’s brother
 
@@ -37,6 +38,7 @@
 - **Julia**, his mother
 - **Gaius Antonius** and **Lucius Antonius**, his brothers
 - **Lucius Julius Caesar**, Julia’s brother
+- **Quintus Fufius Calenus**, consul in 47, Antony’s friend
 - **Marcus Pacuvius**†, centurion
 - **Gaius Septimius Bucco**†, cash agent
 
@@ -54,7 +56,8 @@
 - **Marcus Cicero**, his son, with Brutus
 - **Quintus Cicero**, his brother, and Quintus’s son
 - **Tiro**, his secretary
-- **Popillius**, who came for him at Formiae
+- **Philologus**, Quintus’s freedman
+- **Popillius** and **Herennius**, who came for him at Caieta
 - **Titus Pomponius Atticus**, his friend; **Quintus Gellius Canus**, who hid Atticus
 - **Segulius Labeo**, who repeated what he heard
 - **Sphaerus**†, Hirtius’s secretary
@@ -84,6 +87,7 @@
 ## The city
 - **Helvius Cinna**, poet, and **Lucius Cornelius Cinna**, praetor: two men with one name
 - **Hortensia**, who spoke for the taxed women
+- **Marcus Terentius Varro**, scholar, proscribed
 - **Quintus the fuller**†, at the funeral
 - **Medullina**†, of the Subura
 - **Festus**†, informer
@@ -93,13 +97,6 @@
 - **Sosia**†, his collector
 - **Aulus Visellius Ralla**†, debtor, murdered
 - **Lucius Statius Paullus**†, middleman
-
-## The junior senator’s world
-- **Marcus Seius Vestalis**†, junior senator
-- **Seia Prima**†, his wife, daughter of the real aedile Marcus Seius
-- **Naevius**†, an old client
-- **Gavius**†, his neighbour
-- **Dromo**†, his porter
 
 ## The clemency dinner, 46 BC
 - **Sextilius**†, **Aebutius**†, **Tettius**†, guests

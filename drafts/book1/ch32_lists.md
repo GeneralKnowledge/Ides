@@ -76,21 +76,13 @@ Antony poured wine that did not taste like celebration. He did not look at Octav
 
 # SC-85: Proscription Economy
 
-POV: F2 / F4 / F1 (triptych) · Rome
-Date / place: Dec 43 · Rome streets, Hordeonius’s stall, Antony’s Carinae house
+POV: F4 / F1 (two parts) · Rome
+Date / place: Dec 43 · Hordeonius’s stall, the Subura, Antony’s Carinae house
 Canon refs: A13 · Chain 7 · Festus pattern
 Info ENTER: Lists posted · EXIT: Betrayal market; confiscations
 Overhear risk: Extreme terror
 
 ---
-
-### Seius
-
-Seius found his name absent and felt holy relief, then shame at the holiness. He walked past a posted list twice to be sure, eyes watering from more than wind. Above the names the square letters ran down to the clause men read twice: *whoever hides one of these, or helps him away…* Eleven lines down, in the same black letters, stood Gavius from the next block, the petition-tablet man who had called him a coward over dessert. Seius didn’t stop walking. Stopping looked like guilt.
-
-At the corner Gavius himself stood under the same wood with a woman who had borrowed Seius’s mule last Kalends. He read the way he returned tools, slowly and from the top, and he had not got eleven lines down. “There,” Gavius said, finger on a cognomen that was almost Seius’s cousin’s, almost a stranger’s, wrong by one letter if you wanted it wrong. “Is that your house’s blood?” The woman looked at Seius. Expectation closed like the old petition trap.
-
-“I do not know that spelling,” Seius said. True enough to keep his door; false enough that Gavius’s mouth flattened. He did not say *eleven lines down*. The woman stepped back. Kinship itself felt contagious. Seius bought oil he did not need so his hands would look busy. He congratulated no one. He locked doors and checked the locks twice. Seia Prima asked if honesty still mattered. He said honesty was a peacetime crop. She didn’t laugh. “Then harvest carefully,” she said. “Peacetime crops still get taxed when the lists are hungry.” He almost smiled at her, old Seia who audited his atrium smile against paper. He stopped before smiling looked like relief worth posting. In bed he rehearsed congratulations for whoever won the next rumour, and hated the rehearsal even as he perfected it.
 
 ### Hordeonius
 
@@ -220,99 +212,85 @@ She would. She had a name on her tongue now, a consul’s name, the kind Medulli
 
 ---
 
-# SC-85b: The Door That Closes
+# SC-85b: The Contest
 
-POV: F2 Seius · his house
-Date / place: Dec 43 · the same night the lists went up, and the morning after
-Canon refs: T11 · Ch 23 SC-66 · the hiding clause
-Info ENTER: Gavius listed · EXIT: Gavius in the oil store; the door slave freed on a promise
+POV: Calenus · his house in Rome, then his villa
+Date / place: Dec 43 · the night the lists went up, and the days after
+Canon refs: T11 · App. *BC* 4.47 (Varro hidden by Calenus; no slave informs) · Cic. *Phil.* 2.103–105 (Antony at Varro’s villa at Casinum) · *Phil.* 8, 10, 12 (Calenus as Antony’s man in the Senate)
+Info ENTER: Varro on the list · EXIT: Varro behind Calenus’s library; the household told and paid
 Overhear risk: The household
 
 ---
 
-The knock came after the second lamp, soft, the knock of a man who knew the house had a dog and didn’t want it.
+There were four of them in Calenus’s dining room by the second lamp, and they were quarrelling over who should be allowed to risk his life.
 
-Dromo the doorkeeper looked through the grille and then looked back at Seius with his face gone careful. Seius knew who it was before Dromo said it. He had known since the corner that afternoon, since eleven lines down.
+“I have the farm at Reate,” said one. “His own country. Nobody would look for him in his own country.”
 
-“Tell him I am asleep,” Seius said.
+“Everybody would look for him in his own country,” said another. “That is the first place they look. I have a ship.”
 
-“He says you will say that,” said Dromo. “He says to tell you he read it.”
+“He is seventy-three. He would die on a ship.”
 
-So Gavius had got to the bottom of the board after all.
+“He would die in a ditch at Reate.”
 
-Seius went to the door himself because a man should do his own refusing. Through the grille Gavius was a cloak and a nose and two hands holding the cloak shut at the throat. He had shaved off his beard. Without it his face looked like someone else’s younger brother.
+Marcus Terentius Varro sat at the end of the couch with his hands folded on his stick and let them argue about him as if he were a question of grammar. He had written on grammar. He had written on farming and on the gods and on the Latin language and on the antiquities of every town in Italy, more books than any man alive, and Caesar had chosen him to build Rome its first public library. Caesar had also pardoned him. That afternoon his name had gone up on the wood in the Forum, a long way down the list, between a moneylender and a man nobody had heard of.
 
-“I won’t keep you,” Gavius said. “I know what I called you. At the dinner. At the baker’s corner. To your wife, in front of the Calventii.” His breath smoked through the bars. “You were right not to sign. That’s why my name is up there and yours isn’t. You’re a coward and you’re alive. I’d like to be one of those.”
+Calenus had read it there himself. He had gone to the Forum to read it because he was Antony’s friend, and Antony’s friends went to read the lists the way men go to see their own names on a dedication.
 
-“Go to your cousins.”
+“He will come to me,” Calenus said.
 
-“My cousins have read the clause.”
+They stopped and looked at him. He knew what they saw. Quintus Fufius Calenus, consul four years ago by Caesar’s gift, the man who had stood up in the Senate all through the spring and argued for Antony while Cicero called him every name in the language. Half the men in this room had sat on the benches and listened to Cicero do it and enjoyed it. Cicero was on the same list as Varro now. Calenus had read that too.
 
-*Whoever hides one of them, or helps him away, shall be one of them.* Seius had read it too. He had read it twice. He had walked past it with his eyes watering and bought oil he didn’t need.
+“To you,” said the man with the ship.
 
-“I have a household,” Seius said.
+“To me. To the villa. Antony stops there when he goes south. He has stopped there for years. It is the one house in Italy where nobody will think to look for an enemy of Antony’s, because Antony sleeps in it.”
 
-“You told me that. At the dinner. You said you still had a door that closes.” Gavius put his forehead against the bars, not begging, only tired. “Close it behind me, then.”
+Nobody said anything. Varro unfolded his hands.
 
-Seius stood with his hand on the bar. Behind him he heard Seia Prima come into the atrium. She had a lamp. She didn’t say anything. She didn’t need to; the old trap of expectation had her face in it, but it was a different expectation now and he could not tell which way it pointed.
+“He took my house at Casinum,” Varro said. He said it mildly, as an antiquarian notes a date. “In the spring before last, when I was away. Cicero wrote that he held parties in my library. Gamblers and actresses, Cicero wrote. He said the books must have wondered what had happened to their master.” He looked at Calenus. “I imagine that is why my name is on the wood. A man doesn’t like to be reminded of a house he has taken. It is cheaper to take the owner off the books.”
 
-He did what he always did. He looked for the cheaper exit. There was a good one. Shut the grille, go back to bed, tell Dromo the man had been a drunk. By morning Gavius would be in someone else’s doorway or in a ditch, and nobody would ever know Seius had been asked, except Gavius, and Gavius would be dead.
+“I imagine so,” said Calenus. He had imagined exactly that, at the foot of the board, and had not let himself finish the thought in the Forum.
 
-“Her father,” Seius said, not turning round, “sold grain at a loss in a famine year and they put up a statue of him for it. Did you know that?”
+“And you will put me in the house where he sleeps.”
 
-“Everybody knows that,” said Gavius.
+“I will put you behind the library. There is a room there with no window that my father used for the accounts. You will have to share it with the accounts.”
 
-“I didn’t,” Seius said, “until I married her.”
+Varro considered this. Then he smiled for the first time that evening, a small dry movement in a very old face. “I have shared rooms with worse,” he said. “I shared a camp with Pompey.”
 
-He lifted the bar.
+They took him out of the city two nights later in a closed carriage with the curtains down, as an old relative of the household’s going to the country for his chest. At the villa Calenus put him in the windowless room with a lamp and a brazier and as much paper as he wanted, and Varro asked at once for his notes on the Latin language, which had been left in Rome, and then said he would begin again from memory, since memory was where he kept most of it.
 
-They put him in the oil store, behind the jars. There were more jars than there had been a week ago; Seius had bought oil every day that week so his hands would look busy, and now his hands had made a wall. Gavius sat down behind it on a folded sack and laughed once, a cracked sound, and put his face in his cloak.
+The next morning Calenus called the household into the courtyard.
 
-In the atrium Seia Prima set the lamp down. “Dromo saw,” she said.
+There were sixty of them, counting the field hands and the boys. He stood on the steps and looked down at them in the cold: his steward, his cook, the women from the weaving room, the old porter, the two Thracian grooms who looked after Antony’s horses when Antony came. Every one of them had heard the edict read at a fountain somewhere. Every one of them could count. Ten thousand denarii for a slave who gave up a hidden man, and his freedom, and his master’s rank.
 
-“Dromo sees everything. He is a doorkeeper.”
+He did not make a speech. He had made speeches all spring and Cicero had made better ones.
 
-“Dromo heard the edict read at the fountain. So did every slave in Rome. Ten thousand denarii and his freedom and your citizenship.” She kept her voice low and level, the voice she used on the household accounts. “Do you know Festus? The one from the Esquiline? He walked his master’s hiding place to the tribunal on the second day. He is a citizen now, with his old master’s name, and he drinks in the same wine shop as our cook.”
+“There is an old man in the room behind the library,” Calenus said. “You all know who he is, or you will by tonight. If any of you sells him, you will be rich and free, and I will be on the list beside him, and so will this house, and so will every one of you who is not the one who sold him. You will go to the auction with the furniture.” He let that sit. “If none of you sells him, then at the end of this, whenever the end is, every man and woman in this courtyard gets a year’s keep in coin from my own hand. And I will remember your names.”
 
-Seius sat on the edge of the impluvium. The water was black and had a leaf in it.
+They looked at him. Nobody spoke. The old porter, at the back, scratched his ear.
 
-“Then I free Dromo,” he said.
+“That’s all,” Calenus said.
 
-“Before he frees himself.”
+When they had gone back to their work he turned to his steward, who had stayed on the steps.
 
-“Before.”
+“A year’s keep for sixty,” the steward said. “In coin.”
 
-“With what? A freedman needs something to live on, or he is a beggar with a cap, and a beggar sells what he knows.” She folded her arms. “And Gavius cannot stay behind the oil for the rest of the triumvirs’ five years.”
+“I know.”
 
-There were boats. Everyone said so, in the way everyone said things that month, with no one’s name attached. Pompey’s son held Sicily, and his ships came in along the coast below Circeii at night and took off anyone who could reach the beach, and paid whoever brought them twice what the triumvirs paid for the head. A carter could be found. A carter cost money. The gate guards cost money. Silence cost money. Every door in the city had a rate now, and Seius had none of it. He had a whitened toga in a chest, and a canvass that had eaten his credit, and a debt to Hordeonius that had been rolling over since before Munda.
+“We haven’t got it in coin. Nobody in Italy has it in coin this month. Everybody who has silver has buried it.”
 
-In the morning he went to Dromo in the porter’s cell by the door. The old man was sitting on his cot with his sandals on, which he never did before the first client.
+“Then go to Rome and borrow it,” Calenus said. “Quietly. From someone who doesn’t ask what it’s for.”
 
-“You heard,” Seius said.
+“They’ll all ask. This month, they all ask.”
 
-“I hear the door, master. That’s the work.”
-
-Seius had prepared something wine-bright and generous to say, the kind of thing he said at dinners. It wouldn’t come. He sat down on the stool instead, which a master did not do in a porter’s cell, and Dromo looked at the stool and then at him.
-
-“I am going to free you,” Seius said. “Before the praetor, as soon as I can find one who isn’t hunting. And I am going to give you enough to live on. Not ten thousand. I haven’t got ten thousand. But enough, and a room, and my name as your patron, which is worth less than it was.”
-
-Dromo said nothing for a while. Then he said, “The Gavius man borrowed my mule-rope two years ago and brought it back with a knot in it I couldn’t undo.”
-
-“I know. He did the same to me.”
-
-“I don’t want his head, master. I don’t want anybody’s head. I want to sleep in a room with a door I can bar from the inside.” Dromo looked at his sandals. “But I’d sleep better with the money in my hand than in your mouth.”
-
-“So would I,” said Seius.
-
-He went to find Hordeonius.
+“Then find one who doesn’t,” said Calenus, and went in to see whether Varro had enough lamp oil.
 
 ---
 
 # SC-85c: Surety
 
 POV: F4 Hordeonius · his stall under the Janus
-Date / place: Dec 43 · the next morning
-Canon refs: T11 · Nepos *Att.* 9–10 · Ch 3 debt · Ch 30 ledger
+Date / place: Dec 43 · some days after the lists
+Canon refs: T11 · Nepos *Att.* 9–10 · App. *BC* 4.47 · Ch 30 ledger
 Info ENTER: Lists posted · EXIT: A loan entered as *clean*
 Overhear risk: Medium (the stalls)
 
@@ -348,126 +326,123 @@ A client came, a grain factor wanting to know what a proscribed man’s warehous
 
 There was a kind of security that held when everything else failed, and it turned out to be the kind nobody on the Janus wrote down. Atticus had put kindness on the books when kindness was the worst risk in Rome, and now it had cleared, in Antony’s own hand, at a rate no banker could match. Hordeonius could not buy it now. You could not backdate a kindness. The market in it had closed in April, and he had been on the wrong side.
 
-Seius came at the third hour. He came the long way round, past the posted board, and stood at the stall with the face Hordeonius had seen on every borrower since the lists went up, the face of a man doing arithmetic he would rather not be seen doing.
+Calenus’s steward came at the third hour. Hordeonius knew him by sight: a grey, careful freedman who had paid his master’s bills on the Janus for ten years and never once haggled in public. He came the long way round, past the posted board, and stood at the stall with the face Hordeonius had seen on every borrower since the lists went up, the face of a man doing arithmetic he would rather not be seen doing.
 
-“A loan,” Seius said. “Small.”
+“A loan,” the steward said. “For the household. Wages.”
 
-“Nothing is small this month.”
+“Your master is a consular with half the Falernian country in his name.”
 
-“Three thousand denarii.” He did not sit. “A manumission and something to live on. A carter to the coast. The gate.”
+“My master has land,” said the steward. “This month nobody has coin. Three thousand denarii. Worn silver, if you have it. Nothing anyone would remember.”
 
-Hordeonius heard *the coast* and *the gate* and let them go past him like carts. He did not ask who. A banker who asked who was a banker who knew, and a banker who knew was a man who had helped one of them away. He looked at Seius instead: the good tunic gone a little loose, the soft hands, the wine-bright manner switched off for once so that the face underneath showed. It was not a brave face. It was the face of a coward who had made a decision and was now trying to finance it.
+Hordeonius heard *wages* and *nothing anyone would remember* and let them go past him like carts. Sixty slaves, or eighty, on a villa; a year’s keep each, give or take. He did not ask why a household needed a year’s wages all at once in the month when every slave in Italy could earn ten thousand and his freedom with one sentence at a tribunal. A banker who asked why was a banker who knew, and a banker who knew was a man who had helped one of them away. He looked at the steward instead: the good tunic, the soft hands, the face of a servant who had been given an errand by a frightened man and was carrying it as if it might break.
 
-“You already owe me,” Hordeonius said. “The canvass. The toga, the gifts, the games you were going to give. Rolled over since the spring before Munda.”
+“Calenus is Antony’s friend,” Hordeonius said.
+
+“He is.”
+
+“Antony’s friends do not borrow on the Janus this month. They buy on it.”
 
 “I know.”
 
-“You will never stand for aedile now. Not this year. Perhaps not under these three.”
+“Then I want security,” Hordeonius said. “Your master’s plate. All of it, listed, the weight on the tablet. If he defaults, I take the silver.”
 
-“I know that too.”
-
-“Then I want the Sabine land,” Hordeonius said. “All of it, as security. The old debt rolled in, the new one on top, the whole of it secured on the farm. If you default, I take the farm.”
-
-Seius closed his eyes. The farm was where his wife’s father had been born, Hordeonius knew. He knew because he had asked for it once before, the week after the Ides, and Seius had paid an extra half in the hundred every month since rather than give it.
-
-“Done,” said Seius.
+The steward closed his eyes, briefly, like a man totting up a dinner service he had polished for ten years. “Done,” he said.
 
 Sosia, on the next stool, stopped chewing.
 
-Hordeonius counted it out himself: worn silver, no Caesar on it, nothing anyone would remember. He wrapped it in a cloth that smelled of the shelf and pushed it across the board, and Seius took it under his cloak with the careful hands of a man carrying eggs.
+Hordeonius counted it out himself: worn silver, no Caesar on it, nothing anyone would remember. He wrapped it in a cloth that smelled of the shelf and pushed it across the board, and the steward took it under his cloak with the careful hands of a man carrying eggs.
 
 When he had gone Sosia said, “You know what that is for.”
 
-“I know it is secured on a farm.”
+“I know it is secured on plate.”
 
 “That’s not what I asked.”
 
-“It’s what I answered.” Hordeonius opened his private tablet, the one with the cipher, where he had written *acquired: unclean* the week before. Under it he wrote the date, and the sum, and *Seius: lent*. His stylus stopped. Then he wrote one more word after it, small, in the cipher only he could read.
+“It’s what I answered.” Hordeonius opened his private tablet, the one with the cipher, where he had written *acquired: unclean* the week before. Under it he wrote the date, and the sum, and *Calenus’s steward: lent*. His stylus stopped. Then he wrote one more word after it, small, in the cipher only he could read.
 
 *Clean.*
 
 It looked strange on the wax. He did not rub it out. He did not know yet whether it would clear. He knew only that it was the first entry in a long time he could have shown to Atticus without being ashamed of it.
 
-“Sosia,” he said. “If anyone asks, Seius came about his canvass debt.”
+“Sosia,” he said. “If anyone asks, Calenus’s man came about his master’s wages.”
 
 “Nobody will ask,” said Sosia. “Everybody’s too busy asking about everybody else.” But he said it gently, for him, and he gave back the smaller half of the bread.
 
 ---
 
-# SC-85d: Twice the Price
+# SC-85d: A Guest for the Night
 
-POV: F2 Seius · the Capena gate
-Date / place: Dec 43 · before light, two days later
-Canon refs: T11 · App. *BC* 4.36 (Sextus’s ships) · FS11
-Info ENTER: Money in hand · EXIT: Gavius out of the city
-Overhear risk: Gate guards
+POV: Calenus · his villa
+Date / place: Mid-Dec 43 · dinner, the night, the morning after
+Canon refs: T11 · App. *BC* 4.47 (Antony stops at the villa; no slave of Calenus or Varro informs) · Cic. *Phil.* 2.104 (Casinum)
+Info ENTER: Varro hidden; the household paid · EXIT: Antony sleeps three walls from Varro and leaves; nobody speaks
+Overhear risk: Sixty slaves and Antony’s escort
 
 ---
 
-The carter wanted the money first, and Seius gave it to him first, because there was no way to make a carter trust you that did not end with a carter knowing too much.
+Antony came on the twelfth day, as Calenus had known he would, because he was riding south for two days to look at land for the colonies and the road went past the gate.
 
-Gavius lay under sacks of chaff in the bed of the cart with his knees up. Dromo had led the mule round from the stable, Seius’s own mule, the good one, and backed it between the shafts himself, and now he stood at the house door in a cap he had never worn before, holding a purse he kept looking at.
+A rider came first, an hour ahead, to say so. Calenus went into the room behind the library and told Varro, who was writing, and who did not stop writing while he was told.
 
-“You could stay,” Seius said to him. “As a freedman. On wages.”
+“He’ll want the Falernian,” Varro said. “Give him the good one. If you give him the second, he’ll notice, and wonder why you’re saving it.”
 
-“I’ll stay till he’s through the gate,” said Dromo. “After that I want my own door.”
+“How do you know he’ll notice?”
 
-Seius walked beside the cart. A master walking beside a load of chaff looked strange, but a master riding on it looked stranger, and a master staying home while his mule went out before light looked like a man with something to hide. He had thought about all three for most of the night and chosen the one that let him talk.
+“He drank my cellar at Casinum in a month. A man learns a palate that way.” Varro dipped the pen. “Shut the door on your way out, please. The draught moves the lamp.”
 
-At the Capena gate there were soldiers with torches, six of them, and a decurion with a tablet. They stopped every cart. They were bored, which was the only hope Seius had.
+Antony arrived at dusk with thirty horse and a dozen friends and a noise like a festival, and the courtyard filled with men and torches and the smell of horses. The two Thracian grooms took his mare as they always did. The porter opened the house door as he always did. Calenus stood on the steps and was embraced, and smelled wine and leather and the road, and felt Antony’s big hand slap his back twice, the way it always had, since Gaul.
 
-“Chaff,” said the carter. “For the villa at Bovillae.”
+“Calenus,” Antony said. “You look like a man who has been reading. Stop it. It’s bad for you.”
 
-The decurion lifted his torch and looked at the sacks and then at Seius. “And you?”
+They dined in the long room. Antony lay at the top and talked, which was what Antony did at dinner, about the colonies and the veterans and how much land Italy had and how much it would have to find. He talked about the lists the way a man talks about the weather on a campaign, as a thing that was bad and had to be got through. He named names. Once he named Cicero, and the table went quiet for a breath, and Antony laughed and said the old man had made a better end than anyone expected, and drank, and the talk went on.
 
-Seius had been congratulating men for his whole adult life. He had congratulated Caesar’s friends and Caesar’s killers and Caesar’s heir, sometimes in the same week. He had done it at dinners and in doorways and on the steps of the Senate, with wine-bright eyes and his spine already planning its exit. He had always despised himself a little for how well he did it. He did it now.
+Calenus watched the slaves. He could not help it. The cook’s boy brought the fish. The steward poured. The old porter, who should have been at the door, stood at the back of the room by the curtain, as he sometimes did when there were guests, to see the faces. Calenus watched each of them come near Antony, near enough to bend and say a word in his ear. Ten thousand denarii and freedom and a master’s rank. A word in the ear.
 
-“I am Seius,” he said, “nephew of the Seius who gave the people grain, you’ll have heard of him, and I am up before the cocks because the triumvirs have had their first good week and I want to be at my farm before the auctions make the roads impossible. Have you eaten, soldier? You look like a man on a long watch. Three good men saving the state, and the state sends its guards out without breakfast.” He took a coin from his own purse, not Hordeonius’s, and put it in the decurion’s hand as if it were a gift between friends. “For bread. Drink to the three of them.”
+The fish went round. The steward poured.
 
-The decurion looked at the coin. He looked at the cart. A sack near the back moved, very slightly, as a man under it breathed.
+“This is the good Falernian,” Antony said, holding up his cup to the lamp. “I know it is. You’re a generous man, Calenus. Generous men are getting rare.” He drank. “Do you know who had a cellar like this? Varro. That old pedant at Casinum. I had a month of it in the spring before last, and I tell you, the books were nothing, but the wine...”
 
-“The mule’s restless,” Seius said, and slapped its rump, and the mule, which had never been restless in its life, threw its head and stamped.
+“I’ve heard,” said Calenus.
 
-“Go on,” said the decurion.
+“He’s on the list, did you see? Somebody put him on. I don’t know who.” Antony waved a hand, the gambler’s open hand. “Old men. They don’t like being reminded.”
 
-Beyond the gate the road was dark between the tombs. A mile out, by a milestone, the carter stopped and Gavius sat up in the chaff with it in his hair and his eyebrows. He looked back at the walls.
+Three walls away, through the library and the passage, Varro was writing about the Latin language by the light of one lamp with the door shut against the draught.
 
-“There are boats,” Seius said. “Below Circeii. Pompey’s son pays twice the triumvirs’ price for any man brought to the beach alive. The carter knows. He’ll want paying twice, I expect.”
+“No,” said Calenus. “They don’t.”
 
-“He can have it,” said Gavius. “If I get there I’ll owe Pompey’s son a head I’m still wearing.” He looked at Seius. “I called you a coward.”
+Antony slept in the guest room over the court, the one he always had. His friends slept where they fell. Calenus did not sleep at all. He lay in the dark and listened to the house, which was full of men who were not his, and to the dogs, and to every door. At the second watch he heard footsteps in the passage by the library and lay without breathing until they passed. It was the porter, doing his round, as he did every night. The footsteps did not stop at the library door. They went on to the end of the passage and back, the old man’s slow uneven walk, and then the porter’s cell door closed.
 
-“You were right.”
+In the morning Antony ate standing up, in the courtyard, with his cloak already on, and kissed Calenus on both cheeks, and said he would stop again on the way back if the colonies didn’t drown him, and rode out through the gate with his thirty horse and his friends and his noise. The grooms watched him go. The porter shut the gate.
 
-“I know I was.” Gavius pulled a straw out of his collar. “You did it anyway.”
+Calenus stood in the empty courtyard for a while. Then he went through the library and knocked on the door of the room behind it.
 
-“Once,” said Seius. “Don’t tell anyone. It would ruin me.”
+“Come in,” said Varro. “Mind the draught.”
 
-Gavius laughed, the cracked laugh from the oil store, and the carter clicked to the mule, and the cart went on south into the dark with Seius’s good mule pulling it and not looking back.
+He was sitting where he had been the night before, as if he had not moved. Perhaps he had not. There were more sheets beside him than there had been.
 
-Seius walked home. It took a long time. At the gate the decurion nodded to him like an old friend. In the lane Dromo was gone, the porter’s cell swept, the cot stripped, the bar of the door left leaning against the wall so that whoever came next could put it up.
+“He’s gone,” Calenus said.
 
-Seia Prima was in the atrium. She had not slept either.
+“I heard.” Varro blotted a line. “Did he like the wine?”
 
-“Well?” she said.
+“He said it was as good as yours.”
 
-He did not count faces, as he had counted them after the dinner, the faces that would lend him a mule if the wind turned. He had no mule now. He had a debt on her father’s farm and a free man’s empty cell and nothing at all to show anyone.
+Varro put the pen down and looked up, and for a moment the dry old face was not dry at all. Then he picked up the pen again.
 
-“Gone,” he said. “South.”
+“It was mine,” he said. “I sent you six jars of it the year you were consul. You won’t remember.”
 
-She came and put her hand flat on his chest, over the heart, the way she checked a jar for a crack. He almost made a joke. For once, he didn’t.
+Calenus did remember, now. He went out and shut the door on the draught, and walked down to the courtyard, where the steward was counting out the silver from Rome into sixty small heaps on the mounting block, one for every name, while the household stood in the cold and watched.
 
 ---
 
 ## Continuity
 - **SC-84 (Octavian POV):** the island below Bononia; Lepidus crosses first; they search each other (App. *BC* 4.2). Lepidus’s chair is the legions that waded to Antony. The triumvirate named once, by Lepidus: a tribune’s law, three men to set the state in order, five years, a consul’s power, no veto (Lex Titia); Antony jabs about mint and jail; Octavian “minds both”. Lepidus’s secretary reads the edict draft: 25,000 denarii a head; a slave 10,000 with freedom and his master’s citizenship; informers the same; goods auctioned; hiders proscribed (App. *BC* 4.11). Lepidus: “Sulla paid half as much.” Antony: “Sulla had fewer legions to pay.” Cicero’s name is contested and Antony shapes it; Octavian assents aloud and gives the seal-ring token; he refuses a quieter swap. Octavian sees Antony’s Ops joke die and sees him not look while he pours. Lepidus nudges.
-- **SC-85 (Dec 43):** Seius: relief and shame; Gavius is listed eleven lines down and hasn’t read that far; the near-cognomen collision with Gavius and the mule woman (D15); Seius doesn’t tell him; the hiding clause; Seia Prima’s “harvest carefully”. Hordeonius: unclean leases, *acquired: unclean*. Nysa: Festus (Esquiline slave, informed, freed); the chalk wall, Medullina buys a spelling; the Cinna laugh; Phileros at the Carinae kitchen door.
+- **SC-85 (Dec 43):** Hordeonius: unclean leases, *acquired: unclean*; Bucco back, lending to the triumvirs’ soldiers. Nysa: Festus (Esquiline slave, informed, freed); the chalk wall, Medullina buys a spelling; the Cinna laugh; Phileros at the Carinae kitchen door. (Seius’s part retired 2026-10-24.)
 - **SC-85a (Nysa):** Antony’s steward lends her to his mother. Julia (Antony’s mother; widow of Antonius Creticus and of Lentulus Sura, strangled on Cicero’s word in 63) hides her brother Lucius Caesar, posing as her steward; he sat in the Senate that voted Antony an enemy. Nysa knows his face from the Domus Publica and knows the informer’s reward. Julia bars the door: “You will not kill Lucius Caesar unless you first kill me. I bore your general” (Plut. *Ant.* 20). The centurion asks Nysa whose house she serves and whether a man not of the house is there; she says Antony’s, and that she pours for the steward. Julia will go to the tribunal next day (App. *BC* 4.37).
-- **SC-85b (Seius):** Gavius at the grille after dark: “Close it behind me.” Seius lifts the bar. Gavius behind the oil jars Seius bought that week. Seia Prima names Festus; Seius promises Dromo his freedom and a living. Sextus’s boats below Circeii pay twice the triumvirs’ price (App. *BC* 4.36).
-- **SC-85c (Hordeonius):** Sosia: Antony wrote to Atticus in his own hand (hidden with Canus; both spared) because Atticus stood surety and lent to Fulvia without interest in spring 43 (Nepos *Att.* 9–10); Hordeonius called in her paper that month. Seius borrows 3,000 denarii; Hordeonius takes the Sabine farm (Seia Prima’s father’s birthplace) as security for old canvass debt and new loan; Seius gives up the aedileship. Entered *Seius: lent* and, in cipher, *Clean*.
-- **SC-85d (Seius):** before light, Seius’s good mule, chaff cart, Capena gate; he talks the decurion past with his congratulating manner and a coin; Gavius south toward Circeii. Dromo gone, the bar left by the door. Seius has no mule now.
-- **Plants → pays:** Ch 33 death bought by the assent; Ch 23 flinch and “a door that closes”; Ch 3 canvass debt; Ch 25 Fulvia’s woman; Ch 34 courier; Sextus (FS11); the Sabine farm (later collection open). SIDE-1 kept as archaeology.
+- **SC-85b (Calenus; replaces the retired Seius scene 2026-10-24):** Varro’s friends compete to hide him (App. *BC* 4.47); Calenus, Antony’s man in the Senate, wins: his villa is where Antony stops. Varro: Antony took Casinum (*Phil.* 2.103–105), hence the list. The windowless accounts room behind the library. Calenus tells the sixty slaves the arithmetic and promises a year’s keep each; the steward sent to Rome to borrow quietly.
+- **SC-85c (Hordeonius):** Sosia: Antony wrote to Atticus in his own hand (hidden with Canus; both spared) because Atticus stood surety and lent to Fulvia without interest in spring 43 (Nepos *Att.* 9–10); Hordeonius called in her paper that month. Calenus’s steward borrows 3,000 denarii for “wages”, worn silver; Hordeonius does not ask why and takes Calenus’s plate as security. Entered *Calenus’s steward: lent* and, in cipher, *Clean*.
+- **SC-85d (Calenus, mid-Dec 43):** Antony stops at the villa on a two-day ride south; the good Falernian (Varro: “he drank my cellar at Casinum”); Antony names Varro on the list, “Old men. They don’t like being reminded”; Varro three walls away writing on the Latin language. The porter’s night round passes the door. Morning: Antony gone; “It was mine.” The steward counts sixty heaps of silver. No slave informs (App. *BC* 4.47).
+- **Plants → pays:** Ch 33 death bought by the assent; Ch 36 Hordeonius’s *Clean*; Ch 25 Fulvia’s woman; Ch 34 courier; Sextus (FS11); Calenus’s plate (collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
 - **T12:** at “Cicero stays”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
-- **Must not (T11):** no census of the dead; Seius brave once, not a hero; Gavius’s fate after the beach left open.
+- **Must not (T11):** no census of the dead; Calenus is not a hero (he is Antony’s friend throughout); Varro’s later fate not narrated.
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added.
-- **Graph pass 2026-10-24:** Hordeonius had asked for the Sabine farm the week after the Ides (Ch 18); Seius paid the extra half monthly rather than give it.
