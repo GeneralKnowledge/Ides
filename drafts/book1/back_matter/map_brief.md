@@ -25,19 +25,22 @@ Mark only the places the book uses.
 - **Africa:** Utica (prologue)
 - **Spain:** Munda
 - **Italy, south to north:**
-  - Brundisium, Puteoli, Casilinum and the Volturnus, Capua, Formiae
+  - Brundisium, Puteoli, Casilinum and the Volturnus, Capua, Formiae and Caieta, Velia
   - Velitrae, Astura, Antium, Lanuvium, Tusculum, Rome
-  - Mutina, Forum Gallorum, Bononia, and the river island below Bononia
+  - Arretium; Mutina, Forum Gallorum, Bononia, and the river island below Bononia
   - Eporedia
 - **Gaul:** Cularo on the Isara; Massilia
 - **East:**
-  - Apollonia
+  - Apollonia and Dyrrachium
   - Athens
-  - Philippi, in Macedonia
+  - Thessalonica, and Philippi, in Macedonia
+  - Abydos, on the Hellespont
+  - Smyrna and Sardis, in Asia
+  - Rhodes, and Xanthus in Lycia
   - Laodicea, in Syria
   - Alexandria
 
 Shade the provinces named in the text: Cisalpine Gaul, Macedonia, Syria, Asia.
 
 ## Optional Map 3. Mutina, April 43
-Show Mutina’s walls and Antony’s ring of ditches. Mark Forum Gallorum on the Via Aemilia toward Bononia, and Hirtius’s line of approach. Use Ch 27–30 for the details.
+Show Mutina’s walls and Antony’s ring of ditches. Mark Forum Gallorum on the Via Aemilia toward Bononia, and Hirtius’s line of approach. Use Ch 28 and 30 for the details.

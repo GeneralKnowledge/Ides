@@ -36,6 +36,8 @@ CHAPTER_COUNT = 36
 # chapter until the next renumbering pass; at most one letter per insert.
 # The 2026-10-24 pass folded 25a and 27a into Ch 26 and Ch 29.
 PROLOGUE = DRAFTS / "prologue_utica.md"
+# Back matter in the full copy, after the last chapter. map_brief.md is for the cartographer.
+BACK_MATTER = [DRAFTS / "back_matter" / "historical_note.md", DRAFTS / "back_matter" / "cast_list.md"]
 
 ACTS = [
     (1, "Act 1: Foundations"),
@@ -272,8 +274,28 @@ def add_para(doc: Document, text: str, *, space_before: int = 0) -> None:
         p.paragraph_format.space_before = Pt(space_before)
 
 
+def parse_back_matter(path: Path) -> list[tuple[str, int]]:
+    """A back-matter page as (text, space_before): headings, bullets, prose; bold dropped."""
+    out: list[tuple[str, int]] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip().replace("**", "")
+        if not line:
+            continue
+        if line.startswith("# "):
+            out.append((line[2:].strip(), 18))
+        elif line.startswith("## "):
+            out.append((line[3:].strip(), 14))
+        elif line.startswith("- "):
+            out.append(("• " + line[2:].strip(), 0))
+        else:
+            out.append((line, 0))
+    return out
+
+
 def reading_paragraphs(
-    chapters: list[tuple[int, str, list[tuple[str, str]]]], end_line: str
+    chapters: list[tuple[int, str, list[tuple[str, str]]]],
+    end_line: str,
+    back: list[tuple[str, int]] = [],
 ) -> list[tuple[str, int]]:
     """Everything after the title page, as (markdown text, space_before)."""
     out: list[tuple[str, int]] = []
@@ -285,6 +307,7 @@ def reading_paragraphs(
         out.append((title, 0))
         for kind, text in blocks:
             out.append((text, 10 if kind == "scene" else 0))
+    out.extend(back)
     out.append((end_line, 18))
     return out
 
@@ -298,6 +321,7 @@ def build_doc(
     source_note: str,
     end_line: str,
     stamp: dict[str, str],
+    back: list[tuple[str, int]] = [],
 ) -> Document:
     doc = Document()
     set_normal_style(doc)
@@ -312,7 +336,7 @@ def build_doc(
     )
     doc.add_paragraph("")
 
-    for text, space_before in reading_paragraphs(chapters, end_line):
+    for text, space_before in reading_paragraphs(chapters, end_line, back):
         add_para(doc, text, space_before=space_before)
 
     cp = doc.core_properties
@@ -356,6 +380,10 @@ def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]])
         raise SystemExit("Craft metadata leaked into export body:\n  " + "\n  ".join(leaks[:20]))
 
 
+def full_back() -> list[tuple[str, int]]:
+    return [b for path in BACK_MATTER if path.exists() for b in parse_back_matter(path)]
+
+
 def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, str]]]]]:
     files = chapter_files()
     nums = [n for n, _ in files]
@@ -377,7 +405,8 @@ def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, st
         files.insert(0, (0, PROLOGUE))
         chapters.insert(0, pro)
     assert_reading_clean(chapters)
-    return [p for _, p in files], chapters
+    # The digest covers the back matter too, so editing it marks the copy stale.
+    return [p for _, p in files] + [p for p in BACK_MATTER if p.exists()], chapters
 
 
 def docx_paragraphs(path: Path) -> list[Runs]:
@@ -419,7 +448,7 @@ def check(path: Path) -> int:
     if "UNCOMMITTED" in (cp.comments or ""):
         problems.append("export was generated from uncommitted manuscript changes")
 
-    expected = [to_runs(t) for t, _ in reading_paragraphs(chapters, FULL_END_LINE)]
+    expected = [to_runs(t) for t, _ in reading_paragraphs(chapters, FULL_END_LINE, full_back())]
     got = docx_paragraphs(path)
     first = plain(expected[0])
     start = next((i for i, r in enumerate(got) if plain(r) == first), 0)
@@ -504,9 +533,10 @@ def main() -> None:
         subtitle="Book 1: FULL Review Draft (Chapters 1–36)",
         banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 36 CHAPTERS · OPENS WITH THE PROLOGUE",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · prologue and chapters 1–36",
+        source_note=f"Source: {source} · prologue, chapters 1–36, historical note and cast",
         end_line=FULL_END_LINE,
         stamp=stamp,
+        back=full_back(),
     )
     full.save(FULL_PATH)
     # Alias used by earlier review packets

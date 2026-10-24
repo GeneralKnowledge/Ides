@@ -26,26 +26,35 @@
 - **Lucius Minucius Basilus**
 - **Marcus Favonius**, Cato’s shadow, who was not asked
 - **Strato** of Aegae and **Publius Volumnius**, with Brutus at Philippi
+- **Quintus Horatius Flaccus**, the poet Horace, who joins Brutus at Athens
+- **Pindarus**, Cassius’s freedman
+- **Lucius Pella**, condemned by Brutus at Sardis
+- **Quintus Hortensius Hortalus**, governor of Macedonia, Hortensia’s brother
 
 ## Antony’s house
 - **Marcus Antonius**, consul in 44
 - **Fulvia**, his wife
 - **Julia**, his mother
-- **Lucius Antonius**, his brother
+- **Gaius Antonius** and **Lucius Antonius**, his brothers
+- **Lucius Julius Caesar**, Julia’s brother
 - **Marcus Pacuvius**†, centurion
 - **Gaius Septimius Bucco**†, cash agent
 
 ## The heir
 - **Gaius Octavius**, then **Gaius Julius Caesar** (called Octavian)
-- **Atia**, his mother; **Lucius Marcius Philippus**, his stepfather
+- **Atia**, his mother; **Octavia**, his sister; **Lucius Marcius Philippus**, his stepfather
 - **Marcus Vipsanius Agrippa**, his friend
 - **Gaius Maecenas**
 - **Apollodorus** of Pergamon, his teacher
 - **Quintus Pedius** and **Lucius Pinarius**, co-heirs
+- **Cornelius**, the centurion who showed the Senate his sword
 
 ## Cicero’s circle
 - **Marcus Tullius Cicero**
+- **Marcus Cicero**, his son, with Brutus
+- **Quintus Cicero**, his brother, and Quintus’s son
 - **Tiro**, his secretary
+- **Popillius**, who came for him at Formiae
 - **Titus Pomponius Atticus**, his friend; **Quintus Gellius Canus**, who hid Atticus
 - **Segulius Labeo**, who repeated what he heard
 - **Sphaerus**†, Hirtius’s secretary
@@ -56,7 +65,11 @@
 - **Marcus Aemilius Lepidus**, master of the horse and Pontifex Maximus
 - **Lucius Munatius Plancus**, governor of Further Gaul; **Plotius**, his brother
 - **Gaius Asinius Pollio**, governor in Spain
+- **Marcus Caecilius Cornutus**, urban praetor in 43
 - **Sextus Pompeius**, at sea
+
+## Asia
+- **Amyntas son of Menodotus**†, treasurer of Smyrna
 
 ## Egypt
 - **Cleopatra VII**, queen
@@ -92,7 +105,8 @@
 - **Sextilius**†, **Aebutius**†, **Tettius**†, guests
 
 ## The soldier’s world
-- **Sextus Laberius Cordus**†, legionary, Munda to Mutina
+- **Sextus Laberius Cordus**†, legionary, Munda to Philippi
 - **Vibius**†, his optio
-- **Gaius of the split sandal**†, his tent-mate
+- **Gaius of the split sandal**†, his tent-mate, killed at Mutina
 - **Rufrius**†, of the Second legion
+- **Gnaeus Aulius**†, who farms the plot at Capua
