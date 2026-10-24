@@ -118,7 +118,7 @@ The courier hesitated. “He asked for you in the room, not on the tablet.”
 
 “With being right at a distance,” Cicero said. “It takes all of a man’s leisure.”
 
-“Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
+“Only a king,” he murmured afterwards, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
 
 Who had written the oracle, he wondered, and who would be invited to dinner to hear it read.
 
