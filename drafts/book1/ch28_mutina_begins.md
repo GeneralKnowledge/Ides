@@ -14,8 +14,6 @@ Overhear risk: Sentinels / heralds
 
 ---
 
-### Between the lines
-
 They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
 
 Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
@@ -42,23 +40,9 @@ They parted without clasping. The truce ended when the first boot left the ditch
 
 “He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed, then didn’t.
 
-That night a courier brought Plancus’s newest courtesy, dated after a thaw that had not begun. Decimus set it under the same stone as Antony’s old threats.
+Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day, not mercy, timing. Timing kept soldiers paid long enough to hate the right wall. A scout reported smoke from the town’s edge, cooking, not surrender. Antony nodded. “He thinks a province is a personality,” he told Pacuvius. “Let him eat posture.”
 
-### Antony
-
-He rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day, not mercy, timing. Timing kept soldiers paid long enough to hate the right wall.
-
-A scout reported smoke from the town’s edge, cooking, not surrender. Antony nodded. “He thinks a province is a personality,” he told Pacuvius. “Let him eat posture.”
-
-### Decimus
-
-He watched the lines tighten and wrote fewer letters that pretended optimism.
-
-“Hirtius will come,” the aide said again, needing it.
-
-“After the Kalends,” Decimus said. “Him and Pansa both. Until then we eat salt ox and count hinges.”
-
-He walked the walls at night with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. Below, Antony’s fires multiplied.
+That night a courier brought Plancus’s newest courtesy, dated after a thaw that had not begun. Decimus set it under the same stone as Antony’s old threats, and wrote fewer letters that pretended optimism. He walked the walls with a cloak that did not keep the Ides out. The deed felt far and stupidly intimate, a debt owed a corpse who had trusted his cheer. An aide offered wine. Decimus refused, then took half a cup anyway. Below, Antony’s fires multiplied.
 
 ---
 

@@ -264,7 +264,7 @@ Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework
 
 A senator who had voted him an ovation and then forgotten to pay for it called him the gods’ gift and waited for a smile of destiny. Octavian looked at him until the man found something to do with his hands. A soldier shouted the name *Caesar* as paymaster; Octavian didn’t bow to it like a hymn. He let the shout stand because paymaster was a job his hands already understood better than luck.
 
-By autumn a courier brought Decimus’s end as three incompatible stories. Ditch. Alps. Lepidus’s smile. Antony’s purse, no purse, a speech, no speech. Octavian did not ask which was true. What the stories shared was enough for the ranks: the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen.
+By autumn a courier brought Decimus’s end in two lines: a ford in the hills, and somebody’s purse. Octavian did not ask whose. It was enough for the ranks that the last Liberator in Italy was gone, and the north had no one left to hold it but Antony and Lepidus. In the same week a tablet came under two seals pressed side by side in the same wax, Lepidus’s and Antony’s: talk, on the river island below Bononia, between the camps, where no city could listen.
 
 ---
 
