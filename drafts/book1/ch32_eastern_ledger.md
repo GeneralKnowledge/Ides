@@ -1,6 +1,6 @@
 # Chapter 32: Eastern Ledger
 
-**Scenes:** SC-87, SC-88 · 43–42 · Chain 8 · F5 skip · B7
+**Scenes:** SC-87, SC-88, SC-88b · 43–42 · Chain 8 · F5 skip · B7
 
 ---
 
@@ -74,8 +74,59 @@ Cassius, somewhere else on the same war, would call this necessity, and would, B
 
 ---
 
+# SC-88b: The Prisoner’s Ship
+
+POV: Brutus · Macedonia, winter camp
+Date / place: Early 42 · Brutus’s quarters; the letter box
+Canon refs: T8 · Plut. *Brut.* 26, 28 · Cic. *Ad Brut.* (spring 43)
+Info ENTER: Gaius Antonius held since Apollonia; news of Cicero’s death · EXIT: Brutus writes the order to Hortensius
+Overhear risk: Secretary
+
+---
+
+He kept Cicero’s letters in a cedar box with a bronze clasp, because they were the best-written letters he had ever been sent and he had thought, once, that he might want to read them again when he was old.
+
+There were a great many of them about Gaius Antonius.
+
+The first had come in April, after Apollonia. Cicero had congratulated him on the town and the legions and the young Marcus, in that order, and then in a final paragraph, as if remembering a small thing, had written that Gaius ought to be put to death. *Not out of anger*, Cicero wrote. *Out of arithmetic. While he lives, his brother has a reason to come east, and every Antonian in your ranks has a man to look at.* Brutus had written back that the Senate had not condemned Gaius, and that he would not do with a sword what the Senate had not done with a vote. He had written it well. He had been proud of the letter. He had sent Cicero a copy of a passage from it that Cicero might use in the House, if he liked.
+
+Then, in the summer, Gaius had worked on the legions.
+
+He had done it the way his family did everything, openly and with a good deal of wine. He dined in the lines. He let the men see his lictors, and let them remember whose brother he was, and whose soldiers half of them had been the winter before. One legion had begun to talk. Then it had begun to refuse. For three days Brutus had had a mutiny in his camp, quiet, sullen, the men standing in their lines and not moving when the trumpet went, and Gaius in the good house he had been given, pouring wine and being sorry about it. Brutus had ended it without killing anyone. He had been proud of that too.
+
+He had put Gaius on a ship. That was all. A good ship, anchored off the coast, with a guard and his own servants, and his lictors sent ashore. *For his own safety*, Brutus had written to the Senate, and to Cicero, and Cicero had written back in August a letter so angry the clasp of the box had seemed to sit tighter after it went in. *You are the gentlest man in Rome*, Cicero wrote, *and it will cost the Republic everything it has left. Do you think he would spare you?*
+
+Brutus took that letter out now and read it again by the lamp, in the cold, with the secretary waiting.
+
+Cicero was dead.
+
+The news had come up from the coast the week before, from Italy, wrong at first as everything came wrong, and then right. Cicero dead in December on the road to the sea, and what had been done afterwards in the Forum, on Antony’s orders, told by every rider a little differently. Brutus had not asked for the details, as he had not asked which story about Decimus was true. Decimus dead in the autumn at some ford in Gaul. Cicero dead on the coast road. Both on lists their friends had signed. Both while their friends’ brothers were alive and well and being fed on Brutus’s grain.
+
+He read the August letter through to the end. *Do you think he would spare you?*
+
+He did not know. That was the truth of it, and it was the worst thing about the night. Gaius might have spared him. Gaius might have been kind to him at a camp gate and stopped his hand short of his shoulder and hated himself for the pleasure of it. Men were stranger than Cicero allowed. They were stranger than Brutus had allowed, in the spring, when he had heard Caesar’s voice come out of his own mouth and decided it was only his own, and good.
+
+“Hortensius,” he said.
+
+The secretary dipped the pen.
+
+He dictated it plainly. To Quintus Hortensius, proconsul, who held the coast and the ship. That in view of what had been done in Italy to Decimus Brutus and to Marcus Cicero, by the order of Gaius’s brother, Gaius Antonius was to be put to death. That it was to be done quickly and without insult. That his body was to be given to his servants for burial in a manner fitting his rank.
+
+He listened to his own voice while he said it, waiting for the warmth, and it did not come. Nothing came. It was a clerk’s voice. He had wanted, he found, at least to feel the thing he was doing, and he did not, and that was worse than the warmth had been.
+
+“Read it back.”
+
+The secretary read it back. Brutus listened to it and found nothing to change, and took the stylus and signed it, and sealed it with his own seal, the one with the ancestor on it, Lucius Brutus who had driven out the kings and then sat in judgement on his own sons for plotting to bring them back, and watched them die, and did not look away.
+
+He had always thought of that as the hardest thing a Roman had ever done. It had not seemed hard tonight. It had seemed like a letter.
+
+When the secretary had gone he put the August letter back in the cedar box with the others and closed the clasp. He did not think he would want to read them when he was old. He did not think, now, that he would be.
+
+---
+
 ## Continuity
 - **SC-87 (Cassius):** liberty as a tax. An elder refuses to hand over all at once; the sack weighs short; Cassius imposes half now and sureties. His hungry legions: Syria’s garrison came over, and Dolabella’s men after Laodicea (Dolabella dead by his own soldier’s sword). West tablets, incomplete: Mutina, lists, fasces; the court in the boy’s consulship that condemned the men of March to empty benches; the three looking east (why the silver now); Trebonius killed at Smyrna before dawn (Dolabella), above Decimus in Cassius’s ledger.
 - **SC-88 (Brutus):** *EID MAR*: two daggers and the freedman’s cap, glossed by the mint-master; Brutus corrects it to Rome. His own head on the obverse against his winter jab at Caesar’s living-face coins.
-- **Plants → pays:** GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
+- **SC-88b (Brutus, early 42, T8):** Cicero’s letters in a cedar box. April 43: kill Gaius “out of arithmetic”; Brutus refuses, the Senate has not condemned him. Summer 43: Gaius works on the legions with wine and lictors; a three-day standing mutiny, ended without a death; Gaius moved to an anchored ship under guard, lictors ashore. August: “Do you think he would spare you?” News of Cicero’s death (details not asked) and Decimus’s. Brutus dictates the order to Hortensius: quick, without insult, burial fitting his rank (Plut. *Brut.* 26, 28). No warmth comes; the seal of Lucius Brutus who watched his sons die “seemed like a letter”.
+- **Plants → pays:** Gaius dead pays at Ch 34 SC-93 (Hortensius on the grave); GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
 - **Must not:** not re-glossed: Asia, *libertas*, the Decimus rumour, GO night.
