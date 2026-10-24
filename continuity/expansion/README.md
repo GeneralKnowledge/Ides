@@ -19,8 +19,8 @@
 ## Rules (non-negotiable)
 
 1. **Architecture before dump.** Act summaries + subplot tracks + deposit map exist before *large new* prose dumps. Line fixes and INTEGRATE revisions of landed deposits do not require a new architecture pass.  
-2. **Want/cost first.** New scenes change someone’s next choice. No padding to hit LEN-1.  
-3. **Story-first craft, current form.** Rooms, callbacks, humour, play and gravity still matter. **Corridor truth only at high stakes, and only within the POV’s hearing:** no exit-complaint after every polite scene, no off-POV corner coda the viewpoint character cannot hear. The archived [`story_first_intrigue_plan.md`](../../archive/plans/story_first_intrigue_plan.md) is history, not law; where it conflicts with [`HUMAN_VOICE_RULES.md`](../../writing/HUMAN_VOICE_RULES.md) the voice rules win. **No** `Three…` census / warehouse kit / planning vocabulary (“unfinished question”, “rooms”, “mosaic”) in prose.  
+2. **Want/cost first.** New scenes change someone’s next choice. No padding to reach any length.  
+3. **Story-first craft, current form.** Rooms, callbacks, humour, play and gravity still matter. **A step-aside line only when it changes what someone does next, and only within the POV’s hearing:** no exit-complaint after a polite scene, no overheard verdict on the scene just played, no off-POV corner coda. The archived [`story_first_intrigue_plan.md`](../../archive/plans/story_first_intrigue_plan.md) is history, not law; where it conflicts with [`HUMAN_VOICE_RULES.md`](../../writing/HUMAN_VOICE_RULES.md) the voice rules win. **No** `Three…` census / warehouse kit / planning vocabulary (“unfinished question”, “rooms”, “mosaic”) in prose.  
 4. **Subplots intersect Engines A/B** — they do not become a third mystery.  
 5. **Flexibility zones only** ([`../../story/flexibility_zones.md`](../../story/flexibility_zones.md)); lock inventions in canon when they stick.  
 6. **Three novelist questions before any new beat.** What should the reader feel/wonder/understand? What human decision produces it? Why can’t existing prose do it? If any answer fails → **leave the manuscript alone.**
@@ -29,7 +29,7 @@
 
 **Must remain true (narrative / historical):** AMB-1 · NOTE-1 dual tracks · SIDE-1 OPEN-0 and not Ides-explanation · OCT≠Augustus · no Actium as Book 1 plot · A5 Curia of Pompey death · Formiae for Cicero · disputed last-words *stance* (no Shakespeare Latin as narrator truth).
 
-**Shielded from padding / prove-again (PROTECT ≠ immunity):** Gold-spine peaks (esp. Ch 16 continuous-dream quality); Ch 8–9 core rooms; Formiae / Philippi selective density. Continuity fixes, weak-line improvement, and compelling rearrangements that keep the invariant are allowed under stronger justification — see [`../lock_architecture_audit.md`](../lock_architecture_audit.md).
+**Shielded from padding / prove-again (PROTECT ≠ immunity):** the named cores in `writing/HUMAN_VOICE_RULES.md` §1 (Ides) and §4.6 (prologue and Ch 1–3, Ch 20–23, Philippi); Ch 8–9 core rooms; Formiae. Continuity fixes, weak-line improvement, and compelling rearrangements that keep the invariant are allowed under stronger justification — see [`../lock_architecture_audit.md`](../lock_architecture_audit.md).
 
 **Working staging (revisable with review):** CHOREO-1 blow order — prefer landed continuity; not Anchor A5 itself.
 
@@ -45,9 +45,8 @@ Actium as Book 1 content · SIDE-1 solution-as-Ides-cause · romance-for-spice �
 
 | Record | Role |
 |--------|------|
-| **LEN-1** (canon soft: 90–130k) | Aspirational scale if *story* needs rooms — **not** a completion gate |
-| Intermediate ~55–70k | Former first-wave landing band — **not** a quota |
-| Current ~90k reading words | Prologue and Ch 1–36 on main (2026-10-24), after Phases 2–3 (T8–T13, S1–S5, the Ch 36 endings) and the renumbering pass. Plan in the Claude Doc “Book 1: updated plan” |
+| **LEN-1** | A record of the current length, not a target (canon, revised 2026-10-24) |
+| Current ~88k reading words | Prologue and Ch 1–36 (2026-10-24), after Phases 2–3 (T8–T13, S1–S5, the Ch 36 endings), the renumbering pass, the story graph pass and the Ides trim |
 
 **Length does not dictate content.** Story-completion for the *expansion phase* is the stopping rule below — not proximity to either band.
 
@@ -74,7 +73,7 @@ Passing these conditions means the expansion phase has stopped inventing materia
 
 ## Recommended next action
 
-**2026-10-23, reader-led:** the author found that Book 1 lacks real historical side plots. A new expansion phase is open for documented historical subplots (new tracks allowed; see [`subplot_tracks.md`](subplot_tracks.md)). Each new beat still answers the three novelist questions above, and no beat is added only to reach LEN-1.
+The 2026-10-23 expansion phase for historical subplots (T8–T13, S1–S5) is finished, and the 2026-10-24 story graph pass closed its gaps. The book is with Gate 3 readers (`writing/FINAL_READINESS_GATE.md`). New beats wait for reader notes; each still answers the three novelist questions above.
 
 ---
 

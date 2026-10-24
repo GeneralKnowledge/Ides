@@ -48,7 +48,7 @@ The one gate the author's rereads cannot replace.
 | **Reader response** | A real reaction (confused here, bored there, moved by this) that may or may not need a change | Weigh in context: does the passage fail, or is the reaction the one intended? |
 | **Preference** | A suggestion that would make the book different, not necessarily better | Reject when it conflicts with the novel’s intent; note it either way |
 
-Then make **one** correction round and check only the changed passages and their dependencies (`LLM_WRITING_BRIEF.md` §12b), not every chapter from scratch.
+Then make **one** correction round and check only the changed passages and their dependencies (`LLM_WRITING_BRIEF.md` §12b), not every chapter from scratch. If that round causes a new defect, a second round fixes only those defects; it does not reopen preferences.
 
 **Pass when:** every point is classified, every defect is fixed or deferred, and every confusion that stays is kept on purpose with a reason (a mystery meant to stay open, for example).
 

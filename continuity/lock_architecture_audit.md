@@ -8,6 +8,8 @@
 
 **Governing principle:** Lock what must remain true; preserve freedom over *how* the story makes it true.
 
+**Status (2026-10-24):** applied. The dispositions below are done; the 2026-10-24 rules review carried §4.1–4.2 into `writing/HUMAN_VOICE_RULES.md` as named protected cores (`archive/pass_logs/rules_review_2026-10-24.md`).
+
 ---
 
 ## 1. Scope
