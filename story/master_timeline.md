@@ -64,7 +64,9 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | May | Lepidus’s legions let Antony into their camp | H | Ch 29 |
 | Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 SC-82 (Decimus) |
 | Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 (reported); T10 will dramatise |
-| 19 Aug | Octavian consul at nineteen; Pedian court condemns the assassins | H | Ch 29; S5 will dramatise |
+| Jul | Four hundred centurions to the Senate; Cornelius’s sword (Suet. *Aug.* 26) | H | Ch 29 SC-83 |
+| Late Jul–Aug | Rubicon; African legions defect; Cornutus’s suicide; Atia and Octavia at the Vestals’; Cicero greets him last (App. *BC* 3.88–93) | H | Ch 29 SC-83 |
+| 19 Aug | Octavian consul at nineteen with Pedius; vultures; Pedian court condemns the assassins | H | Ch 29 SC-83 (S5) |
 | Sept | Decimus killed at the ford | H | Ch 29 |
 | Oct–Nov | Bononia island meeting; Lex Titia (27 Nov) | H | Ch 30 |
 | Nov–Dec | Proscription edict (App. *BC* 4.11 terms); lists posted | H | Ch 30 |

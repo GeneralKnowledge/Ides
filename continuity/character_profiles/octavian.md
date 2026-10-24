@@ -39,7 +39,7 @@ Training weather; correcting age not tone; holding incompatible Decimus stories;
 | Setup | 5 | Hopeful-shadow hate; Agrippa; great-nephew plant |
 | Pressure | 18 (off), 20 | Will adoption/name-path public; names first; gardens/boy |
 | Choice | 22, 27 | Name-take; Senate’s sword nod |
-| Cost | 29–30 | Fasces; Bononia Cicero assent |
+| Cost | 29–30 | Centurions’ sword; Rubicon felt by the men, not him; Atia and Octavia at the Vestals’; Cicero greets him last; pays before the vote; vultures left open; fasces; Bononia Cicero assent |
 | End | 34 | Ill; farms that belong to someone else |
 
 ## Behavioral tells
