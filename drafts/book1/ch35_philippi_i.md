@@ -1,4 +1,4 @@
-# Chapter 33: Philippi I
+# Chapter 35: Philippi I
 
 **Scenes:** SC-89a, SC-90, SC-91 (+ OPEN-0 echo folded) · summer → Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
 

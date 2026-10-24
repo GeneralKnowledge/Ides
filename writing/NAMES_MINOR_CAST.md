@@ -29,11 +29,11 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | Proscription denouncer (slave) | **Festus** | SC-85 | Betrays master for freedom rumour |
 | Hirtius’ secretary | **Sphaerus** | CIC orbit 44 | Letter bridge (carries Hirtius’s notes to Cicero; never Cicero’s own man; Cicero’s is Tiro) |
 | Crowd leader at funeral (D) | **Quintus the fuller** | SC-50 / Ch 19 | Not “the people” abstraction |
-| Cleopatra court factotum | **Ammonius** (or stand-in) | CLEO / Ch 20, 26 | Useful irritant; books/Cicero gossip |
+| Cleopatra court factotum | **Ammonius** (or stand-in) | CLEO / Ch 20, 27 | Useful irritant; books/Cicero gossip |
 | Kitchen omen gossip | **Dama** | F1 / Ch 14 | Chickens sullen (wired) |
 | Antony force officer (Ides eve) | **M. Pacuvius** | ANT / Ch 17 | Scar; Capitol storm urge (wired) |
 | Laberius’s contubernium mate | **Gaius of the split sandal** | F3 / Ch 4, 13 | Talks to keep his fingers warm |
-| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 30 | Borrows tools, returns gossip; replaces earlier “Quintus”; listed in Ch 30, saved by Seius |
-| Seius’s doorkeeper | **Dromo** | F2 / Ch 30 | Old porter; freed before he can inform |
+| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 32 | Borrows tools, returns gossip; replaces earlier “Quintus”; listed in Ch 32, saved by Seius |
+| Seius’s doorkeeper | **Dromo** | F2 / Ch 32 | Old porter; freed before he can inform |
 
 **Rule:** New recurring names → append here + one-line note in `continuity/canon.md` under NAMES-1.

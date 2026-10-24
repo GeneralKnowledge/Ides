@@ -37,7 +37,7 @@ Practicing longer market days; corridor complaints after festival courtesy.
 |-------|----------|------|
 | Plant | 7–9 | market day; spare logistics |
 | Choice | 13, 15 | Leash tasked; portico hold; warm face drops after scream |
-| End | 21, 27a | Leaves for Asia before dawn, “That’s the part I think about” (Ch 21); Smyrna, killed in bed, seen only as the head on his chair (Ch 27a); never POV |
+| End | 21, 29 | Leaves for Asia before dawn, “That’s the part I think about” (Ch 21); Smyrna, killed in bed, seen only as the head on his chair (Ch 29); never POV |
 
 ## Behavioral tells
 Empty-hand sip; mildness thins for attendant only.

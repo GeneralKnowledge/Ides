@@ -40,4 +40,4 @@ Mark only the places the book uses.
 Shade the provinces named in the text: Cisalpine Gaul, Macedonia, Syria, Asia.
 
 ## Optional Map 3. Mutina, April 43
-Show Mutina’s walls and Antony’s ring of ditches. Mark Forum Gallorum on the Via Aemilia toward Bononia, and Hirtius’s line of approach. Use Ch 26–28 for the details.
+Show Mutina’s walls and Antony’s ring of ditches. Mark Forum Gallorum on the Via Aemilia toward Bononia, and Hirtius’s line of approach. Use Ch 27–30 for the details.

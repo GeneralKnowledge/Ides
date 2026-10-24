@@ -79,12 +79,12 @@ Visellius · Bucco · Medullina · Sosia · Glaucia · Hilarus · Dama · Pallas
 | 23 | F4, F1, F2 |
 | 24 | F3, CIC (+ Servilia) |
 | 25 | CIC, CAS/BRU |
-| 26 | DEC, CLE, CIC |
-| 27 | ANT/DEC, CIC/OCT |
-| 28 | F3, F4 |
-| 29 | DEC, OCT |
-| 30 | ANT/OCT/LEP, F2/F4/F1 |
-| 31 | CIC |
-| 32 | CAS, BRU |
-| 33 | F4, ANT/F3, CAS |
-| 34 | BRU/OCT, ANT, OCT, F4 echo |
+| 27 | DEC, CLE, CIC |
+| 28 | ANT/DEC, CIC/OCT |
+| 30 | F3, F4 |
+| 31 | DEC, OCT |
+| 32 | ANT/OCT/LEP, F2/F4/F1 |
+| 33 | CIC |
+| 34 | CAS, BRU |
+| 35 | F4, ANT/F3, CAS |
+| 36 | BRU/OCT, ANT, OCT, F4 echo |

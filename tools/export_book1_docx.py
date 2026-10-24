@@ -29,11 +29,12 @@ from docx.enum.text import WD_LINE_SPACING
 ROOT = Path(__file__).resolve().parents[1]
 DRAFTS = ROOT / "drafts" / "book1"
 EXPORTS = ROOT / "exports"
-FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-34.docx"
-CHAPTER_COUNT = 34
+FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-36.docx"
+CHAPTER_COUNT = 36
 # Optional prologue before Chapter 1, header "# Prologue: Title"; parsed as number 0.
-# Inserted chapters (ch25a_*.md, "# Chapter 25a: Title") sit after their base
-# chapter until the one renumbering pass; at most one letter per insert.
+# Inserted chapters (ch36a_*.md, "# Chapter 36a: Title") sit after their base
+# chapter until the next renumbering pass; at most one letter per insert.
+# The 2026-10-24 pass folded 25a and 27a into Ch 26 and Ch 29.
 PROLOGUE = DRAFTS / "prologue_utica.md"
 
 ACTS = [
@@ -41,7 +42,7 @@ ACTS = [
     (7, "Act 2: Conspiracy"),
     (14, "Act 3: The Ides"),
     (21, "Act 4: Aftermath & Name-War"),
-    (28, "Act 5: Mutina to Philippi"),
+    (30, "Act 5: Mutina to Philippi"),
 ]
 
 # Chapter / scene title separators after author-voice em-dash purge (colon),
@@ -117,7 +118,7 @@ def source_stamp(files: list[Path]) -> dict[str, str]:
 
 
 class ChapNum(int):
-    """Chapter number with an optional insert letter: 25a sorts after 25."""
+    """Chapter number with an optional insert letter: 36a sorts after 36."""
 
     def __new__(cls, n: int, suffix: str = "") -> "ChapNum":
         obj = super().__new__(cls, n)
@@ -498,10 +499,10 @@ def main() -> None:
 
     full = build_doc(
         all_ch,
-        subtitle="Book 1: FULL Review Draft (Chapters 1–34)",
-        banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 34 CHAPTERS · OPENS WITH THE PROLOGUE",
+        subtitle="Book 1: FULL Review Draft (Chapters 1–36)",
+        banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 36 CHAPTERS · OPENS WITH THE PROLOGUE",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · prologue and chapters 1–34",
+        source_note=f"Source: {source} · prologue and chapters 1–36",
         end_line=FULL_END_LINE,
         stamp=stamp,
     )

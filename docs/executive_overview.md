@@ -2,7 +2,7 @@
 
 **Project:** Historical-fiction world database for a late-Republican ensemble narrative centred on 15 March 44 BC, spanning roughly 46–42 BC (with later horizon mapped, not forced).
 
-**Stage:** Book 1 manuscript present in `drafts/book1/` (Utica prologue + Ch 1–34). Development phases through house-style are complete (`archive/`). Not publication-ready. **Ends at Philippi.**
+**Stage:** Book 1 manuscript present in `drafts/book1/` (Utica prologue + Ch 1–36). Development phases through house-style are complete (`archive/`). Not publication-ready. **Ends at Philippi.**
 
 
 **Feel target:** Political sprawl, incomplete information, plural motives, consequence chains — constrained by Roman institutions, not Westeros cosplay.
@@ -151,7 +151,7 @@ Fifteen hooks with ≥3 interpretations each (Caesar’s knowledge, omen psy-ops
 
 ## Q. Current project state
 
-Book 1 **manuscript** (Utica prologue + Ch 1–34) is present; the dinner is Ch 1. Mid-tier expansion and later development phases (**1B–1G**) are **complete** — records live under `archive/`, not as the next-task list.
+Book 1 **manuscript** (Utica prologue + Ch 1–36) is present; the dinner is Ch 1. Mid-tier expansion and later development phases (**1B–1G**) are **complete** — records live under `archive/`, not as the next-task list.
 
 Resume from the manuscript + `continuity/canon.md`. Optional later work (line edit, source VERIFY) is human judgment, not a queued phase plan.
 
@@ -176,7 +176,7 @@ History constrains; mistakes matter; rumours err; characters lack future knowled
 ```
 /README.md
 /docs/          entry + INDEX + this overview
-/drafts/book1/  manuscript (Ch 01–34)
+/drafts/book1/  manuscript (Ch 01–36)
 /continuity/    canon, questions, contradictions, future_research,
                 lock_architecture_audit, character_profiles/, expansion/
 /story/         anchors, timeline, mysteries, POV lock (pre-draft beats and cards in archive/planning/)

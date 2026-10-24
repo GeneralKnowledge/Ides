@@ -202,6 +202,6 @@ Decimus fell into step. He didn’t know the wax. He knew the chin-tip. The road
 
 ## Continuity
 - **Knows / learns:** Munda’s body cost (Laberius); in Rome it is an easy win, heard late and wrong. Labienus is dead; Sextus Pompey gets to sea. Servilia is Brutus’s mother and Caesar’s longest love; Porcia is Cato’s daughter. Brutus remembers being spared after Pharsalus. Decimus’s Gaul is his own record (the ships against the Veneti, Massilia); Cisalpine and Mutina are named. Queen, Caesarion and Transtiberim are still portico gossip. The will rumour is in a laugher’s mouth.
-- **Plants → pays:** Brutus burns a different, late-45 dinner invitation (not Ch 1’s); the ancestors as his boyhood recitation; Decimus’s chin-tip, ditch timing and road trust (Ch 14); Mutina (Ch 20, 26); Decimus as second heir (Ch 18); FS05, FS21.
+- **Plants → pays:** Brutus burns a different, late-45 dinner invitation (not Ch 1’s); the ancestors as his boyhood recitation; Decimus’s chin-tip, ditch timing and road trust (Ch 14); Mutina (Ch 20, 27); Decimus as second heir (Ch 18); FS05, FS21.
 - **Must not:** no Cleopatra POV.
 - **Decisions:** 2026-10-23: ancestors as Brutus’s recitation, Gaul in Decimus’s own record, will rumour in the laugher’s mouth (tightening pass).

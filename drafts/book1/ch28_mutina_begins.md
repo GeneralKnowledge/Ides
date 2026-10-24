@@ -1,4 +1,4 @@
-# Chapter 27: Mutina Begins
+# Chapter 28: Mutina Begins
 
 **Scenes:** SC-73, SC-74 · Dec 44 – early 43 · A10 · Chain 6
 
@@ -90,5 +90,5 @@ Afterward a senator clasped his arm and called him the Republic’s luck. Octavi
 
 ## Continuity
 - **Knows / learns:** the parley at the ditch: Antony names Hirtius (sick) and Pansa (the levy) and the Kalends handover; he presses on grain counts; Decimus refuses (the aide: “after the Kalends”; salt oxen); the aide’s chair joke dies. The siege begins. Plancus sends a soft-ally tablet. SC-74, Kalends of January 43, Octavian’s POV: both consuls in their chairs as the Senate’s swords (Hirtius finished Caesar’s Gaul book; Pansa, recruits and pay). Cicero’s motion legalises the boy’s army (the Martian and Fourth left Antony; veterans raised at his own cost; a praetor’s command; cf. Cic. *Phil.* 5); 500 denarii in the Campanian colonies against Antony’s hundred. Cicero’s private choke and certainty seen from outside. Agrippa’s stillness at the Curia edge while Pacuvius mutters about Antony’s timing (D12).
-- **Plants → pays:** Hirtius as fact and Pansa as open (Ch 28); “Martians” (Ch 28–29); Plancus (Ch 29); Philippus’s face (Ch 22 SC-63b).
+- **Plants → pays:** Hirtius as fact and Pansa as open (Ch 30); “Martians” (Ch 30–31); Plancus (Ch 31); Philippus’s face (Ch 22 SC-63b).
 - **Must not:** Octavian ≠ Augustus; Philippus not re-glossed.

@@ -1,4 +1,4 @@
-# Chapter 26: Provinces and Shadows
+# Chapter 27: Provinces and Shadows
 
 **Scenes:** SC-70a, SC-70b, SC-70c, SC-70 (+ folded CLEO-1 / FS11) · Oct–Dec 44 · A10 · CLEO-1 · FS11
 
@@ -256,8 +256,8 @@ Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest
 ## Continuity
 - **SC-70a (Brundisium, mid-Oct 44):** four Macedonian legions laugh at a hundred denarii; the boy’s leaflets on the quay; centurions chosen by lot in his host’s colonnade with Fulvia beside Antony, a fleck of blood on her cheek (Cic. *Phil.* 3.4, 5.22, 13.18; App. *BC* 3.43–44); the violence by sound only. Fulvia: silence means they are counting the other offer.
 - **SC-70b (Casilinum, 11 Oct 44):** Octavian in person, 500 denarii (*Att.* 16.8; App. *BC* 3.40); the clerk finds Laberius’s twine in the colony rolls with his thumb: the coin is dated, the dirt is “a matter for after”.
-- **SC-70c (10 Nov 44):** Temple of Castor, the tribune Cannutius, the oath with a hand toward Caesar’s statue (*Att.* 16.15.3); the scar-lipped veteran: “He was Caesar’s too”; a third go home; Laberius glimpsed counting the leavers, unnamed; Arretium (Maecenas’s country); the Martian legion shuts Alba Fucens on Antony and the Fourth follows (App. *BC* 3.45); a letter to Cicero sets up Ch 27.
+- **SC-70c (10 Nov 44):** Temple of Castor, the tribune Cannutius, the oath with a hand toward Caesar’s statue (*Att.* 16.15.3); the scar-lipped veteran: “He was Caesar’s too”; a third go home; Laberius glimpsed counting the leavers, unnamed; Arretium (Maecenas’s country); the Martian legion shuts Alba Fucens on Antony and the Fourth follows (App. *BC* 3.45); a letter to Cicero sets up Ch 28.
 - **SC-70 (Decimus):** refuses Antony’s envoy and digs in; the swap law (an assembly vote; the Macedonian legions; the Senate silent both ways); the Ariminum rider sends him into Mutina with what the boy left him of the Macedonian legions; siege as ditches, the last ox, an army from Rome; Hirtius and Pansa, consuls from the Kalends, the Senate’s only swords; salt oxen (App. *BC* 3.49). Plancus refuses grain and cohorts “while his own theatre remained unsettled” and sends *yet* with no road date by a courier who ate at his table (D11); Lepidus’s people silent; Lepidus has more legions than Plancus (coast to Spain) and is chief priest; his word goes to whoever stands nearest. The levy is “partial”. A courier: the queen sailed (CLEO-1). Sextus is one line of unease in Cicero’s margin (FS11).
-- **Plants → pays:** Ch 24 “which purse still dates dirt” and “when the shadow learns to feed us”; Ch 28 “had not moved the twine”; Lepidus joins Antony (Ch 29), the Bononia table (Ch 30).
+- **Plants → pays:** Ch 24 “which purse still dates dirt” and “when the shadow learns to feed us”; Ch 30 “had not moved the twine”; Lepidus joins Antony (Ch 31), the Bononia table (Ch 32).
 - **Must not:** no Cleopatra scene; no omniscient betrayal by Plancus.
 - **Decisions:** 2026-10-23 (Reuben, T9): SC-70a–c added; the chapter is no longer single-POV.

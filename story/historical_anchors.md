@@ -172,15 +172,15 @@ Certainty **A** unless marked. These were added 2026-10-23 so new tracks don’t
 |------|-------|---------|--------------|
 | May 44 | Octavian meets Antony in Pompey’s gardens; Antony refuses Caesar’s money; Octavian sells his own property to pay the legacies | 22 | Antony handing over the money |
 | Jul 44 | Victory games; the comet (*sidus Iulium*); Antony blocks the golden chair | 25 | Narrator confirming the comet as Caesar’s soul |
-| Oct 44 | Brundisium: Antony offers 100 denarii, ranks jeer, centurions executed; Octavian offers 500 in Campania | 26 | Octavian outbidding with Senate money |
-| 10 Nov 44 | Octavian’s veterans refuse to fight Antony after the oath at Caesar’s statue | 26 | A successful first march |
-| Late Nov 44 | Martian legion and Fourth defect to Octavian | 26 | |
-| Jan 43 | Trebonius killed at Smyrna by Dolabella | 32 | |
-| Jul 43 | Dolabella’s suicide at Laodicea | 32 | |
-| Jun–Sept 43 | Plancus joins Decimus, then goes over to Antony with Pollio | 29 | |
-| 19 Aug 43 | Octavian consul; Lex Pedia condemns the assassins | 29, 32 | Octavian consul before both consuls die |
-| Sept 43 | Decimus killed fleeing toward Macedonia | 29 | |
-| Nov 43 | Proscription edict: 25,000 a head, slave 10,000 + freedom, informers paid, goods auctioned, hiders proscribed (App. *BC* 4.11, **B**) | 30 | |
+| Oct 44 | Brundisium: Antony offers 100 denarii, ranks jeer, centurions executed; Octavian offers 500 in Campania | 27 | Octavian outbidding with Senate money |
+| 10 Nov 44 | Octavian’s veterans refuse to fight Antony after the oath at Caesar’s statue | 27 | A successful first march |
+| Late Nov 44 | Martian legion and Fourth defect to Octavian | 27 | |
+| Jan 43 | Trebonius killed at Smyrna by Dolabella | 34 | |
+| Jul 43 | Dolabella’s suicide at Laodicea | 34 | |
+| Jun–Sept 43 | Plancus joins Decimus, then goes over to Antony with Pollio | 31 | |
+| 19 Aug 43 | Octavian consul; Lex Pedia condemns the assassins | 31, 34 | Octavian consul before both consuls die |
+| Sept 43 | Decimus killed fleeing toward Macedonia | 31 | |
+| Nov 43 | Proscription edict: 25,000 a head, slave 10,000 + freedom, informers paid, goods auctioned, hiders proscribed (App. *BC* 4.11, **B**) | 32 | |
 
 ## Anchor test for any plot pitch
 
