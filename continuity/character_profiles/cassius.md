@@ -40,7 +40,7 @@ Naming doors softly; walking Galba’s winter; mint arguments; keeping three wes
 | Setup | 1, 7–8 | Soft-chain dinner open; Galba price; group room |
 | Pressure | 13, 15–16 | GO; portico delay cascade; Curia first blows |
 | Choice | 17, 25, 32 | Capitol: leave vs linger priced; collecting; half-now sureties |
-| Cost | 32–33 | Decimus debit; incomplete report |
+| Cost | 32–33 | Decimus debit; Sardis quarrel (throws Xanthus back; laughs at Favonius); Abydos: the senses deceive, said gently; incomplete report |
 | End | 33 | INF-death on a lie the plain told |
 
 ## Behavioral tells

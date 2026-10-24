@@ -1,6 +1,6 @@
 # Chapter 32: Eastern Ledger
 
-**Scenes:** SC-87a, SC-87, SC-88, SC-88b · summer 43 → 42 · Chain 8 · F5 (Amyntas) · B7
+**Scenes:** SC-87a, SC-87, SC-88, SC-88b, SC-88c · summer 43 → 42 · Chain 8 · F5 (Amyntas) · B7
 
 ---
 
@@ -188,10 +188,87 @@ He did not take the letter out. He laid his hand flat on the others, over it, fo
 
 ---
 
+# SC-88c: Sardis
+
+POV: Cassius · Sardis
+Date / place: Early 42 · the armies’ meeting on the plain; a closed room in the governor’s house; the tribunal next day
+Canon refs: S1 · Plut. *Brut.* 30–35 · App. *BC* 4.63–65 · *Iliad* 1.259
+Info ENTER: Rhodes sacked by Cassius; Xanthus burned under Brutus; both armies paid in Asia’s silver · EXIT: The quarrel; Favonius; Lucius Pella condemned; “Remember the Ides”
+Overhear risk: Friends at the door; Favonius
+
+---
+
+The armies hailed them both as *Imperator* on the plain below Sardis, and Cassius, riding in under the cheering with Brutus a length ahead, thought that the men cheered louder for whichever of them had paid more recently, and that this was the one thing in Asia he did not need to count.
+
+They embraced in front of the standards. They had not seen each other in more than a year. Brutus was thinner and greyer at the temples and his eyes had something in them Cassius had not seen before, a kind of steady tiredness, like a man who has been listening to the same sound for a long time. Brutus said, “Rhodes,” into his ear in the middle of the embrace, quietly, the way a man says the name of a mutual friend who has died. Cassius said, “Xanthus,” back.
+
+Then they let go, and smiled for the legions, and went up into the city to the governor’s house, and shut the door.
+
+Cassius had known the room would be like this. He had not known it would happen so quickly.
+
+He did not afterwards remember who began. Brutus, probably. Brutus had been composing the speech on the road for weeks; Cassius could hear the periods in it, the balanced clauses, *you* and *I* weighed against each other like ingots. Rhodes: a free city, an old ally, a city of philosophers, and Cassius had taken its harbour by storm and its treasury by force and some of its leading men by name, and left it thousands of talents poorer. The Lycians, fined until they sold their temple plate. Laodicea stripped after Dolabella was dead, the dead man’s town made to pay for the dead man. *We are not pirates*, Brutus said. Cassius had heard one of his own officers say the same words in an audience hall in the winter, too loud, and had thought then what he thought now: that men who were not pirates did not need to say so.
+
+“And Xanthus?” he said.
+
+Brutus stopped.
+
+“You besieged a free city,” Cassius said. “Of Lycians. Who didn’t want you. And when they wouldn’t open, and you got in, and offered them terms, they burned their own houses with their wives and children inside rather than take your terms. Your mercy. Your famous mercy. They jumped into the fires off their own roofs to get away from it.” He heard his own voice going up and did not stop it. “You offered your soldiers a reward for every Xanthian saved. They saved a hundred and fifty. Out of a city. I took Rhodes’s money. You took Xanthus’s *people*, Brutus, all of them, and you wept over it so beautifully that the men call you the gentlest general in the world.”
+
+Brutus’s face had gone white. Cassius had seen it go white like that once before, in March, when a slave whispered in his ear in the porch that his wife was dead.
+
+“I did not want them to die,” Brutus said.
+
+“No. You wanted them to be grateful. They preferred the fire.” Cassius sat down. His hands were shaking. He put them flat on the table. “Neither of us is clean, Brutus. We stopped being clean the morning we went into the Curia with knives. The difference between us is that I know it.”
+
+Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony. The night of GO. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
+
+Outside the door their friends stood in a knot in the corridor and listened to two commanders of the Republic shouting at each other like brothers dividing an inheritance, and did not dare go in.
+
+Favonius dared.
+
+He came in past the doorkeepers, who tried to stop him and failed because he was old and noisy and a senator, a little bald man in a philosopher’s threadbare cloak who had been Cato’s shadow for twenty years and imitated Cato’s manners so faithfully that he had become a kind of joke of them. He stood in the middle of the floor between the two of them, raised one hand like an actor, and declaimed, in Greek, in a fine cracked voice:
+
+“*But listen to me. You are both younger than I am.*”
+
+Nestor. Old Nestor in the *Iliad*, stepping between Agamemnon and Achilles when they were quarrelling over a girl.
+
+Cassius laughed. He could not help it. He laughed so suddenly and so hard that it hurt his ribs, and he put his head down on his arms on the table, and found that some of the laughing was the other thing after all.
+
+Brutus did not laugh. Brutus stood up, very straight, and called Favonius a dog and a counterfeit Cynic, which was true, and told him to get out, and Favonius went, with dignity, and the doorkeepers closed the door behind him, and the quarrel, which had been alive a moment before, was dead on the floor between them.
+
+They looked at each other.
+
+“He’ll want to dine with us,” Cassius said.
+
+“He will.” Brutus wiped his eyes. “He always does.”
+
+He did. That night at dinner Favonius came in uninvited, freshly bathed, and lay down on the couch at the top between them, where the guest of honour lay, and nobody moved him, and the dinner was cheerful, and full of philosophy, and Cassius found he could almost breathe.
+
+The next day Brutus condemned Lucius Pella.
+
+Pella was a former praetor, one of Brutus’s own officers, who had been taking money from the Sardians on the side, for himself, out of the silver they were paying to the army. Brutus heard the case on the tribunal in the morning, in public, and found him guilty and stripped him of his rank and disgraced him, and the Sardians in the square applauded.
+
+Cassius heard of it at noon, and went to him.
+
+“Two of my own friends did the same thing last month,” he said. “I spoke to them privately. Fined them. Kept them. This isn’t a season for nice points, Brutus. We need every officer we have and we need them not to hate us. You’ve made one an enemy and frightened twenty for a few thousand drachmas.”
+
+“Remember the Ides,” Brutus said.
+
+Cassius waited.
+
+“We killed Caesar,” Brutus said, “not because he stole himself, but because he let his friends steal, and protected them. That was the charge. That was the whole charge, under the rest. If we let our own friends rob the cities in the name of the Republic, we had better have let Caesar live.”
+
+He said it quietly. He was not making a period. He meant it, Cassius saw, entirely, the way he had meant *GO*, and it was unanswerable, and it was also exactly the kind of sentence that loses wars.
+
+Cassius did not answer it. He went back to his own quarters and sat for a long time with the accounts for the march into Thrace, the grain and the pay and the ships, and found that every column came out the same whichever way he added it, and that none of them had a line for what Brutus had said.
+
+---
+
 ## Continuity
 - **SC-87a (Amyntas, summer 43, T10):** Smyrna sends its treasurer because the treasury is empty; Laodicea on its headland, Cassius’s double ditch and ships; deserters: horses eaten, plate cut with chisels, Gaulish guards. Cassius: “How much did he take?”; the cup taken back; “Stay. Watch.” The gate sold by centurions before dawn; men sitting down in the street. Dolabella headless in a harbour courtyard; the Gaul with his own sword through him; the head set down on a cloak (App. *BC* 4.62). Cassius looks longer at the Gaul; both burned together; the Gaul’s name to be found. Laodicea asked for more than it has; Smyrna gets a receipt for nothing.
 - **SC-87 (Cassius):** liberty as a tax. An elder refuses to hand over all at once; the sack weighs short; Cassius imposes half now and sureties. His hungry legions: Syria’s garrison came over, and Dolabella’s men after Laodicea (Dolabella dead by his own soldier’s sword). West tablets, incomplete: Mutina, lists, fasces; the court in the boy’s consulship that condemned the men of March to empty benches; the three looking east (why the silver now); Trebonius killed at Smyrna before dawn (Dolabella), above Decimus in Cassius’s ledger.
 - **SC-88 (Brutus):** *EID MAR*: two daggers and the freedman’s cap, glossed by the mint-master; Brutus corrects it to Rome. His own head on the obverse against his winter jab at Caesar’s living-face coins.
 - **SC-88b (Brutus, early 42, T8):** Cicero’s letters in a cedar box. April 43: kill Gaius “out of arithmetic”; Brutus refuses, the Senate has not condemned him. Summer 43: Gaius works on the legions with wine and lictors; a three-day standing mutiny, ended without a death; Gaius moved to an anchored ship under guard, lictors ashore. August: “Do you think he would spare you?” News of Cicero’s death (details not asked) and Decimus’s. Brutus dictates the order to Hortensius: quick, without insult, burial fitting his rank (Plut. *Brut.* 26, 28). No warmth comes; the seal of Lucius Brutus who watched his sons die “seemed like a letter”. **T13:** at the bottom of the box, Cicero’s June consolation for Porcia (*Ad Brut.* 1.9): a philosopher is watched. Manner of death left open in three versions (illness; a shut room and brazier; coals by her own hand) (Plut. *Brut.* 53); Brutus asks no one. His hand flat on the letters; the clasp.
+- **SC-88c (Cassius, early 42, S1):** both hailed *Imperator* below Sardis; “Rhodes” / “Xanthus” in the embrace. Closed room: Rhodes, the Lycians, Laodicea stripped; Cassius throws back Xanthus (the burning; 150 saved for the reward) (Plut. *Brut.* 31); the third at Smyrna (Plut. *Brut.* 30); Porcia, once, and Cassius is sorry. Favonius forces in with Nestor’s line (*Iliad* 1.259); Cassius laughs into his arms; Brutus: dog and counterfeit Cynic; Favonius dines at the top couch (Plut. *Brut.* 34). Next day Lucius Pella condemned on the tribunal; Cassius had kept two friends; “Remember the Ides… we had better have let Caesar live” (Plut. *Brut.* 35).
 - **Plants → pays:** Gaius dead pays at Ch 34 SC-93 (Hortensius on the grave); GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
 - **Must not:** not re-glossed: Asia, *libertas*, the Decimus rumour, GO night.
