@@ -33,6 +33,7 @@ Lock these **D** names so the LLM does not rename them every chapter.
 | Kitchen omen gossip | **Dama** | F1 / Ch 14 | Chickens sullen (wired) |
 | Antony force officer (Ides eve) | **M. Pacuvius** | ANT / Ch 17 | Scar; Capitol storm urge (wired) |
 | Laberius’s contubernium mate | **Gaius of the split sandal** | F3 / Ch 4, 13 | Talks to keep his fingers warm |
-| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 30 | Borrows tools, returns gossip; replaces earlier “Quintus” |
+| Seius’s neighbour (petition tablet) | **Gavius** | F2 / Ch 23, 30 | Borrows tools, returns gossip; replaces earlier “Quintus”; listed in Ch 30, saved by Seius |
+| Seius’s doorkeeper | **Dromo** | F2 / Ch 30 | Old porter; freed before he can inform |
 
 **Rule:** New recurring names → append here + one-line note in `continuity/canon.md` under NAMES-1.

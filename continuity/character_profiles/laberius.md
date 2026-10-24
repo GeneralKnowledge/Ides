@@ -37,7 +37,7 @@ Brazier talk; counting left-hand men; smelling horse-lines; not searching desert
 | Setup | 3 | Capua prayer; mopping |
 | Pressure | 13, 19 | Powder; funeral Capua named; fist on air not torch; liberty≈Capua joke |
 | Cost | 24, 28 | Veterans listen; mud echo |
-| End | 30, 33–34 | Lists soil; Philippi field |
+| End | 31, 33–34 | Plancus’s triumph, the brothers’ song; refuses the tomb head-hunt Vibius joins; Philippi field |
 
 ## Behavioral tells
 Fist on air not wood; notes who takes torches; fight for man on left.  

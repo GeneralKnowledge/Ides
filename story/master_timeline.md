@@ -65,12 +65,16 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Sept | Decimus killed at the ford | H | Ch 29 |
 | Oct–Nov | Bononia island meeting; Lex Titia (27 Nov) | H | Ch 30 |
 | Nov–Dec | Proscription edict (App. *BC* 4.11 terms); lists posted | H | Ch 30 |
-| Nov–Dec | Seius reads the hiding clause; will hide and save Gavius | F | Ch 30; T11 |
+| Nov–Dec | Julia bars her door to the soldiers for her brother Lucius Caesar; later faces Antony at the tribunal and Lucius is spared | H | Ch 30 SC-85a (Nysa present); Ch 31 SC-86c (reported) |
+| Nov–Dec | Antony writes to Atticus in his own hand: come out, for his kindness to Fulvia | H | Ch 30 SC-85c (Hordeonius) |
+| Nov–Dec | Seius hides Gavius, frees Dromo, borrows from Hordeonius on the Sabine farm, gets Gavius through the Capena gate toward Sextus’s boats | F | Ch 30 SC-85b–d; T11 |
 | 7 Dec | Cicero killed near Formiae | H | Ch 31 |
+| 29 Dec | Plancus’s triumph; the soldiers’ *de germanis* song (Lepidus’s follows 31 Dec) | H | Ch 31 SC-86b (Laberius) |
 
 ## 42 BC
 | When | Event | Type | Info note |
 |------|-------|------|-----------|
+| Early | Hortensia speaks at the triumvirs’ tribunal; the women’s tax cut from 1,400 to 400 | H | Ch 31 SC-86c (Nysa) |
 | Campaign | Eastern extraction; *EID MAR* coin | H | Ch 32 |
 | Oct (first battle) | Philippi I; Cassius’s death | H | Ch 33 |
 | Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 34 |

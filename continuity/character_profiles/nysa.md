@@ -40,7 +40,7 @@ Oil runs; Subura swaps; watching chalk walls; not looking for old dread corridor
 | Pressure | 14–16 | Blocked tablet; “I burned it” lie; Curia spit / false Antony amplify |
 | Cost | 18–19 | Will street leak; funeral water; Wrong Cinna; true wax burn |
 | Turn | 23, 25 | Empty seals; takes the new bow; games count, small number for the steward, true one for Fulvia’s woman |
-| End | 30 | Lists triptych from the Carinae kitchen door; fear moved house |
+| End | 30, 31 | Lists triptych from the Carinae kitchen door; pours for Lucius Caesar while Julia holds the door, and answers the centurion with an omission that is a choice; Hortensia’s day: Fulvia’s door, the count, gives Medullina a name for free |
 
 ## Behavioral tells
 Basin careful; blank tablet habit then shelf; chickens safer than senators; wax against ribs until charcoal.

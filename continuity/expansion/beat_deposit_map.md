@@ -49,7 +49,7 @@ Changes inside PROTECT material need **stronger justification** and dependent Co
 | D12 | 27 | T5/T6 | Agrippa stillness cost on Curia fringe | LANDED → optional **INTEGRATE** | **Useful / under-integrated** |
 | D13 | 28 | T4 | Contubernium Capua/dirt between assaults | LANDED | **Useful** (light) — DEFER further Capua |
 | D14 | 29 | T5/T6 | Pre-ford named soft allies | LANDED | **Earned** |
-| D15 | 30 | T3 | Lists: household/neighbour collision on a name | LANDED | **Earned** |
+| D15 | 30 | T3 | Lists: household/neighbour collision on a name | LANDED | **Earned**; 2026-10-24 (T11): Gavius is now himself eleven lines down and hasn’t read that far; Seius doesn’t tell him |
 
 ---
 

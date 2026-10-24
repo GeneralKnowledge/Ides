@@ -198,8 +198,8 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 23 | **Decided 2026-10-23:** Nysa takes the new bow and serves in Antony’s house |
-| Direction change | 30 | Julia shields Lucius Caesar (Nysa pours the wine); Atticus struck off by Antony for his kindness to Fulvia (Hordeonius); the brothers’ triumph song (Laberius) |
-| Payoff | 30 | **Decided 2026-10-23:** Seius hides and saves the listed neighbour, who is **Gavius** (signed the Liberators’ petition in Ch 23); the hiding is paid for with a Hordeonius loan (collects the Ch 3 debt); early 42 Hortensia in the Forum (Nysa) |
+| Direction change | 30 | SC-85a: Julia shields Lucius Caesar at her door while Nysa pours the wine (Plut. *Ant.* 20). SC-85c: Antony strikes Atticus off for his kindness to Fulvia (Nepos *Att.* 9–10), heard by Hordeonius, who called in Fulvia’s paper in spring 43 |
+| Payoff | 30, 31 | **Decided 2026-10-23:** SC-85b/d: Seius hides and saves **Gavius** (listed; signed the Liberators’ petition in Ch 23), frees his door slave before he can do what Festus did, and gets Gavius to Sextus’s boats on the coast (App. *BC* 4.36); SC-85c: the hiding is paid for with a Hordeonius loan secured on the Sabine land, rolling in the Ch 3 canvass debt. Ch 31 SC-86b: the soldiers’ song at Plancus’s triumph, 29 Dec 43 (Velleius 2.67; Plotius found by his perfume, Val. Max. 6.8.5), Laberius refuses the head-hunt Vibius joins. SC-86c: early 42 Hortensia, Fulvia’s door then the Forum (App. *BC* 4.32–34), Nysa; Lucius Caesar spared after Julia faced Antony in the Forum (App. *BC* 4.37). Medullina and Festus paid in SC-85 |
 
 **Intersects:** B (lists as reverse will); T2 women’s rooms (public ending); T3 (Hordeonius’s unclean acquisitions vs Atticus); T5 (Plancus’s brother closes soft-ally)  
 **Sources:** Plutarch *Antony* 20; Appian *BC* 4.12–51; Nepos *Att.* 9–12; Velleius 2.67; Valerius Maximus 6.8.5.  
