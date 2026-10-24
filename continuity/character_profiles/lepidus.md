@@ -36,8 +36,8 @@ Holding men; soft channels that won’t take return tablets; Bononia bread uneat
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 17 | Master of horse; Tiber island legion; force available; careful |
-| Travel | 20, 26–27 | Channel silence; soft ally |
-| Payoff | 29–30 | Rumour smile; Lex Titia |
+| Travel | 20, 27–28 | Channel silence; soft ally |
+| Payoff | 31–32 | Rumour smile; Lex Titia |
 
 ## Behavioral looks
 Silence not cartoon villainy; AMB on Decimus killer.

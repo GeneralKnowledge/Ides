@@ -1,4 +1,4 @@
-# Chapter 27a: Smyrna
+# Chapter 29: Smyrna
 
 **Scenes:** SC-74a, SC-74b · January → March 43 · Smyrna; Rome · T10
 
@@ -105,6 +105,6 @@ It had not been rehearsed. That was why it had to go.
 ## Continuity
 - **SC-74a (Amyntas, Jan 43, Smyrna):** eleven years treasurer. Trebonius: “Not in… But fed. Generously”; feet on a stool; paid the fig woman unhaggled. The treasury feeds Dolabella’s camp eleven days (*hospitality to a passing magistrate*); Dolabella sends Amyntas a silver cup (entered as a gift to the city, in the strongroom). Day eleven: the column marches off on the Ephesus road; scarlet cloak; “Friendly town.” Night: cohorts turn back, scale the seaward wall by ladders, walk to the governor’s house; no fighting. Morning: the head on Trebonius’s ivory chair on the tribunal; Amyntas does not stop. The centurion’s answer (App. *BC* 3.26) told by the youngest clerk and cut off. Versions not asked: two days’ questioning (Cic. *Phil.* 11.5–9), killed at once, the head kicked in the street (Dio 47.29). Dolabella at noon: the debt of blood; “I shall want the rest”; Amyntas reads the figures aloud.
 - **SC-74b (Cicero, early March 43):** news by letters from Asia; *Phil.* 11: monster, torturer, Dolabella declared a public enemy; Cicero’s voice catches on *friend* by itself. He asks for Cassius to have the war and loses to the consuls. Tiro’s cedar letter boxes by year; the *wonderful Dolabella* copy; “Put it back.” The same face in April and January; Tullia’s laugh. “The eleventh. Leave out the part about friend.”
-- **Plants → pays:** Dolabella at Laodicea (Ch 32 SC-87a, Amyntas with Smyrna’s money); Tiro’s boxes (book of letters).
+- **Plants → pays:** Dolabella at Laodicea (Ch 34 SC-87a, Amyntas with Smyrna’s money); Tiro’s boxes (book of letters).
 - **Must not:** no Trebonius POV; torture told only as unconfirmed versions; Amyntas not a hero.
-- **Decisions:** 2026-10-24: the new chapter is 27a until the one renumbering pass (Reuben’s default). Phil. 11 lands here, not in Ch 27 (Ch 27 ends at the Kalends of January).
+- **Decisions:** 2026-10-24: drafted as insert chapter 27a (Reuben’s default); numbered Ch 29 in the renumbering pass the same day. Phil. 11 lands here, not in Ch 28 (Ch 28 ends at the Kalends of January).

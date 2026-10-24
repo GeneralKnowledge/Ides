@@ -4,7 +4,7 @@ Large-scale historical fiction centred on Caesar’s assassination (Ides of Marc
 
 **Intended feel:** Political ensemble with incomplete information, competing private interests, and consequences nobody fully controls — historically constrained.
 
-**Stage:** Book 1 manuscript present (`drafts/book1/`, Ch 1–34). Development phases through house-style are complete; see [`../archive/`](../archive/) for that history. Resume from manuscript + canon.
+**Stage:** Book 1 manuscript present (`drafts/book1/`, Ch 1–36). Development phases through house-style are complete; see [`../archive/`](../archive/) for that history. Resume from manuscript + canon.
 
 **Book 1 ends at Philippi.** Later Actium/Principate material is series framework only.
 

@@ -61,10 +61,10 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 | 23 | SC-64, SC-65, SC-66 | F4, F1, F2 | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68c, SC-69, SC-68b | F1, CAS/BRU, CIC | Victory games and star (T9); East departure; Philippics |
-| 25a | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8). Insert until the renumbering pass |
-| 26 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
-| 27 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
-| 27a | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10). Insert until the renumbering pass |
+| 26 | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8). Insert until the renumbering pass |
+| 27 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
+| 28 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
+| 29 | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10). Insert until the renumbering pass |
 
 ---
 
@@ -72,13 +72,13 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
-| 28 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
-| 29 | SC-82, SC-83 | DEC, OCT | Isolation; Cularo; the march on Rome and the consulship |
-| 30 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
-| 31 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
-| 32 | SC-87a, SC-87, SC-88, SC-88b, SC-88c | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
-| 33 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
-| 34 | SC-92–95, SC-95a, SC-95b (SC-94 in SC-92 breath) | BRU/OCT, ANT, report, F1, F3 | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); Nysa’s true number and her own name (T1, SC-95a); Laberius’s twine, the last scene (T4, SC-95b) |
+| 30 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
+| 31 | SC-82, SC-83 | DEC, OCT | Isolation; Cularo; the march on Rome and the consulship |
+| 32 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
+| 33 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
+| 34 | SC-87a, SC-87, SC-88, SC-88b, SC-88c | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
+| 35 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
+| 36 | SC-92–95, SC-95a, SC-95b (SC-94 in SC-92 breath) | BRU/OCT, ANT, report, F1, F3 | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); Nysa’s true number and her own name (T1, SC-95a); Laberius’s twine, the last scene (T4, SC-95b) |
 
 ---
 
@@ -86,8 +86,8 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 
 **Batch A (voice test):** Ch 14–19 (dreams through funeral)  
 **Batch B (politics):** Ch 21–24 (name + Antium)  
-**Batch C (war):** Ch 28–34  
-**Batch D (fill):** Ch 1–13, 20, 25–27  
+**Batch C (war):** Ch 30–36  
+**Batch D (fill):** Ch 1–13, 20, 25–28  
 
 After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `continuity/canon.md`.
 
@@ -101,7 +101,7 @@ Update this map only after beats are marked **LANDED** there. Review 2.0 was int
 | Wave | Chapters | LANDED IDs | Integration flags |
 |------|----------|------------|-------------------|
 | Soft Middle | 17–24 | D1–D9 | IR-1: D2/D5 earned |
-| War social | 25–30 | D10–D15 | D12 optional; D10/D13 light |
+| War social | 25–32 | D10–D15 | D12 optional; D10/D13 light |
 | Early mesh | 3, 4, 5, 10, 12 | D16–D18, D20–D21 | IR-1: D16 meta stripped (Ch 3 debt after dinner-first reorder) |
 | Ides fringe | 14 | D22 | peaks PROTECT (≠ immunity); Ch 16 = A5 + dream quality |
 

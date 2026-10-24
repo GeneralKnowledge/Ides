@@ -1,4 +1,4 @@
-# Chapter 31: Formiae Road
+# Chapter 33: Formiae Road
 
 **Scenes:** SC-86, SC-86b, SC-86c · 7 Dec 43 → early 42 · A13 · Chain 6 · HUMOR-1 off · F11
 
@@ -216,5 +216,5 @@ She gave Fulvia’s woman the true number, as near as she could make it. Fulvia�
 - **Knows / learns:** why this road: a ship out of Astura toward Brutus; seasick, he puts in at Caieta; “let me die in the country I saved”; the slaves turn the litter back to the sea. A copy of the list at Tusculum names Quintus and the nephew under three men, the boy among them. Popillius, the young man Cicero once kept out of the parricide’s sack, is at the front with a centurion (tradition; Cicero recognises him). The blow is ordinary.
 - **SC-86b (Laberius, 29 Dec 43):** Plancus’s triumph over the Gauls; his soldiers sing *De germanis, non de Gallis, duo triumphant consules* (Velleius 2.67); Vibius glosses it. Lepidus’s brother Paullus got away to Brutus’s people; Plancus’s brother Plotius was found at Salernum by his perfume after his slaves held out under torture (Val. Max. 6.8.5). Vibius joins five Mutina men to hunt a former praetor in the Appian tombs; Laberius refuses (“I fight for the man on my left”); “Win. Then count.” He hums the tune without the words.
 - **SC-86c (Nysa, early 42):** the women’s tax (1,400 women). Octavia and Julia received the women; Fulvia shuts the door on them. Fulvia’s woman sends Nysa to count. Hortensia, daughter of Hortensius, at the triumvirs’ tribunal (App. *BC* 4.32–34): lost fathers, sons, husbands, brothers; why tax women who have no share in honours, commands, statecraft; the women of the Hannibal war gave freely. Lictors sent; the crowd shouts *Shame!*; Lepidus adjourns. Next day: 400 women; men with over 100,000 pay. Lucius Caesar off the lists since before the Saturnalia after Julia faced the tribunal (App. *BC* 4.37). Octavian is Nysa’s patron and doesn’t know her name. Nysa gives Medullina Hortensia’s name free; gives Fulvia’s woman the true count (41 at the door, 300-odd at the tribunal).
-- **Plants → pays:** the Ch 30 seal-ring assent; the Philippics wager; Ch 30 SC-85a (Julia); Ch 25 count; Ch 11 Medullina; “Win. Then count” (Ch 28).
+- **Plants → pays:** the Ch 32 seal-ring assent; the Philippics wager; Ch 32 SC-85a (Julia); Ch 25 count; Ch 11 Medullina; “Win. Then count” (Ch 30).
 - **Must not:** no trophy aside (head and hands) outside his POV, including in SC-86b–c; no comedy in SC-86. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.

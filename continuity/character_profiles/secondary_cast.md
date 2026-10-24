@@ -12,14 +12,14 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 |------|----------------|--------------|----------|
 | **Hirtius** | Consul; dies Mutina (Laberius-knowable) | Clean reputation vs mud | POV required |
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
-| **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 29 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
-| **Octavia** | Octavian’s sister, 26; Ch 29 at the Vestals’; Ch 31 receives the women | Uses his old name | Political schemer in Book 1 |
-| **Dolabella** | Consul 44 after Caesar; pulls down the column (Ch 21); Cicero’s ex-son-in-law (Tullia); Smyrna (Ch 27a); dies at Laodicea by his Gaul’s sword (Ch 32) | Handsome flushed face, very good teeth; scarlet cloak; charming letters about the dowry | Given a POV; a speech at his death |
+| **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 31 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
+| **Octavia** | Octavian’s sister, 26; Ch 31 at the Vestals’; Ch 33 receives the women | Uses his old name | Political schemer in Book 1 |
+| **Dolabella** | Consul 44 after Caesar; pulls down the column (Ch 21); Cicero’s ex-son-in-law (Tullia); Smyrna (Ch 29); dies at Laodicea by his Gaul’s sword (Ch 34) | Handsome flushed face, very good teeth; scarlet cloak; charming letters about the dowry | Given a POV; a speech at his death |
 | **The false Marius** | Claims to be Marius’s grandson; leads the altar cult; killed without trial on Antony’s order (Ch 21) | Fine voice, good beard, growing pedigree | Named Amatius or Herophilus in narration |
-| **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 25a); works on the legions, the ship, killed early 42 (Ch 32) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
-| **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 25a); carries out the order (Ch 32); killed after Philippi (Ch 34) | Can count; “My sister got all the courage” | Brave |
-| **Marcus Cicero** (son) | Twenty-one in Athens; cavalry; takes Piso’s legion (Ch 25a) | Toga on the wrong shoulder; drinking at the eighth hour | Comic only |
-| **Horace** | Freedman’s son from Venusia; Brutus’s tribune (Ch 25a) | Laughs a beat early; “bad verse, so far” | Wink at the later poet |
+| **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 26); works on the legions, the ship, killed early 42 (Ch 34) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
+| **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 26); carries out the order (Ch 34); killed after Philippi (Ch 36) | Can count; “My sister got all the courage” | Brave |
+| **Marcus Cicero** (son) | Twenty-one in Athens; cavalry; takes Piso’s legion (Ch 26) | Toga on the wrong shoulder; drinking at the eighth hour | Comic only |
+| **Horace** | Freedman’s son from Venusia; Brutus’s tribune (Ch 26) | Laughs a beat early; “bad verse, so far” | Wink at the later poet |
 | **Q. Pedius** | Fellow consul, 19 Aug 43; another grandson of Caesar’s sister; his law sets the court | Elderly; coughs | Rival to Octavian |
 | **Cornelius** (centurion) | Leads the deputation, Jul 43 (Suet. *Aug.* 26) | Scar through one eyebrow; throws back his cloak | Ordered by Octavian on the page |
 | **Cornutus** | Urban praetor; falls on his sword when the African legions defect | Reported only | Given a scene |
@@ -38,7 +38,7 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **A. Visellius Ralla** | F4 / SIDE-1 | Dead debtor; tablets; ash later | Solve Ides |
 | **C. Septimius Bucco** | Antonian cash | Bribe courier mark | Mastermind |
 | **L. Statius Paullus** | Basilus orbit | Soften-debt ask | Replace Cassius |
-| **Medullina** | Subura / F1 | Wants senator names; gets chickens; in Ch 30 buys and sells spellings at the chalk wall; Ch 31 Nysa gives her Hortensia’s name free | Omniscient broker |
+| **Medullina** | Subura / F1 | Wants senator names; gets chickens; in Ch 32 buys and sells spellings at the chalk wall; Ch 33 Nysa gives her Hortensia’s name free | Omniscient broker |
 | **Sosia** | F4 collector | Impatient; mutters philosophers | Steal F4 humour |
 | **Glaucia** | Trebonius | Misreads shouts | Ops genius |
 | **Hilarus** | Servilia | Soft-power room steward | Explain Antium thesis |
@@ -51,10 +51,10 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Sphaerus** | Hirtius/Cicero | Polite useless notes | Force plot |
 | **Quintus the fuller** | Funeral crowd | Crowd not abstraction | Comic only |
 | **Ammonius** | CLEO | Useful irritant; books/Cicero gossip | Ides plotter |
-| **Festus** | Proscription | Esquiline slave who informs on his master and is freed (Ch 30); the example Seia Prima names for Dromo | Moral lesson furniture only |
+| **Festus** | Proscription | Esquiline slave who informs on his master and is freed (Ch 32); the example Seia Prima names for Dromo | Moral lesson furniture only |
 | **Amyntas** | F5 optional | Eastern face if used | Regular POV without assignment |
-| **Gavius** (neighbour) | F2 Ch 23, 30 | Petition under sleeve; listed; hidden by Seius, sent to Sextus’s boats | Become series villain |
-| **Dromo** | F2 Ch 30 | Seius’s doorkeeper; freed, leaves the bar by the door | Informer |
+| **Gavius** (neighbour) | F2 Ch 23, 32 | Petition under sleeve; listed; hidden by Seius, sent to Sextus’s boats | Become series villain |
+| **Dromo** | F2 Ch 32 | Seius’s doorkeeper; freed, leaves the bar by the door | Informer |
 
 ---
 

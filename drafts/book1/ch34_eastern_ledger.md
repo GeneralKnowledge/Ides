@@ -1,4 +1,4 @@
-# Chapter 32: Eastern Ledger
+# Chapter 34: Eastern Ledger
 
 **Scenes:** SC-87a, SC-87, SC-88, SC-88b, SC-88c · summer 43 → 42 · Chain 8 · F5 (Amyntas) · B7
 
@@ -270,5 +270,5 @@ Cassius did not answer it. He went back to his own quarters and sat for a long t
 - **SC-88 (Brutus):** *EID MAR*: two daggers and the freedman’s cap, glossed by the mint-master; Brutus corrects it to Rome. His own head on the obverse against his winter jab at Caesar’s living-face coins.
 - **SC-88b (Brutus, early 42, T8):** Cicero’s letters in a cedar box. April 43: kill Gaius “out of arithmetic”; Brutus refuses, the Senate has not condemned him. Summer 43: Gaius works on the legions with wine and lictors; a three-day standing mutiny, ended without a death; Gaius moved to an anchored ship under guard, lictors ashore. August: “Do you think he would spare you?” News of Cicero’s death (details not asked) and Decimus’s. Brutus dictates the order to Hortensius: quick, without insult, burial fitting his rank (Plut. *Brut.* 26, 28). No warmth comes; the seal of Lucius Brutus who watched his sons die “seemed like a letter”. **T13:** at the bottom of the box, Cicero’s June consolation for Porcia (*Ad Brut.* 1.9): a philosopher is watched. Manner of death left open in three versions (illness; a shut room and brazier; coals by her own hand) (Plut. *Brut.* 53); Brutus asks no one. His hand flat on the letters; the clasp.
 - **SC-88c (Cassius, early 42, S1):** both hailed *Imperator* below Sardis; “Rhodes” / “Xanthus” in the embrace. Closed room: Rhodes, the Lycians, Laodicea stripped; Cassius throws back Xanthus (the burning; 150 saved for the reward) (Plut. *Brut.* 31); the third at Smyrna (Plut. *Brut.* 30); Porcia, once, and Cassius is sorry. Favonius forces in with Nestor’s line (*Iliad* 1.259); Cassius laughs into his arms; Brutus: dog and counterfeit Cynic; Favonius dines at the top couch (Plut. *Brut.* 34). Next day Lucius Pella condemned on the tribunal; Cassius had kept two friends; “Remember the Ides… we had better have let Caesar live” (Plut. *Brut.* 35).
-- **Plants → pays:** Gaius dead pays at Ch 34 SC-93 (Hortensius on the grave); GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
+- **Plants → pays:** Gaius dead pays at Ch 36 SC-93 (Hortensius on the grave); GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
 - **Must not:** not re-glossed: Asia, *libertas*, the Decimus rumour, GO night.

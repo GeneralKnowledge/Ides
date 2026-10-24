@@ -36,7 +36,7 @@ Setting markers; translating ranks’ noise into one sentence OCT can keep.
 |-------|----------|------|
 | Plant | 5 | Ordinary Apollonia |
 | Travel | 20, 22 | Death news; name aftermath |
-| Payoff | 29–30, 34 | Fasces homework; ditch; Philippi reports |
+| Payoff | 31–32, 36 | Fasces homework; ditch; Philippi reports |
 
 ## Behavioral tells
 Jaw set; stillness as vote; twitch then not.

@@ -32,7 +32,7 @@ Changes inside PROTECT material need **stronger justification** and dependent Co
 | D2 | 17 | T2 | Fulvia/Servilia offstage corridor mouths pricing amnesty paper | **LANDED** (IR-1 revised) | **Earned** — Antony-house messenger + Servilia-orbit steward (no “shaped” labels) |
 | D3 | 18 | T3/T2 | Will-reading fringe ≥3 mouths before seal finishes | LANDED | **Earned** |
 | D4 | 19 | T4/T1 | Funeral mesh; Capua changed-cost veteran reply | LANDED | **Earned** |
-| D5 | 20 | T6/T7 | Cleo refuses intermediaries (Ammonius/Cicero books) | **LANDED** (docs clarified) | **Earned as refuse** — Ch 26 = sail confirmation only (CLEO-1); not a reunion |
+| D5 | 20 | T6/T7 | Cleo refuses intermediaries (Ammonius/Cicero books) | **LANDED** (docs clarified) | **Earned as refuse** — Ch 27 = sail confirmation only (CLEO-1); not a reunion |
 | D6 | 21 | T2 | Porcia 3-voice; “plan” costs refusal | LANDED | **Earned** |
 | D7 | 22 | T6 | Agrippa–OCT ordinary after name-take | LANDED | **Earned** |
 | D8 | 23 | T1/T3 | Domus emptying; one staff want fails | LANDED | **Earned** |
@@ -40,16 +40,16 @@ Changes inside PROTECT material need **stronger justification** and dependent Co
 
 ---
 
-## Wave 2 — War social life (Ch 25–30)
+## Wave 2 — War social life (Ch 25–32)
 
 | ID | Ch | Track | Beat | Status | Disposition |
 |----|----|-------|------|--------|-------------|
 | D10 | 25 | T7 | Deck crew/mate witnesses “collecting” | LANDED | **Useful** (light) — centre remains purity refuse |
-| D11 | 26 | T5 | Plancus delay with human face | LANDED | **Earned** |
-| D12 | 27 | T5/T6 | Agrippa stillness cost on Curia fringe | LANDED → optional **INTEGRATE** | **Useful / under-integrated** |
-| D13 | 28 | T4 | Contubernium Capua/dirt between assaults | LANDED | **Useful** (light) — DEFER further Capua |
-| D14 | 29 | T5/T6 | Pre-ford named soft allies | LANDED | **Earned** |
-| D15 | 30 | T3 | Lists: household/neighbour collision on a name | LANDED | **Earned**; 2026-10-24 (T11): Gavius is now himself eleven lines down and hasn’t read that far; Seius doesn’t tell him |
+| D11 | 27 | T5 | Plancus delay with human face | LANDED | **Earned** |
+| D12 | 28 | T5/T6 | Agrippa stillness cost on Curia fringe | LANDED → optional **INTEGRATE** | **Useful / under-integrated** |
+| D13 | 30 | T4 | Contubernium Capua/dirt between assaults | LANDED | **Useful** (light) — DEFER further Capua |
+| D14 | 31 | T5/T6 | Pre-ford named soft allies | LANDED | **Earned** |
+| D15 | 32 | T3 | Lists: household/neighbour collision on a name | LANDED | **Earned**; 2026-10-24 (T11): Gavius is now himself eleven lines down and hasn’t read that far; Seius doesn’t tell him |
 
 ---
 
@@ -72,7 +72,7 @@ Changes inside PROTECT material need **stronger justification** and dependent Co
 |----|----|------|--------|-------------|
 | D22 | 14–15 | Household/omen mesh around peaks | LANDED (Ch 14 fringe) | **Useful** / protect peaks |
 | D23 | 16 | Curia knife core / CHOREO-1 | **PROTECT** | **Protect** |
-| D24 | 31–34 | Formiae protect; Philippi selective; no Actium | **PROTECT** / selective | **Protect** |
+| D24 | 33–36 | Formiae protect; Philippi selective; no Actium | **PROTECT** / selective | **Protect** |
 
 ---
 
@@ -98,11 +98,11 @@ If (5) fails → do not add. Prefer **INTEGRATE** marks above.
 |----------|------------|--------|
 | P1 | D2 | **Done (IR-1)** — lived messenger/steward authority |
 | P1 | D16 | **Done (IR-1)** — meta plant-speech stripped |
-| P1 | D5 | **Done (docs + Ch 20 meta foreshadow strip)** — refuse ≠ Ch 26 reunion |
+| P1 | D5 | **Done (docs + Ch 20 meta foreshadow strip)** — refuse ≠ Ch 27 reunion |
 | P1 | Ch 15↔19 | **Done (IR-1)** — Ch 15 lie; Ch 19 true burn |
-| P1 | Ch 29 open / T5 | **Done (IR-1)** — milestone wait + Lepidus-channel tablet return |
+| P1 | Ch 31 open / T5 | **Done (IR-1)** — milestone wait + Lepidus-channel tablet return |
 | P1 | Ch 20 / 23 camera | **Left (IR-1)** — purposeful Act-3 exit / world-price triptych; no pressure loss requiring rewrite |
-| P2 | D12 / D10/D13 / Ch 32 echo | Still optional; not this pass |
+| P2 | D12 / D10/D13 / Ch 34 echo | Still optional; not this pass |
 
 ---
 

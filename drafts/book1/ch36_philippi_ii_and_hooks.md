@@ -1,4 +1,4 @@
-# Chapter 34: Philippi II and Hooks
+# Chapter 36: Philippi II and Hooks
 
 **Scenes:** SC-92–95, SC-95a, SC-95b · Oct 42 → spring 41 · SERIES-1 end · A14 · T1, T4 close
 
@@ -124,7 +124,7 @@ He left the tablet open on the counter. Soldiers would want farms, and every far
 
 POV: F1 Nysa · Rome
 Date / place: Winter 42–41 · the Appian Way at the Capena gate; the Carinae kitchen and its back door
-Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 31 (the patron)
+Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 33 (the patron)
 Info ENTER: Philippi won; Antony gone East; the boy, sick, coming home to Italy · EXIT: Nysa gives the true number to the steward too late, and goes to her patron’s house under her own name
 Overhear risk: The kitchen
 
@@ -244,7 +244,7 @@ The surveyor set up his groma by the boundary stone and squinted along it. His m
 
 The freedman did not answer that. He made a mark on his list.
 
-There were other veterans in the surveyor’s party, waiting for their own plots further up the plain. One of them came and stood by Laberius now, an older man with a scar through his lip. Laberius had seen him at the funeral with a torch, and at the colony forum in the summer of the Ides, and he still did not know the man’s name.
+There were other veterans in the surveyor’s party, waiting for their own plots further up the plain. One of them came and stood by Laberius now, an older man with a scar through his lip. Laberius had seen him at the funeral with a torch, and at the colony forum after the Ides, and on the bridge at Casilinum the day the boy paid five hundred, and he still did not know the man’s name.
 
 “Dirt with a date,” the scar-lipped man said. “I told you that once. At the funeral.”
 
@@ -278,6 +278,6 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The officer’s Italy line, which Antony hears and laughs off; the open wax.
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0).
 - **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He rubs the tablet blank and hands it to her. An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time; “They’ll want to know who carries.” Fulvia’s woman: “Blank?” “Blank.” “Good.” Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
-- **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
+- **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.

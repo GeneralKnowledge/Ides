@@ -16,7 +16,7 @@ Public-domain / modern paraphrase extracts for **INF texture** in Acts 4–5. Pr
 >
 > The left gave ground under horse. We fell back; Antony tried the camp and bled for it. Hirtius then hit Antony returning with veteran cohorts and smashed him at the same ground. Antony reached Mutina after nightfall. We took two of his eagles and sixty standards. A great success—bought with Martian and praetorian blood.
 
-**Story use:** SC-80 / Ch 28 — F3 experiences what Galba packages for Rome; Cicero will celebrate before knowing costs.
+**Story use:** SC-80 / Ch 30 — F3 experiences what Galba packages for Rome; Cicero will celebrate before knowing costs.
 
 ---
 
@@ -74,7 +74,7 @@ Public-domain / modern paraphrase extracts for **INF texture** in Acts 4–5. Pr
 
 > Dolabella’s crime is known; the East must pay for the war that liberty requires. Ships, pay, and hostages — without them the name of Republic is a slogan.
 
-**Story use:** SC-87 / Ch 32 — brand vs tax reality; optional F5 hears the invoice side.
+**Story use:** SC-87 / Ch 34 — brand vs tax reality; optional F5 hears the invoice side.
 
 | Theme | Letter energy | Scene |
 |-------|---------------|-------|

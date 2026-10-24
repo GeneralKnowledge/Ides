@@ -37,7 +37,7 @@ Hovering; delaying Nysa; drinking less when fear sobers him.
 |-------|----------|------|
 | Plant | 12, 14–15 | Near-miss; mats/keys; blocks Nysa at vestibule |
 | Cost | 23 | Empty seals corridor |
-| End | 30 | Fear sobers; key religion broken |
+| End | 32 | Fear sobers; key religion broken |
 
 ## Behavioral tells
 Key as religion; short laugh; drink loyalty.

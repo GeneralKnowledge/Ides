@@ -76,7 +76,7 @@ Brutus took the corridor truth without answering it in kind. Answering would hav
 ---
 
 ## Continuity notes (SC-45)
-- **Knows / learns:** Cicero visits the Capitol on the Ides afternoon and urges the praetors to summon the Senate (Ch 25, 31 “the Capitol’s first day”). The liberty speech fails to move the people. Waiting on the Capitol is a mistake shown as a want resisted (speak, wait, leave) under Casca, Decimus and Cassius. Lepidus: master of horse, a legion on the Tiber island. Brutus will not look at his palms. Galba is absent, his winter terms unpaid (Ch 8). Brutus does not know Galba’s terms.
+- **Knows / learns:** Cicero visits the Capitol on the Ides afternoon and urges the praetors to summon the Senate (Ch 25, 33 “the Capitol’s first day”). The liberty speech fails to move the people. Waiting on the Capitol is a mistake shown as a want resisted (speak, wait, leave) under Casca, Decimus and Cassius. Lepidus: master of horse, a legion on the Tiber island. Brutus will not look at his palms. Galba is absent, his winter terms unpaid (Ch 8). Brutus does not know Galba’s terms.
 - **Must not:** no verbatim Capitol speech; no Jupiter treasury plaque (Ch 16); Cisalpine as northern-road shorthand only (Ch 4).
 
 ---

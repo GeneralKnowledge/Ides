@@ -38,7 +38,7 @@ Packing; Ammonius irritation; statue left with Venus; harbour continuity talk.
 | Plant | 1, 6 | Dinner/gossip price (Ch 1); F4 re-hear (Ch 6) |
 | Pressure | 17–18 | Paper unfinished problem |
 | Choice | 20 | Schedule vs inspection |
-| Echo | 26 | Sail as courier weather |
+| Echo | 27 | Sail as courier weather |
 
 ## Behavioral tells
 Two fingers stop argument; pays hour not petition; leaves anchors.

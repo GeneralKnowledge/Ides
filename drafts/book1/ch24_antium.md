@@ -93,5 +93,5 @@ He left praising everyone. Praise was the only exit from rooms that had already 
 
 ## Continuity
 - **Knows / learns:** at a colony forum near Capua, the eagle men refuse the boy’s pay; Laberius is there for his Capua twine; a scar-lipped veteran puts Brutus and Servilia’s clerks at the Antium sea house. Laberius refuses both offers, and refuses an Antony man’s “guard for safety” transfer: the Capua date stays in his boots. Antium, 8 June 44: Cicero rides from Astura on Brutus’s letter; Brutus’s decree is the grain-buying commissions (Asia, Sicily), a praetor’s excuse past ten nights; Tertulla is Servilia’s daughter, married to Cassius (Cicero’s “both knives”); Favonius, Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia rewrites the paper (the corn clause). Hilarus present. The East path is locked in.
-- **Plants → pays:** the scar-lip veteran’s “when the shadow learns to feed us” and “which purse still dates dirt” (Ch 26 SC-70b, Ch 28).
+- **Plants → pays:** the scar-lip veteran’s “when the shadow learns to feed us” and “which purse still dates dirt” (Ch 27 SC-70b, Ch 30).
 - **Must not:** not re-glossed: Laberius, Porcia, Cato, ten nights.

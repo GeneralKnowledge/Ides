@@ -2,7 +2,7 @@
 
 **Authoritative prose for what is presently written.** Canon and scene cards still constrain invention; the chapters govern what is on the page.
 
-Book 1: a prologue (`book1/prologue_utica.md`, Cato’s death at Utica, April 46) and 34 chapters; the late-46 clemency dinner is Ch 1. Ends at Philippi.
+Book 1: a prologue (`book1/prologue_utica.md`, Cato’s death at Utica, April 46) and 36 chapters; the late-46 clemency dinner is Ch 1. Ends at Philippi.
 
 ## Chapter index
 
@@ -33,15 +33,15 @@ Book 1: a prologue (`book1/prologue_utica.md`, Cato’s death at Utica, April 46
 | 23 | `book1/ch23_prices_and_cowards.md` |
 | 24 | `book1/ch24_antium.md` |
 | 25 | `book1/ch25_philippics_and_ships.md` |
-| 26 | `book1/ch26_provinces_and_shadows.md` |
-| 27 | `book1/ch27_mutina_begins.md` |
-| 28 | `book1/ch28_mutina_field.md` |
-| 29 | `book1/ch29_isolation_and_fasces.md` |
-| 30 | `book1/ch30_lists.md` |
-| 31 | `book1/ch31_cicero.md` |
-| 32 | `book1/ch32_eastern_ledger.md` |
-| 33 | `book1/ch33_philippi_i.md` |
-| 34 | `book1/ch34_philippi_ii_and_hooks.md` |
+| 27 | `book1/ch27_provinces_and_shadows.md` |
+| 28 | `book1/ch28_mutina_begins.md` |
+| 30 | `book1/ch30_mutina_field.md` |
+| 31 | `book1/ch31_isolation_and_fasces.md` |
+| 32 | `book1/ch32_lists.md` |
+| 33 | `book1/ch33_cicero.md` |
+| 34 | `book1/ch34_eastern_ledger.md` |
+| 35 | `book1/ch35_philippi_i.md` |
+| 36 | `book1/ch36_philippi_ii_and_hooks.md` |
 
 Scene-card map: [`../writing/CHAPTER_MAP.md`](../writing/CHAPTER_MAP.md).  
 Export: `python tools/export_book1_docx.py` (then `--check`; commit the regenerated full DOCX with any manuscript change).

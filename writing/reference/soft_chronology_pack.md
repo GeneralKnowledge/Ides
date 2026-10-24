@@ -44,7 +44,7 @@ Use these **working dates** so chapters do not contradict each other. They are *
 | **Departure** | Leaves Rome **April 44**; may linger in Italy into early summer in rumour (**C**) |
 | **Debate kept alive** | Whether Cicero’s *regina* is always Cleopatra — characters may gossip wrongly |
 
-**Story use:** SC-52 / Ch 20 & 26. Cleopatra is dynastic fear + foreign optics, not dagger-circle.
+**Story use:** SC-52 / Ch 20 & 27. Cleopatra is dynastic fear + foreign optics, not dagger-circle.
 
 ---
 

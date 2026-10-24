@@ -59,7 +59,7 @@ On the road north, while that smoke thinned behind him into other men’s proble
 
 ## Continuity notes (SC-52)
 - **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Plancus over the Alps; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Plancus refuses grain “yet”; Lepidus’s people will not take a reply tablet. The street misremembers Calpurnia’s dream (three versions). Property burns; which house is left generic.
-- **Plants → pays:** Plancus and Lepidus fall away (Ch 26, 29); the second heir.
+- **Plants → pays:** Plancus and Lepidus fall away (Ch 27, 31); the second heir.
 
 ---
 
@@ -122,7 +122,7 @@ Once she was on the water, someone in Italy would finish her story for her. Cler
 
 ## Continuity notes (SC-53)
 - **Knows / learns:** the lodging (CLEO-1); she plans to leave; Caesarion present (Egypt’s heir, Rome’s nothing). Ammonius runs her staff; the Venus Genetrix statue; Cicero’s books unpaid. A clerk inspects the packing. She pays the earlier gossip about gardens, queen and child; it is not her introduction.
-- **Plants → pays:** Ch 26 courier confirms only that she sailed.
+- **Plants → pays:** Ch 27 courier confirms only that she sailed.
 - **Must not:** no claim she was in the dagger circle; the *regina* debate stays out of her POV.
 
 ---

@@ -39,7 +39,7 @@ Listening from colonnades; watching clerks ask for roofs; not wasting comfort.
 | Proof | 13 | The thigh cut shown after GO; “Good.” (T13) |
 | Morning | 21 | Her Ides morning on the floor; “only you who had a morning” (T13) |
 | Parting | 25 | Velia: Andromache painting; Brutus refuses Hector’s loom line (T13) |
-| End | 32 | Dead in 43, manner open in three versions; Cicero’s consolation unread at the bottom of the box (T13) |
+| End | 34 | Dead in 43, manner open in three versions; Cicero’s consolation unread at the bottom of the box (T13) |
 
 ## Behavioral tells
 Leaves words like debts; silence as question; watches hands.

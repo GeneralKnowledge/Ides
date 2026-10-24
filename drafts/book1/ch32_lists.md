@@ -1,4 +1,4 @@
-# Chapter 30: Lists
+# Chapter 32: Lists
 
 **Scenes:** SC-84, SC-85, SC-85a–d · Nov–Dec 43 · A12–A13 · Chain 7 · HUMOR-1 low
 
@@ -310,7 +310,7 @@ He went to find Hordeonius.
 
 POV: F4 Hordeonius · his stall under the Janus
 Date / place: Dec 43 · the next morning
-Canon refs: T11 · Nepos *Att.* 9–10 · Ch 3 debt · Ch 28 ledger
+Canon refs: T11 · Nepos *Att.* 9–10 · Ch 3 debt · Ch 30 ledger
 Info ENTER: Lists posted · EXIT: A loan entered as *clean*
 Overhear risk: Medium (the stalls)
 
@@ -463,7 +463,7 @@ She came and put her hand flat on his chest, over the heart, the way she checked
 - **SC-85b (Seius):** Gavius at the grille after dark: “Close it behind me.” Seius lifts the bar. Gavius behind the oil jars Seius bought that week. Seia Prima names Festus; Seius promises Dromo his freedom and a living. Sextus’s boats below Circeii pay twice the triumvirs’ price (App. *BC* 4.36).
 - **SC-85c (Hordeonius):** Sosia: Antony wrote to Atticus in his own hand (hidden with Canus; both spared) because Atticus stood surety and lent to Fulvia without interest in spring 43 (Nepos *Att.* 9–10); Hordeonius called in her paper that month. Seius borrows 3,000 denarii; Hordeonius takes the Sabine farm (Seia Prima’s father’s birthplace) as security for old canvass debt and new loan; Seius gives up the aedileship. Entered *Seius: lent* and, in cipher, *Clean*.
 - **SC-85d (Seius):** before light, Seius’s good mule, chaff cart, Capena gate; he talks the decurion past with his congratulating manner and a coin; Gavius south toward Circeii. Dromo gone, the bar left by the door. Seius has no mule now.
-- **Plants → pays:** Ch 31 death bought by the assent; Ch 23 flinch and “a door that closes”; Ch 3 canvass debt; Ch 25 Fulvia’s woman; Ch 32 courier; Sextus (FS11); the Sabine farm (later collection open). SIDE-1 kept as archaeology.
+- **Plants → pays:** Ch 33 death bought by the assent; Ch 23 flinch and “a door that closes”; Ch 3 canvass debt; Ch 25 Fulvia’s woman; Ch 34 courier; Sextus (FS11); the Sabine farm (later collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
 - **T12:** at “Cicero stays”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
 - **Must not (T11):** no census of the dead; Seius brave once, not a hero; Gavius’s fate after the beach left open.

@@ -39,9 +39,9 @@ Stacking letters to the knee; drafting Atticus versions; sleeping eager after sc
 |-------|----------|------|
 | Setup | 1, 6, 11 | Cato bruise; perpetuo weather; Sibylline / Capys collision |
 | Pressure | 13, 17 | Blind calm; **amnesty plain bargain** (pardon + acts stand) |
-| Choice | 25, 27 | Philippics wider; aim OCT |
-| Cost | 24, 28, 30 | Antium furniture; *tollendum* at dinner (T12); Bononia blank |
-| End | 31 | Formiae — purchased earlier |
+| Choice | 25, 28 | Philippics wider; aim OCT |
+| Cost | 24, 30, 32 | Antium furniture; *tollendum* at dinner (T12); Bononia blank |
+| End | 33 | Formiae — purchased earlier |
 
 ## Behavioral tells
 Seals letters as action; tips for Republic; scarred tablet as applause he won’t name fear; sands periods until shine.

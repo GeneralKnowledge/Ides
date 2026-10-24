@@ -35,8 +35,8 @@ Writing admiration; counting his own columns; never freeing them “yet.”
 | Stage | Chapters | Beat |
 |-------|----------|------|
 | Plant | 20 | Praise, delay, no grain |
-| Travel | 26–27 | Prettier hand; thaw not begun |
-| Payoff | 29 | Absence practices; Decimus road |
+| Travel | 27–28 | Prettier hand; thaw not begun |
+| Payoff | 31 | Absence practices; Decimus road |
 
 ## Behavioral tells
 Pretty tablet; no date; regret as policy.
