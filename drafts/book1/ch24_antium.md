@@ -31,8 +31,6 @@ Antony’s man offered wine from a skin that had travelled. Octavian’s man off
 
 Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. He kept both men’s words in different pockets of his mind, wine in one, speed in the other, and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius didn’t turn. A turn would have been half a yes.
 
-Antony’s man caught up three steps later, voice lowered for a bargain that wanted to sound like care. “We can take you on the road as safety, guard the skin, eat with the column. Capua unpaid is a debt someone else can carry if you stand where the purse stands.” Laberius stopped long enough to make refusal look like thought. “I don’t gift my boots to a purse,” he said. “I listen for which purse still dates dirt.” He walked on. The offer followed a pace, then died. Gift-for-safety was still a transfer. He refused it and kept the road.
-
 On the road edge an older veteran, scar through the lip, no agent’s polish, spat dust and spoke to the corporal only after Laberius was far enough to overhear without being invited. “Old eagles don’t take the boy’s pay yet. Wine shops still call him a shadow with a seal. When the shadow learns to feed us, we’ll talk. Until then Antony’s skin tastes familiar.”
 
 “And the Liberators?” the corporal asked.
@@ -87,7 +85,7 @@ Favonius muttered about civil war’s cost. No one appointed him captain. Porcia
 
 Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact. The Liberators wouldn’t recover the capital by cleverness alone. His cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
 
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. In the colonnade the same two clients were still there, no longer whispering. “Told you,” the first said. “She cut it. Hilarus moved. Cicero advised, and the family did not need him.” The second laughed once, short. “Pretty light. Ugly house.” Cicero walked past with the smile still on and their verdict already written in his ears. On the road he began composing, already, the letter to Atticus that would make him central again on the page. Antium had already taught him how little the page weighed when Servilia moved a clause.
+He left praising everyone. Praise was the only exit from rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page.
 
 ---
 

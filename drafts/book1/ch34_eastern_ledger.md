@@ -38,6 +38,8 @@ Cassius looked at him for some time. It was not an unkind look. It was the look 
 
 “Smyrna will owe me,” he said. “Not today. Today it owes me nothing, because it has nothing, and I don’t waste clerks. Stay. Watch. When this is done you can tell your council what you saw, and then they’ll know what the sum is for.”
 
+Amyntas thought of the small book under his floor, the orphans’ dowries, which Dolabella had never asked for, and said nothing. Cassius’s eyes rested on him a moment longer, as if there were a line in the account he had not been given. Then they moved on.
+
 It was done four days later.
 
 Amyntas did not see the gate open. Nobody in the lines did; it happened in the dark before dawn, on the landward side, where the centurions who held the gate for Dolabella had been talking to Cassius’s centurions across the ditch for a week. There was a noise, not loud. Then the trumpets in the lines, and the cohorts going in at a run over a causeway of fascines, and by full light Cassius’s standards were on the wall.
@@ -94,13 +96,11 @@ The elder’s mouth worked. He took the half and the sureties with a bow that co
 
 Cassius signed for ships on the arithmetic. The elder’s step-talk needed no translation. Paid was paid.
 
-Before the audience closed, a courier from the west came in, dust, salt, a seal cracked by too many hands, with three tablets that did not agree. Mutina won and lost. Consuls dead. Lists in Italy. The boy with fasces, and a court in his consulship that had called the names of every man of March, Cassius’s among them, to empty benches and condemned the benches. Antony still breathing, and the three of them looking east. One tablet named Decimus without poetry: gone, or going.
+Before the audience closed, a courier from the west came in, dust, salt, a seal cracked by too many hands, with three tablets that did not agree. Mutina won and lost. Lists in Italy. The boy with fasces, and a court that had condemned every man of March, Cassius among them, to empty benches. One tablet named Decimus without poetry: gone, or going.
 
 Cassius read none of it aloud to the hall. He didn’t halt the silver for a rumour’s sake. But the Decimus line cracked something the extraction had been keeping neat. The man had opened Caesar’s morning with cheer and taken the nearer knife and Cisalpine as if a road were still a friendship, and Cassius had recruited doors through him. He entered *Decimus: incomplete* in the only ledger he trusted, the one behind his eyes, under Trebonius, who had stood in that column since the winter, since Dolabella’s soldiers came into his bedroom at Smyrna before dawn and carried the market-day man’s head out with them. Laodicea had settled Trebonius. Decimus had no Laodicea.
 
 An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn’t offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*. He did not look at the west courier again until the hall had emptied enough to pretend the crack was only dust.
-
-On the steps, wind off the harbour tried to steal a paper. Cassius pinned it with a thumb and didn’t smile. Escaped papers became other men’s geometry. He preferred his own, even when his own now held Decimus as an open wound in the column.
 
 ---
 
@@ -130,7 +130,7 @@ News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid i
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 
-Cassius, somewhere else on the same war, would call this necessity, and would, Brutus guessed, already be entering west names as debits. Brutus called it necessity too, and hated that their mouths agreed while their sleep did not. Sleep, unlike coinage, still refused to clear. In the dark he held the warm coin until it cooled, then put it away.
+In the dark he held the warm coin until it cooled, then put it away.
 
 ---
 
@@ -272,3 +272,4 @@ Cassius did not answer it. He went back to his own quarters and sat for a long t
 - **SC-88c (Cassius, early 42, S1):** both hailed *Imperator* below Sardis; “Rhodes” / “Xanthus” in the embrace. Closed room: Rhodes, the Lycians, Laodicea stripped; Cassius throws back Xanthus (the burning; 150 saved for the reward) (Plut. *Brut.* 31); the third at Smyrna (Plut. *Brut.* 30); Porcia, once, and Cassius is sorry. Favonius forces in with Nestor’s line (*Iliad* 1.259); Cassius laughs into his arms; Brutus: dog and counterfeit Cynic; Favonius dines at the top couch (Plut. *Brut.* 34). Next day Lucius Pella condemned on the tribunal; Cassius had kept two friends; “Remember the Ides… we had better have let Caesar live” (Plut. *Brut.* 35).
 - **Plants → pays:** Gaius dead pays at Ch 36 SC-93 (Hortensius on the grave); GO night and the Decimus rumour as callbacks; Philippi as a place, not a prophecy.
 - **Must not:** not re-glossed: Asia, *libertas*, the Decimus rumour, GO night.
+- **Graph pass 2026-10-24:** Amyntas does not tell Cassius about the orphans’ book (Ch 29). Necessity and EID MAR trimmed of the news recap and closing restatements.

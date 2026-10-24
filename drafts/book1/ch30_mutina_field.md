@@ -132,17 +132,9 @@ In rooms with clean sandals this would be named success before the mud dried. In
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
-“Count what?” said the man behind them. “Five hundred from the boy at Capua to stand in this.”
-
-“Five hundred beats Antony’s hundred,” Vibius said. Laberius had taken the boy’s coin in the end, in the autumn, when the shadow with a seal learned to feed men. It had bought his boots for the young Caesar’s ranks and this ditch. It had not moved the twine.
-
-Pay talk lived under the noise like a second drum. Who owed donatives. Which Caesar’s name still fed mouths. Whether Hirtius’s clean reputation meant Rome finally understood mud. Capua still sat in Laberius’s boots as an unpaid date. A boy from another century asked if they were fighting for the Senate or for bread. Laberius said, “Fight for the man on your left. Capua argues later, if later still has a road.”
-
-Between assaults, when the yelling thinned and the cold found room, Vibius and two men from the contubernium talked dirt the way other men talked gods. “Capua was a date when the paymaster breathed,” Vibius said, voice flat. Mud did not buy jokes. “Now Capua is only what we stand in.” The second man wiped pink melt from his shield rim. “Still wants a road, if we live.” Laberius did not finish the thought aloud. Finishing would have made Capua a speech. He kept his century from becoming a gap. When a signal dipped wrong in the wet air, he held the line anyway.
-
 Yell-rumours arrived before facts. Someone claimed a consul down. Someone claimed both. Someone claimed a victory large enough to make the ditch look like a lie. Laberius believed the ache in his forearms and nothing else. Until mid-afternoon, when a staff officer he recognised from Hirtius’s tent came past on a blown horse, cloak dark with more than rain, and said to a tribune three paces from Laberius’s ear: “The consul Hirtius is dead. I held his shoulder. Do not invent a better story.”
 
-That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. “They carried him off at Forum Gallorum,” Vibius said. “A week back. Javelin in the side. I ran beside the litter. I didn’t see inside it.” Laberius didn’t promote any Pansa version. Vibius had a litter. Nobody had a shoulder.
+That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. Vibius had run beside a litter a week ago and seen a curtain. Nobody had a shoulder.
 
 Near dusk Antony’s near line pulled back toward the higher ground. Not a rout Laberius could swear to. Only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know. Finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had an eagle. And a gap where a friend had been.
 
@@ -183,6 +175,8 @@ Sosia tipped his cup toward Hordeonius without drinking. “Only you could make 
 Hordeonius did not smile. “Silence clears. Cleverness does not.”
 
 Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*.
+
+Seius’s interest came in on the same day, a day before it was due, carried by his doorkeeper, an old man called Dromo who counted it out on the board himself and then watched Hordeonius count it again. The extra half in the hundred was there. It had been there every month since the Ides. Seius no longer came in person. Hordeonius entered it under the farm he had asked for and not been given, and thought, not for the first time, that a man who paid that much to keep his wife’s father’s fields was either a fool or the best risk on his tablets.
 
 Sosia brought a tablet up from the Carinae end of the Sacred Way: Fulvia’s paper, and her steward asking for a month. “The Senate has voted her husband an enemy,” Sosia said. “Everybody on the Janus is calling her in.” Hordeonius called it in, in full, charged the steward a fee for the haste, and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
 
@@ -252,3 +246,4 @@ Cicero thought about rebuking him and found he could not be bothered. He went to
 - **SC-81b (Cicero, last days of April 43):** a week after the crowd carried him to the Capitol and the Rostra on the true Forum Gallorum news (after a false day when enemies said he wanted the fasces; *Ad Brut.* 1.3.2). The Senate’s honours: triumph and the dead consuls’ legions to Decimus; the boy an ovation and thanks. Dinner of six (two young senators, Atticus’s cousin, a magistrate’s brother, Segulius Labeo). Asked what to do with young Caesar, Cicero says *laudandum adulescentem, ornandum, tollendum* (cf. *Fam.* 11.20). Labeo laughs last. Tiro: “He knows what *tollendum* means.” Cicero sleeps well.
 - **Plants → pays (T12):** Labeo carries it to Octavian and to Decimus (Ch 31); the word under Octavian’s count at Bononia (Ch 32).
 - **Must not:** no invented battle order; Laberius’s and Hordeonius’s “later” is guesswork in the present. Not re-glossed: the Martians, Hirtius, Pansa, Antony’s hundred.
+- **Graph pass 2026-10-24:** Mud trimmed of the Pansa-litter recap and the Capua/pay repetition that SC-79 now carries. Poison Talk: Seius’s interest brought a day early by Dromo, with the extra half since the Ides (plants Dromo for Ch 32).

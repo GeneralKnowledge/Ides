@@ -86,6 +86,12 @@ Antony liked the plain’s honesty: kill or be rearranged. Marshes and hills bro
 
 They had sat down on two hills astride the road west, Brutus on the northern one, Cassius on the southern above the marsh, with the sea behind them bringing grain every morning. Antony had the plain and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
 
+Before the trumpets a centurion of the Second came to his horse at the head of the cut, mud to the thigh, with a gap where his front teeth should have been. His century had dug for ten nights. He wanted it at the far end of the causeway, where the boy’s lent cohorts would come up out of the reeds beside Antony’s own.
+
+“There’s a man of theirs I owe a marsh,” he said. “Laberius. He put me in the reeds at Forum Gallorum when he could have put me in the ground. I’d like him on my left.”
+
+Antony had meant the Second for the push on the hill. He looked at the gap in the man’s teeth, and at the boy’s standards in the reeds where none of his own men wanted to stand, and laughed, the first time that day. “Take the end,” he said. “If he runs, put him back in the reeds yourself.” The Second went into the cut, and the hill waited a quarter of an hour for its weight.
+
 He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Do not chase the pretty gap. Fill it. Timing, not poetry.” The tribune’s mouth opened on a question; Antony was already past him. Omens were for the tents. On the field he trusted weight and the sound of men who still obeyed.
 
 Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’s name from a direction that might have been victory or panic. Antony didn’t pause to translate the shout. Another came down the line from the north, carried by a rider with no helmet: Brutus’s men were in the boy’s camp, cutting up the tents. The boy had a fever and Agrippa. Let them keep their own camp.
@@ -96,7 +102,7 @@ He did not think of Italian acres. For one breath a courier’s report from week
 
 ### Laberius
 
-Dust found every gap in Laberius’s teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it.
+Dust found every gap in Laberius’s teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it. On his left, where Gaius used to stand, stood a gap-toothed centurion of the Second, who had come up out of the cut at first light and taken the place without asking. “Cordus,” Rufrius had said, and nothing else. Laberius had let him stand there. Antony’s man, the boy’s line: this morning it came to the same marsh.
 
 He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’s side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms.
 
@@ -128,7 +134,7 @@ The messenger tried. Names arrived missing: a century mark without a cognomen, a
 
 Cassius sent a runner down the reverse slope for a second count: cohort numbers, eagle sightings, anything with a body attached. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. Do the next countable thing while the uncountable arrives.
 
-The runner came back empty-mouthed. No second count. Only another man who had heard the first yell secondhand and wanted to be useful by repeating it louder. A friend, attendant, someone with too much loyalty and not enough eyes, tried to amend the first report and only added fog. Brutus’s success, if it existed beyond the lying air, did not fit in either throat.
+The runner came back empty-mouthed. No second count. Only another man who had heard the first yell secondhand and wanted to be useful by repeating it louder.
 
 “Brutus,” Cassius said. One clarifying question about the sector. The answer came as a shrug wearing words: *no word; marsh between; dust.*
 
@@ -140,7 +146,7 @@ The softer thing lost.
 
 He dismissed the messengers with a bow that meant *done*. With only two men left near him, whose faces already disagreed about everything except the steel, he called Pindarus over. He had kept the freedman at his elbow since Carrhae, since the desert where he had watched what the Parthians did with Crassus’s head, for this one errand. Pindarus held the blade where Cassius set it. Cassius made the end himself rather than wait for the plain to invent a worse one.
 
-He didn’t speechify liberty. He didn’t correct the map. He treated the incomplete report as closed by belief. He closed the account the only way left.
+He closed the account the only way left.
 
 ---
 
@@ -149,3 +155,4 @@ He didn’t speechify liberty. He didn’t correct the map. He treated the incom
 - **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in fog (M18); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Laberius’s eagle staff is a local fact; Mutina mud in his body.
 - **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
 - **Must not:** no casualty tables; no postcard from Rome; two cameras only.
+- **Graph pass 2026-10-24:** Rufrius (spared at Forum Gallorum, Ch 30) asks Antony to put the Second at the end of the causeway beside the boy’s lent cohorts: “I’d like him on my left.” Antony grants it at the cost of a quarter hour on the hill. Rufrius stands on Laberius’s left. Development touch in protected Philippi: only the two stitches; fog rules and two cameras kept.

@@ -54,7 +54,7 @@ The boy stopped. Later Amyntas would hear other versions. That the governor had 
 
 Dolabella rode into the city at noon, by the main gate, which was opened for him. He wore the scarlet cloak. He went up the steps of the tribunal and stood by the chair and made a short speech to whoever was in the agora, which was not many, about Caesar, and the debt of blood owed to Caesar, and the first of the murderers to pay it. Then he sent for the city’s treasurer by name.
 
-Amyntas went. He took the books.
+Amyntas went. He took the city’s books. He did not take the other one, the small book of the temple of Nemesis, where the dowries of the city’s orphan girls were kept, which lived under the floor of his own house because the temple roof leaked. Nobody had asked for it. Crossing the agora, with the chair at the top of the steps, he decided that nobody would.
 
 “The cup,” Dolabella said pleasantly. He had a handsome flushed face and very good teeth. “I sent you a cup. I hope you liked it.”
 
@@ -108,3 +108,4 @@ It had not been rehearsed. That was why it had to go.
 - **Plants → pays:** Dolabella at Laodicea (Ch 34 SC-87a, Amyntas with Smyrna’s money); Tiro’s boxes (book of letters).
 - **Must not:** no Trebonius POV; torture told only as unconfirmed versions; Amyntas not a hero.
 - **Decisions:** 2026-10-24: drafted as insert chapter 27a (Reuben’s default); numbered Ch 29 in the renumbering pass the same day. Phil. 11 lands here, not in Ch 28 (Ch 28 ends at the Kalends of January).
+- **Graph pass 2026-10-24:** Amyntas keeps back the small book of the temple of Nemesis (orphans’ dowries, under his own floor). Pays Ch 34 (he says nothing to Cassius).

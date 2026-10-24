@@ -29,7 +29,7 @@ A man asked whether amnesty meant he could stop paying. Hordeonius tapped the in
 
 “The Senate has pardoned murderers,” said Hordeonius. “I have never lent to a murderer. I am therefore under no obligation to forgive you.”
 
-A junior senator (Seius’s type, though not Seius) laughed too loudly. Sosia, on the next stool, did not. The laugh wanted company; the stall offered rates instead. Hordeonius didn’t join the laugh. Humour was for men who didn’t hold other men’s winters in wax, unless the humour sold a second cup without confessing appetite.
+Seius laughed too loudly. He had come in the whitened toga he had bought on Hordeonius’s paper, for an aedile’s canvass in an election Caesar had arranged before Parthia, and Caesar would not be going to Parthia. Sosia, on the next stool, did not laugh. The laugh wanted company; the stall offered rates instead.
 
 Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred sesterces a head. Hordeonius did that sum before the rumour finished: several months of a legionary’s pay, times every citizen on the grain list, and the list ran to hundreds of thousands. Gardens across the river. Decimus in the second rank of the will like a cruel joke the dead man had signed while smiling. A fourth stack, softer and meaner, was the queen across the river, still in Caesar’s gardens with the child. Hordeonius did not certify the child. He certified that men were already treating her as a clause that might move leases.
 
@@ -37,9 +37,25 @@ Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred
 
 “Whoever opens the seal,” Hordeonius said. “Or whoever pretends not to notice she was priced before the seal existed.”
 
-The junior wiped his eyes. “You talk as if mourning were a price list.”
+Seius wiped his eyes. “You talk as if mourning were a price list.”
 
-“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became entries in a daybook. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
+“Then buy a list,” Hordeonius said, stylus already moving, “or tell me what you came for.”
+
+Seius had come for a month. The canvass paper fell due on the Kalends: the toga, the small gifts, the jar of oil good enough to be seen carrying, all bought for a year that might not now have elections in it. “Roll it,” he said. “Until the Senate decides whether there is a year.”
+
+Half the Janus was calling in Caesarian paper that morning, every loan secured on a dead man’s goodwill. Calling Seius would clear a column and cost nothing but a client who had never been worth much. Hordeonius looked at the column, and then at the man in the white toga, sweating through it.
+
+“I will roll it,” he said. “At two in the hundred. On the Sabine farm. Your wife’s father’s.”
+
+Seius’s laugh went out like a lamp. “Not the farm.”
+
+“Then two and a half, and no farm.”
+
+“Done,” said Seius, too fast, and went before the stall could think of a third thing.
+
+“You could have had his house on the Kalends,” Sosia said.
+
+“I could have had a house nobody will buy this month.” Hordeonius entered the new rate. “Interest keeps. Houses burn.”
 
 He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
 
@@ -67,6 +83,7 @@ He waited for the next fool with a question and a purse.
 
 ## Continuity notes (SC-48)
 - **Knows / learns:** the will rumour hits the stalls before or as it is read. Basilica, Janus, the scale in sesterces; the amnesty as a market refusal. Queen, gardens and child priced as a Roman problem before the seal. SIDE-1 blackmail fizzles (OPEN-0). The sum stays street talk.
+- **Graph pass 2026-10-24:** Seius at the stall in the whitened toga; asks a month on the canvass paper (Kalends). Hordeonius rolls it at two in the hundred on the Sabine farm; Seius refuses the farm; two and a half, no farm. Sosia: “You could have had his house.” “Interest keeps. Houses burn.” Pays Ch 30 (Dromo, the extra half) and Ch 32 (the farm taken as security).
 
 ---
 

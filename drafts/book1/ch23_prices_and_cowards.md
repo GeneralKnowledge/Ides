@@ -36,11 +36,9 @@ The Puteoli man and Sosia argued the next question in the same breath. “Young 
 
 “Brutus’s sea house,” Sosia said. “Where else does a praetor sit when he can’t walk the Forum? His mother has moved her clerks in after him.”
 
-“I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather. Watch which weather arrives with coin.”
-
 The Puteoli man wiped his brow. “You weigh a dead man like a sack of grain.”
 
-Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool. Watch which veterans take the boy’s pay. Watch which paper arrives from Antium smelling like Servilia’s people.” Sosia, who had heard this speech in three markets, went back to counting coin. “I sell you which rumour empties a purse first. Certainty costs extra, and I don’t stock it.”
+Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool. I sell you which rumour empties a purse first. Certainty costs extra, and I don’t stock it.”
 
 He priced the Puteoli question twice, once for Antony’s veterans, once for a boy’s name, and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 

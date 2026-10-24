@@ -32,7 +32,7 @@ Brutus looked at it. The cost of taking it was clear in the body. Abandon the kn
 
 “Hold what you can,” Brutus said. Not a period. Not an antithesis. Only an order with the paint worn off.
 
-He refused the cleaner hill. The knot shrank. The breath got shorter. The officer’s face went from hope to something flatter. Brutus held what he could until what he could was a shrinking knot that no philosophy could stiffen again. Only then, at dusk, with nothing left on the plain to hold, did he take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
+He refused the cleaner hill. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
 
 Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. He sent a man down to see whether the camp could be retaken. The man did not come back. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
 
@@ -50,11 +50,9 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-When someone tried to crown him with the day’s glory in a sentence, Octavian kept breathing and didn’t bow. Sweat ran into the corner of his mouth; he swallowed it and asked Agrippa for the next count of the ditch.
-
 Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said, Italian soil, promises already louder than the plain’s dust.
 
-“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still. That was the next war’s seed, held in the same breath as survival. He did not invent a destiny for it. He named the want. He kept breathing.
+“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still. That was the next war’s seed.
 
 ---
 
@@ -94,8 +92,6 @@ Nobody asked whether he meant the coast, which was a long way off, or whether he
 
 A tribune mentioned Italian land assignments, farms, promises. Antony waved it toward tomorrow with the same hand he had used to point cohorts. “The boy’s tomorrow. Italy will wait. Italy always complains. The East is bleeding now.”
 
-By the tent-flap, a cup further into the wine than his rank allowed, a junior officer said it to the horse-holder loud enough to carry: “Italy always complains until it bills you in veterans who know which farms have owners.” The horse stamped. Antony heard it, laughed once, short, and went back to the map.
-
 At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
 
 ---
@@ -115,6 +111,8 @@ The courier said *Philippi* as if it were a receipt.
 Hordeonius was in a shop that no longer had an owner, pricing shelves for an auction the lists had paid for. Two Liberators dead. Antony to the East. The boy to Italy and the veterans. He wrote it down in the column where he kept weather.
 
 He turned back a leaf for a clean line, and his thumb found his own hand instead: *Seius: lent*, and under it, in cipher, *Clean*, and behind both a Sabine farm that had been an old man’s birthplace. He thought of Visellius on his floor, and of the copies he had taken that no magistrate had ever asked for. No one had solved Visellius. Civil war did not keep a magistrate free for a moneylender’s throat.
+
+Last winter a woman of Fulvia’s, the one who counted the mistress’s silver, had stopped at the stall with a basket on her arm, asked very politely what his rate was on a month, and gone away without borrowing. Sosia had laughed. Hordeonius had not. Antony did not keep ledgers.
 
 He left the tablet open on the counter. Soldiers would want farms, and every farm in Italy already carried someone’s name. One of them carried his seal. The open wax and the old floor asked the same question, and his seals could not close it: who pays for dirt that already has owners.
 
@@ -281,3 +279,4 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.
+- **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 33 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.
