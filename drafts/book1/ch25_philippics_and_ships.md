@@ -44,7 +44,7 @@ She was on the street outside, buying a cup of water for the kitchen boy, when t
 
 “It means weather,” said the water-seller, who wanted his cup back.
 
-Someone further along was explaining it to a crowd, and Nysa heard, “They say the hair of the star means…” and then a cheer went up from inside the walls and drowned the rest. She never learned what the hair meant. She thought about it afterward, scrubbing pans, and decided she had been better off without the end of the sentence.
+Someone further along was explaining it to a crowd, and Nysa heard, “They say the hair of the star means…” and then a cheer went up from inside the walls and drowned the rest. She never learned what the hair meant. She thought about it afterwards, scrubbing pans, and decided she had been better off without the end of the sentence.
 
 It came back every evening for seven evenings, at the same hour, in the same part of the sky. By the third evening the boy’s people had a song about it. By the fifth the song had a verse about the chair.
 

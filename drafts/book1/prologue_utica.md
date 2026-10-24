@@ -47,7 +47,7 @@ He tied off the linen. Cato flexed the fingers once and winced, and took up the 
 
 Cleanthes went out and lay down on a mat in the passage. He did not sleep. Toward midnight he heard Cato snoring, deep and even, the snore of a man who has finished his work for the day, and he lay in the dark and listened to it and did not know what to think.
 
-Before the first birds Cato sent the freedman Butas down to the harbour to see whether all the ships were away. Butas came back with the sky going grey. The ships were gone, he said, all but one; the sea was rough; a wind had got up from the north. Cato groaned aloud at that, for the men at sea, and sent Butas back down to see whether anyone had been forced to put in again and needed help. Cleanthes heard him say it. He heard the concern in it, real concern, and that was the thing he could not afterward explain to anyone: the man had sent Butas out of the room for the sake of strangers on the water.
+Before the first birds Cato sent the freedman Butas down to the harbour to see whether all the ships were away. Butas came back with the sky going grey. The ships were gone, he said, all but one; the sea was rough; a wind had got up from the north. Cato groaned aloud at that, for the men at sea, and sent Butas back down to see whether anyone had been forced to put in again and needed help. Cleanthes heard him say it. He heard the concern in it, real concern, and that was the thing he could not afterwards explain to anyone: the man had sent Butas out of the room for the sake of strangers on the water.
 
 Butas went. The house was quiet. A bird began in the courtyard, and then another.
 

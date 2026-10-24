@@ -59,7 +59,7 @@ The client’s smile held until Antony’s shoulder turned. Then, to the freedma
 
 Antony heard the word *temporary* travel behind his back already rewriting the afternoon, and laughed louder so the rewrite would have to wait.
 
-Afterward he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
+Afterwards he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
 
 By evening the city’s elite rooms had a new fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. His wife had buried two clever husbands before him, and Fulvia had opinions on what a clever joke could cost. She did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
 
