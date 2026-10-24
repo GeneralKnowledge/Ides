@@ -30,7 +30,7 @@ A boy selling fish by the verge stared at the litter. Fame might have been a col
 
 “Faster,” he told the bearers, then hated the undignified word. Speed wasn’t eloquence. Speed was what animals did when the forest closed.
 
-When the killers found the road, his attendants made the noises attendants make. Panic first. Then the math of their own skins. Someone begged. Someone ran. Someone stayed because staying was also a calculation, and calculations had always been Cicero’s neighbours if not his friends. He put his head out enough to be seen.
+When the killers found the road, his attendants made the noises attendants make. Panic first. Then the reckoning of their own skins. Someone begged. Someone ran. Someone stayed because staying was also a calculation, and calculations had always been Cicero’s neighbours if not his friends. He put his head out enough to be seen.
 
 The officer at the front had a face he knew. It took a moment; names had begun to take him moments. Popillius. A young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter, and a centurion beside him did the looking for both.
 

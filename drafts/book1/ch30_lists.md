@@ -20,7 +20,7 @@ The island sat low in the river below Bononia, a gravel tongue with a tent on it
 
 Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. He looked across the table at the Campania squeak grown into a man who could force a bargain, and whatever joke he had kept since spring did not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. He also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
 
-Lepidus wanted the law first, because Lepidus always wanted the law first. “A tribune carries it in Rome,” he said. “Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
+Lepidus wanted the law first, because Lepidus always wanted the law first. They had haggled it by letter for a month, and he read it out anyway, as if a thing were not agreed until he had heard it in his own voice. “A tribune carries it in Rome. Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
 
 “Triumvirs,” Antony said, tasting it. “In Rome a board of three counts copper at the mint and minds the jail.”
 

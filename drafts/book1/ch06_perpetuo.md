@@ -73,9 +73,9 @@ Overhear risk: Medium
 
 ---
 
-“They have sold years in advance,” Hordeonius said, scandalised on behalf of liquidity. “Consulships as futures. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
+“They have sold years in advance,” Hordeonius said, scandalised on behalf of ready coin. “Consulships sold forward, like olives still on the tree. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
 
-“Two a year,” a young senator’s agent muttered. “Elected. Each to check the other. That was the consulship. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
+“Two a year,” a young senator’s agent muttered. “My master’s father stood for it three times and bought half the Velabrum doing it. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
 
 Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
 
@@ -87,7 +87,7 @@ Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong t
 
 “Late,” Hordeonius said, already reaching for the next tablet. “You want seats near the auction after the years are sold. I charge for that. Not for the sermon.”
 
-A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius entered a number and waved the man on. Stopping other men’s metaphors was unpaid labour. Monetising them was craft. Listeners still left carrying a grievance into darker rooms. That was their business.
+A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius entered a number and waved the man on. Stopping other men’s metaphors was unpaid labour. Charging for them was craft. Listeners still left carrying a grievance into darker rooms. That was their business.
 
 “And the East?” the young agent pressed. “I hear the Domus is packing crates like a clock. Maps, boots, grain for ships, months away treated as a neighbour’s farm. If forever has a title, does Parthia get a departure date?”
 
@@ -114,6 +114,6 @@ He felt the market’s mood thicken. Thick markets made people invent virtues. V
 ---
 
 ## Continuity
-- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are traded like futures (Hordeonius), which feeds recruitment. Queen and child talk comes back garbled at the stalls (gardens, hours, collateral), unconfirmed.
+- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. Queen and child talk comes back garbled at the stalls (gardens, hours, collateral), unconfirmed.
 - **Plants → pays:** Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
 - **Must not:** two POVs only. CLEO-1 held.

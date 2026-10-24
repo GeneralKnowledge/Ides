@@ -51,7 +51,7 @@ Cicero had walked over from his own house along the shore to return the boy’s 
 
 Cicero’s smile held. “They are still exercising,” he murmured, to no one in particular. “Tell me when the exercise stops amusing them.”
 
-Octavian, alone for a stolen minute on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
+Octavian, alone for a stolen moment on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
 “I almost said it first,” Agrippa murmured, not apology, inventory. “Shadow. Old habit.”
 

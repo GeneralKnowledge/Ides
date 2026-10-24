@@ -21,7 +21,9 @@ Staff traded omens like recipes.
 
 Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. “Wouldn’t touch the grain,” he said. “When they won’t eat, nothing big gets done that day. Ask any priest.” Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
 
-“Capys founded Capua,” she said, pleased with the name. “In the old days. And Trojan blood is the Julii, everyone knows they come down from Aeneas. Balbus swears the find is real.”
+“Who’s Capys?” said Dama.
+
+“Founded Capua, in the old days,” she said, pleased to have the name and a boy who lacked it. “And Trojan blood is the Julii. Even you know they come down from Aeneas. Balbus swears the find is real.”
 
 “Balbus keeps Caesar’s books,” said Pasiphile. “He never needs to lie about money. That is why half the Forum believes him.”
 
@@ -98,7 +100,7 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 “The room has no choice, master. It is a very polite room.”
 
-He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were oxygen. Oxygen could also burn.
+He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were lamp oil. Lamp oil could also burn.
 
 He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) found his Demosthenes voice in time. He had always had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic. Capys tablets and sullen chickens were topics too, until someone made them into policy.
 
@@ -114,7 +116,7 @@ The courier hesitated. “He asked for you in the room, not on the tablet.”
 
 “Occupied with what?”
 
-“With being right at a distance,” Cicero said. “It is a full-time occupation.”
+“With being right at a distance,” Cicero said. “It takes all of a man’s leisure.”
 
 “Only a king,” he murmured afterward, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
 

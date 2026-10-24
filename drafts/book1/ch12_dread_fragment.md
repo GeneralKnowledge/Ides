@@ -92,7 +92,7 @@ She had almost made the linen disappear under her tunic when Phileros turned the
 
 “Mats,” he added. “Before the atrium invents another omen.”
 
-She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night, under a loose tile, behind a water jar, and Phileros’s basket had stolen the minute. In the court she passed Pallas again and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter, mercy or trap depending on which word you stressed, and it hadn’t yet grown legs as street rumour. It had only almost become a door-search. The attendant’s muttered truth stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space.
+She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night, under a loose tile, behind a water jar, and Phileros’s basket had stolen the moment. In the court she passed Pallas again and neither named Calpurnia’s morning pauses. Naming made pauses into evidence. Medullina, if Nysa saw her in the Subura later, would want a trade. Nysa would give birds and chickens. Not this. The fragment was still only a splinter, mercy or trap depending on which word you stressed, and it hadn’t yet grown legs as street rumour. It had only almost become a door-search. The attendant’s muttered truth stuck beside it: schedules that smelled like knives. Cheer in the atrium; truth in the cloak-space.
 
 ---
 

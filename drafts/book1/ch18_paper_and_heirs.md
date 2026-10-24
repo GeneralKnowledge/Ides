@@ -19,7 +19,7 @@ Overhear risk: Medium
 
 Under the basilica shade among the Janus bankers’ stools, Hordeonius loved a crisis the way priests loved a festival: for the traffic more than the singing.
 
-In calm weather the Janus arcade smelled of ink and sweat. In a crisis it smelled of fear with a decimal point.
+In calm weather the Janus arcade smelled of ink and sweat. In a crisis it smelled of fear reckoned in twelfths.
 
 He sat with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
 
@@ -39,7 +39,7 @@ Rumour arrived in stacks. Octavius, Octavian, boy, heir, adoption. Three hundred
 
 The junior wiped his eyes. “You talk as if mourning were a price list.”
 
-“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became line items. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
+“Then buy a list,” Hordeonius said, stylus already moving, “or stop wasting the stool.” Sosia’s mouth twitched toward a joke about Alexandria and died there. The junior was already leaning in for leases, and jokes that named queens out loud became entries in a daybook. “Gardens, boy, queen: watch which one empties a purse first. I don’t grade grief.” The junior’s loud laugh came back smaller. The stall had taxed it. Hordeonius did not smile. Smiling would have spoiled the next sale.
 
 He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal.
 
@@ -85,7 +85,7 @@ Overhear risk: Extreme once leaked
 
 Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame, the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
-Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus’s second line would make knife-men into punchlines, and nobody laughed with him. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
+Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus’s second line would make knife-men into a mime’s turn, and nobody laughed with him. Antony heard the fringe the way he heard cohorts shifting, noise that would become policy if ignored. He stood where a consul stands when he intends to own the consequences.
 
 The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Antony knew the law well enough to dislike it: a will could adopt, make a son from the grave, and pass him the name, the household gods and every client the dead man had. Legal. Also, for an eighteen-year-old great-nephew Antony had hardly noticed, a very large coat. Pinarius and Pedius, the other great-nephews, splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Secondary provisions that snagged Decimus Albinus among heirs in the second degree, like a fishhook left in a clean catch. Second degree: Decimus would see a coin only if the first heirs failed. Remote. But a place, and a place meant the dead man had written his name down.
 
@@ -121,11 +121,11 @@ Nysa saw, for a blink, Decimus’s open morning face in the Domus atrium. She di
 
 “It means he was loved a little less than the boy,” the woman said. “And killed him anyway. That is a very expensive way to be second.”
 
-Back at the Domus, Phileros had heard the same news at the vestibule. “The house will be stripped for souvenirs,” he whispered when she came in. Souvenirs were not the tragedy. The emptying was.
+Back at the Domus, Phileros had heard the same news at the vestibule. “The house will be stripped for keepsakes,” he whispered when she came in. Keepsakes were not the tragedy. The emptying was.
 
 Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
 
-In the street the clauses mutated before sundown. The sum grew. The gardens acquired fountains. The boy acquired a future other people tried to sell as fate. Nysa didn’t buy. Futures were what rich men sold to each other when they were bored.
+In the street the clauses mutated before sundown. The sum grew. The gardens acquired fountains. The boy acquired a future other people tried to sell as fate. Nysa didn’t buy. Fates were what rich men sold to each other when they were bored.
 
 She kept her incomplete wax. It had become a relic of a morning when paper still might have mattered differently.
 

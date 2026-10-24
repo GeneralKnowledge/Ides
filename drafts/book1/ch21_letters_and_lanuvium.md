@@ -120,7 +120,7 @@ The clerk’s smile died. “Without your name the tablet is nothing we can show
 
 “Then keep it blank,” Brutus said. “I will not put my seal on a road full of Antonian dust.”
 
-The clerk left without clasping arms. Before supper the steward returned from the neighbouring town’s market with flour and a report that cost more than flour. Two clients who had meant to sleep at Lanuvium had already turned back, told at the gate there that Brutus’s house would not shield them. One refusal had made his brand a local absence by nightfall. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
+The clerk left without clasping arms. Before supper the steward returned from the neighbouring town’s market with flour and a report that cost more than flour. Two clients who had meant to sleep at Lanuvium had already turned back, told at the gate there that Brutus’s house would not shield them. One refusal had made his name a local absence by nightfall. Another client asked when he would return to Rome. Brutus said, “When Rome remembers what a praetor is for.” That one nodded as if he’d been given a day to mark on wax, and didn’t offer a tablet.
 
 He didn’t practise a Senate line for the hedges. The hedges had already heard enough philosophy. He walked the gravel until his sandals hurt and counted the cost without making it a period. He still had a view, and fewer doors that would open if he knocked.
 
