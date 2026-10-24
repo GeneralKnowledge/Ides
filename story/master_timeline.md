@@ -62,7 +62,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Late Apr–May | Cicero’s *laudandum, ornandum, tollendum*; Labeo carries it to Octavian | H | Ch 28 SC-81b, Ch 29; T12 |
 | 24 May | Decimus writes it to Cicero from Eporedia (*Fam.* 11.20) | H | Ch 29 |
 | May | Lepidus’s legions let Antony into their camp | H | Ch 29 |
-| Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 summary; S3 will dramatise |
+| Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 29 SC-82 (Decimus) |
 | Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 32 (reported); T10 will dramatise |
 | 19 Aug | Octavian consul at nineteen; Pedian court condemns the assassins | H | Ch 29; S5 will dramatise |
 | Sept | Decimus killed at the ford | H | Ch 29 |
