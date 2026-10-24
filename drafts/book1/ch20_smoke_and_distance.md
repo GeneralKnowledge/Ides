@@ -37,7 +37,7 @@ Brutus found him in a courtyard that still had one unbroken pot of herbs.
 
 “East,” Brutus said. Not a question.
 
-“You and Cassius,” Decimus said. “Macedonia for you, Syria for him, where Caesar marked you, where the legions are, and as far from the Forum as a man can sit. I take the nearer knife. Someone has to hold a road in Italy.”
+“You and Cassius,” Decimus said. “How in Hades do two men stab the giver and keep the gift? Macedonia and Syria, still yours on his paper. Go and sit in them. That is where the legions are, and as far from the Forum as a man can sit. I take the nearer knife. Someone has to hold a road in Italy.”
 
 Brutus’s face was pale under soot. “They burned Helvius for a name. If you take Cisalpine now, you take Antony’s hunger with it. Come east with us first. Let the nearer knife wait until the Forum’s heat cools.”
 
@@ -110,7 +110,7 @@ Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: boo
 
 “He is a very good writer, majesty.”
 
-“He is a very good writer who thinks I am a bad debt. I would rather be a bad debt than a footnote.”
+“He is a very good writer who thinks I am a bad debt. I would rather be a bad debt than a line in someone’s annals.”
 
 Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
 

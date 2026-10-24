@@ -21,7 +21,7 @@ He took his own inventory while he waited, because no one else would. Gaius Octa
 
 Priests moved with the boredom of men who handled gods professionally. Senators performed importance for one another. A woman selling wreaths named three wrong officials and sold the wreaths anyway. He listened more than he spoke. A boy without legions borrowed maps with his ears.
 
-Caesar’s glance found him once, brief as a list check, not unkind, not enough. No prophecy in it. Octavian’s shoulders stayed still until the glance moved on. Only then did he let out the breath he had been holding. He didn’t look at Agrippa to confirm he had been seen. Looking would have spent the moment.
+Caesar’s glance found him once, brief as a list check, not unkind, not enough. No prophecy in it. Octavian’s shoulders stayed still until the glance moved on. Only then did he breathe. He didn’t look at Agrippa to confirm he had been seen. Looking would have spent the moment.
 
 Marcus Agrippa at his shoulder said nothing. Same age. Farm-bred, a soldier’s forearms, no family name worth the price of a seat. He had attached himself to Octavian the way some dogs attach themselves to the one person in the house who forgets to be afraid of them. Apollodorus, his Greek, hired to turn rhetoric into a statesman and so far the maker of a very good cloak-holder, fidgeted somewhere behind with the cloaks like a man who wanted his principal larger than the hour allowed.
 
@@ -47,7 +47,7 @@ Octavian stepped into the gap anyway, thin shoes on hotter stone. The attendant�
 
 “He looked at you on the steps.”
 
-“He was checking whether I was ill again.” Octavian had been ill most of his life, coughs and fevers and a stomach that disliked every campaign he had ever approached, and Caesar knew it. That spring, when Caesar had gone to finish the war in Spain, Octavian had followed late, half-wrecked by sea and sickness, and arrived to find the battle already won. His uncle had looked at him as if he were a mildly interesting weather report. Then he had asked, with great politeness, whether the journey had been bad. It had been the longest conversation they had ever had.
+“He was checking whether I was ill again.” Octavian had been ill most of his life, coughs and fevers and a stomach that disliked every campaign he had ever approached, and Caesar knew it. That spring, when Caesar had gone to finish the war in Spain, Octavian had followed late, half-wrecked by sea and sickness, and arrived to find the battle already won. His uncle had looked at him as if he were a mildly interesting line in the day’s dispatches. Then he had asked, with great politeness, whether the journey had been bad. It had been the longest conversation they had ever had.
 
 “That’s a conversation,” Agrippa had said at the time.
 
@@ -62,18 +62,18 @@ The unfinished inventory followed him off the steps. Rome’s dinners did not su
 POV: Octavian (sole) · Illyrian coast
 Date / place: Apollonia drill/study · early 44
 Canon refs: FS01–03 · C5 · Parthia prep
-Info ENTER: Distance with homework · EXIT: Bond with Agrippa; far from Senate heat; still unfinished
+Info ENTER: Distance with lessons · EXIT: Bond with Agrippa; far from Senate heat; still unfinished
 Overhear risk: Low–N/A
 
 ---
 
-Apollonia was not a reward. It was distance with homework.
+Apollonia was not a reward. It was distance with lessons.
 
 “A Greek town with Italy’s heel for a view,” Agrippa had said from the boat rail, and that was description enough. Caesar had not chosen it for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria, where Crassus’s eagles still hung in some temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
 
 Somewhere in that plan, Caesar had given his great-nephew a place. Octavian was to study with the army and sail for the East beside the general’s staff. He was to learn the work of a master of the horse, the second chair, the man who rode behind the dictator. Nobody at the dinners had been told. If they had been, they would have laughed.
 
-On the Illyrian coast he studied war like homework for a test someone else might take.
+On the Illyrian coast he studied war like a schoolboy learning a speech another boy might be called on to declaim.
 
 Agrippa drilled until sweat made honesty cheaper than speech. Octavian’s body complained; he didn’t narrate the complaint. Weakness spoken aloud became other men’s tool. He asked questions that sounded younger than his calculations, supply, winds, what older officers feared when they joked about the East.
 

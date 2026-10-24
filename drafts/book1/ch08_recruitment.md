@@ -42,7 +42,7 @@ Cassius watched Galba’s hands: no cup, no fidget, one ring turned once and sto
 
 Galba’s mouth tightened. Not refusal. Calculation. “And Brutus?”
 
-“Brutus is the brand,” Cassius said. “Brands do not recruit. They bless. I recruit. Tonight I make him listen with company, so he cannot pretend it was only my temper.”
+“Brutus is the name,” Cassius said. “Names do not recruit. They bless. I recruit. Tonight I make him listen with company, so he cannot pretend it was only my temper.”
 
 “His temper is exactly what he will say it was.”
 

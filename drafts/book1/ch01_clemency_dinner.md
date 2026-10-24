@@ -81,7 +81,7 @@ Under the couch his hand had made a fist. He opened it and took another grape.
 
 He knew Cato the way everyone did. Cato had made sure of it. The man had been offered the same cup that was going round this table, had looked at it, and had gone home to his book and his sword. Either that was the stupidest thing anyone had done in the war or it was the only clean one. Cassius had not decided. He resented having to.
 
-Sextilius leaned in, wine-bright, while Aebutius explained the *Phaedo* to Tettius in the tone of a man correcting a tax return. “Digest carefully. There is talk the queen across the river keeps a child under Caesar’s roof. Private hours. Fresh paint. Best not to notice aloud.”
+Sextilius leaned in, wine-bright, while Aebutius explained the *Phaedo* to Tettius in the tone of a man correcting a neighbour’s census declaration. “Digest carefully. There is talk the queen across the river keeps a child under Caesar’s roof. Private hours. Fresh paint. Best not to notice aloud.”
 
 “Whose paint?”
 
@@ -125,7 +125,7 @@ They went half a street without speaking. A lamp-boy ran past with a flame in a 
 
 “I was busy with a grape.”
 
-“I keep thinking about the physician.” For once Sextilius sounded sober. “All night at honest work. Needle, thread, steady hands. And the man he saved undid it in a minute, to prove a point.”
+“I keep thinking about the physician.” For once Sextilius sounded sober. “All night at honest work. Needle, thread, steady hands. And the man he saved undid it in an hour, to prove a point.”
 
 “Whose point?”
 

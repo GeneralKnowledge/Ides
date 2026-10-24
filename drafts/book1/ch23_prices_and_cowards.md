@@ -16,7 +16,7 @@ Overhear risk: Medium
 
 Hordeonius arranged his face into mourning for the Republic and his stylus into appetite.
 
-“Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme liquidity.”
+“Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme ready coin.”
 
 Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
 
@@ -40,7 +40,7 @@ The Puteoli man and Sosia argued the next question in the same breath. “Young 
 
 “Antium?” the Puteoli man said.
 
-“Brutus’s sea house,” Sosia said, “a day down the coast. He’s sitting there out of Rome’s reach, and his mother has moved her clerks in after him.”
+“Brutus’s sea house,” Sosia said. “Where else does a praetor sit when he can’t walk the Forum? His mother has moved her clerks in after him.”
 
 “I price living seals,” Hordeonius said. “Mothers rewriting decrees are politics. Politics I charge for seats near. Eagle men who refuse a purse are weather. Watch which weather arrives with coin.”
 
@@ -76,7 +76,7 @@ Phileros kept the short laugh for the stair, where no steward’s kindness could
 
 Nysa had carried the first chests herself as far as the gate, the night of the Ides, by lamplight, and watched Antony’s men take them into the dark. Safe, the consul had promised Calpurnia. These were the leftovers. Careful hands were collecting what safe had missed.
 
-Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become someone else’s line item. The incomplete *spare*/*stay* splinter was ash. The house’s new seals were not. Danger continued without the old wax.
+Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become an entry in someone else’s daybook. The incomplete *spare*/*stay* splinter was ash. The house’s new seals were not. Danger continued without the old wax.
 
 Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
 
@@ -135,7 +135,7 @@ On the way to the far dinner he didn’t rehearse congratulations. He counted wh
 ---
 
 ## Continuity
-- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); a whisperer’s scrap of February names from the baths, worthless because the Senate pardoned the deed; Antium is Brutus’s sea house a day down the coast, with Servilia’s clerks moved in. SIDE-1 blackmail fizzles (OPEN-0); Hordeonius returns an archaeology scrap to the palm. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
+- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); a whisperer’s scrap of February names from the baths, worthless because the Senate pardoned the deed; Antium is Brutus’s sea house, with Servilia’s clerks moved in. SIDE-1 blackmail fizzles (OPEN-0); Hordeonius returns an archaeology scrap to the palm. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Seius refuses his neighbour Gavius’s petition at dinner and loses the block’s goodwill; he was sounded “back in February”.
 - **Nysa’s errand:** she takes a receipt to the Carinae (Pompey’s old house, bought at Caesar’s auction, never paid for), takes the “stay attached” offer, learns the bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; the Domus to Lepidus; Subura rent).
 - **Plants → pays:** Antium (Ch 24); Gavius (Ch 30, T11); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 30 lists).
 - **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7); Seius as aedile’s kin (Ch 3, 10).

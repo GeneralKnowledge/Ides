@@ -98,17 +98,17 @@ A factor from the quay, a Greek who bought and sold for three of those cities, c
 
 Brutus touched a rail. Salt crusted under his nails. “If we become what we killed…”
 
-“We become victors,” Cassius cut in. “Then we argue about purity. Purity is a peacetime hobby.”
+“We become victors,” Cassius cut in. “Then we argue about purity. Purity is for after the triumph.”
 
 The factor waited. The tablet waited. Pay versus purity, on a deck that still smelled of Italian appointments.
 
-Brutus looked at the numbers a long time. Cassius could watch him do the sum: honest enough to fund men, early enough to make the brand look like a tax before it looked like a cause.
+Brutus looked at the numbers a long time. Cassius could watch him do the sum: honest enough to fund men, early enough to make the name look like a tax before it looked like a cause.
 
 “Not from this deck,” he said. “The Senate sent me out of Rome to buy corn like a clerk. I will not turn clerk for cities that want a seal more than a Republic. Collect when we have cities under our own count, not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened. The factor’s smile thinned, and he said to the mate, not as low as he thought: “They will sell the same coin to whoever stamps first.”
 
 “Then let them hurry,” Brutus said. “We will not.”
 
-Cassius did not argue the purity speech. He took the cost as delay and hated delay. He kept Brutus’s refusal because the brand still needed Brutus’s face on it. He answered the mate’s shout about lines with a nod that meant *move*. Brutus answered the mate with courtesy that belonged to a different Republic, and had just spent a piece of that courtesy refusing easy silver.
+Cassius did not argue the purity speech. He took the cost as delay and hated delay. He kept Brutus’s refusal because the cause still needed Brutus’s face on it. He answered the mate’s shout about lines with a nod that meant *move*. Brutus answered the mate with courtesy that belonged to a different Republic, and had just spent a piece of that courtesy refusing easy silver.
 
 A crate labelled with someone’s grain promise tipped on the gangplank and righted itself. Brutus watched it the whole way. Cassius could not tell whether he was reading an omen or counting cargo, and did not ask.
 

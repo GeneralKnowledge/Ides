@@ -20,7 +20,7 @@ In Pompey’s Curia the marble held last night’s cold. Cassius counted exits t
 
 One door. Too many togas. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’s cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
 
-Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency brand still wet on the Republic’s memory.
+Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency decrees still wet on the Republic’s memory.
 
 Other senators crowded round the chair with the careful, helpful faces of men who wanted to second the request. It was the natural thing to do. It also put twenty men within arm’s reach.
 
