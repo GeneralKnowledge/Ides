@@ -115,9 +115,9 @@ Brutus walked half a step slower. Cassius could all but see the ancestors walkin
 
 “We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once at the emptied column, then at the boy now arguing a cup price with a muleteer. Ordinary noise was cover; he used it. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
 
-“Galba,” Brutus said. “He had a legion for Caesar in Gaul.”
+“Galba carried a legion for Caesar in Gaul,” Brutus said. “Why would Galba?”
 
-“And was passed over for a consulship he thinks he earned. He has not forgotten it. Ligarius fought for Pompey in Africa and lives under his pardon like a man under a roof he thinks is rotten.” Cassius left the rest to what Brutus already knew.
+“Ask him how long he has waited for the consulship he thinks Caesar owes him. And you have watched Ligarius since the pardon. He lives under it like a man under a roof he thinks is rotten.”
 
 Brutus stopped. The stop itself was an answer he preferred to speech.
 

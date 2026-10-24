@@ -60,6 +60,14 @@ Smoke, urine alleys, garum, blood from sacrifice, oil in baths, horse sweat, wet
 - No modern idioms (“okay,” “focus,” “optics” as buzzword — you may show optics as behaviour).  
 - Letters may be quoted in part; they are stylised.
 
+### Exposition: reminders allowed, briefings banned
+
+- The narrator still does not stop for a “X was the …” history sentence.
+- A fact may sit in dialogue when **the listener does not know it**, when **one person reminds another** the way people do (“You forget he governed Gaul for Caesar”), or when the fact is **leverage**: wonder, accusation or a jab (“How in Hades did you get Syria?”).
+- A POV character may hold a fact in one clause of memory.
+- Banned: a speaker briefing a listener on what both already know (“As you know, Bob”). The tell is “everyone knows”, or a speaker reciting the listener’s own province, office or career to them.
+- Introduce each real person **once** with traits; later scenes show them, they do not re-list the same traits.
+
 ### TONE-1 seasoning (see `voice/TONE_SPARTACUS_GRRM.md`)
 
 - Slight elevation OK (Spartacus-adjacent); not every line inverted.  

@@ -75,7 +75,7 @@ Overhear risk: Medium
 
 “They have sold years in advance,” Hordeonius said, scandalised on behalf of liquidity. “Consulships as futures. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
 
-“Two a year,” a young senator’s agent muttered. “Elected. Each to check the other. That was the consulship. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
+“Two a year,” a young senator’s agent muttered. “My master’s father stood for it three times and bought half the Velabrum doing it. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
 
 Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
 

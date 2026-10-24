@@ -21,7 +21,9 @@ Staff traded omens like recipes.
 
 Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. “Wouldn’t touch the grain,” he said. “When they won’t eat, nothing big gets done that day. Ask any priest.” Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
 
-“Capys founded Capua,” she said, pleased with the name. “In the old days. And Trojan blood is the Julii, everyone knows they come down from Aeneas. Balbus swears the find is real.”
+“Who’s Capys?” said Dama.
+
+“Founded Capua, in the old days,” she said, pleased to have the name and a boy who lacked it. “And Trojan blood is the Julii. Even you know they come down from Aeneas. Balbus swears the find is real.”
 
 “Balbus keeps Caesar’s books,” said Pasiphile. “He never needs to lie about money. That is why half the Forum believes him.”
 

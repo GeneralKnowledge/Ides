@@ -30,7 +30,7 @@ Antony came on foot the last stretch, body first, cloak open enough to show he w
 
 Decimus felt the hit. He had not known Antony’s count was that close. He kept his face officer-flat. “Hirtius will come.”
 
-“Hirtius will come when he can sit a horse,” Antony said. “Pansa will come when he has taught enough farm boys which end of a pilum goes forward. Neither of them is consul until the Kalends, and neither of them is here. Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
+“I have drunk with Hirtius,” Antony said. “He will come when his physician lets him, and write it up beautifully after. Pansa will come when he has finished counting. Neither of them is consul until the Kalends, and neither of them is here. Until then you have hinges and hope, and hope won’t fill a granary.” He glanced once at Mutina’s wall. “You killed a man who trusted your cheer. Do not ask me to trust your legality.”
 
 Decimus’s throat tightened, the old key turning. He didn’t climb down. Climbing down would’ve looked like confession.
 
@@ -74,7 +74,7 @@ Overhear risk: Curia
 
 Cicero argued Octavian into usefulness the way he argued clauses into laws. A sweating senator on the end bench, near the doors, feared Antony more than boys. Octavian stood on the threshold among the men who listened through the open doors: not a senator, so not inside, and present enough to be aimed.
 
-The consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones. Octavian had read his last book of the Gallic war at Apollonia and privately thought it better than the dead man’s. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Cicero called them the Senate’s swords. Cicero wanted a third blade to go with them.
+The consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones. Octavian had read his last book of the Gallic war at Apollonia and privately thought it better than the dead man’s. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Cicero had two consuls and wanted a third blade to go with them.
 
 Cicero read the motion in his court voice. Thanks to the Martian legion and the Fourth, “who left the consul Antony and came over to the Senate and to Gaius Caesar.” Thanks to the veterans “whom Gaius Caesar raised at his own cost.” And for Gaius Caesar himself a praetor’s command and a seat among the fathers, so that the legions he already had would at last belong to a law. Octavian heard *at his own cost* and thought of the actual cost: five hundred denarii a man through the Campanian colonies in the autumn, Philippus’s face when the chests went out, Antony at Brundisium offering his own soldiers a hundred apiece and hearing the ranks laugh. The Senate was thanking him for a crime it had decided to need.
 

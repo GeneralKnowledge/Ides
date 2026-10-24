@@ -1,0 +1,16 @@
+# Exposition in dialogue (2026-10-24)
+
+Revision under `writing/HUMAN_VOICE_RULES.md` §1. Finding 1 of “Book 1: genre pitfalls check” (https://claude.ai/artifact/WyaLVNcWYX3AW2vrWUPV41). Reuben’s steer: speakers must not brief listeners on what they know, but the no-explainer rule went too far, so a reminder or a pointed question (“How the hell did you get X province?”) is allowed. Rule added to `writing/STYLE_GLOSSARY.md`, “Exposition: reminders allowed, briefings banned”.
+
+Each change: where; what the reader meets; why it fails; smallest fix; side effects.
+
+1. **Ch 6, SC-13 (agent on the consul list).** “Elected. Each to check the other. That was the consulship” is a civics lesson to a Forum crowd that votes. Fix: the agent’s master’s father stood three times and bought half the Velabrum doing it. Elections and their cost survive, now as grievance. No continuity effect.
+2. **Ch 7, SC-16 (Brutus and Cassius on Galba and Ligarius).** Each man recites to the other careers both have known for twenty years, and the narrator admits it (“Cassius left the rest to what Brutus already knew”). Fix: Brutus objects (“Why would Galba?”) and Cassius answers with the grudge; Ligarius becomes “you have watched him since the pardon”. The admission line is cut. Facts kept: Galba’s legion, his consulship grievance, Ligarius’s pardon.
+3. **Ch 11, SC-26 (washerwoman on Capys).** “Everyone knows they come down from Aeneas” is the As-you-know tell. Fix: Dama, a kitchen boy, asks “Who’s Capys?” and she enjoys knowing more than he does. Same facts, now with a listener who lacks them.
+4. **Ch 20, SC-52 (Decimus tells Brutus his province).** Fix, using Reuben’s device: “How in Hades do two men stab the giver and keep the gift? Macedonia and Syria, still yours on his paper.” The provinces reach the reader as a jab. Continuity note unchanged.
+5. **Ch 23, SC-64 (Sosia on Antium).** “A day down the coast” is geography for the reader. Fix: “Where else does a praetor sit when he can’t walk the Forum?” Continuity note trimmed to match.
+6. **Ch 24, SC-68a (Brutus explains the corn commission to Cicero).** Cicero knows the decree better than Brutus. Fix: Brutus asks him how it reads, then names it bitterly himself (“Corn factors with a praetor’s ring”). Asia and Sicily still arrive in the next paragraph, in Cicero’s own list of the commissions.
+7. **Ch 26 SC-70, Ch 27 SC-73 and SC-74 (Hirtius and Pansa, three introductions).** Ch 26 stays the one full introduction; its listener genuinely asks “Which army?”. In Ch 27 Antony’s repeat of the same traits (horse, farm boys) becomes his own knowledge of them (“I have drunk with Hirtius … write it up beautifully after”). In SC-74 the third “swords” echo is cut (“Cicero had two consuls and wanted a third blade”). Octavian’s sight of them is kept as showing.
+8. **Ch 30, SC-84 (Lepidus reads the law to its co-drafters).** Fix: one sentence makes the redundancy a trait. They had haggled it by letter for a month, and he reads it anyway because nothing is agreed until he hears it in his own voice. Antony’s “board of three” jab is kept as leverage.
+
+Not changed: Ch 23’s papers line (the Puteoli man asks, so the listener does not know). Ch 14–19 gold spine untouched.
