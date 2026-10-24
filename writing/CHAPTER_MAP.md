@@ -72,8 +72,8 @@ Maps scene cards → suggested chapter groupings. Titles are working labels only
 |----|-------------|--------------|--------------|
 | 28 | SC-80, SC-81 | F3, rumour | Mutina battles; poison rumour only |
 | 29 | SC-82, SC-83 | DEC, OCT | Isolation; consulship |
-| 30 | SC-84, SC-85 | OCT, F2/F4/F1 | Triumvirate; **proscriptions** |
-| 31 | SC-86 | CIC | **Cicero death** |
+| 30 | SC-84, SC-85, SC-85a–d | OCT, F2/F4/F1 | Triumvirate; **proscriptions**; Julia’s door; Seius hides Gavius; Atticus spared |
+| 31 | SC-86, SC-86b, SC-86c | CIC, F3, F1 | **Cicero death**; the brothers’ song; Hortensia |
 | 32 | SC-87, SC-88 | CAS, BRU | Extraction; liberty brand crack |
 | 33 | SC-90, SC-91 (SC-89 folded) | ANT/F3, CAS | Philippi I; **Cassius info-death**; OPEN-0 echo only |
 | 34 | SC-92–95 (SC-94 in SC-92 breath) | BRU/OCT, ANT, report | Philippi II ordeal; lean SERIES-1 hooks |

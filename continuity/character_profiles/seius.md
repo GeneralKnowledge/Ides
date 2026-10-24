@@ -38,6 +38,7 @@ Cancelling near dinners; rehearsing congratulations; buying oil so hands look bu
 | Pressure | 10 | Soft-hour almost |
 | Choice | 23 | Petition refuse |
 | Cost | 23, 30 | Block story; list absence shame |
+| Turn | 30 | Doesn’t tell Gavius he is listed; lets him in that night (“close it behind me”); hides him behind the oil jars; frees Dromo; pledges the Sabine farm to Hordeonius; talks Gavius through the Capena gate. Brave once, not a hero |
 
 ## Behavioral tells
 Stomach cue; clasp hard then soft; locks checked as theology.

@@ -28,7 +28,7 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **A. Visellius Ralla** | F4 / SIDE-1 | Dead debtor; tablets; ash later | Solve Ides |
 | **C. Septimius Bucco** | Antonian cash | Bribe courier mark | Mastermind |
 | **L. Statius Paullus** | Basilus orbit | Soften-debt ask | Replace Cassius |
-| **Medullina** | Subura / F1 | Wants senator names; gets chickens | Omniscient broker |
+| **Medullina** | Subura / F1 | Wants senator names; gets chickens; in Ch 30 buys and sells spellings at the chalk wall; Ch 31 Nysa gives her Hortensia’s name free | Omniscient broker |
 | **Sosia** | F4 collector | Impatient; mutters philosophers | Steal F4 humour |
 | **Glaucia** | Trebonius | Misreads shouts | Ops genius |
 | **Hilarus** | Servilia | Soft-power room steward | Explain Antium thesis |
@@ -41,9 +41,10 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Sphaerus** | Hirtius/Cicero | Polite useless notes | Force plot |
 | **Quintus the fuller** | Funeral crowd | Crowd not abstraction | Comic only |
 | **Ammonius** | CLEO | Useful irritant; books/Cicero gossip | Ides plotter |
-| **Festus** | Proscription | Denounces for freedom rumour | Moral lesson furniture only |
+| **Festus** | Proscription | Esquiline slave who informs on his master and is freed (Ch 30); the example Seia Prima names for Dromo | Moral lesson furniture only |
 | **Amyntas** | F5 optional | Eastern face if used | Regular POV without assignment |
-| **Gavius** (neighbour) | F2 Ch 23 | Petition under sleeve | Become series villain |
+| **Gavius** (neighbour) | F2 Ch 23, 30 | Petition under sleeve; listed; hidden by Seius, sent to Sextus’s boats | Become series villain |
+| **Dromo** | F2 Ch 30 | Seius’s doorkeeper; freed, leaves the bar by the door | Informer |
 
 ---
 
