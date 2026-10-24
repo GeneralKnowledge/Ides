@@ -71,4 +71,4 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Statilius** (real; Epicurean) | Ch 7 (seen by Antony), 10 POV, 23 POV, 36 | Sounded out by Brutus and refuses (Plut. *Brut.* 12); keeps off the petition; letter to Brutus “a friend, not a cause”; the torch at Philippi (*Brut.* 51) | Convert to the cause by speech |
 | **Q. Fufius Calenus** (real; cos. 47) | Ch 32 POV | Antony’s man in the Senate; hides Varro at the villa where Antony stops (App. *BC* 4.47) | Turn against Antony |
 | **M. Terentius Varro** (real) | Ch 32 | 73; Casinum taken by Antony (*Phil.* 2.103–105); writes on the Latin language in the accounts room | Speeches about the Republic |
-| **Q. Ligarius** (real) | Ch 3 (absent), 7, 8, 13 | Pardoned on Cicero’s plea (*Pro Lig.*; Plut. *Cic.* 39) | POV in Ch 3 |
+| **Q. Ligarius** (real) | Ch 3 (absent), 7, 8, 13 (sickbed, Plut. *Brut.* 11) | Pardoned on Cicero’s plea (*Pro Lig.*; Plut. *Cic.* 39) | POV in Ch 3 |

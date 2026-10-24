@@ -54,9 +54,9 @@ Antony’s finger stayed on the blank. “Say it,” he said, not loud. “Or st
 
 A lesser name sat two lines up, a man Octavian half-owed from Apollonia’s edge. Useful. Not loved. Killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
 
-Saving the orator would have cost a different war, one with Antony still armed and the coalition already smelling of unfinished business. Octavian kept that cost. Then he spent it aloud.
+Saving the orator would have cost a different war, one with Antony still armed and the coalition already smelling of unfinished business. Octavian put the stylus down.
 
-“Cicero stays,” he said. Voice thin, audible, irreversible. He did not dress it as law. He set his seal ring on the tablet’s edge, metal clicking wood, so the assent had a body in the room, not only silence. “We do not trade him for a quieter cousin.”
+“Cicero stays on the list,” he said. Voice thin, audible, irreversible. He did not dress it as law. He set his seal ring on the tablet’s edge beside the name, metal clicking wood. “We do not trade him for a quieter cousin.”
 
 Lepidus cleared his throat. “He still has friends who write.”
 
@@ -394,7 +394,7 @@ Antony arrived at dusk with thirty horse and a dozen friends and a noise like a 
 
 “Calenus,” Antony said. “You look like a man who has been reading. Stop it. It’s bad for you.”
 
-They dined in the long room. Antony lay at the top and talked, which was what Antony did at dinner, about the colonies and the veterans and how much land Italy had and how much it would have to find. He talked about the lists the way a man talks about the weather on a campaign, as a thing that was bad and had to be got through. He named names. Once he named Cicero, and the table went quiet for a breath, and Antony laughed and said the old man had made a better end than anyone expected, and drank, and the talk went on.
+They dined in the long room. Antony lay at the top and talked, which was what Antony did at dinner, about the colonies and the veterans and how much land Italy had and how much it would have to find. He talked about the lists the way a man talks about the weather on a campaign, as a thing that was bad and had to be got through. He named names. Once he named Cicero, and the table went quiet for a breath, and Antony laughed, and drank, and the talk went on.
 
 Calenus watched the slaves. He could not help it. The cook’s boy brought the fish. The steward poured. The old porter, who should have been at the door, stood at the back of the room by the curtain, as he sometimes did when there were guests, to see the faces. Calenus watched each of them come near Antony, near enough to bend and say a word in his ear. Ten thousand denarii and freedom and a master’s rank. A word in the ear.
 
@@ -443,6 +443,6 @@ Calenus did remember, now. He went out and shut the door on the draught, and wal
 - **SC-85d (Calenus, mid-Dec 43):** Antony stops at the villa on a two-day ride south; the good Falernian (Varro: “he drank my cellar at Casinum”); Antony names Varro on the list, “Old men. They don’t like being reminded”; Varro three walls away writing on the Latin language. The porter’s night round passes the door. Morning: Antony gone; “It was mine.” The steward counts sixty heaps of silver. No slave informs (App. *BC* 4.47).
 - **Plants → pays:** Ch 33 death bought by the assent; Ch 36 Hordeonius’s *Clean*; Ch 25 Fulvia’s woman; Ch 34 courier; Sextus (FS11); Calenus’s plate (collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
-- **T12:** at “Cicero stays”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
+- **T12:** at “Cicero stays on the list”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
 - **Must not (T11):** no census of the dead; Calenus is not a hero (he is Antony’s friend throughout); Varro’s later fate not narrated.
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added.
