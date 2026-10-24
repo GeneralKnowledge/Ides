@@ -98,6 +98,8 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 34 |
 | After | Antony’s cloak over Brutus; Hortensius sent to die at Gaius’s grave (Plut. *Ant.* 22) | H | Ch 34 SC-93 (T8) |
 | After | Division of the world; land promises | H | Ch 34; sequel hooks |
+| Winter 42–41 | Octavian back from Brundisium, ill; rumoured dead; crowds at the Capena gate. Nysa reports to his household as Julia Nysa | H (return, illness) / F | Ch 34 SC-95a (T1) |
+| Spring 41 | Veteran assignments in the eighteen cities, Capua among them (App. *BC* 4.3); Laberius’s plot surveyed over a farmer’s beans | H (decree) / F | Ch 34 SC-95b (T4); book’s last scene |
 
 ---
 

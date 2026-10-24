@@ -37,7 +37,7 @@ Brazier talk; counting left-hand men; smelling horse-lines; not searching desert
 | Setup | 3 | Capua prayer; mopping |
 | Pressure | 13, 19 | Powder; funeral Capua named; fist on air not torch; liberty≈Capua joke |
 | Cost | 24, 28 | Veterans listen; Forum Gallorum: spares Rufrius in the reeds, Gaius sees; Gaius dies at Mutina; mud echo |
-| End | 31, 33–34 | Plancus’s triumph, the brothers’ song; refuses the tomb head-hunt Vibius joins; Philippi field |
+| End | 31, 33–34 | Plancus’s triumph, the brothers’ song; refuses the tomb head-hunt Vibius joins; Philippi field; Ch 34 SC-95b (spring 41): the twine surveyed through Gnaeus Aulius’s beans, the scar-lipped veteran’s vine, steps over the twine toward the farmer (book’s last scene) |
 
 ## Behavioral tells
 Fist on air not wood; notes who takes torches; fight for man on left.  
