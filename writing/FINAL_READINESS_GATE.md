@@ -16,7 +16,7 @@ The tracked DOCX must be a faithful rendering of the current manuscript, not mer
 
 **Evidence:** `python tools/export_book1_docx.py --check` prints `OK`. The check rebuilds the reading text from `drafts/book1/` and fails unless:
 
-- all 34 chapter headings appear once, in order;
+- all 34 chapter headings, and any insert chapters such as 25a, appear once, in order;
 - every reading paragraph is present exactly once, in sequence, with italics intact (nothing omitted, duplicated or reordered);
 - no card fields, scene ids, lock tags, editor notes or stray markdown reach the reader;
 - the copy's source digest matches the manuscript, so it is not stale;
@@ -60,8 +60,8 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 
 | Gate | State | Evidence |
 |------|-------|----------|
-| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `ffdd9d7`, digest `ba985021c92337a0` (2026-10-24, cleanup C: notes only; reading text identical to `35e2e8c`, 1975 paragraphs) |
-| 2. Mechanical copyedit | Re-opened for new material | Prose written after 2026-10-22 (prologue, T9 scenes, Ch 1/3/30 reworks) has not had the mechanical pass; schedule a top-up after the development phase. Earlier pass: one full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two open author questions in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
+| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `bb92966`, digest `50c5183717e54773` (2026-10-24, after T8: prologue, Ch 1–34 and insert Ch 25a, 2463 reading paragraphs, ~79k words) |
+| 2. Mechanical copyedit | Re-opened for new material | Prose written after 2026-10-22 (prologue; Ch 1/3/30 reworks; T9, T11, T12, S3, S4, S5 and T8 scenes, including Ch 25a; the exposition and Roman-idiom passes) has not had the mechanical pass; schedule a top-up after the development phase. Earlier pass: one full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two open author questions in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
 | 3. Independent reader | Not started | |
 
 *End final readiness gate.*
