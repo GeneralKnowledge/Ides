@@ -26,7 +26,81 @@ At Eporedia, at the foot of the Alps, in the last week of May, Segulius Labeo ro
 
 That night Decimus wrote it to Cicero exactly as he had heard it, with Labeo’s name, because a man in his position could not afford to soften news for an old man’s feelings. He wrote that the veterans were talking too, that they believed Cicero meant them harm, and that the boy’s soldiers were not a mood to be joked with. He asked again for money. He did not write what he thought, which was that the best tongue in Rome had found the one word in Latin that could not be taken back, and spent it at dinner.
 
-Plancus came after all, in June, when Antony had already walked into Lepidus’s camp. He brought legions and compliments and pitched beside Decimus under the Alps at Cularo, and for a summer the two armies ate the same valley bare and wrote the same letters to Rome asking for the boy to be sent north. The boy did not come. In August letters began arriving for Plancus from Pollio in Spain, under seals Decimus was not shown. In September Plancus took his legions over to Antony with the same apologetic face he had worn arriving, and Decimus’s own recruits, raw and unpaid, began walking off by the hundred.
+Plancus came after all, in June, when Antony had already walked into Lepidus’s camp and there was no longer anything between Plancus and Antony but a river and a decision.
+
+Decimus brought his army over the passes to meet him at Cularo, a town of the Allobroges where the Isara came down green out of the mountains. Plancus rode out to greet him a mile from the walls with a mounted escort in clean cloaks. He smelled, as his couriers smelled, of an Eastern scent that cost more than a horse. He embraced Decimus from the saddle and said that the Republic had two arms again.
+
+“And one head,” he said, laughing, “and I’ll let you decide whose.”
+
+They camped side by side on the plain below the town, Plancus’s veterans on the higher ground by the river, Decimus’s army on the lower. It was a strange army to bring to a reunion. Legions of recruits from the levy, boys who had learned to dig at Mutina and little else, and a few cohorts of veterans who had stayed with Decimus through the siege because they had nowhere else to go. Plancus had more, and the best of them were old ones from Caesar’s Gaul. Decimus walked Plancus’s lines on the second day, invited, and counted without seeming to count, as he had walked Caesar’s lines in Gaul for ten years. Plancus’s men were well fed. They looked at Decimus with interest and without warmth.
+
+They wrote to Rome together. That was the work of June: letters. Plancus wrote beautifully. Decimus had read his letters to Cicero over the winter and thought them the best prose in the army and the least committed. Now he watched them being made. Plancus dictated walking up and down the tent with a cup in his hand, pausing for the right word, sending the secretary back two lines to change *our* to *the Republic’s*. He wrote that he and Decimus were of one mind. He wrote that Antony and Lepidus together were too strong to be attacked by the two of them alone, and that they would hold the line of the Isara and wait. He wrote, every week, that the young Caesar must be sent north with his legions, and the Senate must make him come.
+
+“He won’t come,” Decimus said, the first time.
+
+“Then the Senate will look foolish, and we will look patient.” Plancus sealed the letter. “Patience is very underrated in a general.”
+
+“So is arriving.”
+
+Plancus laughed, and poured, and changed the subject to his brother Plotius in Rome, who wrote him the gossip, and was a fool about money, and wore too much of the same scent.
+
+Decimus wrote his own letters too, shorter. He asked for pay. He asked for grain. He wrote to Cicero that the recruits were good boys and would be soldiers by the autumn if anybody fed them till then. He wrote, in one letter he did not send, that he had spent his life being trusted by men he was not sure of, and that he had never before been on the other side of it.
+
+The valley went brown. Two armies could eat a valley in a summer, and they did. The foragers went further every week, into the hills, and came back with less, and with stories about Antony’s cavalry seen across the river. Across the river, a day’s march south, Antony and Lepidus sat together in one camp with more legions than the two of them could count, and did not attack, and did not need to.
+
+In the second week of August a rider came up from the south with the news from Rome, and Plancus read it first, because Plancus’s riders were faster.
+
+He came to Decimus’s tent with the tablet in his hand and his face arranged. Decimus had seen that arrangement on a hundred faces in Caesar’s atrium, the face of a man bringing news he had already decided how to feel about.
+
+“The boy is consul,” Plancus said.
+
+Decimus took the tablet. Nineteen years old. Elected with his legions camped on the Field of Mars. His colleague a cousin, Pedius, an old man who would do what he was told. And the first law of the new consuls: a court to try the murderers of Caesar. It had sat already. It had condemned them in a day, in their absence, every man of the Ides, with no one to speak for them.
+
+His own name was there. He read it twice.
+
+“Interdicted from fire and water,” Plancus said gently. “It won’t mean anything up here, of course. It’s Rome. It’s a law.”
+
+“Laws are what we told ourselves we were for.”
+
+“We told ourselves a great many things.” Plancus took the tablet back, and Decimus let him. “I am still your colleague, Decimus. Nothing in Rome changes the valley.”
+
+Nothing in Rome changed the valley. The valley changed on its own. After the news the recruits began talking in the evenings in a way they had not talked before. The veterans in Plancus’s lines stopped looking at Decimus with interest. And letters began coming for Plancus from the west, from Pollio in Spain, who had three legions and a habit of writing to everyone and committing to no one, under seals Decimus was not shown.
+
+He did not ask to be shown them. He thought about it for three days. He was very good at reading men by what they wanted, and he knew what asking would buy: a laugh, a cup, a charming account of what was in the letters, and a lie about the rest. And it would tell Plancus that he knew. Better to let Plancus think he was still trusted. There was a little time in that.
+
+On the fourth day he asked anyway, at dinner, because he found he could not bear the cup and the laugh one more evening without it.
+
+“Pollio,” he said. “What does he want?”
+
+Plancus did not pretend not to understand. That was something. He set down his cup and looked at it.
+
+“He wants what everyone wants,” he said. “He wants to be on the side that is still standing in the spring. He thinks there will be peace between Antony and the boy. He thinks the men who were in the Curia that morning are the price of it.” He looked up. “I have not answered him.”
+
+“You haven’t answered me either.”
+
+“No,” said Plancus. “I haven’t.”
+
+They finished dinner. Plancus was charming for the rest of it, and told a long story about a Gallic chieftain and a goose, and Decimus laughed in the right places, and they walked out of the tent together into the warm dark and stood for a moment looking at the river.
+
+“If I go,” Plancus said, quietly, as if to the river, “I will send you word first. I owe you that.”
+
+“You owe me your legions.”
+
+“I owe the Republic my legions,” said Plancus. “I am trying to work out where it is.”
+
+He did not send word first. Decimus woke one morning in September before light because his horse was restless, and went up on the bank of the camp ditch with his cloak over his shoulders, and saw that the higher ground by the river was moving. Plancus’s camp was being struck. Not in haste. Tents coming down in order, cohort by cohort, wagons being loaded, the eagle of the first legion already out in front of its column on the road toward the bridge Plancus’s engineers had built across the Isara in the spring and never yet used.
+
+Decimus stood and watched it. He did not wake his staff. There was nothing his staff could do, and he wanted to see it alone, the way he had wanted to be alone on the wall-walk at Mutina in the winter.
+
+The columns crossed the bridge in the grey light, one after another, the old Gallic legions first, then the new ones, and went away south down the far bank toward Antony and Lepidus. It took most of the morning. At the end Plancus himself rode across, with his clean escort, and halfway over the bridge he reined in and turned in the saddle and looked back at the camp on the low ground. Decimus could not see his face at that distance. He could see that he raised a hand.
+
+Decimus did not raise his.
+
+A rider came up from the bridge an hour later with a letter, beautifully written, sealed with Plancus’s seal, saying that circumstances had compelled him and that he remained Decimus’s friend. Decimus read it and gave it to the older aide to file with the others. He gave orders for a count of rations. He went to his tent and sat down and found that his hands were steady, and was mildly surprised.
+
+By noon the recruits had begun to go. Not all at once. Not with noise. A tent-group here, a century there, walking out of the gate with their shields on their backs as if they had been sent on fatigues, and not coming back. Some went south over the bridge after Plancus. Some went east toward the boy, whose name was on the law that had condemned their general. Some just went home. The centurions did not stop them. The centurions were going too.
+
+Decimus watched from the bank of the ditch. He counted them as they went, from habit, as he had counted cohorts at Massilia and hinges at Mutina, and when the number became large enough that it stopped being a number he stopped counting and went to look at the maps.
 
 Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another counted betrayals and got a higher number. A third asked whether they should wait for Cassius from the East.
 
@@ -107,7 +181,7 @@ By autumn a courier brought Decimus’s end as three incompatible stories. Ditch
 ---
 
 ## Continuity
-- **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come (joins in June, deserts in September; time jumps in the prose); a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech.
+- **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come. **Cularo (S3):** June, Decimus brings his recruit legions and a few veteran cohorts over the passes to Plancus at Cularo on the Isara; Plancus’s scent; side-by-side camps (Plancus on the higher ground); joint letters to Rome (“one mind”; hold the Isara; the boy must be sent north; he doesn’t come); Plancus’s brother Plotius in Rome, same scent (pays Ch 31 SC-86b). Mid-August: the boy consul with Pedius; the Pedian court condemns the men of the Ides in absence, Decimus among them (fire and water). Pollio’s sealed letters for Plancus; Decimus asks at dinner; Plancus: Pollio thinks the Curia men are the price of peace; “I have not answered him.” September dawn: Plancus’s legions cross his Isara bridge to Antony and Lepidus; Plancus raises a hand halfway over, Decimus doesn’t; a courteous letter after; the recruits walk off, some to Plancus, some to the boy, some home; Decimus stops counting. a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech.
 - **SC-83:** the consulship (Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse; consul’s chair wants forty-two years, he has nineteen; a centurion’s sword on the Curia steps (“If you will not make him consul, this will”, Suet. *Aug.* 26) reported to the pay line; the fasces as twelve lictors whose rods move the street. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death (Sept 43) reaches him after the fasces, as the push to Bononia; Bononia comes as a two-seal invitation to the river island.
 - **Plants → pays:** Ch 26 aide on Lepidus; the Bononia table (Ch 30).
 - **T12:** May 43, Labeo tells the saying at dinner in Octavian’s camp; Octavian: “no intention of being lifted. In either sense”; the last verb won’t come out as only a joke. Late May, Eporedia: Labeo repeats saying and answer to Decimus, who writes it to Cicero with Labeo’s name, the veterans’ talk, and another request for money (*Fam.* 11.20, 24 May 43).
