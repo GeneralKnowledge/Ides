@@ -116,7 +116,7 @@ Decimus heard it as one more door that had closed while he counted hinges. “Th
 
 They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, without speech, of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
 
-On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search. Searches taught the road your remaining number.
+On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search.
 
 Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly. Decimus’s remaining aide whispered, “Lepidus’s smile.”
 
