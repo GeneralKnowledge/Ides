@@ -31,6 +31,7 @@ text of the reading page it should.
 | `test/` | Duplex calibration sheet, a test signature (imposed) and the same pages in reading order: print these first |
 | `signatures/sigNN_pdf-pages_AAA-BBB.pdf` | One imposed A4 PDF per signature |
 | `Ides_Book1_imposed_A4_all-signatures.pdf` | All signatures, one file |
+| `single-sided/sigNN_…_side-A_fronts.pdf`, `…_side-B_backs.pdf` | Per signature, fronts then backs, for printers without duplex |
 | `Ides_Book1_printing-and-binding-instructions.pdf` | Printer settings, folding, sewing, trimming |
 | `Ides_Book1_sewing-jig_A4.pdf` | Punching jig: kettle and tape stations for sewing on three tapes |
 | `Ides_Book1_specification.pdf`, `spec.json` | Trim, pages, signatures, type, margins, thickness and board estimates |
