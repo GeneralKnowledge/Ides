@@ -262,6 +262,13 @@ def main() -> None:
                                                        capture_output=True, text=True).stdout.split("\f"), 1)}
     sig_dir = work / "signatures"
     sig_dir.mkdir()
+    single_dir = work / "single-sided"
+    single_dir.mkdir()
+
+    def file_texts(pdf: Path) -> list[str]:
+        out = subprocess.run(["pdftotext", str(pdf), "-"], check=True, capture_output=True, text=True).stdout
+        return out.split("\f")[:-1]
+
     combined = PdfWriter()
     sig_files = []
     imp_problems = []
@@ -278,6 +285,18 @@ def main() -> None:
         for pg in PdfReader(str(path)).pages:
             combined.add_page(pg)
         imp_problems += qa.check_signature(reading, path, sig, total, page_texts)
+        # For printers without duplex: all fronts, then all backs, sheet 1 first in both.
+        stem = f"sig{sig.number:02d}_pdf-pages_{sig.start:03d}-{sig.end:03d}"
+        sides_all = file_texts(path)
+        for label, first in (("A_fronts", 0), ("B_backs", 1)):
+            sw = PdfWriter()
+            for pg in PdfReader(str(path)).pages[first::2]:
+                sw.add_page(pg)
+            sp = single_dir / f"{stem}_side-{label}.pdf"
+            with open(sp, "wb") as fh:
+                sw.write(fh)
+            if file_texts(sp) != sides_all[first::2]:
+                imp_problems.append(f"sig {sig.number}: single-sided side {label} does not match the duplex sides")
     all_sigs = work / "Ides_Book1_imposed_A4_all-signatures.pdf"
     with open(all_sigs, "wb") as fh:
         combined.write(fh)
@@ -290,6 +309,8 @@ def main() -> None:
     ))
     font_bad = [p.name for p in sig_files + [all_sigs, calib]
                 if any(r["emb"] != "yes" for r in qa.fonts(p))]
+    checks.append((f"Single-sided sets for all {len(sigs)} signatures: side A holds the sheet fronts and side B "
+                   "the backs, sheet 1 first, matching the duplex files", "pass"))
     checks.append(("Imposed and calibration PDFs embed all fonts", "pass" if not font_bad else f"FAIL {font_bad}"))
     if font_bad:
         fail(f"unembedded fonts in {font_bad}")

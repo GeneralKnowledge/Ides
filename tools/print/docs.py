@@ -244,6 +244,7 @@ def instructions(i: Info) -> str:
     [t(f"test/TEST_reading-order_pdf-pages_{i.test.start:03d}-{i.test.end:03d}.pdf"), "The same 16 pages in reading order, to compare with the folded test signature."],
     [t("signatures/sigNN_pdf-pages_AAA-BBB.pdf"), t(f"One file per signature, {len(i.sigs)} files. Print one at a time.")],
     [t("Ides_Book1_imposed_A4_all-signatures.pdf"), "All signatures in one file, in order, for printing in a single run if your printer is reliable."],
+    [t("single-sided/sigNN_…_side-A_fronts.pdf and …_side-B_backs.pdf"), "For printers without two-sided printing: print side A, put the sheets back in, print side B. See section 2a."],
     ["Spec, report and these instructions", "Book specification (sizes, estimates), proofing report (checks and open questions)."],
 ], "(auto, 1fr)", header=True)}
 "PDF pages" means page numbers in the reading-order PDF, counting the half-title as 1. The printed folios differ: the Prologue is printed page 1, which is PDF page {i.main_start}.
@@ -259,6 +260,13 @@ def instructions(i: Info) -> str:
 - *Two-sided: flip on short edge.* (Some drivers call it “short-edge binding” or “Tablet”.)
 - Black or greyscale, plain paper, normal or best quality. Disable “toner save”.
 - Each signature PDF has 2 pages per A4 sheet: sheet 1 front, sheet 1 back, sheet 2 front, and so on. Print the whole file duplex.
+
+== 2a. Printing without duplex
+The `single-sided/` folder splits each signature into two files: *side A* (the fronts of sheets 1, 2, 3, 4) and *side B* (their backs, in the same order). They hold exactly the pages you get by printing a signature file’s odd pages, then its even pages.
++ Print side A, one-sided, at 100 %, landscape.
++ Take the printed sheets and put them back in the tray so the blank side will be printed and the sheets keep the same orientation as a short-edge flip: turn the stack over from left to right, so the printed side faces the opposite way and the same short edge leads. Mark a test sheet with a pencil arrow first to learn your printer’s habit.
++ Make sure sheet 1 will be printed first. If your printer delivers the A sheets in reverse order, either reverse the stack or tick “Reverse order” in the print dialog for side B.
++ Print side B. Check the label in the margin strip of each sheet: the signature and sheet number on the front and back must match, and BACK must read the right way up behind FRONT.
 
 == 3. Calibration and test signature
 + Print `TEST_duplex-calibration-sheet_A4.pdf` duplex.
@@ -445,7 +453,8 @@ Start here:
   test/                                              print these first
 Then:
   {i.reading_name}   master proof, reading order, 129 x 198 mm
-  signatures/                                        one imposed A4 PDF per signature
+  signatures/                                        one imposed A4 PDF per signature (duplex)
+  single-sided/                                      side A (fronts) and side B (backs) per signature
   Ides_Book1_imposed_A4_all-signatures.pdf           all signatures in one file
   Ides_Book1_specification.pdf                       sizes, margins, estimates
   Ides_Book1_sewing-jig_A4.pdf                       punching jig for sewing on three tapes
