@@ -23,8 +23,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from docx import Document
-from docx.shared import Pt
-from docx.enum.text import WD_LINE_SPACING
+from docx.enum.section import WD_SECTION
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Inches, Pt, RGBColor
 
 ROOT = Path(__file__).resolve().parents[1]
 DRAFTS = ROOT / "drafts" / "book1"
@@ -241,16 +244,46 @@ def parse_chapter(path: Path) -> tuple[int, str, list[tuple[str, str]]]:
     return num, title, blocks
 
 
-def set_normal_style(doc: Document) -> None:
-    style = doc.styles["Normal"]
-    style.font.name = "Georgia"
-    style.font.size = Pt(11)
-    pf = style.paragraph_format
-    pf.space_after = Pt(8)
-    pf.line_spacing_rule = WD_LINE_SPACING.SINGLE
-
-
 Runs = list[tuple[str, bool]]  # (text, italic)
+
+# Book layout: 6 x 9 in trim, Georgia, indented justified prose, each act and
+# chapter on a fresh page. Paragraph text is what --check compares; layout is not.
+FONT = "Georgia"
+INK = RGBColor(0x22, 0x22, 0x22)
+
+
+def setup_document(doc: Document) -> None:
+    sec = doc.sections[0]
+    sec.page_width, sec.page_height = Inches(6), Inches(9)
+    sec.top_margin = sec.bottom_margin = Inches(0.8)
+    sec.left_margin = sec.right_margin = Inches(0.75)
+
+    normal = doc.styles["Normal"]
+    normal.font.name = FONT
+    normal.font.size = Pt(10.5)
+    normal.font.color.rgb = INK
+    normal.element.rPr.rFonts.set(qn("w:eastAsia"), FONT)
+    pf = normal.paragraph_format
+    pf.space_before = pf.space_after = Pt(0)
+    pf.line_spacing = 1.2
+    pf.widow_control = True
+
+    # Headings keep Word's navigation pane useful: acts and back matter at
+    # level 1, chapter titles at level 2.
+    for name, size in (("Heading 1", 16), ("Heading 2", 15), ("Heading 3", 12)):
+        st = doc.styles[name]
+        st.font.name, st.font.size, st.font.bold = FONT, Pt(size), False
+        st.font.color.rgb = INK
+        for attr in ("w:asciiTheme", "w:hAnsiTheme", "w:eastAsiaTheme", "w:cstheme"):
+            st.element.rPr.rFonts.attrib.pop(qn(attr), None)
+        st.paragraph_format.space_before = st.paragraph_format.space_after = Pt(0)
+        st.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        st.paragraph_format.keep_with_next = True
+
+    # Let Word hyphenate so justified lines don't gape.
+    hyph = OxmlElement("w:autoHyphenation")
+    hyph.set(qn("w:val"), "true")
+    doc.settings.element.append(hyph)
 
 
 def to_runs(text: str) -> Runs:
@@ -266,50 +299,155 @@ def to_runs(text: str) -> Runs:
     return runs
 
 
-def add_para(doc: Document, text: str, *, space_before: int = 0) -> None:
-    p = doc.add_paragraph()
-    for chunk, italic in to_runs(text):
+def add_para(doc: Document, text: str, *, style: str | None = None, small_caps_words: int = 0):
+    """Paragraph from markdown text; optionally set the opening words in small caps."""
+    p = doc.add_paragraph(style=style)
+    for i, (chunk, italic) in enumerate(to_runs(text)):
+        if i == 0 and small_caps_words and not italic:
+            words = chunk.split(" ")
+            lead = " ".join(words[:small_caps_words])
+            rest = chunk[len(lead):]
+            p.add_run(lead).font.small_caps = True
+            if rest:
+                p.add_run(rest)
+            continue
         p.add_run(chunk).italic = italic or None
-    if space_before:
-        p.paragraph_format.space_before = Pt(space_before)
+    return p
 
 
-def parse_back_matter(path: Path) -> list[tuple[str, int]]:
-    """A back-matter page as (text, space_before): headings, bullets, prose; bold dropped."""
-    out: list[tuple[str, int]] = []
+def page_number_footer(section) -> None:
+    footer = section.footer
+    footer.is_linked_to_previous = False
+    p = footer.paragraphs[0]
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run()
+    run.font.size = Pt(9)
+    for tag, text in (("begin", None), (None, "PAGE"), ("end", None)):
+        if tag:
+            el = OxmlElement("w:fldChar")
+            el.set(qn("w:fldCharType"), tag)
+        else:
+            el = OxmlElement("w:instrText")
+            el.set(qn("xml:space"), "preserve")
+            el.text = text
+        run._r.append(el)
+    num = OxmlElement("w:pgNumType")
+    num.set(qn("w:start"), "1")
+    section._sectPr.append(num)
+
+
+def front_line(doc: Document, text: str, *, size: float = 10.5, before: float = 0,
+               after: float = 0, italic: bool = False, caps: bool = False, spacing: int = 0):
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.space_before, p.paragraph_format.space_after = Pt(before), Pt(after)
+    run = p.add_run(text)
+    run.font.size, run.italic, run.font.all_caps = Pt(size), italic or None, caps or None
+    if spacing:
+        sp = OxmlElement("w:spacing")
+        sp.set(qn("w:val"), str(spacing))
+        run._r.get_or_add_rPr().append(sp)
+    return p
+
+
+def page_break(doc: Document) -> None:
+    doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
+
+
+def parse_back_matter(path: Path) -> list[tuple[str, str]]:
+    """A back-matter page as (text, role): headings, bullets, prose; bold dropped."""
+    out: list[tuple[str, str]] = []
     for raw in path.read_text(encoding="utf-8").splitlines():
         line = raw.strip().replace("**", "")
         if not line:
             continue
         if line.startswith("# "):
-            out.append((line[2:].strip(), 18))
+            out.append((line[2:].strip(), "back_head"))
         elif line.startswith("## "):
-            out.append((line[3:].strip(), 14))
+            out.append((line[3:].strip(), "back_sub"))
         elif line.startswith("- "):
-            out.append(("• " + line[2:].strip(), 0))
+            out.append(("• " + line[2:].strip(), "back_item"))
         else:
-            out.append((line, 0))
+            out.append((line, "body"))
     return out
 
 
 def reading_paragraphs(
     chapters: list[tuple[int, str, list[tuple[str, str]]]],
     end_line: str,
-    back: list[tuple[str, int]] = [],
-) -> list[tuple[str, int]]:
-    """Everything after the title page, as (markdown text, space_before)."""
-    out: list[tuple[str, int]] = []
+    back: list[tuple[str, str]] = [],
+) -> list[tuple[str, str]]:
+    """Everything after the front matter, as (markdown text, role)."""
+    out: list[tuple[str, str]] = []
     act_by_start = {n: label for n, label in ACTS}
     for num, title, blocks in chapters:
         if num in act_by_start:
-            out.append((act_by_start[num], 18))
-        out.append(("Prologue" if num == 0 else f"Chapter {num}", 14))
-        out.append((title, 0))
-        for kind, text in blocks:
-            out.append((text, 10 if kind == "scene" else 0))
+            out.append((act_by_start[num], "act"))
+        out.append(("Prologue" if num == 0 else f"Chapter {num}", "chapter"))
+        out.append((title, "title"))
+        out.extend((text, kind) for kind, text in blocks)
     out.extend(back)
-    out.append((end_line, 18))
+    out.append((end_line, "end"))
     return out
+
+
+def render_reading(doc: Document, paras: list[tuple[str, str]]) -> None:
+    prev = "start"
+    for text, role in paras:
+        fresh_page = prev != "start" and role in ("act", "chapter", "back_head")
+        if role == "act":
+            p = add_para(doc, text, style="Heading 1")
+            p.paragraph_format.space_before = Pt(170)
+        elif role == "chapter":
+            p = add_para(doc, text)
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(90)
+            p.paragraph_format.space_after = Pt(6)
+            p.paragraph_format.keep_with_next = True
+            for r in p.runs:
+                r.font.all_caps, r.font.size = True, Pt(9.5)
+                letter = OxmlElement("w:spacing")
+                letter.set(qn("w:val"), "40")
+                r._r.get_or_add_rPr().append(letter)
+        elif role == "title":
+            p = add_para(doc, text, style="Heading 2")
+            p.paragraph_format.space_after = Pt(42)
+        elif role == "scene":
+            p = add_para(doc, text)
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(0 if prev == "title" else 22)
+            p.paragraph_format.space_after = Pt(10)
+            p.paragraph_format.keep_with_next = True
+            for r in p.runs:  # italics are reading text, so mark scenes with small caps
+                r.font.small_caps, r.font.size = True, Pt(10)
+        elif role == "back_head":
+            p = add_para(doc, text, style="Heading 1")
+            p.paragraph_format.space_before = Pt(60)
+            p.paragraph_format.space_after = Pt(24)
+        elif role == "back_sub":
+            p = add_para(doc, text, style="Heading 3")
+            p.paragraph_format.space_before = Pt(14)
+            p.paragraph_format.space_after = Pt(6)
+        elif role == "back_item":
+            p = add_para(doc, text)
+            p.paragraph_format.left_indent = Inches(0.2)
+            p.paragraph_format.first_line_indent = Inches(-0.2)
+            p.paragraph_format.space_after = Pt(2)
+        elif role == "end":
+            p = add_para(doc, text)
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(36)
+            for r in p.runs:
+                r.font.small_caps, r.font.size = True, Pt(9)
+        else:  # body prose: first paragraph of a run flush, opening words in small caps
+            opening = prev in ("title", "scene", "back_head", "back_sub", "back_item")
+            p = add_para(doc, text, small_caps_words=3 if prev == "title" else 0)
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            if not opening:
+                p.paragraph_format.first_line_indent = Inches(0.25)
+        if fresh_page:
+            p.paragraph_format.page_break_before = True
+        prev = role
 
 
 def build_doc(
@@ -321,23 +459,41 @@ def build_doc(
     source_note: str,
     end_line: str,
     stamp: dict[str, str],
-    back: list[tuple[str, int]] = [],
+    back: list[tuple[str, str]] = [],
 ) -> Document:
     doc = Document()
-    set_normal_style(doc)
+    setup_document(doc)
+    paras = reading_paragraphs(chapters, end_line, back)
 
-    add_para(doc, "The Ides of March")
-    add_para(doc, subtitle)
-    add_para(doc, banner)
-    add_para(doc, blurb + "\n" + source_note)
-    add_para(
-        doc,
-        "Not a publication text. Continuity notes and canon tags omitted.",
-    )
-    doc.add_paragraph("")
+    # Title page
+    front_line(doc, "The Ides of March", size=26, before=150, caps=True, spacing=30)
+    front_line(doc, "Book 1", size=13, before=18, italic=True)
+    front_line(doc, "Reuben Dennison", size=11, before=150, caps=True, spacing=20)
+    page_break(doc)
 
-    for text, space_before in reading_paragraphs(chapters, end_line, back):
-        add_para(doc, text, space_before=space_before)
+    # About this copy
+    front_line(doc, subtitle, size=11, before=40, after=14)
+    for line in (banner, *blurb.split("\n"), source_note,
+                 "Not a publication text. Continuity notes and canon tags omitted."):
+        front_line(doc, line, size=8.5, after=8, italic=True)
+    page_break(doc)
+
+    # Contents (entries never equal a reading paragraph, so --check can find the start)
+    front_line(doc, "Contents", size=13, before=20, after=18, caps=True, spacing=30)
+    for i, (text, role) in enumerate(paras):
+        if role == "act":
+            front_line(doc, text, size=9, before=10, after=3, caps=True, spacing=15)
+        elif role == "chapter":
+            title = re.sub(r"\*", "", paras[i + 1][0])
+            label = "Prologue: " if text == "Prologue" else text.replace("Chapter ", "") + ".  "
+            front_line(doc, label + title, size=9.5)
+        elif role == "back_head":
+            front_line(doc, text, size=9.5, before=8)
+
+    body = doc.add_section(WD_SECTION.NEW_PAGE)
+    doc.sections[0].footer.is_linked_to_previous = True
+    page_number_footer(body)
+    render_reading(doc, paras)
 
     cp = doc.core_properties
     cp.title = "The Ides of March: " + subtitle
@@ -380,7 +536,7 @@ def assert_reading_clean(chapters: list[tuple[int, str, list[tuple[str, str]]]])
         raise SystemExit("Craft metadata leaked into export body:\n  " + "\n  ".join(leaks[:20]))
 
 
-def full_back() -> list[tuple[str, int]]:
+def full_back() -> list[tuple[str, str]]:
     return [b for path in BACK_MATTER if path.exists() for b in parse_back_matter(path)]
 
 
@@ -450,8 +606,8 @@ def check(path: Path) -> int:
 
     expected = [to_runs(t) for t, _ in reading_paragraphs(chapters, FULL_END_LINE, full_back())]
     got = docx_paragraphs(path)
-    first = plain(expected[0])
-    start = next((i for i, r in enumerate(got) if plain(r) == first), 0)
+    lead = [plain(r) for r in expected[:3]]
+    start = next((i for i in range(len(got)) if [plain(r) for r in got[i : i + 3]] == lead), 0)
     front, body = got[:start], got[start:]
 
     if not any(digest in plain(r) for r in front):
