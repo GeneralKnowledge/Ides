@@ -38,3 +38,5 @@ Book 1 draft (Utica prologue + Ch 1–36) is in place; the Ch 1 dinner follows t
 ## Tools
 
 DOCX export (metadata stripped): `python tools/export_book1_docx.py` → writes under `exports/`. Only `exports/Ides_Book1_FULL_Ch01-36.docx` is tracked; it is stamped with its manuscript commit and source digest. `python tools/export_book1_docx.py --check` verifies it against the manuscript (also run in CI). See [`writing/FINAL_READINESS_GATE.md`](writing/FINAL_READINESS_GATE.md).
+
+Print interior for a hand-sewn hardcover (129 × 198 mm, imposed in 16-page A4 signatures): `python tools/print/build_book1_print.py` → writes under `build/print/` (not tracked). See [`tools/print/README.md`](tools/print/README.md).

@@ -16,3 +16,6 @@ exports/
 # Python
 __pycache__/
 *.pyc
+
+# Print package (tools/print/build_book1_print.py writes here)
+build/
