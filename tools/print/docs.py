@@ -285,7 +285,7 @@ def instructions(i: Info) -> str:
 
 == 5. Sewing
 - Gather the signatures in order (signature 1 on top when the book lies face up) and knock them square at the spine and head.
-- Make a punching jig from scrap card the height of the folded sheet (210 mm). Mark the head and tail trim lines 6 mm from each end; put the kettle stations about 15 mm inside the trim lines (21 mm from the untrimmed edges) so trimming never cuts the thread; space the other stations (or tape positions) evenly between them.
+- Print `Ides_Book1_sewing-jig_A4.pdf` at 100 % and glue it to card: it marks the kettle stations 21 mm from head and tail (15 mm inside the trim lines, so trimming never cuts the thread) and three 12 mm tapes at 63, 105 and 147 mm, with a hole just outside each tape edge.
 - Pierce each signature through the fold from the inside, using the jig.
 - Sew all along (linen thread, e.g. 18/3 or 25/3, waxed), on tapes or cords if you are using them, with kettle stitches at head and tail. Keep tension even so the spine does not swell more than needed.
 - Add the endpapers (tipped on, or sewn on as the first and last signatures).
@@ -448,6 +448,7 @@ Then:
   signatures/                                        one imposed A4 PDF per signature
   Ides_Book1_imposed_A4_all-signatures.pdf           all signatures in one file
   Ides_Book1_specification.pdf                       sizes, margins, estimates
+  Ides_Book1_sewing-jig_A4.pdf                       punching jig for sewing on three tapes
   Ides_Book1_proofing-report.pdf                     checks and open questions
   source/                                            the Typst source this build compiled
   qa_previews/                                       low-resolution renders used in checking

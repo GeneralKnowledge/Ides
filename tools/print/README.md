@@ -32,6 +32,7 @@ text of the reading page it should.
 | `signatures/sigNN_pdf-pages_AAA-BBB.pdf` | One imposed A4 PDF per signature |
 | `Ides_Book1_imposed_A4_all-signatures.pdf` | All signatures, one file |
 | `Ides_Book1_printing-and-binding-instructions.pdf` | Printer settings, folding, sewing, trimming |
+| `Ides_Book1_sewing-jig_A4.pdf` | Punching jig: kettle and tape stations for sewing on three tapes |
 | `Ides_Book1_specification.pdf`, `spec.json` | Trim, pages, signatures, type, margins, thickness and board estimates |
 | `Ides_Book1_proofing-report.pdf` | Checks run, concerns, missing metadata, decisions, limitations |
 | `source/` | The exact Typst source compiled: template, parsed manuscript (`content.json`), metadata, copyfitting (`adjust.json`) |
@@ -46,6 +47,7 @@ text of the reading page it should.
 | `content.py` | Manuscript to structured runs (italic, small caps) |
 | `fit.py` | Copyfitting: fills pages left short by widow/orphan control by setting one paragraph a hair tighter or looser |
 | `impose.py` | Signature plan and A4 imposition |
+| `jig.typ` | Sewing jig (station positions) |
 | `marks.typ` | Trim, fold and collation marks and sheet labels (all in the trimmed-off strips); calibration sheet |
 | `qa.py` | Read-back checks |
 | `docs.py` | Specification, instructions and proofing report |

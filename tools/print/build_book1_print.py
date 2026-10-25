@@ -116,7 +116,7 @@ def main() -> None:
     work = Path(tempfile.mkdtemp(prefix="ides-print-"))
     src = work / "source"
     src.mkdir()
-    for f in ("book1.typ", "marks.typ"):
+    for f in ("book1.typ", "marks.typ", "jig.typ"):
         shutil.copy(HERE / f, src / f)
     (src / "content.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     (src / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -344,6 +344,7 @@ def main() -> None:
         reading_name=READING_NAME, fitted=fitted,
     )
     docs.write_all(info, src, work, compile_typst, stamp_date)
+    compile_typst(src / "jig.typ", work / "Ides_Book1_sewing-jig_A4.pdf", stamp_date)
 
     # ---- Publish -------------------------------------------------------------------------
     marks_pdf.unlink()
