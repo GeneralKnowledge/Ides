@@ -19,7 +19,7 @@ Cassius smiled with his teeth and counted who received what: commands, lands, pr
 
 He had come for one thing. Caesar was going to Spain before the winter to finish Pompey’s sons, and the host was one of the men who drew up the names for his staff. A pardoned man who rode on the next campaign stopped being a pardoned man and became an officer again. Cassius had written to the host twice. Tonight he meant to hear the answer in the host’s voice, and he had decided on the way over that he would not ask.
 
-The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger. Not an insult. Not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
+The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger: not an insult, not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
 
 “They have put us together as a lesson,” Sextilius murmured, tearing bread. “Here is the man who joined Caesar’s side early. Here is the man who joined it eventually. Observe the difference in the cushions.”
 

@@ -74,7 +74,7 @@ The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she 
 
 “And be the man who was seen not smiling? I have a wife.”
 
-She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends · spare? · stay / danger · consul?* Incomplete. Ugly. Misfiled even as she wrote it, she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
+She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends · spare? · stay / danger · consul?* It came out incomplete and ugly, misfiled even as she wrote it: she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
 
 She wrapped the fragment in linen and set it against her ribs. She didn’t understand Senate shapes. She understood that half-truths killed slower than whole ones only if you never delivered them to the wrong door, and that she might already have the wrong half.
 
@@ -108,7 +108,7 @@ Overhear risk: Medium
 
 Caesar didn’t keep an enemies list. He kept work.
 
-He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional beware: he treated the fear in the house like March weather. Real. Inconvenient. Not a reason to cancel the city’s work.
+He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional beware: he treated the fear in the house like March weather: real, inconvenient, and no reason to cancel the city’s work.
 
 He had sent away his Spanish bodyguard some months back, the picked men who had followed him from the war, and had said that he would rather die once than live always afraid of it. The Senate had sworn to guard him with their own bodies, which he had found very funny, and had accepted the oath without once looking at the oath-takers.
 

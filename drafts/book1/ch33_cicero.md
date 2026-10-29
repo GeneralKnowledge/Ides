@@ -38,7 +38,7 @@ His bearers stopped. Some of the slaves had knives out. One of them, a big Thrac
 
 They put the litter down on the walk. He did not get out. He sat as he had sat in a hundred courts while the other side finished, his left hand at his chin, and looked at the men coming down between the trees. He knew what he looked like. Dust in his hair, which nobody had combed; a face gone thin with the weeks since Tusculum; sixty-three years old in a night tunic in a wood. He let them look.
 
-The officer at the front had a face he knew. It took a moment; names had begun to take him moments. Popillius. A young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter. The centurion beside him did the looking for both. Herennius, someone said. The name meant nothing. That seemed wrong too.
+The officer at the front had a face he knew. It took a moment, because names had begun to take him moments, but it was Popillius, a young man once, charged with his father’s death, and Cicero had talked a jury out of sewing him into the parricide’s sack and giving him to the river. The jury had leaned. Popillius had kissed his hand in the street. Now he held a drawn sword and would not look at the litter. The centurion beside him did the looking for both. Herennius, someone said. The name meant nothing. That seemed wrong too.
 
 Most of the soldiers covered their faces. He noticed that and was absurdly grateful for it, as for applause from the back benches.
 

@@ -88,7 +88,7 @@ They finished dinner. Plancus was charming for the rest of it, and told a long s
 
 “I owe the Republic my legions,” said Plancus. “I am trying to work out where it is.”
 
-He did not send word first. Decimus woke one morning in September before light because his horse was restless, and went up on the bank of the camp ditch with his cloak over his shoulders, and saw that the higher ground by the river was moving. Plancus’s camp was being struck. Not in haste. Tents coming down in order, cohort by cohort, wagons being loaded, the eagle of the first legion already out in front of its column on the road toward the bridge Plancus’s engineers had built across the Isara in the spring and never yet used.
+He did not send word first. Decimus woke one morning in September before light because his horse was restless, and went up on the bank of the camp ditch with his cloak over his shoulders, and saw that the higher ground by the river was moving. Plancus’s camp was being struck, not in haste: tents coming down in order, cohort by cohort, wagons being loaded, the eagle of the first legion already out in front of its column on the road toward the bridge Plancus’s engineers had built across the Isara in the spring and never yet used.
 
 Decimus stood and watched it. He did not wake his staff. There was nothing his staff could do, and he wanted to see it alone, the way he had wanted to be alone on the wall-walk at Mutina in the winter.
 
@@ -98,7 +98,7 @@ Decimus did not raise his.
 
 A rider came up from the bridge an hour later with a letter, beautifully written, sealed with Plancus’s seal, saying that circumstances had compelled him and that he remained Decimus’s friend. Decimus read it and gave it to the older aide to file with the others. He gave orders for a count of rations. He went to his tent and sat down and found that his hands were steady, and was mildly surprised.
 
-By noon the recruits had begun to go. Not all at once. Not with noise. A tent-group here, a century there, walking out of the gate with their shields on their backs as if they had been sent on fatigues, and not coming back. Some went south over the bridge after Plancus. Some went east toward the boy, whose name was on the law that had condemned their general. Some just went home. The centurions did not stop them. The centurions were going too.
+By noon the recruits had begun to go, not all at once and not with noise. A tent-group here, a century there, walking out of the gate with their shields on their backs as if they had been sent on fatigues, and not coming back. Some went south over the bridge after Plancus. Some went east toward the boy, whose name was on the law that had condemned their general. Some just went home. The centurions did not stop them. The centurions were going too.
 
 Decimus watched from the bank of the ditch. He counted them as they went, from habit, as he had counted cohorts at Massilia and hinges at Mutina, and when the number became large enough that it stopped being a number he stopped counting and went to look at the maps.
 

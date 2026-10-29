@@ -108,7 +108,7 @@ He pictured Balbus smiling the soft smile of a man who never needed a dagger bec
 
 Outside, a courier waited, Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
 
-He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.” Occupied. Clear. The words sounded like action and were a refusal to leave the desk.
+He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.” *Occupied* and *clear*: the words sounded like action and were a refusal to leave the desk.
 
 The courier hesitated. “He asked for you in the room, not on the tablet.”
 

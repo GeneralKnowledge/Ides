@@ -26,11 +26,11 @@ He didn’t deliver a speech about it. This was weight and breath and mud that t
 
 He fought like a man hoping philosophy could stiffen a shield-wall. For a while it did. Faces that had minted *EID MAR* with him held because holding was what they still knew how to do. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear. An aide offered water. Brutus took it, swallowed wrong, coughed once, ugly, human, and went back to the gap.
 
-Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s grain more than yesterday’s name. Both kinds broke when the plain insisted. An officer, face known from the minting days, caught his sleeve and begged him to pull back to a cleaner hill. The cleaner hill was visible. Higher ground. Fresher air. A place where the day might be lost slower and with more witnesses who could later invent dignity.
+Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s grain more than yesterday’s name. Both kinds broke when the plain insisted. An officer, face known from the minting days, caught his sleeve and begged him to pull back to a cleaner hill. The cleaner hill was visible, higher ground and fresher air, a place where the day might be lost slower and with more witnesses who could later invent dignity.
 
 Brutus looked at it. The cost of taking it was clear in the body. Abandon the knot that still held. Leave the men who still answered *EID MAR* with their shoulders. Trade the day’s shape for a cleaner story about retreat. Cassius would have called delay contemptible. Cassius was not here to call anything.
 
-“Hold what you can,” Brutus said. Not a period. Not an antithesis. Only an order with the paint worn off.
+“Hold what you can,” Brutus said. It was not a period or an antithesis, only an order with the paint worn off.
 
 He refused the cleaner hill. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
 
@@ -142,11 +142,11 @@ So he knew. Nysa had wondered for two years whether he knew. She had watched him
 
 She went out before light with a heel of bread and stood at the Capena gate, where the Appian Way came in, among the people who had come to see.
 
-There were more than at the games. She counted them the way she had counted the benches, in rows and then in tens, along the road and up the steps of the tombs and on the roofs of the tavern by the gate, and when the rows ran out she counted the people still coming down the hill behind her from the Caelian. Freedmen with their caps on. Shopkeepers with their shutters up. Veterans, a great many veterans, standing in their old units without being told to, with their discharge tablets in their belts. Women. Children on shoulders. A man selling hot chickpeas who sold out before the second hour and stood with his empty pan and cheered.
+There were more than at the games. She counted them the way she had counted the benches, in rows and then in tens, along the road and up the steps of the tombs and on the roofs of the tavern by the gate, and when the rows ran out she counted the people still coming down the hill behind her from the Caelian. Freedmen with their caps on. Shopkeepers with their shutters up. Veterans, a great many veterans, standing in their old units without being told to, with their discharge tablets in their belts. Women, and children on shoulders. A man selling hot chickpeas who sold out before the second hour and stood with his empty pan and cheered.
 
 She thought about the cheer. It was not the cheer of the games, from the cheap rows, that went on after the chair had gone. It was quieter. It had a question in it. The rumour all winter had been that the young Caesar was dying at Brundisium, that he was dead, that the litter coming up the road was empty. People had come out to see a face.
 
-The litter came at noon. The curtains were open. Inside it, propped on cushions, a thin young man with a pale face and a cloak to the chin, looking out at them. Not waving. Looking. His eyes went along the crowd the way Nysa’s went along the benches, row by row, and for one moment, which she knew perfectly well meant nothing, they went along her row.
+The litter came at noon. The curtains were open. Inside it, propped on cushions, a thin young man with a pale face and a cloak to the chin, looking out at them. He did not wave; he looked. His eyes went along the crowd the way Nysa’s went along the benches, row by row, and for one moment, which she knew perfectly well meant nothing, they went along her row.
 
 The cheer, then, was a real one. It went up the road and through the gate like water.
 

@@ -94,7 +94,7 @@ Overhear risk: Elite medium
 
 In a Tusculum doorway that smelled of wet stone and other men’s wine, *dictator perpetuo* landed like a joke told by men with swords.
 
-Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. The mind objected in history, because that was where it lived. Six months: that was a dictator, once. A man the Republic hired in an emergency, handed every power, and thanked when he had put the fire out and gone home. Sulla had broken the habit. Caesar had stretched it, a year here, ten years there, and now some obliging senator had drafted the last clause. Not for the crisis. For good. The couriers had carried it up to Tusculum’s summer villas with the morning bread.
+Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. The mind objected in history, because that was where it lived. Six months: that was a dictator, once. A man the Republic hired in an emergency, handed every power, and thanked when he had put the fire out and gone home. Sulla had broken the habit. Caesar had stretched it, a year here, ten years there, and now some obliging senator had drafted the last clause: not for the crisis, but for good. The couriers had carried it up to Tusculum’s summer villas with the morning bread.
 
 A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
 

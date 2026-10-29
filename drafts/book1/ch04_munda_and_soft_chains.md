@@ -128,13 +128,13 @@ Porcia’s voice stayed low. Low was harder to dodge than shouting.
 
 Clemency sat in the room like a soft chain. Caesar had spared. At Pharsalus he had sent word down the line before the fighting began: take Brutus alive, if it can be done. Brutus had lived. Tonight the spared life felt less like gratitude and more like a costume that still fit too well. Spain was “settled” in other men’s mouths. The chain had not loosened. He reached for a philosophical sentence and found only the cup in his hand. Wine gone warm and flat.
 
-Before Porcia could press again, a steward brought word that his mother’s messenger waited in the outer court. Servilia. The whole city knew she was the woman Caesar had loved longest; Brutus had spent twenty years not knowing it. Not quite an invitation. A mother’s reminder: pardoned sons still owed dinners they did not choose. Soft chains got priced in women’s rooms first. Men’s masks judged later. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.”
+Before Porcia could press again, a steward brought word that Servilia’s messenger waited in the outer court. The whole city knew she was the woman Caesar had loved longest; Brutus had spent twenty years not knowing it. Not quite an invitation. A mother’s reminder: pardoned sons still owed dinners they did not choose. Soft chains got priced in women’s rooms first. Men’s masks judged later. Porcia’s mouth tightened. “She sends weather,” Porcia said. “I send refusal. Do not confuse the two.”
 
 “I am not unaware of what the name requires,” Brutus said.
 
 “Then stop practising unawareness as courtesy,” Porcia answered.
 
-A slave’s foot whispered in the corridor. Ordinary. Brutus lowered his voice anyway.
+A slave’s foot whispered in the corridor, an ordinary sound, and Brutus lowered his voice anyway.
 
 The foot returned with a tablet: an invitation, seal still soft, from a Caesarian host whose dinners made pardoned men feel forgiven and owned in the same course. Brutus had already heard what such rooms did. Clemency toasted as spice last year while Africa’s favourites laughed on cue. Spain’s new men would do the same now. He read the names of the promised guests: two new Spain-postings, a man who still called mercy a flavour. The chain tugged toward the couch he was expected to warm.
 
@@ -176,7 +176,7 @@ Decimus tilted his head. “If the games talk turns into a fight, I’ll bring a
 
 Caesar’s mouth did the almost-laugh Decimus had learned to aim for. “Bring the ditch. Leave the philosophy. Philosophy trips on stones.”
 
-Useful. Warm. Specific. Decimus left the inner room still tasting it. Essays had never earned him that.
+It was useful, warm and specific, and Decimus left the inner room still tasting it. Essays had never earned him that.
 
 Someone laughed that Decimus was written into the will’s second line.
 

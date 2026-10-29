@@ -229,7 +229,7 @@ The aide asked anyway, one finger holding open the empty slot in the letter-case
 
 A southern courier arrived near dusk with a packet that smelled of harbour pitch. The queen was home in Alexandria, boy and all, months gone from Caesar’s gardens. Decimus set the packet under the stone with Antony’s courtesy-threats. Egypt was Egypt’s business until it had ships in his harbour.
 
-A rider came up the Via Aemilia from Ariminum with his horse lathered to the girth: Antony had left Rome with what the boy had left him of the Macedonian legions and was on the road north. Not hurrying. That was worse.
+A rider came up the Via Aemilia from Ariminum with his horse lathered to the girth: Antony had left Rome with what the boy had left him of the Macedonian legions and was on the road north, not hurrying, which was worse.
 
 Decimus did not wait to be caught on the open plain. He took his legions into Mutina, because Mutina had walls, a granary, and the road running past its gate. In the yard, while carts were loading, the levy spokesman asked what came next.
 

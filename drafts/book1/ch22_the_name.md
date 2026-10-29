@@ -33,7 +33,7 @@ A follower came to the terrace door, young, dusty from the road, eyes already re
 
 “Caesar.”
 
-Not under the breath. Aloud. The room flinched. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa’s stillness deepened, approval without theatre.
+He said it aloud, not under his breath, and the room flinched. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa’s stillness deepened, approval without theatre.
 
 Octavian held the greeting without smiling. Smiling would have made him a boy delighted by a toy. “Tell the others,” he said. “The name stands. So does the will.”
 

@@ -132,7 +132,7 @@ He heard it the way he had heard himself say *GO* in the dark a year ago: a voic
 
 He said all this warmly. He meant it. And somewhere in the middle of saying it he recognised the warmth, and the hand he had raised without noticing to rest it on Gaius’s shoulder, and stopped the hand in the air, and lowered it.
 
-It was Caesar’s voice. Not the words; Caesar’s words had been fewer. The warmth. The pleasure in it. The quick sweet feeling in the chest of a man who has someone at his mercy and has decided, generously, to be merciful, and can feel the other man feel it. Brutus had stood where Gaius was standing. He had stood in a tent at Larissa after Pharsalus with mud to his knees and heard Caesar be kind to him, and had felt himself feel grateful, and had hated it, and had carried it four years under his ribs like a stone he could not cough up. And here it was in his own mouth. It tasted of nothing. It tasted like being good.
+It was Caesar’s voice. Not the words, since Caesar’s words had been fewer, but the warmth. The pleasure in it. The quick sweet feeling in the chest of a man who has someone at his mercy and has decided, generously, to be merciful, and can feel the other man feel it. Brutus had stood where Gaius was standing. He had stood in a tent at Larissa after Pharsalus with mud to his knees and heard Caesar be kind to him, and had felt himself feel grateful, and had hated it, and had carried it four years under his ribs like a stone he could not cough up. And here it was in his own mouth. It tasted of nothing. It tasted like being good.
 
 Gaius was looking at him. He had seen the hand stop.
 

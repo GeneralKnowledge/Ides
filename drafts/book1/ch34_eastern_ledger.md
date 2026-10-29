@@ -16,7 +16,7 @@ Overhear risk: Cassius’s officers
 
 Smyrna sent its treasurer to Cassius because there was nothing left in the treasury to send instead.
 
-Amyntas went by sea in the hot months, with a letter from the council and the books, down the coast past Rhodes and Cyprus to where the Syrian shore ran flat and white under the sun and a town sat on its headland with the sea on three sides and an army on the fourth. Laodicea. Dolabella had gone in there in the spring, when Cassius came against him with more legions than he had, and the town had opened its gates to him, because he had been consul of Rome last year and had good teeth. Now it had walls round it on the land side, Cassius’s walls, a double ditch and a rampart across the neck of the headland, and on the sea side Cassius’s ships rode at anchor in a line, and nothing went in.
+Amyntas went by sea in the hot months, with a letter from the council and the books, down the coast past Rhodes and Cyprus to where the Syrian shore ran flat and white under the sun and a town sat on its headland with the sea on three sides and an army on the fourth: Laodicea. Dolabella had gone in there in the spring, when Cassius came against him with more legions than he had, and the town had opened its gates to him, because he had been consul of Rome last year and had good teeth. Now it had walls round it on the land side, Cassius’s walls, a double ditch and a rampart across the neck of the headland, and on the sea side Cassius’s ships rode at anchor in a line, and nothing went in.
 
 Amyntas was given a tent in the lines and told to wait. He waited nine days.
 
@@ -218,7 +218,7 @@ Brutus’s face had gone white. Cassius had seen it go white like that once befo
 
 “No. You wanted them to be grateful. They preferred the fire.” Cassius sat down. His hands were shaking. He put them flat on the table. “Neither of us is clean, Brutus. We stopped being clean the morning we went into the Curia with knives. The difference between us is that I know it.”
 
-Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony. The night of GO. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
+Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony, and the night of GO. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
 
 Outside the door their friends stood in a knot in the corridor and listened to two commanders of the Republic shouting at each other like brothers dividing an inheritance, and did not dare go in.
 
@@ -228,7 +228,7 @@ He came in past the doorkeepers, who tried to stop him and failed because he was
 
 “*But listen to me. You are both younger than I am.*”
 
-Nestor. Old Nestor in the *Iliad*, stepping between Agamemnon and Achilles when they were quarrelling over a girl.
+It was Nestor, old Nestor in the *Iliad*, stepping between Agamemnon and Achilles when they were quarrelling over a girl.
 
 Cassius laughed. He could not help it. He laughed so suddenly and so hard that it hurt his ribs, and he put his head down on his arms on the table, and found that some of the laughing was the other thing after all.
 
