@@ -134,7 +134,7 @@ It was his birthday. The cook had said so at dawn, over the bread, and Cassius h
 
 “Numbers,” Cassius said. “Cohorts. Eagles. Anything with a body attached.”
 
-There were no numbers. He sent a runner down the reverse slope for a count and the runner did not come back. He checked the water jars himself while he waited. Half full. He moved a shield that did not need moving. His eyes had never been good at distance, and in glare they were worse. He had spent twenty years making other men’s reports clear enough to act on, and now he could not see the end of his own hill.
+There were no numbers. He sent a runner down the reverse slope for a count and the runner did not come back. He checked the water jars himself while he waited; they were half full. He moved a shield that did not need moving. His eyes had never been good at distance, and in glare they were worse. He had spent twenty years making other men’s reports clear enough to act on, and now he could not see the end of his own hill.
 
 Then horsemen came out of the dust from the north, a troop of them, riding hard toward the hill.
 

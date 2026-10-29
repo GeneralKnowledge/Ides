@@ -39,7 +39,7 @@ She stopped. Words made it smaller. She didn’t want it smaller.
 
 “Then it is fortunate that I was beneath it only in your sleep. The carpenters have never been so well behaved.”
 
-Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter. A settling. Something hung for war had remembered it was metal.
+Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter, then a settling. Something hung for war had remembered it was metal.
 
 Out in the service passage a girl’s voice said *metal* and was hushed by an older one. Phileros’s keys answered from farther off.
 
@@ -166,7 +166,7 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move.
 
-In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted. Caesar’s ease. Calpurnia’s grip on the doorframe. Phileros’s keys.
+In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted: Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
@@ -208,7 +208,7 @@ Calpurnia’s hand fell from the doorframe.
 
 They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
 
-Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held. Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
+Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held, which was Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
 
 “You have not asked me what is on the agenda,” Caesar said at last.
 
@@ -246,7 +246,7 @@ Overhear risk: Extreme (Phileros rivalry; Decimus glance)
 
 Nysa woke because the house woke wrong.
 
-Not the usual wrong, the cook shouting, a client too early at the vestibule, Phileros cursing a dog in the Sacra Via. This was quieter. Wood complaining. A door that should have stayed shut. Then metal, somewhere toward the priest-store, speaking once like a dropped tray and then pretending it had not.
+Not the usual wrong, the cook shouting, a client too early at the vestibule, Phileros cursing a dog in the Sacra Via. This was quieter: wood complaining, a door that should have stayed shut. Then metal, somewhere toward the priest-store, speaking once like a dropped tray and then pretending it had not.
 
 She was already on her feet in the side room off the atrium when Calpurnia’s voice came through the cubiculum wall, not words at first, only the sound a throat makes when it has been running in sleep.
 
@@ -262,7 +262,7 @@ In the cubiculum the air was colder than the corridor. She brought water when to
 
 Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Nysa, who had washed blood from floors after banquets, felt her stomach tip anyway, not at blood, at the way Calpurnia’s voice tried to stay private and failed.
 
-Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.” Not unkind. Not kind. A redirection of weather.
+Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.” It was not unkind and not kind: a redirection of weather.
 
 In the service court the sky shifted from iron to dirty pearl. Dama, the kitchen boy, claimed the sacred chickens had been sullen. Someone else said that was every morning. Nysa heard both and kept both.
 

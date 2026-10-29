@@ -77,7 +77,7 @@ Cicero tried to resume. Cassius didn’t resume. He cut.
 
 Brutus’s face did the old slow collapse into resolve. The Rome-return balloon, Cicero’s prettiest paragraph, died in Brutus’s throat. East became less a choice than a harbour with a direction.
 
-Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote. No request. A mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
+Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote, no request: a mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 
 Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Soft power rearranged his sentences after he spoke them.
 

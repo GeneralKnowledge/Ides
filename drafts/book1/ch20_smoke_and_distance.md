@@ -29,7 +29,7 @@ The steward added, careful as legality, that the second-line joke from the will 
 
 A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions. One pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
-Decimus didn’t ask who “they” were. Veterans. Debtors. Men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
+Decimus didn’t ask who “they” were: veterans, debtors, men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
 Decimus packed maps, not speeches. The top one was Cisalpine Gaul, the province Caesar had given him, and it no longer looked like a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere.
 
@@ -88,7 +88,7 @@ A Roman clerk from the house’s new legal weather arrived mid-morning with a po
 
 “Then you may be the first to be disappointed.”
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals. Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, who ran her household and spoke for her in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
+The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals, Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, who ran her household and spoke for her in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
 
 “Open it,” she said. “Count the sandals. Then leave my schedule alone.”
 
@@ -98,7 +98,7 @@ Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter�
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
-“Father belongs to their Forum now,” Cleopatra said. Softness later. Ships first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
+“Father belongs to their Forum now,” Cleopatra said. Softness could come later; ships came first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
 
 Ammonius spoke of Cicero’s old rudeness, of books promised from the Alexandrian library and never sent, of what Cicero had said about her in Rome since, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept Ammonius as useful irritant.
 
@@ -116,7 +116,7 @@ Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay.
 
 At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection.
 
-Once she was on the water, someone in Italy would finish her story for her. Clerks. Liberators on a rock. Or a boy whose name had not yet arrived with a seal.
+Once she was on the water, someone in Italy would finish her story for her: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal.
 
 ---
 
@@ -144,7 +144,7 @@ He was with men his age and men older who still called him by the soft names of 
 
 They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side; on the other Maecenas, a few years older, Etruscan money and too many books, still only the clever man who happened to be at the table. Companions enough that bad news had to choose a face.
 
-“Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. Smoke in the report, too. Houses. Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
+“Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. There was smoke in the report, too: houses, Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
 
 Octavian felt the floor drop, the childish, humiliating sense that the adult arrangement of the world had been a prop. Then the colder part: who benefits, who moves, who lies in the first report.
 
@@ -164,7 +164,7 @@ Octavian didn’t shake the hand off. He also didn’t lean into it. He asked fo
 
 He didn’t say *son*. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
 
-Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan. Names first.
+Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan; names came first.
 
 ---
 

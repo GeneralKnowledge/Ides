@@ -17,7 +17,7 @@ Overhear risk: High (Forum)
 
 Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
 
-“Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud. Shouts. Bets. Sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
+“Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud: shouts, bets, sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
 
 He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
 
@@ -41,11 +41,11 @@ The client wanted a moral. Hordeonius gave him a rate. The client’s mouth open
 
 “For Cato’s sake,” the new-ring said, louder now, “shave it. Land is coming. Veterans will pay when the colonies open. A patriot’s rate.”
 
-*Colonies.* Hordeonius filed the word where he filed all of Caesar’s promises to his old soldiers: farms, somewhere, eventually, on ground nobody had yet explained how to take from the men currently farming it. Fine paper. It paid nothing until it was kept.
+*Colonies.* Hordeonius filed the word where he filed all of Caesar’s promises to his old soldiers: farms, somewhere, eventually, on ground nobody had yet explained how to take from the men currently farming it. It was fine paper, and it paid nothing until it was kept.
 
 Sosia, at Hordeonius’s elbow, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in.
 
-Hordeonius kept the rate where it was. He tapped the tablet once. Soft. Final.
+Hordeonius kept the rate where it was. He tapped the tablet once, soft and final.
 
 “I honour the dead with arithmetic,” he said, careful. “I honour the living with invoices. Land that is not yet land does not clear. Pay this, or take your patriotism to a stall that sells wishes.”
 
@@ -59,7 +59,7 @@ The older ring did not bother with courtesy once the banker could not hear. “P
 
 The cake-seller overheard and laughed once, short. Sosia waited. Hordeonius wrote *new-ring: rate held / unpaid* under *Africa: closed enough*. He left the stylus resting on the name.
 
-Across the way stood Cicero. Hordeonius had him filed with the forgiven: backed Pompey, lost, pardoned by Caesar. A debt that could never be repaid, only rolled over at a worse rate. He received the same Africa as a bruise that had not faded. Cato dead by his own hand. Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it. Lesser men converted suicide into slogan. Hordeonius watched the unfinished period. Interesting. Not urgent. Like any account that had not cleared.
+Across the way stood Cicero. Hordeonius had him filed with the forgiven: backed Pompey, lost, pardoned by Caesar. A debt that could never be repaid, only rolled over at a worse rate. He received the same Africa as a bruise that had not faded. Cato dead by his own hand. Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it. Lesser men converted suicide into slogan. Hordeonius watched the unfinished period and filed it as interesting but not urgent, like any account that had not cleared.
 
 A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and leftover triumph wagons.
 
@@ -90,7 +90,7 @@ Overhear risk: Extreme street
 
 Nysa carried bundles through a city that had not finished being drunk on spectacle.
 
-Captives. Gold. Painted lies on wagons. Four triumphs in one month: Gaul, Egypt, Pontus, Africa. Rome had swallowed Caesar’s whole war in four courses, and Africa had been the last, and the taste was still on the street. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She didn’t understand why men needed wagons to prove they had already won.
+Captives, gold and painted lies on wagons. Four triumphs in one month: Gaul, Egypt, Pontus, Africa. Rome had swallowed Caesar’s whole war in four courses, and Africa had been the last, and the taste was still on the street. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She didn’t understand why men needed wagons to prove they had already won.
 
 A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
 

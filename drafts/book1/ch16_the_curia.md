@@ -26,7 +26,7 @@ Other senators crowded round the chair with the careful, helpful faces of men wh
 
 Now, Cassius thought, not as prayer. Prayer was Brutus’s department.
 
-Tillius’s hands found the toga. Pulled.
+Tillius’s hands found the toga and pulled.
 
 The signal was ugly and ordinary: cloth, fist, the insult of touch. Cassius felt the room flinch at that before any blade appeared. In this house you did not lay hands on a senator’s toga; a fist in the cloth was already sacrilege. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
@@ -159,7 +159,7 @@ By the time she reached the Subura’s first choke-point, the tale had grown a D
 
 Nysa stopped under a balcony and vomited nothing. Then she wiped her mouth, as the senator had, and hated the kinship.
 
-She still had the wax. Incomplete. Unopened by any dictator. Around her, Rome opened every seal at once.
+She still had the wax, incomplete and unopened by any dictator. Around her, Rome opened every seal at once.
 
 ---
 

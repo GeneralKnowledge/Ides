@@ -19,7 +19,7 @@ Cassius and Brutus found him on the Sacra Via, where processions walked and the 
 
 “He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
 
-The Curia. Not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, nine hundred senators, most of them Caesar’s new men, on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
+It would be the Curia, though not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, nine hundred senators, most of them Caesar’s new men, on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
 
 Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. They wanted him for nothing else.
 
@@ -104,7 +104,7 @@ Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, the p
 
 “Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
 
-Brutus held the spare. Cassius stored the loss like interest, visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated. Almost.
+Brutus held the spare. Cassius stored the loss like interest, visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
 
 “The chickens,” said Trebonius, as the foot faded, “are the great unsung heroes of the Republic.”
 

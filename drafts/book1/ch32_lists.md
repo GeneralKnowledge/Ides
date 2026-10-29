@@ -44,7 +44,7 @@ Across the sea, Brutus had been keeping Antony’s brother since the spring. Oct
 
 Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
 
-Antony’s stylus paused on a lesser enemy first, a man who had borrowed money and returned sermons. Easy. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
+Antony’s stylus paused on a lesser enemy first, a man who had borrowed money and returned sermons, an easy one. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
@@ -52,7 +52,7 @@ Lepidus looked at his hands. Hands could not abstain. Octavian kept his face fro
 
 Antony’s finger stayed on the blank. “Say it,” he said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
 
-A lesser name sat two lines up, a man Octavian half-owed from Apollonia’s edge. Useful. Not loved. Killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
+A lesser name sat two lines up, a man Octavian half-owed from Apollonia’s edge: useful, not loved, killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
 
 Saving the orator would have cost a different war, one with Antony still armed and the coalition already smelling of unfinished business. Octavian put the stylus down.
 
@@ -86,7 +86,7 @@ Overhear risk: Extreme terror
 
 ### Hordeonius
 
-Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed. Arrived late. Left early. Charged interest he could not collect from his own nerves.
+Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed: it arrived late, left early, and charged interest he could not collect from his own nerves.
 
 “I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason. Bucco was back from the south that week, Sosia said, lending to the triumvirs’ soldiers against their share of the auctions, and no magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son’s throat. Hordeonius told himself archaeology was closed.
 

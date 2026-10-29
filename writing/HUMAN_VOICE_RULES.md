@@ -1,6 +1,6 @@
 # Human-voice rules — Book 1
 
-**Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22; revision vs development split (§1a) added 2026-10-23; protection narrowed to named cores, pass caps confined to style-only passes and repetition cuts made lighter 2026-10-24 (`archive/pass_logs/rules_review_2026-10-24.md`).  
+**Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22; revision vs development split (§1a) added 2026-10-23; protection narrowed to named cores, pass caps confined to style-only passes and repetition cuts made lighter 2026-10-24 (`archive/pass_logs/rules_review_2026-10-24.md`); habit I (caption fragments) added 2026-10-29 (`archive/pass_logs/one_word_sentence_pass_2026-10-29.md`).  
 **Purpose:** Keep the novel feeling like rooms with bodies, not polished caption.  
 **Not:** A detector-optimisation programme. Detector flags are clues, not success metrics.
 
@@ -53,7 +53,7 @@ Development is not a licence to revise surrounding prose for taste. Where an add
 
 ## 2. What “synthetic” actually sounds like here
 
-Fix these when they cluster. Leave scattered singles alone.
+Fix these when they cluster. Leave scattered singles alone, except habit I, which is fixed wherever it appears.
 
 | Habit | Sound | Fix |
 |-------|--------|-----|
@@ -65,6 +65,7 @@ Fix these when they cluster. Leave scattered singles alone.
 | **F — Multi-clause AI cadence** | Semicolon cascades; long uniform mid-paragraph stretch | Break into shorter breaths. Not every sentence must be short. |
 | **G — Hedged polish** | “as if by accident,” “station warning,” “exit-complaint,” “announced need” | Soften to ordinary cause and effect. |
 | **H — Content-word catalogues** | Sculpted lists of nouns/metaphors in one line | Split, or cut the cleverest item. |
+| **I — Caption fragments** | In narration, a full sentence followed by one-word or verbless fragments that label it: “He tapped the tablet once. Soft. Final.” / “Antony laughed. Not mirth. Recognition.” / “Not hurrying. That was worse.” | Fold it into the sentence (comma, colon, *rather than*), or give it a subject and verb. Fix singles too, not only clusters (author’s ruling, 2026-10-29). |
 
 ---
 
@@ -88,7 +89,8 @@ Fix these when they cluster. Leave scattered singles alone.
 
 1. **Don’t optimise for AI detectors.** Length averages, function-word ratios, and 3-gram stats will keep flagging literary historical fiction. Gaming them flattens the book.
 2. **Don’t scrub owner metaphors.** Removing Hordeonius’s ledger religion or Laberius’s filing because “ledger dialect = AI” destroys POV.
-3. **Don’t delete every short punch** (`Cassius ate.` / `Glory.` / `Ditch timing.`) — those are human, not the problem.
+3. **Don’t delete every short punch** (`Cassius ate.` / `He sat.` / `Ditch timing.`). A short sentence with a subject and verb, or a held brand, is human, not the problem. The one-word caption fragment is not a short punch: it is habit I (§2).
+   **One-word sentences in narration** are kept only where the stop itself is the event: a recognition (Cicero seeing Philologus, Laberius seeing Rufrius), broken news rendered as heard (Ch 20 “Knives. Senate.”), or a word written on the page (*Clean.*). About one per chapter at most; any new one is named in the pass log. Speech may clip as people do (“Yes.” “Next.” “Later.”); the rule covers narration.
 4. **Don’t stack aphorism replacements.** Swapping one thesis wrapper for another (“That would have shown need”) is still caption.
 5. **Don’t run chapter-by-chapter detector loops.** If Ch N still “fails” after two feel-passes, leave it and trust cold read — or revert.
 6. **Don’t run polish wars on the settled chapters.** Each has a named core that changes only for a demonstrated defect (§1); the prose around it is ordinary text:
@@ -96,7 +98,7 @@ Fix these when they cluster. Leave scattered singles alone.
    - **Ch 20–23:** the Liberators leave Rome; Octavian takes the name; Nysa’s house is emptied by kind stewards; Statilius keeps his name off the petition.
    - **Philippi (Ch 35–36):** Cassius dies on bad information, Pindarus holding the blade; Brutus dies on his own sword with Strato holding it; credit for Octavian’s survival stays contested.
 7. **Don’t treat the watch-list as a hit queue.** Notice ≠ revise.
-8. **Don’t impose quotas or bans** on sentence length, fragments, adverbs, metaphors, humour, sensory detail, aphorisms or any construction beyond the author-voice rules above (§3.8–9).
+8. **Don’t impose quotas or bans** on sentence length, fragments (habit I aside), adverbs, metaphors, humour, sensory detail, aphorisms or any construction beyond the author-voice rules above (§3.8–9).
 9. **Don’t require every scene to contain** conflict, humour, a physical action or a reversal, and don’t expand a landed chapter to reach a word count.
 10. **Don’t rewrite a flagged passage that works.** A flag is a reason to look, not a reason to change.
 
@@ -125,7 +127,8 @@ A development phase (§1a) ends when the story needs it was opened for are met: 
 [ ] Each change has the five-part evidence (§1)
 [ ] Is there a human cold-read complaint (stumble, sameness, thinness)?
 [ ] Or only a detector paste?  → if only detector, prefer leave alone or one light pilot chapter
-[ ] Named chapters + named habits (A–H), not “make it less AI”
+[ ] Named chapters + named habits (A–I), not “make it less AI”
+[ ] No new one-word or verbless caption sentence in narration (habit I)
 [ ] One pass → author cold read → stop / selective expand / revert
 [ ] Pass log: held beats + cut samples + non-goals + rejected recommendations + open items
 [ ] If pass 2 still feels wrong to the author, revert toward last good tip
