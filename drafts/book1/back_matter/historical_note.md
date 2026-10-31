@@ -43,8 +43,8 @@ Invented events:
 - Plutarch, *Lives* of Caesar, Brutus, Antony, Cicero and Cato the Younger
 - Suetonius, *Julius* and *Augustus*
 - Appian, *Civil Wars*, books 2–4
-- Cassius Dio, books 43–47
+- Cassius Dio, *Roman History*, books 43–47
 - Nicolaus of Damascus, *Life of Augustus*
-- Cicero’s letters to Atticus and to his friends, the letters to and from Brutus, and the *Philippics*
+- Cicero, *Letters to Atticus*, *Letters to Friends*, *Letters to Brutus* and the *Philippics*
 
 Where a scene stands on a single passage, the dialogue sometimes keeps its words.

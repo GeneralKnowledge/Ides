@@ -66,7 +66,7 @@ Cicero read the motion in his court voice. Thanks to the Martian legion and the 
 
 “The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered *adoption* and *armies* in one breath, hoping grammar could make them one animal, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn’t think *empire*. He thought *survive the week without looking grateful for their fear.* A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He didn’t think *empire*. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Afterwards a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength. Half strength still looked like gratitude if you did not measure.
 

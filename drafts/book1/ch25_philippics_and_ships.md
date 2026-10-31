@@ -118,7 +118,7 @@ Overhear risk: Ship crews
 
 Cassius boarded to see Brutus off, with contempt for the shoreline. His own keel would follow when he had ships enough.
 
-Pitch smelled honest. Italy smelled of appointments that had tried to turn Liberators into corn clerks. A harbour official wished them “favourable gods” in a voice that meant *please leave before you become my problem.* Cassius thanked him with teeth.
+Pitch smelled honest. Italy smelled of appointments that had tried to turn Liberators into corn clerks. A harbour official wished them “favourable gods” in a voice that meant *please leave before you become my problem*. Cassius thanked him with teeth.
 
 “They offered us corn routes and called it honour,” he told Brutus on a deck that flexed under boots. “Honour is what we mint when we have silver.”
 
@@ -174,7 +174,7 @@ A friend came to warn him, dust on the man’s sandals, the smell of men who dri
 
 The friend lifted the top draft off the desk and weighed it like a brick. “And what do you call this, when the copyists ask?”
 
-“Demosthenes had Philip of Macedon at the gates and talked Athens into fighting him. Philippics, he called them.” Cicero took the sheet back. “Let Antony be my Philip. The copyists may have the title for nothing.” He had meant it as a joke once, at a quieter desk, before March. He liked it too much now to keep it one.
+“Demosthenes had Philip of Macedon at the gates and talked Athens into fighting him. *Philippics*, he called them.” Cicero took the sheet back. “Let Antony be my Philip. The copyists may have the title for nothing.” He had meant it as a joke once, at a quieter desk, before March. He liked it too much now to keep it one.
 
 The friend did not laugh. “Athens lost, as I remember. And Demosthenes ended drinking poison in a temple with the Macedonians at the door.”
 

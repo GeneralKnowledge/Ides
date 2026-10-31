@@ -158,9 +158,9 @@ Overhear risk: Extreme rumour
 
 Hordeonius recorded three explanations for Pansa’s death before the man had finished dying:
 
-1. Battlefield medicine
-2. Antony’s smear
-3. The boy’s friends prefer fewer consuls
+1. *Battlefield medicine*
+2. *Antony’s smear*
+3. *The boy’s friends prefer fewer consuls*
 
 He labelled all three *Rumour* in Greek abbreviation, because Latin made gossip look like evidence. A client wanted to buy the third as fact, wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet.
 
