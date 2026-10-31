@@ -1,6 +1,6 @@
 # Book 1: lists and italics inventory
 
-Read-only audit of main @ 39c16c4 (2026-10-31). Covers the reading text exactly as the DOCX exporter sees it: Prologue, Ch 1–36, Historical Note and Cast. Nothing was edited.
+Audit of main @ 39c16c4 (2026-10-31). Covers the reading text exactly as the DOCX exporter sees it: Prologue, Ch 1–36, Historical Note and Cast. Fixes 1–4, 6–8 and the print rebuild (9) were applied on Reuben’s go-ahead, with 5 (*medimni*) taken too; the Ch 35 “evil spirit” note was left as is.
 
 ## Proposed fixes
 
