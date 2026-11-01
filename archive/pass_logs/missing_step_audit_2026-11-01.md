@@ -13,11 +13,17 @@
 
 Side effects: none on voice (the prologue line is in Cato’s clipped register and keeps “Go.” as his last word); no later payoff depends on either wording. Prologue continuity note updated to record the demand.
 
-## Judgement calls, left for Reuben
+## Judgement calls, then fixed on Reuben’s word (3)
 
-1. **Ch 13 (SC-34), Brutus’s lender.** “The lender’s note had come that afternoon” and a creditor coughing outside the GO room arrive with no earlier cause: the book never says why Brutus owes money. Ch 34 (EID MAR) calls back to “a creditor coughed outside the door”. Options: leave it as the debt motif; or one clause naming the debt, e.g. silver borrowed against the praetor’s games of Apollo, already planted in Ch 6. That would be invented detail, so it is Reuben’s call.
-2. **Ch 33 (SC-86c), Nysa’s cracked oil flask “stolen back from a steward”.** In Ch 23 the clerk takes the flask for the people’s pile and the want fails; the recovery happens off the page and is reported in a clause in Ch 33 (paid again in Ch 36, where it is in her bundle). The clause gives the cause, so it reads; a reader may still blink. Options: leave; or a half-line in Ch 23 when she goes back for her bundle. The second would undo the failed want, which is part of a settled core (Ch 20–23), so the recommendation is to leave it.
-3. **Ch 4 (SC-07), the invitation tablet.** Servilia’s messenger is announced, then a slave returns with an invitation from a Caesarian host. It is not quite clear whether Servilia sent the tablet or it came separately. Options: leave (the “mother’s reminder” line implies she forwarded it); or “Servilia’s man had carried it” in the tablet sentence.
+Logged first as judgement calls; Reuben asked for all three to be made (2026-11-01).
+
+| Where | Reader problem | Before | After |
+|---|---|---|---|
+| Ch 13, SC-34 | A lender’s note and a creditor’s cough arrive on the GO night with no cause given for Brutus’s debt (called back in Ch 34). | The lender’s note had come that afternoon, and Brutus had not answered it. | The lender’s note had come that afternoon, for the silver Brutus had borrowed against his games of Apollo in July, and he had not answered it. |
+| Ch 23, SC-65 | The clerk takes Nysa’s cracked oil flask; Ch 33 then says she “stole it back from a steward” and Ch 36 has it in her bundle, with no recovery on the page. | She walked back across the Sacra Via for her bundle while the streets were still hers to cross. | …still hers to cross. The cracked flask sat on top of the people’s pile in the atrium with nobody watching it, and she put it in the bundle with her tunics. |
+| Ch 4, SC-07 | Servilia’s messenger is announced, then a tablet arrives; unclear whether she sent it. | The foot returned with a tablet: an invitation, | The foot returned with the tablet Servilia’s man had carried: an invitation, |
+
+Side effects: the games of Apollo are planted in Ch 6 (city praetor’s games); the invented detail is that Brutus borrowed for them. The flask now fails in the scene and is taken back at its end, so the Ch 23 want still fails before it is recovered; Ch 20–23 settled core unchanged. Servilia now sends the invitation, which fits the “mother’s reminder” line and does not change what Brutus does.
 
 ## Checked and left alone (gaps that looked like this but are not)
 
@@ -26,4 +32,4 @@ Side effects: none on voice (the prologue line is in Cato’s clipped register a
 
 ## Open items
 
-None beyond the three judgement calls.
+None.

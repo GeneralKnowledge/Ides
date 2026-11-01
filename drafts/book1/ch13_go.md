@@ -152,7 +152,7 @@ Cassius looked at him a moment longer, then moved his finger on.
 
 Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The cough wanted an answer. Brutus gave none.
 
-Brutus’s money sat outside the door like a creditor not invited. The lender’s note had come that afternoon, and Brutus had not answered it. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
+Brutus’s money sat outside the door like a creditor not invited. The lender’s note had come that afternoon, for the silver Brutus had borrowed against his games of Apollo in July, and he had not answered it. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
 
 “If anyone talks between now and dawn,” Cassius said, “we are not liberators. We are a joke that bleeds.”
 
