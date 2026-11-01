@@ -66,7 +66,7 @@ Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway,
 
 Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
-“The city is theatrical,” he wrote, then sharper: “Theatre is what remains when men of standing refuse to stage a Republic.”
+*The city is theatrical*, he wrote, then sharper: *Theatre is what remains when men of standing refuse to stage a Republic.*
 
 He read it back and was pleased. That was the danger of Cicero: he was nearly always pleased by the sentence in front of him, and rarely asked what it was for.
 

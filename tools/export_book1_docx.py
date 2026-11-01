@@ -81,6 +81,11 @@ CRAFT_BOLD_LINE = re.compile(r"^\*\*")
 
 # Inline *italic* (the manuscript uses single asterisks only).
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
+# **Bold** labels survive only in back matter (cast names, note lead-ins); they
+# render as small caps, as in the print interior.
+BOLD = re.compile(r"\*\*(.+?)\*\*")
+# Numbered list lines in a chapter (Ch 30's ledger list).
+LIST_ITEM = re.compile(r"^\d+\.\s")
 
 # Anything that should never reach a reader: markup, scene ids, card fields,
 # canon/lock tags, editor notes.
@@ -287,6 +292,7 @@ def setup_document(doc: Document) -> None:
 
 
 def to_runs(text: str) -> Runs:
+    text = BOLD.sub(r"\1", text)
     runs: Runs = []
     pos = 0
     for m in ITALIC.finditer(text):
@@ -302,6 +308,12 @@ def to_runs(text: str) -> Runs:
 def add_para(doc: Document, text: str, *, style: str | None = None, small_caps_words: int = 0):
     """Paragraph from markdown text; optionally set the opening words in small caps."""
     p = doc.add_paragraph(style=style)
+    if BOLD.search(text):
+        for j, part in enumerate(BOLD.split(text)):
+            for chunk, italic in to_runs(part):
+                r = p.add_run(chunk)
+                r.italic, r.font.small_caps = italic or None, (j % 2 == 1) or None
+        return p
     for i, (chunk, italic) in enumerate(to_runs(text)):
         if i == 0 and small_caps_words and not italic:
             words = chunk.split(" ")
@@ -355,16 +367,16 @@ def page_break(doc: Document) -> None:
 
 
 def parse_back_matter(path: Path) -> list[tuple[str, str]]:
-    """A back-matter page as (text, role): headings, bullets, prose; bold dropped."""
+    """A back-matter page as (text, role): headings, bullets, prose; bold kept for small caps."""
     out: list[tuple[str, str]] = []
     for raw in path.read_text(encoding="utf-8").splitlines():
-        line = raw.strip().replace("**", "")
+        line = raw.strip()
         if not line:
             continue
         if line.startswith("# "):
-            out.append((line[2:].strip(), "back_head"))
+            out.append((line[2:].strip().replace("**", ""), "back_head"))
         elif line.startswith("## "):
-            out.append((line[3:].strip(), "back_sub"))
+            out.append((line[3:].strip().replace("**", ""), "back_sub"))
         elif line.startswith("- "):
             out.append(("• " + line[2:].strip(), "back_item"))
         else:
@@ -439,8 +451,15 @@ def render_reading(doc: Document, paras: list[tuple[str, str]]) -> None:
             p.paragraph_format.space_before = Pt(36)
             for r in p.runs:
                 r.font.small_caps, r.font.size = True, Pt(9)
+        elif role == "body" and LIST_ITEM.match(text):
+            p = add_para(doc, text)
+            p.paragraph_format.left_indent = Inches(0.45)
+            p.paragraph_format.first_line_indent = Inches(-0.2)
+            p.paragraph_format.space_before = Pt(4 if prev != "item" else 0)
+            p.paragraph_format.space_after = Pt(2)
+            role = "item"
         else:  # body prose: first paragraph of a run flush, opening words in small caps
-            opening = prev in ("title", "scene", "back_head", "back_sub", "back_item")
+            opening = prev in ("title", "scene", "back_head", "back_sub", "back_item", "item")
             p = add_para(doc, text, small_caps_words=3 if prev == "title" else 0)
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             if not opening:
