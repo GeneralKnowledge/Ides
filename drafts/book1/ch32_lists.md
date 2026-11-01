@@ -110,7 +110,7 @@ Overhear risk: Soldiers at the door
 
 ---
 
-The steward gave her two jars of Alban, a basket of bread and a direction. “The mistress’s mother has sent half her people home to their villages,” he said. “She wants hands that carry and don’t talk. You don’t talk.”
+The steward gave her two jars of Alban, a basket of bread and a direction. “The master’s mother has sent half her people home to their villages,” he said. “She wants hands that carry and don’t talk. You don’t talk.”
 
 Nysa didn’t ask why a house would send its people away in the week the walls grew names. She took the basket on her hip and the jars by their necks and went down the lane with her eyes on the cobbles.
 
