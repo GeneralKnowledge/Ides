@@ -48,3 +48,10 @@ Row 1, Act 2 (Ch 8–12). About 725 words cut (about 9% of the five chapters, sh
 - Changed passages re-read in place with their neighbours and dependencies (§5.4): Plotius (Ch 33), Ch 34 “the two from June”, Ch 18 and Ch 32 Bucco, the SIDE-1 clue schedule (Act 5 tablets burnt), Ch 15 Trebonius.
 - No new one-word or verbless caption sentences in narration (habit I); no em dashes; no narrator source citations.
 - Reading words after the round: about 90,750 (cuts about 1,950, additions about 2,350). The triage doc’s estimate of about 88,000 assumed deeper Act 2 cuts.
+
+## Follow-up from the consolidated v4 re-read (2026-11-04)
+
+Reuben picked rows 1 and 2 of the v4 triage. No other changes.
+
+- **Ch 35 SC-91, Cassius's own mistake.** Evidence: v4 asked that Cassius make a real error, and the earlier line wrongly had him "right … about the causeway", when Antony's ten-night causeway through the marsh went unseen by Cassius until it was finished (App. *BC* 4.109). Fix: the causeway is built "under his eyes", and his hill moment now says he was right about Brutus's haste but not about the reeds, which he looked at every morning for ten nights and saw only reeds.
+- **Ch 9, Cassius's reply.** "That is a different argument" read as a planning note. Now "That is another question." Decimus's answer stands.

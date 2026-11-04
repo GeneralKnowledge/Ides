@@ -39,7 +39,7 @@ A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s
 
 “If I bring him,” Decimus said at last, “you finish clean. No massacre. No Antony first, unless you have already decided otherwise.”
 
-“That is a different argument,” Cassius said.
+“That is another question,” Cassius said.
 
 “Then argue it before I walk him anywhere,” Decimus said. “I can walk him to the right threshold and give the signal. Trebonius can keep him with remounts and Gaul paper until the world ends. I will not supply a butcher’s yard and call it friendship.”
 

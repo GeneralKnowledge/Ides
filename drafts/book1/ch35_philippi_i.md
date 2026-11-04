@@ -126,7 +126,7 @@ Overhear risk: Few
 
 By noon Cassius had lost his camp.
 
-He had watched it go from the slope above the marsh. Antony’s men came up out of the reeds at the end of the causeway they had spent ten nights building, and the palisade went down in one place and then in three, and his tents were burning before the trumpets on his own side had finished arguing about what to sound. He took a standard from a man who was running past him and drove it into the ground at his feet. The man kept running. Now Cassius stood on a low hill above the ruin with a few officers, a handful of horse and Pindarus, and below him the plain was dust.
+He had watched it go from the slope above the marsh. Antony’s men came up out of the reeds at the end of the causeway they had spent ten nights building under his eyes, and the palisade went down in one place and then in three, and his tents were burning before the trumpets on his own side had finished arguing about what to sound. He took a standard from a man who was running past him and drove it into the ground at his feet. The man kept running. Now Cassius stood on a low hill above the ruin with a few officers, a handful of horse and Pindarus, and below him the plain was dust.
 
 It was his birthday. The cook had said so at dawn, over the bread, and Cassius had told him to save it for the evening.
 
@@ -156,7 +156,7 @@ Nobody contradicted him. From the hill it looked exactly like that. It looked li
 
 “Give him the time it takes to ride back,” said the older officer. “If they have him, they will come up for us next, and then we will know.”
 
-It was good advice. Cassius had given the same advice himself once, in the desert, to a general who would not take it. He had been right then, and he had been right all through this summer, about the causeway, about the marsh, about Brutus wanting the battle before the plain had starved, and no one had listened, and now his tents were burning below him because no one had listened. He had been waiting for other men to bring him the truth since dawn.
+It was good advice. Cassius had given the same advice himself once, in the desert, to a general who would not take it. He had been right then, and he had been right all summer about Brutus wanting the battle before the plain had starved, and no one had listened. He had not been right about the reeds. He had looked down at them every morning for ten nights and seen only reeds, and now his tents were burning below him because of it. He had been waiting for other men to bring him the truth since dawn.
 
 “No,” he said. “I have seen enough of it.”
 
