@@ -14,7 +14,7 @@ Overhear risk: The household
 
 ---
 
-There were four of them in Calenus’s dining room by the second lamp, and they were quarrelling over who should be allowed to risk his life.
+In Rome, in the week the lists went up, there were four of them in Calenus’s dining room by the second lamp, and they were quarrelling over who should be allowed to risk his life.
 
 “I have the farm at Reate,” said one. “His own country. Nobody would look for him in his own country.”
 
