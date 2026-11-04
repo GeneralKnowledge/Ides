@@ -4,6 +4,10 @@
     python tools/export_book1_docx.py           # write exports/
     python tools/export_book1_docx.py --check   # verify the tracked full copy
 
+The full copy is written twice: the tracked 6 x 9 in book layout (default),
+and an untracked A4 copy (``*_A4.docx``) for reading or printing on A4 paper.
+A 6 x 9 page printed on A4 sits small in one corner; use the A4 copy for that.
+
 The full copy is stamped with the manuscript commit (last commit touching
 drafts/book1), its date, the generation date and a digest of the chapter
 sources. --check rebuilds the reading text from the working tree and fails
@@ -27,12 +31,13 @@ from docx.enum.section import WD_SECTION
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from docx.shared import Inches, Pt, RGBColor
+from docx.shared import Cm, Inches, Pt, RGBColor
 
 ROOT = Path(__file__).resolve().parents[1]
 DRAFTS = ROOT / "drafts" / "book1"
 EXPORTS = ROOT / "exports"
 FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-37.docx"
+A4_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-37_A4.docx"
 CHAPTER_COUNT = 37
 # Optional prologue before Chapter 1, header "# Prologue: Title"; parsed as number 0.
 # Inserted chapters (ch36a_*.md, "# Chapter 36a: Title") sit after their base
@@ -256,19 +261,26 @@ Runs = list[tuple[str, bool]]  # (text, italic)
 
 # Book layout: 6 x 9 in trim, Georgia, indented justified prose, each act and
 # chapter on a fresh page. Paragraph text is what --check compares; layout is not.
+# The A4 layout keeps fonts and page breaks, fills an A4 sheet with 2.5 cm
+# margins, and sets the body a size up so the longer line stays readable.
 FONT = "Georgia"
 INK = RGBColor(0x22, 0x22, 0x22)
+LAYOUTS = {
+    "6x9": dict(width=Inches(6), height=Inches(9), top=Inches(0.8), side=Inches(0.75), body=10.5),
+    "a4": dict(width=Cm(21), height=Cm(29.7), top=Cm(2.5), side=Cm(2.5), body=12),
+}
 
 
-def setup_document(doc: Document) -> None:
+def setup_document(doc: Document, page: str = "6x9") -> None:
+    lay = LAYOUTS[page]
     sec = doc.sections[0]
-    sec.page_width, sec.page_height = Inches(6), Inches(9)
-    sec.top_margin = sec.bottom_margin = Inches(0.8)
-    sec.left_margin = sec.right_margin = Inches(0.75)
+    sec.page_width, sec.page_height = lay["width"], lay["height"]
+    sec.top_margin = sec.bottom_margin = lay["top"]
+    sec.left_margin = sec.right_margin = lay["side"]
 
     normal = doc.styles["Normal"]
     normal.font.name = FONT
-    normal.font.size = Pt(10.5)
+    normal.font.size = Pt(lay["body"])
     normal.font.color.rgb = INK
     normal.element.rPr.rFonts.set(qn("w:eastAsia"), FONT)
     pf = normal.paragraph_format
@@ -492,9 +504,10 @@ def build_doc(
     stamp: dict[str, str],
     back: list[tuple[str, str]] = [],
     front: list[tuple[str, str]] = [],
+    page: str = "6x9",
 ) -> Document:
     doc = Document()
-    setup_document(doc)
+    setup_document(doc, page)
     paras = reading_paragraphs(chapters, end_line, back, front)
 
     # Title page
@@ -720,20 +733,25 @@ def main() -> None:
     )
     source = stamp_line(stamp)
 
-    full = build_doc(
-        all_ch,
-        subtitle="Book 1: FULL Review Draft (Chapters 1–37)",
-        banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 37 CHAPTERS · OPENS WITH THE PROLOGUE",
-        blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · cast, offices, prologue, chapters 1–37, historical note and timeline",
-        end_line=FULL_END_LINE,
-        stamp=stamp,
-        back=full_back(),
-        front=full_front(),
-    )
+    def full_doc(page: str) -> Document:
+        return build_doc(
+            all_ch,
+            subtitle="Book 1: FULL Review Draft (Chapters 1–37)",
+            banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 37 CHAPTERS · OPENS WITH THE PROLOGUE",
+            blurb="Prose export for reading · metadata stripped\n" + label,
+            source_note=f"Source: {source} · cast, offices, prologue, chapters 1–37, historical note and timeline",
+            end_line=FULL_END_LINE,
+            stamp=stamp,
+            back=full_back(),
+            front=full_front(),
+            page=page,
+        )
+
+    full = full_doc("6x9")
     full.save(FULL_PATH)
     # Alias used by earlier review packets
     full.save(EXPORTS / "Ides_Book1_Review.docx")
+    full_doc("a4").save(A4_PATH)
 
     golden_ch = [c for c in all_ch if 14 <= c[0] <= 19]
     golden = build_doc(
@@ -750,9 +768,10 @@ def main() -> None:
     golden.save(EXPORTS / "Ides_Book1_Golden_ONLY_Ch14-19.docx")
 
     print(f"Wrote {FULL_PATH}")
+    print(f"Wrote {A4_PATH}")
     print(f"Wrote {golden_path}")
     print(source)
-    sys.exit(check(FULL_PATH))
+    sys.exit(check(FULL_PATH) or check(A4_PATH))
 
 
 if __name__ == "__main__":
