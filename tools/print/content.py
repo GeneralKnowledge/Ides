@@ -70,6 +70,10 @@ def build() -> tuple[list[Path], dict]:
     files, chapters = ex.load_chapters()
     acts = dict(ex.ACTS)
     sections: list[dict] = []
+    for path in ex.FRONT_MATTER:
+        if not path.exists():
+            raise SystemExit(f"missing front matter: {path.relative_to(ex.ROOT)}")
+        sections.append(parse_back(path))
     for num, title, blocks in chapters:
         sec: dict = {
             "kind": "chapter",
@@ -84,7 +88,10 @@ def build() -> tuple[list[Path], dict]:
             sec["act"] = {"label": label, "title": name}
         for kind, text in blocks:
             if kind == "scene":
-                t = "scene"
+                # As in the DOCX: an unnamed break, none at a chapter's top.
+                if sec["blocks"]:
+                    sec["blocks"].append({"t": "scene", "runs": runs(ex.SCENE_BREAK)})
+                continue
             elif LIST_ITEM.match(text):
                 t = "item"
             else:

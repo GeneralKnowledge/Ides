@@ -45,7 +45,7 @@ The client wanted a moral. Hordeonius gave him a rate. The client’s mouth open
 
 Sosia, at Hordeonius’s elbow, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in.
 
-Hordeonius kept the rate where it was. He tapped the tablet once, soft and final.
+Hordeonius kept the rate where it was. He tapped the tablet once.
 
 “I honour the dead with arithmetic,” he said, careful. “I honour the living with invoices. Land that is not yet land does not clear. Pay this, or take your patriotism to a stall that sells wishes.”
 

@@ -29,7 +29,7 @@ Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens h
 
 “And the other half?”
 
-“Believes him less, for the same reason.” It was the sort of story that travelled well before any morning that could prove it.
+“Believes him less, for the same reason.”
 
 “And Spurinna,” the washerwoman added, “the one who reads the livers, told him to beware until the Ides of March. Beware is a priest’s whole trade.”
 
@@ -47,17 +47,17 @@ Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. T
 
 “Everyone who doesn’t have to pay for the cheese.”
 
-Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb. Doors that stayed careful meant fewer costs for incomplete messages. Senate and gods could keep their own names.
+Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb.
 
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for days, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the tablet and the chickens and didn’t decide which was true. Sleep that ran was still sleep. Prophecy that sold was still sale.
+Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for days, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the tablet and the chickens and didn’t decide which was true.
 
 Phileros passed through the court and sniffed, the steward’s keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
 “Mats don’t beware,” Dama muttered, just soft enough.
 
-Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile. That was how house humour worked when it was also an order.
+Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile.
 
-Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening. Listening kept you fed.
+Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening.
 
 Later, in the Subura, among the tenements and tanners and fish-stink where gossip was the main local industry, she told Medullina that the house was full of birds and priests. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
 
@@ -88,8 +88,6 @@ Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in so
 
 Cicero had worn the augur’s robe himself and knew how a priestly college found what it was looking for. He had watched the Sibyl’s keepers go down to the vault under Jupiter’s temple when the city was frightened, and come back up with whatever the city had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
-Below the elite dinners, he knew, kitchens were already trading birds and beware like recipes. He did not need a servant’s name to know omen talk moved faster than letters. Street piety and Sibylline piety sold the same hunger.
-
 “Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
 
 Cicero suspected Balbus of most things and had been right about perhaps half.
@@ -100,15 +98,15 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 “The room has no choice, master.”
 
-He was wrong about the floater. Wrong guesses were still useful; they proved the air was combustible. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out. Letters were lamp oil. Lamp oil could also burn.
+He was wrong about the floater. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out.
 
-He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) found his Demosthenes voice in time. He had always had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic. Capys tablets and sullen chickens were topics too, until someone made them into policy.
+He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) found his Demosthenes voice in time. He had always had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic.
 
 He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him.
 
 Outside, a courier waited, Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
 
-He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.” *Occupied* and *clear*: the words sounded like action and were a refusal to leave the desk.
+He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.”
 
 The courier hesitated. “He asked for you in the room, not on the tablet.”
 

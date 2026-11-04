@@ -1,4 +1,4 @@
-# Chapter 10: Almost / Soften / Body
+# Chapter 10: A Question at Dinner
 
 **Scenes:** SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
 
@@ -42,7 +42,7 @@ Favonius laughed. Basilus did not. Labeo sat up on his elbow.
 
 “Nor do Epicureans, I expect,” said Labeo. “Too far to walk.”
 
-That got the laugh, and Statilius gave it to him gladly. He liked Labeo. He liked all of them; he had known most of them since the schools, since they had been young men arguing about the gods with nothing at stake but supper. Labeo pressed on. He argued that a man who saw a wrong and could right it and did not was as guilty as the man who did it. Favonius argued back. It went round the couches the way such arguments always did, pleasantly, with the wine.
+That got the laugh, and Statilius gave it to him gladly. He liked Labeo. He liked all of them; he had known most of them since the schools, since they had been young men arguing about the gods with nothing at stake but supper. Labeo pressed on, Favonius argued back, and it went round the couches the way such arguments always did, pleasantly, with the wine.
 
 Brutus said almost nothing. He listened to each of them with the same courteous attention, and once he smiled at something Statilius said about the gods having the sense to live in the gaps between worlds where nobody could petition them. When the argument began to tire he said that it was a hard question and he did not think the ancients had settled it either, and asked Favonius about his farm.
 
@@ -82,9 +82,7 @@ A. Visellius Ralla’s tablet sat among the honest ones, interest tidy, excuses 
 
 L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
 
-So that was what the whispering had come to: not knives, but a request to a banker. Men who planned to change the world needed money, and money lived in ledgers, and ledgers were kept by people who did not care what the world turned into so long as the Kalends arrived.
-
-Hordeonius didn’t laugh. Bankers who laughed at piety ended as tavern stories. He slid Visellius’s tablet an inch closer to himself and let Paullus watch the wax refuse to travel.
+Hordeonius didn’t laugh. He slid Visellius’s tablet an inch closer to himself and let Paullus watch the wax refuse to travel.
 
 “I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
 
@@ -98,11 +96,9 @@ Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did no
 
 Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring.
 
-Sosia, his collector, muttered that philosophers were bad for the Kalends. Hordeonius agreed solemnly, which made Sosia look at him as if he had told a joke. He hadn’t.
+When the perfume had cleared, Sosia, his collector, jerked a chin at the empty stool. “And if someone softens Basilus anyway, for liberty?”
 
-When the perfume had cleared, Sosia jerked a chin at the empty stool. “So if someone softens Basilus for liberty…”
-
-“Then bring me a name that bleeds,” Hordeonius said, already blotting. “Otherwise Visellius pays as written.” He entered *soft hours, storm weather* without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
+Hordeonius entered *soft hours, storm weather* without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
 
 “You do not have to join it,” Sosia said. “You only have to charge the people standing in it.”
 
@@ -132,9 +128,7 @@ Neighbours already filled the stair with theories. Hordeonius filed them without
 
 “He was,” Hordeonius told the silent mess, “a credit to his father’s manumission. Paid on the Kalends. Do you know how rare that is in this city of philosophers?”
 
-Nobody answered. The dead never did. That was why ledgers needed the living.
-
-He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract. Tablets, he noted, could kill as quietly as speeches.
+He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract.
 
 A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. This stair will remember the smell longer than the Senate remembers the name.”
 
@@ -142,7 +136,7 @@ A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, 
 
 “Everyone who owed him,” said the water-carrier. “Or everyone he owed. Same thing, with a ledger.”
 
-Hordeonius did not correct her. Street mouths carried what senators forgot on purpose. He filed her sentence beside the three stair theories and kept the one open question: killer still unknown, and the smell already in the stairwell.
+Hordeonius did not correct her. He filed her sentence beside the three stair theories and kept the one open question: killer still unknown, and the smell already in the stairwell.
 
 ---
 

@@ -18,9 +18,9 @@ Overhear risk: Extreme inside
 
 In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-One door. Too many togas. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’s cheer still faintly on him like perfume. He sat. Or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
+There was one door, and there were too many togas. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching: the most honest piece of furniture in Rome. Caesar came in with that slight forward lean of a man late for his own power, Decimus’s cheer still faintly on him like perfume. He sat, or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
 
-Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself. The slight turn. The listening face. The clemency decrees still wet on the Republic’s memory.
+Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself: the slight turn, the listening face.
 
 Other senators crowded round the chair with the careful, helpful faces of men who wanted to second the request. It was the natural thing to do. It also put twenty men within arm’s reach.
 
@@ -42,7 +42,7 @@ He didn’t see a tyrant in that instant. He saw a body that had walked through 
 
 Around him the room became teeth.
 
-Senators who were not in it screamed anyway. Benches shrieked on stone. Someone fell without being struck, panic’s own casualty. Cassius smelled blood and dust and the sweet oil in Caesar’s hair. He kept his face tight. Soft faces in a killing lost the killing.
+Senators who were not in it screamed anyway. Benches shrieked on stone. Someone fell without being struck, panic’s own casualty. Cassius smelled blood and dust and the sweet oil in Caesar’s hair. He kept his face tight.
 
 The plan had been simple, and in the room it was not. There were more than sixty of them, and not all of them knew where to stand. Men struck at Caesar and at each other. A blade opened Brutus’s hand. The conspirators had sworn to be a surgery and they were, for a few breaths, a pack.
 
@@ -97,9 +97,9 @@ Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Ca
 
 Brutus understood it a breath late. One steep road up, Jupiter’s walls at the top: a few men could hold it, and the whole city would know where to look.
 
-At the door Cassius said it again, softer, for Brutus alone. “Capitol. Trebonius has Antony talking in the portico, and talk does not hold a consul long.”
+At the door Cassius said it again, low, for Brutus alone. “Capitol. Trebonius has Antony talking in the portico, and talk does not hold a consul long.”
 
-Brutus looked once more at the shape on the stones. Softness tried to rise in him. Not the abstract debt: the December evening of the praetorship, when Caesar had given him the first chair over Cassius and then kept him late anyway, as if he wanted the company. The leaking cistern. The laugh Brutus could not take back. The hand on his shoulder at the door. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
+Brutus looked once more at the shape on the stones. Something rose in him that was not the abstract debt: the December evening of the praetorship, when Caesar had given him the first chair over Cassius and then kept him late anyway, as if he wanted the company. The leaking cistern. The laugh Brutus could not take back. The hand on his shoulder at the door. That was the betrayal’s true size. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
 
 “Capitol,” Brutus said, public word with private cost, and they went out into light that did not know what it was lighting.
 
@@ -126,7 +126,7 @@ Nysa hadn’t meant to follow the litter far. Girls who followed too far became 
 
 She was still on the edge of the Campus crowd when the Curia began to spit men.
 
-Togas with red. Togas without dignity. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name. Names could not reverse blood.
+Men ran past with red on their togas and their dignity left on the benches. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name.
 
 “Knives!”
 “Brutus!”

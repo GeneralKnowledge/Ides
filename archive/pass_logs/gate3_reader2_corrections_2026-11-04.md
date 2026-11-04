@@ -1,0 +1,50 @@
+# Gate 3, reader 2: correction round (2026-11-04)
+
+**Purpose and scope (§5):** the second reader’s questionnaire, triaged with reader 1’s seven held points in one table (31 rows): https://claude.ai/artifact/Dj56ygttT9oXMUrNpeRGu9. Full text in project files `reports/gate3/reader2_review_2026-11-04.md`. Reuben approved rows 1–13 as recommended (“Make these changes”, 2026-11-04). This file records that round. It is added to PR #189, so readers 1 and 2 share one correction round under `writing/FINAL_READINESS_GATE.md` Gate 3.
+
+**Independence caveat:** reader 2 repeats reader 1’s specific errors and wording (the same anachronism list in order, the same vultures quotation, the same “quick lie” misreading at Julia’s door, the same six deaths including Trebonius, “cut 30–40%”). The two reviews are treated as one opinion. Gate 3 still needs a reader who has not seen the project.
+
+Reader 2 read the book before #189; four of the complaints (Decimus’s death, fragments and antitheses, Nysa’s wax, the prologue) were already answered there.
+
+## Revision (repetition cuts, §1 light rule)
+
+Row 1, Act 2 (Ch 8–12). About 725 words cut (about 9% of the five chapters, short of the 20–25% the triage estimated). The cuts are thesis tags, recaps of the scene just played, narrator bridges and once-only business; the remaining material carries plants (Galba’s winter, Casca’s doors, Statilius’s question and Labeo, Visellius and Bucco, Capys and Spurinna, the wax, Phileros, the pediment), so I stopped there rather than cut story.
+
+- Ch 8: cut Appian-villas fragment list folded; clerk drainage exchange (once-only, delays Galba); Compartments aphorism + 'cost entered the room' wrapper; masks/Senate exchange (masks motif repeated 5x in scene); 'not surgery in the blood' antithesis folded; Brutus pictures Caesar's face (repeats the debt/warmth beat 2 paragraphs up); end recap 'He had not said yes...' (repeats his line).
+- Ch 9: Trebonius hold now briefed once (SC-22 Gaul paper); SC-23 Decimus's re-description of the hold cut to a reference; cut aphorisms 'jokes were how men talked…', 'Small nods moved armies', 'Some jokes…twice'; recap of Ch 8 inch; 'stored the loss like interest' (repeats Ch 8).
+- Ch 10: Labeo summary folded; SC-25 explainer paragraph on money/ledgers cut (narrator explains what the scene shows) + 'Bankers who laughed' aphorism; Sosia's follow-up repeated Hordeonius's 'name that bleeds…pays as written' verbatim from 6 lines up, cut (kept soft hours ledger entry and umbrella line, Ch 15 plant); 'philosophers bad for Kalends' beat cut; SC-25b three aphorism tags cut ('dead never did', 'Tablets could kill', 'Street mouths carried'). Visellius/Bucco/Basilus plants intact.
+- Ch 11: nine aphorism/thesis tags cut (story travelled well; doors careful; sleep that ran; house humour; listening kept you fed; wrong guesses useful; letters lamp oil; Capys topics; Occupied and clear explainer); Cicero's bridge paragraph on kitchens trading birds cut (narrator connects the two POVs; Cicero cannot know it). Capys, Spurinna, Calpurnia three versions, Hirtius refusal intact.
+- Ch 12: cut 'Thanks made servants into prophets' aphorism; privacy explainer; 'Cheerful men blended' (repeats Nysa's line above); half-truths thesis folded; end-of-SC-29 recap (restates fragment, near-catch and attendant's line just played; kept Medullina plant); 'Trust was habit' tags. Wax, Phileros near-catch and pediment plants intact.
+
+- Row 2 (Trebonius hold): Ch 13 SC-31 cut Decimus's re-brief (Gaul talk, debt talk) and the narrator's Antony portrait, both already given in Ch 9 SC-22/23; kept the new material (portico timing, if-he-smells-it contingency, Glaucia cover story). Ch 15: Trebonius's 'another market day: Gaul talk, debt talk' line to Antony (restates the plan aloud to its target) and 'That was the point.' cut. Protected beat (Trebonius holds Antony) untouched.
+- Ch 23 SC-64 (row 3): about half cut: priests-prodigies simile; the third-voice Antium/Servilia exchange (Ch 24 opens at Antium itself, so the preview repeats it); 'which rumour empties a purse' pricing line (the scene's fourth pricing beat); Antium margin entry and the clerks-smiled aphorism. Kept: Caesar's acts as market, papers at Antony's house, Sicily and the eastern king (Att. 14.12), 'weigh a dead man like grain', boy-Caesar entry.
+- Ch 31 SC-82 (row 8): about 15% cut (2,520 → ~2,175 words): opening verbless fragments folded (habit I); thumb-on-blank-wax beat; army description and Decimus walking Plancus's lines; 'work of June: letters'; Plotius kept to one clause (pays Ch 33 SC-86b); valley-eating aphorism; Decimus's three-day deliberation before asking about Pollio (the beat that most telegraphed Plancus); goose story; 'wanted to see it alone'; counting cohorts recap; 'counted betrayals' tag; aide's 'did not pursue' exchange; 'Trust had been the key' (Ch 9 must-not); Pedian-court fragments folded (habit I). Ford and Camelus (#189) untouched.
+
+## Development (§1a)
+
+- Ch 31 SC-82b (row 5, development §1a): new Porcia POV scene, ~1,050 words. Story need: her death existed only in reported letters. She wants to write to Brutus in her own words; Servilia's managing household resists; she sends her sealed three lines and the maid to bed. Ends before any act (Plut. Brut. 53 three versions held). Stitch in SC-82a: Brutus reads her letter, keeps it out of the box (Ch 34 'the two from June' still true).
+- Ch 36 SC-95 (row 4, development §1a): Visellius close made a choice: Bucco back at the Janus; Basilus killed by his own slaves (App. BC 3.98); Hordeonius weighs selling to Bucco / a praetor / keeping, burns both copies. Story need: readers took SIDE-1 as forgotten. Pays Ch 10 tablets, Ch 18 and Ch 32 Bucco; clue schedule Act 5 'tablets burnt'. OPEN-0 held (he still doesn't know which hand).
+- Ch 35 SC-91 (row 6): Cassius's misjudgement made his own: an officer advises waiting for Titinius to ride back; Cassius remembers giving that advice at Carrhae, has been right all summer and unheeded, refuses ("I have seen enough of it"), knowing he acts on half a report (Plut. Brut. 43; Crass. for Carrhae). Answers reader 1 #5 (a mistake Cassius owns) and reader 2 (rushed).
+- Ch 36 SC-92 (row 6 stitch): Brutus's opening "versions" fragments (habit I) replaced by what he now knows: the horsemen were his own, they embraced Titinius, Titinius came back with the wreath and killed himself (Plut. Brut. 43–44). The reader now learns the mistake.
+- Ch 20 SC-53 (row 11, development): Cleopatra's scene now turns on a decision. Opens undecided (chests aired, not packed); Ammonius argues to stay while Antony's house holds Caesar's papers and a friend hints a page about Egypt could be found for a price; the clerk counts Caesarion with the linen ('Everything in the house'); she decides to leave and keep the claim for Alexandria. Kept: CLEO-1 lodging, Venus statue, Cicero's books (Att. 15.15), 'Father belongs to their Forum', clerk inspection, Ch 27 payoff. Cut: smoke/flight/sail aphorisms, the 'soft mouths' exchange. Caesarion's age 3 (b. 47).
+
+## Single lines, titles, apparatus
+
+- Ch 34 SC-88b (row 7): two-line recall of Ch 9 SC-23 ('Antony is not Caesar… go where the honour is', the #189 line) before he orders Gaius killed; the cost of the spare now lands on Brutus. Trebonius's death (Ch 29) named.
+- Row 9 orienting lines: Ch 28 SC-73 (Mutina, first winter of the siege, Antony's lines round the town, Decimus inside); Ch 34 SC-87 (Tarsus, that winter: App. BC 4.64), SC-88 (the mint with the army in the Macedonian camps); Ch 35 SC-89a (Abydos on the Hellespont, crossing to Europe; Plut. Brut. 36). Checked and left: SC-79/80 Forum Gallorum (oriented by the road paragraph), SC-87a Laodicea, SC-88c Sardis, SC-90 Philippi (two hills, marsh, causeway), SC-92 (twenty days on), Ch 24–25 (place named in first lines), Ch 29 Smyrna.
+- Ch 31 SC-83 (row 13): one line after Agrippa's 'That's the art': six is the augur's, twelve the camp's second Romulus; Octavian will not correct them. App. BC 3.94 / Suet. Aug. 95 both still followed.
+- Row 12: chapter titles that read as working notes renamed: Ch 10 'Almost / Soften / Body' → 'A Question at Dinner'; Ch 12 'Dread / Fragment / Weather' → 'Lesser Nightmares'; Ch 13 'GO' → 'The Night Before'; Ch 36 'Philippi II and Hooks' → 'Philippi II'. Filenames unchanged.
+- Row 10: cast list moved to the front of the reading copy (DOCX and print: FRONT_MATTER in tools/export_book1_docx.py, tools/print/content.py; book1.typ contents guard; docs.py and QA labels). Entries that would spoil the plot from the front reworded (Gaius killed at Mutina, Visellius murdered, Caieta, Sardis, Philippi, Varro proscribed, Canus hid Atticus, Cornelius's sword). Added Leda† and Camelus. Once-only officer names: searched the reading text; almost none are invented or unnamed-function officers (the minor names are attested people: Cornutus, Pella, Theomnestus, Cratippus, Cannutius), so nothing cut.
+
+## Not done in this round
+
+- Rows 18–21 (Fulvia scene, proscription consequences, splitting Ch 31/32, Brutus’s death) wait for an independent reader. Ch 31 is now the longest chapter (about 8,400 words in the file with the Porcia scene), which strengthens the case for row 20.
+- Rows 22–31 declined, as in the triage doc.
+
+## Checks
+
+- `python tools/export_book1_docx.py --check`: OK, 36 chapters, 2871 reading paragraphs, no leaks; the cast list now opens the copy, before the prologue.
+- Print interior rebuilt with `tools/print/build_book1_print.py` (word read-back against the manuscript; recto openings include the cast list).
+- Changed passages re-read in place with their neighbours and dependencies (§5.4): Plotius (Ch 33), Ch 34 “the two from June”, Ch 18 and Ch 32 Bucco, the SIDE-1 clue schedule (Act 5 tablets burnt), Ch 15 Trebonius.
+- No new one-word or verbless caption sentences in narration (habit I); no em dashes; no narrator source citations.
+- Reading words after the round: about 90,750 (cuts about 1,950, additions about 2,350). The triage doc’s estimate of about 88,000 assumed deeper Act 2 cuts.

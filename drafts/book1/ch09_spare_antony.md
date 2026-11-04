@@ -47,11 +47,9 @@ A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s
 
 “Trebonius signed half of it. Antony spent a decade pretending to read it. It is the one subject that can hold a consul an hour without his noticing the hour has gone.”
 
-He almost smiled at Trebonius’s delay-talk, then didn’t. Smiling made the plan feel like a joke, and jokes were how men talked themselves out of courage.
-
 “I will bring him,” Decimus said. “You do the rest without turning the Senate into meat. Or I am not your summons. I am only another corpse who used to know which jokes Caesar still liked.”
 
-Cassius’s nod was small. Small nods moved armies.
+Cassius nodded, once.
 
 Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and the voices behind him were not as low as they believed.
 
@@ -88,7 +86,9 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “The city will call us animals anyway,” Cassius said.
 
-“Then let them be wrong about the pile,” Brutus answered. His eyes flicked to Decimus, proof the inch from last night still governed him: hearing meant surgery, not cordwood.
+“Then let them be wrong about the pile,” Brutus answered, and his eyes went to Decimus.
+
+“And Antony is not Caesar,” Brutus said. “Take Caesar away and he is a consul with a good name and a great hunger to be thanked. Give him the Republic to save and he may save it with us. Men like that go where the honour is.”
 
 “You are very sure of what Antony will do,” said Trebonius, from the wall.
 
@@ -96,7 +96,7 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “You would not have the sandals,” Trebonius said. “That is why he is the consul and you are a praetor.”
 
-Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, the place where Trebonius could turn a laugh into a leash, as if he were pricing a route for mules. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius can hold him with business, Gaul talk, debt talk, remounts that never quite arrive. That is his talent.”
+Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, as if he were pricing a route for mules. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius has his Gaul paper.”
 
 “I do have a gift,” said Trebonius.
 
@@ -104,7 +104,7 @@ Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, the p
 
 “Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
 
-Brutus held the spare. Cassius stored the loss like interest, visible in the jaw, kept for later collection. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
+Brutus held the spare, and Cassius let it go for now. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
 
 “The chickens,” said Trebonius, as the foot faded, “are the great unsung heroes of the Republic.”
 
@@ -124,7 +124,7 @@ Decimus’s mouth twitched despite himself. “Say it louder when we are farther
 
 “I am saying it now so you remember the price while your hands are still clean,” Cassius said. Then, brighter, for a passerby: “Yes, rain tomorrow, if the chickens agree.”
 
-At the garden gate Decimus stopped at the fountain and washed his hands, though there was nothing on them yet. Brutus watched him do it and said nothing. Some jokes a man did not get to make twice.
+At the garden gate Decimus stopped at the fountain and washed his hands, though there was nothing on them yet. Brutus watched him do it and said nothing.
 
 ---
 

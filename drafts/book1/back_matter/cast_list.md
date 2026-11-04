@@ -14,7 +14,7 @@
 
 ## The conspirators
 - **Marcus Junius Brutus**, praetor
-- **Porcia**, his wife, Cato’s daughter
+- **Porcia**, his wife, Cato’s daughter; **Leda**†, her maid
 - **Servilia**, his mother; **Hilarus**†, her steward at Antium
 - **Gaius Cassius Longinus**, praetor; **Tertulla**, his wife, Brutus’s half-sister
 - **Decimus Junius Brutus Albinus**, Caesar’s officer, governor-elect of Cisalpine Gaul
@@ -26,10 +26,10 @@
 - **Lucius Minucius Basilus**
 - **Marcus Favonius**, Cato’s shadow, who was not asked
 - **Statilius**, the Epicurean, who was not asked either
-- **Strato** of Aegae and **Publius Volumnius**, with Brutus at Philippi
+- **Strato** of Aegae and **Publius Volumnius**, Brutus’s friends
 - **Quintus Horatius Flaccus**, the poet Horace, who joins Brutus at Athens
 - **Pindarus**, Cassius’s freedman; **Titinius**, his friend
-- **Lucius Pella**, condemned by Brutus at Sardis
+- **Lucius Pella**, an officer of Brutus’s
 - **Quintus Hortensius Hortalus**, governor of Macedonia, Hortensia’s brother
 
 ## Antony’s house
@@ -49,7 +49,7 @@
 - **Gaius Maecenas**
 - **Apollodorus** of Pergamon, his teacher
 - **Quintus Pedius** and **Lucius Pinarius**, co-heirs
-- **Cornelius**, the centurion who showed the Senate his sword
+- **Cornelius**, a centurion
 
 ## Cicero’s circle
 - **Marcus Tullius Cicero**
@@ -57,8 +57,8 @@
 - **Quintus Cicero**, his brother, and Quintus’s son
 - **Tiro**, his secretary
 - **Philologus**, Quintus’s freedman
-- **Popillius** and **Herennius**, who came for him at Caieta
-- **Titus Pomponius Atticus**, his friend; **Quintus Gellius Canus**, who hid Atticus
+- **Popillius**, a tribune, and **Herennius**, a centurion
+- **Titus Pomponius Atticus**, his friend; **Quintus Gellius Canus**, Atticus’s friend
 - **Segulius Labeo**, who repeated what he heard
 - **Sphaerus**†, Hirtius’s secretary
 
@@ -70,6 +70,9 @@
 - **Gaius Asinius Pollio**, governor in Spain
 - **Marcus Caecilius Cornutus**, urban praetor in 43
 - **Sextus Pompeius**, at sea
+
+## Gaul
+- **Camelus**, a Gallic chief once in Decimus’s pay
 
 ## Asia
 - **Amyntas son of Menodotus**†, treasurer of Smyrna
@@ -87,7 +90,7 @@
 ## The city
 - **Helvius Cinna**, poet, and **Lucius Cornelius Cinna**, praetor: two men with one name
 - **Hortensia**, who spoke for the taxed women
-- **Marcus Terentius Varro**, scholar, proscribed
+- **Marcus Terentius Varro**, scholar
 - **Quintus the fuller**†, at the funeral
 - **Medullina**†, of the Subura
 - **Festus**†, informer
@@ -95,7 +98,7 @@
 ## The lender’s world
 - **Lucius Hordeonius Felix**†, moneylender
 - **Sosia**†, his collector
-- **Aulus Visellius Ralla**†, debtor, murdered
+- **Aulus Visellius Ralla**†, a debtor who pays on time
 - **Lucius Statius Paullus**†, middleman
 
 ## The clemency dinner, 46 BC
@@ -104,6 +107,6 @@
 ## The soldier’s world
 - **Sextus Laberius Cordus**†, legionary, Munda to Philippi
 - **Vibius**†, his optio
-- **Gaius of the split sandal**†, his tent-mate, killed at Mutina
+- **Gaius of the split sandal**†, his tent-mate
 - **Rufrius**†, of the Second legion
 - **Gnaeus Aulius**†, who farms the plot at Capua

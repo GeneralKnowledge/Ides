@@ -25,7 +25,7 @@ Antony spoke as a consul speaks when he intends the words to settle in the Forum
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
 
-Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. Grief wanting a relic. The consul wanting a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. The grief wanted a relic; the consul wanted a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
@@ -155,9 +155,9 @@ In the vestibule Phileros wanted details. Nysa gave him the only ones that matte
 
 Calpurnia, hearing the poet part later, closed her eyes. “They will write that as omen,” she said.
 
-“They will write it as crowd,” Nysa said, and then softened it, because softening was survival. “Or omen. People prefer omen.”
+“They will write it as crowd,” Nysa said, and then, because it was safer: “Or omen. People prefer omen.”
 
-She took the wax fragment from her tunic at last. She looked at its incomplete warning: danger from friends, a consul spared in someone’s mutter. She set it on the charcoal until the letters drowned.
+She took the wax fragment from her tunic at last. She looked at its incomplete warning: danger from friends, a consul spared in someone’s mutter. She knew now which consul. She had watched him that afternoon on the Rostra with the torn gown in his hands, turning the city with it, while the men who had spared him ran for their doors. She set the wax on the charcoal until the letters drowned.
 
 It changed nothing. That was why she could finally burn it.
 

@@ -14,7 +14,7 @@ Overhear risk: Sentinels / heralds
 
 ---
 
-They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
+Outside Mutina, in the first winter of the siege, Antony’s lines ran right round the town and Decimus sat inside its walls with his legions and his hinges. They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
 
 Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 
@@ -40,7 +40,7 @@ They parted without clasping. The truce ended when the first boot left the ditch
 
 “He might have,” Decimus said. “I cannot un-eat what we have already not eaten.” The aide’s mouth twitched. “At least he didn’t offer you a chair. Chairs make threats look like visits.” Decimus almost laughed, then didn’t.
 
-Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day, not mercy, timing. Timing kept soldiers paid long enough to hate the right wall. A scout reported smoke from the town’s edge, cooking, not surrender. Antony nodded. “He thinks a province is a personality,” he told Pacuvius. “Let him eat posture.”
+Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held the storm one more day, for timing rather than mercy. Timing kept soldiers paid long enough to hate the right wall. A scout reported smoke from the town’s edge, cooking, not surrender. Antony nodded. “He thinks a province is a personality,” he told Pacuvius. “Let him eat posture.”
 
 That night a courier brought Plancus’s newest courtesy, dated after a thaw that had not begun. Decimus set it under the same stone as Antony’s old threats and wrote to Cicero, and for the first time he did not round. Grain for so many days at full ration, so many at half. The oxen salted. The horses next. He knew what the figure would do in Rome. It would frighten the fathers, and frightened fathers reached for the nearest army, and the nearest army belonged to a boy of nineteen who called himself Caesar’s son and had not forgiven anyone who stood in the Curia that morning. A rounder number would keep the boy out of it a month longer, and might starve the town. Decimus looked at the true one until the lamp guttered. Then he sealed it and gave it to a man who could swim the river under the ice with the tablet in a bladder at his neck. Below, Antony’s fires multiplied.
 
