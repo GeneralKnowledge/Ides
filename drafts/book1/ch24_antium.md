@@ -65,7 +65,7 @@ Cicero began well. He always began well. Return to Rome under arms? He painted t
 
 Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Absence was an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
 
-Cassius arrived mid-flow, late on purpose or by fate, either way a blade. Dust on him. Impatience sharper than dust. He didn’t apologise for lateness. Apology was for men who still believed calendars were shared.
+Cassius arrived mid-flow, late on purpose or by fate, either way a blade. There was dust on him and an impatience sharper than the dust. He didn’t apologise for lateness. Apology was for men who still believed calendars were shared.
 
 Cicero tried to resume. Cassius didn’t resume. He cut.
 
@@ -79,7 +79,7 @@ Brutus’s face did the old slow collapse into resolve. The Rome-return balloon,
 
 Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote, no request: a mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
 
-Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Soft power rearranged his sentences after he spoke them.
+Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Servilia rearranged his sentences after he spoke them.
 
 Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus, measuring how much of Cato remained, and how much would survive a ship east.
 

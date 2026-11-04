@@ -245,7 +245,7 @@ def classify(ln: Line, page: int) -> str:
 
 def find_main_start(pages: list[Page]) -> int:
     for p in pages:
-        if p.body and p.body[0].text.startswith(("Prologue", "Chapter 1")) and not p.head:
+        if p.body and p.body[0].text.startswith(("Cast", "Prologue", "Chapter 1")) and not p.head:
             return p.number
     raise SystemExit("could not find the first page of the main text")
 

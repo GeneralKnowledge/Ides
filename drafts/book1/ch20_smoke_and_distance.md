@@ -27,7 +27,7 @@ Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet
 
 The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn. The crowd, which could not follow a sentence about inheritance, could follow a betrayal.
 
-A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions. One pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
+A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. There were three versions and one smell of pitch. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
 Decimus didn’t ask who “they” were: veterans, debtors, men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
@@ -69,59 +69,63 @@ POV: Cleopatra
 Date / place: Transtiberim / Horti Caesaris working lodging (CLEO-1) · late March 44
 Canon refs: D10 · *Att.* 14.8 queen’s flight energy
 Info ENTER: Protector dead; Rome hostile weather
-Info EXIT: Quiet departure plan; Caesarion packing
+Info EXIT: She decides to leave rather than buy a page for Caesarion from Antony’s house
 Overhear risk: Court medium
 
 ---
 
-Cleopatra didn’t confuse Rome’s smoke with Alexandria’s. Different ash, same dirty March light standing over the Tiber that elite streets were breathing as pitch. Same lesson: a queen without a living Roman guarantor was a story other people finished. Romans had been finishing hers at dinner long before the knives.
+Cleopatra had not yet given the order to pack.
 
-She stood in the garden villa across the Tiber, Caesar’s green claim on the city’s edge, the same gardens bankers had priced as collateral and loungers had joked into wills. She watched servants pack what could be packed without looking like flight. Flight was what enemies called a scheduled departure. She preferred a departure with an hour attached. The smoke did not ask which side of the river owned it.
+The servants had been told to air the chests, which was a different thing. From the garden villa across the Tiber, Caesar’s green claim on the city’s edge, she could see the smoke still standing over the Forum where the pyre had been, a week old and refusing to clear. A queen without a living Roman guarantor was a story other people finished. Romans had been finishing hers at dinner long before the knives.
 
-A Roman clerk from the house’s new legal weather arrived mid-morning with a polite face and an impolite list. Crates for the river would be “inspected for the people’s interest.” He smiled with inventory in his eyes, the smile she had already met secondhand in every Transtiberim joke about queens, children, and half-hours on roads.
+Ammonius, who ran her household and spoke for her in the Roman salons, wanted her to stay.
 
-“The gardens are being talked as the people’s,” the clerk said. “Best not to look as if you are taking the people’s trees with you.”
+“The will names the great-nephew,” he said. “It does not name the boy, and it does not deny him. Caesar’s papers are in Antony’s house, all of them, notebooks and money both. Antony is reading them aloud to the Senate a little at a time and finding in them whatever he needs. One of his friends has let it be known that a page might be found about Egypt, if Egypt were still here to be asked about it.”
 
-“I am taking my household’s linen,” Cleopatra said. “Trees stay. So do statues.”
+“For a price.”
 
-“No one has asked about the statues, majesty.”
+“Everything in that house has a price now, majesty. The price may be worth it. If Rome calls him Caesar’s son, even once, in a decree, he has a claim no one can take back.”
 
-“Then you may be the first to be disappointed.”
+Cleopatra looked across the room at Caesarion, who was three and had been allowed to help air the chests and was sitting inside one. She knew the argument. She had made it to herself every night since the Ides. A son of Caesar in Rome was a claim. A son of Caesar in Rome was also a boy in a city that had just killed his father in a room full of friends, and had then argued for two days about whether the killing was murder.
 
-The clerk lingered on a chest that held nothing but cloth and a child’s spare sandals, Caesarion’s. Egypt called the boy Caesar’s heir; Rome had decided to call him nothing at all. The inspection became a price without naming one. Ammonius, who ran her household and spoke for her in the Roman salons, started toward an argument. Cleopatra stopped him with two fingers. Arguing fed the smile.
+A Roman clerk arrived mid-morning with a polite face and an impolite list, from whoever now spoke for the gardens. Any crates for the river would be inspected for the people’s interest.
 
-“Open it,” she said. “Count the sandals. Then leave my schedule alone.”
+“There are no crates for the river,” Cleopatra said. “There are chests being aired.”
 
-He counted. He bowed as if the count had been a courtesy between equals. “The people’s interest is satisfied. Favourable departure.” At the garden’s first turn he stopped long enough for the porter who had let him in: “She counts sandals and calls it a schedule. Rome will finish her story whether the trees stay or not.”
+“Then the people will be glad to see them aired, majesty.” He walked along the line of them as if he had been asked to. At the last chest he stopped, because the child was in it, and he looked at Caesarion the way he had looked at the linen, with the same small, careful interest, and wrote something down.
 
-Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter’s news reached her as wind under the leaves. She did not turn back to answer wind.
+“What are you counting?” Cleopatra asked.
+
+“Only what is in the house, majesty. In case it is asked for.”
+
+“And the boy?”
+
+The clerk smiled. “Everything in the house, majesty.”
+
+He bowed and went. At the garden’s first turn he stopped for the porter who had let him in, and his voice came back up the path on the wind: something about queens and children and who would be asking.
+
+Ammonius started after him. Cleopatra stopped him with two fingers.
+
+“He has done us a service,” she said. “He has told me what a page in Antony’s house would cost.”
+
+“Majesty, the claim...”
+
+“The claim will keep. It kept in Alexandria for three years before any Roman wrote it down. It will not keep in a chest in Rome with a clerk’s number on it.” She went across and lifted the boy out. He was heavier than he had been in the autumn, and complained. “Pack the chests. All of them. We go down to Ostia as soon as there is a ship that is not Roman, and we go without asking anyone’s friend for a page.”
+
+Ammonius bowed. Then, because he was useful and expensive, he produced a smaller tablet: the old account with Cicero, books promised from the library at Alexandria and never sent, and Cicero’s rudeness about it, which he had repeated in every dining room in Rome. “If we settled it before we sail, one mouth in Italy would be kinder.”
+
+“Pay him from Alexandria, if you must,” Cleopatra said. “He writes well, and he thinks I am a bad debt. I would rather be a bad debt than a line in someone’s annals.”
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
-“Father belongs to their Forum now,” Cleopatra said. Softness could come later; ships came first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
+“Father belongs to their Forum now,” Cleopatra said, and gave him the chest’s lid to hold, so that he would be helping.
 
-Ammonius spoke of Cicero’s old rudeness, of books promised from the Alexandrian library and never sent, of what Cicero had said about her in Rome since, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept Ammonius as useful irritant.
-
-“We do not beg intermediaries,” she said. “We leave before they invent another inspection.”
-
-Ammonius did not stop. He produced a smaller tablet, Cicero’s old account: books still unpaid, rudeness still priced like a queen’s library owed interest. “If we settle this before the Tiber, one mouth in Italy softens. Soft mouths buy fair wind.”
-
-“Pay the books from Alexandria if you must,” Cleopatra said. “Do not buy Cicero’s courtesy with my schedule. Soft mouths invent second prices on water.”
-
-“He writes well, majesty.”
-
-“He writes well, and he thinks I am a bad debt. I would rather be a bad debt than a line in someone’s annals.”
-
-Ammonius’s jaw worked again: useful, expensive, already half a sail’s delay. She paid him silence instead of the tablet. The unfinished sail toward open water carried that refusal as ballast.
-
-At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Statues were anchors. She needed sails. The gardens could become the people’s walk. The dinners could keep pricing her child. None of that was her exit. Exit was a schedule that survived inspection.
-
-Once she was on the water, someone in Italy would finish her story for her: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal.
+At night she walked the dark paths once, memorising the smell of Italian wet earth, and thought of the golden statue in Venus’ temple, her face in Roman metal beside the mother of the Julii, where Caesar had set it and the whole city had walked past and said nothing. She left it there. Once she was on the water, someone in Italy would finish her story for her: clerks, Liberators on a rock, or a boy whose name had not yet arrived with a seal. She meant to finish her son’s herself.
 
 ---
 
 ## Continuity notes (SC-53)
-- **Knows / learns:** the lodging (CLEO-1); she plans to leave; Caesarion present (Egypt’s heir, Rome’s nothing). Ammonius runs her staff; the Venus Genetrix statue; Cicero’s books unpaid. A clerk inspects the packing. She pays the earlier gossip about gardens, queen and child; it is not her introduction.
+- **Knows / learns:** the lodging (CLEO-1); she decides on the page to leave (Gate 3 readers 1 and 2, 2026-11-04): Ammonius argues for staying while Caesar’s papers in Antony’s house might yield a page recognising the boy, for a price; the clerk counting Caesarion with the linen turns her; Caesarion present (Egypt’s heir, Rome’s nothing). Ammonius runs her staff; the Venus Genetrix statue; Cicero’s books unpaid. A clerk inspects the packing. She pays the earlier gossip about gardens, queen and child; it is not her introduction.
 - **Plants → pays:** Ch 27 courier confirms only that she sailed.
 - **Must not:** no claim she was in the dagger circle; the *regina* debate stays out of her POV.
 
@@ -158,7 +162,7 @@ The courier tried again with a thinner story. Caesar dead. Liberators on a rock.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 
-Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear, young. He hated that it sounded young. He did not reach for the old nickname anyone might offer as softness. Hopeful shadows were for men who still thought inventory was a joke.
+Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear, young. He hated that it sounded young. He did not reach for the old nickname anyone might offer. Hopeful shadows were for men who still thought inventory was a joke.
 
 “We go when going is not suicide,” he said. “First we learn what name I still have, and whether gardens and a boy’s hours are already writing it without us.”
 

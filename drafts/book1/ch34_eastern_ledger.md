@@ -76,7 +76,7 @@ Overhear risk: Interpreters
 
 ---
 
-Cassius listened to a city’s elders explain poverty with practised dignity.
+At Tarsus, that winter, Cassius listened to the city’s elders explain poverty with practised dignity.
 
 The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” Cassius said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
 
@@ -84,7 +84,7 @@ Behind him, outside the city, legions ate. Syria’s garrison had come over to h
 
 He let silence work after the sentence. Brutus’s tool, borrowed without credit. Silence made elders fill the air with offers, most of them dates that were not dates.
 
-Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. Softening did not soften the silver leaving. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass.
+Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. The silver left all the same. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass.
 
 An elder with a staff stepped forward before the interpreters could varnish him. “We can send half by the Kalends,” he said in Greek plain enough that Cassius needed no cushion. “The other half after harvest. Take half now and we remain a city. Take all now and you march past hungry walls that will not open for your return.”
 
@@ -114,7 +114,7 @@ Overhear risk: Officers
 
 ---
 
-The dies showed two daggers either side of a felt cap, and under them *EID MAR*. A date pretending to be a sacrament.
+The mint travelled with the army, and that winter in the camps of Macedonia it struck silver for the legions. The dies showed two daggers either side of a felt cap, and under them *EID MAR*, a date pretending to be a sacrament.
 
 “The cap they set on a slave’s head the day he’s freed,” the mint-master said, tilting the die to the lamp as though Brutus had not drawn it himself. “Between the knives. The men like it. They say it means the Ides bought them out.”
 
@@ -126,7 +126,7 @@ Brutus held a fresh coin. The metal still held the heat of striking. His own hea
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. The GO night’s clean hands felt suddenly like someone else’s. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway, brand as comfort, brand as trap. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 
@@ -162,6 +162,8 @@ Cicero was dead.
 
 The news had come up from the coast the week before, from Italy, wrong at first as everything came wrong, and then right. Cicero dead in December on the road to the sea, and what had been done afterwards in the Forum, on Antony’s orders, told by every rider a little differently. Brutus had not asked for the details, as he had not asked which story about Decimus was true. Decimus dead in the autumn at some ford in Gaul. Cicero dead on the coast road. Both on lists their friends had signed. Both while their friends’ brothers were alive and well and being fed on Brutus’s grain.
 
+In a garden in Rome, with Trebonius against the wall, Trebonius who was dead now too, he had said that Antony was not Caesar, and that a man like that would go where the honour was. Antony had gone where the honour was. It had turned out to be a list, and Brutus had argued for the life of the man who wrote it.
+
 He read the August letter through to the end. *Do you think he would spare you?*
 
 He did not know. That was the truth of it, and it was the worst thing about the night. Gaius might have spared him. Gaius might have been kind to him at a camp gate and stopped his hand short of his shoulder and hated himself for the pleasure of it. Men were stranger than Cicero allowed. They were stranger than Brutus had allowed, in the spring, when he had heard Caesar’s voice come out of his own mouth and decided it was only his own, and good.
@@ -180,7 +182,7 @@ The secretary read it back. Brutus listened to it and found nothing to change, a
 
 He had always thought of that as the hardest thing a Roman had ever done. It had not seemed hard tonight. It had seemed like a letter.
 
-When the secretary had gone he put the August letter back in the cedar box with the others. At the bottom of the box, under all of them, were the two from June: Cicero’s, which told him that philosophers were watched, and his mother’s, still sealed. Other letters since had told him how she died, in three different ways. An illness since the spring. A shut room and a brazier, to keep her safe, and in the morning the room very quiet. Coals from the brazier, and her own hand, after days of being watched. He had read each once and asked no one which was true.
+When the secretary had gone he put the August letter back in the cedar box with the others. At the bottom of the box, under all of them, were the two from June: Cicero’s, which told him that philosophers were watched, and his mother’s, still sealed. Other letters since had told him how she died, in three different ways. An illness since the spring. A shut room and a brazier, to keep her safe, and in the morning the room very quiet. Coals from the brazier, and her own hand, after days of being watched. Her father had been watched too, at Utica. His son had taken away his sword and a Greek had sewn up the wound, and in the night Cato had opened it again with his fingers. He had read each letter once and asked no one which was true.
 
 He laid his hand flat on the letters for a moment. Then he closed the clasp. He did not think he would want to read them when he was old. He did not think, now, that he would be.
 

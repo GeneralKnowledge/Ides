@@ -14,7 +14,7 @@ Overhear risk: None; Cassius sends the slave out
 
 ---
 
-Brutus came to his tent before the trumpets, when the strait below the camp was still the colour of lead and the ships for the crossing lay along the beach in rows like cattle waiting to be loaded.
+At Abydos on the Hellespont, where the armies were to cross from Asia into Europe and march west to meet Antony, Brutus came to his tent before the trumpets, when the strait below the camp was still the colour of lead and the ships for the crossing lay along the beach in rows like cattle waiting to be loaded.
 
 Cassius was awake. He was always awake at that hour now; it was the hour the accounts came out right, before anyone could add to them. He looked up from the grain tallies and saw Brutus in the doorway with his cloak on over his night tunic and his feet bare on the matting, and sent the slave out before either of them spoke.
 
@@ -98,7 +98,7 @@ Dust coated his teeth. He spat and pointed and the pointing became cohorts movin
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
 
-He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Auction quarrels nobody settled. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
+He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men were sleeping badly on neighbours’ soil, and nobody had settled the auction quarrels. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
 ### Laberius
 
@@ -152,7 +152,15 @@ Titinius rode down. Cassius watched him go small. He watched him reach the horse
 
 “Taken,” said the officer who had said *Antony’s*.
 
-Nobody contradicted him. From the hill it looked exactly like that. It looked like a man dragged down by his enemies with his friends standing on a hill doing nothing. Cassius held the sight for three breaths and tried to make it into anything else. A man pulled from a horse. A shout. Arms round a body. He had always despised officers who acted on half a report. He stood there and could not get the other half.
+Nobody contradicted him. From the hill it looked exactly like that. It looked like a man dragged down by his enemies with his friends standing on a hill doing nothing. Cassius held the sight for three breaths and tried to make it into anything else. A man pulled from a horse. A shout. Arms round a body.
+
+“Give him the time it takes to ride back,” said the older officer. “If they have him, they will come up for us next, and then we will know.”
+
+It was good advice. Cassius had given the same advice himself once, in the desert, to a general who would not take it. He had been right then, and he had been right all through this summer, about the causeway, about the marsh, about Brutus wanting the battle before the plain had starved, and no one had listened, and now his tents were burning below him because no one had listened. He had been waiting for other men to bring him the truth since dawn.
+
+“No,” he said. “I have seen enough of it.”
+
+He had always despised officers who acted on half a report. He knew, saying it, that he was doing it, and he found he did not care, because the half he had was the half he had been expecting all day.
 
 “I have loved being alive too much,” he said, quite quietly. “I waited, and now I have watched them take a friend in front of my face.”
 
@@ -168,7 +176,7 @@ He did not wait to find out. Pindarus held the blade where Cassius set it. Cassi
 
 ## Continuity
 - **SC-89a (Cassius, summer 42, Abydos, S2):** Brutus comes barefoot before the trumpets; reports the figure in the low lamp at the third watch: *I am your evil spirit, Brutus. You will see me at Philippi.* / *Then I will see you.* Slaves and guard saw nothing (Plut. *Brut.* 36–37). Cassius gives the Epicurean answer gently (films off things, the tired mind; no spirits); the name because they have talked of nothing else; “It would also… ask me about the grain.” “I don’t believe anything I can’t count.” “That’s not the same.” “No. It isn’t.” He does not want the men told. Left open: dream, fatigue or something else.
-- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in dust and glare (M18): his camp lost, he sends Titinius to the horsemen from the north, sees him pulled from the saddle (Brutus’s men cheering him; read from the hill as capture), goes into an empty tent and covers his head (rewritten concretely 2026-10-24); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Laberius’s eagle staff is a local fact; Mutina mud in his body.
+- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in dust and glare (M18): his camp lost, he sends Titinius to the horsemen from the north, sees him pulled from the saddle (Brutus’s men cheering him; read from the hill as capture), goes into an empty tent and covers his head (rewritten concretely 2026-10-24); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Gate 3 reader 2 (2026-11-04): before he goes, an officer advises waiting for Titinius to ride back; Cassius, right all summer and unheeded (Carrhae, the causeway, Brutus wanting battle), refuses and knows he acts on half a report. Ch 36 SC-92 tells Brutus (and the reader) the horsemen were Brutus’s own and Titinius came back with the wreath (Plut. *Brut.* 43–44). Laberius’s eagle staff is a local fact; Mutina mud in his body.
 - **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
 - **Must not:** no casualty tables; no postcard from Rome; two cameras only.
 - **Graph pass 2026-10-24:** Rufrius (spared at Forum Gallorum, Ch 30) asks Antony to put the Second at the end of the causeway beside the boy’s lent cohorts: “I’d like him on my left.” Antony grants it at the cost of a quarter hour on the hill. Rufrius stands on Laberius’s left. Development touch in protected Philippi: only the two stitches; fog rules and two cameras kept.

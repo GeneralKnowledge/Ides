@@ -41,7 +41,7 @@ He refused more than once, and in a way that let every watcher invent a script: 
 
 Antony heard the word go up and understood, a beat late, that he had been the fool. *Rex.* Rome had thrown out its last king four and a half centuries ago and congratulated itself every year since. A man could hold every office and wear the purple without anyone saying *regnum* aloud, so long as nobody handed him the white band. Antony had just handed it to him three times.
 
-In the press Antony saw a familiar face go pale: Statilius, the Epicurean, who laughed at omens at every dinner in Rome. Statilius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor the way he noted a soft cohort: useful, not urgent. He let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale: Statilius, the Epicurean, who laughed at omens at every dinner in Rome. Statilius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor and kept it for later. He let the mouths blur back into Forum.
 
 A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
 

@@ -118,7 +118,7 @@ The clerk tried the title once more, almost proud. The wine-mutterer asked wheth
 
 He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once, still warm, and left it unsent in the drawer.
 
-A courier from Hirtius’s orbit arrived as the seals cooled. Cicero had once fed Hirtius at his own table and corrected his speeches over the fish; Caesar had since promised his officer a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth. Softened sentences kept men without armies invited to rooms where armies were discussed.
+A courier from Hirtius’s orbit arrived as the seals cooled. Cicero had once fed Hirtius at his own table and corrected his speeches over the fish; Caesar had since promised his officer a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth.
 
 “Tell Hirtius,” said Cicero, “that I am delighted by both.”
 

@@ -76,7 +76,7 @@ Brutus said nothing for a moment. Through the open door the city was going to be
 
 “I understand that Antony has already taken Macedonia’s best legions to Italy and means to have the province too,” said Hortensius, “and I understand that you are here reading philosophy with forty young men who all want horses. I am not a brave man, Brutus. My sister got all the courage in our family. But I can count.”
 
-So Macedonia came to Brutus in Athens, over the fifth course, from a man who could count. He wrote it to Cicero that night as a thing done for the Republic, and it was. He did not write that he had felt, when Hortensius set down the cup, the same quick warmth in his chest he had felt as a young man when Caesar’s hand fell on his shoulder after Pharsalus. The warmth of being chosen. He had disliked it then. He disliked it now, and kept it.
+So Macedonia came to Brutus in Athens, over the fifth course, from a man who could count. He wrote it to Cicero that night as a thing done for the Republic, and it was. He did not write that he had felt, when Hortensius set down the cup, the same quick warmth in his chest he had felt as a young man when Caesar’s hand fell on his shoulder after Pharsalus: the warmth of being chosen. He had disliked it then. He disliked it now, and kept it.
 
 ---
 
@@ -132,7 +132,7 @@ He heard it the way he had heard himself say *GO* in the dark a year ago: a voic
 
 He said all this warmly. He meant it. And somewhere in the middle of saying it he recognised the warmth, and the hand he had raised without noticing to rest it on Gaius’s shoulder, and stopped the hand in the air, and lowered it.
 
-It was Caesar’s voice. Not the words, since Caesar’s words had been fewer, but the warmth. The pleasure in it. The quick sweet feeling in the chest of a man who has someone at his mercy and has decided, generously, to be merciful, and can feel the other man feel it. Brutus had stood where Gaius was standing. He had stood in a tent at Larissa after Pharsalus with mud to his knees and heard Caesar be kind to him, and had felt himself feel grateful, and had hated it, and had carried it four years under his ribs like a stone he could not cough up. And here it was in his own mouth. It tasted of nothing. It tasted like being good.
+It was Caesar’s voice. Not the words, since Caesar’s words had been fewer, but the warmth, the pleasure in it, the quick sweet feeling in the chest of a man who has someone at his mercy and has decided, generously, to be merciful, and can feel the other man feel it. Brutus had stood where Gaius was standing. He had stood in a tent at Larissa after Pharsalus with mud to his knees and heard Caesar be kind to him, and had felt himself feel grateful, and had hated it, and had carried it four years under his ribs like a stone he could not cough up. And here it was in his own mouth. It tasted of nothing. It tasted like being good.
 
 Gaius was looking at him. He had seen the hand stop.
 

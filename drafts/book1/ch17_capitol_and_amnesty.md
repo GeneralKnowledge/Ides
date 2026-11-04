@@ -69,7 +69,7 @@ Cassius waited until Casca had turned to the parapet. “Beginning,” he said, 
 
 Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “Brother’s winter came due this morning, patron called the grain hard enough that Galba chose bread over rock. Or the bread chose him.” Cassius did not flinch in public. Brutus did not know what winter Casca meant, only that Cassius’s mouth went tight at it, and that absence was a receipt now, standing where a blade should have stood.
 
-Decimus did not soften it. “I will not bless the linger as wisdom. I said so before. Say Capitol if you must, say it as fear, not as a period.”
+“I will not bless the linger as wisdom. I said so before. Say Capitol if you must, say it as fear, not as a period.”
 
 Brutus did not answer in kind. Answering would have been another speech. Below them, Rome did not kneel. It shopped, wept, armed, and waited to see who paid.
 
@@ -112,7 +112,7 @@ Antony looked at the man’s hope and found it childish. Childish things started
 
 “They left me alive because Trebonius is a better liar than you are a soldier,” said Antony. “I intend to remember which of those is useful.”
 
-Lepidus spoke carefully, as Lepidus always did when weight leaned on him, not weak, not heroic, only present where maps got drawn. “Negotiation preserves options.”
+Lepidus spoke carefully, as Lepidus always did when weight leaned on him. “Negotiation preserves options.”
 
 “Negotiation preserves my throat,” Antony said. “And yours. And the chance to make the people choose us when they see the body.”
 

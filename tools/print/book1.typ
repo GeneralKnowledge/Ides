@@ -272,7 +272,7 @@
     if "act" in sec {
       block(above: lh, below: lead, sticky: true, align(center,
         text(size: 8.5pt, tracking: 0.12em, smallcaps(all: true, sec.act.label + ": " + sec.act.title))))
-    } else if sec.kind == "back" and book.sections.at(i - 1).kind != "back" {
+    } else if sec.kind == "back" and i > 0 and book.sections.at(i - 1).kind != "back" {
       v(lh - lead)
     }
     if sec.kind == "chapter" and sec.number != "0" {

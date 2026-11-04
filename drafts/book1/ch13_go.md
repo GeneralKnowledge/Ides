@@ -1,4 +1,4 @@
-# Chapter 13: GO
+# Chapter 13: The Night Before
 
 **Scenes:** SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
 
@@ -14,13 +14,9 @@ Overhear risk: Medium–Low
 
 ---
 
-“Keep him talking,” Decimus said.
+“Keep him talking,” Decimus said. “In the portico, until the room inside has finished being a Senate.”
 
 They stood where Pompey’s stone still watched the living arrange a hold, a few walls from the statue that would preside over tomorrow’s sitting. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face wore its usual mildness, the kind that made business smell like friendship.
-
-“Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
-
-Decimus did not need to say which consul. Antony: big, loud, the one man in Rome who might turn the morning into a brawl, devoted to Caesar the way a large dog is devoted, by instinct and at volume. If he walked into the chamber, the knives would have to go through him first. So he must not walk in.
 
 “And if he smells it?” Trebonius asked.
 
@@ -134,7 +130,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set, almost.
 
-Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The Cascas, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
+Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The rest, the men who had said yes without making speeches, would simply be there. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
 
 Cassius’s finger stopped on one place in the list he kept only in his head. “Ligarius,” he said. “Fever, I hear. Fever comes very easily to pardoned men.”
 
@@ -158,7 +154,7 @@ Brutus’s money sat outside the door like a creditor not invited. The lender’
 
 Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. Dirt might appear and explain him. It did not. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
 
-Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
+“Enough delay,” Cassius said. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
 “You make me sound like a man with only two fears.”
 

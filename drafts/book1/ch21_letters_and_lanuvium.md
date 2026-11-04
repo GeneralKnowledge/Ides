@@ -62,7 +62,7 @@ Sphaerus, Hirtius’s secretary, brought a note from his master, polite, useless
 
 “Tell him it is excellent,” Cicero said, “and that it intends to stay out of Rome.”
 
-Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee. Then he wrote Atticus a softer version of *the deed was fair; the result is nothing*. Softness kept invitations open. Under it the wine-shop sport still sat unpaid.
+Cicero answered later. First he let the room empty. When it had, he stacked finished letters by the door until the pile reached his knee. Then he wrote Atticus a milder version of *the deed was fair; the result is nothing*. Under it the wine-shop sport still sat unpaid.
 
 ---
 

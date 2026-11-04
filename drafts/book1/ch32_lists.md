@@ -42,7 +42,7 @@ Antony laid his palm on the tablet again. “There. Names, heads, and a sale, an
 
 Across the sea, Brutus had been keeping Antony’s brother since the spring. Octavian watched the hand on the tablet for any sign of that and found none, which told him nothing either way.
 
-Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting. Paper took names faster than mouths could soften them.
+Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting.
 
 Antony’s stylus paused on a lesser enemy first, a man who had borrowed money and returned sermons, an easy one. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
 
@@ -86,13 +86,13 @@ Overhear risk: Extreme terror
 
 ### Hordeonius
 
-Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed: it arrived late, left early, and charged interest he could not collect from his own nerves.
+Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed: it arrived late and left early.
 
-“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher and hated that honesty still felt like bookkeeping virtue. In the dark he smelled Visellius’s old room for no reason. Bucco was back from the south that week, Sosia said, lending to the triumvirs’ soldiers against their share of the auctions, and no magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son’s throat. Hordeonius told himself archaeology was closed.
+“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher. In the dark he smelled Visellius’s old room for no reason. Bucco was back from the south that week, Sosia said, lending to the triumvirs’ soldiers against their share of the auctions, and no magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son’s throat. Hordeonius told himself archaeology was closed.
 
 ### Nysa
 
-Nysa saw Festus sell a household with a sentence. By the third day the whole Subura knew the name: a slave from the Esquiline who had walked his master’s hiding place to the tribunal and walked back a citizen. Informers priced breath. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong. Laughter that sounded like March smoke returning.
+Nysa saw Festus sell a household with a sentence. By the third day the whole Subura knew the name: a slave from the Esquiline who had walked his master’s hiding place to the tribunal and walked back a citizen. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong.
 
 Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. Medullina stopped him mid-letter, Medullina who had once wanted senators from Nysa and got chickens, pressed a coin into his palm, and whispered a different spelling. The boy hesitated, coin versus chalk. Then he rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not ask whose name Medullina was saving or selling, and she did not correct him. Correction joined you to the wood.
 

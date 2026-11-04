@@ -45,7 +45,7 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not someone.”
 
-Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia did not soften it.
+Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia let it stand.
 
 In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird. “A wren,” she said. “The little one in the story that rode the eagle’s back and stole the crown. Flew into Pompey’s hall this morning with a sprig of laurel in its beak, and the other birds came after it and tore it to pieces on the step. Before the Senate even sat.” Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
@@ -158,7 +158,7 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. The first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. The first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom.”
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
@@ -172,9 +172,9 @@ Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.
 
 “I never lend them anything they can spend,” said Trebonius.
 
-A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off with the same warmth. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
+A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
 
-They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days. That was the point.
+They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days.
 
 “Hirtius fights badly,” Antony said. “I have seen it. He holds a sword like a pen.”
 
@@ -190,7 +190,7 @@ The suspicion sat down and became patience. Antony was consul. Consuls were not 
 
 Then the sound changed.
 
-Not a speech-sound. Not a vote-sound. A human noise wrong in the throat, shout stacked on shout, the scrape of benches, something like a scream cut short and replaced by many feet.
+It was not a speech-sound or a vote-sound but a human noise wrong in the throat, shout stacked on shout, the scrape of benches, something like a scream cut short and replaced by many feet.
 
 Antony’s body understood before his politics did. He shook Trebonius’s hand off without thinking it rude.
 
