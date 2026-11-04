@@ -211,7 +211,7 @@ def main() -> None:
         if n % 2 == 0:
             hard.append(f"«{label}» opens on a verso (PDF page {n})")
         opening_page[(kind, label)] = n
-    checks.append(("Cast list, prologue, 5 part pages, 36 chapters and the historical note each open on a recto, in order",
+    checks.append(("Cast list, prologue, 5 part pages, 37 chapters and the historical note each open on a recto, in order",
                    "pass" if len(found) == len(heads) else "FAIL"))
 
     contents_text = " | ".join(r for p in pages[: main_start - 1] for r in qa.rows(p))

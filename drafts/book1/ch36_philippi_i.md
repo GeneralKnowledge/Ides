@@ -1,4 +1,4 @@
-# Chapter 35: Philippi I
+# Chapter 36: Philippi I
 
 **Scenes:** SC-89a, SC-90, SC-91 (+ OPEN-0 echo folded) · summer → Oct 42 · A14 · M18 · philippi_fog · HUMOR-1 off
 
@@ -13,6 +13,8 @@ Info ENTER: The armies about to cross into Thrace · EXIT: Brutus’s night visi
 Overhear risk: None; Cassius sends the slave out
 
 ---
+
+The East was theirs: its legions, its cities and its silver, everything between the Aegean and Syria. Antony and the young Caesar had Italy and the veterans and nothing to pay them with, and they would have to cross the sea to fight for the rest. So the war would be in Macedonia, on the road between.
 
 At Abydos on the Hellespont, where the armies were to cross from Asia into Europe and march west to meet Antony, Brutus came to his tent before the trumpets, when the strait below the camp was still the colour of lead and the ships for the crossing lay along the beach in rows like cattle waiting to be loaded.
 
@@ -176,7 +178,7 @@ He did not wait to find out. Pindarus held the blade where Cassius set it. Cassi
 
 ## Continuity
 - **SC-89a (Cassius, summer 42, Abydos, S2):** Brutus comes barefoot before the trumpets; reports the figure in the low lamp at the third watch: *I am your evil spirit, Brutus. You will see me at Philippi.* / *Then I will see you.* Slaves and guard saw nothing (Plut. *Brut.* 36–37). Cassius gives the Epicurean answer gently (films off things, the tired mind; no spirits); the name because they have talked of nothing else; “It would also… ask me about the grain.” “I don’t believe anything I can’t count.” “That’s not the same.” “No. It isn’t.” He does not want the men told. Left open: dream, fatigue or something else.
-- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in dust and glare (M18): his camp lost, he sends Titinius to the horsemen from the north, sees him pulled from the saddle (Brutus’s men cheering him; read from the hill as capture), goes into an empty tent and covers his head (rewritten concretely 2026-10-24); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Gate 3 reader 2 (2026-11-04): before he goes, an officer advises waiting for Titinius to ride back; Cassius, right all summer and unheeded (Carrhae, the causeway, Brutus wanting battle), refuses and knows he acts on half a report. Ch 36 SC-92 tells Brutus (and the reader) the horsemen were Brutus’s own and Titinius came back with the wreath (Plut. *Brut.* 43–44). Laberius’s eagle staff is a local fact; Mutina mud in his body.
+- **Knows / learns:** the Liberators on two hills astride the road west (Brutus north; Cassius south above the marsh, sea-fed) against Antony’s plain and short bread: ten nights of causeway through the reeds, seen this morning. A shout from the north that Brutus’s men are in the boy’s camp; Antony shrugs it off to Agrippa; Cassius’s hill never hears it. Cassius dies on bad information in dust and glare (M18): his camp lost, he sends Titinius to the horsemen from the north, sees him pulled from the saddle (Brutus’s men cheering him; read from the hill as capture), goes into an empty tent and covers his head (rewritten concretely 2026-10-24); Pindarus, the freedman kept since Carrhae for this errand, holds the blade where Cassius sets it. Gate 3 reader 2 (2026-11-04): before he goes, an officer advises waiting for Titinius to ride back; Cassius, right all summer and unheeded (Carrhae, the causeway, Brutus wanting battle), refuses and knows he acts on half a report. Ch 37 SC-92 tells Brutus (and the reader) the horsemen were Brutus’s own and Titinius came back with the wreath (Plut. *Brut.* 43–44). Laberius’s eagle staff is a local fact; Mutina mud in his body.
 - **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
 - **Must not:** no casualty tables; no postcard from Rome; two cameras only.
 - **Graph pass 2026-10-24:** Rufrius (spared at Forum Gallorum, Ch 30) asks Antony to put the Second at the end of the causeway beside the boy’s lent cohorts: “I’d like him on my left.” Antony grants it at the cost of a quarter hour on the hill. Rufrius stands on Laberius’s left. Development touch in protected Philippi: only the two stitches; fog rules and two cameras kept.

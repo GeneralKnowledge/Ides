@@ -104,7 +104,7 @@ If (5) fails → do not add. Prefer **INTEGRATE** marks above.
 | P1 | Ch 15↔19 | **Done (IR-1)** — Ch 15 lie; Ch 19 true burn |
 | P1 | Ch 31 open / T5 | **Done (IR-1)** — milestone wait + Lepidus-channel tablet return |
 | P1 | Ch 20 / 23 camera | **Left (IR-1)** — purposeful Act-3 exit / world-price triptych; no pressure loss requiring rewrite |
-| P2 | D12 / D10/D13 / Ch 34 echo | Still optional; not this pass |
+| P2 | D12 / D10/D13 / Ch 35 echo | Still optional; not this pass |
 
 ---
 

@@ -15,7 +15,7 @@ Overhear risk: High (Forum)
 
 ---
 
-Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
+Hordeonius kept his stall in the shade of the basilica on the Forum’s north side, near the Janus arch, close enough to the Rostra to hear every shout and far enough not to be trampled by it. Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
 
 “Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud: shouts, bets, sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
 

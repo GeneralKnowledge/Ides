@@ -1,4 +1,4 @@
-# Chapter 36: Philippi II
+# Chapter 37: Philippi II
 
 **Scenes:** SC-92–95, SC-95a, SC-95b · Oct 42 → spring 41 · SERIES-1 end · A14 · T1, T4 close
 
@@ -150,7 +150,7 @@ Hordeonius entered nothing. It was the first account in thirty years he had clos
 
 POV: F1 Nysa · Rome
 Date / place: Winter 42–41 · the Appian Way at the Capena gate; the Carinae kitchen and its back door
-Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 33 (the patron)
+Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 34 (the patron)
 Info ENTER: Philippi won; Antony gone East; the boy, sick, coming home to Italy · EXIT: Nysa gives the true number to the steward too late, and goes to her patron’s house under her own name
 Overhear risk: The kitchen
 
@@ -228,6 +228,26 @@ She went back in for her bundle: two tunics, a comb, the cracked oil flask. Fulv
 
 ---
 
+# SC-95c: Seam
+
+POV: F1 Nysa · Rome
+Date / place: Spring 41 · the young Caesar’s house, evening
+Canon refs: Suet. *Aug.* 73 (house clothes made by the women of his household) · closes the prologue’s needle
+Info ENTER: Nysa in the young Caesar’s household as Julia Nysa · EXIT: A seam nobody will ask about
+Overhear risk: None
+
+---
+
+In the young Caesar’s house the women sewed in the evenings, by one lamp, because the young Caesar did not like to see oil burned for nothing, and wore at home what his household made him.
+
+Nysa had been given one of his tunics to mend. It was plain wool, undyed, the kind a clerk might wear, and it was torn at the shoulder seam, where somebody had caught hold of him in a crowd. She threaded the needle on the second try. The old freedwoman beside her, who had been in the family since before the boy was born and whose eyes were going, watched her make the first stitches and said nothing, which in that house meant they would do.
+
+She sewed it small and close, the way she had been shown as a child by a woman whose name she did not remember, so that nobody would see where it had been torn. Halfway along she stopped and held it to the lamp, and looked at it, and could not find the tear herself.
+
+Then she bent her head and finished it. She sewed well. Nobody would ever ask who had sewn it.
+
+---
+
 # SC-95b: Twine
 
 POV: F3 Laberius · Campania
@@ -298,26 +318,6 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 
 ---
 
-# SC-95c: Seam
-
-POV: F1 Nysa · Rome
-Date / place: Spring 41 · the young Caesar’s house, evening
-Canon refs: Suet. *Aug.* 73 (house clothes made by the women of his household) · closes the prologue’s needle
-Info ENTER: Nysa in the young Caesar’s household as Julia Nysa · EXIT: A seam nobody will ask about
-Overhear risk: None
-
----
-
-In the young Caesar’s house the women sewed in the evenings, by one lamp, because the young Caesar did not like to see oil burned for nothing, and wore at home what his household made him.
-
-Nysa had been given one of his tunics to mend. It was plain wool, undyed, the kind a clerk might wear, and it was torn at the shoulder seam, where somebody had caught hold of him in a crowd. She threaded the needle on the second try. The old freedwoman beside her, who had been in the family since before the boy was born and whose eyes were going, watched her make the first stitches and said nothing, which in that house meant they would do.
-
-She sewed it small and close, the way she had been shown as a child by a woman whose name she did not remember, so that nobody would see where it had been torn. Halfway along she stopped and held it to the lamp, and looked at it, and could not find the tear herself.
-
-Then she bent her head and finished it. She sewed well. Nobody would ever ask who had sewn it.
-
----
-
 ## Continuity
 - **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook. Statilius goes down through the pickets to the camp, raises the torch, and does not come back: “If Statilius is alive, he will come” (Plut. *Brut.* 51; pays Ch 23 SC-66).
 - **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
@@ -326,7 +326,7 @@ Then she bent her head and finished it. She sewed well. Nobody would ever ask wh
 - **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He rubs the tablet blank and hands it to her. An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time; “They’ll want to know who carries.” Fulvia’s woman: “Blank?” “Blank.” “Good.” Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
 - **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
 - **SC-92, young Cato:** added 2026-11-04 (Gate 3 reader 4 follow-up): Marcus Cato, Porcia’s brother, who hid the sword at Utica (prologue), falls shouting his name and his father’s (Plut. *Brut.* 49). Ties Philippi back to the prologue.
-- **SC-95c (Nysa, spring 41):** coda added 2026-11-04 (Gate 3 reader 3): Nysa mends the young Caesar’s torn tunic by one lamp (Suet. *Aug.* 73); closes the prologue’s needle and “who had sewn him”. Laberius keeps the moral ending; Nysa has the last image.
+- **SC-95c (Nysa, spring 41):** coda added 2026-11-04 (Gate 3 reader 3): Nysa mends the young Caesar’s torn tunic by one lamp (Suet. *Aug.* 73); closes the prologue’s needle and “who had sewn him”. Order set 2026-11-04 (readers 5–6, Reuben): SC-95c comes before SC-95b, so Laberius at the twine ends the book.
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.
-- **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 33 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.
+- **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 34 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.

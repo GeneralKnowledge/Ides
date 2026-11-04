@@ -13,11 +13,11 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **Hirtius** | Consul; dies Mutina (Laberius-knowable) | Clean reputation vs mud | POV required |
 | **Pansa** | Consul; death cause **open** (AMB-2) | Rumour only | Confirmed poison fact |
 | **Philippus / Atia** | OCT safety pressure; Atia densified Ch 18 (mother / Caesar’s niece); Ch 31 at the Vestals’, thinner, kept the jewel box | Refuse name / cushions; “Eat something” | Destiny coaches |
-| **Octavia** | Octavian’s sister, 26; Ch 31 at the Vestals’; Ch 33 receives the women | Uses his old name | Political schemer in Book 1 |
-| **Dolabella** | Consul 44 after Caesar; pulls down the column (Ch 21); Cicero’s ex-son-in-law (Tullia); Smyrna (Ch 29); dies at Laodicea by his Gaul’s sword (Ch 34) | Handsome flushed face, very good teeth; scarlet cloak; charming letters about the dowry | Given a POV; a speech at his death |
+| **Octavia** | Octavian’s sister, 26; Ch 31 at the Vestals’; Ch 34 receives the women | Uses his old name | Political schemer in Book 1 |
+| **Dolabella** | Consul 44 after Caesar; pulls down the column (Ch 21); Cicero’s ex-son-in-law (Tullia); Smyrna (Ch 29); dies at Laodicea by his Gaul’s sword (Ch 35) | Handsome flushed face, very good teeth; scarlet cloak; charming letters about the dowry | Given a POV; a speech at his death |
 | **The false Marius** | Claims to be Marius’s grandson; leads the altar cult; killed without trial on Antony’s order (Ch 21) | Fine voice, good beard, growing pedigree | Named Amatius or Herophilus in narration |
-| **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 26); works on the legions, the ship, killed early 42 (Ch 34) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
-| **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 26); carries out the order (Ch 34); killed after Philippi (Ch 36) | Can count; “My sister got all the courage” | Brave |
+| **Gaius Antonius** | Antony’s brother; praetor (Ch 22); Macedonia by arranged lot; surrenders Apollonia (Ch 26); works on the legions, the ship, killed early 42 (Ch 35) | Family jaw; the joke waiting its turn; “Thank you,” chin up | Villain; a scene of his death |
+| **Q. Hortensius** | Orator’s son, Hortensia’s brother; hands Macedonia to Brutus (Ch 26); carries out the order (Ch 35); killed after Philippi (Ch 37) | Can count; “My sister got all the courage” | Brave |
 | **Marcus Cicero** (son) | Twenty-one in Athens; cavalry; takes Piso’s legion (Ch 26) | Toga on the wrong shoulder; drinking at the eighth hour | Comic only |
 | **Horace** | Freedman’s son from Venusia; Brutus’s tribune (Ch 26) | Laughs a beat early; “bad verse, so far” | Wink at the later poet |
 | **Q. Pedius** | Fellow consul, 19 Aug 43; another grandson of Caesar’s sister; his law sets the court | Elderly; coughs | Rival to Octavian |
@@ -38,7 +38,7 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | **A. Visellius Ralla** | F4 / SIDE-1 | Dead debtor; tablets; ash later | Solve Ides |
 | **C. Septimius Bucco** | Antonian cash | Bribe courier mark | Mastermind |
 | **L. Statius Paullus** | Basilus orbit | Soften-debt ask | Replace Cassius |
-| **Medullina** | Subura / F1 | Wants senator names; gets chickens; in Ch 32 buys and sells spellings at the chalk wall; Ch 33 Nysa gives her Hortensia’s name free | Omniscient broker |
+| **Medullina** | Subura / F1 | Wants senator names; gets chickens; in Ch 32 buys and sells spellings at the chalk wall; Ch 34 Nysa gives her Hortensia’s name free | Omniscient broker |
 | **Sosia** | F4 collector | Impatient; mutters philosophers | Steal F4 humour |
 | **Glaucia** | Trebonius | Misreads shouts | Ops genius |
 | **Hilarus** | Servilia | Soft-power room steward | Explain Antium thesis |
@@ -69,6 +69,6 @@ Use with `writing/NAMES_MINOR_CAST.md`. One-line **Must not** where locks exist.
 | Person | Where | Note | Must not |
 |---|---|---|---|
 | **Statilius** (real; Epicurean) | Ch 7 (seen by Antony), 10 POV, 23 POV, 36 | Sounded out by Brutus and refuses (Plut. *Brut.* 12); keeps off the petition; letter to Brutus “a friend, not a cause”; the torch at Philippi (*Brut.* 51) | Convert to the cause by speech |
-| **Q. Fufius Calenus** (real; cos. 47) | Ch 32 POV | Antony’s man in the Senate; hides Varro at the villa where Antony stops (App. *BC* 4.47) | Turn against Antony |
-| **M. Terentius Varro** (real) | Ch 32 | 73; Casinum taken by Antony (*Phil.* 2.103–105); writes on the Latin language in the accounts room | Speeches about the Republic |
+| **Q. Fufius Calenus** (real; cos. 47) | Ch 33 POV (planted Ch 25) | Antony’s man in the Senate; hides Varro at the villa where Antony stops (App. *BC* 4.47) | Turn against Antony |
+| **M. Terentius Varro** (real) | Ch 33 | 73; Casinum taken by Antony (*Phil.* 2.103–105); writes on the Latin language in the accounts room | Speeches about the Republic |
 | **Q. Ligarius** (real) | Ch 3 (absent), 7, 8, 13 (sickbed, Plut. *Brut.* 11) | Pardoned on Cicero’s plea (*Pro Lig.*; Plut. *Cic.* 39) | POV in Ch 3 |

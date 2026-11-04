@@ -5,14 +5,14 @@ on:
     paths:
       - "drafts/book1/**"
       - "tools/export_book1_docx.py"
-      - "exports/Ides_Book1_FULL_Ch01-36.docx"
+      - "exports/Ides_Book1_FULL_Ch01-37.docx"
       - ".github/workflows/reading-copy.yml"
   push:
     branches: [main]
     paths:
       - "drafts/book1/**"
       - "tools/export_book1_docx.py"
-      - "exports/Ides_Book1_FULL_Ch01-36.docx"
+      - "exports/Ides_Book1_FULL_Ch01-37.docx"
 
 jobs:
   check:

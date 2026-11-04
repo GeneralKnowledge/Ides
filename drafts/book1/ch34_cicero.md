@@ -1,4 +1,4 @@
-# Chapter 33: Formiae Road
+# Chapter 34: Formiae Road
 
 **Scenes:** SC-86, SC-86a, SC-86b, SC-86c · 7 Dec 43 → early 42 · A13 · Chain 6 · HUMOR-1 off · F11
 
@@ -288,4 +288,4 @@ She gave Fulvia’s woman the true number, as near as she could make it. Fulvia�
 - **SC-86c (Nysa, early 42):** the women’s tax (1,400 women). Octavia and Julia received the women; Fulvia shuts the door on them. Fulvia’s woman sends Nysa to count. Hortensia, daughter of Hortensius, at the triumvirs’ tribunal (App. *BC* 4.32–34): lost fathers, sons, husbands, brothers; why tax women who have no share in honours, commands, statecraft; the women of the Hannibal war gave freely. Lictors sent; the crowd shouts *Shame!*; Lepidus adjourns. Next day: 400 women; men with over 100,000 pay. Lucius Caesar off the lists since before the Saturnalia (shown in SC-86a). Octavian is Nysa’s patron and doesn’t know her name. Nysa gives Medullina Hortensia’s name free; gives Fulvia’s woman the true count (41 at the door, 300-odd at the tribunal).
 - **Plants → pays:** the Ch 32 seal-ring assent; the Philippics wager; Ch 32 SC-85a (Julia); Ch 25 count; Ch 11 Medullina; “Win. Then count” (Ch 30).
 - **Must not:** no trophy aside (head and hands) outside his POV, including in SC-86a–c; no comedy in SC-86. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.
-- **Graph pass 2026-10-24:** Fulvia’s woman writes Nysa’s count on a tablet listing the men who called in Fulvia’s paper in the spring; *Hordeonius, at the Janus* near the top. Pays Ch 32 “She does [keep ledgers]”; Ch 36 Open Wax.
+- **Graph pass 2026-10-24:** Fulvia’s woman writes Nysa’s count on a tablet listing the men who called in Fulvia’s paper in the spring; *Hordeonius, at the Janus* near the top. Pays Ch 32 “She does [keep ledgers]”; Ch 37 Open Wax.

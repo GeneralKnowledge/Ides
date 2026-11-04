@@ -43,7 +43,7 @@ They went. A little later a small boy came in with the sword and set it against 
 
 “Now I am my own master,” he said, to no one Cleanthes could see.
 
-He tied off the linen. Cato flexed the fingers once and winced, and took up the book again. Cleanthes had seen the title on the tag: Plato, on the soul. Socrates in prison, talking with his friends until the hemlock came. Cato read it as men read a contract, close, going back over a passage he had already passed. He had been through it once before dinner, the kitchen said. He was more than halfway through it again.
+He tied off the linen. Cato flexed the fingers once and winced, and took up the book again. Cleanthes had seen the title on the tag: Plato, on the soul. Socrates in prison, talking with his friends until the hemlock came. Cato read it as men read a contract, close, going back over a passage he had already passed. He had been through it once before dinner, the cook had told Cleanthes. He was more than halfway through it again.
 
 Cleanthes went out and lay down on a mat in the passage. He did not sleep. Toward midnight he heard Cato snoring, deep and even, the snore of a man who has finished his work for the day, and he lay in the dark and listened to it and did not know what to think.
 

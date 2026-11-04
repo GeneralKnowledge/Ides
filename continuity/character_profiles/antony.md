@@ -43,7 +43,7 @@ Feeding men; promising nothing he can’t spell; drinking Ops unlocked; ignoring
 | Pressure | 15–17 | Trebonius hold; force available; refuse massacre |
 | Choice | 18–19 | Will open-jar; funeral cloth / Forum fire aim |
 | Cost | 22, 28–32 | Misread boy; Mutina; Bononia Cicero |
-| End | 35–36 | Philippi peak; his cloak over Brutus; Hortensius to his brother’s stones; Italy waved to tomorrow |
+| End | 36–37 | Philippi peak; his cloak over Brutus; Hortensius to his brother’s stones; Italy waved to tomorrow |
 
 ## Behavioral tells
 Body first; laughs at Ops; counts cooking smoke; divides maps with wine in teeth; holds cloth between mourning and command.

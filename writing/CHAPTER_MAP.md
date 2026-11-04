@@ -86,7 +86,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 
 **Batch A (voice test):** Ch 14–19 (dreams through funeral)  
 **Batch B (politics):** Ch 21–24 (name + Antium)  
-**Batch C (war):** Ch 30–36  
+**Batch C (war):** Ch 30–37  
 **Batch D (fill):** Ch 1–13, 20, 25–28  
 
 After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `continuity/canon.md`.

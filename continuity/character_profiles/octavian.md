@@ -40,7 +40,7 @@ Training weather; correcting age not tone; holding incompatible Decimus stories;
 | Pressure | 18 (off), 20 | Will adoption/name-path public; names first; gardens/boy |
 | Choice | 22, 28 | Name-take; Senate’s sword nod |
 | Cost | 31–32 | Centurions’ sword; Rubicon felt by the men, not him; Atia and Octavia at the Vestals’; Cicero greets him last; pays before the vote; vultures left open; fasces; Bononia Cicero assent |
-| End | 36 | Ill; farms that belong to someone else |
+| End | 37 | Ill; farms that belong to someone else |
 
 ## Behavioral tells
 Doesn’t correct early; opens chests where Agrippa sees; corrects age not tone; palms on rail after shake.

@@ -41,7 +41,7 @@ Stacking letters to the knee; drafting Atticus versions; sleeping eager after sc
 | Pressure | 13, 17 | Blind calm; **amnesty plain bargain** (pardon + acts stand) |
 | Choice | 25, 28 | Philippics wider; aim OCT |
 | Cost | 24, 30, 32 | Antium furniture; *tollendum* at dinner (T12); Bononia blank |
-| End | 33 | Formiae — purchased earlier |
+| End | 34 | Formiae — purchased earlier |
 
 ## Behavioral tells
 Seals letters as action; tips for Republic; scarred tablet as applause he won’t name fear; sands periods until shine.
