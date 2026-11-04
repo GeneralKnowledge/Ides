@@ -45,7 +45,7 @@ Those officers brightened at Parthia talk, months east, glory, the map widening.
 
 “When he calls us,” Agrippa said once, meaning Caesar.
 
-“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust-route, the wind, Agrippa’s stubborn loyalty, and the attendant’s late bow, filed where names that arrive early get spent.
+“When he calls,” Octavian agreed. He almost added a colder clause about mouths and mornings, then bit it off. He kept what he could own without saying it: the dust-route, the wind, Agrippa’s stubborn loyalty, and the attendant’s late bow, which he would remember when names that had arrived early came to be spent.
 
 An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile and didn’t correct the furniture.
 

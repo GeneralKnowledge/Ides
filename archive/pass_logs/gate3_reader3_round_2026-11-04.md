@@ -30,3 +30,12 @@ Evidence for each change is the reader's quoted passage, checked against the tex
 | 22 | back matter | New `offices.md` after the cast list (front); new `timeline.md` after the historical note; Rufus added to the cast |
 | 23 | Ch 18, Ch 35, Ch 27 | Second-degree heirs as Antony's reaction; the two hills as Antony's view; Casilinum opening names the five hundred |
 | 24 | Ch 7, Ch 31, exporter | "constitution" → "a new law"; "Feed the line. Then the honours."; "author-voice (no em dash)" removed from the title page |
+
+## Reader 4 follow-up (same PR)
+
+Reuben: "Yes please" to the reader 4 triage rows 1–3, keeping the Nysa coda.
+
+- **Ch 36 SC-92:** young Marcus Cato falls at the second battle, shouting his name and his father's (Plut. *Brut.* 49), seen by Brutus. The Philippi chapters had no Cato or Utica before this.
+- **"Filed" outside the ledger-keepers:** cut at Ch 4 (Laberius, "and filed both"), Ch 5 (Octavian), Ch 21 (Cicero), Ch 24 (Laberius), and the second of three in Ch 2 (Hordeonius). Kept for Hordeonius and Amyntas, and kept Laberius's "water: needed, not guaranteed", which reader 4 quoted as a strength.
+- **Ch 2:** "It has a bad manager" → "It has a bad steward".
+- Reader 3's held rows 25–30 are closed with no change.

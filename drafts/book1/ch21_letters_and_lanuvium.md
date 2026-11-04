@@ -50,7 +50,7 @@ Cicero had stopped guessing which were real and started counting.
 
 Puteoli was on the same bay. Cicero did not enjoy the arithmetic.
 
-Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already joke*. “Did anyone in the Forum say the name as if it cleared?”
+Cicero’s mouth arranged courtesy. Under it he thought: not yet money, already a joke. “Did anyone in the Forum say the name as if it cleared?”
 
 The courier shrugged. “As if it amused. Not as if it cleared.”
 
