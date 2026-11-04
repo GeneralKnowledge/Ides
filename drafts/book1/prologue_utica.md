@@ -37,7 +37,7 @@ Now the son stood in the doorway with his friends behind him, a young man of twe
 
 “Father…”
 
-“I do not need a sword to die. I can hold my breath. I can beat my head against a wall. Go.”
+“I do not need a sword to die. I can hold my breath. I can beat my head against a wall. Send me back my sword. Go.”
 
 They went. A little later a small boy came in with the sword and set it against the couch, not looking at anyone, and went out again. Cato drew it a hand’s breadth, looked at the edge, and slid it home.
 
@@ -78,7 +78,7 @@ Somebody had gathered the ivory counters and set them in a dish on the step, sti
 ---
 
 ## Continuity
-- **Sources (Plut. *Cato Min.* 66–70):** senators shipped off; dinner argument “only the good man is free” with Demetrius the Peripatetic; the son takes the sword; Cato strikes the slave and bruises his hand; “Now I am my own master”; reads the *Phaedo* through, more than once; sleeps and snores; Butas sent to the harbour twice, Cato groans for the men at sea; the stab is weak because of the hand; he falls and overturns the counting-board; the physician replaces the bowel and sews; Cato comes to, pushes him away, tears the wound open; dies at 48; Uticans mourn; Caesar near. “Hold my breath / beat my head” and “keep me for Caesar” paraphrase his rebuke to his son. Cleanthes is named in Plutarch (70); his Cos training and inner life are invented.
+- **Sources (Plut. *Cato Min.* 66–70):** senators shipped off; dinner argument “only the good man is free” with Demetrius the Peripatetic; the son takes the sword; Cato strikes the slave and bruises his hand; “Now I am my own master”; reads the *Phaedo* through, more than once; sleeps and snores; Butas sent to the harbour twice, Cato groans for the men at sea; the stab is weak because of the hand; he falls and overturns the counting-board; the physician replaces the bowel and sews; Cato comes to, pushes him away, tears the wound open; dies at 48; Uticans mourn; Caesar near. “Hold my breath / beat my head” and “keep me for Caesar” paraphrase his rebuke to his son; “Send me back my sword” stands for his demand that it be returned, which is why the boy brings it. Cleanthes is named in Plutarch (70); his Cos training and inner life are invented.
 - **Plants → pays:** a man who would not owe (Ch 1 “Some men can’t bear to owe”; Sextilius’s physician lines); the son, Marcus Porcius Cato, Porcia’s brother (Philippi); the counting-board; Caesar’s mercy as the thing refused (Ch 1 host’s grudge line).
 - **Must not:** no Shakespeare; no narrator verdict on Cato; Caesar offstage.
 - **Decisions:** 2026-10-23 (Reuben): the book opens here. This replaces the dinner-first opening (`archive/plans/opening_pov_design_review.md`), so Ch 1 plays as irony: the reader knows what the table won’t say.

@@ -80,7 +80,7 @@ A kitchen girl came through the door behind her with a basket, and Nysa watched 
 
 He nodded as if a jar had been shelved. “The kitchen,” he said. “Tomorrow, before light. The steward likes to know who carries.”
 
-She walked back across the Sacra Via for her bundle while the streets were still hers to cross. She did not tell Phileros which bow she had given. He saw it anyway in the morning, when she gave it to him at the gate out of a night’s practice, and he laughed his short laugh, and this time it was not too short.
+She walked back across the Sacra Via for her bundle while the streets were still hers to cross. The cracked flask sat on top of the people’s pile in the atrium with nobody watching it, and she put it in the bundle with her tunics. She did not tell Phileros which bow she had given. He saw it anyway in the morning, when she gave it to him at the gate out of a night’s practice, and he laughed his short laugh, and this time it was not too short.
 
 ---
 
