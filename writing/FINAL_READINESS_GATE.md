@@ -60,8 +60,8 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 
 | Gate | State | Evidence |
 |------|-------|----------|
-| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `5f49eb2`, digest `f079248c437c5713` (2026-10-24, after the renumbering pass, joins read, Gate 2 top-up, coverage-review fixes, wit pass, story graph pass and Ides trim: prologue, Ch 1–36, historical note and cast list, 2846 reading paragraphs, ~88k words) |
+| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `6a1331a`, digest `8ba3c108099c21c8` (2026-11-04, after the missing-step audit #188 and the Gate 3 reader 1 correction round: prologue, Ch 1–36, historical note and cast list, 2840 reading paragraphs, ~90k words; scene titles now print as unnamed breaks) |
 | 2. Mechanical copyedit | Passing | Top-up 2026-10-24 (#175) over everything written after the first pass, with the checks run across all of `drafts/book1`: [`archive/pass_logs/gate2_topup_2026-10-24.md`](../archive/pass_logs/gate2_topup_2026-10-24.md). The coverage-review edits (#176 and the follow-up) came after it and were written to the same house style. First full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two author questions (resolved 2026-10-22) in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
-| 3. Independent reader | Not started | |
+| 3. Independent reader | In progress | Reader 1 received 2026-11-03; triaged and one correction round made ([`archive/pass_logs/gate3_reader1_corrections_2026-11-03.md`](../archive/pass_logs/gate3_reader1_corrections_2026-11-03.md)). Reader 2 outstanding; seven held points wait for that round |
 
 *End final readiness gate.*
