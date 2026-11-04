@@ -124,7 +124,7 @@ Brutus held a fresh coin. The metal still held the heat of striking. His own hea
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. One honest doubt crossed him, and it came with a number. Four in the hundred a month: his rate on the loan to Salamis in Cyprus, years ago, made in his agents’ names. Scaptius had collected it with cavalry, and kept the town council shut in their own meeting-house until five of them starved. Cicero, governing Cilicia then, had refused to enforce the bond, and Brutus had been offended by the refusal. *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 
