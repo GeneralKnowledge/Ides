@@ -219,5 +219,5 @@ She would. She had a name on her tongue now, a consul’s name, the kind Medulli
 - **Plants → pays:** Ch 34 death bought by the assent; Ch 37 Hordeonius’s *Clean*; Ch 25 Fulvia’s woman; Ch 35 courier; Sextus (FS11); Calenus’s plate (collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
 - **T12:** at “Cicero stays on the list”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
-- **Must not (T11):** no census of the dead; Calenus is not a hero (he is Antony’s friend throughout); Varro’s later fate not narrated.
-- **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added.
+- **Must not (T11):** no census of the dead. (Calenus/Varro rules moved with SC-85b–d to Ch 33.)
+- **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added. 2026-11-04: SC-85b–d moved to Ch 33.

@@ -165,7 +165,7 @@ It looked strange on the wax. He did not rub it out. He did not know yet whether
 # SC-85d: A Guest for the Night
 
 POV: Calenus · his villa
-Date / place: Mid-Dec 43 · dinner, the night, the morning after
+Date / place: Early Dec 43, before Cicero is taken at Caieta (Ch 34) · dinner, the night, the morning after
 Canon refs: T11 · App. *BC* 4.47 (Antony stops at the villa; no slave of Calenus or Varro informs) · Cic. *Phil.* 2.104 (Casinum)
 Info ENTER: Varro hidden; the household paid · EXIT: Antony sleeps three walls from Varro and leaves; nobody speaks
 Overhear risk: Sixty slaves and Antony’s escort
@@ -229,5 +229,5 @@ Calenus did remember, now. He went out and shut the door on the draught, and wal
 ## Continuity
 - **SC-85b (Calenus; replaces the retired Seius scene 2026-10-24):** Varro’s friends compete to hide him (App. *BC* 4.47); Calenus, Antony’s man in the Senate, wins: his villa is where Antony stops. Varro: Antony took Casinum (*Phil.* 2.103–105), hence the list. The windowless accounts room behind the library. Calenus tells the sixty slaves the arithmetic and promises a year’s keep each; the steward sent to Rome to borrow quietly.
 - **SC-85c (Hordeonius):** Sosia: Antony wrote to Atticus in his own hand (hidden with Canus; both spared) because Atticus stood surety and lent to Fulvia without interest in spring 43 (Nepos *Att.* 9–10); Hordeonius called in her paper that month. Calenus’s steward borrows 3,000 denarii for “wages”, worn silver; Hordeonius does not ask why and takes Calenus’s plate as security. Entered *Calenus’s steward: lent* and, in cipher, *Clean*.
-- **SC-85d (Calenus, mid-Dec 43):** Antony stops at the villa on a two-day ride south; the good Falernian (Varro: “he drank my cellar at Casinum”); Antony names Varro on the list, “Old men. They don’t like being reminded”; Varro three walls away writing on the Latin language. The porter’s night round passes the door. Morning: Antony gone; “It was mine.” The steward counts sixty heaps of silver. No slave informs (App. *BC* 4.47).
+- **SC-85d (Calenus, early Dec 43, so the chapter closes before Ch 34 opens on 7 Dec):** Antony stops at the villa on a two-day ride south; the good Falernian (Varro: “he drank my cellar at Casinum”); Antony names Varro on the list, “Old men. They don’t like being reminded”; Varro three walls away writing on the Latin language. The porter’s night round passes the door. Morning: Antony gone; “It was mine.” The steward counts sixty heaps of silver. No slave informs (App. *BC* 4.47).
 - **Must not (T11):** Calenus is not a hero (he is Antony’s friend throughout); Varro’s later fate not narrated.

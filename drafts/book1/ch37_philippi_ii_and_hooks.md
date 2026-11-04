@@ -172,9 +172,7 @@ She thought about the cheer. It was not the cheer of the games, from the cheap r
 
 The litter came at noon. The curtains were open. Inside it, propped on cushions, a thin young man with a pale face and a cloak to the chin, looking out at them. He did not wave; he looked. His eyes went along the crowd the way Nysa’s went along the benches, row by row, and for one moment, which she knew perfectly well meant nothing, they went along her row.
 
-The cheer, then, was a real one. It went up the road and through the gate like water.
-
-She counted it twice.
+The cheer, then, was a real one. It went up the road and through the gate like water, and she counted it twice.
 
 The steward was waiting in the scullery when she came back. He had a tablet ready. He had not had a tablet at the games.
 
