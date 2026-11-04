@@ -39,4 +39,6 @@ Book 1 draft (Utica prologue + Ch 1–37) is in place; the Ch 1 dinner follows t
 
 DOCX export (metadata stripped): `python tools/export_book1_docx.py` → writes under `exports/`. It also writes an untracked A4 copy, `exports/Ides_Book1_FULL_Ch01-37_A4.docx`, for printing or reading on A4 paper (the 6 x 9 in book layout sits small in one corner of an A4 sheet). Only `exports/Ides_Book1_FULL_Ch01-37.docx` is tracked; it is stamped with its manuscript commit and source digest. `python tools/export_book1_docx.py --check` verifies it against the manuscript (also run in CI). See [`writing/FINAL_READINESS_GATE.md`](writing/FINAL_READINESS_GATE.md).
 
+Ebook (EPUB 3, for Kindle via Send to Kindle, Apple Books, Kobo): `python tools/export_book1_epub.py` → `exports/Ides_Book1_Ch01-37.epub` (untracked). Same reading text and order as the DOCX, reflowable, with a typographic cover; `--check` compares every paragraph with the manuscript and runs epubcheck if installed (`pip install epubcheck`, needs Java).
+
 Print interior for a hand-sewn hardcover (129 × 198 mm, imposed in 16-page A4 signatures): `python tools/print/build_book1_print.py` → writes under `build/print/` (not tracked). See [`tools/print/README.md`](tools/print/README.md).
