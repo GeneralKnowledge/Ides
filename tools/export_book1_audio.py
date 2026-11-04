@@ -20,8 +20,8 @@ Setup (once):
 Usage:
     python3 tools/export_book1_audio.py --list                 # tracks, word counts
     python3 tools/export_book1_audio.py --samples              # short clip per voice
-    python3 tools/export_book1_audio.py --voice bf_emma        # everything
-    python3 tools/export_book1_audio.py --only 3,4 --voice bf_emma
+    python3 tools/export_book1_audio.py --voice bm_george      # everything
+    python3 tools/export_book1_audio.py --only 3,4 --voice bm_george
     python3 tools/export_book1_audio.py --m4b-only             # rebuild M4B from WAVs
 
 Output goes to exports/audiobook/ (untracked): wav/ (working files, resumable),
@@ -331,7 +331,7 @@ SAMPLE = ("Chapter Fourteen. Brutus did not sleep. In the grey before dawn Porci
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--voice", default="bf_emma")
+    ap.add_argument("--voice", default="bm_george")
     ap.add_argument("--speed", type=float, default=1.0)
     ap.add_argument("--only", help="comma-separated track numbers (0 = opening, 1 = prologue …)")
     ap.add_argument("--threads", type=int, default=0)
