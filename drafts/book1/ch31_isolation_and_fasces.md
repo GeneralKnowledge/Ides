@@ -1,6 +1,6 @@
 # Chapter 31: Isolation and Fasces
 
-**Scenes:** SC-82, SC-82a, SC-83 · late Apr–autumn 43 · A10 end / A12 prep · C1 / C5
+**Scenes:** SC-82, SC-82b, SC-82a, SC-83 · late Apr–autumn 43 · A10 end / A12 prep · C1 / C5
 
 ---
 
@@ -14,9 +14,9 @@ Overhear risk: Dwindling staff
 
 ---
 
-Decimus left Mutina after the relief had made the wall honest again. Hirtius’s dirt still drying on the road. Antony thinned but not finished. The town’s hinges finally someone else’s problem for a morning. At the first milestone past the gate he waited half that morning for Plancus’s promised meeting-mark. No cohorts. No date. Only dust that refused to become wagons. Near noon a rider from the Lepidus channel he had seeded after the funeral handed back Decimus’s latest wax unopened. Same averted eyes as the messenger who would not take a return tablet on the road north in March. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Goodwill without a roof. Decimus kept the returned tablet.
+Decimus left Mutina after the relief had made the wall honest again, with Hirtius’s grave still fresh and Antony thinned but not finished. At the first milestone past the gate he waited half the morning for Plancus’s promised meeting-mark, and no cohorts came. Near noon a rider from the Lepidus channel he had seeded after the funeral handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Decimus kept the returned tablet.
 
-He looked for a destination mark on the itinerary and found only blank margin where a meeting date should have been. He rubbed the blank with his thumb until the wax warmed and still showed nothing. Antony, bleeding but unbroken, was already sliding toward friends Decimus could not buy.
+Antony, bleeding but unbroken, was already sliding toward friends Decimus could not buy.
 
 Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady, gates held, honour intact. He stopped mid-sentence when his hand cramped. He didn’t send a second copy.
 
@@ -32,9 +32,9 @@ Decimus brought his army over the passes to meet him at Cularo, a town of the Al
 
 “And one head,” he said, laughing, “and I’ll let you decide whose.”
 
-They camped side by side on the plain below the town, Plancus’s veterans on the higher ground by the river, Decimus’s army on the lower. It was a strange army to bring to a reunion. Legions of recruits from the levy, boys who had learned to dig at Mutina and little else, and a few cohorts of veterans who had stayed with Decimus through the siege because they had nowhere else to go. Plancus had more, and the best of them were old ones from Caesar’s Gaul. Decimus walked Plancus’s lines on the second day, invited, and counted without seeming to count, as he had walked Caesar’s lines in Gaul for ten years. Plancus’s men were well fed. They looked at Decimus with interest and without warmth.
+They camped side by side on the plain below the town, Plancus’s veterans on the higher ground by the river, Decimus’s army on the lower. Decimus had recruits from the levy, boys who had learned to dig at Mutina and little else, and a few cohorts of veterans who had stayed with him through the siege because they had nowhere else to go. Plancus had more, and the best of them were old ones from Caesar’s Gaul, well fed, who looked at Decimus with interest and without warmth.
 
-They wrote to Rome together. That was the work of June: letters. Plancus wrote beautifully. Decimus had read his letters to Cicero over the winter and thought them the best prose in the army and the least committed. Now he watched them being made. Plancus dictated walking up and down the tent with a cup in his hand, pausing for the right word, sending the secretary back two lines to change *our* to *the Republic’s*. He wrote that he and Decimus were of one mind. He wrote that Antony and Lepidus together were too strong to be attacked by the two of them alone, and that they would hold the line of the Isara and wait. He wrote, every week, that the young Caesar must be sent north with his legions, and the Senate must make him come.
+They wrote to Rome together; that was the work of June. Decimus had read Plancus’s letters to Cicero over the winter and thought them the best prose in the army and the least committed. Now he watched them being made. Plancus dictated walking up and down the tent with a cup in his hand, pausing for the right word, sending the secretary back two lines to change *our* to *the Republic’s*. He wrote that he and Decimus were of one mind. He wrote that Antony and Lepidus together were too strong to be attacked by the two of them alone, and that they would hold the line of the Isara and wait. He wrote, every week, that the young Caesar must be sent north with his legions, and the Senate must make him come.
 
 “He won’t come,” Decimus said, the first time.
 
@@ -42,11 +42,11 @@ They wrote to Rome together. That was the work of June: letters. Plancus wrote b
 
 “So is arriving.”
 
-Plancus laughed, and poured, and changed the subject to his brother Plotius in Rome, who wrote him the gossip, and was a fool about money, and wore too much of the same scent.
+Plancus laughed, and poured, and changed the subject to his brother Plotius in Rome, who wore too much of the same scent.
 
 Decimus wrote his own letters too, shorter. He asked for pay. He asked for grain. He wrote to Cicero that the recruits were good boys and would be soldiers by the autumn if anybody fed them till then. He wrote, in one letter he did not send, that he had spent his life being trusted by men he was not sure of, and that he had never before been on the other side of it.
 
-The valley went brown. Two armies could eat a valley in a summer, and they did. The foragers went further every week, into the hills, and came back with less, and with stories about Antony’s cavalry seen across the river. Across the river, a day’s march south, Antony and Lepidus sat together in one camp with more legions than the two of them could count, and did not attack, and did not need to.
+The valley went brown. The foragers went further every week and came back with less, and with stories about Antony’s cavalry seen across the river. Across the river, a day’s march south, Antony and Lepidus sat together in one camp with more legions than the two of them could count, and did not attack, and did not need to.
 
 In the second week of August a rider came up from the south with the news from Rome, and Plancus read it first, because Plancus’s riders were faster.
 
@@ -54,11 +54,11 @@ He came to Decimus’s tent with the tablet in his hand and his face arranged. D
 
 “The boy is consul,” Plancus said.
 
-Decimus took the tablet. Nineteen years old. Elected with his legions camped on the Field of Mars. His colleague a cousin, Pedius, an old man who would do what he was told. And the first law of the new consuls: a court to try the murderers of Caesar. It had sat already. It had condemned them in a day, in their absence, every man of the Ides, with no one to speak for them.
+Decimus took the tablet. The boy was nineteen, elected with his legions camped on the Field of Mars, and his colleague was a cousin, Pedius, an old man who would do what he was told. Their first law set up a court to try the murderers of Caesar. It had sat already and condemned them in a day, in their absence, every man of the Ides, with no one to speak for them.
 
 His own name was there. He read it twice.
 
-“Interdicted from fire and water,” Plancus said gently. “It won’t mean anything up here, of course. It’s Rome. It’s a law.”
+“Interdicted from fire and water,” Plancus said gently. “It won’t mean anything up here, of course.”
 
 “Laws are what we told ourselves we were for.”
 
@@ -66,9 +66,7 @@ His own name was there. He read it twice.
 
 Nothing in Rome changed the valley. The valley changed on its own. After the news the recruits began talking in the evenings in a way they had not talked before. The veterans in Plancus’s lines stopped looking at Decimus with interest. And letters began coming for Plancus from the west, from Pollio in Spain, who had three legions and a habit of writing to everyone and committing to no one, under seals Decimus was not shown.
 
-He did not ask to be shown them. He thought about it for three days. He was very good at reading men by what they wanted, and he knew what asking would buy: a laugh, a cup, a charming account of what was in the letters, and a lie about the rest. And it would tell Plancus that he knew. Better to let Plancus think he was still trusted. There was a little time in that.
-
-On the fourth day he asked anyway, at dinner, because he found he could not bear the cup and the laugh one more evening without it.
+He did not ask to be shown them for three days. On the fourth he asked at dinner, because he could not bear the cup and the laugh one more evening without it.
 
 “Pollio,” he said. “What does he want?”
 
@@ -80,7 +78,7 @@ Plancus did not pretend not to understand. That was something. He set down his c
 
 “No,” said Plancus. “I haven’t.”
 
-They finished dinner. Plancus was charming for the rest of it, and told a long story about a Gallic chieftain and a goose, and Decimus laughed in the right places, and they walked out of the tent together into the warm dark and stood for a moment looking at the river.
+They finished dinner. Plancus was charming for the rest of it, and they walked out of the tent together into the warm dark and stood for a moment looking at the river.
 
 “If I go,” Plancus said, quietly, as if to the river, “I will send you word first. I owe you that.”
 
@@ -88,9 +86,9 @@ They finished dinner. Plancus was charming for the rest of it, and told a long s
 
 “I owe the Republic my legions,” said Plancus. “I am trying to work out where it is.”
 
-He did not send word first. Decimus woke one morning in September before light because his horse was restless, and went up on the bank of the camp ditch with his cloak over his shoulders, and saw that the higher ground by the river was moving. Plancus’s camp was being struck, not in haste: tents coming down in order, cohort by cohort, wagons being loaded, the eagle of the first legion already out in front of its column on the road toward the bridge Plancus’s engineers had built across the Isara in the spring and never yet used.
+He did not send word first. Decimus woke one morning in September before light because his horse was restless, and went up on the bank of the camp ditch with his cloak over his shoulders, and saw that the higher ground by the river was moving. Plancus’s camp was being struck, not in haste, cohort by cohort, the eagle of the first legion already out in front of its column on the road to the bridge across the Isara.
 
-Decimus stood and watched it. He did not wake his staff. There was nothing his staff could do, and he wanted to see it alone, the way he had wanted to be alone on the wall-walk at Mutina in the winter.
+Decimus stood and watched it. He did not wake his staff.
 
 The columns crossed the bridge in the grey light, one after another, the old Gallic legions first, then the new ones, and went away south down the far bank toward Antony and Lepidus. It took most of the morning. At the end Plancus himself rode across, with his clean escort, and halfway over the bridge he reined in and turned in the saddle and looked back at the camp on the low ground. Decimus could not see his face at that distance. He could see that he raised a hand.
 
@@ -100,19 +98,15 @@ A rider came up from the bridge an hour later with a letter, beautifully written
 
 By noon the recruits had begun to go, not all at once and not with noise. A tent-group here, a century there, walking out of the gate with their shields on their backs as if they had been sent on fatigues, and not coming back. Some went south over the bridge after Plancus. Some went east toward the boy, whose name was on the law that had condemned their general. Some just went home. The centurions did not stop them. The centurions were going too.
 
-Decimus watched from the bank of the ditch. He counted them as they went, from habit, as he had counted cohorts at Massilia and hinges at Mutina, and when the number became large enough that it stopped being a number he stopped counting and went to look at the maps.
+Decimus watched from the bank of the ditch. He counted them as they went, from habit, and when the number stopped being a number he went to look at the maps.
 
-Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another counted betrayals and got a higher number. A third asked whether they should wait for Cassius from the East.
+Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another asked whether they should wait for Cassius from the East.
 
-“Wait here and the road learns our number,” Decimus said.
-
-“They will say I did not pursue,” the first aide muttered.
-
-“Let them,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
+“Wait here and the road learns our number,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
 
 At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
 
-They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, without speech, of Caesar’s atrium and the cheer he had worn like a clean cloak on a March morning. Trust had been the key. He put the thought away the way he put away a broken strap: later, if later existed.
+They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, of Caesar’s atrium and the cheer he had worn on a March morning. He put the thought away the way he put away a broken strap: later, if later existed.
 
 On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search.
 
@@ -129,6 +123,84 @@ They kept him a night in a hut above the ford. In the morning a rider came up fr
 There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee at the ditch by the ford, shallow and ordinary: meltwater, a broken rein, the smell of wet wool. If he thought of Caesar’s laugh one last time, the thought stayed inside.
 
 Camelus’s man struck once at the neck, and again.
+
+---
+
+# SC-82b: The Watched Room
+
+POV: Porcia · Rome, Brutus’s house
+Date / place: Late May 43 · her room; the day before the news leaves for Macedonia
+Canon refs: T13 · Plut. *Brut.* 53 (the three versions; Nicolaus and Valerius Maximus on the watching) · Cic. *Ad Brut.* 1.9 · pays Ch 25 SC-68d, sets SC-82a and Ch 34 SC-88b
+Info ENTER: Fever since the spring; Brutus in Macedonia, Gaius Antonius held · EXIT: The room shut and the brazier lit; the scene ends before anything is done
+Overhear risk: The whole household (she is the thing they listen to)
+
+---
+
+The fruit came up from the kitchen already cut.
+
+Porcia looked at it on the tray: a pear in eight pieces, laid out like a hand of tiles, and beside it the little bone-handled knife that had always come with fruit in this house was not there. Yesterday it had been bread, torn and not sliced. The day before, her women had taken the pins out of her hair to brush it and had not put them back, and Leda, who had dressed her since she was a girl in her father’s house, had said it was the fever, the pins would only make her head ache.
+
+She ate a piece of the pear to show she could.
+
+The fever had come in the spring and stayed, the way a guest stays who has been told the house is glad of him. Some days it lifted and she walked in the garden and read Brutus’s letters again. Most days it sat in her joints and behind her eyes, and the room was kept close against the damp because the doctor said so, and the brazier was kept in because the doctor said that too, and the doctor was her mother-in-law’s doctor.
+
+Servilia came at the tenth hour, as she had every second day since April. She sat on the chair by the window and did not take off her mantle, which meant she would not stay, and told Porcia the news in the order she had decided it should be heard.
+
+Mutina was relieved; Porcia knew that. Both consuls dead; she knew that too. Decimus had not pursued Antony, or could not, and Antony had gone over the Alps toward Lepidus, and Lepidus was writing to the Senate that he was loyal in letters that were each a little shorter than the last. In Macedonia Brutus held Gaius Antonius under guard in a good house and would not kill him, though Cicero wrote to him every month that he should.
+
+“And Marcus?” Porcia said. “Not the legions. Him.”
+
+“He writes that he is well.”
+
+“He writes that to you because you will read it to the Senate. What does he write to me?”
+
+Servilia looked at the brazier. “He asks after your health.”
+
+“He asks after it. Who answers?”
+
+“I do,” said Servilia. “I tell him you are being cared for.”
+
+Porcia laughed, which hurt. “You tell him the knives have gone to the kitchen.”
+
+Servilia did not pretend not to understand. She had never in her life pretended that, and it was the one thing Porcia had always liked in her.
+
+“I tell him what is true,” Servilia said. “That your father’s daughter has been ill since March, and that the house is watching her because it loves her, and because it remembers Utica. I would rather he heard that from me than heard the other thing from a stranger.”
+
+“There is no other thing.”
+
+“Then the house will have watched for nothing, and I will be glad to have been a fool.”
+
+Porcia turned her face to the wall, where nobody had hung anything. At Velia she had cried in front of a painting, and Brutus had not given her Hector’s answer, and she had loved him for it more than for anything he had ever said in a speech. *She has everything else.* She had gone back to Rome with the baggage properly corded and kept her part of it. She had kept the house. She had answered the clients at the gate, and sent the grain bills on to Atticus, and written to Macedonia every week in her own hand, plainly, without periods. Then the fever had come and taken the hand, and now Leda wrote her letters for her, and Servilia read them before they went.
+
+“I want to write to him myself,” she said.
+
+“You can’t hold the stylus.”
+
+“Then I want to say it myself, and have it written as I say it, and sealed before you see it.”
+
+Servilia stood. She settled her mantle on her shoulder, slowly, as if the decision were in the cloth.
+
+“My freedman goes to the coast in two days,” she said. “If there is a letter sealed in your seal in his bag, I will not open it. I will give him mine as well. Mine will tell Marcus how you are.” She paused at the door. “Yours had better tell him something else, or he will think we have both gone mad.”
+
+When she had gone, Porcia called Leda and dictated three lines and stopped. She could not find the fourth. In the end she had Leda read back the three and seal them as they were.
+
+“Is that all, mistress?”
+
+“That is all.”
+
+Leda put the tablet in the box for the freedman and came back and stood by the bed, not quite looking at her, the way the whole house had stood for a month.
+
+“Shut the door when you go,” Porcia said. “And the shutter. The doctor wants the room close.”
+
+Leda shut the shutter. She knelt and built up the brazier, carefully, the way she had been told, and the coals woke under the bellows and glowed. The heat came across the room. Porcia lay and watched it on the ceiling.
+
+“Mistress, shall I sit with you?”
+
+“No,” said Porcia. “Go to bed. You have been watching me since April. Go to sleep.”
+
+Leda hesitated at the curtain. Then she went, because in all the years she had served her, Porcia had never once asked for anything she did not mean.
+
+The latch fell. The room was very quiet. The coals ticked as they settled, and their light moved on the ceiling, and Porcia lay with her hands open on the cover and looked at it for a long time.
 
 ---
 
@@ -190,7 +262,7 @@ He would have given a great deal for it to have been the Republic.
 
 That evening he gave the order for the ship. Gaius would be well treated, with his own servants and a guard, anchored off the coast and out of reach of anyone’s dinner. Brutus wrote it to the Senate as a measure for Gaius’s own safety, and it was well written.
 
-His mother’s letter he did not open. He knew it would tell him how. He put it in the cedar box with Cicero’s, unopened, and sat with his hand on the lid until the lamp went out on its own. He thought of her hand in March, hot in his until the window greyed, and her voice saying *I can*.
+His mother’s letter he did not open. He knew it would tell him how. He put it in the cedar box with Cicero’s, unopened. Porcia’s own, the third, he read: three lines in a servant’s hand under her seal, dated the day before the news. They said nothing about the fever. He did not put that one in the box. He sat with his hand on the lid until the lamp went out on its own. He thought of her hand in March, hot in his until the window greyed, and her voice saying *I can*.
 
 ---
 
@@ -322,7 +394,7 @@ Agrippa had counted. He said six, and then six. He said it was a hot summer and 
 
 “Both, I should think.” Agrippa looked at the sky, which was empty now. “That’s the art.”
 
-Octavian looked at the empty sky a moment longer than he meant to.
+Octavian looked at the empty sky a moment longer than he meant to. Six birds belonged to the augur. Twelve belonged to the camp, and the camp had made him a second Romulus before the centuries had finished making him a consul. He would not correct them.
 
 He felt sick after the count, stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Publicly he accepted the fasces like owed homework. Twelve lictors shouldered the bound rods and walked ahead of him, and men stepped out of the street for the rods before they looked to see whose face came behind. A herald stumbled over *consul* and *nineteen* in the same breath, as if the two words had never met. Octavian let him find his way to the end.
 
@@ -340,6 +412,7 @@ By autumn a courier brought Decimus’s end in two lines: a ford in the hills, a
 
 ## Continuity
 - **SC-82 (late Apr → Sept 43):** Decimus waits at a milestone; Plancus has not come. **Cularo (S3):** June, Decimus brings his recruit legions and a few veteran cohorts over the passes to Plancus at Cularo on the Isara; Plancus’s scent; side-by-side camps (Plancus on the higher ground); joint letters to Rome (“one mind”; hold the Isara; the boy must be sent north; he doesn’t come); Plancus’s brother Plotius in Rome, same scent (pays Ch 33 SC-86b). Mid-August: the boy consul with Pedius; the Pedian court condemns the men of the Ides in absence, Decimus among them (fire and water). Pollio’s sealed letters for Plancus; Decimus asks at dinner; Plancus: Pollio thinks the Curia men are the price of peace; “I have not answered him.” September dawn: Plancus’s legions cross his Isara bridge to Antony and Lepidus; Plancus raises a hand halfway over, Decimus doesn’t; a courteous letter after; the recruits walk off, some to Plancus, some to the boy, some home; Decimus stops counting. a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech. The Gallic chief Camelus, once in his pay, holds him a night until Antony’s rider comes, and his man kills Decimus at the ditch (Appian *BC* 3.98; made explicit 2026-11-03, Gate 3 reader 1).
+- **SC-82b (Porcia, late May 43; added 2026-11-04, Gate 3 reader 2):** Rome, Brutus’s house. Fever since the spring; the room kept close and the brazier in on Servilia’s doctor’s orders; fruit comes cut, pins taken (the household watches her, Val. Max. 4.6.5 / Plut. *Brut.* 53). Servilia gives the news (Mutina, both consuls dead, Antony over the Alps to Lepidus, Gaius held) and says she tells Brutus “what is true… it remembers Utica”. Porcia dictates three lines to Leda (invented maid), sealed unread for Servilia’s freedman. She sends Leda to bed; shutter closed, brazier built up; the scene ends with her watching the coals. Nothing is done on the page: illness, fumes and coals all stay open for Ch 34. SC-82a: Brutus reads her three lines that evening (they say nothing about the fever) and keeps them out of the box.
 - **SC-82a (Brutus, June 43; added 2026-10-24):** second morning of the standing mutiny Gaius Antonius has worked up; Servilia’s old freedman brings the news of Porcia; Brutus stops him before *how*; reads Cicero’s consolation (*Ad Brut.* 1.9: philosophers are watched) and looks up to find the legion watching; walks out without lictors or speech; the trumpet; the Picene centurion lifts his shield first; they moved for her, not the Republic. Gaius to the anchored ship that evening. Servilia’s letter left sealed in the cedar box (pays Ch 34 SC-88b).
 - **SC-83 (S5):** the consulship (19 Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse. Philippus writes: forty-two years for the chair, he has nineteen. July: four hundred centurions and picked men go to Rome; Cornelius (old burn down one forearm) throws back his cloak in the House, “If you will not make him consul, this will” (Suet. *Aug.* 26), and tells it at the pay line; Octavian neither ordered nor forbade it. Late July: the Rubicon with eight legions; he feels nothing, the men feel it for him. The Senate’s money offered then recalled; two African legions go over outside the walls; Cornutus the urban praetor falls on his sword. Atia and Octavia in the Vestals’ house; Octavia uses his old name; Atia kept the jewel box, he says “Not now either” (pays Ch 22); “Eat something… before you do anything you can’t take back.” Cicero greets him last: “You are the last of my friends to greet me” (App. *BC* 3.92), with the three verbs in his head; the night rumour, Cicero at the Curia door, then the closed litter. Treasury chests from Saturn set out in the Forum: 2,500 a man, the rest promised; “Honours after the line is fed.” Election on the Field of Mars with Pedius (another grandson of Caesar’s sister, coughs); six vultures at the auspices, six more at the speech; the camp says twelve and Romulus, Agrippa says six and six and the river (App. *BC* 3.94; Suet. *Aug.* 95), left open. The fasces as twelve lictors whose rods move the street. The Pedian court condemns the men of the Ides in a day; Octavian turns the tablet face down. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death (Sept 43) reaches him after the fasces, as the push to Bononia; Bononia comes as a two-seal invitation to the river island.
 - **Plants → pays:** Ch 27 aide on Lepidus; the Bononia table (Ch 32).

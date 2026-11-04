@@ -14,7 +14,7 @@ Overhear risk: Sentinels / heralds
 
 ---
 
-They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
+Outside Mutina, in the first winter of the siege, Antony’s lines ran right round the town and Decimus sat inside its walls with his legions and his hinges. They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
 
 Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 

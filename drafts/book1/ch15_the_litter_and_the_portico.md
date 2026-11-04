@@ -158,7 +158,7 @@ He arrived with the loose stride of a man who had drunk enough last night to pro
 
 Trebonius found him before he reached the Curia door.
 
-“Marcus,” Trebonius said, warm as old campaign wine. The first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom. Think of it as another market day: Gaul talk, debt talk, the long nothing that keeps consuls useful.”
+“Marcus,” Trebonius said, warm as old campaign wine. The first name; only old friends and men with business used it. “A word. Not even a word. Three. You’ll thank me for keeping you from the first hour’s boredom.”
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
@@ -174,7 +174,7 @@ Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.
 
 A legate’s attendant tried to cut in with remounts and a mistress joke already half-told. Trebonius waved him off. “Later. Consuls first.” The attendant swallowed the remount and stepped back. Antony laughed at that, then found the laugh lasting a little too long. The morning wanted him facing the wrong way.
 
-They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days. That was the point.
+They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote better than he fought. Trebonius was good at market days.
 
 “Hirtius fights badly,” Antony said. “I have seen it. He holds a sword like a pen.”
 

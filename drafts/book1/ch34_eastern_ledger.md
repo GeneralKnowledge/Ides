@@ -76,7 +76,7 @@ Overhear risk: Interpreters
 
 ---
 
-Cassius listened to a city’s elders explain poverty with practised dignity.
+At Tarsus, that winter, Cassius listened to the city’s elders explain poverty with practised dignity.
 
 The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” Cassius said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
 
@@ -114,7 +114,7 @@ Overhear risk: Officers
 
 ---
 
-The dies showed two daggers either side of a felt cap, and under them *EID MAR*. A date pretending to be a sacrament.
+The mint travelled with the army, and that winter in the camps of Macedonia it struck silver for the legions. The dies showed two daggers either side of a felt cap, and under them *EID MAR*, a date pretending to be a sacrament.
 
 “The cap they set on a slave’s head the day he’s freed,” the mint-master said, tilting the die to the lamp as though Brutus had not drawn it himself. “Between the knives. The men like it. They say it means the Ides bought them out.”
 
@@ -161,6 +161,8 @@ Brutus took that letter out now and read it again by the lamp, in the cold, with
 Cicero was dead.
 
 The news had come up from the coast the week before, from Italy, wrong at first as everything came wrong, and then right. Cicero dead in December on the road to the sea, and what had been done afterwards in the Forum, on Antony’s orders, told by every rider a little differently. Brutus had not asked for the details, as he had not asked which story about Decimus was true. Decimus dead in the autumn at some ford in Gaul. Cicero dead on the coast road. Both on lists their friends had signed. Both while their friends’ brothers were alive and well and being fed on Brutus’s grain.
+
+In a garden in Rome, with Trebonius against the wall, Trebonius who was dead now too, he had said that Antony was not Caesar, and that a man like that would go where the honour was. Antony had gone where the honour was. It had turned out to be a list, and Brutus had argued for the life of the man who wrote it.
 
 He read the August letter through to the end. *Do you think he would spare you?*
 

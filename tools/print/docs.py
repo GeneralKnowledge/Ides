@@ -207,7 +207,7 @@ def spec(i: Info) -> str:
 {table(margin_rows)}
 == Signatures
 {table(sig_table(i), "(auto, auto, auto, auto, 1fr)", header=True)}
-Blank pad pages (if any) are added at the very end of the last signature; they sit after the cast list as the conventional blank leaves before the rear endpaper.
+Blank pad pages (if any) are added at the very end of the last signature; they sit after the historical note as the conventional blank leaves before the rear endpaper.
 
 == Estimates: not final
 #block(fill: luma(94%), inset: 8pt, radius: 2pt, width: 100%)[*These are estimates.* Paper caliper varies by brand and humidity, and sewing, gluing and pressing change the spine. Measure the actual sewn, glued and pressed text block before cutting boards or the spine stiffener; recompute with the formulas below.]
@@ -356,7 +356,7 @@ def report(i: Info) -> str:
 {t(f"{m['title']}, {m['volume']}")} · {stamp_line(i)}
 
 == Summary
-The full manuscript (Utica prologue, Chapters 1–36, historical note and cast list) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
+The full manuscript (cast list, Utica prologue, Chapters 1–36 and historical note) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
 
 == Checks performed
 {table([["Check", "Result"]] + [[t(c), t(r)] for c, r in i.checks], "(1fr, auto)", header=True)}
@@ -395,9 +395,9 @@ Edit `tools/print/meta.json` and rebuild. Nothing below was invented; the pages 
 - *Contents:* included; the book has five acts and 36 titled chapters, which a reader of a book this long will use.
 - *Scene titles:* the manuscript titles every scene as a working label; since 2026-11-03 (Gate 3 reader 1) the reader sees only an unnamed break, in the print interior and the DOCX alike.
 - *Act pages:* one recto per act, as in the DOCX reading copy.
-- *Recto starts:* every chapter, act page and back-matter section starts on a right-hand page; this adds blank versos, typical for a hardcover.
+- *Recto starts:* every chapter, act page, the cast list and the historical note start on a right-hand page; this adds blank versos, typical for a hardcover.
 - *Chapter 30’s three numbered lines* are set as a short indented list, exactly as written.
-- *Back matter:* the historical note and cast list follow Chapter 36. Bold labels in them (names, sub-points) are set in small caps; list bullets become hanging indents. The map brief is for a cartographer and is not printed.
+- *Cast and notes:* the cast list opens the book, before the prologue (Gate 3 reader 2), and the historical note follows Chapter 36. Bold labels in them (names, sub-points) are set in small caps; list bullets become hanging indents. The map brief is for a cartographer and is not printed.
 - *Excluded, as in the DOCX copy:* scene cards, POV/date/canon lines, continuity notes and other metadata; the DOCX’s “End of Book 1 full review export” line.
 - *Trim size kept at 129 × 198 mm.* It fits a folded A4 sheet (148.5 × 210 mm) with a 19.5 mm fore-edge trim and 6 mm head and tail trims; the spine edge sits on the fold, so the full 19 mm gutter survives.
 

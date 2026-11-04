@@ -18,7 +18,7 @@ Hordeonius arranged his face into mourning for the Republic and his stylus into 
 
 “Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme ready coin.”
 
-Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather.
+Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Sosia muttered that forged acts smelled like wet leather.
 
 “Who says what’s in Caesar’s papers?” the Puteoli man asked.
 
@@ -30,17 +30,11 @@ Citizenship shortcuts, land whispers, exemptions with seals that looked tired: e
 
 “Wholesale,” Hordeonius said. “You’re retail. An eastern king bought his kingdom back in Fulvia’s sitting-room. You want a harbour exemption. Adjust your expectations and your purse.”
 
-The Puteoli man and Sosia argued the next question in the same breath. “Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. A third voice from two stalls down asked whether Servilia’s people were already rewriting clauses in Antium talk, and whether old eagle men would take the boy’s pay or spit it back as wine-shop joke.
+“Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. The Puteoli man wiped his brow. “You weigh a dead man like a sack of grain.”
 
-“Antium?” the Puteoli man said.
+Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool.”
 
-“Brutus’s sea house,” Sosia said. “Where else does a praetor sit when he can’t walk the Forum? His mother has moved her clerks in after him.”
-
-The Puteoli man wiped his brow. “You weigh a dead man like a sack of grain.”
-
-Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool. I sell you which rumour empties a purse first. Certainty costs extra, and I don’t stock it.”
-
-He entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
+He entered *boy-Caesar rumour: watch veterans* in a margin.
 
 ---
 

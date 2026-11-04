@@ -39,8 +39,10 @@ CHAPTER_COUNT = 36
 # chapter until the next renumbering pass; at most one letter per insert.
 # The 2026-10-24 pass folded 25a and 27a into Ch 26 and Ch 29.
 PROLOGUE = DRAFTS / "prologue_utica.md"
-# Back matter in the full copy, after the last chapter. map_brief.md is for the cartographer.
-BACK_MATTER = [DRAFTS / "back_matter" / "historical_note.md", DRAFTS / "back_matter" / "cast_list.md"]
+# The cast list opens the full copy, before the prologue (Gate 3 reader 2, 2026-11-04);
+# the historical note follows the last chapter. map_brief.md is for the cartographer.
+FRONT_MATTER = [DRAFTS / "back_matter" / "cast_list.md"]
+BACK_MATTER = [DRAFTS / "back_matter" / "historical_note.md"]
 
 ACTS = [
     (1, "Act 1: Foundations"),
@@ -389,9 +391,10 @@ def reading_paragraphs(
     chapters: list[tuple[int, str, list[tuple[str, str]]]],
     end_line: str,
     back: list[tuple[str, str]] = [],
+    front: list[tuple[str, str]] = [],
 ) -> list[tuple[str, str]]:
-    """Everything after the front matter, as (markdown text, role)."""
-    out: list[tuple[str, str]] = []
+    """Everything after the title and contents pages, as (markdown text, role)."""
+    out: list[tuple[str, str]] = list(front)
     act_by_start = {n: label for n, label in ACTS}
     for num, title, blocks in chapters:
         if num in act_by_start:
@@ -488,10 +491,11 @@ def build_doc(
     end_line: str,
     stamp: dict[str, str],
     back: list[tuple[str, str]] = [],
+    front: list[tuple[str, str]] = [],
 ) -> Document:
     doc = Document()
     setup_document(doc)
-    paras = reading_paragraphs(chapters, end_line, back)
+    paras = reading_paragraphs(chapters, end_line, back, front)
 
     # Title page
     front_line(doc, "The Ides of March", size=26, before=150, caps=True, spacing=30)
@@ -568,6 +572,10 @@ def full_back() -> list[tuple[str, str]]:
     return [b for path in BACK_MATTER if path.exists() for b in parse_back_matter(path)]
 
 
+def full_front() -> list[tuple[str, str]]:
+    return [b for path in FRONT_MATTER if path.exists() for b in parse_back_matter(path)]
+
+
 def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, str]]]]]:
     files = chapter_files()
     nums = [n for n, _ in files]
@@ -590,7 +598,8 @@ def load_chapters() -> tuple[list[Path], list[tuple[int, str, list[tuple[str, st
         chapters.insert(0, pro)
     assert_reading_clean(chapters)
     # The digest covers the back matter too, so editing it marks the copy stale.
-    return [p for _, p in files] + [p for p in BACK_MATTER if p.exists()], chapters
+    extra = [p for p in FRONT_MATTER + BACK_MATTER if p.exists()]
+    return [p for _, p in files] + extra, chapters
 
 
 def docx_paragraphs(path: Path) -> list[Runs]:
@@ -632,7 +641,7 @@ def check(path: Path) -> int:
     if "UNCOMMITTED" in (cp.comments or ""):
         problems.append("export was generated from uncommitted manuscript changes")
 
-    expected = [to_runs(t) for t, _ in reading_paragraphs(chapters, FULL_END_LINE, full_back())]
+    expected = [to_runs(t) for t, _ in reading_paragraphs(chapters, FULL_END_LINE, full_back(), full_front())]
     got = docx_paragraphs(path)
     lead = [plain(r) for r in expected[:3]]
     start = next((i for i in range(len(got)) if [plain(r) for r in got[i : i + 3]] == lead), 0)
@@ -717,10 +726,11 @@ def main() -> None:
         subtitle="Book 1: FULL Review Draft (Chapters 1–36)",
         banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 36 CHAPTERS · OPENS WITH THE PROLOGUE",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · prologue, chapters 1–36, historical note and cast",
+        source_note=f"Source: {source} · cast, prologue, chapters 1–36 and historical note",
         end_line=FULL_END_LINE,
         stamp=stamp,
         back=full_back(),
+        front=full_front(),
     )
     full.save(FULL_PATH)
     # Alias used by earlier review packets

@@ -1,4 +1,4 @@
-# Chapter 13: GO
+# Chapter 13: The Night Before
 
 **Scenes:** SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
 
@@ -14,13 +14,9 @@ Overhear risk: Medium–Low
 
 ---
 
-“Keep him talking,” Decimus said.
+“Keep him talking,” Decimus said. “In the portico, until the room inside has finished being a Senate.”
 
 They stood where Pompey’s stone still watched the living arrange a hold, a few walls from the statue that would preside over tomorrow’s sitting. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face wore its usual mildness, the kind that made business smell like friendship.
-
-“Gaul talk,” Decimus went on. “Debt talk. The sort of talk that makes a consul lean in. Hold him in the portico until the room inside has finished being a Senate.”
-
-Decimus did not need to say which consul. Antony: big, loud, the one man in Rome who might turn the morning into a brawl, devoted to Caesar the way a large dog is devoted, by instinct and at volume. If he walked into the chamber, the knives would have to go through him first. So he must not walk in.
 
 “And if he smells it?” Trebonius asked.
 

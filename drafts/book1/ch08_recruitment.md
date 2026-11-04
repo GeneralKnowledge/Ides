@@ -20,15 +20,7 @@ The diadem had been offered, refused, offered again, theatre that left his mouth
 
 The clock was simple, and he said it to himself every morning like a prayer. Caesar would leave for the East within weeks. When he went, he would take his legions, his Senate and his promises with him, and when he came back, if he came back, he would come as the man who had beaten Parthia, and no one in Rome would be in a position to say no to him again. If anything was going to be done, it would be done while he was still within reach of a Roman street.
 
-He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the others, a list he kept in his head, of men whose villas lined the Appian Way south of the city where the pardoned Pompeians had retired to be grateful in private. Men who hated the calendar of forever offices. Men who still smelled Pharsalus on their clothes. Men who smiled too hard at Caesarian dinners.
-
-A clerk hovered with a tablet about a boundary dispute in some dull estate. Cassius took it, read nothing, handed it back.
-
-“Not now,” he said. “Send to Atticus’s people if they want Latin about ditches.”
-
-“Master, it concerns the drainage.”
-
-“Then let the drainage wait. It has been waiting since Romulus.”
+He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the others, a list he kept in his head, of men whose villas lined the Appian Way south of the city where the pardoned Pompeians had retired to be grateful in private, and who still smiled too hard at Caesarian dinners.
 
 He called for wine and didn’t drink it. He wanted his hands free.
 
@@ -58,7 +50,7 @@ Galba did not leave clean. He took from his sleeve a small note, wax already sof
 
 Galba’s thumb cracked the seal. He tore the note once, then again, until the patron’s compliments were scraps too small to reassemble into courtesy. He let them fall between the tiles. “Name the doors,” he said. “Softly. If Brutus blesses, I stand. If he only watches, I still stand, but you will owe me the brother’s winter.”
 
-Cassius named two other doors Galba might tap, and did not name the full list. Compartments kept corpses from becoming libraries. He did not promise the brother’s winter with poetry. He nodded once, as men nod when a cost has entered the room and refused to leave.
+Cassius named two other doors Galba might tap, and did not name the full list. He did not promise the brother’s winter. He nodded once.
 
 When Galba reached the street, Cassius finally drank. The wine was ordinary. That pleased him.
 
@@ -86,15 +78,9 @@ Brutus did not offer couches at once. Offering couches was how he postponed. “
 
 Casca smiled with his teeth. “We are not here to dine you into a better mood. We are here because the Forum still tastes of that wreath, and men who wait for Parthia will wake up subjects.”
 
-“Subjects is a street word,” Brutus said. “Speak like the Senate, or leave my masks out of it.”
-
-“The masks are not in the Senate.”
-
-“The masks are in every Senate that ever mattered. That is the point of masks.”
-
 Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterwards, hand on his shoulder like kinship that politics had not earned. Killing that hand later would not be surgery in the blood. It would be answering warmth with steel and calling the answer law.
+“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterwards, hand on his shoulder like kinship that politics had not earned. Killing that hand later would be answering warmth with steel and calling the answer law.
 
 Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
 
@@ -104,7 +90,7 @@ Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living
 
 Casca leaned forward. “Courtesy is how we all stayed alive. It is also how the diadem got a second cheer. I am tired of surviving beautifully.”
 
-Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful. For a breath he let himself picture Caesar’s face if the door ever opened with a knife behind it, and the picture hurt enough that he almost ordered them out for that reason alone.
+Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful.
 
 “If it is done as murder,” he said, back still half-turned, “I am not with you. If it is done as a street, I am against you. I have not said yes. I have said I hate kings. Hating kings is not the same as opening a friend’s door with a knife behind it.”
 
@@ -124,7 +110,7 @@ Servilia rose. Her hand brushed Brutus’s shoulder, brief, private, not a bless
 
 They left with festival manners intact, clasps, wishes for health, and Casca’s very old joke about the mule elected tribune that declined the honour because it would have to speak in public. Servilia’s mouth almost moved.
 
-When the door had shut on them, Brutus held the refusal draft over the lamp until names blurred. He set it down carefully. He had not said yes. He had said he would hear, and the hearing already felt like a door he could not fully close.
+When the door had shut on them, Brutus held the refusal draft over the lamp until names blurred, and set it down carefully.
 
 He slept little. When he did, the Forum would not stop cheering, and a crown kept returning like a fly.
 
