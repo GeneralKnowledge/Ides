@@ -84,7 +84,7 @@ Overhear risk: Dust/noise
 
 Antony liked the plain’s honesty: kill or be rearranged. Marshes and hills broke sightlines; he liked that too, when it broke the other man’s map.
 
-They had sat down on two hills astride the road west, Brutus on the northern one, Cassius on the southern above the marsh, with the sea behind them bringing grain every morning. Antony had the plain and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
+He looked up at the two hills astride the road west, as he had every morning for a month: Brutus on the northern one, Cassius on the southern above the marsh, and behind them, where he could not see it and never stopped thinking of it, the sea, bringing them grain every morning. He had the plain, and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
 
 Before the trumpets a centurion of the Second came to his horse at the head of the cut, mud to the thigh, with a gap where his front teeth should have been. His century had dug for ten nights. He wanted it at the far end of the causeway, where the boy’s lent cohorts would come up out of the reeds beside Antony’s own.
 

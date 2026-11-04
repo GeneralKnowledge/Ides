@@ -41,8 +41,8 @@ CHAPTER_COUNT = 36
 PROLOGUE = DRAFTS / "prologue_utica.md"
 # The cast list opens the full copy, before the prologue (Gate 3 reader 2, 2026-11-04);
 # the historical note follows the last chapter. map_brief.md is for the cartographer.
-FRONT_MATTER = [DRAFTS / "back_matter" / "cast_list.md"]
-BACK_MATTER = [DRAFTS / "back_matter" / "historical_note.md"]
+FRONT_MATTER = [DRAFTS / "back_matter" / "cast_list.md", DRAFTS / "back_matter" / "offices.md"]
+BACK_MATTER = [DRAFTS / "back_matter" / "historical_note.md", DRAFTS / "back_matter" / "timeline.md"]
 
 ACTS = [
     (1, "Act 1: Foundations"),
@@ -716,8 +716,7 @@ def main() -> None:
         )
 
     label = (
-        "Book 1 reading export · Utica prologue, then Ch 1 dinner · ends at Philippi · "
-        "author-voice (no em dash)"
+        "Book 1 reading export · Utica prologue, then Ch 1 dinner · ends at Philippi"
     )
     source = stamp_line(stamp)
 
@@ -726,7 +725,7 @@ def main() -> None:
         subtitle="Book 1: FULL Review Draft (Chapters 1–36)",
         banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 36 CHAPTERS · OPENS WITH THE PROLOGUE",
         blurb="Prose export for reading · metadata stripped\n" + label,
-        source_note=f"Source: {source} · cast, prologue, chapters 1–36 and historical note",
+        source_note=f"Source: {source} · cast, offices, prologue, chapters 1–36, historical note and timeline",
         end_line=FULL_END_LINE,
         stamp=stamp,
         back=full_back(),

@@ -59,13 +59,13 @@ Brutus asked Cicero to speak as if speech could still be strategy. He had a tabl
 
 Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions, Asia’s scraps, Sicily’s corn, as tools rather than humiliations? Better tools than open war with empty hands. He heard himself navigating. He mistook navigation for statesmanship.
 
-“And if Antony’s veterans keep the Forum as a camp?” Servilia asked, mild. Mild questions were traps with cushions.
+“And if Antony’s veterans keep the Forum as a camp?” Servilia asked, mild.
 
 “Then we do not gift them a massacre to justify,” Cicero said. “We keep the law’s face. Faces matter.”
 
 Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Absence was an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
 
-Cassius arrived mid-flow, late on purpose or by fate, either way a blade. There was dust on him and an impatience sharper than the dust. He didn’t apologise for lateness. Apology was for men who still believed calendars were shared.
+Cassius arrived mid-flow, late on purpose or by fate, either way a blade. There was dust on him and an impatience sharper than the dust. He didn’t apologise for being late.
 
 Cicero tried to resume. Cassius didn’t resume. He cut.
 
@@ -77,7 +77,7 @@ Cicero tried to resume. Cassius didn’t resume. He cut.
 
 Brutus’s face did the old slow collapse into resolve. The Rome-return balloon, Cicero’s prettiest paragraph, died in Brutus’s throat. East became less a choice than a harbour with a direction.
 
-Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote, no request: a mother’s firm rewriting the state’s paper through private channels. Hilarus was already halfway to the door with the look of a man who understood which errands mattered.
+Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote, no request. She held out her hand without looking round, and Brutus, after a moment, put the tablet with the broken seal into it, and she passed it over her shoulder to Hilarus. The steward took it in both hands and went out. Nobody else in the room moved. Cicero watched him go down the colonnade, past the two clients who had stopped muttering, out of the pretty light and into the plain sun of the yard, a man walking at an ordinary pace with the Senate’s decree under his arm, and he knew that the thing was decided and that he had not been the one to decide it.
 
 Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Servilia rearranged his sentences after he spoke them.
 

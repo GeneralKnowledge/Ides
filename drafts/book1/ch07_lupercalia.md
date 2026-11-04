@@ -45,7 +45,7 @@ In the press Antony saw a familiar face go pale: Statilius, the Epicurean, who l
 
 A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
 
-Antony clasped him like a brother of the afternoon. “Temporary symbol. Don’t invent a constitution from a wreath.”
+Antony clasped him like a brother of the afternoon. “Temporary symbol. Don’t make a new law out of a wreath.”
 
 The client’s smile held until Antony’s shoulder turned. Then, to the freedman and anyone else still listening for fear: “Temporary. That’s how they always name the thing that stays. He’ll wear it in Parthia and call it nothing.”
 
@@ -109,7 +109,7 @@ He didn’t begin with murder. He began with the difference between name and pow
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
-Brutus walked half a step slower. Cassius could all but see the ancestors walking with him, wax faces off their shelves, the dull pressure of being someone’s correct grandson. Cassius matched the slower step. He did not herd. Herding made Brutus invent philosophy as a fence.
+Brutus walked half a step slower. Cassius matched the slower step and did not push.
 
 “We call it the Republic enduring,” Brutus said.
 
@@ -119,15 +119,17 @@ Brutus walked half a step slower. Cassius could all but see the ancestors walkin
 
 “Ask him how long he has waited for the consulship he thinks Caesar owes him. And you have watched Ligarius since the pardon. He lives under it like a man under a roof he thinks is rotten.”
 
-Brutus stopped. The stop itself was an answer he preferred to speech.
+Brutus stopped walking.
 
 “I am not one of your mornings,” he said. “Not tonight. Not because a wreath made the Forum smell of panic. Panic is how gangs recruit.”
 
 “It is also how Rome recruits,” said Cassius. “The only difference is the standards.”
 
-A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Cassius waited for the noise, then used it.
+A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Brutus went across to the boy by the column, bought two cups of hot wine, paid him too much, and came back and handed one over without asking. Cassius took it. His feet were cold through his boots. The Lupercalia always ended in wet feet. For a while they stood and drank and watched the muleteer lose his argument about the price of a cup, and neither of them said anything at all.
 
-“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or say plainly you will dine as a spared ornament until the East makes the question irrelevant. Clemency has already written you into the room as decoration. I am asking whether decoration is enough.”
+When the wine was half gone Cassius put the cup down on the column’s base.
+
+“Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or tell me plainly you mean to go on dining with him until he leaves for the East, and I will stop asking.”
 
 Brutus’s jaw worked, as if clemency were a coin under his tongue he had not chosen to swallow. The diadem’s fear still hung between them. Cassius watched it try to dress postponement up as virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 

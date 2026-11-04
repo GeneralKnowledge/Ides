@@ -244,7 +244,9 @@ Overhear risk: Extreme (Phileros rivalry; Decimus glance)
 
 ---
 
-Nysa woke because the house woke wrong.
+When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything since before it was light, since the house woke wrong.
+
+She had woken because the house woke wrong.
 
 Not the usual wrong, the cook shouting, a client too early at the vestibule, Phileros cursing a dog in the Sacra Via. This was quieter: wood complaining, a door that should have stayed shut. Then metal, somewhere toward the priest-store, speaking once like a dropped tray and then pretending it had not.
 

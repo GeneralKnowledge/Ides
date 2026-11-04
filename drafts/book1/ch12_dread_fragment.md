@@ -16,9 +16,17 @@ Overhear risk: Nysa possible
 
 In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth.
 
-The lesser nightmares did not yet collapse the pediment. She had looked up at it every morning for months: a temple’s triangle over a house’s door, voted to Caesar’s roof by the Senate the way they voted him everything else. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition. Once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
+It was a small room, as the bedrooms in the old houses were, with garden birds painted on the wall by some pontifex’s wife long dead, whom nobody had thought to paint over; a lamp on a bronze stand that the slaves trimmed too short, so that it guttered and stank toward morning; a chest at the foot of the bed with her winter things folded in it and a sprig of something against the moth; and one window high up under the ceiling that let in the noise of the Sacra Via, carts and dogs and the first water-sellers, a long while before it let in any light.
+
+The lesser nightmares did not yet collapse the pediment. She had looked up at it every morning for months: a temple’s triangle over a house’s door, voted to Caesar’s roof by the Senate the way they voted him everything else. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets; and once she woke and lay counting his breaths until the counting itself had become a thing she was afraid to stop, and once she found that her own nails had cut little crescents into her palm while she slept, and she hid her hand in the blanket until he had gone out. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
 
 Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn’t meet her eyes too long. In the dressing-room the three of them made a temporary country: mistress, dresser, water-carrier, no Senate, only cloth and the question nobody said aloud. Pallas’s fingers paused at a pin. Nysa’s jug paused at the lip of the basin. Calpurnia caught both pauses the way she caught March cold through a curtain.
+
+“The green has a mark on the hem from the Saturnalia,” Pallas said. “I have had it in vinegar twice. It will not come out.”
+
+“Then the brown.”
+
+“The brown, mistress.” Pallas went to the chest for it and came back shaking out the folds, and for a little while nobody said anything that mattered, and Calpurnia was grateful for it.
 
 “You may speak in this room,” Calpurnia said, not looking at either face. “Not in the atrium. The atrium invents audiences.”
 

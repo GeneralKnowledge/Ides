@@ -59,7 +59,7 @@ Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and 
 
 “That is a terrible thing to say.”
 
-“It is accurate. Whether it is terrible is for the people who survive us to write.”
+“It is also true.”
 
 Decimus kept walking. He did not give them the satisfaction of a turned head.
 
@@ -74,15 +74,15 @@ Overhear risk: Low, slave almost hears (**D**)
 
 ---
 
-The garden was small enough that anger had nowhere to go but into whispers. Winter herbs still clung in pots. Someone’s cook had left a knife on a stone, and Decimus moved it without thinking, habit of a man who noticed edges.
+The garden was small, two walls and a hedge and a square of gravel, with winter herbs dying in pots along the wall and a fig tree that had lost its leaves. Someone’s cook had left a knife on a stone by the pots. Decimus picked it up, looked at the edge, and put it down again further from the path, where nobody would kneel on it.
 
-There were four of them now: Cassius, Brutus, Decimus, and Trebonius, who had come in late and said nothing, which in Trebonius was a form of attendance. They stood in a small square of cold light between two walls, and the argument was one they had been having in different shapes for a week.
+There were four of them now: Cassius, Brutus, Decimus, and Trebonius, who had come in late, nodded to each of them and leaned on the wall by the fig. The light was thin and cold and lay in a square between the two walls, and they stood in it because it was the only warm place in the garden. They had been having this argument for a week, in different rooms.
 
 Cassius wanted Antony’s morning ended with Caesar’s. “Leave the consul alive and you leave a sword with a mouth,” he said. “He will not write amnesties. He will write funerals. He will lift a bloody toga and make the Forum his client.”
 
 Brutus could see him without trying: the big body, the soldier’s laugh, the gambler’s open hand. Caesar’s left wing at Pharsalus. Caesar’s colleague in the consulship now. A man who could fill a hall with his voice, whom the Forum had watched at Caesar’s elbow for years, and loved for it, and would follow.
 
-Brutus shook his head once, the ancestral gesture. “If we kill them in piles, we are not liberators. We are a slaughter. The Senate must see a surgery, not a civil war’s first hour. Spare the consul and we spare the city’s excuse to call us animals.”
+Brutus shook his head. “If we kill them in piles, we are not liberators. We are a slaughter. The Senate has to see one man die for what he did, and nobody else.”
 
 “The city will call us animals anyway,” Cassius said.
 
@@ -104,13 +104,19 @@ Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, as if
 
 “Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
 
-Brutus held the spare, and Cassius let it go for now. A slave’s foot scuffed beyond the hedge, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
+A slave came through the gap in the hedge with two empty pots on his hip, saw four senators standing in the cold, and stopped. Decimus told him to put the pots by the wall and go round by the kitchen. The man did, slowly, setting each pot down as if it might break, and they waited without a word until the kitchen door had closed behind him.
+
+“I will bring him,” Decimus said then, to Cassius, plainly, as if the slave had reminded him what plain sounded like. “I will not bring a butcher’s yard. If Antony dies on that floor, I walked Caesar in for nothing I can stand behind.”
+
+Cassius looked at him a long moment, and then at Brutus, and let it go for now.
+
+A little later a foot scuffed beyond the hedge again, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
 
 “The chickens,” said Trebonius, as the foot faded, “are the great unsung heroes of the Republic.”
 
 “They will have their day,” said Cassius.
 
-They left with a decision that wore mercy’s face: Antony would live through the knives. Trebonius would be the door that stayed closed on a consul’s back.
+So it was decided. Antony would live through the knives, and Trebonius would keep him outside the door.
 
 In the lane beyond the garden gate, still smiling as if cousins and chickens had satisfied them, Decimus wiped garden-dirt from his palm onto his tunic.
 

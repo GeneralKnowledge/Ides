@@ -36,6 +36,8 @@ He refused the cleaner hill. The knot shrank. The officer’s face went from hop
 
 Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. Somebody had to find out whether the camp still stood, and the only way to it was down through the enemy’s pickets. Statilius offered. He did not say anything about wise men and fools. He said that if he found the camp safe he would hold up a torch, and then he went down among the rocks into the dark, an Epicurean on a soldier’s errand. Brutus had kept his letter from Rome, two springs gone, the one about a thing that wanted a friend and not a cause.
 
+Brutus sat on a rock with his hands between his knees and waited. At some point he found that the thumb of his right hand was moving along the inside of his left wrist, back and forth, at the place where Porcia used to hold it when they walked in the garden at home, and he let it go on.
+
 After a long time a torch went up, small and far off, over the place where the camp was. Brutus watched it. The camp was safe. The torch burned down and Statilius did not come back.
 
 “If Statilius is alive,” Brutus said, to nobody in particular, “he will come.”
@@ -50,7 +52,11 @@ On the plain below, an *EID MAR* coin lay in the dust with the rest of the metal
 
 Octavian was ill enough that credit became argument among healthier men.
 
-Fever made the tent canvas pulse. Twenty days ago Brutus’s men had come through this camp and run their swords through the litter he had left an hour before. His doctor had dreamed something and had him carried out into the marsh. Octavian remembered reeds, and lying very still, and being told afterwards that it had been prudence. Sweat ran into his eyes and made the map swim. A courier asked for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn’t invent himself as genius of the plain. He survived noise. He survived other men’s versions of his usefulness.
+Fever made the tent canvas pulse. Twenty days ago Brutus’s men had come through this camp and run their swords through the litter he had left an hour before. His doctor had dreamed something and had him carried out into the marsh. Octavian remembered reeds, and lying very still, and being told afterwards that it had been prudence. Sweat ran into his eyes and made the map swim.
+
+For a while he was at Apollonia, in the room over the exercise ground, the winter the letter came. Then he was smaller than that, and it was Velitrae, and his mother’s hand was on his forehead, cool and dry, the way it had been every time he was ill as a boy, which had been often. She was saying his name, the old one, *Gaius*, not as a name but as something to hold on to. He wanted her hand there now more than he had wanted anything on the island at Bononia. He lay and wanted it, and did not think what the wanting was for, and the canvas went on breathing in and out above him.
+
+Then a courier was at the tent flap, asking for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn’t invent himself as genius of the plain. He survived noise. He survived other men’s versions of his usefulness.
 
 Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
 
@@ -290,6 +296,26 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 
 ---
 
+# SC-95c: Seam
+
+POV: F1 Nysa · Rome
+Date / place: Spring 41 · the young Caesar’s house, evening
+Canon refs: Suet. *Aug.* 73 (house clothes made by the women of his household) · closes the prologue’s needle
+Info ENTER: Nysa in the young Caesar’s household as Julia Nysa · EXIT: A seam nobody will ask about
+Overhear risk: None
+
+---
+
+In the young Caesar’s house the women sewed in the evenings, by one lamp, because the young Caesar did not like to see oil burned for nothing, and wore at home what his household made him.
+
+Nysa had been given one of his tunics to mend. It was plain wool, undyed, the kind a clerk might wear, and it was torn at the shoulder seam, where somebody had caught hold of him in a crowd. She threaded the needle on the second try. The old freedwoman beside her, who had been in the family since before the boy was born and whose eyes were going, watched her make the first stitches and said nothing, which in that house meant they would do.
+
+She sewed it small and close, the way she had been shown as a child by a woman whose name she did not remember, so that nobody would see where it had been torn. Halfway along she stopped and held it to the lamp, and looked at it, and could not find the tear herself.
+
+Then she bent her head and finished it. She sewed well. Nobody would ever ask who had sewn it.
+
+---
+
 ## Continuity
 - **SC-92:** the second day, twenty days on (Cassius’s body sent to Thasos by night; Brutus’s plan to starve them, sea against plain; desertions and officers’ Cassius-voiced taunts force the battle). Brutus refuses a cleaner hill in the morning, retreats to the hills at dusk and dies on his own sword with Strato holding it; Volumnius refuses (Plut. *Brut.* 51–52). In the same breath, Octavian: his camp overrun in the first fight, his litter stabbed, the doctor’s dream that carried him into the marsh (credit contested, not genius); the land hook. Statilius goes down through the pickets to the camp, raises the torch, and does not come back: “If Statilius is alive, he will come” (Plut. *Brut.* 51; pays Ch 23 SC-66).
 - **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
@@ -297,6 +323,7 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0). Gate 3 reader 2 (2026-11-04): the close is now his choice on the page. Bucco back at the Janus lending to veterans; Basilus killed by his own slaves (Appian *BC* 3.98); Hordeonius weighs selling the copies to Bucco or taking them to a praetor and burns both tablets instead. He still does not know which hand killed Visellius (OPEN-0 held; no narrator verdict).
 - **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He rubs the tablet blank and hands it to her. An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time; “They’ll want to know who carries.” Fulvia’s woman: “Blank?” “Blank.” “Good.” Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
 - **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
+- **SC-95c (Nysa, spring 41):** coda added 2026-11-04 (Gate 3 reader 3): Nysa mends the young Caesar’s torn tunic by one lamp (Suet. *Aug.* 73); closes the prologue’s needle and “who had sewn him”. Laberius keeps the moral ending; Nysa has the last image.
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.
 - **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 33 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.

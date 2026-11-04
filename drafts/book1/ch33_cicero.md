@@ -59,7 +59,7 @@ Through the trees the sea kept sounding like itself.
 POV: Antony · the triumvirs’ tribunal, Forum
 Date / place: Mid-December 43, before the Saturnalia · the tribunal in the Forum
 Canon refs: T11 · App. *BC* 4.37 · Plut. *Ant.* 2, 20 · pays Ch 32 SC-85a (“Tomorrow I go to the Forum”)
-Info ENTER: Lucius Caesar hidden in Julia’s house · EXIT: Antony gives his uncle back in public; the lists go on
+Info ENTER: Lucius Caesar hidden in Julia’s house · EXIT: Antony gives his uncle back in public; the lists go on; Rufus’s head sent to Fulvia, nailed over his own door (App. *BC* 4.29)
 Overhear risk: The whole Forum
 
 ---
@@ -103,6 +103,20 @@ The boy said, from the far end, quietly, “That was well done.”
 “It was my mother,” Antony said. “Next.”
 
 The next man up the steps had a list of his own, three neighbours and a debt, and he had already started talking. Antony listened. He found that he was listening hard, harder than the man deserved, so that he would not have to look at the gap in the crowd where his mother had been.
+
+Near the end of the afternoon a soldier came up the side steps with a sack held away from his leg and said that he had the head of Rufus.
+
+Antony did not know the name at first. Then he did. Rufus had the house on the slope above his own, a good house with a terrace and a view down to the Forum, which Fulvia had wanted the summer before Mutina. She had offered for it twice, and twice Rufus had declined to sell, politely, in writing. Antony had read the letters out at dinner and laughed. He had not put Rufus on any list. Somebody had.
+
+“It is nothing to me,” he said. He did not look in the sack. “Take it to my wife.”
+
+The soldier went. Antony gave a ruling on a boundary and another on a slave’s price, and the light went out of the Forum, and the clerks rolled up the awning.
+
+He walked home by the slope. On the house with the terrace, above the door, someone had nailed the head to the lintel, where every man going up to the Carinae would pass under it, and two of Fulvia’s freedmen stood beneath it with a torch, as if they had been told to make sure it was seen in the dark.
+
+He stood in the street and looked at it for some time. Then he went in. Fulvia was at the lamp with her accounts. She looked up at him with her ordinary face and said that the cook had found some thrushes.
+
+He did not ask her. He had said to take it to his wife, and it had been taken to his wife.
 # SC-86b: Brothers
 
 POV: F3 Laberius · the Sacred Way
