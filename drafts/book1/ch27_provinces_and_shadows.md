@@ -170,7 +170,7 @@ Agrippa let out a breath that was almost a laugh. Octavian did not laugh. He sat
 
 “With what?” Agrippa said.
 
-Octavian did not answer that. He took a clean tablet and began a letter to Cicero, the shortest he had written him. This time he knew he would have an answer.
+Octavian did not answer that. He took a clean tablet and began a letter to Cicero, the shortest he had written him.
 
 ---
 

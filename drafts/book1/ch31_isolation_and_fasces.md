@@ -26,7 +26,11 @@ At Eporedia, at the foot of the Alps, in the last week of May, Segulius Labeo ro
 
 That night Decimus wrote it to Cicero exactly as he had heard it, with Labeo’s name, because a man in his position could not afford to soften news for an old man’s feelings. He wrote that the veterans were talking too, that they believed Cicero meant them harm, and that the boy’s soldiers were not a mood to be joked with. He asked again for money. He did not write what he thought, which was that the best tongue in Rome had found the one word in Latin that could not be taken back, and spent it at dinner.
 
-Plancus came after all, in June, when Antony had already walked into Lepidus’s camp and there was no longer anything between Plancus and Antony but a river and a decision.
+The news from the coast came at the end of May, from a trader who had it from a boatman, and three days later from a letter. Antony had come down to the river by Forum Julii, where Lepidus lay in camp, and had not attacked. He had stood on the far bank in a dark cloak with the beard he had let grow since Mutina and talked across the water to Lepidus’s soldiers, many of whom had served Caesar beside him. In the night they pulled down their own palisade and brought him over. Laterensis, the legate who had sworn to hold them, fell on his sword. Lepidus wrote to the Senate that his soldiers had made him do it, and begged the fathers not to count it a crime.
+
+Decimus read the copy twice and gave it to his aide. “He means it as an apology,” he said.
+
+Plancus came after all, in June, and there was no longer anything between Plancus and Antony but a river and a decision.
 
 Decimus brought his army over the passes to meet him at Cularo, a town of the Allobroges where the Isara came down green out of the mountains. Plancus rode out to greet him a mile from the walls with a mounted escort in clean cloaks. He smelled, as his couriers smelled, of an Eastern scent that cost more than a horse. He embraced Decimus from the saddle and said that the Republic had two arms again.
 

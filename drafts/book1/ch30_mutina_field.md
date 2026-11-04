@@ -130,9 +130,13 @@ Overhear risk: High camp
 
 Seven days after Forum Gallorum, Hirtius took the army out against Antony’s own lines under the walls of Mutina, to break the siege for good.
 
+This was not the road and the reeds. It was ploughland cut into ditches, Antony’s palisade running round the town a bowshot out, and above it the walls of Mutina with men on them: Decimus’s men, who had been watching Antony’s fires all winter.
+
+“Second fight,” Vibius said, “and this one’s at his door.”
+
 Laberius’s world narrowed to mud and which eagle still stood.
 
-In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming. Martians refusing to be held. Someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out hard. Hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius didn’t see strategy. He saw a standard tilt. He saw Gaius open at the neck. Blood mixed with meltwater and ran pink off the rim of his shield.
+In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming. Martians refusing to be held. Someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out of the palisade hard. Hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius didn’t see strategy. He saw a standard tilt. He saw Gaius open at the neck. Blood mixed with meltwater and ran pink off the rim of his shield.
 
 Vibius spat black grit. “Win,” he said. “Then count.”
 
