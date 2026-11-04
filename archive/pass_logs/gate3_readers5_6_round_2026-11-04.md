@@ -28,3 +28,10 @@ Chapter references (`Ch N`, `Chapter N`, ranges and lists, and the bare chapter 
 | 9 | Ch 14 SC-35a | "Calpurnia was asleep in the Domus Publica's master cubiculum when the house fell inward." |
 | 10 | Prologue; Ch 2 | "the cook had told Cleanthes"; Hordeonius's stall placed by the basilica near the Janus |
 | 21 | Ch 37 | SC-95c (Nysa sewing) now comes before SC-95b, so Laberius at the twine ends the book |
+
+## Follow-up after Reuben's read of the 37-chapter plan (2026-11-04)
+
+- Back matter and front matter checked for chapter numbers: the historical note cites only Chapter 1; the timeline, cast list and offices page cite none; map brief (Ch 23, 28, 30) unaffected. Nothing orphaned.
+- Ch 33 SC-85d was dated mid-December, after Cicero's death on 7 Dec in Ch 34, so the book stepped backwards between the two killings. Re-dated to early December; no prose change was needed.
+- Ch 37 SC-95a: "She counted it twice." folded into the end of the previous paragraph so it no longer stands alone as a beat.
+- Ch 32 continuity notes: leftover Calenus/Varro rules pointed to Ch 33.
