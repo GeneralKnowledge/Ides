@@ -154,10 +154,6 @@ Octavian felt the floor drop, the childish, humiliating sense that the adult arr
 
 “Names first,” he said. “Then places. Separate what you saw from what the road invented.”
 
-“He is eighteen,” Maecenas murmured to Agrippa. “He sounds forty.”
-
-“He sounds forty,” said Agrippa. “He is going to be forty by spring.”
-
 The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, Octavian thought, all of it was already on the same wind.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.

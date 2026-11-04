@@ -42,6 +42,8 @@ Brutus had read some of those letters to the son. Half of Rome had. The father s
 
 Brutus took the hand before he had decided to. That was how it went, that autumn. The young men of the schools came to him one at a time, sons of senators sent to Athens to be finished, who had heard about the Ides in a lecture hall and felt they had missed it. They came to him under the plane trees with their tablets and their good Greek and their fathers’ money running short, and asked for a command. He gave them commands. There were not many Romans in Athens, and those there were had been trained from birth to hold a sword and a law in the same hand.
 
+One of them asked for nothing. Statilius came in October, with the dust of the Piraeus road on him and no letter, because he had never needed one at Brutus’s table, and sat at the back of Theomnestus’s lectures as if those were what he had crossed the sea for. When Brutus asked what command he wanted he said none. He had come because a friend was here and he was not doing anything else. He took the couch nearest the door at dinner and argued with everyone, and he did not once mention February.
+
 The last one he took was not a senator’s son.
 
 He was small and quick, with a round face and hair already going early at the temples, and he stood at the back of Theomnestus’s lectures and laughed a beat before anyone else at the jokes, as if he had seen them coming. Someone told Brutus his father had been a slave. A freedman from Venusia in Apulia, a collector at auctions, who had sold up everything to send his son to the best schools in Rome and then to Athens, and walked behind him to his lessons in the city with the boy’s satchel, as if he were the boy’s own slave.
@@ -159,3 +161,4 @@ Brutus did not answer. Down in the camp, in the good house he had given him, Gai
 - **Must not:** no narrator verdict on Brutus’s mercy; Horace does not become a wink; Octavian is not in Apollonia now.
 - **Decisions:** 2026-10-24: drafted as insert chapter 25a (Reuben’s default); numbered Ch 26 in the renumbering pass the same day.
 - **Graph pass 2026-10-24:** Marcus Cicero says Trebonius dined with him in Athens in the spring on the way to Asia and wrote his father he was reformed (Cic. *Fam.* 12.16).
+- **Decisions:** 2026-11-04 (Reuben, examine-next round): Statilius arrives in Athens and asks for no command (pays his Ch 23 letter; sets up Ch 37 SC-92, the torch, Plut. *Brut.* 51).

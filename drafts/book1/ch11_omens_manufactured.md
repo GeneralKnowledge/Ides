@@ -52,7 +52,7 @@ Later, in the Subura, she told her friend Medullina that the house was full of b
 POV: Cicero · villa fringe of Rome
 Date / place: Same season · letter desk, afternoon
 Canon refs: OMEN-1 manufactured · C7 · Parthia clock
-Info ENTER: Parthia chatter · EXIT: Hears “only a king can win Parthia” as trial balloon; wrong floater guess
+Info ENTER: Parthia chatter · EXIT: Hears “only a king can win Parthia” as trial balloon; learns Cotta’s motion is expected at the Ides sitting
 Overhear risk: Elite
 **G1:** Second POV: collides with Nysa’s unfinished question (who manufactures beware / king-talk)
 
@@ -72,29 +72,30 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 “The room has no choice, master.”
 
-He was wrong about the floater. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out.
+“It isn’t Balbus,” Tiro said, still writing. “Not this time. They were saying it at the booksellers’ this morning. Lucius Cotta.”
 
-He did not imagine knives. He imagined speeches, and a Republic that could still be talked back into shape if the right man found his Demosthenes voice in time.
+Cicero turned round.
 
-Outside, a courier waited, Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
+“Of the Fifteen,” Tiro said, as if Cicero needed reminding who kept the Sibyl’s books. “He is to bring it to the House himself. That the man we have as a king in fact should be called one in name, outside Italy, where the word will frighten nobody. So that the title can go east with him.”
 
-He told the courier, “Tell Hirtius the books are being misused by flatterers, and that I am occupied with letters that keep the Republic’s throat clear.”
+“When?”
 
-The courier hesitated. “He asked for you in the room, not on the tablet.”
+“The next sitting.” Tiro looked up then. “The Ides, master. In Pompey’s hall.”
 
-“Then he may read my tablet in the room,” Cicero said.
+Cicero laughed, because the alternative was to sit down. “Cotta will not stand up and say that. He is a decent man and he has cousins.”
 
-“Occupied with what?”
+“They say he will.”
 
-“With being right at a distance,” Cicero said. “It takes all of a man’s leisure.”
+“Then they are saying it so that he need not. That is what a rumour is for, Tiro. It makes the vote unnecessary.” He went back to the desk. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out, and wrote the date in the margin, and looked at it.
 
-“Only a king,” he murmured afterwards, tasting the phrase like a bad period, and returned to the desk before the courier’s dust had settled in the courtyard.
+He did not imagine knives. He imagined speeches: the one he would make against the motion if Cotta did stand up, and the silence of the benches while he made it, and a Republic that could still be talked back into shape if the right man found his Demosthenes voice in time. The speech went well. He found he had begun it already, and that the first period was good.
 
-Who had written the oracle, he wondered, and who would be invited to dinner to hear it read.
+“Only a king,” he murmured, tasting the phrase like a bad period, and counted on his fingers, like a boy at his sums, how many days were left before the Ides.
 
 ---
 
 ## Continuity
-- **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses wrong who floated it. He refuses Hirtius’s dinner, so he is not in the room. (Calpurnia’s “running sleep” in the kitchen cut 2026-11-04, readers 5–6: Ch 12 carries it.)
+- **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses Balbus; Tiro brings the rumour’s date: Lucius Cotta of the Fifteen to move at the Ides sitting in Pompey’s hall that Caesar be called king outside Italy (Suet. *Jul.* 79.3; Cic. *Div.* 2.110, which scoffs at the rumour). Cicero says it will not happen and begins the speech against it; he counts the days. Hirtius courier cut 2026-11-04 (Ch 6 and Ch 13 carry that beat). (Calpurnia’s “running sleep” in the kitchen cut 2026-11-04, readers 5–6: Ch 12 carries it.)
 - **Plants → pays:** the haruspex; the dream packet before Ch 14; Demosthenes (in Cicero’s voice only; the word *Philippics* waits for Ch 25). The king-bird is told in Ch 15, not here.
 - **Must not:** no Calpurnia CV.
+- **Decisions:** 2026-11-04 (Reuben, examine-next round): the rumour gets its date (Cotta, the Ides sitting) in place of the narrator’s “He was wrong about the floater”; the Hirtius courier cut. Chapter length roughly unchanged; the settled cut size stands.
