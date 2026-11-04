@@ -2,7 +2,7 @@
 
 This file tracks **narrative chronology** alongside history. When a fictional event is locked, add it here **and** in `continuity/canon.md`.
 
-**Status:** Synced to the manuscript 2026-10-23 (Utica prologue + Ch 1–36). Chapter numbers in the Info column.
+**Status:** Synced to the manuscript 2026-10-23 (Utica prologue + Ch 1–37). Chapter numbers in the Info column.
 
 ---
 
@@ -64,7 +64,7 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | Early Mar | *Phil.* 11; Dolabella declared a public enemy | H | Ch 29 SC-74b |
 | Feb | Senate confirms Brutus in Macedonia, Illyricum and Greece (*Phil.* 10) | H | Ch 26 SC-69b |
 | Mar | Gaius Antonius surrenders Apollonia; Brutus spares him | H | Ch 26 SC-69b (T8) |
-| Summer | Gaius works on the legions; moved to a ship under guard; Cicero urges his death | H | Ch 34 SC-88b (recalled) |
+| Summer | Gaius works on the legions; moved to a ship under guard; Cicero urges his death | H | Ch 35 SC-88b (recalled) |
 | 14 Apr | Forum Gallorum; Pansa wounded; Hirtius’s dusk counterstroke | H | Ch 30 SC-79 (Laberius) |
 | 21 Apr | Mutina; Hirtius killed; Pansa dies after | H | Ch 30; poison rumour **C** (AMB-2) |
 | 20 Apr | True news of Forum Gallorum; crowd carries Cicero to the Capitol and the Rostra | H | Ch 30 SC-81b (recalled) |
@@ -72,34 +72,34 @@ This file tracks **narrative chronology** alongside history. When a fictional ev
 | 24 May | Decimus writes it to Cicero from Eporedia (*Fam.* 11.20) | H | Ch 31 |
 | May | Lepidus’s legions let Antony into their camp | H | Ch 31 |
 | Jun–Sept | Plancus with Decimus at Cularo, then crosses to Antony | H | Ch 31 SC-82 (Decimus) |
-| Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 34 SC-87a (Amyntas) |
-| ~Jun | Porcia dies in Rome (manner open); Cicero’s consolation (*Ad Brut.* 1.9) | H | Ch 34 SC-88b (recalled, T13) |
+| Jul | Dolabella dies at Laodicea; Syria to Cassius | H | Ch 35 SC-87a (Amyntas) |
+| ~Jun | Porcia dies in Rome (manner open); Cicero’s consolation (*Ad Brut.* 1.9) | H | Ch 35 SC-88b (recalled, T13) |
 | Jul | Four hundred centurions to the Senate; Cornelius’s sword (Suet. *Aug.* 26) | H | Ch 31 SC-83 |
 | Late Jul–Aug | Rubicon; African legions defect; Cornutus’s suicide; Atia and Octavia at the Vestals’; Cicero greets him last (App. *BC* 3.88–93) | H | Ch 31 SC-83 |
 | 19 Aug | Octavian consul at nineteen with Pedius; vultures; Pedian court condemns the assassins | H | Ch 31 SC-83 (S5) |
 | Sept | Decimus killed at the ford | H | Ch 31 |
 | Oct–Nov | Bononia island meeting; Lex Titia (27 Nov) | H | Ch 32 |
 | Nov–Dec | Proscription edict (App. *BC* 4.11 terms); lists posted | H | Ch 32 |
-| Nov–Dec | Julia bars her door to the soldiers for her brother Lucius Caesar; later faces Antony at the tribunal and Lucius is spared | H | Ch 32 SC-85a (Nysa present); Ch 33 SC-86c (reported) |
-| Nov–Dec | Antony writes to Atticus in his own hand: come out, for his kindness to Fulvia | H | Ch 32 SC-85c (Hordeonius) |
-| Nov–Dec | Calenus hides Varro at his villa; Antony stops there; no slave informs; the household’s silver borrowed from Hordeonius | B (hiding) / F (loan) | Ch 32 SC-85b–d; T11 |
-| 7 Dec | Cicero killed near Formiae | H | Ch 33 |
-| 29 Dec | Plancus’s triumph; the soldiers’ *de germanis* song (Lepidus’s follows 31 Dec) | H | Ch 33 SC-86b (Laberius) |
+| Nov–Dec | Julia bars her door to the soldiers for her brother Lucius Caesar; later faces Antony at the tribunal and Lucius is spared | H | Ch 32 SC-85a (Nysa present); Ch 34 SC-86c (reported) |
+| Nov–Dec | Antony writes to Atticus in his own hand: come out, for his kindness to Fulvia | H | Ch 33 SC-85c (Hordeonius) |
+| Nov–Dec | Calenus hides Varro at his villa; Antony stops there; no slave informs; the household’s silver borrowed from Hordeonius | B (hiding) / F (loan) | Ch 33 SC-85b–d; T11 |
+| 7 Dec | Cicero killed near Formiae | H | Ch 34 |
+| 29 Dec | Plancus’s triumph; the soldiers’ *de germanis* song (Lepidus’s follows 31 Dec) | H | Ch 34 SC-86b (Laberius) |
 
 ## 42 BC
 | When | Event | Type | Info note |
 |------|-------|------|-----------|
-| Early | News of Cicero’s death reaches Brutus; he orders Hortensius to kill Gaius Antonius | H | Ch 34 SC-88b (T8) |
-| Early | Hortensia speaks at the triumvirs’ tribunal; the women’s tax cut from 1,400 to 400 | H | Ch 33 SC-86c (Nysa) |
-| Campaign | Eastern extraction; *EID MAR* coin | H | Ch 34 |
-| Early | Sardis: the closed-room quarrel; Favonius; Lucius Pella condemned | H | Ch 34 SC-88c (S1) |
-| Summer | Abydos: Brutus’s night visitor, “You will see me at Philippi”; Cassius’s Epicurean answer | H/C | Ch 35 SC-89a (S2); left open |
-| Oct (first battle) | Philippi I; Cassius’s death | H | Ch 35 |
-| Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 36 |
-| After | Antony’s cloak over Brutus; Hortensius sent to die at Gaius’s grave (Plut. *Ant.* 22) | H | Ch 36 SC-93 (T8) |
-| After | Division of the world; land promises | H | Ch 36; sequel hooks |
-| Winter 42–41 | Octavian back from Brundisium, ill; rumoured dead; crowds at the Capena gate. Nysa reports to his household as Julia Nysa | H (return, illness) / F | Ch 36 SC-95a (T1) |
-| Spring 41 | Veteran assignments in the eighteen cities, Capua among them (App. *BC* 4.3); Laberius’s plot surveyed over a farmer’s beans | H (decree) / F | Ch 36 SC-95b (T4); book’s last scene |
+| Early | News of Cicero’s death reaches Brutus; he orders Hortensius to kill Gaius Antonius | H | Ch 35 SC-88b (T8) |
+| Early | Hortensia speaks at the triumvirs’ tribunal; the women’s tax cut from 1,400 to 400 | H | Ch 34 SC-86c (Nysa) |
+| Campaign | Eastern extraction; *EID MAR* coin | H | Ch 35 |
+| Early | Sardis: the closed-room quarrel; Favonius; Lucius Pella condemned | H | Ch 35 SC-88c (S1) |
+| Summer | Abydos: Brutus’s night visitor, “You will see me at Philippi”; Cassius’s Epicurean answer | H/C | Ch 36 SC-89a (S2); left open |
+| Oct (first battle) | Philippi I; Cassius’s death | H | Ch 36 |
+| Oct (~20 days later) | Philippi II; Brutus’s death | H | Ch 37 |
+| After | Antony’s cloak over Brutus; Hortensius sent to die at Gaius’s grave (Plut. *Ant.* 22) | H | Ch 37 SC-93 (T8) |
+| After | Division of the world; land promises | H | Ch 37; sequel hooks |
+| Winter 42–41 | Octavian back from Brundisium, ill; rumoured dead; crowds at the Capena gate. Nysa reports to his household as Julia Nysa | H (return, illness) / F | Ch 37 SC-95a (T1) |
+| Spring 41 | Veteran assignments in the eighteen cities, Capua among them (App. *BC* 4.3); Laberius’s plot surveyed over a farmer’s beans | H (decree) / F | Ch 37 SC-95b (T4); book’s last scene |
 
 ---
 

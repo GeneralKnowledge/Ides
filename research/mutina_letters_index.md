@@ -74,7 +74,7 @@ Public-domain / modern paraphrase extracts for **INF texture** in Acts 4–5. Pr
 
 > Dolabella’s crime is known; the East must pay for the war that liberty requires. Ships, pay, and hostages — without them the name of Republic is a slogan.
 
-**Story use:** SC-87 / Ch 34 — brand vs tax reality; optional F5 hears the invoice side.
+**Story use:** SC-87 / Ch 35 — brand vs tax reality; optional F5 hears the invoice side.
 
 | Theme | Letter energy | Scene |
 |-------|---------------|-------|

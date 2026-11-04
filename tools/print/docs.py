@@ -356,7 +356,7 @@ def report(i: Info) -> str:
 {t(f"{m['title']}, {m['volume']}")} · {stamp_line(i)}
 
 == Summary
-The full manuscript (cast list, Utica prologue, Chapters 1–36 and historical note) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
+The full manuscript (cast list, Utica prologue, Chapters 1–37 and historical note) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
 
 == Checks performed
 {table([["Check", "Result"]] + [[t(c), t(r)] for c, r in i.checks], "(1fr, auto)", header=True)}
@@ -392,7 +392,7 @@ Edit `tools/print/meta.json` and rebuild. Nothing below was invented; the pages 
 == Decisions taken (all reversible)
 - *Title page:* “The Ides of March”, “Book 1” and “Reuben Dennison”, as on the existing DOCX reading copy.
 - *Copyright page:* carries only “Set in EB Garamond” and a line giving the manuscript revision the interior was set from, so a printed copy can be matched to the source. Set `show_revision_line` to false in `meta.json` to drop it.
-- *Contents:* included; the book has five acts and 36 titled chapters, which a reader of a book this long will use.
+- *Contents:* included; the book has five acts and 37 titled chapters, which a reader of a book this long will use.
 - *Scene titles:* the manuscript titles every scene as a working label; since 2026-11-03 (Gate 3 reader 1) the reader sees only an unnamed break, in the print interior and the DOCX alike.
 - *Act pages:* one recto per act, as in the DOCX reading copy.
 - *Recto starts:* every chapter, act page, the cast list and the historical note start on a right-hand page; this adds blank versos, typical for a hardcover.

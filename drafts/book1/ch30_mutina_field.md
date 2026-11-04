@@ -14,6 +14,8 @@ Overhear risk: High camp
 
 ---
 
+That April the war was at Mutina. Antony had Decimus shut up inside the walls, and Hirtius sat in his camp outside Antony’s lines with the Martian legion, waiting for Pansa to bring up the new legions from Rome.
+
 Gaius’s boot split at the heel before the sun was up, and he took it as a sign.
 
 “Spain,” he said, holding it up so the lamp showed the gap. “Same boot, same heel. It knows something.”
@@ -125,6 +127,8 @@ Info ENTER: Orders, mud, pay · EXIT: Tactical pressure on Antony; consuls falli
 Overhear risk: High camp
 
 ---
+
+Seven days after Forum Gallorum, Hirtius took the army out against Antony’s own lines under the walls of Mutina, to break the siege for good.
 
 Laberius’s world narrowed to mud and which eagle still stood.
 

@@ -17,7 +17,7 @@ Overhear risk: High (attendants; walls)
 
 ---
 
-In the Domus Publica’s master cubiculum, the house fell inward.
+Calpurnia was asleep in the Domus Publica’s master cubiculum when the house fell inward.
 
 It fell the way a face falls when the muscles quit. Calpurnia had felt real earthquakes, the long grind under the Palatine; this was quieter and worse. The pediment above them, the painted front that told the street this was still a public house and not merely a husband’s bed, cracked along its smile and came down into her lap: dust, timber, the soft insult of painted wood pretending to be marble.
 

@@ -96,7 +96,7 @@ Fix these when they cluster. Leave scattered singles alone, except habit I, whic
 6. **Don’t run polish wars on the settled chapters.** Each has a named core that changes only for a demonstrated defect (§1); the prose around it is ordinary text:
    - **Prologue and Ch 1–3:** Cato refuses the pardon at Utica; the clemency dinner where nobody says so; Cicero wins Ligarius’s pardon from Caesar (Ch 3).
    - **Ch 20–23:** the Liberators leave Rome; Octavian takes the name; Nysa’s house is emptied by kind stewards; Statilius keeps his name off the petition.
-   - **Philippi (Ch 35–36):** Cassius dies on bad information, Pindarus holding the blade; Brutus dies on his own sword with Strato holding it; credit for Octavian’s survival stays contested.
+   - **Philippi (Ch 36–37):** Cassius dies on bad information, Pindarus holding the blade; Brutus dies on his own sword with Strato holding it; credit for Octavian’s survival stays contested.
 7. **Don’t treat the watch-list as a hit queue.** Notice ≠ revise.
 8. **Don’t impose quotas or bans** on sentence length, fragments (habit I aside), adverbs, metaphors, humour, sensory detail, aphorisms or any construction beyond the author-voice rules above (§3.8–9).
 9. **Don’t require every scene to contain** conflict, humour, a physical action or a reversal, and don’t expand a landed chapter to reach a word count.

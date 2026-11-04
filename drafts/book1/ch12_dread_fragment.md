@@ -128,7 +128,7 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 
 “You are not worried?” the secretary asked, from the door, in the voice of a man who had been told not to ask.
 
-“I am always worried,” Caesar said. “It is called being busy.”
+“I am always worried,” Caesar said. “That is what the work is.”
 
 In the tablinum stack sat unfinished business and the temptation to believe unfinished business was immortality. He didn’t feel a plot as a plot. He felt the city’s nerves. Cities got nerves before campaigns. He’d lived through nerves before.
 

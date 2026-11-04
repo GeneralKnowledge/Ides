@@ -14,7 +14,7 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 
 Italy smelled different when you arrived as a claim.
 
-Octavian stood in Philippus’s villa light: sea glare, careful chairs, advice thick as oil. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. They could not refuse a will either. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
+Octavian stood in Philippus’s villa light: sea glare, careful chairs, advice thick as oil. Agrippa stood at the terrace rail behind him and said nothing, as he had said nothing since Apollonia unless he was asked. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. They could not refuse a will either. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
 
 Below the terrace the villas ran one after another down the Campanian shore, every one of them a senator’s house with a senator’s ears. Philippus had been lifting Octavius onto this same rail since the boy was small enough to be lifted. In the war he had asked Caesar’s leave to stand near no one, got it, and lived. He was handing the boy that trick now as if it were an heirloom.
 
@@ -152,7 +152,7 @@ Antony’s eyebrows went up. He had good eyebrows for it. “With what?”
 
 “With what is mine.”
 
-“Your father’s farms at Velitrae?” Antony laughed, generous with it. “Sell them, then. Sell your mother’s jewels. Rome will drink your health for a month and forget the face. Go home to Philippus. He has the right idea. He sat out the whole war and he is the best-fed man in Campania.”
+“Your father’s farms at Velitrae?” Antony laughed, generous with it. “Sell them, then. Sell your mother’s jewels. Rome will drink your health for a month and forget the face. Go home to Philippus. He has the right idea. He kept out of the whole war and he is the best-fed man in Campania.”
 
 Octavian found that he was standing with his weight on one hip and a hand loose at his side, as the consul stood when he stood, and he set both feet square again. He did not know how long he had been copying the man. Long enough for the friends to see it, perhaps. He bowed the exact depth owed a consul by a private citizen, no more, and went out past the gate slaves into the evening.
 

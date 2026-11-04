@@ -25,12 +25,6 @@ Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens h
 
 “Founded Capua, in the old days,” she said, pleased to have the name and a boy who lacked it. “And Trojan blood is the Julii. Even you know they come down from Aeneas. Balbus swears the find is real.”
 
-“Balbus keeps Caesar’s books,” said Pasiphile. “He never needs to lie about money. That is why half the Forum believes him.”
-
-“And the other half?”
-
-“Believes him less, for the same reason.”
-
 “And Spurinna,” the washerwoman added, “the one who reads the livers, told him to beware until the Ides of March. Beware is a priest’s whole trade.”
 
 “The fifteenth,” Dama said, counting on his fingers, as if the gods had set him sums.
@@ -39,17 +33,7 @@ Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens h
 
 Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. The washerwoman wanted it to mean she had been right to spend a coin on Forum talk. Nysa wanted the basin not to spill while three truths fought over one doorpost.
 
-“If Capys meant knives,” Dama said, “who dug him up?”
-
-“Men who sell bronze as politics,” Pasiphile said.
-
-“Who buys them?”
-
-“Everyone who doesn’t have to pay for the cheese.”
-
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb.
-
-Pallas, dressing Calpurnia upstairs, had said the mistress slept like someone running. She had been waking in the dark for days, saying nothing. In the court the versions already disagreed. Dama swore the gods were tapping the bed. Pasiphile swore it was only March nerves and bad cheese. The washerwoman swore someone upstairs was inventing dread to keep Caesar home for politics. Nysa put all three beside the tablet and the chickens and didn’t decide which was true.
 
 Phileros passed through the court and sniffed, the steward’s keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
@@ -59,17 +43,7 @@ Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile.
 
 Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening.
 
-Later, in the Subura, among the tenements and tanners and fish-stink where gossip was the main local industry, she told Medullina that the house was full of birds and priests. Medullina wanted names of senators. Nysa gave her chickens. Chickens were safer currency.
-
-“Chickens don’t pay,” said Medullina.
-
-“Neither do senators.”
-
-“They pay late.”
-
-“So do the chickens,” said Nysa. “They just taste better.”
-
-Nysa wiped the chicken grease off on her apron and wondered, not for the first time, who in the city was paid to make the gods talk.
+Later, in the Subura, she told her friend Medullina that the house was full of birds and priests. Medullina wanted the names of senators. Nysa gave her chickens, which were safer. That night, wiping her hands on her apron, she wondered, not for the first time, who in the city was paid to make the gods talk.
 
 ---
 
@@ -100,9 +74,7 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 He was wrong about the floater. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out.
 
-He didn’t imagine knives in a Curia. He imagined speeches, decrees, a Republic that could still be talked back into shape if the right man (himself, confessedly) found his Demosthenes voice in time. He had always had a weakness for the idea that a man might save his city with an oration. Parthia was a clock for Caesar. For Cicero it was still a topic.
-
-He pictured Balbus smiling the soft smile of a man who never needed a dagger because he owned calendars. The picture comforted him.
+He did not imagine knives. He imagined speeches, and a Republic that could still be talked back into shape if the right man found his Demosthenes voice in time.
 
 Outside, a courier waited, Hirtius’s orbit again, a short note asking whether Cicero would dine that week and “speak plainly about the Parthia talk before it grew teeth.” Cicero read it twice. Plain speech would cost him a dinner invitation from men who still floated crowns as piety; silence would cost him nothing he could invoice today.
 
@@ -123,6 +95,6 @@ Who had written the oracle, he wondered, and who would be invited to dinner to h
 ---
 
 ## Continuity
-- **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses wrong who floated it. He refuses Hirtius’s dinner, so he is not in the room. Calpurnia’s “running sleep” has three versions in the kitchen (gods, nerves, politics).
+- **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses wrong who floated it. He refuses Hirtius’s dinner, so he is not in the room. (Calpurnia’s “running sleep” in the kitchen cut 2026-11-04, readers 5–6: Ch 12 carries it.)
 - **Plants → pays:** the haruspex; the dream packet before Ch 14; Demosthenes (in Cicero’s voice only; the word *Philippics* waits for Ch 25). The king-bird is told in Ch 15, not here.
 - **Must not:** no Calpurnia CV.
