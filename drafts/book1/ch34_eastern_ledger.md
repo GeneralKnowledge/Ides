@@ -82,23 +82,21 @@ The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour nois
 
 Behind him, outside the city, legions ate. Syria’s garrison had come over to him in the spring without a blow, and Dolabella’s men after Laodicea, once Dolabella ran out of wall and asked one of his own soldiers for the sword. Legions that came over came over hungry.
 
-He let silence work after the sentence. Brutus’s tool, borrowed without credit. Silence made elders fill the air with offers, most of them dates that were not dates.
-
-Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. The silver left all the same. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass.
+He let the silence work. The interpreters turned *pay* into *contribute* and *now* into *in due season*, and the elders filled the air with dates that were not dates.
 
 An elder with a staff stepped forward before the interpreters could varnish him. “We can send half by the Kalends,” he said in Greek plain enough that Cassius needed no cushion. “The other half after harvest. Take half now and we remain a city. Take all now and you march past hungry walls that will not open for your return.”
 
 The interpreter began, “What he means…”
 
-“I heard what he means,” Cassius said. He had an officer weigh the nearest sack on the spot, grain, not rhetoric. The weight came short of the tablet’s claim by enough to insult geometry. The elder did not look away. Cassius let three breaths pass without raising his voice, long enough for a shout that did not come. He gave them a number instead: half now, sealed; the rest in thirty days under hostage sureties from two merchant houses already in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
+“I heard what he means,” Cassius said. The elder did not look away. Cassius gave them a number: half now, sealed; the rest in thirty days, with hostages from two of the merchant houses in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
 
 The elder’s mouth worked. He took the half and the sureties with a bow that could have been gratitude. “The city’s thanks. Favourable gods on your road.” Hatred stayed on the young clerk’s face; survival stayed on the elder’s. On the hall’s outer step, with Cassius three paces below him, the elder’s thanks thinned for the clerk and the nearest merchant surety, not as quietly as the elder believed. “He weighs our hunger and calls it cure. Half now. Hostages. When he needs the road open again, remember what emptied the granaries.”
 
-Cassius signed for ships on the arithmetic. The elder’s step-talk needed no translation. Paid was paid.
+Cassius signed for the ships.
 
 Before the audience closed, a courier from the west came in, dust, salt, a seal cracked by too many hands, with three tablets that did not agree. Mutina won and lost. Lists in Italy. The boy with fasces, and a court that had condemned every man of March, Cassius among them, to empty benches. One tablet named Decimus without poetry: gone, or going.
 
-Cassius read none of it aloud to the hall. He didn’t halt the silver for a rumour’s sake. But the Decimus line cracked something the extraction had been keeping neat. The man had opened Caesar’s morning with cheer and taken the nearer knife and Cisalpine as if a road were still a friendship, and Cassius had recruited doors through him. He entered *Decimus: incomplete* in the only ledger he trusted, the one behind his eyes, under Trebonius, who had stood in that column since the winter, since Dolabella’s soldiers came into his bedroom at Smyrna before dawn and carried the market-day man’s head out with them. Laodicea had settled Trebonius. Decimus had no Laodicea.
+Cassius read none of it aloud to the hall. He didn’t halt the silver for a rumour’s sake. But the Decimus line cracked something the extraction had been keeping neat. The man had opened Caesar’s morning with cheer and taken the nearer knife and Cisalpine as if a road were still a friendship, and Cassius had recruited doors through him. He found he had put Decimus beside Trebonius in his mind, Trebonius who had been dead since the winter, since Dolabella’s soldiers came into his bedroom at Smyrna before dawn and carried the market-day man’s head out with them. Laodicea had settled Trebonius. Decimus had no Laodicea.
 
 An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn’t offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*. He did not look at the west courier again until the hall had emptied enough to pretend the crack was only dust.
 
@@ -120,7 +118,7 @@ The mint travelled with the army, and that winter in the camps of Macedonia it s
 
 “It means the Ides bought Rome out,” Brutus said. The mint-master nodded the way men nod at a correction they will not pass on.
 
-Brutus held a fresh coin. The metal still held the heat of striking. His own head was on the other face. In the winter before the Ides he had turned one of Caesar’s new silver pieces over at his own table and called a living face on a coin a king’s habit. He turned this one so the profile lay against his palm. Around him, officers argued yields and marches with the same mouths that praised ancestors: two tribunes and a mint-master making a small Senate of appetite. One man weighed a sack and called the weight patriotic. Brutus’s thumb stayed on the *EID MAR* lettering and did not lift to correct the adjective. He thought of Porcia, of masks at home, of Lanuvium’s gravel, of the night he had said GO while a creditor coughed outside the door. He shut the thoughts before they became speeches no army would wait for.
+Brutus held a fresh coin. The metal still held the heat of striking. His own head was on the other face. In the winter before the Ides he had turned one of Caesar’s new silver pieces over at his own table and called a living face on a coin a king’s habit. He turned this one so the profile lay against his palm. Around him, officers argued yields and marches with the same mouths that praised ancestors: two tribunes and a mint-master making a small Senate of appetite. One man weighed a sack and called the weight patriotic. Brutus’s thumb stayed on the *EID MAR* lettering and did not lift to correct the adjective. He thought of Porcia, of Lanuvium’s gravel, of the night he had said GO while a creditor coughed outside the door. He shut the thoughts before they became speeches no army would wait for.
 
 “We are not pirates,” an officer said, too loud. Volume would not wash the tax roads clean.
 
@@ -184,7 +182,7 @@ He had always thought of that as the hardest thing a Roman had ever done. It had
 
 When the secretary had gone he put the August letter back in the cedar box with the others. At the bottom of the box, under all of them, were the two from June: Cicero’s, which told him that philosophers were watched, and his mother’s, still sealed. Other letters since had told him how she died, in three different ways. An illness since the spring. A shut room and a brazier, to keep her safe, and in the morning the room very quiet. Coals from the brazier, and her own hand, after days of being watched. Her father had been watched too, at Utica. His son had taken away his sword and a Greek had sewn up the wound, and in the night Cato had opened it again with his fingers. He had read each letter once and asked no one which was true.
 
-He laid his hand flat on the letters for a moment. Then he closed the clasp. He did not think he would want to read them when he was old. He did not think, now, that he would be.
+He took the top letter out again and unrolled it and held it to the lamp, and the lines would not stay where they were. He read the first sentence three times and could not have said what was in it. He rolled it up and put it back, and laid his hand flat on the letters for a moment. Then he closed the clasp. He did not think he would want to read them when he was old. He did not think, now, that he would be.
 
 ---
 

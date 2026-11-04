@@ -38,13 +38,13 @@ Fulvia sat beside him. She had asked to. He had not refused her; he did not refu
 
 At some point he looked at his wife. There was a fleck of red high on her cheekbone, under the eye. She had not moved her head and she did not move it now. She did not wipe it away while the next man was brought in, or the one after.
 
-When it was over the courtyard smelled of the sea and of the other thing. A slave brought a basin. Fulvia dipped two fingers and touched them to her cheek, without hurry, and looked at the water afterwards.
+When it was over the courtyard smelled of the sea and of the other thing. A slave brought a basin. Fulvia dipped two fingers and touched them to her cheek, without hurry, and looked at the water afterwards. She had missed some. Antony took the cloth from the slave before the man could offer it and wiped the last of it from under her eye himself, carefully, with his thumb behind the cloth, the way he had seen his mother clean a child’s face. Then he saw the slave watching and said, “You see? A consul has to do everything in this house,” and gave the man the cloth back.
 
 “Tomorrow they will take your hundred,” she said, “and not laugh.”
 
 “That’s what I want.”
 
-“Is it?” She dried her fingers on the slave’s cloth. “A man who laughs at your money still thinks you have money. A man who takes it in silence is counting the other offer. The boy said five hundred. They know the sum. Now they also know you kill for less.”
+“Is it?” She dried her fingers on the cloth. “A man who laughs at your money still thinks you have money. A man who takes it in silence is counting the other offer. The boy said five hundred. They know the sum. Now they also know you kill for less.”
 
 Antony drank. The wine did nothing he asked of it. “The boy has some farms,” he said, “and the loan of Matius’s strongbox. I have four legions.”
 
@@ -70,7 +70,7 @@ Overhear risk: Colony square
 
 The boy came to Casilinum himself, which nobody had expected.
 
-Laberius had walked over from the colony because Vibius said there would be money and Vibius was usually right about money and wrong about everything else. The square by the Volturnus bridge was full of men who had been told the same thing. Some had come on mules. One had come on a crutch. The boy stood on the steps of a temple with a cloak too warm for the day, thinner than his name, with a big young man at his shoulder who did the looking for both of them.
+Laberius had walked over from the colony because Vibius said Caesar’s boy was paying old soldiers to follow him, five hundred denarii a man, more than two years’ pay, and Vibius was usually right about money and wrong about everything else. The square by the Volturnus bridge was full of men who had been told the same thing. Some had come on mules. One had come on a crutch. The boy stood on the steps of a temple with a cloak too warm for the day, thinner than his name, with a big young man at his shoulder who did the looking for both of them.
 
 He made a short speech. It was a bad speech. He said *my father* four times, and *what is owed* twice, and he did not tell a single joke. The men listened the way men listen to a paymaster, which is to say for the number.
 
@@ -151,6 +151,8 @@ A veteran by the temple steps did not go. He was an ordinary man, broad, quiet, 
 “Antony will be in the city in a fortnight,” Agrippa said that night. “With four legions.”
 
 “Then we will not be in it,” Octavian said.
+
+Afterwards, alone in the room behind the temple where they had put a bed for him, he was sick into the basin, twice, quietly, so that the guard at the curtain would not hear. Then he sat on the edge of the bed with his face hot. He thought of the man with the helmet under his arm, and of himself on the steps with his right hand still raised to the statue while they walked away down the street, a boy who had made a speech nobody had asked him for. He did not make a plan. He sat there until the lamp burned low and his face was cool, and then he lay down in his clothes.
 
 They went north into Etruria, to Arretium, where Maecenas’s family had money and houses and the winter came early. Octavian drilled what he had left on frozen ground and wrote to Cicero again, more carefully. He did not mention the oath, or the helmet. He had learned at the Temple of Castor that veterans would take his money to stand near Antony and would not take it to kill him. He did not yet know what he had that would change their minds.
 

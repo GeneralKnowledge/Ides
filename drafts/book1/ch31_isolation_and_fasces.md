@@ -376,7 +376,7 @@ The treasury was in the Temple of Saturn, under the Capitol, and the keys came t
 
 He did not touch them. He sent a tribune with a guard and a clerk with tablets, and they brought the chests down the temple steps to the Forum in daylight, where the whole city could watch them, and set them out on trestles in the square. Twenty-five hundred a man: the first payment of what the Senate had voted and not paid. The rest promised. The clerks called the names by century, and the men came up in their order, and took their coin, and signed, or made their mark, and went away. It took two days. Octavian sat behind the tables for most of both, and when a tribune leaned in on the first afternoon to say the fathers had sent to ask when the election would be held, he did not look up.
 
-“Honours after the line is fed,” he said.
+“Feed the line,” he said. “Then the honours.”
 
 One man in the line he remembered afterwards. A centurion in boots resoled more than once came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
 

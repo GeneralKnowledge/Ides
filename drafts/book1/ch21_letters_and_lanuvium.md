@@ -50,7 +50,7 @@ Cicero had stopped guessing which were real and started counting.
 
 Puteoli was on the same bay. Cicero did not enjoy the arithmetic.
 
-Cicero’s mouth arranged courtesy. Under it he filed *not yet money / already joke*. “Did anyone in the Forum say the name as if it cleared?”
+Cicero’s mouth arranged courtesy. Under it he thought: not yet money, already a joke. “Did anyone in the Forum say the name as if it cleared?”
 
 The courier shrugged. “As if it amused. Not as if it cleared.”
 
@@ -254,7 +254,7 @@ He had been told by nightfall that she was alive. He had been glad. He had not t
 
 “I know you stayed,” Porcia said. “They told me.” She looked at him in the last light, Cato’s look, clear and unforgiving and not unkind. “I would have stayed too. That is not what I wanted to say. I only wanted you to know that I was there, on the floor, while you were there. In case you thought it was only you who had a morning.”
 
-She went in. Brutus stood on the gravel until the steward came out with a lamp to see if he wanted one.
+She went in. Brutus walked to the end of the gravel and back, and then again, and then found he had sat down on the step of the porch, on the wet stone, with his knees up, the way a slave sits waiting for a master who is late. His hands would not keep still. He pressed the heels of them into his eyes until he saw colours, and took them away, and the garden was still there, and he put them back. When the steward came out with a lamp to see if he wanted one he was still sitting there, and he stood up too fast and said that he did not, thank you, and the steward went in again and was careful to have seen nothing.
 
 ---
 

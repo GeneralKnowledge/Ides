@@ -18,9 +18,9 @@ They met because none could kill the other two cheaply.
 
 The island sat low in the river below Bononia, a gravel tongue with a tent on it and two camps on the banks watching each other’s fires. Lepidus crossed first over the plank bridge and walked the island with his own eyes before he waved the other two across. On the sand each man let the others’ people pat him down for blades. Nobody pretended it was ceremony.
 
-Antony brought soldier gravity and a hunger that still smelled like Ops unlocked. He looked across the table at the Campania squeak grown into a man who could force a bargain, and whatever joke he had kept since spring did not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus brought the useful talent of being present when maps were drawn, and of surviving other men’s sentences without becoming their subject. He also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
+Antony had come with his soldier’s weight and a hunger Octavian could almost smell across the table, the hunger of the man who had opened the treasury at the temple of Ops. He looked at Octavian for a long moment, and Octavian watched a joke arrive in his face and not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus had brought what Octavian had long ago decided was his only talent, being present when maps were drawn and surviving other men’s sentences without becoming their subject. He had also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
 
-Lepidus wanted the law first, because Lepidus always wanted the law first. They had haggled it by letter for a month, and he read it out anyway, as if a thing were not agreed until he had heard it in his own voice. “A tribune carries it in Rome. Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
+Lepidus wanted the law first. In a month of letters he had wanted the law first every time. They had haggled it to the word, and he read it out anyway, and Octavian thought he had never met a man who believed less in a thing he had not heard in his own voice. “A tribune carries it in Rome. Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
 
 “Triumvirs,” Antony said, tasting it. “In Rome a board of three counts copper at the mint and minds the jail.”
 
@@ -48,9 +48,9 @@ Antony’s stylus paused on a lesser enemy first, a man who had borrowed money a
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-Lepidus looked at his hands. Hands could not abstain. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood. Under the count, in an old man’s voice, three verbs went past in order, praise, honour, lift, and the last one turned over and showed its other face. He did not let it into the count. He noticed that he had to decide not to.
+Lepidus looked at his hands. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood. Under the count, in an old man’s voice, three verbs went past in order, praise, honour, lift, and the last one turned over and showed its other face. He did not let it into the count. He noticed that he had to decide not to.
 
-Antony’s finger stayed on the blank. “Say it,” he said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
+Octavian watched Antony’s finger stay on the blank, and understood that it would stay there until he spoke. “Say it,” Antony said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
 
 A lesser name sat two lines up, a man Octavian half-owed from Apollonia’s edge: useful, not loved, killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
 
@@ -70,7 +70,7 @@ Who had first thought the name did not matter on the wood. The name stood becaus
 
 They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. By morning both camps would know a name had been traded, and neither would know which. They sealed what could be sealed.
 
-Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as men drink when they hope the cup will make them smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
+Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as if he hoped, Octavian thought, that the cup would make him smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
 ---
 
@@ -260,7 +260,7 @@ They took him out of the city two nights later in a closed carriage with the cur
 
 The next morning Calenus called the household into the courtyard.
 
-There were sixty of them, counting the field hands and the boys. He stood on the steps and looked down at them in the cold: his steward, his cook, the women from the weaving room, the old porter, the two Thracian grooms who looked after Antony’s horses when Antony came. Every one of them had heard the edict read at a fountain somewhere. Every one of them could count. Ten thousand denarii for a slave who gave up a hidden man, and his freedom, and his master’s rank.
+There were sixty of them, counting the field hands and the boys. He stood on the steps and looked down at them in the cold: his steward, his cook, the women from the weaving room, the old porter, the two Thracian grooms who looked after Antony’s horses when Antony came. He had to suppose that every one of them had heard the edict read at a fountain somewhere, and that every one of them could count: ten thousand denarii for a slave who gave up a hidden man, and his freedom, and his master’s rank.
 
 He did not make a speech. He had made speeches all spring and Cicero had made better ones.
 

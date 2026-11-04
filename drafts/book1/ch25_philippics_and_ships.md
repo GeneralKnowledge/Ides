@@ -46,6 +46,8 @@ She was on the street outside, buying a cup of water for the kitchen boy, when t
 
 Someone further along was explaining it to a crowd, and Nysa heard, “They say the hair of the star means…” and then a cheer went up from inside the walls and drowned the rest. She never learned what the hair meant. She thought about it afterwards, scrubbing pans, and decided she had been better off without the end of the sentence.
 
+On the second evening she was alone on the kitchen step when it came, with nobody near to explain it, and she looked up at it and had the feeling she used to have in the Domus when the master came into a room behind her without a sound: that she was being looked at, and had better have her hands busy. She knew it was a star. She said so to herself, the way the water-seller had said it. She went in and did not look at it again that night, and on the third evening she found she had gone out to the step at the hour without meaning to.
+
 It came back every evening for seven evenings, at the same hour, in the same part of the sky. By the third evening the boy’s people had a song about it. By the fifth the song had a verse about the chair.
 
 At the end of the games the steward found her in the scullery. “Well?”
@@ -168,7 +170,9 @@ On the desk lay two drafts: one that named Antony a public enemy in music, and o
 
 Ink stained his fingers the colour of old wine. He felt the old consulship heat return. Heat was better than the villa coast’s polite despair. Heat made sentences arrive before caution could edit them into safety.
 
-A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.”
+A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.” He thought. “Except Calenus. Fufius Calenus, on the bench beside him, nodding at every line.”
+
+“Calenus nods for a living,” Cicero said. “He will stand up and answer me for Antony the day I am there to be answered. He has a good voice and a better cellar, and he thinks they are the same thing.”
 
 “He spoke to my empty chair,” Cicero said. “I will answer from his. In every house in Rome that can read.”
 

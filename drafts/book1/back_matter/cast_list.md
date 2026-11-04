@@ -39,6 +39,7 @@
 - **Gaius Antonius** and **Lucius Antonius**, his brothers
 - **Lucius Julius Caesar**, Julia’s brother
 - **Quintus Fufius Calenus**, consul in 47, Antony’s friend
+- **Rufus**, Antony’s neighbour on the Carinae, who would not sell Fulvia his house
 - **Marcus Pacuvius**†, centurion
 - **Gaius Septimius Bucco**†, cash agent
 

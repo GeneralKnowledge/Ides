@@ -52,7 +52,9 @@ Galba’s thumb cracked the seal. He tore the note once, then again, until the p
 
 Cassius named two other doors Galba might tap, and did not name the full list. He did not promise the brother’s winter. He nodded once.
 
-When Galba reached the street, Cassius finally drank. The wine was ordinary. That pleased him.
+When Galba reached the street, Cassius found that his hands wanted something to do, and that the back of his neck was wet. He knew what it was. Epicurus had a name for it, a disturbance of the soul, and a cure: look at the fear plainly, see that it is about something that has not happened, and let it go, as a man sets down a weight he has been carrying for no reason. He looked at it plainly. It was about something that had not happened. He did not let it go. He had a use for it.
+
+Then he finally drank. The wine was ordinary. That pleased him.
 
 ---
 
@@ -80,7 +82,7 @@ Casca smiled with his teeth. “We are not here to dine you into a better mood. 
 
 Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like the masks or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterwards, hand on his shoulder like kinship that politics had not earned. Killing that hand later would be answering warmth with steel and calling the answer law.
+“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like it or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterwards, hand on his shoulder like kinship that politics had not earned. Killing that hand later would be answering warmth with steel and calling the answer law.
 
 Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
 
@@ -90,7 +92,7 @@ Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living
 
 Casca leaned forward. “Courtesy is how we all stayed alive. It is also how the diadem got a second cheer. I am tired of surviving beautifully.”
 
-Brutus walked the corridor strip where the older Brutus lived in paint. He wanted the ancestors to forbid him. Paint forbade nothing useful.
+Brutus walked to the end of the room and back.
 
 “If it is done as murder,” he said, back still half-turned, “I am not with you. If it is done as a street, I am against you. I have not said yes. I have said I hate kings. Hating kings is not the same as opening a friend’s door with a knife behind it.”
 
