@@ -48,27 +48,41 @@ Antony’s stylus paused on a lesser enemy first, a man who had borrowed money a
 
 “Cicero,” Antony said. He did not look up. Looking would have made it a request.
 
-Lepidus looked at his hands. Octavian kept his face from moving enough to save anyone. For a breath he counted the cost of sparing Cicero: Antony’s favourite wound still open, the lists thinner when the next Kalends asked for blood. Under the count, in an old man’s voice, three verbs went past in order, praise, honour, lift, and the last one turned over and showed its other face. He did not let it into the count. He noticed that he had to decide not to.
+“No,” Octavian said.
 
-Octavian watched Antony’s finger stay on the blank, and understood that it would stay there until he spoke. “Say it,” Antony said, not loud. “Or strike a smaller name in his place. I have lesser enemies enough. Choose.”
+He had not meant to say it first. It came out before the count, and it came out young, and he heard Antony hear that. Lepidus looked at his hands.
 
-A lesser name sat two lines up, a man Octavian half-owed from Apollonia’s edge: useful, not loved, killable without rearranging the map. Striking that name instead would buy a night of quieter conscience and leave Antony’s wound open. Octavian felt the cheaper exit in his hands: the stylus, the wax, the easy swap.
+“No,” Antony agreed, pleasantly. “Go on. Tell me why not.”
 
-Saving the orator would have cost a different war, one with Antony still armed and the coalition already smelling of unfinished business. Octavian put the stylus down.
+Octavian told him. He said the old man had brought him into the Senate when no one else in it would stand beside him. He said the veterans did not care about Cicero one way or the other, and the fathers would read the name as a boy settling his debts in blood. He said that a dead Cicero would write better than a living one, because every house in Rome had the speeches and the speeches would outlast whoever had him killed. He heard himself going on too long, the way he had gone on at the Temple of Castor with his hand raised to a statue, and could not find the place to stop.
 
-“Cicero stays on the list,” he said. Voice thin, audible, irreversible. He did not dress it as law. He set his seal ring on the tablet’s edge beside the name, metal clicking wood. “We do not trade him for a quieter cousin.”
+Under it, in an old man’s voice, three verbs went past in order, praise, honour, lift, and the last one turned over and showed its other face. He did not say that. He noticed that he had to decide not to.
+
+Antony let him finish. Then he took a piece of the bread nobody had been eating.
+
+“Fourteen speeches,” he said. “I had them read to me. All of Rome had them read to it. He called me a drunk and a gladiator and worse, and the Senate voted me an enemy on the strength of them, and you marched beside the consuls who came to kill me.” He put the bread down. “I have forgiven you the marching. I am not forgiving the speeches.”
+
+They rose at dusk with the name still on the wood.
+
+On the second day Octavian came back to it with a better argument, the one he had lain awake building: that the three of them needed the Senate’s face for a year at least, and that Cicero was the face. Antony heard it out and said it was a good argument and that Cicero would have made it better. Lepidus said nothing at all. Octavian came back a third time after the noon bread, and heard his own voice go thin on the same sentences, and knew before Antony moved that he had already lost and was only making Antony wait to say so.
+
+On the third morning Antony brought the price.
+
+“Here is a bargain,” he said. “Nobody at this table gets to say afterwards that the others were cruel and he was not.” He put his finger on a name further down. “Lucius Caesar. My mother’s brother. He sat in the House in the spring and voted me an enemy with the rest of them. He goes on.” The finger moved. “Lepidus.”
+
+“Paullus,” Lepidus said, to his hands, as if it were a debt he had already paid. His own brother.
+
+Antony looked across the table. “And you give me the old man.”
+
+Octavian looked at the three names on the wood. He had argued for two days and had nothing left to argue with. He set his seal ring on the tablet’s edge beside Cicero’s name, metal clicking wood, because he had lost and the ring was what losing looked like at this table.
 
 Lepidus cleared his throat. “He still has friends who write.”
 
-“Then they can write his epitaph,” Antony said. “Or they can join him.”
+“Then they can write his epitaph,” Antony said. “Or they can join him.” He tapped the tablet beside the ring. “We buy the war with this.”
 
-Who had first thought the name did not matter on the wood. The name stood because Octavian had said it stood, and no one struck it out.
+Octavian did not answer. He took the ring back. The click leaving wood was quieter than the click arriving.
 
-“We buy the war with this,” Antony said, tapping the tablet beside the ring.
-
-“The war buys us,” Octavian answered, too soft to be a quip, too true to unsay. He took the ring back. The click leaving wood was quieter than the click arriving.
-
-They swapped one quieter enemy in a whisper: a man each of them half-owed and half-hated, traded so that no single list would look like one man’s revenge. By morning both camps would know a name had been traded, and neither would know which. They sealed what could be sealed.
+By morning both camps would know which names had been traded for which, and would argue for years about which of the three had been the cruellest. They sealed what could be sealed.
 
 Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as if he hoped, Octavian thought, that the cup would make him smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
 
@@ -213,11 +227,12 @@ She would. She had a name on her tongue now, a consul’s name, the kind Medulli
 ---
 
 ## Continuity
-- **SC-84 (Octavian POV):** the island below Bononia; Lepidus crosses first; they search each other (App. *BC* 4.2). Lepidus’s chair is the legions that waded to Antony. The triumvirate named once, by Lepidus: a tribune’s law, three men to set the state in order, five years, a consul’s power, no veto (Lex Titia); Antony jabs about mint and jail; Octavian “minds both”. Lepidus’s secretary reads the edict draft: 25,000 denarii a head; a slave 10,000 with freedom and his master’s citizenship; informers the same; goods auctioned; hiders proscribed (App. *BC* 4.11). Lepidus: “Sulla paid half as much.” Antony: “Sulla had fewer legions to pay.” Cicero’s name is contested and Antony shapes it; Octavian assents aloud and gives the seal-ring token; he refuses a quieter swap. Octavian sees Antony’s Ops joke die and sees him not look while he pours. Lepidus nudges.
+- **SC-84 (Octavian POV):** the island below Bononia; Lepidus crosses first; they search each other (App. *BC* 4.2). Lepidus’s chair is the legions that waded to Antony. The triumvirate named once, by Lepidus: a tribune’s law, three men to set the state in order, five years, a consul’s power, no veto (Lex Titia); Antony jabs about mint and jail; Octavian “minds both”. Lepidus’s secretary reads the edict draft: 25,000 denarii a head; a slave 10,000 with freedom and his master’s citizenship; informers the same; goods auctioned; hiders proscribed (App. *BC* 4.11). Lepidus: “Sulla paid half as much.” Antony: “Sulla had fewer legions to pay.” Cicero’s name: Octavian says no first, argues badly and at length, and loses over three days; Antony names the price, Lucius Caesar (his mother’s brother) and Paullus (Lepidus’s brother) for Cicero, and Octavian gives the seal-ring token because he has lost (Plut. *Cic.* 46, *Ant.* 19; App. *BC* 4.12). “We buy the war with this” is Antony’s; Octavian does not answer. Octavian sees Antony’s Ops joke die and sees him not look while he pours. Lepidus nudges.
 - **SC-85 (Dec 43):** Hordeonius: unclean leases, *acquired: unclean*; Bucco back, lending to the triumvirs’ soldiers. Nysa: Festus (Esquiline slave, informed, freed); the chalk wall, Medullina buys a spelling; the Cinna laugh; Phileros at the Carinae kitchen door. (Seius’s part retired 2026-10-24.)
 - **SC-85a (Nysa):** Antony’s steward lends her to his mother. Julia (Antony’s mother; widow of Antonius Creticus and of Lentulus Sura, strangled on Cicero’s word in 63) hides her brother Lucius Caesar, posing as her steward; he sat in the Senate that voted Antony an enemy. Nysa knows his face from the Domus Publica and knows the informer’s reward. Julia bars the door: “You will not kill Lucius Caesar unless you first kill me. I bore your general” (Plut. *Ant.* 20). The centurion asks Nysa whose house she serves and whether a man not of the house is there; she says Antony’s, and that she pours for the steward. Julia will go to the tribunal next day (App. *BC* 4.37).
 - **Plants → pays:** Ch 34 death bought by the assent; Ch 37 Hordeonius’s *Clean*; Ch 25 Fulvia’s woman; Ch 35 courier; Sextus (FS11); Calenus’s plate (collection open). SIDE-1 kept as archaeology.
 - **Must not:** no Formiae previews; no narrator verdict; no “traditions would disagree”. Sosia is *he*.
-- **T12:** at “Cicero stays on the list”, the three verbs pass under Octavian’s count and he decides not to let them in. Never stated as the cause.
+- **T12:** while Octavian argues for Cicero, the three verbs pass under his words and he decides not to say them. Never stated as the cause.
 - **Must not (T11):** no census of the dead. (Calenus/Varro rules moved with SC-85b–d to Ch 33.)
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added. 2026-11-04: SC-85b–d moved to Ch 33.
+- **Decisions:** 2026-11-04 (Reuben, examine-next round): Bononia follows the sources, two days of argument and a three-way trade, replacing the instant assent, the invented “lesser name” and the whispered swap; Octavian’s “The war buys us” cut.

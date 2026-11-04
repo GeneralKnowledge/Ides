@@ -130,7 +130,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set, almost.
 
-Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The rest, the men who had said yes without making speeches, would simply be there. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
+Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The rest, the men who had said yes without making speeches, would simply be there. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called Galba away.
 
 Cassius’s finger stopped on one place in the list he kept only in his head. “Ligarius,” he said. “Fever, I hear. Fever comes very easily to pardoned men.”
 
@@ -154,7 +154,7 @@ Brutus’s money sat outside the door like a creditor not invited. The lender’
 
 Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. Dirt might appear and explain him. It did not. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
 
-“Enough delay,” Cassius said. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
+“Enough delay,” Cassius said. “Cotta stands up in Pompey’s hall on the Ides whether we do or not. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
 “You make me sound like a man with only two fears.”
 
@@ -201,3 +201,4 @@ He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cass
 - **Knows / learns:** Trebonius is tasked with holding Antony; Pompey’s theatre and statue called back. Cicero is blindly calm (Atticus, Hirtius; elite rumour only). In the winter quarter, land hunger is powder (Capua, the donative). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
 - **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 19).
 - **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.
+- **Decisions:** 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.
