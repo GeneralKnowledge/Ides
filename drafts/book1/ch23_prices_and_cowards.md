@@ -18,7 +18,7 @@ Hordeonius arranged his face into mourning for the Republic and his stylus into 
 
 “Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme ready coin.”
 
-Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather. Hordeonius priced the smell.
+Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Hordeonius wrote numbers as priests wrote prodigies: neat, certain, slightly insane. Sosia muttered that forged acts smelled like wet leather.
 
 “Who says what’s in Caesar’s papers?” the Puteoli man asked.
 
@@ -40,7 +40,7 @@ The Puteoli man wiped his brow. “You weigh a dead man like a sack of grain.”
 
 Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool. I sell you which rumour empties a purse first. Certainty costs extra, and I don’t stock it.”
 
-He priced the Puteoli question twice, once for Antony’s veterans, once for a boy’s name, and entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
+He entered *boy-Caesar rumour: watch veterans* beside *Antium soft paper: watch Servilia orbit* in a margin. He almost smiled at the neatness of the entry, then stopped. Clerks who smiled at neatness became funny in taverns.
 
 ---
 

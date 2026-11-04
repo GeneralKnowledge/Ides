@@ -14,7 +14,7 @@ Overhear risk: Nysa possible
 
 ---
 
-In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth: necessary, costly, not optional.
+In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth.
 
 The lesser nightmares did not yet collapse the pediment. She had looked up at it every morning for months: a temple’s triangle over a house’s door, voted to Caesar’s roof by the Senate the way they voted him everything else. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets. Once she woke and counted his breaths until the counting itself became a superstition. Once she woke and found her own nails cut crescents into her palm. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
 
@@ -68,7 +68,7 @@ The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got 
 
 “…not the consul, spare, no (friends first) danger, if he stays…”
 
-The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn’t tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, exit-soft and venom-clear: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
+The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn’t tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, low and plain: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
 
 “Then stop smiling,” said the cloak-friend.
 

@@ -208,7 +208,7 @@ Calpurnia’s hand fell from the doorframe.
 
 They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
 
-Caesar didn’t speak. Decimus filled the air anyway, soft logistics, the chatter of loyalty: which way, how many, Antony would be, Antony would be held, which was Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
+Caesar didn’t speak. Decimus filled the air anyway with the chatter of loyalty: which way, how many, Antony would be, Antony would be held, which was Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
 
 “You have not asked me what is on the agenda,” Caesar said at last.
 

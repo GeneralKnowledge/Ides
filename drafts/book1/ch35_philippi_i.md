@@ -98,7 +98,7 @@ Dust coated his teeth. He spat and pointed and the pointing became cohorts movin
 
 A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
 
-He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men sleeping badly on neighbours’ soil. Auction quarrels nobody settled. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
+He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men were sleeping badly on neighbours’ soil, and nobody had settled the auction quarrels. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
 
 ### Laberius
 

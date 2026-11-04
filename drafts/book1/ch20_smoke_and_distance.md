@@ -27,7 +27,7 @@ Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet
 
 The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn. The crowd, which could not follow a sentence about inheritance, could follow a betrayal.
 
-A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. Three versions. One pitch smell. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
+A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. There were three versions and one smell of pitch. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
 
 Decimus didn’t ask who “they” were: veterans, debtors, men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
 
@@ -98,7 +98,7 @@ Ammonius’s jaw worked. Cleopatra paid the hour, not the petition. The porter�
 
 Caesarion asked, in the frank cruelty of children, whether Father would come to the ship.
 
-“Father belongs to their Forum now,” Cleopatra said. Softness could come later; ships came first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
+“Father belongs to their Forum now,” Cleopatra said. Grief could come later; ships came first. The boy’s hours, the ones Romans had gossiped into careers, were now only packing hours, and she intended them to end on water.
 
 Ammonius spoke of Cicero’s old rudeness, of books promised from the Alexandrian library and never sent, of what Cicero had said about her in Rome since, of men who had already decided whether she was a clause or a silence in the dead man’s paper. Cleopatra kept Ammonius as useful irritant.
 
@@ -158,7 +158,7 @@ The courier tried again with a thinner story. Caesar dead. Liberators on a rock.
 
 Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
 
-Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear, young. He hated that it sounded young. He did not reach for the old nickname anyone might offer as softness. Hopeful shadows were for men who still thought inventory was a joke.
+Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear, young. He hated that it sounded young. He did not reach for the old nickname anyone might offer. Hopeful shadows were for men who still thought inventory was a joke.
 
 “We go when going is not suicide,” he said. “First we learn what name I still have, and whether gardens and a boy’s hours are already writing it without us.”
 

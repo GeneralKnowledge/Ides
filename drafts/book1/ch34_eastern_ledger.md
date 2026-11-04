@@ -84,7 +84,7 @@ Behind him, outside the city, legions ate. Syria’s garrison had come over to h
 
 He let silence work after the sentence. Brutus’s tool, borrowed without credit. Silence made elders fill the air with offers, most of them dates that were not dates.
 
-Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. Softening did not soften the silver leaving. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass.
+Interpreters softened the edges, turned *pay* into *contribute*, *now* into *in due season*. The silver left all the same. A chest lid knocked; Cassius noted the hinge and did not flinch. Publicly he was mathematics in a cuirass.
 
 An elder with a staff stepped forward before the interpreters could varnish him. “We can send half by the Kalends,” he said in Greek plain enough that Cassius needed no cushion. “The other half after harvest. Take half now and we remain a city. Take all now and you march past hungry walls that will not open for your return.”
 
@@ -126,7 +126,7 @@ Brutus held a fresh coin. The metal still held the heat of striking. His own hea
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. The GO night’s clean hands felt suddenly like someone else’s. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shut as shame, not cleverness. He kept the coin anyway, brand as comfort, brand as trap. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear, and Decimus’s name travelling wrong, the nearer knife become a rumour of ending. Brutus didn’t ask which version was true. Asking would’ve required a Forum he no longer owned. One honest doubt crossed him: *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
 
 A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
 
@@ -180,7 +180,7 @@ The secretary read it back. Brutus listened to it and found nothing to change, a
 
 He had always thought of that as the hardest thing a Roman had ever done. It had not seemed hard tonight. It had seemed like a letter.
 
-When the secretary had gone he put the August letter back in the cedar box with the others. At the bottom of the box, under all of them, were the two from June: Cicero’s, which told him that philosophers were watched, and his mother’s, still sealed. Other letters since had told him how she died, in three different ways. An illness since the spring. A shut room and a brazier, to keep her safe, and in the morning the room very quiet. Coals from the brazier, and her own hand, after days of being watched. He had read each once and asked no one which was true.
+When the secretary had gone he put the August letter back in the cedar box with the others. At the bottom of the box, under all of them, were the two from June: Cicero’s, which told him that philosophers were watched, and his mother’s, still sealed. Other letters since had told him how she died, in three different ways. An illness since the spring. A shut room and a brazier, to keep her safe, and in the morning the room very quiet. Coals from the brazier, and her own hand, after days of being watched. Her father had been watched too, at Utica. His son had taken away his sword and a Greek had sewn up the wound, and in the night Cato had opened it again with his fingers. He had read each letter once and asked no one which was true.
 
 He laid his hand flat on the letters for a moment. Then he closed the clasp. He did not think he would want to read them when he was old. He did not think, now, that he would be.
 

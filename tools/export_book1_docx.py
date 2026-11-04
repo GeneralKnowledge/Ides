@@ -80,6 +80,7 @@ CRAFT_BOLD_LINE = re.compile(r"^\*\*")
 
 
 # Inline *italic* (the manuscript uses single asterisks only).
+SCENE_BREAK = "·   ·   ·"  # unnamed scene break in the reading copy
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
 # **Bold** labels survive only in back matter (cast names, note lead-ins); they
 # render as small caps, as in the print interior.
@@ -397,7 +398,15 @@ def reading_paragraphs(
             out.append((act_by_start[num], "act"))
         out.append(("Prologue" if num == 0 else f"Chapter {num}", "chapter"))
         out.append((title, "title"))
-        out.extend((text, kind) for kind, text in blocks)
+        for kind, text in blocks:
+            # Scene titles stay in the manuscript as working labels; the reader
+            # sees an unnamed break, and none at all at the top of a chapter
+            # (Gate 3 reader 1, 2026-11-03).
+            if kind == "scene":
+                if out[-1][1] != "title":
+                    out.append((SCENE_BREAK, "scene"))
+                continue
+            out.append((text, kind))
     out.extend(back)
     out.append((end_line, "end"))
     return out
@@ -427,11 +436,11 @@ def render_reading(doc: Document, paras: list[tuple[str, str]]) -> None:
         elif role == "scene":
             p = add_para(doc, text)
             p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            p.paragraph_format.space_before = Pt(0 if prev == "title" else 22)
-            p.paragraph_format.space_after = Pt(10)
+            p.paragraph_format.space_before = Pt(14)
+            p.paragraph_format.space_after = Pt(14)
             p.paragraph_format.keep_with_next = True
-            for r in p.runs:  # italics are reading text, so mark scenes with small caps
-                r.font.small_caps, r.font.size = True, Pt(10)
+            for r in p.runs:
+                r.font.size = Pt(10)
         elif role == "back_head":
             p = add_para(doc, text, style="Heading 1")
             p.paragraph_format.space_before = Pt(60)

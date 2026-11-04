@@ -61,7 +61,7 @@ That evening they walked the villa’s outer path where gardeners had stopped in
 
 “Philippus still won’t say it,” Agrippa said. “The name.”
 
-“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him with softness. He only matched pace. That was the older friendship: not shadow, legs that kept the same count without announcing need.
+“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him. He only matched pace. That was the older friendship: not shadow, legs that kept the same count without announcing need.
 
 ---
 

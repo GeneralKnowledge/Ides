@@ -84,7 +84,10 @@ def build() -> tuple[list[Path], dict]:
             sec["act"] = {"label": label, "title": name}
         for kind, text in blocks:
             if kind == "scene":
-                t = "scene"
+                # As in the DOCX: an unnamed break, none at a chapter's top.
+                if sec["blocks"]:
+                    sec["blocks"].append({"t": "scene", "runs": runs(ex.SCENE_BREAK)})
+                continue
             elif LIST_ITEM.match(text):
                 t = "item"
             else:

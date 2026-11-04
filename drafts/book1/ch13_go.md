@@ -134,7 +134,7 @@ Overhear risk: Must be near-zero
 
 Names checked. Roles set, almost.
 
-Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The Cascas, the Appian edges who had said yes without making speeches: present as weight, not as a hymn. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
+Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The rest, the men who had said yes without making speeches, would simply be there. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called him away from rock and blade.
 
 Cassius’s finger stopped on one place in the list he kept only in his head. “Ligarius,” he said. “Fever, I hear. Fever comes very easily to pardoned men.”
 
@@ -158,7 +158,7 @@ Brutus’s money sat outside the door like a creditor not invited. The lender’
 
 Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. Dirt might appear and explain him. It did not. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
 
-Cassius did not soften. “Enough delay. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
+“Enough delay,” Cassius said. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
 
 “You make me sound like a man with only two fears.”
 

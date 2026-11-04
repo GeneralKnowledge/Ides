@@ -28,7 +28,7 @@ He fought like a man hoping philosophy could stiffen a shield-wall. For a while 
 
 Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s grain more than yesterday’s name. Both kinds broke when the plain insisted. An officer, face known from the minting days, caught his sleeve and begged him to pull back to a cleaner hill. The cleaner hill was visible, higher ground and fresher air, a place where the day might be lost slower and with more witnesses who could later invent dignity.
 
-Brutus looked at it. The cost of taking it was clear in the body. Abandon the knot that still held. Leave the men who still answered *EID MAR* with their shoulders. Trade the day’s shape for a cleaner story about retreat. Cassius would have called delay contemptible. Cassius was not here to call anything.
+Brutus looked at it. The cost of taking it was clear in the body. Abandon the knot that still held. Leave the men who still answered *EID MAR* with their shoulders. Cassius would have called delay contemptible. Cassius was not here to call anything.
 
 “Hold what you can,” Brutus said. It was not a period or an antithesis, only an order with the paint worn off.
 
@@ -80,7 +80,7 @@ They had found Brutus in the morning, on the hill, with his own men’s cloaks u
 
 Then the prisoners. Most of them were nobody, and he let the boy’s people have them, because the boy wanted names and Antony wanted dinner. One of them he asked for.
 
-They brought Hortensius in with his hands tied in front of him and his good toga gone and a soldier’s cloak over his shoulders that somebody had given him out of pity. The orator’s son. He had his father’s looks still, a little, under the dirt.
+They brought Hortensius in with his hands tied in front of him and his good toga gone and a soldier’s cloak over his shoulders that somebody had given him out of pity: the orator’s son, who had his father’s looks still, a little, under the dirt.
 
 “You held the ship,” Antony said.
 
@@ -178,7 +178,7 @@ The steward was quiet. Then he did a thing she had not expected. He rubbed out t
 
 She stood holding the blank tablet.
 
-“The mistress would keep you,” the steward said. “Fulvia’s woman has said so. You’d have the scullery and a bed by the oven and the silver room at dawn, and nobody to ask you anything but her. It’s a good house to be in, this spring.” He paused. “It may not be a good house to be in by the summer. You count. You know that.”
+“The mistress would keep you,” the steward said. “Fulvia’s woman has said so. You’d have the scullery and a bed by the oven and the silver room at dawn, and nobody to ask you anything but her. There is bread in this house this spring.” He paused. “By the summer there may be soldiers at its door. You count. You know that.”
 
 She did know it. She had heard Fulvia through the walls all winter, and Lucius, Antony’s brother, the new consul, talking about the young Caesar and the veterans and the land in a voice that was going up.
 

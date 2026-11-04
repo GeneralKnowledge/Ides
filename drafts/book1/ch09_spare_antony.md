@@ -90,6 +90,8 @@ Brutus shook his head once, the ancestral gesture. “If we kill them in piles, 
 
 “Then let them be wrong about the pile,” Brutus answered. His eyes flicked to Decimus, proof the inch from last night still governed him: hearing meant surgery, not cordwood.
 
+“And Antony is not Caesar,” Brutus said. “Take Caesar away and he is a consul with a good name and a great hunger to be thanked. Give him the Republic to save and he may save it with us. Men like that go where the honour is.”
+
 “You are very sure of what Antony will do,” said Trebonius, from the wall.
 
 “I am sure of what I would do,” said Cassius, “in his sandals.”

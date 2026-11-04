@@ -20,7 +20,7 @@ The diadem had been offered, refused, offered again, theatre that left his mouth
 
 The clock was simple, and he said it to himself every morning like a prayer. Caesar would leave for the East within weeks. When he went, he would take his legions, his Senate and his promises with him, and when he came back, if he came back, he would come as the man who had beaten Parthia, and no one in Rome would be in a position to say no to him again. If anything was going to be done, it would be done while he was still within reach of a Roman street.
 
-He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the Appian shortlist’s edges, a list he kept in his head, of men whose villas lined the old southern road where the pardoned Pompeians had retired to be grateful in private. Men who hated the calendar of forever offices. Men who still smelled Pharsalus on their clothes. Men who smiled too hard at Caesarian dinners.
+He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the others, a list he kept in his head, of men whose villas lined the Appian Way south of the city where the pardoned Pompeians had retired to be grateful in private. Men who hated the calendar of forever offices. Men who still smelled Pharsalus on their clothes. Men who smiled too hard at Caesarian dinners.
 
 A clerk hovered with a tablet about a boundary dispute in some dull estate. Cassius took it, read nothing, handed it back.
 
@@ -32,7 +32,7 @@ A clerk hovered with a tablet about a boundary dispute in some dull estate. Cass
 
 He called for wine and didn’t drink it. He wanted his hands free.
 
-Servius Galba came at the hour Cassius had named, not early, not late, the etiquette of a man who still thought timing was honour. They stood where the street noise could steal a sentence if a neighbour’s ear got hungry.
+Servius Galba came exactly at the hour Cassius had named, with the etiquette of a man who still thought timing was honour. They stood where the street noise could steal a sentence if a neighbour’s ear got hungry.
 
 “You saw the Forum,” Cassius said.
 
@@ -110,7 +110,7 @@ Brutus walked the corridor strip where the older Brutus lived in paint. He wante
 
 Silence held long enough for a slave’s foot to hesitate at the curtain and retreat.
 
-Cassius did not soften. Softening made Brutus write periods. “Then hear this without poetry: we will choose a morning with you or without you. Without you, it still happens, and then the city will ask where the Brutus was while lesser men did the ugly arithmetic. With you, you can still demand surgery. Refuse the room entirely, and you get to write essays about Cato while Casca counts mornings.”
+Cassius pressed on, because a pause would only let Brutus compose. “Then hear this without poetry: we will choose a morning with you or without you. Without you, it still happens, and then the city will ask where the Brutus was while lesser men did the ugly arithmetic. With you, you can still demand surgery. Refuse the room entirely, and you get to write essays about Cato while Casca counts mornings.”
 
 Casca added, almost mild, “I prefer your essays to your absence. Absence looks like approval of whatever we become.”
 
