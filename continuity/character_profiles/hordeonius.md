@@ -74,7 +74,7 @@ Mastermind; treasury replacement system.
 | Person | Edge |
 |--------|------|
 | Atticus-type peers | Professional courtesy (do not replace Atticus) |
-| Calenus (via steward) | Creditor, Ch 33 |
+| Calenus (via steward) | Creditor, Ch 34 |
 | F1 Nysa | Occasional courier hire |
 | Antony’s agents | Bribe/liquidity post-Ides |
 | Liberators | Some clients among them — awkward |

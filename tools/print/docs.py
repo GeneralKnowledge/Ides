@@ -356,7 +356,7 @@ def report(i: Info) -> str:
 {t(f"{m['title']}, {m['volume']}")} · {stamp_line(i)}
 
 == Summary
-The full manuscript (cast list, Utica prologue, Chapters 1–37 and historical note) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
+The full manuscript (cast list, Utica prologue, Chapters 1–38 and historical note) is typeset in {t(i.total)} pages at 129 × 198 mm and imposed as {t(sig_plan_sentence(i))}. Every check that guards the text passed: the words extracted from the PDF match the manuscript exactly, in order. The interior has *not* been printed, folded or sewn; physical checks are listed at the end.
 
 == Checks performed
 {table([["Check", "Result"]] + [[t(c), t(r)] for c, r in i.checks], "(1fr, auto)", header=True)}
@@ -397,7 +397,7 @@ Edit `tools/print/meta.json` and rebuild. Nothing below was invented; the pages 
 - *Act pages:* one recto per act, as in the DOCX reading copy.
 - *Recto starts:* every chapter, act page, the cast list and the historical note start on a right-hand page; this adds blank versos, typical for a hardcover.
 - *Chapter 30’s three numbered lines* are set as a short indented list, exactly as written.
-- *Cast and notes:* the cast list opens the book, before the prologue (Gate 3 reader 2), and the historical note follows Chapter 36. Bold labels in them (names, sub-points) are set in small caps; list bullets become hanging indents. The map brief is for a cartographer and is not printed.
+- *Cast and notes:* the cast list opens the book, before the prologue (Gate 3 reader 2), and the historical note follows Chapter 37. Bold labels in them (names, sub-points) are set in small caps; list bullets become hanging indents. The map brief is for a cartographer and is not printed.
 - *Excluded, as in the DOCX copy:* scene cards, POV/date/canon lines, continuity notes and other metadata; the DOCX’s “End of Book 1 full review export” line.
 - *Trim size kept at 129 × 198 mm.* It fits a folded A4 sheet (148.5 × 210 mm) with a 19.5 mm fore-edge trim and 6 mm head and tail trims; the spine edge sits on the fold, so the full 19 mm gutter survives.
 

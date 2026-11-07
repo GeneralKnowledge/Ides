@@ -46,7 +46,7 @@ Actium as Book 1 content · SIDE-1 solution-as-Ides-cause · romance-for-spice �
 | Record | Role |
 |--------|------|
 | **LEN-1** | A record of the current length, not a target (canon, revised 2026-10-24) |
-| Current ~88k reading words | Prologue and Ch 1–37 (2026-10-24), after Phases 2–3 (T8–T13, S1–S5, the Ch 37 endings), the renumbering pass, the story graph pass and the Ides trim |
+| Current ~88k reading words | Prologue and Ch 1–38 (2026-10-24), after Phases 2–3 (T8–T13, S1–S5, the Ch 38 endings), the renumbering pass, the story graph pass and the Ides trim |
 
 **Length does not dictate content.** Story-completion for the *expansion phase* is the stopping rule below — not proximity to either band.
 

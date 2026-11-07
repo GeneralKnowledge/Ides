@@ -19,11 +19,11 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Plant | 11–12, 14 | Omens; fragment; dressing-room pauses; Phileros near-miss |
 | Direction change | 16–19 | Murder rumour in service corridors; house no longer mistress’s weather |
 | Travel | 23 | Emptying under kind stewards; flask want fails (D8) |
-| Payoff | 32, 37 | Lists chalk-wall; fear moved house; Ch 37 SC-95a: the true number given too late, the tablet rubbed blank, Nysa goes to her patron’s house under her own name |
+| Payoff | 32, 37 | Lists chalk-wall; fear moved house; Ch 38 SC-95a: the true number given too late, the tablet rubbed blank, Nysa goes to her patron’s house under her own name |
 
 **Intersects:** A (warnings fail as method); B (paper/seals as weapons)  
 **End state:** Paid — blank wax / ash continuity; Nysa does not solve Ides.  
-**Landed 2026-10-24 (Phase 3):** Ch 37 SC-95a “The True Number”.  
+**Landed 2026-10-24 (Phase 3):** Ch 38 SC-95a “The True Number”.  
 **Must not:** Phileros as NOTE-1 sole author; thicken fringe into knife core.  
 **Integration note:** D21/D22 fringe OK; protect peaks.
 
@@ -74,11 +74,11 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 3 | Capua prayer; colony-with-face |
 | Direction change | 13, 19, 24 | Brazier powder; funeral Capua named + changed-cost (D4); veterans listen |
-| Payoff | 30, 32, 37 | Mud Capua echo (D13 light); lists soil; Italy underestimation; Ch 37 SC-95b: the twine surveyed over a farmer’s beans, Laberius steps over it |
+| Payoff | 30, 32, 37 | Mud Capua echo (D13 light); lists soil; Italy underestimation; Ch 38 SC-95b: the twine surveyed over a farmer’s beans, Laberius steps over it |
 
 **Intersects:** B (who pays after Caesar); public rage after funeral  
 **End state:** Paid — Italy unpaid dirt is Book 1’s last seed, not Actium.  
-**Landed 2026-10-24 (Phase 3):** Ch 37 SC-95b “Twine”, the book’s last scene; Ch 4 clerk named as Sextilius (Ch 1 stitch).  
+**Landed 2026-10-24 (Phase 3):** Ch 38 SC-95b “Twine”, the book’s last scene; Ch 4 clerk named as Sextilius (Ch 1 stitch).  
 **Must not:** Generic “land” without Capua cost after Ch 19.  
 **Integration note:** D13 useful/light — no further Capua densify unless want/cost missing.
 
@@ -150,7 +150,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Travel | 31, 35 | Gaius works on the legions; the standing mutiny ends the morning Porcia’s news arrives (Ch 31 SC-82a); moved to a ship under guard; Cicero urges death |
 | Payoff | 35, 37 | After Cicero’s and Decimus’s deaths Brutus orders Hortensius to kill him; Antony kills Hortensius on his brother’s grave |
 
-**Landed 2026-10-24:** Ch 26 SC-69a (Athens: statues, Marcus Cicero, Horace, Hortensius) and SC-69b (Apollonia: Gaius spared, Caesar’s warmth, the stopped hand); Ch 35 SC-88b (the cedar box, the mutiny, the ship, the order); Ch 37 SC-93 (Antony’s cloak on Brutus; “Take him to my brother”).
+**Landed 2026-10-24:** Ch 26 SC-69a (Athens: statues, Marcus Cicero, Horace, Hortensius) and SC-69b (Apollonia: Gaius spared, Caesar’s warmth, the stopped hand); Ch 36 SC-88b (the cedar box, the mutiny, the ship, the order); Ch 38 SC-93 (Antony’s cloak on Brutus; “Take him to my brother”).
 
 **Intersects:** A (clemency as soft chain, Ch 1/4 reversed); B (Antonian family revenge)  
 **Sources:** Plutarch *Brutus* 24–28, *Antony* 22; Cicero *Ad Brutum*.  
@@ -188,7 +188,7 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Direction change | 24 | Trebonius leaves for Asia; last market-day talk with Cassius |
 | Payoff | new 29, 28, 34 | Smyrna (Jan 43) through Amyntas; Dolabella declared enemy (Phil. 11); Laodicea, Dolabella’s death as a scene |
 
-**Landed 2026-10-24:** Ch 21 SC-60a (Trebonius leaves, Cassius POV), SC-60b (the column, Nysa), SC-60c (*wonderful Dolabella*, Cicero); new Ch 29 SC-74a (Smyrna, Amyntas) and SC-74b (*Phil.* 11, Cicero); Ch 35 SC-87a (Laodicea, Amyntas). **Placement changes:** Trebonius’s departure moved from Ch 24 to Ch 21 (he left Rome in April 44, *Att.* 14.10); *Phil.* 11 sits in 27a, not Ch 28, which ends at the Kalends of January.
+**Landed 2026-10-24:** Ch 21 SC-60a (Trebonius leaves, Cassius POV), SC-60b (the column, Nysa), SC-60c (*wonderful Dolabella*, Cicero); new Ch 29 SC-74a (Smyrna, Amyntas) and SC-74b (*Phil.* 11, Cicero); Ch 31 SC-87a (Laodicea, Amyntas). **Placement changes:** Trebonius’s departure moved from Ch 24 to Ch 21 (he left Rome in April 44, *Att.* 14.10); *Phil.* 11 sits in 27a, not Ch 28, which ends at the Kalends of January.
 
 **Intersects:** A (spare-Antony paid by another Caesarian); T1 (Nysa’s grief finds a place)  
 **Sources:** Cicero *Att.* 14.15–16, *Phil.* 1.5, 11; Appian *BC* 3.2–3, 3.26, 4.60–62; Dio 47.29–30.  
@@ -205,9 +205,9 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 23 | **Decided 2026-10-23:** Nysa takes the new bow and serves in Antony’s house |
 | Direction change | 32 | SC-85a: Julia shields Lucius Caesar at her door while Nysa pours the wine (Plut. *Ant.* 20). SC-85c: Antony strikes Atticus off for his kindness to Fulvia (Nepos *Att.* 9–10), heard by Hordeonius, who called in Fulvia’s paper in spring 43 |
-| Payoff | 32, 34 | ~~**Decided 2026-10-23:** SC-85b/d: Seius hides and saves **Gavius** (listed; signed the Liberators’ petition in Ch 23), frees his door slave before he can do what Festus did, and gets Gavius to Sextus’s boats on the coast (App. *BC* 4.36); SC-85c: the hiding is paid for with a Hordeonius loan secured on the Sabine land, rolling in the Ch 3 canvass debt. Ch 34 SC-86b: the soldiers’ song at Plancus’s triumph, 29 Dec 43 (Velleius 2.67; Plotius found by his perfume, Val. Max. 6.8.5), Laberius refuses the head-hunt Vibius joins. SC-86c: early 42 Hortensia, Fulvia’s door then the Forum (App. *BC* 4.32–34), Nysa; Lucius Caesar spared after Julia faced Antony in the Forum (App. *BC* 4.37). Medullina and Festus paid in SC-85~~ Superseded 2026-10-24: Calenus hides Varro (see below). |
+| Payoff | 32, 34 | ~~**Decided 2026-10-23:** SC-85b/d: Seius hides and saves **Gavius** (listed; signed the Liberators’ petition in Ch 23), frees his door slave before he can do what Festus did, and gets Gavius to Sextus’s boats on the coast (App. *BC* 4.36); SC-85c: the hiding is paid for with a Hordeonius loan secured on the Sabine land, rolling in the Ch 3 canvass debt. Ch 35 SC-86b: the soldiers’ song at Plancus’s triumph, 29 Dec 43 (Velleius 2.67; Plotius found by his perfume, Val. Max. 6.8.5), Laberius refuses the head-hunt Vibius joins. SC-86c: early 42 Hortensia, Fulvia’s door then the Forum (App. *BC* 4.32–34), Nysa; Lucius Caesar spared after Julia faced Antony in the Forum (App. *BC* 4.37). Medullina and Festus paid in SC-85~~ Superseded 2026-10-24: Calenus hides Varro (see below). |
 
-**Landed 2026-10-24 (PR #161):** Ch 32 SC-85a–d and Ch 34 SC-86b–c as above.
+**Landed 2026-10-24 (PR #161):** Ch 33 SC-85a–d and Ch 35 SC-86b–c as above.
 
 **Intersects:** B (lists as reverse will); T2 women’s rooms (public ending); T3 (Hordeonius’s unclean acquisitions vs Atticus); T5 (Plancus’s brother closes soft-ally)  
 **Sources:** Plutarch *Antony* 20; Appian *BC* 4.12–51; Nepos *Att.* 9–12; Velleius 2.67; Valerius Maximus 6.8.5.  
@@ -227,10 +227,10 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 | Direction change | 31 | Decimus warns Cicero from Eporedia; Labeo tells Octavian |
 | Payoff | 32 | “Cicero stays” with the word in Octavian’s head; never stated as cause |
 
-**Landed 2026-10-24 (PR #162):** Ch 30 SC-81b, Ch 31 (Eporedia warning, Labeo), Ch 32 at “Cicero stays”.
+**Landed 2026-10-24 (PR #162):** Ch 30 SC-81b, Ch 31 (Eporedia warning, Labeo), Ch 33 at “Cicero stays”.
 
 **Sources:** Cicero *Fam.* 11.20; *Ad Brutum* 1.3.  
-**Must not:** collapse Ch 32’s cost reasoning into revenge.
+**Must not:** collapse Ch 33’s cost reasoning into revenge.
 
 ---
 
@@ -243,9 +243,9 @@ Rule: every *new* deposit must change a next choice. Tracks that already work ge
 |-------|----------|------|
 | Plant | 13 | The thigh wound, shown after GO |
 | Direction change | 21, 25 | Lanuvium: her account of the Ides morning (false death report); Velia: Hector and Andromache painting |
-| Payoff | 31, 35 | June 43: the news reaches Brutus during the standing mutiny; Cicero’s consolation; he does not ask how. Ch 35 callback: three versions of her death, none chosen |
+| Payoff | 31, 35 | June 43: the news reaches Brutus during the standing mutiny; Cicero’s consolation; he does not ask how. Ch 36 callback: three versions of her death, none chosen |
 
-**Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 35 SC-88b (the consolation at the bottom of the cedar box; three versions of her death). **2026-10-24 (through-line pass):** Ch 31 SC-82a carries the news on the page; SC-88b trimmed to a callback.
+**Landed 2026-10-24:** Ch 13 SC-34 coda (the wound, the telling); Ch 21 SC-61 (her Ides morning); Ch 25 SC-68d (Velia, Andromache); Ch 36 SC-88b (the consolation at the bottom of the cedar box; three versions of her death). **2026-10-24 (through-line pass):** Ch 31 SC-82a carries the news on the page; SC-88b trimmed to a callback.
 
 **Sources:** Plutarch *Brutus* 13–15, 23, 53; Cicero *Ad Brutum* 1.9.  
 **Must not:** touch the protected Ides core (HUMAN_VOICE_RULES §1); no narrator verdict on how she died.

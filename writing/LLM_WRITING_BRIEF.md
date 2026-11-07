@@ -1,7 +1,7 @@
 # Writing brief — Book 1
 
 **Project:** *The Ides of March — Historical Fiction Foundation*  
-**Stage (2026-10-24):** Book 1 is fully drafted (prologue, Ch 1–37, back matter) and with Gate 3 readers. Work now is revision, reader-led fixes and, where a story need is shown, development (`HUMAN_VOICE_RULES.md` §1a).  
+**Stage (2026-10-24):** Book 1 is fully drafted (prologue, Ch 1–38, back matter) and with Gate 3 readers. Work now is revision, reader-led fixes and, where a story need is shown, development (`HUMAN_VOICE_RULES.md` §1a).  
 **Not your job:** Rebuild the world, invent a new plot spine, resolve every mystery, or modernise Roman motives.
 
 **Revising a landed chapter?** §12 (historical verification and change-impact review) applies to any substantive edit, alongside the evidence and stopping rules in `HUMAN_VOICE_RULES.md`. Release readiness is decided by `FINAL_READINESS_GATE.md`.
