@@ -48,4 +48,6 @@ His household, his son's death (before 203; exact year unknown), and his private
 
 ## Open questions
 
-- If the Roman envoy of 218 is Fabius, his first memory scene is the toga fold at Carthage; if Buteo, it is not. The book should only use it as hearsay until checked.
+Decided 7 November 2026.
+
+- **The envoy of 218:** hearsay only. Other people tell the toga-fold story about Fabius; he never remembers it himself (chronology flag A).

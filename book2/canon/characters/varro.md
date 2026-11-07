@@ -29,7 +29,7 @@
 | 216 Aug–autumn | Venusia, Canusium, then Rome | Liv. 22.54, 22.61 |
 | 215–213 | Picenum, raising and holding troops | Liv. 23.32; 24.10 (to check) |
 | 212–209 | No posting found (invention zone) | |
-| 208–207 | Etruria, propraetor | Liv. 27.24; 27.35 (to check) |
+| 208–207 | Etruria, propraetor (one scene, 207) | Liv. 27.24; 27.35 (to check) |
 
 ## What he knows and when
 
@@ -47,4 +47,6 @@ His private life is unknown: wife, children, house. The years 212–209 are empt
 
 ## Open questions
 
-- Does Varro carry a scene in Act IV (Etruria, 207), or does his arc end with the thanks in 216 and the Picenum levies? The storyboard decides.
+Decided 7 November 2026 (Reuben: go with what makes most sense).
+
+- **Act IV:** yes. Varro carries one scene in Etruria in 207, holding the Etruscans quiet while Hasdrubal comes south. It keeps him from vanishing for the last 55,000 words and lets the man blamed for Cannae hear of the Metaurus. His Act III scenes come from the Picenum levies.

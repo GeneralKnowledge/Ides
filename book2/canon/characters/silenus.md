@@ -31,4 +31,6 @@ Almost everything except his job. He is the book's window on Hannibal, so he car
 
 ## Open questions
 
-- Nepos implies he stayed only while things went well. Does Silenus leave the camp in Act IV (and if so, when), or stay to the head? Recommended: he stays and sees the head; the storyboard checks that this is the strongest ending POV.
+Decided 7 November 2026.
+
+- **Act IV:** he stays with the army and sees the head. His is the ending POV. The storyboard confirms it reads strongest; if not, it comes back to Reuben.

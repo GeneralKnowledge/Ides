@@ -36,4 +36,6 @@ Everything after Hannibal's dinner in 216. **Limit:** do not give him a recorded
 
 ## Open questions
 
-- Does his POV run to 211 (the fall of Capua, seen by a man who is not in the record of it), or end after 215? Recommended: run to 211, with Capua's fall as his last scene, since Capua's fate is Act III's ending.
+Decided 7 November 2026.
+
+- **How long his POV runs:** to 211. Capua's fall is his last scene and closes Act III. He is not among the named men who take poison, and he gets no recorded death.

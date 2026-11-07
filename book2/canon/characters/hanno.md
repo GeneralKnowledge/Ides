@@ -34,4 +34,4 @@ The council's day-to-day politics, his household and his allies are unrecorded. 
 
 ## Open questions
 
-- None yet.
+None.

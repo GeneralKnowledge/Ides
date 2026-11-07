@@ -24,7 +24,7 @@ To be chosen at the storyboard, and checked against [names](../names.md) so it c
 ## Facts to fix at the storyboard
 
 - **Class and age:** a property-owning citizen, as all legionaries were (a small farmer); about twenty-five in 216.
-- **Home:** a farm in Latium or Campania that Hannibal's army has crossed or will cross.
+- **Home:** a farm in Latium near the Via Latina (see Open questions).
 - **Rank:** a ranker (hastatus or princeps), not an officer.
 - **Where he is:** 216 Cannae and Canusium; 215–207 Sicily. He never sees Rome again in this book unless the storyboard finds a recorded reason.
 
@@ -44,4 +44,7 @@ His whole life, inside the legions' record. **Limit:** he may not witness a reco
 
 ## Open questions
 
-- Name and home region.
+Decided 7 November 2026.
+
+- **Home region:** Latium, on a farm near the Via Latina, the road Hannibal takes towards Rome in 211 (Liv. 26.8–9, to check). He hears of it in Sicily, months late.
+- **Name:** chosen at the storyboard and checked against [names](../names.md).

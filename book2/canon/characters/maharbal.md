@@ -43,4 +43,6 @@ Everything after 216. **Limit:** his later scenes must not give him a recorded a
 
 ## Open questions
 
-- Does the book let Maharbal fade out with no ending, which is honest to the record, or give him a quiet invented exit (sickness, a posting to Bruttium)? Recommended: fade, with Silenus noting his absence.
+Decided 7 November 2026.
+
+- **His ending:** he fades, as the record does. No invented exit. At most two Act III scenes inside Hannibal's camp, tied to recorded events; none in Act IV. Silenus notices that he is no longer there.

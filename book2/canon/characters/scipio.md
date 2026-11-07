@@ -52,4 +52,6 @@ Polybius stresses calculation dressed as inspiration: he lets men believe his pl
 
 ## Open questions
 
-- Is the Ticinus rescue told straight (Polybius) or with Livy's doubt left in? Recommended: straight, with one voice in the camp saying it was a slave.
+Decided 7 November 2026.
+
+- **The Ticinus rescue:** told straight, as Polybius has it from Laelius, with one voice in the camp saying a slave did it (chronology flag B).

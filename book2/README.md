@@ -31,3 +31,4 @@ The storyboard gate runs with `--strict`.
 One line per change.
 
 - 2026-11-07: Folder created. Contract drafted under Reuben's four decisions (Alps to Metaurus; Hannibal from outside; 100,000 words; this folder). Chronology, POV character sheets, major figures and names list drafted; first source check against Polybius and Livy.
+- 2026-11-07: POV open questions settled on the recommended answers (Reuben: "go with what makes most sense"): Varro gets an Etruria scene in 207; Fabius's toga story is hearsay; Ticinus told straight; Maharbal fades after Act III; Silenus sees the head; Pacuvius runs to Capua's fall; the soldier farms near the Via Latina.
