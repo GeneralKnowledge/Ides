@@ -12,6 +12,9 @@ Active working surface only. Completed plans and pass logs: [`../archive/`](../a
 | Idea-coverage checklist | `writing/MUST_EXPRESS.md` |
 | Voice / tone samples | `writing/voice/` |
 | Soft chronology / Ides packs | `writing/reference/` |
+| Source-of-truth order, export tools | `docs/WORKING_GUIDE.md` |
+| Questionnaire for an outside reader | `reader_feedback/SECOND_READER_QUESTIONNAIRE.md` |
+| Book introduction (for readers, not workers) | `README.md` |
 
 ## Canon & continuity
 

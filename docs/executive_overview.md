@@ -174,9 +174,10 @@ History constrains; mistakes matter; rumours err; characters lack future knowled
 ## File tree (active)
 
 ```
-/README.md
-/docs/          entry + INDEX + this overview
-/drafts/book1/  manuscript (Ch 11–38)
+/README.md      introduction to the novel for readers
+/docs/          entry + INDEX + WORKING_GUIDE + this overview
+/drafts/book1/  manuscript (prologue + Ch 1–38)
+/reader_feedback/ questionnaire for outside readers
 /continuity/    canon, questions, contradictions, future_research,
                 lock_architecture_audit, character_profiles/, expansion/
 /story/         anchors, timeline, mysteries, POV lock (pre-draft beats and cards in archive/planning/)
