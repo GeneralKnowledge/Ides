@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Export Book 1 as an EPUB 3 ebook (Kindle via Send to Kindle, Apple Books, Kobo).
 
-    python tools/export_book1_epub.py           # write exports/Ides_Book1_Ch01-37.epub
+    python tools/export_book1_epub.py           # write exports/Ides_Book1_Ch01-38.epub
     python tools/export_book1_epub.py --check   # verify the written EPUB
 
 The reading text comes from tools/export_book1_docx.py (same parser, same

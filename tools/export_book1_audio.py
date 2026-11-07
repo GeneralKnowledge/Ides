@@ -4,7 +4,7 @@
 Uses Kokoro-82M (Apache-2.0), an open text-to-speech model that runs offline on
 the CPU, so there is no account, key, or per-character charge. The reading text
 is the same as the docx/EPUB reading copy (export_book1_docx.reading_paragraphs):
-the prologue, five act announcements, 37 chapters and the historical note. The
+the prologue, five act announcements, 38 chapters and the historical note. The
 cast list, offices page and timeline are left out of the audio; they are
 reference pages for the eye.
 

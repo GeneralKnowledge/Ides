@@ -74,7 +74,7 @@ When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He m
 
 Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell the vats on him, stale urine and trodden wool, the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-Laberius closed his fist on air, not wood. “I came for Capua,” he said: the dated promise, the after-Parthia land that had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius took a mental note of who took torches. Notes survived campaigns.
+Laberius closed his fist on air, not wood. “I came for Capua,” he said: the land that had never once come with a date, and had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius took a mental note of who took torches. Notes survived campaigns.
 
 Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
 
@@ -84,32 +84,10 @@ By dusk he knew the only Senate that mattered today was this crowd. The street h
 
 ---
 
-# SC-50c: Water for No One
-
-POV: Nysa (F1)
-Date / place: Forum crowd · same
-Canon refs: household INF in public
-Info ENTER: Sent toward news / supplies chaos
-Info EXIT: Sees Rome tip; returns toward Domus through altered streets
-Overhear risk: Extreme
-
----
-
-Nysa entered the Forum because Calpurnia’s house couldn’t pretend the day was ordinary, and because Phileros wanted confirmation the way gamblers wanted dice.
-
-She saw the cloth. She heard the refrains. She smelled the first wrong smoke: furniture burning, not sacrifice.
-
-A man lifted a child to see the fire and laughed, and Nysa thought of Calpurnia’s lap in the dream and had to look away.
-
-She didn’t see Antony as clever or monstrous. She saw a large man steering the crowd with his arms. She didn’t see Brutus at all. Height had become irrelevance.
-
-When the crowd surged, she surged rather than be crushed. Her incomplete wax stabbed her ribs. She kept it. Relics were stupid. She was allowed one stupidity.
-
----
-
 ## Continuity notes (SC-50)
 - **Knows / learns:** the funeral (FUNERAL-1, soft date 20 March); Antony calculating but not all-seeing; an officer pushes back on grain. Rostra and eulogy; the masks are actors (Ch 16); cremation belongs on the Campus, but the fire is in the Forum. Laberius refuses a torch. A fuller, a woman carrying water and a veteran: Capua is “dirt that walks” (D4). The fire leaves the pyre for the Liberators’ doors.
-- **Plants → pays:** Capua unpaid (Ch 3, 13) changes cost: the paymaster is dead; the market-day echo at the close.
+- **Plants → pays:** Capua unpaid (Ch 4) changes cost: the paymaster is dead; the market-day echo at the close.
+- **Decisions:** 2026-11-07 (storyboard fix 10): SC-50c “Water for No One” cut; Nysa’s day in the Forum is carried by SC-51.
 - **Must not:** Antony’s speech is a refrain, not blank verse; no Shakespeare.
 
 ---

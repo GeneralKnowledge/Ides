@@ -32,7 +32,7 @@ Most items below are **complete**. Treat this as a checklist and research backlo
 
 ## Drafting — Book 1 first pass COMPLETE
 - [x] Start decisions locked (`draft_start_decisions.md`)  
-- [x] Ch 1–37 present under `drafts/book1/`  
+- [x] Ch 1–38 present under `drafts/book1/`  
 - [x] Batch A screened (`batch_a_screening.md`)  
 - [x] Batches B–D screened (`batch_bcd_screening.md`); P0s fixed; key set-pieces thickened
 
@@ -57,7 +57,7 @@ Accepted: **1A** (lean chapters → ~500–900 prose words) + **stay inside lock
 - [x] **Batch M1** Act 2 bridge: Ch 8, 10–13 expanded  
 - [x] **Batch M2** Act 1 foundations: Ch 1–6 expanded  
 - [x] **Batch M3** Act 4 connective: Ch 21, 23, 25–28 expanded  
-- [x] **Batch M4** Act 5: Ch 30–37 expanded  
+- [x] **Batch M4** Act 5: Ch 30–38 expanded  
 - [x] **Batch M5** gold polish (Ch 7, 9, 14–20, 22, 24): TODO_EDITOR cleared/deferred; Ch 22/24 strengthened; voice/compress pass
 
 ### 0b. Phase 1B — Whole-manuscript editorial diagnosis — COMPLETE
@@ -71,14 +71,14 @@ Adds prose/scene/psychology method; renames former “1C development” → **Ph
 ### 1. Phase 1D — Consequence ordeal development
 Rules: diagnosis §G + craft report §J. Do not bulk-expand gold spine.
 - [x] **1D.1** Mutina / Decimus cost — Ch 27–31 ([`phase_1d1_mutina_plan.md`](../archive/plans/phase_1d1_mutina_plan.md))  
-- [x] **1D.2** Philippi ordeal — Ch 36–37 ([`phase_1d2_philippi_plan.md`](../archive/plans/phase_1d2_philippi_plan.md))  
-- [x] **1D.3** Selective connective — Ch 25, 32, 35 ([`phase_1d3_connective_plan.md`](../archive/plans/phase_1d3_connective_plan.md))  
+- [x] **1D.2** Philippi ordeal — Ch 37–38 ([`phase_1d2_philippi_plan.md`](../archive/plans/phase_1d2_philippi_plan.md))  
+- [x] **1D.3** Selective connective — Ch 25, 33, 36 ([`phase_1d3_connective_plan.md`](../archive/plans/phase_1d3_connective_plan.md))  
 - [x] **1D.4** Pre-Ides earning — Ch 4, 8, 13 ([`phase_1d4_pre_ides_plan.md`](../archive/plans/phase_1d4_pre_ides_plan.md))  
 - [x] **1D.5** Name-war friction — Ch 21, 22, 24 ([`phase_1d5_name_war_plan.md`](../archive/plans/phase_1d5_name_war_plan.md))  
 
 ### 1b. Phase 1F — Bononia I2 + E3 local craft — COMPLETE
 See **[`../archive/plans/phase_1f_bononia_e3_plan.md`](../archive/plans/phase_1f_bononia_e3_plan.md)**  
-- [x] **I2** Proscription peak — Ch 32 deepen  
+- [x] **I2** Proscription peak — Ch 33 deepen  
 - [x] **E3** Ch 7 POV borders; Ch 12 muddy NOTE-1; Ch 1/30 future-leans  
 
 ### 1c. Phase 1D.6 — Post-development cold read — COMPLETE

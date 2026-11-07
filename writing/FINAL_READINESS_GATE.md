@@ -24,7 +24,7 @@ The tracked DOCX must be a faithful rendering of the current manuscript, not mer
 
 The digest is the authoritative link to the source text. The commit is the last one that touched `drafts/book1/`; after a squash merge of a PR that changed the manuscript, it may name a branch commit, and the digest still verifies the copy.
 
-**Rule:** regenerate and commit `exports/Ides_Book1_FULL_Ch01-37.docx` (`git add -f`) in the same PR as any manuscript change. CI runs the check on every PR that touches the manuscript, the exporter or the copy.
+**Rule:** regenerate and commit `exports/Ides_Book1_FULL_Ch01-38.docx` (`git add -f`) in the same PR as any manuscript change. CI runs the check on every PR that touches the manuscript, the exporter or the copy.
 
 **Not covered by the script:** how headings, dialogue, paragraph spacing and special characters *look* in Word. Open the copy once after any exporter change and page through a dialogue scene, a letter, Chapter 16 and the last page.
 
@@ -60,7 +60,7 @@ Keep one line per gate here. A gate re-opens only when the manuscript changes in
 
 | Gate | State | Evidence |
 |------|-------|----------|
-| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `2687ed7`, digest `bd64e385d9f4e1e6` (2026-11-04, after the missing-step audit #188, the Gate 3 correction round for readers 1 and 2, the v4 follow-up (Ch 9, Ch 36) and the reader 3 and 4 rounds and the readers 5–6 round (Varro's own chapter, now 37 chapters) and the readers A and B round and the examine-next round (Ch 31 in date order, Bononia trade): cast list, offices, prologue, Ch 1–37, historical note and timeline, 2949 reading paragraphs, ~93k words; scene titles print as unnamed breaks) |
+| 1. Reading-copy integrity | Passing | `--check` OK, manuscript `2687ed7`, digest `bd64e385d9f4e1e6` (2026-11-04, after the missing-step audit #188, the Gate 3 correction round for readers 1 and 2, the v4 follow-up (Ch 9, Ch 37) and the reader 3 and 4 rounds and the readers 5–6 round (Varro's own chapter, now 37 chapters) and the readers A and B round and the examine-next round (Ch 31 in date order, Bononia trade): cast list, offices, prologue, Ch 1–38, historical note and timeline, 2949 reading paragraphs, ~93k words; scene titles print as unnamed breaks) |
 | 2. Mechanical copyedit | Passing | Top-up 2026-10-24 (#175) over everything written after the first pass, with the checks run across all of `drafts/book1`: [`archive/pass_logs/gate2_topup_2026-10-24.md`](../archive/pass_logs/gate2_topup_2026-10-24.md). The coverage-review edits (#176 and the follow-up) came after it and were written to the same house style. First full pass 2026-10-22 on main @ 5e240b4; fixes, rejections and two author questions (resolved 2026-10-22) in [`archive/reports/mechanical_copyedit_book1.md`](../archive/reports/mechanical_copyedit_book1.md) |
 | 3. Independent reader | In progress | Reader 1 received 2026-11-03 and reader 2 on 2026-11-04; both triaged, and one correction round made for both ([`archive/pass_logs/gate3_reader1_corrections_2026-11-03.md`](../archive/pass_logs/gate3_reader1_corrections_2026-11-03.md), [`archive/pass_logs/gate3_reader2_corrections_2026-11-04.md`](../archive/pass_logs/gate3_reader2_corrections_2026-11-04.md)). Reader 2 repeats reader 1’s specific errors and wording, so the two count as one opinion; a reader who has not seen the project is still needed before the gate passes. Rows 18–21 of the reader 2 triage wait for that reader |
 

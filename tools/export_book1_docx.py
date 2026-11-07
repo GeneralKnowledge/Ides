@@ -36,9 +36,9 @@ from docx.shared import Cm, Inches, Pt, RGBColor
 ROOT = Path(__file__).resolve().parents[1]
 DRAFTS = ROOT / "drafts" / "book1"
 EXPORTS = ROOT / "exports"
-FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-37.docx"
-A4_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-37_A4.docx"
-CHAPTER_COUNT = 37
+FULL_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-38.docx"
+A4_PATH = EXPORTS / "Ides_Book1_FULL_Ch01-38_A4.docx"
+CHAPTER_COUNT = 38
 # Optional prologue before Chapter 1, header "# Prologue: Title"; parsed as number 0.
 # Inserted chapters (ch36a_*.md, "# Chapter 36a: Title") sit after their base
 # chapter until the next renumbering pass; at most one letter per insert.
@@ -736,7 +736,7 @@ def main() -> None:
     def full_doc(page: str) -> Document:
         return build_doc(
             all_ch,
-            subtitle="Book 1: FULL Review Draft (Chapters 1–37)",
+            subtitle="Book 1: FULL Review Draft (Chapters 1–38)",
             banner="THIS FILE CONTAINS THE PROLOGUE AND ALL 37 CHAPTERS · OPENS WITH THE PROLOGUE",
             blurb="Prose export for reading · metadata stripped\n" + label,
             source_note=f"Source: {source} · cast, offices, prologue, chapters 1–37, historical note and timeline",

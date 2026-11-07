@@ -1,48 +1,6 @@
 # Chapter 13: The Night Before
 
-**Scenes:** SC-31, SC-32, SC-33, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
-
----
-
-# SC-31: Hold the Consul
-
-POV: Trebonius / Decimus · Portico of Pompey
-Date / place: 13–14 March · colonnade shade
-Canon refs: CHOREO-1 · M6 · spare decision
-Info ENTER: Spare decision known to few · EXIT: Trebonius tasked to delay Antony
-Overhear risk: Medium–Low
-
----
-
-“Keep him talking,” Decimus said. “In the portico, until the room inside has finished being a Senate.”
-
-They stood where Pompey’s stone still watched the living arrange a hold, a few walls from the statue that would preside over tomorrow’s sitting. Trebonius nodded like a man accepting a boring errand while his eyes did the opposite. His face wore its usual mildness, the kind that made business smell like friendship.
-
-“And if he smells it?” Trebonius asked.
-
-“Then you invent a longer hold,” Decimus said. “More debt. Another remount. Whatever keeps him facing you.”
-
-“He likes horses.”
-
-“Everyone knows he likes horses. Be shocked about the price of one.”
-
-“I am always shocked about the price of one,” Trebonius said. “It is the only honest part of my character.”
-
-Glaucia, Trebonius’s attendant, waited just inside polite earshot with the patience of men who misread shouts for sport, and who would later sell whatever soft version of this huddle paid best. Decimus did not look at him. Looking would have made the true errand a performance.
-
-“Cover,” Trebonius murmured, for Glaucia’s benefit as much as Decimus’s. “I lingered for provincial papers. I lingered because Antony likes to be lingered with. I lingered because the morning was cold.”
-
-“Any of those,” Decimus said. “None of the true one.”
-
-“I will tell it in the order of increasing boredom. Nobody has ever accused a man of murder for being boring.”
-
-“That is because boring men are never believed capable of it,” Decimus said. “Which is why you are here.”
-
-They parted with the clasp of men confirming a hunt, festival-brother hands still warm for anyone watching. Decimus had gone three paces when Trebonius’s mildness thinned behind him, meant for Glaucia alone and not quite quiet enough. “If anyone asks, I am a bore with Gaul on my tongue. If anyone listens well, I am already tired of being the polite half of other men’s courage.”
-
-Glaucia’s mouth twitched. “Bores survive the Ides.”
-
-“Bores,” Trebonius said, “also hold consuls while better men invent their knives.” He sipped nothing from an empty hand and went to practise a longer hold.
+**Scenes:** SC-32, SC-34 · 13–14 Mar 44 · into Ch 14 · CHOREO-1 · M6
 
 ---
 
@@ -79,42 +37,6 @@ Sphaerus, Hirtius’s secretary, had brought a note from his master about nothin
 “Not until I have finished the sentence,” said Cicero.
 
 He sealed the letter. Sealing felt like action. Below the house a cart ground up the Palatine slope, and somewhere a thrush made a sound like a hinge. Cicero took it for spring.
-
----
-
-# SC-33: Land Powder
-
-POV: F3 Laberius · Italian winter quarter talk
-Date / place: Mid-March-ish · colony rumour around a brazier
-Canon refs: FS10 · B4
-Info ENTER: Love of Caesar + unpaid expectation · EXIT: Soft powder for post-Ides rage
-Overhear risk: High among soldiers
-
----
-
-Sextus Laberius Cordus loved Caesar the paymaster more than Caesar the god.
-
-Gaul, Spain, Africa, on Caesar’s word and Caesar’s pay, and now a winter camp in Italy, waiting to be turned from a soldier into a farmer. “Land by the cartload,” the recruiting centurion had promised in Gaul, and the men still said it to each other as a joke: colonies founded, plots surveyed, some loser’s farm handed over with the furniture. The promise was good. The carts were slow.
-
-Around the brazier the talk was colonies and delays. Who had been promised land near Capua. Who had heard the promise thin out into “after Parthia.” Who still had a father’s farm seized in someone else’s victory. Spain’s mud still lived in Laberius’s boots as memory: mopping finished, donative still not dated. Vibius, his optio, spat and said philosophers in Rome were weighing crowns while veterans weighed empty hands. Gaius of the split sandal held his palms to the heat and asked whether Parthia paid in dirt or in postponement.
-
-“He pays,” Laberius said. “When the eagle eats, we eat.”
-
-“When the eagle flies east,” Vibius answered, “we count dirt.”
-
-Gaius did not grin. “Capua was a date once. Now it’s after Parthia. After Parthia is not a place.”
-
-“Big place,” said Laberius. “Lot of men didn’t come back from it.”
-
-“That is the joke, then.”
-
-Vibius poked the brazier with a stick until ash rose. “Dirt without coin is still a grave with opinions. Write that on a promise and see who salutes.”
-
-“I would salute the promise if it were wearing boots,” said Gaius.
-
-Laberius didn’t hate the Senate as an idea. He hated unpaid gaps. Anger lived in unpaid gaps. He knew the powder was soft underfoot already, and soft powder still burned.
-
-Someone sang a dirty song about kings that borrowed the Forum’s February panic and made it tavern-shaped. Laberius did not laugh. Capua unpaid was not a joke tonight, only powder waiting for a name he still trusted on the wind.
 
 ---
 
@@ -198,7 +120,7 @@ He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cass
 
 ## Continuity
 - **SC-34 coda (T13):** Porcia waits up; shows the thigh cut (barber’s knife from his dressing room, February; the Ch 8 headache was the wound, the fever too; the doctor thinks she fell against a chest) (Plut. *Brut.* 13). He breaks his own Ch 7 rule (“You will not tell Porcia”) and tells her all of it. “Good.” Her hand hot with fever until the window greys.
-- **Knows / learns:** Trebonius is tasked with holding Antony; Pompey’s theatre and statue called back. Cicero is blindly calm (Atticus, Hirtius; elite rumour only). In the winter quarter, land hunger is powder (Capua, the donative). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
-- **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 19).
+- **Knows / learns:** Cicero is blindly calm (Atticus, Hirtius; elite rumour only). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
+- **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 4 → Ch 19).
 - **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.
-- **Decisions:** 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.
+- **Decisions:** 2026-11-07 (storyboard fixes 6–7): SC-31 “Hold the Consul” cut (fourth planning of Trebonius’s hold; Ch 9 and Ch 15 carry it); SC-33 “Land Powder” cut (third telling of the undated colony; Ch 4 and Ch 19 carry it). 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.

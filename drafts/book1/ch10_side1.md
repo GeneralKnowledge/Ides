@@ -24,7 +24,7 @@ Favonius answered first, because Favonius always answered first. He had grown hi
 
 “No,” Favonius said. “Not if it means war. Civil war is worse than a monarchy that breaks the law. I have seen both now. The monarchy at least lets you sleep.”
 
-“That is a strange thing for you to say,” said Labeo, from the end couch.
+“That is a strange thing for you to say,” said Antistius Labeo, from the end couch.
 
 “It is a strange thing to have learned.”
 
@@ -141,6 +141,7 @@ Hordeonius did not correct her. He filed her sentence beside the three stair the
 ---
 
 ## Continuity
+- **Names:** this Labeo is Pacuvius Antistius Labeo (Plut. *Brut.* 12), called “Antistius Labeo” once (2026-11-07, storyboard fix 11) so he is not confused with Segulius Labeo (Ch 31–32); not “Pacuvius”, which is Antony’s officer.
 - **Knows / learns:** Brutus sounds out Favonius and Statilius at dinner as a philosophical question; Favonius: civil war worse than lawless monarchy; Statilius: a wise man does not risk himself for the foolish; Labeo argues against both and stays behind (Plut. *Brut.* 12). Statilius sees too late that it was not a game and does not go back. Basilus present (Gaul, a praetorship, no province), says little. (Replaces the retired Seius bath scene, 2026-10-24.) Statius Paullus asks Hordeonius to soften Visellius Ralla’s debt for a Basilus-adjacent friend; Hordeonius refuses. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
 - **Plants → pays:** Hordeonius prices a consul who walks free of a bad morning as an uninsured morning (Ch 15, no spoiler); the water-carrier remembers SIDE-1 as pressure later.
 - **Must not:** OPEN-0 held (no solution); don’t re-introduce Basilus later.

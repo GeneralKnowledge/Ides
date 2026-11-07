@@ -16,7 +16,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | 1 | SC-08 | CAS | Clemency dinner (**D**, late 46); Africa-favour climber Sextilius; queen/child rumour |
 | 2 | SC-01, SC-02 | F4, F1 | Cato/Africa market weather; spectacle residue; land hunger seed |
 | 3 | SC-03 (SC-04 cut 2026-10-24) | CIC | Debt/patronage: Cicero pleads for Ligarius |
-| 4 | SC-05, SC-06, SC-07, SC-09 | F3, BRU, DEC | Munda; Porcia pressure; will whisper (no dinner replay) |
+| 4 | SC-05 (SC-06 folded in), SC-07, SC-09 | F3, BRU, DEC | Munda and after; Porcia pressure; will whisper (no dinner replay) |
 | 5 | SC-11 (SC-10 folded 2026-10-24) | OCT | Peripheral boy; Apollonia/Agrippa plant |
 | 6 | SC-11b, SC-12, SC-14 (SC-13 folded into F4) | BRU, CIC, F4 | City praetorship over Cassius; dictator perpetuo; Parthia clock; offices market |
 | 7 | SC-16, SC-15 | ANT, BRU/CAS | **Lupercalia** then first disclosure (chrono) |
@@ -34,7 +34,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | 10 | SC-24, SC-25, SC-25b | Statilius, F4 | Almost-recruit (Statilius, Favonius); debt ask; **SIDE-1 body** |
 | 11 | SC-26, SC-27 | F1, CIC | Omens; **manufactured Sibylline talk** |
 | 12 | SC-28, SC-29, SC-30 | CAL, F1, CAE | Dread; fragment; Caesar opacity |
-| 13 | SC-31, SC-32, SC-33, SC-34 | TRE/DEC, CIC, F3, BRU/CAS | Delay assignment; Cicero blind calm; veterans; GO |
+| 13 | SC-32, SC-34 | CIC, BRU/CAS | Cicero blind calm; GO (SC-31 and SC-33 cut 2026-11-07) |
 | 14 | SC-35a–d | CAL/CAE/DEC, F1 | **Dreams + Decimus fetch**; Nysa tablet blocked (35d) |
 
 ---
@@ -47,7 +47,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | 16 | SC-43, SC-44 | CAS/BRU, F1 | **Murder**; false Antony-dead rumour |
 | 17 | SC-45, SC-46, SC-47 | BRU, ANT/LEP, CIC | Capitol; no massacre; amnesty |
 | 18 | SC-48, SC-49 | F4, ANT/F1 | Markets; **will** |
-| 19 | SC-50, SC-51 | ANT/F1/F3, F1 | **Funeral riot**; **Cinna** |
+| 19 | SC-50a–b, SC-51 | ANT/F3, F1 | **Funeral riot**; **Cinna** (SC-50c cut 2026-11-07) |
 | 20 | SC-52, SC-53, SC-54 | DEC/BRU, CLEO, OCT | Collapse; exit; delayed OCT |
 
 ---
@@ -58,13 +58,13 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 |----|-------------|--------------|--------------|
 | 21 | SC-60, SC-60a–c, SC-61 | CIC, CAS, F1, BRU | Letters; Trebonius leaves; the column; *wonderful Dolabella* (T10); Lanuvium cage |
 | 22 | SC-62, SC-63, SC-63b | OCT/CIC, ANT, OCT | **Name Caesar**; Antony underestimates; Pompey’s gardens refusal (T9) |
-| 23 | SC-64, SC-65, SC-66 | F4, F1, Statilius | Bribes; scavenged house, Nysa takes Antony’s bow; majority cowardice |
+| 23 | SC-65, SC-66 | F1, Statilius | Scavenged house, Nysa takes Antony’s bow; majority cowardice (SC-64 cut 2026-11-07) |
 | 24 | SC-67, SC-68a | F3, CIC | Veterans listen; **Antium consilium** |
 | 25 | SC-68c, SC-69, SC-68b | F1, CAS/BRU, CIC | Victory games and star (T9); East departure; Philippics |
-| 26 | SC-69a, SC-69b | BRU | Athens; Apollonia; Gaius Antonius spared (T8) |
+| 26 | SC-69a | BRU | Athens: statues, Marcus Cicero, Horace, Hortensius (T8) |
 | 27 | SC-70a, SC-70b, SC-70c, SC-70 (+ CLEO-1/FS11 folded) | ANT, F3, OCT, DEC | Brundisium; Casilinum; failed march and the legions come over (T9); Cisalpine; Cleo/Sextus as rumour-margin only |
 | 28 | SC-73, SC-74 | ANT/DEC, OCT | Mutina begins; Senate’s sword |
-| 29 | SC-74a, SC-74b | F5, CIC | Smyrna; Dolabella declared an enemy (T10) |
+| 29 | SC-74a, SC-74b, SC-69b | F5, CIC, BRU | Smyrna; Dolabella declared an enemy (T10); Apollonia, Gaius Antonius spared (T8) |
 
 ---
 
@@ -73,12 +73,14 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 | Ch | Scene cards | Primary POVs | Must-express |
 |----|-------------|--------------|--------------|
 | 30 | SC-79, SC-80, SC-81, SC-81b | F3, rumour, CIC | Forum Gallorum; Mutina battles; poison rumour only; Cicero’s *tollendum* |
-| 31 | SC-82, SC-82a, SC-83 | DEC, BRU, OCT | Isolation; Cularo; Porcia’s death reaches Brutus; the march on Rome and the consulship |
-| 32 | SC-84, SC-85, SC-85a–d | OCT, F4/F1, Calenus | Triumvirate; **proscriptions**; Julia’s door; Calenus hides Varro; Atticus spared |
-| 33 | SC-86, SC-86a, SC-86b, SC-86c | CIC, ANT, F3, F1 | **Cicero death**; Julia at the tribunal; the brothers’ song; Hortensia |
-| 34 | SC-87a, SC-87, SC-88, SC-88b, SC-88c | F5, CAS, BRU | Laodicea (T10); extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
-| 35 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
-| 36 | SC-92–95, SC-95a, SC-95b (SC-94 in SC-92 breath) | BRU/OCT, ANT, report, F1, F3 | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); Nysa’s true number and her own name (T1, SC-95a); Laberius’s twine, the last scene (T4, SC-95b) |
+| 31 | SC-82, SC-82b, SC-82a, SC-87a | DEC, Porcia, BRU, F5 | Isolation: Decimus to Cularo; Porcia’s room; her death reaches Brutus; Laodicea (T10) |
+| 32 | SC-83, SC-82c | OCT, DEC | Consul: the march on Rome and the consulship; Plancus crosses; Decimus at the ford |
+| 33 | SC-84, SC-85, SC-85a | OCT, F1 | Triumvirate; **proscriptions**; Julia’s door |
+| 34 | SC-85b–d | Calenus, F4 | A Year’s Keep: Calenus hides Varro; Atticus spared |
+| 35 | SC-86, SC-86a, SC-86b, SC-86c | CIC, ANT, F3, F1 | **Cicero death**; Julia at the tribunal; the brothers’ song; Hortensia |
+| 36 | SC-87, SC-88, SC-88b, SC-88c | CAS, BRU | Extraction; liberty brand crack; the order to Hortensius (T8); Sardis quarrel (S1) |
+| 37 | SC-89a, SC-90, SC-91 (old SC-89 folded) | CAS, ANT/F3, CAS | Abydos, the night visitor reported (S2); Philippi I; **Cassius info-death**; OPEN-0 echo only |
+| 38 | SC-92–95, SC-95a, SC-95b (SC-94 in SC-92 breath) | BRU/OCT, ANT, report, F1, F3 | Philippi II ordeal; Antony’s cloak on Brutus, Hortensius to his brother’s grave (T8, SC-93); Nysa’s true number and her own name (T1, SC-95a); Laberius’s twine, the last scene (T4, SC-95b) |
 
 ---
 
@@ -86,7 +88,7 @@ Maps chapters to the scene cards they were drafted from (cards archived in `arch
 
 **Batch A (voice test):** Ch 14–19 (dreams through funeral)  
 **Batch B (politics):** Ch 21–24 (name + Antium)  
-**Batch C (war):** Ch 30–37  
+**Batch C (war):** Ch 30–38  
 **Batch D (fill):** Ch 1–13, 20, 25–28  
 
 After each batch: run `MUST_EXPRESS.md` checklist; log new D-inventions into `continuity/canon.md`.

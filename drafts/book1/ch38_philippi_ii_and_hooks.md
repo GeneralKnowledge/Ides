@@ -1,4 +1,4 @@
-# Chapter 37: Philippi II
+# Chapter 38: Philippi II
 
 **Scenes:** SC-92–95, SC-95a, SC-95b · Oct 42 → spring 41 · SERIES-1 end · A14 · T1, T4 close
 
@@ -150,7 +150,7 @@ Hordeonius entered nothing. It was the first account in thirty years he had clos
 
 POV: F1 Nysa · Rome
 Date / place: Winter 42–41 · the Appian Way at the Capena gate; the Carinae kitchen and its back door
-Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 34 (the patron)
+Canon refs: T1 · Phase 3 · Ch 25 (the count) · Ch 35 (the patron)
 Info ENTER: Philippi won; Antony gone East; the boy, sick, coming home to Italy · EXIT: Nysa gives the true number to the steward too late, and goes to her patron’s house under her own name
 Overhear risk: The kitchen
 
@@ -327,4 +327,4 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **SC-95c (Nysa, spring 41):** coda added 2026-11-04 (Gate 3 reader 3): Nysa mends the young Caesar’s torn tunic by one lamp (Suet. *Aug.* 73); closes the prologue’s needle and “who had sewn him”. Order set 2026-11-04 (readers 5–6, Reuben): SC-95c comes before SC-95b, so Laberius at the twine ends the book.
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.
-- **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 34 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.
+- **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 35 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.

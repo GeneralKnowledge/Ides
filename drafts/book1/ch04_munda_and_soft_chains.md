@@ -1,6 +1,6 @@
 # Chapter 4: Munda and Soft Chains
 
-**Scenes:** SC-05, SC-06, SC-07, SC-09 · 45 BC · A2 · FS05 · FS11 · FS21
+**Scenes:** SC-05, SC-07, SC-09 · 45 BC · A2 · FS05 · FS11 · FS21
 
 ---
 
@@ -9,7 +9,7 @@
 POV: F3 Laberius · Hispania camp
 Date / place: Pre-Munda · 45 BC · contubernium / mud lines
 Canon refs: A2 · B4
-Info ENTER: Rumour Caesar pressed · EXIT: Battle orders; Rome thinks easy
+Info ENTER: Rumour Caesar pressed · EXIT: Battle orders; after Munda, Labienus dead, Sextus to sea, Rome thinks easy (SC-06 folded in 2026-11-07)
 Overhear risk: Contubernium gossip
 
 ---
@@ -50,51 +50,9 @@ An older miles on his right mumbled a prayer that sounded like a shopping list: 
 
 He did not know what Rome would call this morning. He knew what his hands would smell like by night if the morning kept its promises.
 
----
+By night they did. Word ran down the stacked shields that Labienus lay face down in the barley with the others, ten years at Caesar’s right hand in Gaul and then at Pompey’s through the whole war, and that Sextus, the younger son, had slipped away to the sea. A staff man came out late from Rome with clean sandals and the easy story already dressed as fact: mopping finished, Spain settled, a triumph on the way. Somebody said his name was Sextilius.
 
-# SC-06: Sextus Slips
-
-POV: F3 · post-battle roads
-Date / place: After Munda · debris roads / stacked shields
-Canon refs: A2 · FS11
-Info ENTER: Labienus finished; Sextus slipped · EXIT: Sea shrug; donative before boots dry
-Overhear risk: Low–Medium
-
----
-
-After the field stank of ending, iron and shit and the sweet wrongness of opened bodies, word ran that one Pompeian name was finished and another had slipped somehow. The finished one was Labienus. The older men said the name with something close to respect: ten years at Caesar’s right hand in Gaul, then at Pompey’s through the whole war, every trick the general owned and half of them his own invention. Caesar had once trusted him with an army. Now he lay face down in the barley with the others.
-
-The one who slipped was Sextus, the younger son. Escape stories always arrived cleaner than escapes.
-
-An optio spat. “Someone’s always left for the sea.”
-
-Laberius was already thinking of pay and whether the colony rumours were lies. “Let clerks name the fish. I want the donative dated before my boots dry.”
-
-He stacked shields until his forearms hummed. A boy from another century vomited behind a cart and pretended it was dust. Someone sang half a victory and lost the tune. Flies had already found the work. A staff man arrived late with Rome’s easy-win story dressed as fact: mopping finished; Spain settled. Somebody said his name was Sextilius and that he had come out with Caesar’s people from Rome. He had clean sandals.
-
-“Rome is already building the triumph,” Sextilius said, brightly. “They’ll call it a Spanish triumph, naturally. One cannot triumph over Romans.”
-
-“Naturally,” said Vibius. “And what do they call us, when we’ve killed thousands of them?”
-
-“The grateful army.”
-
-Laberius put on the grateful face. He took the water. He nodded like a man in a painting. “Grateful for the clarity,” he said.
-
-When Sextilius’s clean sandals had gone, Laberius spat pink and found Vibius and Gaius still within grumbling range. “Settled,” he said. “My boots disagree. Tell Rome the mopping asked for a donative before it dried. Tell them Capua if they’re feeling generous. Tell them nothing if they only want statues.”
-
-Vibius’s mouth twitched. “You’ll get a statue that owes you pay.”
-
-Gaius laughed once, short, then winced. Laughing pulled a stitch. “Statue first. Colony later. Same as always.”
-
-Vibius asked if Sextus mattered. Laberius answered with the only theology he owned: “If he can pay men, he matters. If he can’t, the sea can keep him.”
-
-“Pompey’s boy,” said Gaius. “He’ll pay men. They always find a man with his father’s name and a ship.”
-
-“Then Rome will have another spring,” Laberius said, “and we will have another set of knees to complain about.”
-
-Someone claimed Caesar had nearly broken. Someone else claimed Caesar had never blinked. Laberius trusted neither story enough to repeat it. He trusted the ache in his shoulders. He trusted that paydays survived speeches. Rome’s easy story would outrun any truth about mud.
-
-He didn’t follow the escape. Following was for cavalry and fools. He followed the next order: water, then sleep that wouldn’t come clean.
+“Settled,” Laberius said, when the sandals had gone. “Tell Rome the mopping wants its donative dated before my boots dry. Tell them Capua if they’re feeling generous.”
 
 ---
 
@@ -204,4 +162,4 @@ Decimus fell into step. He didn’t know the wax. He knew the chin-tip. The road
 - **Knows / learns:** Munda’s body cost (Laberius); in Rome it is an easy win, heard late and wrong. Labienus is dead; Sextus Pompey gets to sea. Servilia is Brutus’s mother and Caesar’s longest love; Porcia is Cato’s daughter. Brutus remembers being spared after Pharsalus. Decimus’s Gaul is his own record (the ships against the Veneti, Massilia); Cisalpine and Mutina are named. Queen, Caesarion and Transtiberim are still portico gossip. The will rumour is in a laugher’s mouth.
 - **Plants → pays:** Brutus burns a different, late-45 dinner invitation (not Ch 1’s); the ancestors as his boyhood recitation; Decimus’s chin-tip, ditch timing and road trust (Ch 14); Mutina (Ch 20, 27); Decimus as second heir (Ch 18); FS05, FS21.
 - **Must not:** no Cleopatra POV.
-- **Decisions:** 2026-10-23: ancestors as Brutus’s recitation, Gaul in Decimus’s own record, will rumour in the laugher’s mouth (tightening pass).
+- **Decisions:** 2026-11-07 (storyboard fix 7): SC-06 “Sextus Slips” folded into the end of SC-05 (Labienus, Sextus to sea, Sextilius’s clean sandals, donative before boots dry). 2026-10-23: ancestors as Brutus’s recitation, Gaul in Decimus’s own record, will rumour in the laugher’s mouth (tightening pass).

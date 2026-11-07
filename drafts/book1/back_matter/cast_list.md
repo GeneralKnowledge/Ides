@@ -26,6 +26,7 @@
 - **Lucius Minucius Basilus**
 - **Marcus Favonius**, Cato’s shadow, who was not asked
 - **Statilius**, the Epicurean, who was not asked either
+- **Antistius Labeo**, who was asked
 - **Strato** of Aegae and **Publius Volumnius**, Brutus’s friends
 - **Quintus Horatius Flaccus**, the poet Horace, who joins Brutus at Athens
 - **Pindarus**, Cassius’s freedman; **Titinius**, his friend
