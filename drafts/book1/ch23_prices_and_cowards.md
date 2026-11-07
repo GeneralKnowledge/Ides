@@ -1,40 +1,6 @@
 # Chapter 23: Prices and Cowards
 
-**Scenes:** SC-64, SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
-
----
-
-# SC-64: Laws for Sale
-
-POV: F4 Hordeonius · basilica / Puteoli paper
-Date / place: Rome stalls · TONE-1 Batiatus medium
-Canon refs: *Att.* 14.12 flavour · SIDE-1 · C9
-Info ENTER: Chaos premiums · EXIT: Citizenship/land “acts” priced; SIDE-1 murmur useless
-Overhear risk: Medium
-
----
-
-Hordeonius arranged his face into mourning for the Republic and his stylus into appetite.
-
-“Caesar’s acts,” he told a man from Puteoli, “are a market now. A sacred market. Do not blaspheme ready coin.”
-
-Citizenship shortcuts, land whispers, exemptions with seals that looked tired: each had a number. Sosia muttered that forged acts smelled like wet leather.
-
-“Who says what’s in Caesar’s papers?” the Puteoli man asked.
-
-“The man whose house they’re in,” Hordeonius said.
-
-“Antony’s,” Sosia said. “The widow sent the chests over the night of the Ides, notebooks and money both. Safer with the consul, she was told.”
-
-“The whole of Sicily got made Roman off one posting last month,” the Puteoli man said. “Every farmer on the island. Caesar meant it, apparently. Nobody heard him say so.”
-
-“Wholesale,” Hordeonius said. “You’re retail. An eastern king bought his kingdom back in Fulvia’s sitting-room. You want a harbour exemption. Adjust your expectations and your purse.”
-
-“Young Caesar” changed land risk, the Puteoli man insisted. Sosia said only veterans changed land risk. The Puteoli man wiped his brow. “You weigh a dead man like a sack of grain.”
-
-Hordeonius’s stylus paused, then kept writing. “Then don’t mourn on my stool.”
-
-He entered *boy-Caesar rumour: watch veterans* in a margin.
+**Scenes:** SC-65, SC-66 · spring–summer 44 · SIDE-1 OPEN-0
 
 ---
 
@@ -133,8 +99,8 @@ In the morning he gave it to a carrier going south and went back to his garden, 
 ---
 
 ## Continuity
-- **Knows / learns:** at the stalls: who says what is in Caesar’s papers; the widow sent notebooks and money to Antony’s house on the night of the Ides; Sicily made Roman off one posting (*Att.* 14.12); an eastern king bought back in Fulvia’s sitting room (Deiotarus, unnamed); Antium is Brutus’s sea house, with Servilia’s clerks moved in. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Statilius keeps his name off the open declaration for the Liberators at a dinner (“Ask me when it costs something”); men who cheered in March already at Antony’s reception (*Att.* 14.14); he writes to Brutus at Lanuvium as a friend, not a signer (plants Ch 37 SC-93 torch).
+- **Knows / learns:** Antium is Brutus’s sea house, with Servilia’s clerks moved in. The Domus empties: the house goes with the priesthood, the priesthood to Lepidus, Antony holding the ladder; Nysa carried the first chests on the Ides night; her want for a cracked oil flask fails to the steward’s kindness (D8). Statilius keeps his name off the open declaration for the Liberators at a dinner (“Ask me when it costs something”); men who cheered in March already at Antony’s reception (*Att.* 14.14); he writes to Brutus at Lanuvium as a friend, not a signer (plants Ch 37 SC-93 torch).
 - **Nysa’s errand:** she takes a receipt to the Carinae (Pompey’s old house, bought at Caesar’s auction, never paid for), takes the “stay attached” offer, learns the bow on the spot and serves in Antony’s kitchen (Calpurnia’s women already chosen; the Domus to Lepidus; Subura rent).
 - **Plants → pays:** Antium (Ch 24); Statilius’s letter (Ch 37); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 32 lists).
 - **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7).
-- **Decisions:** 2026-10-23 (Reuben, T9/T11): Nysa moves to Antony’s kitchen.
+- **Decisions:** 2026-11-07 (storyboard fix 10): SC-64 “Laws for Sale” cut; Ch 21’s courier carries the forged acts, SC-65 the chests to Antony. 2026-10-23 (Reuben, T9/T11): Nysa moves to Antony’s kitchen.
