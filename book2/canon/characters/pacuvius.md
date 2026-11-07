@@ -6,10 +6,10 @@
 
 | Fact | Source | Check |
 |---|---|---|
-| A Capuan noble who was also popular with the people; married into the Roman Claudii; his daughter married to a Livius at Rome | Liv. 23.2.6 | to check |
+| A Capuan noble who was also popular with the people; had children by a daughter of Ap. Claudius, and gave his own daughter in marriage to M. Livius at Rome | Liv. 23.2 | text |
 | Shuts the Capuan senate in its house and makes himself its saviour from the mob, binding the senators to him (217–216) | Liv. 23.2–4 | text |
 | Capua goes over to Hannibal after Cannae, 216 | Liv. 23.6–7 | text |
-| Hannibal dines in Capua; Pacuvius's son plans to kill him at dinner and Pacuvius talks him out of it (Livy calls the son "Calavius filius"; the name Perolla is to check) | Liv. 23.8–9 | text |
+| Hannibal dines in Capua; Pacuvius's son plans to kill him at dinner and Pacuvius talks him out of it (Livy gives the son no personal name; "Perolla" is later tradition and is not used) | Liv. 23.8–9 | text |
 | Decius Magius, who argues against Hannibal, is put on a ship for Carthage; it is driven to Cyrene, and Ptolemy frees him at Alexandria | Liv. 23.7, 23.10 | text |
 | Nothing known after 216; not named at Capua's fall in 211 | Liv. 26.13–16 | to check |
 

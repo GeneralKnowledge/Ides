@@ -6,11 +6,11 @@
 
 | Fact | Source | Check |
 |---|---|---|
-| Son of Himilco; at the siege of Saguntum, 219 | Liv. 21.12.1 | to check |
+| Son of Himilco; Hannibal puts him in charge of the siege of Saguntum when he leaves it, 219 | Liv. 21.12 | text |
 | Sent ahead with 500 Numidian horse before the Ticinus | Liv. 21.45.2 | to check |
 | Takes the surrender of about 6,000 Romans after Trasimene, on condition their lives are spared | Pol. 3.84 | text |
 | Hannibal says he had no power to grant terms | Pol. 3.85 | to check |
-| Destroys the 4,000 horse of C. Centenius sent to the consul Servilius, 217 | Pol. 3.86; Liv. 22.8 | to check |
+| The 4,000 horse sent by the consul Servilius under C. Centenius are surrounded and destroyed, 217 (Maharbal's part: Pol. 3.86, to check) | Liv. 22.8 | text |
 | At Cannae; Livy gives him a wing (see note) | Liv. 22.46 | to check |
 | After Cannae: "You know how to win; you do not know how to use a win" | Liv. 22.51.1–4 | to check |
 | Nothing certain after 216; age and death unknown | | |

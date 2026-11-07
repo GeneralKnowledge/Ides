@@ -46,5 +46,5 @@ His whole life, inside the legions' record. **Limit:** he may not witness a reco
 
 Decided 7 November 2026.
 
-- **Home region:** Latium, on a farm near the Via Latina, the road Hannibal takes towards Rome in 211 (Liv. 26.8–9, to check). He hears of it in Sicily, months late.
+- **Home region:** Latium, on a farm near the Via Latina, the road Hannibal takes towards Rome in 211 (Liv. 26.8–9, text: he camps at Pupinia, eight miles from Rome). He hears of it in Sicily, months late.
 - **Name:** chosen at the storyboard and checked against [names](../names.md).

@@ -42,7 +42,7 @@ Short entries for everyone who carries a scene without being a POV. Handles foll
 
 **The women of Rome.** The Oppian law, carried by the tribune C. Oppius in the consulship of Fabius and Ti. Sempronius (215): no woman to own more than half an ounce of gold, wear dyed clothes or ride in a carriage in the city (Liv. 34.1; text). The two mothers at the gate after Trasimene (Liv. 22.7; text).
 
-**Pacuvius's son (Perolla in later tradition).** Plans to kill Hannibal at dinner in Capua; his father talks him out of it (Liv. 23.8–9; text; Livy's text here calls him "Calavius filius", so the name Perolla is to check).
+**Pacuvius's son.** Plans to kill Hannibal at dinner in Capua; his father talks him out of it (Liv. 23.8–9; text). Livy gives him no personal name, so the book calls him "young Calavius"; the later name Perolla is not used.
 
 **Decius Magius.** Capuan who argues against Hannibal; put on a ship for Carthage, driven to Cyrene, freed by Ptolemy at Alexandria (Liv. 23.7, 23.10; text).
 

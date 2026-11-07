@@ -1,0 +1,68 @@
+id	act	date	place	pov	scene	what_changes	reader_knows_by_end	words	depends_on	sources
+I-01	I	218-10	Alpine descent; Taurini	SIL	The descent from the snow; the army counted; the Taurini's town taken	Silenus starts writing a history he thought would be a triumph	Hannibal brought perhaps 26,000 men out of the mountains; Silenus is with him to write the war; Hannibal is seen only from outside	2200		Pol. 3.54-56, 3.60
+I-02	I	218-11	near the Po (Ticinus)	SCI	The cavalry fight; the consul wounded; his son rides back for him	Scipio is hailed by his father and learns what Numidian horse can do	The boy is seventeen; Rome's first fight in Italy is lost; a voice says a slave saved the consul	1600		Pol. 10.3; Liv. 21.46
+I-03	I	218-12	Trebia, Carthaginian side	MAH	Numidians bait the Romans across the freezing river; Mago waits in the stream bed	Maharbal sees the method that will win every battle	How Hannibal's cavalry and ambush work; the Romans come out unfed	1500	I-01	Pol. 3.71-74
+I-04	I	218-12	Trebia, Roman ranks; Placentia	SOL	Wading the river at dawn; the centre breaks through and walks to Placentia	The soldier survives a defeat by pushing forward	The ranker's view: cold, hunger, the elephants; 10,000 break through	1500	I-03	Pol. 3.72-74
+I-04b	I	218-12	Placentia	SCI	The wounded consul and his son hear the Trebia army come in	Scipio sees his father beaten twice and still giving orders	Placentia holds; the Gauls go over to Hannibal	1200	I-02, I-04	Pol. 3.74-75 (to check)
+I-05	I	217-03	Carthage	HAN	The council hears of the Trebia; Hanno asks what it costs	Hanno sets himself against the celebrating council	Carthage at home: the Barcid faction and Hanno's peace party; news arrives months late	1300		Liv. 21.3, 21.10 (background)
+I-06	I	217-03	Rome	VAR	Rome after the Trebia; the people elect Flaminius consul	Varro sees the Assembly's anger is a weapon	Varro is a popular man in a Senate of nobles	1300		invention inside the record
+I-07	I	217-04	Arno marshes	SIL	Four days in floodwater; Hannibal rides the last elephant and loses an eye	Silenus stops writing heroics	The cost of speed; Hannibal is half-blind	1400	I-01	Pol. 3.79; Liv. 22.2 (to check)
+I-08	I	217-06	Lake Trasimene	MAH	The mist; the trap; 6,000 surrender to Maharbal on terms; Hannibal says he had no power to give them	The first crack between Maharbal and Hannibal	Flaminius is dead; Hannibal breaks Maharbal's word	2200	I-03	Pol. 3.84-85; Liv. 22.4-6
+I-09	I	217-06	Rome	FAB	The news in the Forum; mothers at the gate; Fabius named dictator	Fabius gets power and decides not to fight	Fabius's strategy: deny battle and food	1600	I-08	Liv. 22.7-8; Pol. 3.87
+I-11	I	217-09	Ager Falernus	FAB	Hannibal boxed in; the oxen with burning horns; the pass is lost	Fabius is outwitted and still will not fight	Rome mocks Fabius; Hannibal spared his farm	1800	I-09	Pol. 3.93-94; Liv. 22.16-17
+I-12	I	217-10	Rome	VAR	Varro speaks for giving Minucius equal command	Varro moves from crowd to policy	The people overrule the dictator	1300	I-11	Liv. 22.25-27
+I-13	I	217-autumn	Gerunium	SOL	Minucius's half-army trapped on the hill; Fabius's men come over the ridge	The soldier owes his life to the slow man	Minucius calls Fabius father	1400	I-12	Pol. 3.103-105; Liv. 22.28-30
+I-14	I	216-01	Hannibal's winter camp, Gerunium	SIL	Sosylus and Silenus; the camp tells Hannibal's dream; hunger	Silenus sees the army needs a big win soon	The dream story (Silenus's own); Hannibal must have battle	1200	I-07	Cic. Div. 1.49
+I-14b	I	216-02	Carthage	HAN	Trasimene celebrated; the council votes thanks and almost nothing else	Hanno sees the Barcids winning the argument without paying for it	Carthage is rich and stingy; Hanno warns the war will ask for more	1200	I-05	invention inside the record
+I-15	I	216-03	Rome	VAR	Varro elected consul against the nobles; Paullus his colleague	Varro has the army he asked for	Eight legions; two consuls who disagree	1500	I-12	Pol. 3.106; Liv. 22.34-35 (to check)
+I-10	I	216-04	Capua	PAC	After the Trebia and Trasimene, Pacuvius locks the Capuan senate in its house and saves it from the mob	Pacuvius owns the senators before Rome needs them	Capua's politics; his Roman marriages; Hannibal is burning the next valley	1500		Liv. 23.2-4
+II-01	II	216-06	Cannae depot	MAH	The horse take the citadel and grain at Cannae at harvest	Maharbal sees the open plain he wants	Where Cannae is; Rome must answer	1000	I-14	Pol. 3.107 (to check)
+II-02	II	216-07	Roman camp on the Aufidus	SCI	Tribune Scipio between consuls who command on alternate days	Scipio learns the army has two minds	The alternate-day command; Paullus's doubts	1400	I-15	Pol. 3.110 (to check)
+II-03	II	216-08-02	Roman camp, dawn	VAR	Varro's day; the red cloak out at dawn; the line forms	Varro commits	The Roman plan: a deep centre to break Hannibal's	1400	II-02	Pol. 3.113 (to check)
+II-04	II	216-08-02	Cannae, the Roman centre	SOL	The centre pushes, the crescent gives, the line closes round	The soldier lives inside the encirclement	The shape of the battle from inside; the slaughter	2600	II-03	Pol. 3.113-117 (to check)
+II-05	II	216-08-02	Cannae, the horse	MAH	The Roman horse broken; the Numidians in the rear	Maharbal's arm wins the day	How it was won; Paullus down	1500	II-04	Pol. 3.115-116 (to check)
+II-06	II	216-08-02	Road to Venusia	VAR	Varro rides off the field with a handful of horse	The consul survives the army	Paullus is dead; Varro chose to live	1000	II-04	Pol. 3.116; Liv. 22.49 (to check)
+II-07	II	216-08-03	The field, morning	MAH	"Among the dead; ""you know how to win, not how to use a win"""	Maharbal is refused	The protected question: why not march on Rome	1800	II-05	Liv. 22.51 (to check)
+II-07b	II	216-08-03	The field, evening	SIL	The gold rings taken from the dead knights, counted by the measure	Silenus writes the number and does not believe it	The scale of the loss; the rings Mago will carry home	1200	II-07	Liv. 23.12 (rings)
+II-08	II	216-08	Canusium	SCI	Busa feeds the survivors; Scipio draws his sword on Metellus's plan to leave Italy	Scipio becomes a leader at nineteen	The army is not finished; Busa	1600	II-04	Liv. 22.52-54 (to check)
+II-08b	II	216-08	Venusia	PAC	Capuan envoys come to the beaten consul at Venusia	Pacuvius judges Rome by Varro and makes up his mind	Capua weighs its choice; Varro asks for help and gets an excuse	1200	II-06, I-10	Liv. 23.4-6 (to check)
+II-09	II	216-08	Rome	FAB	The city after Cannae: guards on the gates, the Vestals, the burial alive in the Forum Boarium	Fabius holds the city together and is proved right	Rome's fear and its answer	1600	II-06	Liv. 22.55-57 (to check)
+II-10	II	216-09	Rome	VAR	The Senate refuses to ransom the prisoners; Varro comes home and is thanked	Varro is spared and cannot forgive himself	Rome will not negotiate	1500	II-09	Pol. 6.58; Liv. 22.58-61 (to check)
+II-11	II	216-autumn	Capua	PAC	Capua goes over; Hannibal at dinner; Pacuvius talks his son out of the knife	Pacuvius chooses Hannibal and saves his life	Capua's terms; Decius Magius sent away	2000	I-10, II-07	Liv. 23.2-10
+II-12	II	216-autumn	Carthage	HAN	Mago's rings poured out in the senate porch; Hanno's reply	Hanno loses the vote and says why	Carthage sends little to Italy	1600	II-07	Liv. 23.11-13
+III-01	III	215-spring	Sicily	SOL	The Cannae men shipped to Sicily in disgrace	The soldier is exiled for surviving	They serve there while the war is in Italy	1400	II-10	Liv. 23.25
+III-02	III	215	Rome	FAB	Consul again; the Oppian law; the women give up their gold	Fabius sees what the war costs at home	The war economy; women's part	1200	II-09	Liv. 34.1
+III-03	III	215	Carthage	HAN	The council sends Mago to Spain, not Italy; Philip of Macedon's treaty	Hanno wins by not losing	Carthage's other wars; Hannibal starved of men	1500	II-12	Liv. 23.13, 23.32; Pol. 7.9
+III-04	III	215	Capua; Nola	PAC	Hannibal's winter in Capua; Nola holds out under Marcellus	Pacuvius's bargain starts to cost	Capua is now the front line	1600	II-11	Liv. 23.14-18 (to check)
+III-05	III	215	Picenum	VAR	Varro raising men in Picenum	Varro works without honour	Rome keeps raising legions	1200	II-10	Liv. 23.32 (to check)
+III-06	III	214	Hannibal's camp, Apulia	SIL	Castulo, his wife's city, goes over to Rome; Hannibal's silence	Silenus sees the general's private loss from outside	Spain is slipping	1200	I-14	Liv. 24.41
+III-07	III	213	Rome	SCI	Scipio stands for aedile though under age	Scipio learns the people	His ambition and charm	1300	II-08	Liv. 25.2 (to check)
+III-08	III	213	Suessula	FAB	The consul, his son, makes his father dismount	Fabius is proud and old	Rome's discipline	1200	III-02	Liv. 24.44 (to check)
+III-08b	III	213	Hannibal's camp near Tarentum	SIL	The long wait outside Tarentum; envoys from Macedon that bring nothing	Silenus sees the war turning into waiting	Philip will not come; Hannibal needs a port	1200	III-06	Pol. 7.9 (background)
+III-09	III	213	Syracuse	SOL	The siege; Archimedes' engines seen from the ranks	The soldier sees a war of machines	Syracuse went over; Marcellus	1900	III-01	Liv. 24.33-34 (to check)
+III-10	III	212-spring	Sicily, winter quarters	SOL	The Cannae men send envoys to Marcellus asking to fight	Refused Italy again	Their disgrace is policy	1300	III-09	Liv. 25.5-7
+III-11	III	212	Tarentum	MAH	Tarentum opened by night; the citadel holds	Maharbal sees a city won and not held	Hannibal's need for ports	1500	II-07	Pol. 8.24-34; Liv. 25.7-11 (to check)
+III-12	III	212-autumn	Syracuse	SOL	The city falls; a soldier kills an old man drawing in the dust	The soldier hears what happened and is sickened	Archimedes is dead	1400	III-10	Liv. 25.31
+III-13	III	212	Carthage	HAN	The fleet for Syracuse sent too late	Hanno right again and no happier	Carthage cannot hold Sicily	1400	III-03	to check
+III-14	III	211-spring	Capua, besieged	PAC	Capua under siege writes to Hannibal	Pacuvius waits for rescue	Rome has surrounded Capua	1700	III-04	Liv. 26.1-6 (to check)
+III-15	III	211	Before Rome	MAH	Hannibal camps forty stades from Rome; Maharbal looks at the walls	The march he wanted, five years late	Rome does not recall the Capua army	1600	II-07	Pol. 9.5-7; Liv. 26.7-11
+III-16	III	211	Rome	FAB	Hannibal at the gate; the ground he camps on sold at full price	Fabius's patience wins	Rome is not afraid any more	1500	III-15	Liv. 26.11
+III-16b	III	211	Rome, the walls	VAR	Varro on the walls looking at Hannibal's fires at Pupinia	Varro sees the man he lost to, eight miles off, and is not afraid	Hannibal cannot take Rome and turns back	1200	III-15	Liv. 26.9-11
+III-17	III	211	Rome	SCI	News that his father and uncle are dead in Spain	Scipio decides to go	Spain is nearly lost	1300	III-07	Liv. 25.32-36 (to check)
+III-18	III	211	Capua	PAC	Capua falls; Vibius Virrius's last dinner; the senators executed	Pacuvius survives his city	What Rome does to cities that leave	2200	III-14	Liv. 26.13-16 (to check)
+III-19	III	211-autumn	Hannibal's camp, Bruttium	SIL	News that Capua has fallen; the Capuans who come to the camp and are not received	Silenus understands that Italy has watched what happens to Hannibal's friends	Italy's other cities will not follow Capua	1200	III-18	invention inside the record
+IV-01	IV	210	Rome	SCI	Elected to the Spanish command at twenty-four	Scipio has an army	He is young and a private citizen	1500	III-17	Liv. 26.18
+IV-02	IV	210	Rome	VAR	Varro in the Senate as Scipio is chosen	Varro sees a young noble get what he never did	The war's new men	1100	III-05	invention inside the record
+IV-02b	IV	210	Sicily	SOL	The Cannae men fight on in Sicily; Italy still forbidden	The soldier stops hoping to go home	Sicily is won for Rome by the men it disowned	1300	III-12	Liv. 26.1; 26.40 (to check)
+IV-03	IV	209	New Carthage	SCI	The march; the lagoon ebbs; Neptune; the city taken	Scipio's first victory	New Carthage, the hostages, Silenus's figure	2400	IV-01	Pol. 10.9-15; Liv. 26.42-46
+IV-04	IV	209	New Carthage	SCI	The captive girl given back	Scipio performs restraint	Two versions of the story	900	IV-03	Pol. 10.19; Liv. 26.50
+IV-05	IV	209	Carthage	HAN	News of New Carthage	Hanno's fear comes true	The Barcid base is gone	1100	III-13	to check
+IV-06	IV	209	Tarentum	FAB	The Bruttian commander, the woman and her brother; Tarentum retaken	Fabius wins by patience and a love affair	Hannibal loses his port	2100	III-16	Liv. 27.15-16
+IV-07	IV	209	Hannibal's camp	SIL	Tarentum lost; Maharbal no longer at the fire	Silenus counts who is gone	The army is ageing	1500	III-15	invention inside the record
+IV-08	IV	208	Baecula	SCI	Hasdrubal slips away with money and elephants; the Spaniards hail Scipio king	Scipio refuses a crown and lets Hasdrubal go	Hasdrubal is heading for Italy	1700	IV-03	Pol. 10.38-40
+IV-09	IV	208	Near Venusia	SIL	Marcellus killed in an ambush	Silenus sees Hannibal honour a dead enemy	Rome's best fighting general is dead	1500	IV-07	Pol. 10.32; Liv. 27.26-27
+IV-10	IV	208	Sicily	SOL	News that Marcellus is dead	The soldier loses his advocate	Still barred from Italy	1200	III-12	invention inside the record
+IV-11	IV	207	Carthage	HAN	Word that Hasdrubal has crossed the Alps	Hanno hopes for the first time	The brother is coming	1000	IV-05	to check
+IV-12	IV	207	Rome	FAB	Hasdrubal's letters intercepted; Nero leaves his army and marches north; the Senate waits	Fabius fears a gamble he did not make	The race north	1700	IV-06	Liv. 27.43-45 (to check)
+IV-13	IV	207	Etruria	VAR	Varro holding the Etruscans quiet; riders with the news of the Metaurus	The man blamed for Cannae hears the war turn	Hasdrubal dead; Nero heading back	1700	IV-12	Liv. 27.35, 27.46-50 (to check)
+IV-14	IV	207	Hannibal's camp, Apulia	SIL	A head thrown before the outposts	Silenus sees Hannibal recognise the fortune of Carthage	The ending image	2400	IV-13	Liv. 27.51 (to check)

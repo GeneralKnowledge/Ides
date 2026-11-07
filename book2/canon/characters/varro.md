@@ -6,8 +6,8 @@
 
 | Fact | Source | Check |
 |---|---|---|
-| Of humble family; Livy says his father was a butcher who sold his own meat | Liv. 22.25.18–19 | to check |
-| Praetor 218 | Liv. 22.25.18 | to check |
+| Of humble family; Livy says his father is said to have been a butcher and Varro himself a goods agent in his father's trade | Liv. 22.25 | text |
+| Praetor 218 ("the year before" his speech for Minucius) | Liv. 22.25 | text |
 | Speaks for the bill giving Minucius equal command with Fabius, 217 | Liv. 22.25–27 | to check (the bill itself: text, 22.27) |
 | Consul 216 with L. Aemilius Paullus, elected against noble opposition | Pol. 3.106; Liv. 22.34–35 | to check |
 | Commands on the day of Cannae; escapes with a handful of horsemen to Venusia (numbers differ between Polybius and Livy) | Pol. 3.113, 3.116; Liv. 22.49 | to check |
