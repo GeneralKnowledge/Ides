@@ -134,7 +134,7 @@ This was not the road and the reeds. It was ploughland cut into ditches, Antony�
 
 “Second fight,” Vibius said, “and this one’s at his door.”
 
-Laberius’s world narrowed to mud and which eagle still stood.
+Laberius’s world narrowed to mud and which standard still stood.
 
 In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming. Martians refusing to be held. Someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out of the palisade hard. Hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius didn’t see strategy. He saw a standard tilt. He saw Gaius open at the neck. Blood mixed with meltwater and ran pink off the rim of his shield.
 
@@ -144,7 +144,7 @@ Yell-rumours arrived before facts. Someone claimed a consul down. Someone claime
 
 That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. Vibius had run beside a litter a week ago and seen a curtain. Nobody had a shoulder.
 
-Near dusk Antony’s near line pulled back toward the higher ground. Not a rout Laberius could swear to. Only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know. Finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had an eagle. And a gap where a friend had been.
+Near dusk Antony’s near line pulled back toward the higher ground. Not a rout Laberius could swear to. Only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know. Finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had its standard. And a gap where a friend had been.
 
 Water ran into his boots. He had stopped noticing wet hours ago; noticing returned when the fighting thinned and the cold found room. Vibius pointed at Mutina’s wall, still closed. “Town’s still his,” Vibius said, meaning Decimus. Laberius grunted. Walls didn’t feed the ditch.
 

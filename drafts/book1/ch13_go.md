@@ -176,7 +176,7 @@ Porcia was awake when he came in. She sat in the small room off the atrium with 
 
 “You have been with Cassius,” she said.
 
-He did not answer. It had been his own rule, made to Cassius at the Lupercalia: Porcia was not to know. He had kept it through February with a care that had felt like loyalty and had been, he understood now, looking at her, mostly cowardice.
+He did not answer. It had been his own rule, made to Cassius after the Lupercalia: Porcia was not to know. He had kept it through February with a care that had felt like loyalty and had been, he understood now, looking at her, mostly cowardice.
 
 Porcia stood. She took the hem of her robe in one hand and drew it up above the knee, and turned a little toward the lamp, so he could see.
 

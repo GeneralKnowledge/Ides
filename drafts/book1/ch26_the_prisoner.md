@@ -42,7 +42,7 @@ Brutus had read some of those letters to the son. Half of Rome had. The father s
 
 Brutus took the hand before he had decided to. That was how it went, that autumn. The young men of the schools came to him one at a time, sons of senators sent to Athens to be finished, who had heard about the Ides in a lecture hall and felt they had missed it. They came to him under the plane trees with their tablets and their good Greek and their fathers’ money running short, and asked for a command. He gave them commands. There were not many Romans in Athens, and those there were had been trained from birth to hold a sword and a law in the same hand.
 
-One of them asked for nothing. Statilius came in October, with the dust of the Piraeus road on him and no letter, because he had never needed one at Brutus’s table, and sat at the back of Theomnestus’s lectures as if those were what he had crossed the sea for. When Brutus asked what command he wanted he said none. He had come because a friend was here and he was not doing anything else. He took the couch nearest the door at dinner and argued with everyone, and he did not once mention February.
+One of them asked for nothing. Statilius came in October, with the dust of the Piraeus road on him and no letter, because he had never needed one at Brutus’s table, and sat at the back of Theomnestus’s lectures as if those were what he had crossed the sea for. When Brutus asked what command he wanted he said none. He had come because a friend was here and he was not doing anything else. He took the couch nearest the door at dinner and argued with everyone, and he did not once mention that dinner.
 
 The last one he took was not a senator’s son.
 

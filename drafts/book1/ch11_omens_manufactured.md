@@ -35,7 +35,7 @@ Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. T
 
 Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb.
 
-Phileros passed through the court and sniffed, the steward’s keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
+Phileros passed through the court and sniffed, the outer keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
 
 “Mats don’t beware,” Dama muttered, just soft enough.
 

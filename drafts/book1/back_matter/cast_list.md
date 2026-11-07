@@ -106,8 +106,8 @@
 - **Sextilius**†, **Aebutius**†, **Tettius**†, guests
 
 ## The soldier’s world
-- **Sextus Laberius Cordus**†, legionary, Munda to Philippi
+- **Sextus Laberius Cordus**†, centurion, Munda to Philippi
 - **Vibius**†, his optio
-- **Gaius of the split sandal**†, his tent-mate
+- **Gaius of the split sandal**†, of his century
 - **Rufrius**†, of the Second legion
 - **Gnaeus Aulius**†, who farms the plot at Capua

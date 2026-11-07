@@ -35,7 +35,7 @@ Decimus’s first answer was not yes. “Find another man he trusts.”
 
 “Strangers do not know which door the litter uses.”
 
-A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s chin-tip from yesterday: Campus, before the light goes dishonest. He hated how ordinary the memory was.
+A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s chin-tip: Campus, before the light goes dishonest. He hated how ordinary the memory was.
 
 “If I bring him,” Decimus said at last, “you finish clean. No massacre. No Antony first, unless you have already decided otherwise.”
 
