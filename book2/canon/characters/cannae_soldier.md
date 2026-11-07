@@ -8,7 +8,7 @@ No real survivor of the ranks is named. Only an invented man can stand in the li
 
 ## Name
 
-To be chosen at the storyboard, and checked against [names](../names.md) so it clashes with no real man of the period. Avoid Pomponius, Fulvius, Claudius, Sempronius, Livius, Fabius and Cornelius.
+**Lucius Vettius**, called Vettius. Chosen 7 November 2026. No Vettius is named in the record of this war, and the name clashes with nothing in [names](../names.md) or in Book 1.
 
 ## The record he must follow
 
@@ -47,4 +47,4 @@ His whole life, inside the legions' record. **Limit:** he may not witness a reco
 Decided 7 November 2026.
 
 - **Home region:** Latium, on a farm near the Via Latina, the road Hannibal takes towards Rome in 211 (Liv. 26.8–9, text: he camps at Pupinia, eight miles from Rome). He hears of it in Sicily, months late.
-- **Name:** chosen at the storyboard and checked against [names](../names.md).
+- **Name:** Lucius Vettius (see Name).

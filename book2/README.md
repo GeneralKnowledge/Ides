@@ -10,8 +10,8 @@ The method is the one in [Book 2 plan: lessons from Ides](https://claude.ai/arti
 |---|---|---|
 | 1 | [Book contract](CONTRACT.md) | Merged (#203) |
 | 2 | Canon pack: [chronology](canon/chronology.md), [character sheets](canon/characters/README.md), [names](canon/names.md), [places](canon/places.md) | Merged (#203); Cannae and Metaurus passages still to check by hand |
-| 3 | [Storyboard](storyboard/README.md) and reader questionnaire | Storyboard first version (67 scenes), awaiting Reuben's pick of fixes |
-| 4 | Voice pilot (two chapters) | Not started |
+| 3 | [Storyboard](storyboard/README.md) and reader questionnaire | Storyboard v1.1 (68 scenes) merged; fixes settled 7 Nov; questionnaire still to write |
+| 4 | [Voice pilot](pilot/README.md) (two scenes) | Written, awaiting Reuben's read |
 | 5 | Draft by act | Not started |
 | 6 | Readers and freeze | Not started |
 
@@ -34,3 +34,4 @@ One line per change.
 - 2026-11-07: Folder created. Contract drafted under Reuben's four decisions (Alps to Metaurus; Hannibal from outside; 100,000 words; this folder). Chronology, POV character sheets, major figures and names list drafted; first source check against Polybius and Livy.
 - 2026-11-07: POV open questions settled on the recommended answers (Reuben: "go with what makes most sense"): Varro gets an Etruria scene in 207; Fabius's toga story is hearsay; Ticinus told straight; Maharbal fades after Act III; Silenus sees the head; Pacuvius runs to Capua's fall; the soldier farms near the Via Latina.
 - 2026-11-07: Places and travel times added. Second source pass confirmed Liv. 21.12, 22.8, 22.25, 23.2, 26.8–9; Perolla dropped. Storyboard v1: 67 scenes, ~100k words, Cannae at 28%; storyboard check script.
+- 2026-11-07: Storyboard fix 1 made (I-15b, Fabius warns Paullus); soldier named Lucius Vettius. Voice pilot written: I-04 The River (Trebia, Vettius) and II-12 Rings (Carthage, Hanno).
