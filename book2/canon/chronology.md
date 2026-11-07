@@ -106,4 +106,6 @@ Abbreviations: Pol. = Polybius, *Histories*; Liv. = Livy, *Ab Urbe Condita*.
 
 Run on 7 November 2026. Polybius was read in Paton's translation (LacusCurtius, Books 3.1–63, 6, 7, 9, 10, 11) and Shuckburgh's (Perseus, chapters of Book 3 after 63); Livy in the Latin text at the Latin Library; Gellius, Ovid, Cicero and Nepos in Latin at the Latin Library.
 
-**Not yet reached:** Polybius 3.79, 3.85–86 and 3.106–117 (Cannae), and Livy 22.46–61 (Cannae and after) and 27.39–51 (Metaurus and the head). The online copies tried were too long to read past the middle or refused automated access. Every line that depends on them is marked **to check**. They need checking from a printed or downloadable text before the storyboard uses them; the canon check script's `--strict` mode fails until they are done.
+Two further passes (7 November) confirmed Liv. 21.12, 22.25, 22.8 (Centenius), 23.2 and 26.8–9; the Perolla name is not in Livy and is dropped.
+
+**Not yet reached:** Polybius 3.79, 3.85–86 and 3.106–117 (Cannae), and Livy 22.46–61 (Cannae and after) and 27.39–51 (Metaurus and the head). The online copies tried were too long to read past the middle or refused automated access. Every line that depends on them is marked **to check**. Gutenberg, Wikisource and Perseus all refused automated access. They need checking by hand from a printed or downloadable text before the storyboard uses them; the canon check script's `--strict` mode fails until they are done.
