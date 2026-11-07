@@ -130,7 +130,7 @@ He left the tablet open on the counter and went home by the Janus, where Bucco�
 
 That night he took the Visellius copies out of the strongbox, from under the good leases, where they had lain for nearly three years. Two hands still pulled across the wax, one toward Basilus’s circle and one toward Bucco. Basilus was past asking: his own slaves had killed him in the year of Mutina, for cruelties that had nothing to do with a freedman’s son. Bucco was lending to the triumvirs’ soldiers against their acres, and the magistrates who might once have asked about a throat now dined with his clients.
 
-He could sell the copies to Bucco, who would pay well and remember the seller. He could carry them to a praetor and be thanked, and then visited. Or he could keep them, and go on being the one man in Rome who knew which way the wax pulled, which was what he had been since the Nones of that February.
+He could sell the copies to Bucco, who would pay well and remember the seller. He could carry them to a praetor and be thanked, and then visited. Or he could keep them, and go on being the one man in Rome who knew which way the wax pulled, which was what he had been since the Nones of that March.
 
 Sosia found him at the brazier.
 

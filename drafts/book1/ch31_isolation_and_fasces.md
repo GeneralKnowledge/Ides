@@ -334,7 +334,7 @@ Decimus wrote his own letters too, shorter. He asked for pay. He asked for grain
 
 The valley went brown. The foragers went further every week and came back with less, and with stories about Antony’s cavalry seen across the river. Across the river, a day’s march south, Antony and Lepidus sat together in one camp with more legions than the two of them could count, and did not attack, and did not need to.
 
-In the second week of August a rider came up from the south with the news from Rome, and Plancus read it first, because Plancus’s riders were faster.
+In the last days of August a rider came up from the south with the news from Rome, and Plancus read it first, because Plancus’s riders were faster.
 
 He came to Decimus’s tent with the tablet in his hand and his face arranged. Decimus had seen that arrangement on a hundred faces in Caesar’s atrium, the face of a man bringing news he had already decided how to feel about.
 

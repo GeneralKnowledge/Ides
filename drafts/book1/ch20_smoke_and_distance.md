@@ -86,7 +86,7 @@ Ammonius, who ran her household and spoke for her in the Roman salons, wanted he
 
 “Everything in that house has a price now, majesty. The price may be worth it. If Rome calls him Caesar’s son, even once, in a decree, he has a claim no one can take back.”
 
-Cleopatra looked across the room at Caesarion, who was three and had been allowed to help air the chests and was sitting inside one. She knew the argument. She had made it to herself every night since the Ides. A son of Caesar in Rome was a claim. A son of Caesar in Rome was also a boy in a city that had just killed his father in a room full of friends, and had then argued for two days about whether the killing was murder.
+Cleopatra looked across the room at Caesarion, who was not yet three and had been allowed to help air the chests and was sitting inside one. She knew the argument. She had made it to herself every night since the Ides. A son of Caesar in Rome was a claim. A son of Caesar in Rome was also a boy in a city that had just killed his father in a room full of friends, and had then argued for two days about whether the killing was murder.
 
 A Roman clerk arrived mid-morning with a polite face and an impolite list, from whoever now spoke for the gardens. Any crates for the river would be inspected for the people’s interest.
 

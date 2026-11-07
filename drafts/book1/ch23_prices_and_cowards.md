@@ -83,7 +83,7 @@ She walked back across the Sacra Via for her bundle while the streets were still
 POV: Statilius · a dinner on the Quirinal
 Date / place: Late April 44 · after the Liberators have left Rome
 Canon refs: Plut. *Brut.* 12 (callback) · Cic. *Att.* 14.14 (men who cheered and then went quiet)
-Info ENTER: The February question · EXIT: keeps his name off the open declaration; writes to Brutus as a friend, not a signer
+Info ENTER: The March question · EXIT: keeps his name off the open declaration; writes to Brutus as a friend, not a signer
 Overhear risk: Medium
 
 ---
@@ -108,7 +108,7 @@ The cousin’s face changed. Down the couches the talk dropped, the way talk dro
 
 “You said at his table,” said the cousin, who had clearly been told, “that a wise man should not take risks for fools. Is that what we are?”
 
-“That is what I said. I said it in February.” Statilius picked up the stylus and looked at it and put it down again, on the napkin, so it would not mark the couch. “I said it when he asked me a question he was not asking. I answered the question he was asking with a joke, and he was kind enough to let me. He went to the Curia without me. I will not go to the tablet after him, now that it costs nothing to sign and will cost a great deal later, and call that friendship.”
+“That is what I said. I said it in March.” Statilius picked up the stylus and looked at it and put it down again, on the napkin, so it would not mark the couch. “I said it when he asked me a question he was not asking. I answered the question he was asking with a joke, and he was kind enough to let me. He went to the Curia without me. I will not go to the tablet after him, now that it costs nothing to sign and will cost a great deal later, and call that friendship.”
 
 “It costs nothing?”
 
@@ -124,7 +124,7 @@ Live unnoticed. He had built his whole life on the sentence, and it had held, th
 
 He called for a lamp and wax. He did not write to the Senate, or to the cousin, or to anyone who would read it aloud at a dinner. He wrote to Brutus, at Lanuvium.
 
-*I will not sign for the Republic. I don’t believe in it, and you know I don’t, and you were right not to ask me in February. But if there is ever a thing to be done that wants a friend and not a cause, I am the same man you used to argue with, and I am not doing anything else.*
+*I will not sign for the Republic. I don’t believe in it, and you know I don’t, and you were right not to ask me in March. But if there is ever a thing to be done that wants a friend and not a cause, I am the same man you used to argue with, and I am not doing anything else.*
 
 He read it over and thought it sounded like a man who had drunk the host’s wine. He sealed it anyway.
 

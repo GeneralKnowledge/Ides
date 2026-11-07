@@ -1,13 +1,13 @@
 # Chapter 10: A Question at Dinner
 
-**Scenes:** SC-24, SC-25, SC-25b · SIDE-1 · early Feb 44 · HUMOR-1 medium
+**Scenes:** SC-24, SC-25, SC-25b · SIDE-1 · early Mar 44 · HUMOR-1 medium
 
 ---
 
 # SC-24: A Question at Dinner
 
 POV: Statilius · Brutus’s house
-Date / place: Early Feb 44 · dining room, then the street
+Date / place: Early Mar 44 · dining room, then the street
 Canon refs: Plut. *Brut.* 12 (Favonius, Statilius, Labeo sounded out) · Epicurus, “live unnoticed”
 Info ENTER: Kingship talk at dinners · EXIT: Statilius answers the question as philosophy and learns too late it was not; Labeo stays behind
 Overhear risk: Household, guests
@@ -18,7 +18,7 @@ Brutus asked it over the fruit, as if it had only just occurred to him.
 
 “Suppose a city has fallen under one man,” he said. “Not a monster. A capable man, even a merciful one. And suppose the people do not much mind. Should a wise man put himself in danger to free them?”
 
-Statilius had been eating a fig. He finished it, because a question like that would keep and a fig would not. The dining room was warm, the lamps were good, and Brutus kept the best Chian in Rome and drank almost none of it, which was one of the things Statilius loved him for. Around the couches the talk had been of dinners all evening, other men’s dinners: who had been asked where, who had been seated below whom, what was being said about the ten years and whether the next title would be shorter or longer. Basilus, who had served Caesar in Gaul and been given a praetorship and no province at the end of it, had drunk steadily through all of it and said very little.
+Statilius had been eating a fig. He finished it, because a question like that would keep and a fig would not. The dining room was warm, the lamps were good, and Brutus kept the best Chian in Rome and drank almost none of it, which was one of the things Statilius loved him for. Around the couches the talk had been of dinners all evening, other men’s dinners: who had been asked where, who had been seated below whom, what was being said about *perpetuo* and how long a lifetime could be made to last. Basilus, who had served Caesar in Gaul and been given a praetorship and no province at the end of it, had drunk steadily through all of it and said very little.
 
 Favonius answered first, because Favonius always answered first. He had grown his beard like Cato’s and went barefoot like Cato in the street, and he had Cato’s habit of saying the hard thing before anyone else could say the sensible one.
 

@@ -150,7 +150,7 @@ The first had come in April, after Apollonia. Cicero had congratulated him on th
 
 Then, in the summer, Gaius had worked on the legions.
 
-He had done it the way his family did everything, openly and with a good deal of wine. He dined in the lines. He let the men see his lictors, and let them remember whose brother he was, and whose soldiers half of them had been the winter before. One legion had begun to talk. Then it had begun to refuse. For three days Brutus had had a mutiny in his camp, quiet, sullen, the men standing in their lines and not moving when the trumpet went, and Gaius in the good house he had been given, pouring wine and being sorry about it. Brutus had ended it without killing anyone. He had been proud of that too.
+He had done it the way his family did everything, openly and with a good deal of wine. He dined in the lines. He let the men see his lictors, and let them remember whose brother he was, and whose soldiers half of them had been the winter before. One legion had begun to talk. Then it had begun to refuse. For two days Brutus had had a mutiny in his camp, quiet, sullen, the men standing in their lines and not moving when the trumpet went, and Gaius in the good house he had been given, pouring wine and being sorry about it. Brutus had ended it without killing anyone. He had been proud of that too.
 
 He had put Gaius on a ship. That was all. A good ship, anchored off the coast, with a guard and his own servants, and his lictors sent ashore. *For his own safety*, Brutus had written to the Senate, and to Cicero, and Cicero had written back in August a letter so angry the clasp of the box had seemed to sit tighter after it went in. *You are the gentlest man in Rome*, Cicero wrote, *and it will cost the Republic everything it has left. Do you think he would spare you?*
 
@@ -198,7 +198,7 @@ Overhear risk: Friends at the door; Favonius
 
 The armies hailed them both as *Imperator* on the plain below Sardis, and Cassius, riding in under the cheering with Brutus a length ahead, thought that the men cheered louder for whichever of them had paid more recently, and that this was the one thing in Asia he did not need to count.
 
-They embraced in front of the standards. They had not seen each other in more than a year. Brutus was thinner and greyer at the temples and his eyes had something in them Cassius had not seen before, a kind of steady tiredness, like a man who has been listening to the same sound for a long time. Brutus said, “Rhodes,” into his ear in the middle of the embrace, quietly, the way a man says the name of a mutual friend who has died. Cassius said, “Xanthus,” back.
+They embraced in front of the standards. They had not seen each other since Smyrna. Brutus was thinner and greyer at the temples and his eyes had something in them Cassius had not seen before, a kind of steady tiredness, like a man who has been listening to the same sound for a long time. Brutus said, “Rhodes,” into his ear in the middle of the embrace, quietly, the way a man says the name of a mutual friend who has died. Cassius said, “Xanthus,” back.
 
 Then they let go, and smiled for the legions, and went up into the city to the governor’s house, and shut the door.
 

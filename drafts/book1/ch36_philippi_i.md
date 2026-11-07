@@ -40,7 +40,7 @@ Cassius waited.
 
 Cassius put down his stylus.
 
-He did not believe in ghosts. He had stopped believing in the gods in any way that mattered somewhere in the desert after Carrhae, watching the Parthians do what they did, and had found in Epicurus, afterwards, a cool clean house to live in: atoms and the void, and the gods, if there were any, far away and indifferent, and death nothing to us, because where death is we are not. He had an answer for this. He had had it ready, in a sense, for twenty years.
+He did not believe in ghosts. He had stopped believing in the gods in any way that mattered somewhere in the desert after Carrhae, watching the Parthians do what they did, and had found in Epicurus, afterwards, a cool clean house to live in: atoms and the void, and the gods, if there were any, far away and indifferent, and death nothing to us, because where death is we are not. He had an answer for this. He had had it ready, in a sense, for ten years.
 
 So he gave it. He gave it gently, which surprised them both.
 
@@ -104,13 +104,13 @@ He did not think of Italian acres. For one breath a courier’s report from week
 
 ### Laberius
 
-Dust found every gap in Laberius’s teeth; the eagle staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it. On his left, where Gaius used to stand, stood a gap-toothed centurion of the Second, who had come up out of the cut at first light and taken the place without asking. “Cordus,” Rufrius had said, and nothing else. Laberius had let him stand there. Antony’s man, the boy’s line: this morning it came to the same marsh.
+Dust found every gap in Laberius’s teeth; the standard’s staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it. On his left, where Gaius used to stand, stood a gap-toothed centurion of the Second, who had come up out of the cut at first light and taken the place without asking. “Cordus,” Rufrius had said, and nothing else. Laberius had let him stand there. Antony’s man, the boy’s line: this morning it came to the same marsh.
 
 He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’s side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms.
 
 He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Men who stopped for trophies got killed.
 
-His own eagle still stood. He put his hand on the staff once: wood, sweat, the crack that had been there since Mutina’s ditch. He kept it there while the shouts about Cassius’s hill cancelled each other. He did not know Cassius’s hill. He knew thirst and the next order that might be wrong.
+His own standard still stood. He put his hand on the staff once: wood, sweat, the crack that had been there since Mutina’s ditch. He kept it there while the shouts about Cassius’s hill cancelled each other. He did not know Cassius’s hill. He knew thirst and the next order that might be wrong.
 
 Pay would come later, if later existed: farms promised by dead men and living boys. For now the staff fit in a hand. That was enough for the dust.
 

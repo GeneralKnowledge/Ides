@@ -76,7 +76,7 @@ Cassius arrived with Publius Servilius Casca on the threshold as if they had met
 
 “Quiet houses are where Rome invents its courage,” Servilia answered, equally formal. She did not rise to kiss cheeks. She let them stand.
 
-Brutus did not offer couches at once. Offering couches was how he postponed. “If this is about dinners,” he said, “I have already burned one invitation this month. I can burn another.”
+Brutus did not offer couches at once. Offering couches was how he postponed. “If this is about dinners,” he said, “I have already burned one invitation this winter. I can burn another.”
 
 Casca smiled with his teeth. “We are not here to dine you into a better mood. We are here because the Forum still tastes of that wreath, and men who wait for Parthia will wake up subjects.”
 

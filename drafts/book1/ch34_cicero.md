@@ -80,7 +80,7 @@ She had never once called him that. He had been *Marcus* to her through two wars
 
 Nobody on the tribunal moved. Lepidus looked at his hands. Antony could feel the boy looking at him from the far end without turning his head.
 
-Lucius had stood up in the Senate in the spring and voted his nephew a public enemy. Antony had remembered it at Bononia, on the island in the river, with the three of them trading names like dice. The boy had given up Cicero. Lepidus had given up his own brother. Antony had given up his mother’s brother and thought it cheap at the price. Cicero was on a path at Caieta now. Lepidus’s brother was on his way to Brutus. Lucius was in a back room below the Carinae, drinking his sister’s wine.
+Lucius had stood up in the Senate in the spring and voted his nephew a public enemy. Antony had remembered it at Bononia, on the island in the river, with the three of them trading names like dice. The boy had given up Cicero. Lepidus had given up his own brother. Antony had given up his mother’s brother and thought it cheap at the price. Cicero had died on a path at Caieta. Lepidus’s brother was on his way to Brutus. Lucius was in a back room below the Carinae, drinking his sister’s wine.
 
 He looked down at her. She was smaller than he remembered, and straighter. Her hands were inside her sleeves. He had seen her stand like this once before, when he was twenty and his stepfather had been strangled in the prison under the Capitol on Cicero’s word, and his mother had gone to Cicero’s wife to beg for the body. Cicero had made her beg.
 
@@ -129,7 +129,7 @@ Overhear risk: The crowd
 
 Plancus triumphed over the Gauls in a cold that made the trumpets crack.
 
-Laberius stood on the Sacred Way with Vibius and two men from the old tent, shoulder to shoulder with bakers and clerks and men in good cloaks who did not look at anybody. They were the boy’s soldiers now, the four of them, quartered outside the walls with the rest of his legions, and nobody had asked them to march. It was not their triumph. It was Plancus’s, and in two days it would be Lepidus’s, and the soldiers of both men had been drinking since before light.
+Laberius stood on the Sacred Way with Vibius and two men from the old century, shoulder to shoulder with bakers and clerks and men in good cloaks who did not look at anybody. They were the boy’s soldiers now, the four of them, quartered outside the walls with the rest of his legions, and nobody had asked them to march. It was not their triumph. It was Plancus’s, and in two days it would be Lepidus’s, and the soldiers of both men had been drinking since before light.
 
 The carts went by with the spoils: shields, a gilt boar, tablets with the names of tribes Laberius had never heard of painted in red. Then the captives, not many. Then the lictors, their rods wound with laurel. Then Plancus in the chariot with his face painted red like Jupiter’s, his eyes fixed on the Capitol, a slave behind him holding the gold crown over his head and saying the thing slaves said into a general’s ear on his triumph. Laberius had always wondered whether they really said it, or only moved their lips.
 
