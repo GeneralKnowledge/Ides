@@ -37,6 +37,9 @@ Never quietly promote C→A or D→A.
 | Research | [`../research/`](../research/) |
 | Completed development records | [`../archive/`](../archive/) |
 | Need → file map | [`INDEX.md`](INDEX.md) |
+| Working guide (source of truth, tools; formerly the root README) | [`WORKING_GUIDE.md`](WORKING_GUIDE.md) |
+| Reader questionnaire | [`../reader_feedback/SECOND_READER_QUESTIONNAIRE.md`](../reader_feedback/SECOND_READER_QUESTIONNAIRE.md) |
+| Book introduction for readers | [`../README.md`](../README.md) |
 | Framework summary | [`executive_overview.md`](executive_overview.md) |
 
 ---
