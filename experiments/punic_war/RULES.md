@@ -1,4 +1,4 @@
-# Book 2 voice rules
+# Punic War experiment: voice rules
 
 **Status:** Frozen for the draft on 7 November 2026, after Reuben read the voice pilot ("Sounds good as a base"). Changed only by Reuben.
 
@@ -33,4 +33,4 @@ These are the Book 1 rules as they ended (`writing/HUMAN_VOICE_RULES.md`, `writi
 
 ## Checks
 
-`tools/book2_draft_check.py` counts em dashes, one-word narration sentences, "filed" and "little did", and words per scene against the storyboard. A scene over its budget by more than 20% is flagged.
+`tools/punic_draft_check.py` counts em dashes, one-word narration sentences, "filed" and "little did", and words per scene against the storyboard. A scene over its budget by more than 20% is flagged.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Consistency check for the Book 2 canon pack (book2/canon/).
+"""Consistency check for the Punic War experiment canon pack (experiments/punic_war/canon/).
 
 Checks:
   1. Every POV character sheet has the required sections.
@@ -16,7 +16,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent / "book2" / "canon"
+ROOT = Path(__file__).resolve().parent.parent / "experiments" / "punic_war" / "canon"
 REQUIRED = [
     "## Facts",
     "## Where",

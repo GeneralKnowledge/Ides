@@ -1,6 +1,6 @@
 # Names and duplicates
 
-**Rule:** one name, one person, for the reader. Where the sources give several men the same name, the book picks a single plain handle for each and never uses the bare name for more than one of them. The canon check script (`tools/book2_canon_check.py`) fails if a handle in the table appears twice.
+**Rule:** one name, one person, for the reader. Where the sources give several men the same name, the book picks a single plain handle for each and never uses the bare name for more than one of them. The canon check script (`tools/punic_canon_check.py`) fails if a handle in the table appears twice.
 
 ## Shared names
 

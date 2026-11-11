@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Mechanical checks on Book 2 draft scenes (book2/draft/act*/<ID>.md).
+"""Mechanical checks on Punic War experiment draft scenes (experiments/punic_war/draft/act*/<ID>.md).
 
 For each scene: words of prose (after the header's '---' line) against the
 storyboard budget, em dashes, one-word sentences in narration, banned words,
@@ -10,7 +10,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent / "book2"
+ROOT = Path(__file__).resolve().parent.parent / "experiments" / "punic_war"
 BANNED = [r"\bfiled\b", r"little did", r"\bMonday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday\b", r"\bokay\b"]
 
 

@@ -1,4 +1,7 @@
-# Book 2: the Second Punic War
+# Punic War experiment (alternate, parked)
+
+**Status, 2026-11-11:** This is not Book 2. It was a trial of the planning method on a different story (the Second Punic War, 218–207 BC), run on 7 November and parked on 11 November. Book 2 of the series follows straight on from Book 1 and will live in `book2/`. Everything here is kept as it was left: contract, canon pack, storyboard, voice pilot and an Act I draft (18 scenes, about 22,600 words) that never had an outside read. Nothing here is canon for the Ides series.
+
 
 Working folder for the second book in the series: one novel from Hannibal's descent from the Alps (218 BC) to the Metaurus (207 BC). Book 1 (the Ides) is untouched by anything here.
 
@@ -20,11 +23,11 @@ No prose until stages 1 and 2 are approved.
 ## Checks
 
 ```
-python3 tools/book2_canon_check.py          # structure, sources, duplicate names
-python3 tools/book2_canon_check.py --strict # also fails on anything still marked "to check"
-python3 tools/book2_storyboard_check.py   # rewinds, POV gaps, act budgets, Cannae position
-python3 tools/book2_draft_check.py        # words per scene, em dashes, banned words, straight quotes
-python3 tools/export_book2_docx.py --acts I   # stamped reading copy; chapter numbers assigned here only
+python3 tools/punic_canon_check.py          # structure, sources, duplicate names
+python3 tools/punic_canon_check.py --strict # also fails on anything still marked "to check"
+python3 tools/punic_storyboard_check.py   # rewinds, POV gaps, act budgets, Cannae position
+python3 tools/punic_draft_check.py        # words per scene, em dashes, banned words, straight quotes
+python3 tools/export_punic_docx.py --acts I   # stamped reading copy; chapter numbers assigned here only
 ```
 
 The canon check's `--strict` mode will be needed before the act that uses each "to check" line is drafted.
@@ -38,3 +41,4 @@ One line per change.
 - 2026-11-07: Places and travel times added. Second source pass confirmed Liv. 21.12, 22.8, 22.25, 23.2, 26.8–9; Perolla dropped. Storyboard v1: 67 scenes, ~100k words, Cannae at 28%; storyboard check script.
 - 2026-11-07: Storyboard fix 1 made (I-15b, Fabius warns Paullus); soldier named Lucius Vettius. Voice pilot written: I-04 The River (Trebia, Vettius) and II-12 Rings (Carthage, Hanno).
 - 2026-11-07: Voice pilot approved as a base; rules locked in RULES.md. Act I drafted in full (18 scenes, 22,600 words against a 26,600 budget); draft check and stamped DOCX exporter added; Act I reader questionnaire and key.
+- 2026-11-11: Relabelled as the Punic War experiment and moved from `book2/` to `experiments/punic_war/` (tools renamed `punic_*`). The Act I draft from PR #205 was folded in with it.

@@ -1,11 +1,11 @@
-# Book 2 storyboard
+# Punic War experiment: storyboard
 
 **Status:** Version 1.1, stage 3. Fixes 1 and 7 made and the rest accepted (Reuben, 7 November: "Could we now start?"). Built from the [contract](../CONTRACT.md) and the [canon pack](../canon/). No prose until Reuben has read this and picked fixes.
 
 The source of truth is [`scenes.tsv`](scenes.tsv): one row per scene, with the scenes it depends on. The table below is a reading copy of it. Scene IDs are permanent; chapter numbers are assigned by the exporter at freeze, never here.
 
 ```
-python3 tools/book2_storyboard_check.py
+python3 tools/punic_storyboard_check.py
 ```
 
 ## What the check says

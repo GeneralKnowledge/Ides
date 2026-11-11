@@ -1,4 +1,4 @@
-# Book 2 contract
+# Punic War experiment: contract
 
 **Status:** Draft for Reuben's approval (stage 1 of the Book 2 method). Once approved, only Reuben changes it.
 **Working title:** none yet (Reuben's call).
@@ -11,7 +11,7 @@
 | Boundary | One book, the Alps to the Metaurus, 218–207 BC. Scipio's Africa, Sophonisba and Zama are left whole for a later book. |
 | Hannibal | Seen only from outside. He has no POV scenes; the reader knows him through what others see, hear and guess. |
 | Length | 100,000 words, plus or minus 10% (90,000–110,000 story words, front and back matter not counted). |
-| Home | `book2/` in the Ides repo, so the exporters and checks are shared. |
+| Home | `experiments/punic_war/` in the Ides repo (was `book2/`), so the exporters and checks are shared. |
 
 ## The book in one paragraph
 

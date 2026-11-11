@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Build a stamped reading copy of Book 2 from book2/draft/.
+"""Build a stamped reading copy of Punic War experiment from experiments/punic_war/draft/.
 
-Scenes are taken in storyboard order (book2/storyboard/scenes.tsv); only scenes
-that exist as book2/draft/act*/<ID>.md are included. Chapter numbers are
+Scenes are taken in storyboard order (experiments/punic_war/storyboard/scenes.tsv); only scenes
+that exist as experiments/punic_war/draft/act*/<ID>.md are included. Chapter numbers are
 assigned here, in that order, and nowhere else. The title page carries a stamp
 (git commit and a digest of the scene files) so a reader's copy can be
 identified later.
 
-Usage: python3 tools/export_book2_docx.py [--acts I,II] [--out PATH]
+Usage: python3 tools/export_punic_docx.py [--acts I,II] [--out PATH]
 """
 import argparse
 import csv
@@ -21,7 +21,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.shared import Pt, Cm
 
 ROOT = Path(__file__).resolve().parent.parent
-B2 = ROOT / "book2"
+B2 = ROOT / "experiments" / "punic_war"
 ACT_TITLES = {"I": "The Crossing", "II": "Cannae", "III": "Italy Chooses", "IV": "The Brother"}
 
 
@@ -71,7 +71,7 @@ def main():
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = p.add_run("Book 2")
+    r = p.add_run("Punic War experiment")
     r.font.size = Pt(28)
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -110,7 +110,7 @@ def main():
             add_runs(par, text)
             words += len(text.split())
 
-    out = Path(args.out) if args.out else ROOT / "exports" / f"Book2_{'Act' + '-'.join(acts) if acts else 'FULL'}.docx"
+    out = Path(args.out) if args.out else ROOT / "exports" / f"PunicWar_{'Act' + '-'.join(acts) if acts else 'FULL'}.docx"
     out.parent.mkdir(parents=True, exist_ok=True)
     doc.save(out)
     print(f"{out}  chapters={chapter}  words={words:,}  stamp={commit}-{digest}")
