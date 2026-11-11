@@ -192,13 +192,55 @@ Neither test is an order to cut endings. The Ligarius letter and the shared brea
 
 ---
 
-## First notes on the other viewpoints
+## Antony
 
-To be filled out and checked against the text when each one’s scenes come up. Each already has a **Misbelief** line in `continuity/character_profiles/`.
+**Notices first:** bodies and noise. Who is sweating, who is drunk, who has gone quiet. Whether a crowd is with him, which he feels on his skin before he could say why. What there is to eat.
 
-| Viewpoint | Attention goes to | Generalises when | Misunderstands |
-|---|---|---|---|
-| **Antony** | Bodies, noise, whether a crowd is with him | Loudly, for effect, and he does not believe his own sayings | The boy |
-| **Calpurnia** | The house: sounds, who is up, what is out of place | Not at all. She knows things in her body and has no words that would persuade a man | That being right will be enough to be heard |
+**How a thought moves:** late. He acts, and the meaning of what he did arrives a beat afterwards, often from somebody else’s face. He is not stupid; he is quick with his body and slow with consequences, and he knows it, and covers it by laughing first.
 
-Minor and occasional viewpoints (Statilius, Calenus, Amyntas, Porcia, Cleanthes, Cleopatra, Caesar) need no sheet for now. The audit of 2026-11-11 left all their scenes alone except Caesar’s two, which take light edits.
+**When he generalises:** loudly, for a room, as a toast or a joke. He does not believe his own sayings and would be surprised to have one quoted back to him. Fulvia quotes them back.
+
+**What he cannot or will not say:** that he was used. That he does not know who is running a thing. That he is afraid of his wife’s opinion, which he is.
+
+**What he misunderstands:** he thinks being liked is the same as being followed. He thinks the boy is a name with a child attached. He takes a silence for agreement because he would never keep one himself.
+
+**In talk:** warm, coarse, generous, physical. He clasps people. He repeats a word he likes. With Fulvia he gets shorter and more truthful as the door shuts.
+
+**Body:** a soldier’s, going heavy. Goat-reek, wine, sweat. He misses the axes in the fasces. He drinks when he has been told something he does not want to think about.
+
+**Sounds like him:** “Antony heard the word go up and understood, a beat late, that he had been the fool.”
+**Does not:** “He stored her sentence where he stored unpaid cohorts: not denied, not paid tonight.” (A ledger again. He would drink, and remember it at the wrong moment next day.)
+
+---
+
+## Calpurnia
+
+**Notices first:** the house. Sounds and their hours: a latch, a dog, a courier’s step at the wrong time. Who is up. What is out of its place. Lamps trimmed too short. Her husband’s breathing.
+
+**How a thought moves:** it does not become an argument. It gathers in her body, behind the eyes, in her hands, and she knows a thing for days before she could give a reason a man would accept. She does not add the signs up. She would say only that the house is wrong.
+
+**When she generalises:** she does not. She gives orders about cloth and doors.
+
+**What she cannot or will not say:** that there has been no child. That she knows about the queen across the river. That she is frightened for herself as well as for him.
+
+**What she misunderstands:** she thinks that being right will be enough to be heard. She thinks a man who is kind to her fear has listened to it. She trusts Decimus because he is easy in the house.
+
+**In talk:** brief, about practical things. With servants she is exact and not unkind, and she does not ask them what they think; they tell her anyway, plainly, about stains and doors. With Caesar she has one sentence and repeats it.
+
+**Body:** nails in her palm in her sleep. A taste of metal before dawn. She counts his breaths.
+
+**Sounds like her:** “She woke and lay counting his breaths until the counting itself had become a thing she was afraid to stop.”
+**Does not:** “She stacked them beside the lesser nightmares and found the stack heavier than any one omen.” (An accountant’s sum. She would get up and see whether the street door was barred.)
+
+---
+
+## Caesar (two short scenes only)
+
+He is seen from inside twice, briefly, and the book’s point is that he does not see it coming. Keep him to work: ships, grain, maps, who is waiting. He is quick, courteous, amused, tired. He answers fear with a small joke and a date. The narration must not know more than he does, and must not tell the reader that he is wrong.
+
+**Sounds like him:** “I am always worried. That is what the work is.”
+**Does not:** “If someone had handed him a clean list of knives, he might have read it. Nobody did.” (The narrator looking over his shoulder.)
+
+---
+
+Minor and occasional viewpoints (Statilius, Calenus, Amyntas, Porcia, Cleanthes, Cleopatra) need no sheet. The audit of 2026-11-11 left all their scenes alone.
