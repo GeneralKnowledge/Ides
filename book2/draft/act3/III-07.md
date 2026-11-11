@@ -38,7 +38,7 @@ Lucius walked several paces before he answered.
 
 “I don’t know,” he said. “I don’t know what Marcus wanted. I never asked him.” He looked at Octavian sideways, with a kind of rueful honesty that was very winning and that Octavian thought he had probably used on juries. “That’s the truth. I wrote him a great many letters telling him what I was doing, and I never once asked him if it was what he wanted, and he never once told me. You can have that, if it’s any use to you. I don’t suppose it is.”
 
-Octavian walked beside him and said nothing.
+Octavian walked beside him.
 
 It was of use. It was of more use than anything else Lucius could have said. It meant that Marcus would be able to say, when he came, and he would come, that none of this had been his; that his brother and his wife had made a war in his name without his orders; and that he, Marcus, had no quarrel with his colleague the young Caesar, none at all. It meant that Marcus would need Octavian to agree with that. It meant that the man walking beside him with his toga gathered on his arm had just handed him, without knowing it or perhaps knowing it perfectly well, the whole of the next year.
 

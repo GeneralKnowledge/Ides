@@ -1,4 +1,4 @@
-# Seals
+# The Small Bag
 
 POV: Nysa · Rome, the young Caesar’s house · January 40
 
@@ -54,7 +54,7 @@ Nysa stood at the door with the big bag in one hand and the small bag in the oth
 
 The young Caesar had been ill at Philippi. He had been ill at Brundisium, and the whole of Italy had heard that he was dead. He had been ill in the autumn when she counted the storeroom. He was always ill. And there was a fever in the camp at Perusia, the courier said so, the men in the ditch were going down with it in the wet; and he had not written.
 
-She did not say anything to anyone. She went on with the day. She sorted the small bag and sent the boy round with the answers and crossed the names off the list. In the afternoon the old freedwoman with the bad eyes asked her whether there had been anything about the cloak, and she said not this time, and the old woman nodded and went back to her wool.
+She went on with the day. She sorted the small bag and sent the boy round with the answers and crossed the names off the list. In the afternoon the old freedwoman with the bad eyes asked her whether there had been anything about the cloak, and she said not this time, and the old woman nodded and went back to her wool.
 
 That night she lay in her room in the dark and did a count she had never done before, a count of something that had not happened, and could not stop. The house. The people in it. What would happen to the house if. To the women in the wool room. To Glycon’s deputy and the cook and the litter-men and the porter. To herself, who owed him obedience under the law as her patron and had nothing else in Rome but a door to sit at and a stool. The house of a dead man’s heir. She had been in one of those before. She knew how fast the masks came down off the walls.
 

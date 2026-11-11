@@ -14,7 +14,7 @@ He paced it. He could not help pacing it. One hundred and ninety paces from the 
 
 “I know what it was at the Saturnalia.”
 
-The tribune did not answer. They walked on.
+The tribune let that go. They walked on.
 
 There were people on the far side of the trench, in the lane that ran along behind the houses. Not many. Some of them were looking at the trench and some were not. One was a woman with a cloth over her head, standing very still with her hands under her arms for the warmth, looking at a particular place in the trench, a place that had been covered. Lucius did not look at the place. He looked at her. She was a townswoman, not a slave, with good shoes, and when she felt him looking she raised her eyes and saw who it was and her face did nothing at all. Then she turned and went away up the lane.
 
