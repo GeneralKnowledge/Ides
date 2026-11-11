@@ -6,7 +6,7 @@ The spine of this book is history: what happened, where, to whom, and in what or
 
 Four of the viewpoint characters are invented. They show the people the histories leave out: the household, the soldier, the lender and a provincial treasurer.
 
-- **Nysa**, Caesar’s freedwoman in the Domus Publica. After the Ides her patron is his heir, and from spring 44 she serves in Antony’s house in the Carinae.
+- **Nysa**, a slave of Caesar’s household in the Domus Publica, freed by his will. From spring 44 she serves in Antony’s house in the Carinae.
 - **Sextus Laberius Cordus**, a soldier of Caesar’s from Munda to Philippi, with a plot of land promised at Capua. He has no connection to the playwright Decimus Laberius.
 - **Lucius Hordeonius Felix**, a moneylender in the Forum, and his collector **Sosia**.
 - **Amyntas son of Menodotus**, treasurer of Smyrna, who feeds Dolabella’s army from behind a locked gate.
@@ -16,7 +16,9 @@ Invented events:
 - The clemency dinner of Chapter 1.
 - The murder of Aulus Visellius Ralla and the tablets that implicate both sides.
 - Nysa’s warning tablet. It is a separate thing from the note pressed on Caesar on his way to the Senate, which comes from the ancient tradition.
+- The clause in Caesar’s will that frees the slaves of his household. The sources give the heirs, the gardens and the gift to every citizen, not the household.
 - Galba’s absence from the Capitol on the afternoon of the Ides.
+- The parley between Antony and Decimus at the ditch outside Mutina in the first winter of the siege.
 - The loan that pays Calenus’s household while Varro hides. Appian says only that no slave betrayed him.
 - Statilius’s refusal to sign for the Liberators and his letter to Brutus. Plutarch gives his refusal in February and his death at Philippi; what lies between is invented.
 - The news of Porcia’s death reaching Brutus on the morning a legion would not move. Both happened in the summer of 43; putting them on one morning is the book’s.

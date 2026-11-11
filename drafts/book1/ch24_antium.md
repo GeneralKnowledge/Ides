@@ -61,7 +61,7 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 
 Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from Antium asking for counsel, and a man of station did not let Servilia’s son ask twice. The light off the sea was very pretty.
 
-Brutus asked Cicero to speak as if speech could still be strategy. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “You have read more decrees than the Senate ever wrote, Cicero. Tell me how this one reads.” He did not wait. “Grain buyers. Corn factors with a praetor’s ring.” The room held Porcia’s severity, Tertulla’s stillness, Favonius’s moral cough, and Servilia, who listened the way bankers listened to interest. Tertulla was her daughter, married to Cassius: one family, both knives, and Cicero had always admired the economy. Nobody had handed Favonius a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine that nobody truly tasted.
+Brutus wanted his advice, and wanted it in front of everyone. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “You have read more decrees than the Senate ever wrote, Cicero. Tell me how this one reads.” He did not wait. “Grain buyers. Corn factors with a praetor’s ring.” Cicero counted his audience, as he always did: Porcia, upright and unsmiling; Tertulla, saying nothing; Favonius, who coughed; and Servilia, who listened as a banker listens to the terms of a loan. Tertulla was her daughter, married to Cassius: one family, both knives, and Cicero had always admired the economy. Nobody had handed Favonius a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine, and Cicero noticed that nobody drank it.
 
 Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions, Asia’s scraps, Sicily’s corn, as tools rather than humiliations? Better tools than open war with empty hands. He heard himself steering between them, and thought that it was going well.
 
@@ -69,7 +69,7 @@ Cicero began well. He always began well. Return to Rome under arms? He painted t
 
 “Then we do not gift them a massacre to justify,” Cicero said. “We keep the law’s face. Faces matter.”
 
-Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
+Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Favonius coughed into every pause, and Cicero, who disliked an interruption more than most things, found himself wishing that Cassius would come.
 
 Cassius arrived in the middle of it. There was dust on him, and he did not apologise for being late.
 

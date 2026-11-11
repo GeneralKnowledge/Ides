@@ -192,7 +192,7 @@ Calenus watched the slaves. He could not help it. The cook’s boy brought the f
 
 The fish went round. The steward poured.
 
-“This is the good Falernian,” Antony said, holding up his cup to the lamp. “I know it is. You’re a generous man, Calenus. Generous men are getting rare.” He drank. “Do you know who had a cellar like this? Varro. That old pedant at Casinum. I had a month of it in the spring before last, and I tell you, the books were nothing, but the wine...”
+“This is the good Falernian,” Antony said, holding up his cup to the lamp. “I know it is. You’re a generous man, Calenus. Generous men are getting rare.” He drank. “Do you know who had a cellar like this? Varro. That old pedant at Casinum. I had a month of it in the spring before last, and I tell you, the books were nothing, but the wine…”
 
 “I’ve heard,” said Calenus.
 

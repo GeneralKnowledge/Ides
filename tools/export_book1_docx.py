@@ -418,7 +418,9 @@ def reading_paragraphs(
             # sees an unnamed break, and none at all at the top of a chapter
             # (Gate 3 reader 1, 2026-11-03).
             if kind == "scene":
-                if out[-1][1] != "title":
+                # An empty scene heading followed by beat headings must not
+                # print two breaks in a row.
+                if out[-1][1] not in ("title", "scene"):
                     out.append((SCENE_BREAK, "scene"))
                 continue
             out.append((text, kind))

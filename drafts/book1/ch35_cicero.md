@@ -14,8 +14,6 @@ Overhear risk: Killers / attendants
 
 ---
 
-Cicero had always believed a sentence could outrun a sword if the sentence were good enough.
-
 The crows woke him. There was a small temple of Apollo on the shore below the villa, and the birds that lived in its roof had come up to his window at first light, a whole quarrelling crowd of them on the sill. One had hopped inside and was tugging with its beak at the blanket over his face. He lay and watched it work. Tiro would have written it down as an omen. Tiro was not there. The slaves were, standing in the doorway, and they were not asking his opinion.
 
 He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyond the far coast with legions and a welcome, and Marcus among the legions, and the swell had turned his stomach and then his nerve. He had made them put in at Caieta. He had climbed to the villa with salt in his beard and told his slaves, *Let me die in the country I have so often saved.* By dinner the sentence embarrassed him. It had come too easily.
@@ -28,7 +26,7 @@ A freedman had brought the copy to Tusculum: his own name, and his brother Quint
 
 Behind them, up at the villa, someone was beating on a door. Then wood gave, and there was shouting in the house, the flat Latin of men who had been told a name and a reward.
 
-“Faster,” he told the bearers, and hated the word.
+“Faster,” he told the bearers.
 
 He looked back up the walk through the curtain. At the top of it, by the garden door, a young man was standing among the soldiers and pointing down the path between the trees. Cicero knew the shape of him before he knew the face. Philologus. Quintus’s freedman, a clever boy Cicero had taught to read Greek himself, at his own table, because the boy had wanted it so badly. Philologus pointed, and the soldiers came down the walk at a run, and some of them peeled off to the left to go round by the shore and cut the litter off where the trees ended.
 
@@ -48,7 +46,7 @@ Herennius came up to the litter. Cicero leaned out of it and stretched his neck 
 
 “Come on, veteran,” he said. “If you can do nothing else properly, do this.”
 
-The blow came. Pain was brief and total and insultingly ordinary: no period, no antithesis, no applause.
+The blow came. Pain was brief and total and insultingly ordinary.
 
 Through the trees the sea kept sounding like itself.
 
@@ -58,7 +56,7 @@ Through the trees the sea kept sounding like itself.
 
 POV: Antony · the triumvirs’ tribunal, Forum
 Date / place: Mid-December 43, before the Saturnalia · the tribunal in the Forum
-Canon refs: T11 · App. *BC* 4.37 · Plut. *Ant.* 2, 20 · pays Ch 33 SC-85a (“Tomorrow I go to the Forum”)
+Canon refs: T11 · App. *BC* 4.37 · Plut. *Ant.* 2, 20 · pays Ch 33 SC-85a (“When they sit again… I go to the Forum”)
 Info ENTER: Lucius Caesar hidden in Julia’s house · EXIT: Antony gives his uncle back in public; the lists go on; Rufus’s head sent to Fulvia, nailed over his own door (App. *BC* 4.29)
 Overhear risk: The whole Forum
 

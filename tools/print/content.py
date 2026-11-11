@@ -89,7 +89,8 @@ def build() -> tuple[list[Path], dict]:
         for kind, text in blocks:
             if kind == "scene":
                 # As in the DOCX: an unnamed break, none at a chapter's top.
-                if sec["blocks"]:
+                # Never two breaks in a row (empty scene heading + beats).
+                if sec["blocks"] and sec["blocks"][-1]["t"] != "scene":
                     sec["blocks"].append({"t": "scene", "runs": runs(ex.SCENE_BREAK)})
                 continue
             elif LIST_ITEM.match(text):
