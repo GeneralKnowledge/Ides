@@ -1,13 +1,13 @@
 # Chapter 11: Omens Manufactured
 
-**Scenes:** SC-26, SC-27 · OMEN-1 · late Feb–early Mar 44 · AMB-3 · G1
+**Scenes:** SC-26, SC-27 · OMEN-1 · early Mar 44, after the Nones · AMB-3 · G1
 
 ---
 
 # SC-26: Kitchen Prodigies
 
 POV: F1 Nysa · Domus Publica service court
-Date / place: Late winter morning · kitchen / service court
+Date / place: Early March, after the Nones, morning · kitchen / service court
 Canon refs: Suet. 81 gossip · E1 · Dama
 Info ENTER: Routine piety · EXIT: Hears the Capys tablet and Spurinna’s warning; sees the girl try the street bar; gives Medullina chickens
 Overhear risk: Extreme (staff)
@@ -62,7 +62,7 @@ Walking back up, she tried to remember whether the bar had gone down under the g
 # SC-27: Only a King
 
 POV: Cicero · villa fringe of Rome
-Date / place: Same season · letter desk, afternoon
+Date / place: 8 March (the day after the Nones) · letter desk, afternoon
 Canon refs: OMEN-1 manufactured · C7 · Parthia clock
 Info ENTER: Parthia chatter · EXIT: Hears “only a king can win Parthia” as trial balloon; learns Cotta’s motion is expected at the Ides sitting
 Overhear risk: Elite
@@ -98,7 +98,7 @@ Cicero laughed, because the alternative was to sit down. “Cotta will not stand
 
 “They say he will.”
 
-“Then they are saying it so that he need not. That is what a rumour is for, Tiro. It makes the vote unnecessary.” He went back to the desk. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out, and wrote the date in the margin, and looked at it.
+“Then they are saying it so that he need not. That is what a rumour is for, Tiro. It makes the vote unnecessary.” He went back to the desk. He set down a line for Atticus about games and omens and the city’s appetite for theatre, then scratched half of it out, and wrote the date in the margin, the day after the Nones, and looked at it.
 
 He did not imagine knives. He imagined speeches: the one he would make against the motion if Cotta did stand up, and the silence of the benches while he made it, and a Republic that could still be talked back into shape if the right man found his Demosthenes voice in time. The speech went well. He found he had begun it already, and that the first period was good.
 
@@ -110,4 +110,4 @@ He did not imagine knives. He imagined speeches: the one he would make against t
 - **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses Balbus; Tiro brings the rumour’s date: Lucius Cotta of the Fifteen to move at the Ides sitting in Pompey’s hall that Caesar be called king outside Italy (Suet. *Jul.* 79.3; Cic. *Div.* 2.110, which scoffs at the rumour). Cicero says it will not happen and begins the speech against it; he counts the days. Hirtius courier cut 2026-11-04 (Ch 6 and Ch 13 carry that beat). (Calpurnia’s “running sleep” in the kitchen cut 2026-11-04, readers 5–6: Ch 12 carries it.)
 - **Plants → pays:** the haruspex; the dream packet before Ch 14; Demosthenes (in Cicero’s voice only; the word *Philippics* waits for Ch 25). The king-bird is told in Ch 15, not here.
 - **Must not:** no Calpurnia CV.
-- **Decisions:** 2026-11-11 (voice pass): SC-26 rewritten in full in the Ch 2 Nysa’s voice (she holds a full basin through the whole of it; the kitchen’s sayings are gone; she ends on whether the bar was loose). SC-27 light edit. 2026-11-04 (Reuben, examine-next round): the rumour gets its date (Cotta, the Ides sitting) in place of the narrator’s “He was wrong about the floater”; the Hirtius courier cut. Chapter length roughly unchanged; the settled cut size stands.
+- **Decisions:** 2026-11-11 (voice pass): SC-26 rewritten in full in the Ch 2 Nysa’s voice (she holds a full basin through the whole of it; the kitchen’s sayings are gone; she ends on whether the bar was loose). SC-27 light edit. 2026-11-04 (Reuben, examine-next round): the rumour gets its date (Cotta, the Ides sitting) in place of the narrator’s “He was wrong about the floater”; the Hirtius courier cut. Chapter length roughly unchanged; the settled cut size stands. Later the same day (outside read of Ch 6–12, chronology): the chapter now sits after the Nones, so it follows Ch 10 instead of overlapping it; Cicero dates his letter “the day after the Nones”.
