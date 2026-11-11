@@ -52,7 +52,7 @@ Sources could not be read this session for Caesar *BC* 1 and Cicero's letters (s
 
 ## Extra questions for the Act I reader
 
-Questions 1 to 8 of the [questionnaire](../../storyboard/questionnaire.md), plus:
+Questions 1 to 6 and 26 to 32 of the [questionnaire](../../storyboard/questionnaire.md), plus:
 
 - A. Did you know, by the end of the act, why the war was being fought? Did you need to?
 - B. Where did the act feel thin or rushed, if anywhere?
