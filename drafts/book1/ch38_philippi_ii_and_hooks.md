@@ -60,7 +60,7 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said, Italian soil, promises already louder than the plain’s dust.
+Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said. He meant Italian farms, and the promises had been made already, louder than anything on this plain.
 
 “They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering.
 

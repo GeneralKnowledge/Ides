@@ -14,7 +14,7 @@ Overhear risk: Dwindling staff
 
 ---
 
-Decimus left Mutina at the end of April, after the relief, with Hirtius’s grave still fresh and Antony thinned but not finished. At the first milestone past the gate he waited half the morning for Plancus’s promised meeting-mark, and no cohorts came. Near noon a rider from the Lepidus channel he had seeded after the funeral handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Decimus kept the returned tablet.
+Decimus left Mutina at the end of April, after the relief, with Hirtius’s grave still fresh and Antony thinned but not finished. At the first milestone past the gate he waited half the morning for Plancus’s promised meeting-mark, and no cohorts came. Near noon a rider from the Lepidus channel he had seeded on the road north handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Decimus kept the returned tablet.
 
 Antony was beaten and not finished, and he was already on the road to Lepidus.
 

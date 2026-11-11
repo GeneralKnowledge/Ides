@@ -47,7 +47,7 @@ Those officers brightened at Parthia talk, months east, glory, the map widening.
 
 “When he calls,” Octavian agreed. He had the route in his tablet by then, and the winds by month. He had the attendant’s face from the temple steps as well, which he had not meant to keep and could have drawn.
 
-An older officer clapped his shoulder and called him Caesar’s hopeful shadow. Octavian smiled the polite smile.
+An older officer clapped his shoulder and called him Caesar’s hopeful shadow, loud enough for the whole mess, and the officers’ letters carried it home to Rome before the winter was out. Octavian smiled the polite smile.
 
 When the officer moved off, Agrippa bumped Octavian’s elbow, barely play, barely warning. “Cheer up, Shadow. At least they remember you have edges.”
 

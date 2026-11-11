@@ -14,7 +14,7 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 
 Italy smelled different when you arrived as a claim.
 
-Octavian stood in Philippus’s villa light: sea glare, careful chairs, advice thick as oil. Agrippa stood at the terrace rail behind him and said nothing, as he had said nothing since Apollonia unless he was asked. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. They could not refuse a will either. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
+Octavian stood in Philippus’s villa light: sea glare, careful chairs, advice thick as oil. Agrippa stood at the terrace rail behind him and said nothing for now. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. They could not refuse a will either. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
 
 Below the terrace the villas ran one after another down the Campanian shore, every one of them a senator’s house with a senator’s ears. Philippus had been lifting Octavius onto this same rail since the boy was small enough to be lifted. In the war he had asked Caesar’s leave to stand near no one, got it, and lived. He was handing the boy that trick now as if it were an heirloom.
 

@@ -91,7 +91,7 @@ No one arranged themselves into a people. They ran.
 
 Half the Senate was gone through the doors before he had finished the sentence. Men tangled in their own togas. Some left their shoes. One of the oldest members sat down on his bench and stayed there, white and quiet, as if he had come to observe a game he now realised had stakes.
 
-Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, station face for anyone still listening.
+Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, his face arranged for anyone still listening.
 
 Brutus understood it a breath late. One steep road up, Jupiter’s walls at the top: a few men could hold it, and the whole city would know where to look.
 

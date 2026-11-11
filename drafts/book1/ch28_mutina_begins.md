@@ -58,7 +58,7 @@ Overhear risk: Curia
 
 A sweating senator on the end bench, near the doors, feared Antony more than boys. Octavian stood on the threshold among the men who listened through the open doors: not a senator, so not inside, and present enough to be aimed.
 
-The consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones. Octavian had read his last book of the Gallic war at Apollonia and privately thought it better than the dead man’s. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Cicero had two consuls and wanted a third blade to go with them.
+The consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones. Octavian had read his last book of the Gallic war at Arretium and privately thought it better than the dead man’s. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Cicero had two consuls and wanted a third blade to go with them.
 
 Cicero began with a letter. He held it up so the benches could see the seal, Decimus Brutus’s, brought out of Mutina by a swimmer, and read one line of it in a voice gone plain: the grain, in days. Octavian, on the threshold, heard the fathers hear it. Caesar’s murderer was hungry behind a wall, and his hunger was the best argument anyone had yet made for Caesar’s son.
 
