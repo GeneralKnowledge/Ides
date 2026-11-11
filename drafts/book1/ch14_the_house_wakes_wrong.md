@@ -65,8 +65,6 @@ Caesar’s mouth started on a joke and gave it up. He glanced at the tablets on 
 
 Calpurnia kept her hands on him until her fingers ached. Outside, the night noises of the house turned into morning ones: a cough, a scrape, somebody praying too fast.
 
-She did not sleep again.
-
 ---
 
 ## Continuity notes (SC-35a)
