@@ -65,9 +65,17 @@ Retired invented names, not to be reused: Seius, Seia Prima, Naevius, Gavius, Dr
 | Labienus | Quintus Labienus, with the Parthians | Dio 48.24–26 | |
 | Pacorus | Parthian prince | Dio 48 | Pacuvius |
 | Virgil | Publius Vergilius Maro, if used | Ancient lives; *Eclogues* 1, 9 | |
+| Aemilius | Lucius Aemilius, Perusine councillor spared for having voted to punish Caesar's killers (III-10, as hearsay) | App. *BC* 5.48 | Lepidus (Marcus Aemilius Lepidus; always "Lepidus") |
+| Ahenobarbus | Gnaeus Domitius Ahenobarbus, condemned under the Pedian law, with Antony's fleet at Brundisium (IV-06) | App. *BC* 5.50, 5.55 | |
+| Marcellus | Gaius Claudius Marcellus, Octavia's husband, dead 40 (IV-07, IV-09) | Plut. *Ant.* 31 | |
+| Antyllus | Marcus Antonius the younger, Antony's elder son by Fulvia (I-04, I-11) | Dio 48.54; Plut. *Ant.* 87 | Antonius |
+| Iullus | Iullus Antonius, Antony's younger son by Fulvia (I-04) | Plut. *Ant.* 87 | |
 
 New invented names go here with a one-line reason why no real person can do the job.
 
 | Handle | Person | Why invented | Near |
 |---|---|---|---|
 | Ninnius | A veteran of Laberius's century who borrows against his plot (pilot I-01) | A ranker; the record has none | |
+| Glycon | Octavian's steward at the house above the Ring-makers' Stairs (I-02, I-08) | The household of 41 is not recorded | |
+| the Marcii | The family beyond the vine plot whose well the veterans take (I-07) | Countryfolk; the record has none | Marcus (Antony, always "Marcus" only in family talk) |
+| Vettius | The old magistrate of Perusia who keeps the granary keys (II-09, III-02, III-08); Lucius is not sure of the name | Appian names no magistrate | Vibius (Laberius's optio) |

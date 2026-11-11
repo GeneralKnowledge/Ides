@@ -15,7 +15,7 @@ The method is in [Book 2: starting where Book 1 ends](https://claude.ai/artifact
 | 2 | Canon pack: [chronology](canon/chronology.md), [places and travel times](canon/places.md), [names across both books](canon/names.md) | First version; lines marked (check) still to confirm |
 | 3 | [Mind sheets](voice/MIND_SHEETS.md) (carried and new POVs), [storyboard](storyboard/README.md), questionnaire | Storyboard v2 with Reuben's seven picks (44 scenes, 88,800 words); questionnaire and key written |
 | 4 | [Blind voice pilot](pilot/README.md) (three scenes, shuffled with three Book 1 model scenes) | PASSED 11 Nov (reader ranked the Book 2 scenes 2nd, 3rd and 6th of six; "belong to the same novel") |
-| 5 | Draft by act, one PR per act | Not started |
+| 5 | Draft by act | All four acts drafted 11 Nov ([I](draft/act1/README.md) 17,100, [II](draft/act2/README.md) 18,300, [III](draft/act3/README.md) 16,500, [IV](draft/act4/README.md) 15,000; 67,000 words, 44 scenes), each self-audited; outside reader next |
 | 6 | Structure audit, cold read, freeze (DOCX only) | Not started |
 
 No prose until the storyboard and the voice pilot pass.
@@ -32,6 +32,7 @@ No prose until the storyboard and the voice pilot pass.
 ```
 python3 tools/book2_names_check.py       # one handle, one person, across both books
 python3 tools/book2_storyboard_check.py  # rewinds, POV gaps, act budgets, where the Ides of March 40 falls
+python3 tools/export_book2_docx.py --acts I --out PATH  # stamped A4 reading copy; chapter numbers assigned here
 ```
 
 ## Changelog
@@ -45,3 +46,7 @@ One line per change.
 - 2026-11-11: Voice pilot written (I-01 Laberius, II-03 Fulvia, II-06 Lucius) and the blind packet built with three Book 1 scenes; key in project files only.
 - 2026-11-11: Voice pilot passed. B and F endings restored after the reader praised them; explaining lines trimmed in D and F; Laberius sheet asks for more particulars.
 - 2026-11-11: Drafting watchlist added from the outside review of Book 1 Ch 1–6 (no change to Book 1).
+- 2026-11-11: Act I drafted (I-01 to I-11, 17,100 words, 77% of budget), self-audited; new names Glycon, the Marcii, Antyllus, Iullus; export tool tools/export_book2_docx.py.
+- 2026-11-11: Reuben: the contract's 90,000 words is a ceiling; add length only where the act's outside reader finds it thin.
+- 2026-11-11: Reuben asked to build out the rest of the acts. Acts II to IV drafted (33 scenes, 49,900 words; pilot II-03 and II-06 carried in), self-audited, with a (check) list per act. New names Aemilius, Ahenobarbus, Marcellus, Vettius (invented). Book stands at 67,000 words, under the 90,000 ceiling.
+- 2026-11-11: Reuben: follow Appian, Lucius goes to Spain after Perusia. IV-09 rewritten in Corduba, autumn 40; storyboard row updated.
