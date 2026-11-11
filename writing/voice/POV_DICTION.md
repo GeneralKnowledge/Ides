@@ -1,5 +1,7 @@
 # Per-POV Diction Cheatsheets
 
+> **2026-11-11:** For the full-book voice pass, [`MIND_SHEETS.md`](MIND_SHEETS.md) takes precedence over this file wherever they differ. See the note at the top of [`../HUMAN_VOICE_RULES.md`](../HUMAN_VOICE_RULES.md).
+
 Use when revising or auditing voice. “Never” = a default to break only with a reason, not absolute historical linguistics.  
 **Tone lens:** `TONE_SPARTACUS_GRRM.md` (GOT blends + Batiatus rule). Humour notes below are defaults.
 

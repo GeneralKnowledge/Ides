@@ -1,7 +1,16 @@
 # Human-voice rules — Book 1
 
 **Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22; revision vs development split (§1a) added 2026-10-23; protection narrowed to named cores, pass caps confined to style-only passes and repetition cuts made lighter 2026-10-24 (`archive/pass_logs/rules_review_2026-10-24.md`); habit I (caption fragments) added 2026-10-29 (`archive/pass_logs/one_word_sentence_pass_2026-10-29.md`).  
-**Suspended for the voice rewrite, 2026-11-11 (Reuben):** owner diction (§3.3), load-bearing brands (§3.4), the cap on passes (§3.7) and the preference for cuts over rewrites do not apply to scenes rewritten from [`voice/MIND_SHEETS.md`](voice/MIND_SHEETS.md). They were protecting the habit an outside reader found across Ch 1–6. Pilot: [`../drafts/pilot_voice_2026-11-11/`](../drafts/pilot_voice_2026-11-11/README.md).  
+**Suspended for the full-book voice pass, 2026-11-11 (Reuben).** An outside reader found that the prose explains itself and that every viewpoint thinks alike, and several rules below were protecting that habit. While the pass runs, a scene may be rewritten in full from [`voice/MIND_SHEETS.md`](voice/MIND_SHEETS.md), and these do not apply to it:
+- §3.3 owner diction and §4.2 owner metaphors. A character keeps a habit of mind only if the mind sheet gives it to them. Laberius, Antony, Octavian and Nysa do not “file” or “price” what they see; that is Hordeonius’s.
+- §3.4 load-bearing brands. The events stay (the unread note, the wrong Cinna, spare Antony). The phrases (“soft chain”, “I digest”, “hopeful shadow”) stay only where a scene still needs them.
+- §3.6, §3.7 and §4.5, the caps on passes, and §5.3 on repeat audits. This is a new question about the book.
+- §4.6, the settled chapters. Prologue, Ch 1–3, 20–23 and 37–38 are audited like the rest. Their named events do not change.
+- §4.10 and the preference for cuts over rewrites. A passage that “works” line by line can still be explaining the scene.
+- [`voice/POV_DICTION.md`](voice/POV_DICTION.md), [`voice/TONE_SPARTACUS_GRRM.md`](voice/TONE_SPARTACUS_GRRM.md) and [`voice/SAMPLE_F4_batiatus_chip.md`](voice/SAMPLE_F4_batiatus_chip.md) give way to the mind sheets wherever they differ. They are where the ledger maxims came from.
+
+**Still in force:** the history and the invariants; the Ides chapters handled last and lightly (§3.5); no em dashes (§3.8); no caption fragments (habit I); no quotas or bans (§4.8), which includes no ban on aphorisms; no explaining narrator. Pilot record: [`../drafts/pilot_voice_2026-11-11/`](../drafts/pilot_voice_2026-11-11/README.md).
+
 **Purpose:** Keep the novel feeling like rooms with bodies, not polished caption.  
 **Not:** A detector-optimisation programme. Detector flags are clues, not success metrics.
 

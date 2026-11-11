@@ -1,5 +1,7 @@
 # TONE-1 — Spartacus Bite + GRRM Weight (Soft Lock)
 
+> **2026-11-11:** For the full-book voice pass, [`MIND_SHEETS.md`](MIND_SHEETS.md) takes precedence over this file wherever they differ. See the note at the top of [`../HUMAN_VOICE_RULES.md`](../HUMAN_VOICE_RULES.md).
+
 **Status:** Soft lock for dialogue and character energy. Does **not** override VOICE-1, anchors, or Roman texture.  
 **Steal craft, not costumes:** no dragons, no “m’lord,” no arena soap replacing Senate politics.
 
