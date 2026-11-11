@@ -24,7 +24,7 @@ Segulius Labeo came to dinner in the camp that month, because Labeo came to dinn
 
 Octavian’s throat tightened once, shame or fever; he didn’t sort it. He looked at the pay chests, not at Agrippa’s face. “Then we pay before we argue. Men who are owed invent worse stories than senators do.”
 
-He had the clerks open the nearest chest where Agrippa could see the count. Late thanks; complete coin. The order of those facts was the lesson he was learning with his hands. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
+He had the clerks open the nearest chest where Agrippa could see the count. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
 
 A centurion from the Martians said it first, loud enough for the pay line: “They want us under the man who held Caesar’s door. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march for an assassin on praise that arrived late and sweet. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. Two chairs were empty.
 
@@ -126,15 +126,9 @@ Agrippa had counted. He said six, and then six. He said it was a hot summer and 
 
 Octavian looked at the empty sky a moment longer than he meant to. Six birds belonged to the augur. Twelve belonged to the camp, and the camp had made him a second Romulus before the centuries had finished making him a consul. He would not correct them.
 
-He felt sick after the count, stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Publicly he accepted the fasces like owed homework. Twelve lictors shouldered the bound rods and walked ahead of him, and men stepped out of the street for the rods before they looked to see whose face came behind. A herald stumbled over *consul* and *nineteen* in the same breath, as if the two words had never met. Octavian let him find his way to the end.
+He felt sick after the count, stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Twelve lictors shouldered the bound rods and walked ahead of him, and men stepped out of the street for the rods before they looked to see whose face came behind. A herald stumbled over *consul* and *nineteen* in the same breath, as if the two words had never met. Octavian let him find his way to the end.
 
 Pedius had his first law ready before the lictors had learned the way to the new consul’s door: a court for the men of the Ides. It sat in a day. Nobody spoke for the absent, because nobody was fool enough to. Octavian read the list of the condemned at supper, and Decimus’s name was on it, and Casca’s, and Brutus’s and Cassius’s at the top, and he put the tablet face down beside his plate and ate what was on the plate, because his mother had told him to.
-
-“They will hate this,” Agrippa said.
-
-Octavian wiped sweat from his upper lip with the back of his hand, ugly, visible, unfinished. “They hated the knives more. Let them hate a boy who pays after the line eats.”
-
-Agrippa’s mouth twitched, almost the old Apollonia play, then not. “Homework with fasces. Only you could make a consulship sound like a debt you intend to clear before bedtime.” Octavian did not smile. Smiling would have spoiled the pay line. He let the twitch count as the joke landing and kept his fingers on the chest.
 
 ---
 
@@ -204,7 +198,7 @@ That evening the camp was so quiet he could hear the river. He walked the lines 
 
 Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another asked whether they should wait for Cassius from the East.
 
-“Wait here and the road learns our number,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
+“If we wait here they will count us,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
 
 At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
 
@@ -212,7 +206,7 @@ They slept once in a barn that smelled of wet hay and someone else’s fear. In 
 
 On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search.
 
-Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly. Decimus’s remaining aide whispered, “Lepidus’s smile.”
+Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly.
 
 “Or anybody’s price,” Decimus said.
 
@@ -220,7 +214,7 @@ He still dismounted. Refusing the ford meant the open road behind, where Antony�
 
 The man who came down to the water to meet them was a Gallic chief called Camelus, whose people Decimus had once paid in Caesar’s name for remounts. Camelus asked for his name. He already knew it. Decimus gave it because lying would have bought a few breaths instead of miles.
 
-They kept him a night in a hut above the ford. In the morning a rider came up from the south, from Antony, and a purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces by glint before the knives moved, enough metal for a short road and a long silence.
+They kept him a night in a hut above the ford. In the morning a rider came up from the south, from Antony, and a purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces as they went from one hand to the other. He could not help it.
 
 There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee at the ditch by the ford, shallow and ordinary: meltwater, a broken rein, the smell of wet wool. If he thought of Caesar’s laugh one last time, the thought stayed inside.
 
@@ -229,10 +223,13 @@ Camelus’s man struck once at the neck, and again.
 ---
 
 ## Continuity
-- **SC-83 (S5):** the consulship (19 Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse. Philippus writes: forty-two years for the chair, he has nineteen. July: four hundred centurions and picked men go to Rome; Cornelius (old burn down one forearm) throws back his cloak in the House, “If you will not make him consul, this will” (Suet. *Aug.* 26), and tells it at the pay line; Octavian neither ordered nor forbade it. Late July: the Rubicon with eight legions; he feels nothing, the men feel it for him. The Senate’s money offered then recalled; two African legions go over outside the walls; Cornutus the urban praetor falls on his sword. Atia and Octavia in the Vestals’ house; Octavia uses his old name; Atia kept the jewel box, he says “Not now either” (pays Ch 22); “Eat something… before you do anything you can’t take back.” Cicero greets him last: “You are the last of my friends to greet me” (App. *BC* 3.92), with the three verbs in his head; the night rumour, Cicero at the Curia door, then the closed litter. Treasury chests from Saturn set out in the Forum: 2,500 a man, the rest promised; “Honours after the line is fed.” Election on the Field of Mars with Pedius (another grandson of Caesar’s sister, coughs); six vultures at the auspices, six more at the speech; the camp says twelve and Romulus, Agrippa says six and six and the river (App. *BC* 3.94; Suet. *Aug.* 95), left open. The fasces as twelve lictors whose rods move the street. The Pedian court condemns the men of the Ides in a day; Octavian turns the tablet face down. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; Agrippa’s “homework with fasces”. Decimus’s death is not reported in SC-83 (courier paragraph cut 2026-11-04); SC-82c now closes the chapter and shows it.
+- **SC-83 (S5):** the consulship (19 Aug 43) is caused: both consuls dead, the Senate’s triumph and legions for Decimus that the ranks refuse. Philippus writes: forty-two years for the chair, he has nineteen. July: four hundred centurions and picked men go to Rome; Cornelius (old burn down one forearm) throws back his cloak in the House, “If you will not make him consul, this will” (Suet. *Aug.* 26), and tells it at the pay line; Octavian neither ordered nor forbade it. Late July: the Rubicon with eight legions; he feels nothing, the men feel it for him. The Senate’s money offered then recalled; two African legions go over outside the walls; Cornutus the urban praetor falls on his sword. Atia and Octavia in the Vestals’ house; Octavia uses his old name; Atia kept the jewel box, he says “Not now either” (pays Ch 22); “Eat something… before you do anything you can’t take back.” Cicero greets him last: “You are the last of my friends to greet me” (App. *BC* 3.92), with the three verbs in his head; the night rumour, Cicero at the Curia door, then the closed litter. Treasury chests from Saturn set out in the Forum: 2,500 a man, the rest promised; “Honours after the line is fed.” Election on the Field of Mars with Pedius (another grandson of Caesar’s sister, coughs); six vultures at the auspices, six more at the speech; the camp says twelve and Romulus, Agrippa says six and six and the river (App. *BC* 3.94; Suet. *Aug.* 95), left open. The fasces as twelve lictors whose rods move the street. The Pedian court condemns the men of the Ides in a day; Octavian turns the tablet face down. Octavian orders the pay chest first, his body shakes, he refuses a destiny smile; the scene ends on his eating what is on the plate (Agrippa’s “homework with fasces” exchange cut 2026-11-11, voice pass). Decimus’s death is not reported in SC-83 (courier paragraph cut 2026-11-04); SC-82c now closes the chapter and shows it.
 - **T12 (SC-83):** May 43, Labeo tells the saying at dinner in Octavian’s camp; trimmed 2026-11-07 (storyboard fix 8) to two sentences, since Decimus has already reported saying and answer at Eporedia (Ch 31). The last verb won’t come out as only a joke; the three verbs return when Cicero greets him last, and in Ch 33.
 - **SC-82c (late Aug → Sept 43, part two; split from SC-82 2026-11-07):** Last days of August, at Cularo: the boy consul with Pedius; the Pedian court condemns the men of the Ides in absence, Decimus among them (fire and water). Pollio’s sealed letters for Plancus; Decimus asks at dinner; Plancus: Pollio thinks the Curia men are the price of peace; “I have not answered him.” September dawn: Plancus’s legions cross his Isara bridge to Antony and Lepidus; Plancus raises a hand halfway over, Decimus doesn’t; a courteous letter after; the recruits walk off, some to Plancus, some to the boy, some home; Decimus stops counting. a Lepidus rider returns the tablet unopened (Ch 20). The older aide counts: Lepidus’s legions over the Alps took Antony in (waded the river; Lepidus blames his soldiers); the boy refuses a road shared with Caesar’s door-holder. Decimus dies at a priced ford, in an ordinary way; he settles a fork, a schedule, waterskins. No speech. The Gallic chief Camelus, once in his pay, holds him a night until Antony’s rider comes, and his man kills Decimus at the ditch (Appian *BC* 3.98; made explicit 2026-11-03, Gate 3 reader 1).
 - **Plants → pays:** Ch 27 aide on Lepidus; the Bononia table (Ch 33).
 - **Must not:** Lepidus is not the sole killer; no Augustus mind. Not re-glossed: the Martians, the Liberators.
 - **Graph pass 2026-10-24:** Octavia’s household news at the Vestals: one of the old house’s freedwomen counts in Antony’s kitchen; Octavian asks her name; Agrippa will find it (pays Ch 38 “Julia Nysa”). At the pay tables Octavian has Laberius’s plot line copied on to Agrippa’s list (pays Ch 38 Twine freedman). Decimus’s aide recap of the Lepidus news cut (SC-82 already shows it).
 - **Decisions:** 2026-11-07 (Reuben, storyboard fixes 1–2): split from old Ch 31. Octavian’s consulship first, then Decimus hears of it at Cularo (opening line names the place) and dies at the ford, so the chapter ends on him and there is no four-month rewind. 2026-11-04 (examine-next round): the SC-83 courier paragraph on Decimus’s end cut.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-83 and SC-82c light edits; SC-83 now ends on the plate.

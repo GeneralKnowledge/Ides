@@ -14,9 +14,9 @@ Overhear risk: Dwindling staff
 
 ---
 
-Decimus left Mutina at the end of April, after the relief had made the wall honest again, with Hirtius’s grave still fresh and Antony thinned but not finished. At the first milestone past the gate he waited half the morning for Plancus’s promised meeting-mark, and no cohorts came. Near noon a rider from the Lepidus channel he had seeded after the funeral handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Decimus kept the returned tablet.
+Decimus left Mutina at the end of April, after the relief, with Hirtius’s grave still fresh and Antony thinned but not finished. At the first milestone past the gate he waited half the morning for Plancus’s promised meeting-mark, and no cohorts came. Near noon a rider from the Lepidus channel he had seeded after the funeral handed back Decimus’s latest wax unopened. “The meeting near the approaches cannot yet be kept,” the man said, practising courtesy. “My principal sends goodwill.” Decimus kept the returned tablet.
 
-Antony, bleeding but unbroken, was already sliding toward friends Decimus could not buy.
+Antony was beaten and not finished, and he was already on the road to Lepidus.
 
 Cicero’s praise arrived sweet and late. Decimus read one line of congratulation twice, then folded it into a pack already too light on grain. He wrote one more letter that tried to sound steady, gates held, honour intact. He stopped mid-sentence when his hand cramped. He didn’t send a second copy.
 
@@ -265,3 +265,6 @@ He went home to Smyrna on the next ship with Cassius’s receipt for nothing, an
 - **Plants → pays:** Plancus on the Isara (Ch 32 SC-82c); Porcia’s three lines and Servilia’s sealed letter (Ch 36 SC-88b); Gaius to the ship (Ch 36 SC-88b); Laodicea stripped and Dolabella’s men (Ch 36 SC-87, SC-88c); Amyntas’s orphans’ book (Ch 29).
 - **Must not:** Lepidus is not the sole killer. Not re-glossed: the Martians, the Liberators.
 - **Decisions:** 2026-11-07 (Reuben, storyboard fixes 1–3): old Ch 31 split in two. This chapter takes Decimus’s summer (first half of the old SC-82, cut at the August news), Porcia, Brutus’s legion and Laodicea (moved from old Ch 35, now Ch 36), all in date order from late April to midsummer 43. Ch 32 “Consul” takes Octavian’s consulship and Decimus’s end. 2026-11-04: scenes reordered to date order and the SC-83 courier paragraph on Decimus’s end cut (see Ch 32).
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-82 light edit.

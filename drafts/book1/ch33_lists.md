@@ -18,7 +18,7 @@ They met because none could kill the other two cheaply.
 
 The island sat low in the river below Bononia, a gravel tongue with a tent on it and two camps on the banks watching each other’s fires. Lepidus crossed first over the plank bridge and walked the island with his own eyes before he waved the other two across. On the sand each man let the others’ people pat him down for blades. Nobody pretended it was ceremony.
 
-Antony had come with his soldier’s weight and a hunger Octavian could almost smell across the table, the hunger of the man who had opened the treasury at the temple of Ops. He looked at Octavian for a long moment, and Octavian watched a joke arrive in his face and not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus had brought what Octavian had long ago decided was his only talent, being present when maps were drawn and surviving other men’s sentences without becoming their subject. He had also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate. Appetite had moved to paper.
+Antony had come with his soldier’s weight and a hunger Octavian could almost smell across the table, the hunger of the man who had opened the treasury at the temple of Ops. He looked at Octavian for a long moment, and Octavian watched a joke arrive in his face and not come out. Octavian had brought the name, and a cold that still cracked sometimes when a room laughed wrong. He felt it crack now, and seal, like wax under a thumb. Lepidus had brought what Octavian had long ago decided was his only talent, being present when maps were drawn and surviving other men’s sentences without becoming their subject. He had also brought the legions that had waded the river to Antony in the spring, which was why he had a chair. A table held bread nobody ate.
 
 Lepidus wanted the law first. In a month of letters he had wanted the law first every time. They had haggled it to the word, and he read it out anyway, and Octavian thought he had never met a man who believed less in a thing he had not heard in his own voice. “A tribune carries it in Rome. Three men for setting the state in order. Five years. A consul’s power for each of us, and no veto over any of it.”
 
@@ -42,7 +42,7 @@ Antony laid his palm on the tablet again. “There. Names, heads, and a sale, an
 
 Across the sea, Brutus had been keeping Antony’s brother since the spring. Octavian watched the hand on the tablet for any sign of that and found none, which told him nothing either way.
 
-Victim lists began like shopping. A name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it returned to blood accounting.
+It began with a name, then a joke, then silence when the joke hit someone each man still half-liked. A guard outside coughed. Conversation became rain and cousins for three breaths. Then it went back to the names.
 
 Antony’s stylus paused on a lesser enemy first, a man who had borrowed money and returned sermons, an easy one. The stylus moved. Then it paused again on a blank that was not blank in anyone’s throat.
 
@@ -84,7 +84,7 @@ Octavian did not answer. He took the ring back. The click leaving wood was quiet
 
 By morning both camps would know which names had been traded for which, and would argue for years about which of the three had been the cruellest. They sealed what could be sealed.
 
-Antony poured wine that did not taste like celebration. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank as if he hoped, Octavian thought, that the cup would make him smaller than the map. Outside, a horse screamed at nothing. Inside, the lists grew.
+Antony poured wine. He did not look at Octavian while pouring. Octavian let him not look, and didn’t drink deep. Lepidus drank quickly, with both hands round the cup. Outside, a horse screamed at nothing. Inside, the lists grew.
 
 ---
 
@@ -93,24 +93,52 @@ Antony poured wine that did not taste like celebration. He did not look at Octav
 POV: F4 / F1 (two parts) · Rome
 Date / place: Dec 43 · Hordeonius’s stall, the Subura, Antony’s Carinae house
 Canon refs: A13 · Chain 7 · Festus pattern
-Info ENTER: Lists posted · EXIT: Betrayal market; confiscations
+Info ENTER: Lists posted · EXIT: Hordeonius buys a proscribed man’s garden (*acquired: unclean*); Bucco is back; Medullina pays to have a chalked name changed; Phileros asks for work at the Carinae door
 Overhear risk: Extreme terror
 
 ---
 
 ### Hordeonius
 
-Hordeonius acquired a neighbour’s leases, and a widow’s garden rights, through channels that smelled like lists. The widow’s steward spat near his shoes and called it accident. Hordeonius called it business and paid anyway. He told himself seals were older than pity. Sleep disagreed: it arrived late and left early.
+The garden went under the spear on the fourth day of the sales. It was a strip behind a house on the Quirinal with a well, eleven fruit trees and a right of way to the street. It had belonged to a man whose name was on the second board. His widow had the house still, for the present.
 
-“I am preserving value,” he informed his empty shelf. The shelf didn’t absolve. Sosia looked at him the way he looked at a bad joke. He had not told one. Truth under proscription sounded like a joke whether you meant one or not. He entered *acquired: unclean* in a private cipher. In the dark he smelled Visellius’s old room for no reason. Bucco was back from the south that week, Sosia said, lending to the triumvirs’ soldiers against their share of the auctions, and no magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son’s throat. Hordeonius told himself archaeology was closed.
+Hordeonius bid because the garden marched with a lease he already held. He bid also because the man beside him would have had it otherwise, and the man beside him was one of Antony’s centurions, who had never owned a tree. He got it for a third of its worth. Nobody at the sale looked at him, and he looked at nobody.
+
+The widow’s steward was waiting at the garden door with the key. He was old. He held the key out, and as Hordeonius took it he spat, and it landed beside Hordeonius’s shoe.
+
+“Your pardon. The dust.”
+
+“It is a dusty year,” Hordeonius said. He gave the man the customary coin for the handing-over. He was not obliged to. The steward took it and looked at it as he might have looked at something found in a drain.
+
+“I am preserving the value,” Hordeonius said to Sosia, going down the hill. “That soldier would have had the trees for firewood by the Saturnalia. She will be able to see them from her window.”
+
+Sosia said nothing. Sosia always said something.
+
+At the Janus that week Bucco’s stool was back in its old place. He was lending to the triumvirs’ soldiers against their share of the sales, and there was a queue. He nodded to Hordeonius across the paving, as one man of business nods to another. No magistrate in Rome was going to ask Antony’s moneylender about a freedman’s son and his throat. Hordeonius found that he had nodded back.
+
+That night he entered the garden in the book he kept at home, in the cipher: *acquired: unclean.* He had never needed the second word before, and had to stop and work out how it was spelled. He slept late and badly. He woke with the smell of a room above a fuller’s in his nose.
 
 ### Nysa
 
-Nysa saw Festus sell a household with a sentence. By the third day the whole Subura knew the name: a slave from the Esquiline who had walked his master’s hiding place to the tribunal and walked back a citizen. A woman in the street paid with a bracelet and a name; the bracelet was prettier than the mercy it bought. A wrong cognomen nearly got a poet-adjacent man beaten until someone remembered Cinna and laughed wrong.
+On the corner below the Carinae a boy was chalking the names on a wall.
 
-Near the Subura corner a boy chalked names from a list onto a wall for men who could not read wood but could read chalk. Medullina stopped him mid-letter, Medullina who had once wanted senators from Nysa and got chickens, pressed a coin into his palm, and whispered a different spelling. The boy hesitated, coin versus chalk. Then he rubbed one stroke out and wrote the lie. Nysa watched the wall become a market. She did not ask whose name Medullina was saving or selling, and she did not correct him. Correction joined you to the wood.
+He had them from the boards in the Forum, copied on a potsherd, for people who could not get near the wood for the crowd. He was nine or ten and wrote with his tongue between his teeth. Nysa was coming back with the bread. She stopped because everyone stopped.
 
-Phileros drank less now; fear sobered some men and ruined others. He came to the Carinae kitchen door, where Nysa had carried for Antony’s steward since the spring before last, and asked her if the Domus still had a mistress worth fearing. She said fear had moved house. She kept her eyes down and her feet moving. In a side court she found a broken seal stamp and left it; broken seals let new law pretend to be old. She passed a posted list without reading every name. Reading every name invited your own onto the wood. She still felt the ink like heat. She did not look for Calpurnia’s old corridors of dread. Those corridors had been sold with the seals.
+Two women beside her were talking about Festus. All the Subura had that name by the third day. He was a slave from the Esquiline who had walked the soldiers to the place where his master was hiding and had walked home a citizen. One of the women had heard that he wore the cap already, indoors.
+
+Medullina came through the crowd from the other side. She had a good shawl on. She put a coin into the boy’s free hand, and bent, and said something into his ear, and drew two letters on the air with her finger.
+
+The boy looked at the coin and then at the wall. He rubbed out one stroke with the heel of his hand and chalked another. It was a different name now. A man at the front who had been reading with his lips went on down to the next.
+
+Nysa could read, slowly. She had read it before and she read it after. She did not know whether Medullina had saved the first man or sold the second. She kept both names and said neither. Medullina saw her, and saw the basket, and whose kitchen the bread was for, and did not look away. It was Nysa who looked away.
+
+Phileros came to the kitchen door of the Carinae house that evening. He was sober. She had not seen that before, and his hands were worse for it. The Domus was Lepidus’s now and Lepidus’s people had their own doorkeeper.
+
+“Your mistress,” he said. “Is she one to be afraid of?”
+
+Nysa thought about it. “She keeps a book.”
+
+He asked if she would speak for him to the steward. She said she would say that he knew doors. She gave him the heel of a loaf, and he bowed to her as he took it, the short Carinae bow, with the eyes down first. He had not meant to. Neither of them laughed.
 
 ---
 
@@ -236,3 +264,6 @@ She would. She had a name on her tongue now, a consul’s name, the kind Medulli
 - **Must not (T11):** no census of the dead. (Calenus/Varro rules moved with SC-85b–d to Ch 34.)
 - **Decisions:** 2026-10-23: the terms read aloud from the draft (tightening rework). T9/T11: Nysa serves in Antony’s house from Ch 23. 2026-10-24: T11 scenes SC-85a–d added. 2026-11-04: SC-85b–d moved to Ch 34.
 - **Decisions:** 2026-11-04 (Reuben, examine-next round): Bononia follows the sources, two days of argument and a three-way trade, replacing the instant assent, the invented “lesser name” and the whispered swap; Octavian’s “The war buys us” cut.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-85 rewritten in full as two short scenes (Hordeonius buys the garden and is spat at; Nysa at the chalk wall, Medullina, Phileros sober at the kitchen door and “She keeps a book”). SC-84 light edit.

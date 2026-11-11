@@ -22,13 +22,13 @@ He had already tried the sea. A hired ship out of Astura, Brutus somewhere beyon
 
 “There are soldiers on the Formiae road, master,” said the steward. “We are taking you to the ship.”
 
-They lifted him into the litter in his night tunic, with a cloak thrown over it, and carried him out by the garden door and down the shaded walk that ran through the trees to the sea. Through the gap in the curtain he saw green and then grey, the water showing between trunks. Sea air brought salt that tasted like unfinished letters.
+They lifted him into the litter in his night tunic, with a cloak thrown over it, and carried him out by the garden door and down the shaded walk that ran through the trees to the sea. Through the gap in the curtain he saw green and then grey, the water showing between trunks.
 
-Proscription had turned his name into a price. A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He had tried to treat it as a rhetorical problem and failed. Rhetoric needed an audience, and hunters were not one. The boy he had aimed at Antony and called statecraft had learned. Antony had remembered.
+A freedman had brought the copy to Tusculum: his own name, and his brother Quintus’s, and the nephew’s, under an edict sealed by three men. One of the three was the boy. He had tried to treat it as a rhetorical problem and failed.
 
 Behind them, up at the villa, someone was beating on a door. Then wood gave, and there was shouting in the house, the flat Latin of men who had been told a name and a reward.
 
-“Faster,” he told the bearers, and hated the word. Speed was not eloquence. Speed was what animals did when the forest closed.
+“Faster,” he told the bearers, and hated the word.
 
 He looked back up the walk through the curtain. At the top of it, by the garden door, a young man was standing among the soldiers and pointing down the path between the trees. Cicero knew the shape of him before he knew the face. Philologus. Quintus’s freedman, a clever boy Cicero had taught to read Greek himself, at his own table, because the boy had wanted it so badly. Philologus pointed, and the soldiers came down the walk at a run, and some of them peeled off to the left to go round by the shore and cut the litter off where the trees ended.
 
@@ -289,3 +289,6 @@ She gave Fulvia’s woman the true number, as near as she could make it. Fulvia�
 - **Plants → pays:** the Ch 33 seal-ring assent; the Philippics wager; Ch 33 SC-85a (Julia); Ch 25 count; Ch 11 Medullina; “Win. Then count” (Ch 30).
 - **Must not:** no trophy aside (head and hands) outside his POV, including in SC-86a–c; no comedy in SC-86. Not re-glossed: Philippics, Atticus, Lanuvium, Demosthenes.
 - **Graph pass 2026-10-24:** Fulvia’s woman writes Nysa’s count on a tablet listing the men who called in Fulvia’s paper in the spring; *Hordeonius, at the Janus* near the top. Pays Ch 33 “She does [keep ledgers]”; Ch 38 Open Wax.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-86 light edit.
