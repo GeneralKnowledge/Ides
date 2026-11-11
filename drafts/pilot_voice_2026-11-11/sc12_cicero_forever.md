@@ -2,7 +2,7 @@
 
 **Replaces:** `drafts/book1/ch06_perpetuo.md`, scene SC-12 (text on main at 225cefa is unchanged).
 **Mind sheet:** `writing/voice/MIND_SHEETS.md` (Cicero).
-**Length:** 1186 words (was 754).
+**Length:** 1211 words (was 754).
 
 ---
 
@@ -16,7 +16,7 @@ It had rained on the hill for a week, and two neighbours brought the news up fro
 
 “Then hear this. They have voted him dictator again.” He let it stand, enjoying it. “*Perpetuo.*”
 
-Cicero felt his face do it before he had told it to. The mouth went up at the corners and stayed there. It had been doing that for three years, in doorways and at dinners, and once, to his shame, alone, over a letter. Behind it the rest of him went where it always went, which was into the past. Six months: that had been a dictator, when Rome still made them properly, a man hired for one fire and handed every power in the state and thanked when he gave them back, and most of them had given them back early, out of manners. Sulla had kept his until he was bored. Caesar had taken a year, and then ten years, the way a guest takes a second cup and then the jug. Now some obliging colleague had stood up in the Senate and found the one word that was left.
+Cicero felt his face do it before he had told it to. The mouth went up at the corners and stayed there. It had been doing that for three years, in doorways and at dinners, and once, to his shame, alone, over a letter. Behind it the rest of him went where it always went, which was into the past. Six months: that had been a dictator, when Rome still made them properly, a man hired for one fire and handed every power in the state and thanked when he gave them back. Sulla had kept his until he was bored. Caesar had taken a year, and then ten years, the way a guest takes a second cup and then the jug. Now some obliging colleague had stood up in the Senate and found the one word that was left.
 
 “For life,” said the former praetor. “That is what it means. I asked.”
 
@@ -64,7 +64,7 @@ Tiro took a clean tablet and waited.
 
 “I have the copies.”
 
-“Then he has had the gods.” Cicero walked to the window and back. “Find me something he has not had. No. Give me Rome. *That Rome, which you have so often preserved, should now be assured of her preserver.*” He listened to it. It was not good. It was servile and it scanned, and it would do.
+“Then he has had the gods.” Cicero walked to the window and back. “Find me something he has not had. No. Give me Rome. *That Rome, which you have so often preserved, should now be assured of her preserver.*” He listened to it. It was not good. It was servile and it scanned, and it would do. Three years ago a sentence like that would have been wanted aloud, on his feet, before the whole Senate. Now it was wanted on a tablet, under his seal, for a secretary to put with the others.
 
 They had it sealed when the man from Hirtius came. Cicero had taught Hirtius to declaim, over a good many dinners; Caesar had since promised Hirtius a consulship, and Cicero liked to think the one had helped with the other. The man had a note that said nothing and a question that was not in it. Had Cicero heard the eastern talk, and what did he make of it, the title and the expedition both?
 
@@ -114,4 +114,5 @@ Tiro put the file copy of the letter to Caesar on top of it, and shut the drawer
 - **Beats kept:** the opening line; *dictator perpetuo* heard in a Tusculum doorway; six months, Sulla, ten years, for good; “Manners are what we call fear when it has learned Latin”; the letter to Atticus that stays in the drawer and the note to Caesar that is sent; Hirtius’s man and “delighted by both”; Tiro’s “It is in the drawer”; Parthia as a clock.
 - **Changed:** the two speakers are neighbours with something at stake; the “manners” line is said and at once taken back, and Cicero covers for the man. The two letters are dictated on the page, with Tiro supplying what was used last time. Cicero’s accommodation now rests on a wrong forecast (three years in Parthia will take care of “for ever”), which is new and leads toward his blind calm in Ch 13. The scene ends on Tiro putting the copy of the letter to Caesar on top of the one to Atticus.
 - **Dropped lines:** “Holding was his craft”, “Friendship as cipher: the only legion he trusted”, “Forever, treated as a departure date, was still a clock”, the clapper’s wall-and-doorway line, the maxim about surviving a master’s complaint.
+- **After the blind read (2026-11-11):** this version preferred. Light edit as asked: the dictatorship history shortened by a clause; the thought from the old text about what the best speaker in Rome is worth now is kept as something concrete (the sentence wanted on a tablet, not aloud). The wall-and-doorway line stays out.
 - **Facts added:** three years planned for Parthia and a return by the north (Plut. *Caes.* 58; Dio 43.51); sixteen legions (as Ch 5). Cicero’s *Hortensius* (45).
