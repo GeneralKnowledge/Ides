@@ -27,13 +27,13 @@ Brutus spoke. He heard himself speak. The words were right (*libertas*, tyrant, 
 
 Cassius did not choose between them yet. He was still watching the paths. “Speak again, or go down. One or the other.”
 
-Brutus watched a knot of women shove a knot of men and had his first thought of the day that did not come out of a book: the city had loved the man more than it would ever love the word. Under it there was another thought, smaller, and he did not let it finish. He wanted, badly, to wait until the Forum below turned into the crowd he had written the speech for.
+Brutus watched a knot of women shove a knot of men and had his first thought of the day that did not come out of a book: the city had loved the man more than it would ever love the word. Under it there was another thought, smaller and worse: he had killed a man who forgave him and kept him close. He wanted, badly, to wait until the Forum below turned into the crowd he had written the speech for.
 
 “We hold until the reports clarify,” Brutus said, in the voice he used from a tribunal. “Liberty does not run from its own Forum.”
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age.
 
-“Lepidus has a legion on the Tiber island,” Cassius said, still watching the paths. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
+“Lepidus has a legion on the Tiber island,” Cassius said, without turning round. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
 
 “Cicero is writing the age?” Casca said. “Already?”
 

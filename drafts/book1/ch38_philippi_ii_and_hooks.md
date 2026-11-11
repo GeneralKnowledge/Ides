@@ -16,13 +16,13 @@ Overhear risk: Camp
 
 ### Brutus
 
-Brutus pressed two fingers under his ribs where the reports had lodged and found no relief there.
+Brutus had a stitch under his ribs that had been there since dawn, and he kept two fingers pressed against it.
 
 He knew now how it had happened, and that was worse than the versions had been. The horsemen Cassius saw from his hill were Brutus’s own, sent round to tell him the boy’s camp was taken, and they had pulled Titinius off his horse to embrace him. Titinius rode back up with a victor’s wreath on his head, found the tent, and killed himself beside it with his own sword. Cassius had died for want of one man riding back up a hill. He wanted a sentence for it and had none.
 
-Twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
+It was twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
 
-He made no speech. For a while the line held. He went along it on foot, nodding to men he knew, closing a gap with his own hand, and he would not sit while they stood. Mud took his boots. Dust took his mouth, and there was a taste of metal in it. An aide offered water. Brutus took it, swallowed wrong, coughed once, ugly, human, and went back to the gap.
+He made no speech. For a while the line held. He went along it on foot, nodding to men he knew, closing a gap with his own hand, and he would not sit while they stood. Mud took his boots. Dust took his mouth, and there was a taste of metal in it. An aide offered water. Brutus took it, swallowed wrong, coughed until his eyes ran, and went back to the gap.
 
 Somewhere on his left, where the young men of good family had been put because they had asked to be, the line went back. One of them did not. Brutus saw him for a moment through the dust: his wife’s brother, Cato’s son, who at Utica had hidden his father’s sword and wept in the doorway. He was not giving ground. He was shouting, over and over, so that the men coming at him would know whom they were killing, his own name and his father’s. *Marcus Cato. Cato’s son.* Then the dust closed, and when it opened again there was a heap of men where he had stood, theirs and Antony’s together, and the shouting had stopped.
 
@@ -32,19 +32,23 @@ Brutus looked at it. It was not far. To reach it he would have to leave the knot
 
 “Hold what you can,” Brutus said.
 
-He stayed. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
+He stayed. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line.
 
 Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. Somebody had to find out whether the camp still stood, and the only way to it was down through the enemy’s pickets. Statilius offered. He did not say anything about wise men and fools. He said that if he found the camp safe he would hold up a torch, and then he went down among the rocks into the dark, an Epicurean on a soldier’s errand. Brutus had kept his letter from Rome, two springs gone, the one about a thing that wanted a friend and not a cause.
 
-Brutus sat on a rock with his hands between his knees and waited. At some point he found that the thumb of his right hand was moving along the inside of his left wrist, back and forth, at the place where Porcia used to hold it when they walked in the garden at home, and he let it go on.
+Brutus sat on a rock with his hands between his knees and waited. Someone brought water up from the stream in a helmet, and he drank, and it tasted of the helmet. The men who had come with him lay about among the rocks, not sleeping. He asked after people by name: Labeo, and Flavius, his prefect of engineers, who had been at his shoulder at noon. Nobody had seen them. He said each name once more, quietly, and then did not ask after anyone else.
+
+Once he looked up. The sky had cleared, as it does over hills after a day of dust, and it was full of stars. He said a line of Greek to it, out of Euripides, asking Zeus not to let the man who had caused all this escape him. Volumnius, beside him, knew the line. He said a second line after it. Volumnius did not know that one, and Brutus did not say it again.
+
+At some point he found that the thumb of his right hand was moving along the inside of his left wrist, back and forth, at the place where Porcia used to hold it when they walked in the garden at home, and he let it go on.
 
 After a long time a torch went up, small and far off, over the place where the camp was. Brutus watched it. The camp was safe. The torch burned down and Statilius did not come back.
 
 “If Statilius is alive,” Brutus said, to nobody in particular, “he will come.”
 
-He did not come. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
+He did not come. Toward the end of the night Brutus got up and went round the men who were left, one at a time, and took each of them by the hand. He did not make a speech. To two or three of them he said that he was glad no friend of his had failed him, and they did not know what to answer. Volumnius, who had argued Plato with him for twenty years, refused when Brutus asked him to hold the sword, and wept, and Brutus did not ask him twice.
 
-Strato held it, a friend from the rhetoric schools in Athens, when rhetoric had seemed the hard part. Brutus took his hand first. Then he set the point under his ribs, where the reports had lodged and Cassius had been sitting all day, and leaned. He did not arrange his posture. There was no one left to arrange it for, only Strato, and Strato looked away.
+Strato held it, a friend from the rhetoric schools in Athens, when rhetoric had seemed the hard part. Brutus took his hand first. Then he set the point under his ribs, where the stitch had been all day, and leaned. He did not arrange his posture. There was no one left to arrange it for, only Strato, and Strato looked away.
 
 ### Octavian
 
@@ -60,9 +64,7 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 
-Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said. He meant Italian farms, and the promises had been made already, louder than anything on this plain.
-
-“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering.
+Fever eased, later, into a thin clarity. Agrippa brought him the list of promised acres, and Octavian kept one hand flat on it until the paper stopped fluttering.
 
 ---
 
@@ -76,7 +78,7 @@ Overhear risk: Officers
 
 ---
 
-There was still dust in Antony’s teeth, and the wine only moved it about. “We divide,” he said. “I take the East. It has the money and it is coughing blood. The boy takes Italy and the veterans.” An officer asked after Lepidus. “Lepidus keeps Africa,” Antony said, “if it turns out he has not been writing letters to Sextus Pompey.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies.
+There was still dust in Antony’s teeth, and the wine only moved it about. “We divide,” he said. “I take the East. It has the money and it is coughing blood. The boy takes Italy and the veterans.” An officer asked after Lepidus. “Lepidus keeps Africa,” Antony said, “if it turns out he has not been writing letters to Sextus Pompey.” The officers drank to it.
 
 They had found Brutus in the morning, on the hill, with his own men’s cloaks under him. Antony had gone up to look. He had not expected to want to, and had wanted to, and had stood over the body a long time while the officers waited further down the slope, and then he had taken off his own cloak, the general’s purple, and laid it over the dead man from the chin down. He had told a freedman to see him burned properly and the ashes sent to his mother. He did not explain it to the officers. He was not sure he could have.
 
@@ -188,11 +190,11 @@ She could have said a great many things. That in the Domus the people who carrie
 
 “You asked me with your face,” she said. “I answered the face.”
 
-The steward was quiet. Then he did a thing she had not expected. He rubbed out the number on the tablet with the flat of the stylus, carefully, line by line, until the wax was blank, and handed it to her.
+The steward was quiet. Then he did a thing she had not expected. He turned the tablet over on the table, with the number still on it, and left it there.
 
 “There’s a freedman of the young Caesar’s at the back door,” he said. “Since the morning. With a list. The old man’s freedmen and freedwomen in the city, the ones still owing their duty to the house.” He did not quite look at her. “Your name’s on it. Julia Nysa. He asked for you by it. I told him you were out counting.”
 
-She stood holding the blank tablet.
+She stood where she was.
 
 “The mistress would keep you,” the steward said. “Fulvia’s woman has said so. You’d have the scullery and a bed by the oven and the silver room at dawn, and nobody to ask you anything but her. There is bread in this house this spring.” He paused. “By the summer there may be soldiers at its door. You count. You know that.”
 
@@ -212,11 +214,7 @@ He found the name on his list and made a mark beside it. It was a small mark. It
 
 “The young Caesar’s house,” he said. “Tomorrow, before light. They’ll want to know who carries.”
 
-She went back in for her bundle: two tunics, a comb, the cracked oil flask. Fulvia’s woman was in the passage. She did not try to stop her. She only looked at the bundle, and at the tablet Nysa was still holding, and said, “Blank?”
-
-“Blank,” said Nysa.
-
-“Good,” said Fulvia’s woman, and stood aside.
+She went back in for her bundle: two tunics, a comb, the cracked oil flask. Fulvia’s woman was in the passage. She did not try to stop her. She only looked at the bundle, and stood aside.
 
 ---
 
@@ -315,7 +313,7 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **SC-93 (T8):** morning: Antony lays his own purple cloak over Brutus’s body, orders the ashes to Servilia, does not explain (Plut. *Ant.* 22, *Brut.* 53). Hortensius brought in; “You held the ship”; Gaius killed in the spring, buried by the coast road, Antony read it standing and burned it; “Take him to my brother. Do it there. On the stones.” (Plut. *Ant.* 22). Where it is done is left unsaid.
 - **SC-93:** Antony divides it in his own mouth: the East to him; Italy and the veterans to the boy; Lepidus Africa, if he is not writing to Sextus. The open wax; the list of promised acres unread under his cup (the tribune’s Italy line cut 2026-10-24 final validation: one land beat per POV before SC-95b).
 - **SC-95:** a short Hordeonius coda in Rome (the Rome and Visellius close could not sit in Antony’s POV); SIDE-1 ash (OPEN-0). Gate 3 reader 2 (2026-11-04): the close is now his choice on the page. Bucco back at the Janus lending to veterans; Basilus killed by his own slaves (Appian *BC* 3.98); Hordeonius weighs selling the copies to Bucco or taking them to a praetor and burns both tablets instead. He still does not know which hand killed Visellius (OPEN-0 held; no narrator verdict).
-- **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He rubs the tablet blank and hands it to her. An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time; “They’ll want to know who carries.” Fulvia’s woman: “Blank?” “Blank.” “Good.” Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
+- **SC-95a (Nysa, winter 42–41, T1):** Octavian back from Brundisium ill, up the Appian Way to the Capena gate; rumour all winter that he was dying or dead; litter curtains open, he looks, does not wave. The steward sends Nysa to count “properly this time” and has a tablet ready. She gives him the true number. He tells her Antony laughed at her games number (Ch 25) “for two years”; “You asked me with your face. I answered the face.” He turns the tablet face down with the number still on it (finishing pass 2026-11-11: no longer rubbed blank, one erasure fewer). An Octavian freedman at the back door with a list of Caesar’s freedmen still owing duty; she says her legal name, Julia Nysa, aloud for the first time (Phileros first used it to her in Ch 18); “They’ll want to know who carries.” Fulvia’s woman looks at the bundle and stands aside. Lucius Antonius consul (41) and Fulvia talking of the veterans and the land “in a voice that was going up” (the Perusine war is not named).
 - **SC-95b (Laberius, spring 41, T4):** the twine near Capua (fourth line from the Volturnus road, marked after Munda) still there. Vibius with him; Laberius in Gaius’s boots. A surveyor’s party (groma, chain, two mules) and an Octavian freedman with a list; a clean white stake through the beans. The farmer, Gnaeus Aulius (invented), has a tablet; the freedman cites the triumvirs’ eighteen cities, Capua among them (App. *BC* 4.3), “There’ll be compensation.” “When?” The scar-lipped torch veteran (Ch 19, Ch 24, Ch 27), still unnamed: “Dirt with a date… Nobody asked the vine.” Laberius steps over the twine toward the farmer. What he says or does there is left open; this is the book’s last scene.
 - **SC-92, young Cato:** added 2026-11-04 (Gate 3 reader 4 follow-up): Marcus Cato, Porcia’s brother, who hid the sword at Utica (prologue), falls shouting his name and his father’s (Plut. *Brut.* 49). Ties Philippi back to the prologue.
 - **SC-95c (Nysa, spring 41):** coda added 2026-11-04 (Gate 3 reader 3): Nysa mends the young Caesar’s torn tunic by one lamp (Suet. *Aug.* 73); closes the prologue’s needle and “who had sewn him”. Order set 2026-11-04 (readers 5–6, Reuben): SC-95c comes before SC-95b, so Laberius at the twine ends the book.

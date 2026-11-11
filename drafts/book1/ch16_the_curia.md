@@ -18,7 +18,7 @@ Overhear risk: Extreme inside
 
 In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-There was one door, and there were too many togas. Benches ran along both sides in tiers. Pompey’s statue stood at the far end, his old enemy’s face in marble. Caesar came in leaning a little forward, as he did when he was late. He sat, or half-sat. The golden chair stood a step above the benches; the Senate had voted him that too. Caesar had long since stopped noticing it. Cassius never had.
+There was one door, and there were too many togas. Benches ran along both sides in tiers. Pompey’s statue stood at the far end, Caesar’s old enemy in marble. Caesar came in leaning a little forward, as he did when he was late. He sat, or half-sat. The golden chair stood a step above the benches; the Senate had voted him that too. Caesar had long since stopped noticing it. Cassius never had.
 
 Tillius Cimber went forward first, as arranged, with his brother’s exile on his tongue and his hands already reaching. Caesar turned to him with his listening face.
 
@@ -77,7 +77,7 @@ Caesar looked at him.
 
 That was worse than knives.
 
-What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, the Greek for *you too*, perhaps only breath. Beside him someone swore he heard *child* after it, the way a father says it to a son. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
+What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, the Greek for *you too*, perhaps only air going out of him. Beside him someone swore he heard *child* after it, the way a father says it to a son. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
 
 Brutus did not answer.
 
@@ -122,7 +122,7 @@ Overhear risk: She is the overhear
 
 Nysa hadn’t meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.”
 
-She was still on the edge of the Campus crowd when men began to come out of the Curia.
+She was still on the edge of the Campus crowd when the Curia doors began to empty.
 
 Men ran past with red on their togas. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name.
 

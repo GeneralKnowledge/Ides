@@ -97,7 +97,7 @@ The main lines came out one after another. Young Octavius to three parts in four
 
 Antony laughed once, short, in recognition rather than mirth.
 
-“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. He had loved him enough to put him in the will, and then to die on his schedule.
+“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Caesar had loved him enough to put him in the will, and then to die on Decimus’s schedule.
 
 What mattered was the boy, and the name, and the crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony tried to remember the boy, and got thin shoes, and a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer. The boy had never fed a veteran. Antony could not see anything there to be afraid of.
 
@@ -127,9 +127,13 @@ Nysa saw the basin on its stand inside the door, with the water gone cloudy and 
 
 Nysa paid for the lentils. She had been given the exact coin, and she counted it out.
 
-At the Domus Phileros had it already, from the vestibule. He said that the house would be stripped now for keepsakes, and he looked at the door key in his hand. She was sent in with water for the mistress. The bedroom door was shut. She knocked, and waited, and set the jug down on the floor beside it, where it would be found.
+At the Domus Phileros had it already, from the vestibule. He said that the house would be stripped now for keepsakes, and he looked at the door key in his hand. Then he said the other thing, in the voice he used for the oil accounts. There was a clause for the household. The old man’s own people, the ones under this roof on the day, were to be free, and to take his name.
 
-By dusk the sum had grown in the street, and the gardens had fountains. She carried neither of those home. The wax was still against her ribs.
+He did not look up from the key. “Take the mistress her water, Julia Nysa.”
+
+She took it. The bedroom door was shut. She knocked, and waited, and set the jug down on the floor beside it, where it would be found.
+
+By dusk the sum had grown in the street, and the gardens had fountains. She carried neither of those home. She did not know yet what to do with the name. The wax was still against her ribs.
 
 ---
 

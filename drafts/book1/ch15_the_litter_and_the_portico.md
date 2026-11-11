@@ -33,7 +33,7 @@ Phileros talked too much, which meant he was afraid. “The chickens were sullen
 
 “Mine is a servant’s liver,” said Phileros. “It has no opinions.”
 
-Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia had seen what the girl tried to do at the door.
+Nysa passed with an armful of yesterday’s tablets, eyes down. Calpurnia had seen what the girl had tried to do at the door.
 
 “Stop,” Calpurnia said. “What was it, at the vestibule?”
 
@@ -129,7 +129,7 @@ Decimus helped Caesar down. Their hands met once more. Caesar’s palm was dry.
 
 He didn’t go in at once. The edges meant Antony, and Antony had to be kept out here in the colonnade until it was done.
 
-Caesar went into Pompey’s Curia among the men who owed him. Decimus felt sick. In three days Caesar would have left for Parthia, and there would have been no other morning.
+Caesar went into Pompey’s Curia among men who loved him, hated him, owed him. Decimus felt sick. In three days Caesar would leave for Parthia, and there would be no other morning.
 
 Decimus wiped his clean hands on his tunic, once, where no one would see, and went to find Trebonius’s eye.
 
@@ -180,7 +180,7 @@ They spoke of nothing that mattered: a cavalry remount, whether Hirtius wrote be
 
 “And writes like a general,” said Trebonius. “It is the one mercy of his career.”
 
-For a moment he had the feeling a soldier has when a door has shut somewhere behind him. He glanced toward the Curia.
+For a moment Antony had the feeling a soldier has when a door has shut somewhere behind him. He glanced toward the Curia.
 
 “Caesar’s gone in,” Antony said.
 

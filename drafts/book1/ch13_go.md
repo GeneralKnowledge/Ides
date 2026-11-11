@@ -18,7 +18,7 @@ Cicero wrote to Atticus about games.
 
 Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway, because Atticus kept Cicero’s real opinions and nobody else would. He wrote daily, and with relief.
 
-Not only games. There was a cousin’s lawsuit, and a slight in somebody’s new book, and the old question of whether Rome still deserved his voice. Dinner had brought him the usual talk: the crown again; a verse somebody had found in the Sibylline books, that only a king could beat the Parthians; a story that Caesar’s wife was not sleeping. Nobody at dinner had said anything about tomorrow’s Senate, except that it would be long.
+Not only games: there was a cousin’s lawsuit, and a slight in somebody’s new book, and the old question of whether Rome still deserved his voice. Dinner had brought him the usual talk: the crown again; a verse somebody had found in the Sibylline books, that only a king could beat the Parthians; a story that Caesar’s wife was not sleeping. Nobody at dinner had said anything about tomorrow’s Senate, except Cotta’s motion, and that the sitting would be long.
 
 *The city is theatrical*, he wrote, then sharper: *Theatre is what remains when men of standing refuse to stage a Republic.*
 

@@ -21,7 +21,7 @@ The Senate had voted the funeral in the same sitting as the amnesty, and hoped, 
 
 The Forum was packed to the temple steps. Heat came off the stone and off the people. Veterans stood in knots, waiting. Ordinary Romans had come for the money and the gardens, for grief, or to see.
 
-Antony did not make much of a speech. He had a herald read out the decrees, the long run of honours and powers the Senate itself had voted, and then the oath by which every senator had sworn to guard Caesar’s person with his own body. Read in a flat voice, in that light, each one sounded like a charge against the men who had voted it. After each Antony added a few words of his own, no more. Then he held up the gown with the holes in it, the way a soldier holds up a torn standard. The crowd’s anger was already in the air; he gave it somewhere to stand.
+Antony did not make much of a speech. He had a herald read out the decrees, the long run of honours and powers the Senate itself had voted, and then the oath by which every senator had sworn to guard Caesar’s person with his own body. Read in a flat voice, in that light, each one sounded like a charge against the men who had voted it. After each Antony added a few words of his own, no more. Then he held up the toga with the holes in it, the way a soldier holds up a torn standard. The crowd’s anger was already in the air; he gave it somewhere to stand.
 
 “An extraordinary man,” he said, and heard the crowd take the words up and say them back to him. “An illustrious man…”
 
@@ -43,7 +43,7 @@ A second officer, younger, smelling of oil and ambition, spoke across him. “Le
 
 Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Keep them off the granaries,” he told the first officer. “Let the rest go where it likes.” The first officer’s mouth went flat. The second grinned.
 
-The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand off toward the streets where the Liberators lived. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old clearness of a campaign, and something new under it that he did not like. The city was not waiting for his nod any more. The second officer was already too far forward to call back, and calling him back would have looked like fear.
+The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand off toward the streets where the Liberators lived. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than anyone was guarding the granaries, he felt the old clearness of a campaign, and something new under it that he did not like. The city was not waiting for his nod any more. The second officer was already too far forward to call back, and calling him back would have looked like fear.
 
 ---
 
