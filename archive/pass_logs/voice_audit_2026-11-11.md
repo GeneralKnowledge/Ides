@@ -185,3 +185,13 @@ The notes are working notes: what to keep is as important as what to change. “
 | 19 | SC-50a The Forum’s Mouth | Antony | 670 | **Line edits, light** | protected. Trim paired officers (again grey vs oily-ambitious, same as Ch 17), 'usurper of grief', 'evidence before poetry'. Keep 'You are doing both.' |
 | 19 | SC-50b Crowns of Noise | Sex. Laberius Cordus | 452 | **Line edits, heavy** | keep: closes fist on air not wood, 'I came for Capua', fuller's smell. Cut liberty/Capua quip exchange?, 'took a mental note... Notes survived campaigns' (filing), old veteran's aphorism speech ('dirt that walks'), 'The street had voted with smoke... fire-list'. |
 | 19 | SC-51 The Wrong Cinna | Nysa | 449 | **Line edits, heavy** | protected beat (Cinna, burning the wax). Cut the lesson ('information didn't have to be true to kill'), 'houses were maps', her epigram to Calpurnia, 'It changed nothing. That was why she could finally burn it.', final line. She should see the stone, the ink under his nail, and burn the wax without saying why. |
+
+## Outcome (2026-11-11)
+
+Reuben accepted the audit and all five recommendations, and the pass was carried out in the order planned: Ch 1–6, Ch 7–13, Ch 20–30, Ch 31–38, then the Ides chapters (14–19) with line edits only and the one approved rewrite (Ch 18 SC-48).
+
+- **Rewritten in full (23 scenes, counting the three pilot scenes):** Ch 2 SC-01, SC-02; Ch 4 SC-05, SC-07, SC-09; Ch 6 SC-12, SC-14; Ch 8 SC-21; Ch 9 SC-22; Ch 10 SC-25, SC-25b; Ch 11 SC-26; Ch 12 SC-29; Ch 18 SC-48; Ch 20 SC-52, SC-54; Ch 22 SC-63 (reduced to one beat); Ch 24 SC-67; Ch 25 SC-69; Ch 30 SC-80, SC-81; Ch 33 SC-85; Ch 36 SC-87. Ch 37 SC-90 had its Laberius half rewritten.
+- **Heavy and light edits:** every other scene marked for them in the table above. Scenes marked “leave” were not touched.
+- **Size:** scene prose went from 93,170 to 94,564 words. The growth was much smaller than the 8,000 to 10,000 words forecast, because the cuts to explaining narration in the edited scenes offset most of what the rewrites added.
+- **Each chapter’s notes** carry a dated Decisions line saying what changed and what later chapters must hold to. Original versions are in git history before commit 43c8d72 (pilot) and c8349a6 (section 1).
+- **Not done:** no outside read has yet been taken on any section; the print, EPUB and audiobook editions were not regenerated (DOCX only, by standing instruction).
