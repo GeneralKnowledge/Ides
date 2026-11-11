@@ -13,3 +13,5 @@ From the outside editorial review of Book 1, Chapters 1–6 (11 Nov 2026). The r
 ## How to use it
 
 At the act self-audit, read each scene once for these five, after the three tests. Note what you change in the changelog line for that act. If a question turns up nothing, move on.
+
+The same five points are counted against Book 1 in `reader_feedback/BOOK1_OPEN_CRITICISMS.md`, so that a criticism heard several times gets acted on.
