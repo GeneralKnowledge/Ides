@@ -178,11 +178,11 @@ Overhear risk: Public when delivered
 
 By autumn Cicero had stopped pretending the middle existed.
 
-On the desk lay two drafts: one that named Antony a public enemy in music, and one that named him a mistake in manners. He chose music. He worked at a single adjective until it could cut without looking eager, and failed, and left it eager.
+On the desk lay two drafts. One called Antony an enemy of the state in periods that would carry to the back of the Forum; the other called him a man who had forgotten his manners. He chose the first. He worked at a single adjective until it could cut without looking eager, and failed, and left it eager.
 
-Ink stained his fingers the colour of old wine. He felt the old consulship heat return. It was better than the polite despair of the villa coast.
+There was ink on his fingers. He had not felt like this since his consulship, with Catiline in the city, and it was better than a summer of being polite on the coast.
 
-A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.” He thought. “Except Calenus. Fufius Calenus, on the bench beside him, nodding at every line.”
+A friend came to warn him, with the dust of the street still on his sandals. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.” He thought. “Except Calenus. Fufius Calenus, on the bench beside him, nodding at every line.”
 
 “Calenus nods for a living,” Cicero said. “He will stand up and answer me for Antony the day I am there to be answered. He has a good voice and a better cellar, and he thinks they are the same thing. Antony spoke to my empty chair. I will answer from his. In every house in Rome that can read.”
 
@@ -202,7 +202,7 @@ The friend did not laugh. “Athens lost, as I remember. And Demosthenes ended d
 
 “Then it will have to be loud,” Cicero said. He waved the rest of the caution away with a gesture practised on juries.
 
-The boy could be pointed at Antony. He need not be loved for that. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he joined them like carpentry.
+The boy could be pointed at Antony. He need not be loved for that. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he found the sentence that would join them, and it was a good one.
 
 A courier waited with copies for men who would pretend they had not asked for copies. Cicero sealed the packets himself and sent them out.
 
@@ -212,7 +212,7 @@ The seal was broken. The wax had been thumb-smeared and pressed again badly: an 
 
 The friend, still in the atrium, went pale and said nothing.
 
-Cicero held the scarred tablet until his fingers stopped pretending to be steady. He thought of Atticus, of audiences, of the Capitol’s first day enlarged by memory. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
+Cicero held the scarred tablet in both hands until they were steady. He thought of what Atticus would say, and of the Capitol on the afternoon of the Ides, which was a better day each time he described it. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
 
 ---
 
