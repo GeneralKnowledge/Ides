@@ -16,7 +16,7 @@ Eleven scenes, 17,100 words, drafted once at full length on 11 Nov 2026. Scene I
 | I-10 | The Fourteen Rows | Octavian | 1,530 | 2,000 |
 | I-11 | Praeneste | Lucius | 1,940 | 1,800 |
 
-**Length.** The act is 77% of its 22,200 budget. Nothing was padded to reach it: each scene stops when its change has happened. If the other acts run the same way the book lands near 70,000 against the contract's 90,000 (plus or minus 10%), so the contract line is Reuben's call. The outside reader is asked where the act felt thin.
+**Length.** The act is 77% of its 22,200 budget. Nothing was padded to reach it: each scene stops when its change has happened. If the other acts run the same way the book lands near 70,000 against the contract's 90,000 (plus or minus 10%), Reuben decided (11 Nov) that 90,000 is a ceiling: length is added only where the outside reader says the act feels thin.
 
 ## Self-audit (three tests and the watchlist)
 

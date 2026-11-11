@@ -45,3 +45,4 @@ One line per change.
 - 2026-11-11: Voice pilot written (I-01 Laberius, II-03 Fulvia, II-06 Lucius) and the blind packet built with three Book 1 scenes; key in project files only.
 - 2026-11-11: Voice pilot passed. B and F endings restored after the reader praised them; explaining lines trimmed in D and F; Laberius sheet asks for more particulars.
 - 2026-11-11: Act I drafted (I-01 to I-11, 17,100 words, 77% of budget), self-audited; new names Glycon, the Marcii, Antyllus, Iullus; export tool tools/export_book2_docx.py.
+- 2026-11-11: Reuben: the contract's 90,000 words is a ceiling; add length only where the act's outside reader finds it thin.
