@@ -72,7 +72,7 @@ The tribune went to get them.
 
 It was then, with the whole flat ground quiet and the tribune walking down the line, that the old Antonians began to beat their shields. It was not all of them, and not in time: a slow knocking that went along the front rank and back into the second, and then the rest took it up because the rest always did, and it became a cheer, and the cheer went up the terraces of the temple behind her and came back off the stone.
 
-She stood in it. She did not let it change her face. Her elder son had come forward to the edge of the nurse’s reach and was looking at the sword on her hip as if it were the most wonderful thing he had ever seen. Claudia was not looking at anything.
+She stood in it. Her elder son had come forward to the edge of the nurse’s reach and was looking at the sword on her hip as if it were the most wonderful thing he had ever seen. Claudia was not looking at anything.
 
 When the cheer had gone on long enough she turned and went back up the hill, and they went on cheering behind her, and she counted them as she went the way she counted a household: by who had been loudest, and who had looked to see who else was cheering first.
 
@@ -94,4 +94,6 @@ Her woman came in with a tablet and stood by the door, the one who counted the s
 
 “Shall I write to Alexandria again?” she said. “The ship from Puteoli goes on the Ides.”
 
-“Write to both,” Fulvia said. “Alexandria and Ephesus. Say the same thing to each, and put the date on it.”
+Fulvia looked at the sword on the table, with the leather of the grip gone dark where Marcus’s hand had been.
+
+“Count the silver first,” she said.

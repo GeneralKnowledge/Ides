@@ -20,6 +20,8 @@ Facts used here are in the [handover](../canon/handover.md) and the [chronology]
 
 **The risk in his scenes:** making him a man of conscience who explains his conscience. He does not. He checks the farmer's fence instead, or he does not, and the reader sees which.
 
+**From the pilot read (11 Nov):** of the six blind scenes he read most like a type, the taciturn veteran. Give him things only he would have: a Picene way of saying something, a food he misses, a thing he is bad at (he cannot swim; he is no good with animals; he cannot judge soil, only ground to stand on), a memory that is not about soldiering. One such particular per scene, not a catalogue. His friendship with Vibius worked and should carry more of it.
+
 ### Nysa
 
 **What has changed:** she is in the young Caesar's house under her own name. She counts for him now. She has heard Fulvia and Lucius through the walls of the Carinae house all winter, and she knows Fulvia's woman.

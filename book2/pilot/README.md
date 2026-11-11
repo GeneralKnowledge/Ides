@@ -16,9 +16,18 @@ An outside reader gets the three, shuffled with three Book 1 model scenes (Ch 2 
 
 The blind DOCX and the key are in project files, `exports_2026-11-11_book2_voice_pilot/`. The key is not in this repo, so the reader can be pointed here afterwards.
 
-## Watchlist pass (11 Nov)
+## Result: PASSED (11 Nov 2026)
 
-Read against `book2/voice/WATCHLIST.md` (PR #215, from the outside review of Book 1 Ch 1–6) before the packet went out. Two of the three endings now simply stop: Laberius's ends when Vibius goes to put his boots on, not on a closing exchange; Fulvia's ends on an ordinary instruction about the letters. Lucius's basket ending stays, because it is the scene's trouble. Nonius no longer gets a quotable line, and one not-X-but-Y turn at the gate is gone.
+The reader (on the first packet, before the watchlist pass) found all six "belong to the same novel" and did not single out the Book 2 scenes. Ranking: E Cicero (Book 1), **F Fulvia**, **B Laberius**, A Brutus (Book 1), C Nysa (Book 1), **D Lucius**. Fulvia was "most particular" ("She's not simply a strong historical woman. She's Fulvia"). The B and F endings were picked out as excellent.
+
+What follows from the read:
+
+- **Endings kept.** The watchlist pass had cut the B and F endings ("That's your boundary." / "It's a stake."; "Count the silver first"). The reader rated both excellent, so both are restored. The watchlist asks whether every ending is a gesture, not that strong ones go.
+- **D (Lucius) is the most constructed scene** and has the most explaining narration. Cut: "Then they were in the city, in Rome, the consul... no one at all had tried to stop him" (now "Then they were in.") and the paragraph "He meant it. He heard himself say it..." The basket stays. For drafting: II-06's storyboard symmetry (crowd promise, veteran promise) should feel found, not arranged.
+- **F:** "She did not let it change her face" cut. "She had not decided to wear the sword until she saw it on the chest" kept (the reader called it fine).
+- **Laberius reads as the most like a type.** Fix the sheet, not the scene: his "since Philippi" note in the mind sheets now asks for particulars of his own (see there).
+- Nonius's quieter line and the wet-ash street from the watchlist pass are kept.
+- The reader flagged Book 1 Ch 6 ("He meant it as praise. Brutus took it as praise") as explaining. Book 1 is closed; noted, not changed.
 
 ## Checked while writing
 

@@ -20,7 +20,7 @@ It was Nonius. Lucius knew him a little, from the Forum, from the kind of dinner
 
 “It’s open,” said Nonius. “I’d be quick about it, consul.”
 
-The cohorts went in past him in the dark, the hobnails loud on the stones under the arch and then quieter on the street, and Lucius rode in among them. The street was empty. A door opened a hand’s width on the left and shut again. A dog barked behind a wall and somebody hit it. Then they were in the city, in Rome, the consul of the Roman people coming into Rome at the head of soldiers in the middle of the night, and no one at all had tried to stop him.
+The cohorts went in past him in the dark, the hobnails loud on the stones under the arch and then quieter on the street, and Lucius rode in among them. The street was empty. A door opened a hand’s width on the left and shut again. A dog barked behind a wall and somebody hit it. Then they were in.
 
 Somebody’s hearth had been put out with water, and the whole street smelled of wet ash.
 
@@ -59,8 +59,6 @@ He was standing very straight, with his weight on both feet, the way soldiers st
 Lucius looked at the seal. It was a good seal, the triumvirs’ seal, clear and deep, the kind that had been cut by somebody who meant it to last.
 
 “My brother’s soldiers,” he said, “will have everything my brother promised them.”
-
-He meant it. He heard himself say it and knew that he meant it, every word, in exactly the way he had meant the other thing, on the Rostra, a quarter of an hour before.
 
 The soldier looked at him for a long moment. Then he nodded once, the way a man nods when he has been told the hour, and put the bronze tablet back inside his tunic, and turned and went off through the crowd without hurrying.
 
