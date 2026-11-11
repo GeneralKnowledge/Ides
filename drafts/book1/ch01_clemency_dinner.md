@@ -27,7 +27,7 @@ The host had given him the third couch, a seat chosen the way a man chooses whic
 
 “Then keep looking.”
 
-The host toasted Caesar’s clemency. Mercy made leftover Pompeians sound edible. Cassius had been one since Pharsalus: fought for Pompey, lost, lived on Caesar’s pardon, and was now expected to look grateful on a third couch. Triumph dust still stuck to the city’s shoes; somewhere a mule train from the Africa run was still being unpaid in someone’s kitchen. Sextilius laughed too easily and lifted his cup whenever the host said *forgiven*. The room did not agree on the exact gift. It only agreed that it shone, and that it had not shone on Cassius.
+The host toasted Caesar’s clemency. Cassius had fought for Pompey, and lost, and had lived since Pharsalus on Caesar’s pardon, and he lifted his cup with the rest. There were three other pardoned men at the table. He had counted them as he came in, and where each had been put. Sextilius laughed too easily and lifted his cup whenever the host said *forgiven*.
 
 Cassius ate. The fish was good enough to make silence look like gratitude.
 
@@ -37,13 +37,13 @@ Cassius ate. The fish was good enough to make silence look like gratitude.
 
 Sextilius lifted his own and laughed, exactly on the beat, the laugh of a man who had been told before dinner. The table drank. Cassius drank with it. He found that he had a piece of bread in his hand and did not remember taking it.
 
-So that was the answer, and it had come in the host’s voice after all, and he had not asked. A servant leaned in with the jug. Someone talked about rain. Someone else about cousins. A mule that had thrown a clerk. Ordinary noise, the kind a table makes to cover a hole in itself.
+So that was the answer, and it had come in the host’s voice after all, and he had not asked. A servant leaned in with the jug. Someone talked about rain, and someone else about a mule train on the Africa run that had thrown a clerk and still not been paid for. Aebutius, on the first couch, said that his own mules had never been right since the triumphs, and said it at some length.
 
-Into that noise, from the foot of the couches, came a clear young voice.
+Into that, from the foot of the couches, came a clear young voice.
 
 “Is it true about Cato?”
 
-It belonged to Tettius, the host’s cousin, up from the country in a good tunic with no instincts to go with it. He had been waiting all evening to be interesting.
+It belonged to Tettius, the host’s cousin, up from the country in a good tunic. He had not spoken all evening.
 
 “They say he read Plato all night,” Tettius went on, “and then opened himself with a sword, and the physician sewed him shut, and he tore the stitches out with his own hands. Is that true?”
 
@@ -53,7 +53,7 @@ The table went still the way a table does when a tray drops. Everyone looked at 
 
 “I only ask because it seems a great deal of effort.”
 
-Sextilius turned a laugh into a cough and made the cough the wine’s fault. On the first couch a grey senator named Aebutius wiped his fingers and took the room back, as men of his age did. “A philosopher keeps working to the end. It is the one thing they share with bores.”
+Sextilius turned a laugh into a cough and made the cough the wine’s fault. Aebutius, who was grey and a senator, wiped his fingers and took the room back, as men of his age did. “A philosopher keeps working to the end. It is the one thing they share with bores.”
 
 The laugh came, relieved and too loud. The host let it run exactly as long as it was useful.
 
@@ -61,11 +61,11 @@ The laugh came, relieved and too loud. The host let it run exactly as long as it
 
 “Very fine,” said Aebutius. “He would say that.”
 
-Cups lifted. Sextilius’s lifted highest. Somewhere in the cheer, *forgiven* got said again, and nobody checked what it was being used for.
+Cups lifted. Sextilius’s lifted highest.
 
-Tettius was not finished. Country boys never were. “But why refuse? A pardon is a pardon.”
+Tettius was not finished. “But why refuse? A pardon is a pardon.”
 
-Cassius had meant to stay out of it. His mouth had other business.
+Cassius had meant to stay out of it.
 
 “Some men can’t bear to owe,” he said.
 
@@ -93,17 +93,11 @@ Sextilius leaned in, wine-bright, while Aebutius explained the *Phaedo* to Tetti
 
 The host’s smile did not change. He had heard. Of course he had. “We notice gardens and grain,” he said. “Alexandria’s gossip is not a clause until someone seals it.”
 
-“Nobody here would dream of sealing it,” said Sextilius.
-
-“Nobody here owns a seal worth the wax,” said Aebutius, and the laugh went round again. He pointed a grape at Cassius. “Our friend is an Epicurean now, did you know? Gods who take no interest in us. Pleasure in moderation. It must save a fortune on sacrifices.”
+Aebutius had not been listening. He had finished with the *Phaedo* and wanted a new subject, and he pointed a grape at Cassius. “Our friend is an Epicurean now, did you know? Gods who take no interest in us. Pleasure in moderation. It must save a fortune on sacrifices.”
 
 “It saves on gratitude,” Cassius said.
 
-That got a better laugh than he wanted. By the fruit course Sextilius had been toasted twice more for Spain, and Cassius’s rib still knew the difference between the favour that shone and the one that had not.
-
-Cassius spoke lightly, into the gap between host and Sextilius: “Some of us are forgiven into rooms like this.”
-
-Sextilius barked a laugh that wanted company. The host’s eyes narrowed a fraction. Tettius laughed loudest, having understood none of it, which made him the only honest man at the table.
+That got a better laugh than he wanted. Tettius asked the man beside him what an Epicurean was, and was told, and said that it sounded very sensible. By the fruit course Sextilius had been toasted twice more for Spain.
 
 He left early and courteous: thanks for the fish, praise for the lamps, a wish that Africa stay quiet enough to keep the toasts honest. The host clasped him like a friend.
 
@@ -137,13 +131,11 @@ At home he did not go to bed. He had a lamp lit and wrote to Cicero, because Cic
 
 He read the sentence back. It was true. It sounded like a man thanking his chain. He scraped it off the wax with the flat of the stylus, and sat a while, and wrote it again word for word, because it was still true.
 
-Then he sat with the lamp and thought about a man at Utica who had been offered the same terms, and had not written anything at all.
-
 ---
 
 ## Continuity
 - **Cast:** the host (a climber who did well out of Africa; invented occasion, not a documented banquet); Sextilius, given Caesar’s Spanish staff place in a toast; Tettius, country cousin, asks about Cato; Aebutius, grey senator, teases Cassius’s Epicureanism (“It saves on gratitude”; cf. Cic. *Fam.* 15.16–19).
-- **Knows / learns:** Cassius wanted the Spanish staff place (Caesar left for Spain late 46), never asked, and pays “I digest” to keep his couch. Thapsus and Africa reach the table only as triumph dust and an unpaid mule-train. The queen, the child and the Transtiberim lodging are rumour only (a painter’s invoice, Egyptian blue); the lodging is newly public.
-- **Plants → pays:** Caesar’s grudge-death line and Tettius’s Cato question play against the prologue; Sextilius’s physician lines pay Cleanthes; the table’s Cato carries into Ch 2 street weather. Close: Cassius drafts to Cicero his Jan 45 line, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it, writes it again, and ends on Utica. Whether and when it is sent is left to the letters.
+- **Knows / learns:** Cassius wanted the Spanish staff place (Caesar left for Spain late 46), never asked, and pays “I digest” to keep his couch. Thapsus and Africa reach the table only as an unpaid mule-train and Aebutius’s mules. The queen, the child and the Transtiberim lodging are rumour only (a painter’s invoice, Egyptian blue); the lodging is newly public.
+- **Plants → pays:** Caesar’s grudge-death line and Tettius’s Cato question play against the prologue; Sextilius’s physician lines pay Cleanthes; the table’s Cato carries into Ch 2 street weather. Close: Cassius drafts to Cicero his Jan 45 line, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it, and the scene ends on his writing it again. Whether and when it is sent is left to the letters.
 - **Must not:** no Actium; no narrator verdict on the child’s father; no Utica gloss (the prologue carries it); no knives yet. AMB-1 untouched; SIDE-1 not planted.
-- **Decisions:** 2026-10-23 (Reuben): Ch 1 reworked after the prologue. The petitioner is cut and his ignored-ask beat moved to Cassius.
+- **Decisions:** 2026-11-11 (voice pass, heavy edit): captions on the room cut (“leftover Pompeians”, the favour that “shone”, “forgiven got said again”, the table’s “hole in itself”), the “forgiven into rooms” exchange and the seal exchange cut, Aebutius and Tettius allowed to be dull, the last sentence about Utica cut. 2026-10-23 (Reuben): Ch 1 reworked after the prologue. The petitioner is cut and his ignored-ask beat moved to Cassius.

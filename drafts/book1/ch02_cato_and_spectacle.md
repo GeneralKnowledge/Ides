@@ -10,70 +10,98 @@
 POV: F4 Hordeonius (Cicero fringe in-scene, not a cut) · Forum basilica
 Date / place: Late 46 BC · banker stalls / basilica edge
 Canon refs: A1 · Chain 1
-Info ENTER: Elite soft-chain talk already in the air · EXIT: Named unpaid risk on new-ring client; Thapsus/Cato still moral-economic weather
+Info ENTER: Thapsus and Cato eight months old and still shouted · EXIT: New-ring asks 200,000 at two-thirds to bid for a forfeited farm; rate held at one in the hundred, unpaid; Hordeonius will watch Caesar’s steps tomorrow
 Overhear risk: High (Forum)
 
 ---
 
-Hordeonius kept his stall in the shade of the basilica on the Forum’s north side, near the Janus arch, close enough to the Rostra to hear every shout and far enough not to be trampled by it. Under the basilica’s shade the stalls smelled of wet wool and coin-oil. Africa hit the boards like a price change with blood in it.
+Hordeonius kept his board in the shade of the basilica on the north side of the Forum, near the Janus arch, close enough to the Rostra to hear what was shouted from it and far enough off not to be trodden on. It smelled of wet wool there in winter, and of the oil the money-changers rubbed into old silver to make it look younger.
 
-“Thapsus,” someone said. Then: “Cato.” The names were not fresh, but the Forum still wanted them loud: shouts, bets, sudden philosophy, months after the runner’s dust should have settled. A man at the next board was still arguing Utica hard enough to reopen a vein. Hordeonius didn’t shout. Shouting was for men who sold certainty by the jug.
+Thapsus had been fought in the spring. Cato had opened his belly at Utica a few days after it, and the runner had come in with both pieces of news on the one afternoon. That was eight months gone. The Forum was still shouting about it. A man at the next board but one was arguing Utica now with his fist on the wood, as if somebody had contradicted him, and nobody had.
 
-He still had both names on a tablet from the spring, when the runner came. *Thapsus*, one line: the last big field in Africa, the Pompeian armies spent in a morning. *Utica*, the line under it. Caesar had been on the road with a pardon. That was the joke the Forum could not stop telling. Cato had died to avoid being forgiven.
+Hordeonius did not join in. He had been a boy at another man’s board the year Cato was quaestor, and he remembered the treasury clerks coming out of the temple of Saturn white in the face, because a magistrate had asked to see the receipts and then had read them. Nobody had done it before, and nobody had done it since. He had thought of that every day for eight months and had not found anyone to say it to.
 
-“Odds, if you want them,” Sosia said, setting a tablet on the counter. Sosia had been at Hordeonius’s elbow since dawn, collecting opinions along with the coins. “Two to one the physician botched the first stitching and Cato only finished the job. Evens that he tore it open himself. Fifteen to one on the version where he accepted the pardon and was merely rude about it.”
+“Odds, if you want them.” Sosia put a tablet down by his elbow. Sosia had been up and down the stalls since first light and had come back with other men’s opinions, as usual, along with the small change. “Two to one the physician botched the first stitching and Cato only finished the job. Evens he tore it open himself. Fifteen to one he took the pardon and was merely rude about it.”
 
-“That last one is not a bet. It is a fairy tale.”
+“The last is not a bet. It is a fairy tale.”
 
 “People pay well for fairy tales at fifteen to one.”
 
 “And the stitches?”
 
-“Everyone is taking the stitches. A man mended, then unmended. It has a shape.”
+“Everyone’s on the stitches. A man mended and then unmended. It has a shape.”
 
-“It has a bad steward,” said Hordeonius. “Nothing that tidy happens by accident. Put me down for the fairy tale. Small. Someone will want to have been right.”
+“It has a bad steward. Nothing so tidy happens in a house by accident.” Hordeonius turned the tablet round and read the names of the men who had laid money. He knew most of them. “Put me down for the fairy tale. Small. Someone will want to have been right.”
 
-The next client wore a gold ring so recently acquired it still looked surprised on the finger. Hordeonius had already filed him as *new-ring*.
+“You don’t believe it.”
 
-He adjusted grain expectations with solemn grief. “A man like Cato,” he told him, “is bad for markets and good for sermons. I prefer markets, but I respect sermons that stay out of my ledgers.”
+“I don’t need to believe it. I need to know who does.”
 
-The client wanted a moral. Hordeonius gave him a rate. The client’s mouth opened for philosophy, closed on the number, and managed a thin grateful smile. Then the smile snagged.
+The next man to the board had been waiting behind a pillar until it was clear. He wore a gold ring, and he had not had it long; he kept the hand flat on the wood where it could be seen. He was perhaps thirty. He had a friend with him, older, who stood back and looked at the roof.
 
-“For Cato’s sake,” the new-ring said, louder now, “shave it. Land is coming. Veterans will pay when the colonies open. A patriot’s rate.”
+He wished to say first what a loss it was. A man like Cato.
 
-*Colonies.* Hordeonius filed the word where he filed all of Caesar’s promises to his old soldiers: farms, somewhere, eventually, on ground nobody had yet explained how to take from the men currently farming it. It was fine paper, and it paid nothing until it was kept.
+“He read what he signed,” Hordeonius said. “I never knew another who did.”
 
-Sosia, at Hordeonius’s elbow, went still in the useful way clerks go still. The cake-seller across the aisle stopped mid-curse to listen. A veteran’s cousin from the knot of land-talkers leaned in.
+The young man had expected something longer and waited for it. When it did not come he said what he wanted. It was two hundred thousand, for six months. The estates of the men who had died in Africa unpardoned were going under the spear before the Saturnalia, and there was a farm at Tibur among them with a good press and its own water, and he meant to bid.
 
-Hordeonius kept the rate where it was. He tapped the tablet once.
+“On what security?”
 
-“I honour the dead with arithmetic,” he said, careful. “I honour the living with invoices. Land that is not yet land does not clear. Pay this, or take your patriotism to a stall that sells wishes.”
+“The farm.”
 
-The new-ring’s face flushed under the smile. “You price Cato like onions.”
+“You do not have the farm.”
 
-“Onions keep,” Hordeonius answered. “Marble doesn’t.”
+“I’ll have it the day I bid. And there’s land coming besides. When the colonies open the veterans will be selling their plots to whoever has coin in his hand. A man who is placed then,” and he moved the ring a little on the wood.
 
-The client did not take the tablet. He left the rate hanging, neither paid nor refused cleanly, and walked three stalls away before he spat the smile out to his older companion. “Sermons out of his ledgers, what a patriot.”
+Hordeonius drew the wax to him and wrote the figure, and under it the rate. One in the hundred, each month, on the Kalends.
 
-The older ring did not bother with courtesy once the banker could not hear. “Pay the rate and stop performing grief for clerks. Or don’t, and let him write you down.”
+The young man looked at it upside down. He read it twice.
 
-The cake-seller overheard and laughed once, short. Sosia waited. Hordeonius wrote *new-ring: rate held / unpaid* under *Africa: closed enough*. He left the stylus resting on the name.
+“Two-thirds,” he said. “For Cato’s sake. You said yourself what he was. A patriot’s rate, for a man buying back what the Republic lost.”
 
-Across the way stood Cicero. Hordeonius had him filed with the forgiven: backed Pompey, lost, pardoned by Caesar. A debt that could never be repaid, only rolled over at a worse rate. He received the same Africa as a bruise that had not faded. Cato dead by his own hand. Caesar’s victory complete enough to make mercy look like a style. Cicero’s mouth shaped a period and lost it. Lesser men converted suicide into slogan. Hordeonius watched the period go unfinished and let it go, interesting but not urgent, like any account that had not cleared.
+Sosia had gone still. Across the aisle the woman who sold honey cakes stopped scolding her boy.
 
-A woman selling cakes cursed Cato for spoiling an afternoon’s appetite. The veteran’s cousin asked again whether land would come faster now that the war had a famous corpse and leftover triumph wagons.
+“May I say what troubles me?” Hordeonius folded his hands. “It is not you. I am sure of you. It is the farm. The man who owned it is dead and his goods are forfeit, and that is law. But he will have a son, or a brother, and the son will go to Caesar one morning with a cousin to speak for him, and Caesar will forgive him. He has forgiven worse. And a forgiven man goes home. He will want to know who is sitting in his father’s house, and by what right, and what was paid.”
 
-“Faster,” he said. “A war with a famous corpse is a finished war. Finished wars hand out farms.”
+“It’s a sale by the state.”
 
-“Slower,” said a clerk from a nearby stall, with the same confidence. “A finished war is one nobody needs soldiers for. Why pay men you no longer need?”
+“It was the state that sold Sulla’s farms. I have lent on two of those. I buried one of the buyers.” He said it gently. “Land that is not yet land does not clear. A farm that may be asked for again is not yet land. I honour the dead, I hope, as much as any man at these boards. I cannot do it at two-thirds.”
 
-“Because they have swords.”
+“You’d price Cato like onions.”
 
-“Because they have swords and no war left to spend them on. That is why it is slower.”
+“Onions keep.”
 
-Nobody agreed. The cake-seller sold two honey cakes to each side. The Forum only sold noise. Hordeonius let it run. One unfinished account waited on the Kalends, the first of the month, when interest fell due and half of Rome found out who its friends were.
+The young man took his hand off the wood. He did not take the tablet and he did not refuse it. He said that he would think, and that there were other boards, and Hordeonius said that there were, and named two, and said which was the more honest. The older friend spoke for the first time when they were three stalls off and thought the noise covered it.
 
-By afternoon the stalls were still selling triumph weather: which streets had choked, which would choke again if Africa’s painted gold returned as rumour, which runners still hugged oil jars like secrets. Hordeonius took those prices down too. He watched a runner cut through the press from the Domus Publica. Chief priest’s house, Vestals’ fire next door, handed to Caesar with the priesthood: a lease with a god on it. Hordeonius would not have written it. The victor’s house was still counting eyes. Whether the new-ring would clear was no longer a slogan. It was wax.
+“Pay his rate and stop grieving at clerks. Or don’t, and he’ll write you down.”
+
+“What name?” said Sosia. He had the stylus.
+
+“He gave one. Write the ring until he has paid on it.”
+
+Sosia wrote *new ring: rate held / unpaid* under the line that said *Africa: closed enough*. Hordeonius wiped his two fingers on the cloth.
+
+The man with his fist on the board had got on to land. A veteran’s cousin said it would come faster now, because a war with a famous corpse in it was a finished war, and finished wars handed out farms. A clerk said slower, because a finished war was one nobody needed soldiers for, and who paid men he no longer needed? The cake-woman sold to both of them.
+
+Marcus Cicero came across the open paving from the direction of the Rostra while that was going on, with his secretary a pace behind. He heard the name. Hordeonius saw him hear it. He slowed, and his mouth began on something, and the secretary touched his sleeve, and he walked on with it unsaid.
+
+“There’s one who took the pardon,” Sosia said. “And wasn’t even rude.”
+
+“Marcus Cicero has never been more than a month late with me in eleven years. You will speak of him as of a man who pays.”
+
+“He’s writing a book about Cato. Atticus’s copyists are saying so.”
+
+“Then I shall buy it.” Hordeonius considered that. “Find out what Atticus means to charge.”
+
+The light had come round to the west end of the basilica. He closed the tablet on the young man’s figure and put it with the ones that waited on the Kalends, when the interest fell due and half the city learned who its friends were. Then he said what he had been meaning to say since noon.
+
+“Tomorrow you will come with me before the second hour. To the chief priest’s house.”
+
+It was by the Vestals’ fire. It had come to Caesar with the priesthood, and he had not troubled to move anywhere larger.
+
+“To go in?”
+
+“To stand at the foot of the steps and see who comes out pleased.” He got up, and Sosia took the board’s other end. “If sons are being forgiven this month, some of our friends ought to be told before they bid. It would be a kindness.”
 
 ---
 
@@ -203,6 +231,6 @@ Dama waited for the rest. When there was no more he went to tell Phileros about 
 ## Continuity
 - **Knows / learns:** late 46, after the Ch 1 dinner (not a spring flashback). Thapsus, Utica and Cato are learned in street talk; the four triumphs, Juba, the painted Cato, the colonies promise; Africa is “closed enough”. Queen and Transtiberim talk stays withheld rumour.
 - **Cast:** Hordeonius, Sosia (he), Nysa, Dama (eleven; hears errands for Phileros). Off page: Phileros, and Chreste, who slept where Nysa sleeps and was sent to the farm at Labici for repeating a fishmonger’s joke.
-- **Plants → pays:** Sosia’s stitch odds pay Ch 1 Tettius and the physician; a veteran’s spit seeds land hunger (FS10); Hordeonius’s wax “new ring: rate held / unpaid” carries into Ch 3.
-- **Decisions:** SC-02 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). Nysa counts five on the steps, does not know the man on the painted board, and meets Sosia (two coppers refused, “Ask for Sosia”). The queen’s household is only a woman buying oil for “the gardens”.
+- **Plants → pays:** Sosia’s stitch odds pay Ch 1 Tettius and the physician; a veteran’s spit seeds land hunger (FS10); Hordeonius’s wax “new ring: rate held / unpaid” (the client does not return); his plan to watch Caesar’s steps pays in SC-02, where Nysa sees him and Sosia there.
+- **Decisions:** SC-01 rewritten in full 2026-11-11 (voice pass): built round one loan. The new-ring client wants 200,000 for six months at two-thirds of one in the hundred, “for Cato’s sake”, to bid for a forfeited farm at Tibur; Hordeonius holds the rate because a pardoned heir may ask for the farm back. Hordeonius remembers Cato’s quaestorship (the treasury receipts). Cicero crosses the Forum and says nothing; his *Cato* is mentioned as copyists’ talk. The Domus Publica gloss now sits at the end of SC-01. SC-02 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). Nysa counts five on the steps, does not know the man on the painted board, and meets Sosia (two coppers refused, “Ask for Sosia”). The queen’s household is only a woman buying oil for “the gardens”.
 - **Must not:** no Cleopatra POV; the Domus Publica glossed once only.
