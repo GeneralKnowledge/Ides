@@ -1,0 +1,100 @@
+# I-01: Beans
+
+POV: Laberius · the plain north of Capua
+Date: Spring 41 BC, the morning after the twine (Book 1 SC-95b)
+
+---
+
+Laberius woke under the cart with a child looking at him.
+
+It was one of the two who had held the woman’s skirt the day before, the smaller one, a boy of five or so with his hair cut short against lice. He was squatting at the edge of the headland with a bean pod in his fist, eating it raw from the stalk end, the way children are told not to. He watched Laberius the way Laberius had watched Gauls across a river, without any opinion yet.
+
+“Go on,” Laberius said.
+
+The boy did not go on.
+
+Vibius was already up, sitting on the cart shaft with his boots off, picking at the hard skin on his heel with a knife. He did not look round. “He’s been there since it got light. I think he’s counting your teeth.”
+
+“Let him. There’s not many.”
+
+Laberius rolled out from under the cart and stood, and his knees told him about the ground they had slept on, which was good ground, Vibius was right about that, soft enough to take a stake with one blow and dry an hour after rain. He had slept on worse in every province of the world. He had not slept on his own before.
+
+The cart stood on the headland at the top of the field, on the side of the new white stake that the surveyor’s chain said was his, and their kit was laid out along the shafts the way it would be in a camp, shields against the wheel, cloaks over the tail, the pot hung from the cross-bar. Somebody had put a loaf in the pot in the night. It was dark bread, the kind made with a lot of bran, and it was still warm.
+
+Vibius saw him find it. “The woman,” he said. “Before light. She came up the rows with it under a cloth and put it in and went back. Didn’t say anything.” He blew on his heel. “I said thank you. She didn’t like that either.”
+
+They ate it sitting on the shaft with the boy watching. Laberius broke off the end and held it out, and the boy looked at it and at him and did not take it, and Laberius ate it himself.
+
+“Until the beans are in,” Vibius said, in the voice he kept for repeating an order he thought was stupid. He had been saying it at intervals since the evening. “I’ve been working it out. Beans are in when? July?”
+
+“When they’re in.”
+
+“That’s three months. Three months of us under a cart on our own land, eating his wife’s bread.” He put the knife away. “And then what? Then he goes?”
+
+“Then the beans are in.”
+
+Vibius looked at him for a while. They had been together a long time, Vibius and Laberius and Gaius, long enough for Vibius to learn that there were some answers you got the whole of the first time and some you never got at all.
+
+“I’m going up to the vine,” Vibius said. “See if that one’s got any sense.”
+
+When he had gone Laberius walked the line.
+
+The old twine was still pegged on its leaning stakes, grey, gone to string, with the strip of unploughed ground a hand wide either side of it. The surveyor’s line ran beside it and then away from it, through the rows, marked by the new stakes, clean and white, each with its number burnt into the head. Laberius walked it from the boundary stone to the second stake and along to the ditch, the way the freedman had read it out, and counted his paces as he went, because counting paces was a thing his feet knew how to do without him. It was three hundred and twelve to the ditch. The ditch wanted clearing. There was a dead branch across it that would back the water up in the first storm and flood the bottom rows. He stood and looked at the branch for some time.
+
+There were beans on both sides of the white stakes. They had been sown in the winter and they did not know where anybody’s land began.
+
+The farmer was at the well behind the house. Laberius had not decided to go there. He was thirsty, and it was the only well.
+
+Gnaeus Aulius let the bucket down without a word and drew it up and set it on the stone, and stood back from it. Laberius drank from the bucket with his hands. The water was cold and tasted of iron and was better than anything he had drunk at Philippi.
+
+“The freedman will come back,” Aulius said. He was looking at the bucket, not at Laberius. “In the summer. My neighbour’s had them twice. They come to see you’ve taken possession.”
+
+“I know what possession is.”
+
+“Do you.” Aulius wiped his hands on his tunic. “My father said it’s when your dog stops barking at it.”
+
+The dog was tied at the house door, a yellow animal with a torn ear, and it had been barking at Laberius since he came round the corner of the house. It had not stopped. Laberius looked at it and then at the farmer, and the farmer almost smiled and then did not.
+
+The old man was on the bench in the sun, where he had been the day before. He had not moved, or he had moved and come back to exactly the same place. He had a stick between his knees and both hands on the top of it, and his eyes followed Laberius from the well to the corner of the house.
+
+“You,” the old man said.
+
+Laberius stopped.
+
+“Have you eaten?”
+
+It was such an ordinary question that for a moment Laberius did not understand it. It was his own question. He had asked it of recruits and of prisoners and of Gaius, every morning for years, because a man who had not eaten would fall out by the third mile and you would have to go back for him.
+
+“Your daughter-in-law put bread in our pot,” he said.
+
+“Good.” The old man looked away, down the field, to where the new stakes stood up white among the rows. “She makes it too heavy. My wife made it lighter. She’s dead.” He said nothing else, and after a while Laberius understood that he had been dismissed.
+
+Vibius came back down from the vine plot at the middle of the morning with his hands in his belt.
+
+“He’s got the vine,” he said. “The one with the lip. He’s already cut it back, says it’s been let go, says the grapes will be better next year for it. The family’s moved out. Gone to the wife’s brother at Atella.” He leaned on the cart wheel. “He’s done all right.”
+
+Laberius said nothing.
+
+“There’s a man at the Capua gate,” Vibius said, “lending against plots. One of Bucco’s, from Rome. Gives you a third of what the land’s worth against your tablet, and you pay him back after harvest. Half the century’s been to him already. Ninnius from the third tent’s bought a mule with it.” He was watching Laberius now. “We could have a third of it by tonight. A third of it’s more than we’ve got.”
+
+“A third of what? Beans?”
+
+“A third of the land.”
+
+“It’s his beans.”
+
+Vibius was quiet. Then he said, quite reasonably, the way he said most of the cruel things he had ever said, “You said that to him yesterday, didn’t you? Out in the rows. Before you’d said anything to me.” He did not wait for an answer. “You gave it him. Your land. Till the beans are in.”
+
+Down the field the boy had come out of the beans and was standing by one of the white stakes, with his hand on the top of it, looking up the hill at them.
+
+Laberius went down the headland to the far corner of the field where the hedge was thin. There was a gap in it at the bottom, low, where something had been getting through, a goat or a fox, and the earth was worn smooth in the gap. He had seen it on his first pass of the line and it had stayed with him all morning like a stone in a boot.
+
+He went back along the rows to the nearest of the new stakes. It came up out of the ground with two pulls, clean and white, with the number burnt into its head and a little wet earth on the point. He carried it to the hedge and drove it into the gap with the flat of a stone, three blows, and wove two of the loose withies round it, and tried it with his foot. It held.
+
+Vibius had followed him down. He stood looking at the stake in the hedge.
+
+“That’s your boundary,” he said.
+
+“It’s a stake.”
+
+The boy had come too, at a distance. He looked at the stake, and at the hole in the rows where it had been, and then he went back up the field to his mother at a run, and the dog at the house door barked all the way.

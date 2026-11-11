@@ -67,3 +67,7 @@ Retired invented names, not to be reused: Seius, Seia Prima, Naevius, Gavius, Dr
 | Virgil | Publius Vergilius Maro, if used | Ancient lives; *Eclogues* 1, 9 | |
 
 New invented names go here with a one-line reason why no real person can do the job.
+
+| Handle | Person | Why invented | Near |
+|---|---|---|---|
+| Ninnius | A veteran of Laberius's century who borrows against his plot (pilot I-01) | A ranker; the record has none | |
