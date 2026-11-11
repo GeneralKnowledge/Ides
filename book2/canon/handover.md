@@ -65,7 +65,7 @@ Caesar, Brutus, Cassius, Cicero, Decimus, Trebonius, Hirtius, Pansa, Dolabella, 
 
 ## Names already used
 
-Book 2 must not reuse these for a different person: Visellius Ralla, Bucco, Phileros, Medullina, Sosia, Glaucia, Vibius, Hilarus, Dama, Pallas, Statius Paullus, Marcus Pacuvius, Apollodorus, Amyntas son of Menodotus, Festus, Sphaerus, Quintus the fuller, Ammonius, Gaius of the split sandal, Rufrius, Gnaeus Aulius, Seius (retired), Seia Prima (retired), Gavius (retired), Dromo (retired). Source: `writing/NAMES_MINOR_CAST.md` and the cast list. The checked list is [names.md](names.md).
+Book 2 must not reuse these for a different person: Visellius Ralla, Bucco, Phileros, Medullina, Sosia, Glaucia, Vibius, Hilarus, Dama, Pallas, Statius Paullus, Marcus Pacuvius, Apollodorus, Amyntas son of Menodotus, Festus, Sphaerus, Quintus the fuller, Ammonius, Gaius of the split boot, Rufrius, Gnaeus Aulius, Seius (retired), Seia Prima (retired), Gavius (retired), Dromo (retired). Source: `writing/NAMES_MINOR_CAST.md` and the cast list. The checked list is [names.md](names.md).
 
 ## Promises Book 1 made
 

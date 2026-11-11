@@ -18,7 +18,7 @@
 - **Servilia**, his mother; **Hilarus**†, her steward at Antium
 - **Gaius Cassius Longinus**, praetor; **Tertulla**, his wife, Brutus’s half-sister
 - **Decimus Junius Brutus Albinus**, Caesar’s officer, governor-elect of Cisalpine Gaul
-- **Gaius Trebonius**, who keeps Antony outside; **Glaucia**†, his attendant
+- **Gaius Trebonius**, who keeps Antony outside
 - **Publius Servilius Casca**, who strikes first
 - **Lucius Tillius Cimber**, who holds the toga
 - **Servius Sulpicius Galba**
@@ -109,6 +109,6 @@
 ## The soldier’s world
 - **Sextus Laberius Cordus**†, centurion, Munda to Philippi
 - **Vibius**†, his optio
-- **Gaius of the split sandal**†, of his century
+- **Gaius of the split boot**†, of his century
 - **Rufrius**†, of the Second legion
 - **Gnaeus Aulius**†, who farms the plot at Capua

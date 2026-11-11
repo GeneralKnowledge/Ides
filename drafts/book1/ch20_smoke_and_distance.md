@@ -124,7 +124,7 @@ Ammonius started after him. Cleopatra stopped him with two fingers.
 
 “He has done us a service,” she said. “He has told me what a page in Antony’s house would cost.”
 
-“Majesty, the claim...”
+“Majesty, the claim…”
 
 “The claim will keep. It kept in Alexandria for three years before any Roman wrote it down. It will not keep in a chest in Rome with a clerk’s number on it.” She went across and lifted the boy out. He was heavier than he had been in the autumn, and complained. “Pack the chests. All of them. We go down to Ostia as soon as there is a ship that is not Roman, and we go without asking anyone’s friend for a page.”
 

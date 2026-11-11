@@ -236,7 +236,7 @@ He went. The doorkeeper shut the door, and barred it, and then sat down on the f
 
 Julia came back up the atrium. Her hands were shaking now, both of them. She held them out in front of her and looked at them as if they belonged to somebody else’s mother.
 
-“Tomorrow,” she said, “I go to the Forum. He sits on a tribunal with the other two. He can say no to me in front of the whole city or he can say yes.”
+“When they sit again,” she said, “I go to the Forum. He sits on a tribunal with the other two. He can say no to me in front of the whole city or he can say yes.”
 
 In the back room Lucius Caesar had not moved. The cup was empty. He had heard all of it.
 
