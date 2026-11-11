@@ -78,6 +78,24 @@ Visellius stays unsolved: Hordeonius keeps or burns the copies as a moral choice
 
 Clusters and one-line fixes proposed: Ch 37 Abydos “They always did at this hour.” (ledger endings in three of six scenes, and two “always” endings in a row); Ch 14 Pediment “She did not sleep again.” (three of four endings on sleep, Ch 12–14); Ch 34 The Contest “Nobody said anything.” (two room silences in one scene); Ch 18 washerwoman made plain (“It means he gets it if the boy dies. And he fetched him.”). Each checked for later echoes. Reuben chose all four (16:30); applied on PR #215.
 
+## Deliberately negative review (11 Nov, 16:33)
+
+Reuben asked for a review written to find fault, to test whether its points hold. Counted with the other 11 Nov reads as one source until we know otherwise, and weighted lower again because it was briefed to be negative. Each point sorted by kind and checked against the text.
+
+| # | Claim | Kind | Finding | Ledger |
+| --- | --- | --- | --- | --- |
+| 1 | A subject, not a story; no protagonist | Comprehension / taste | Untested. The book is built as an ensemble on purpose; whether a reader has someone to hold is only answerable by readers | New, watch |
+| 2 | Withholding; deaths made meaningful by a closing observation; Cicero's death too beautifully made | Pattern / taste | Partly true. Ch 35 opens on “a sentence could outrun a sword” and closes on “no period, no antithesis, no applause” and the sea: a built frame. Other deaths (Decimus, Cassius) are plainer | Same as C and E; no Book 1 change |
+| 3 | Everyone too intelligent; Brutus and Cassius as positions on the theme | Pattern | Partly true. The count found the habit is silence beats, not speeches; counterexamples exist (Brutus losing his sentence Ch 8, Casca's bad joke, Statilius slow to see) | Same as D and L |
+| 4 | One prose formula; recurring objects; never ordinary | Pattern | Overstated. 25 of 112 scenes already end on a plain stop; clusters fixed today | Same as A and C |
+| 5 | Ordinary people serve the theme; does Nysa want anything for herself | Comprehension | Mostly false on the text: Medullina, Chreste, the cracked flask, the beans, her sewing, the freedom on page Ch 18. Laberius as a type matches the voice-pilot reader | Laberius: carried into Book 2 mind sheet |
+| 6 | History overpowers drama in Mutina, the consulship, proscriptions, the East | Comprehension | Plausible; raised before by earlier readers on density. Needs a cold reader's skim map, not a guess | Second reader Q20, Q25, Q28 |
+| 7 | Women designed better than realised; Porcia defined by Brutus | Comprehension / taste | Mostly false: Porcia has her own scenes and POV (Ch 13 wound, Ch 21 her own morning, Ch 25, Ch 31 SC-82b). Fulvia and Hortensia act for themselves | No action |
+| 8 | Philippi has too many endings; Laberius stops before the decision | Taste | Half false. Laberius does decide: he steps over the twine and walks to the farmer; the outcome is withheld, and Book 2 opens on it. Several endings in Ch 37–38 is true, by design; final image a standing rule | Watch |
+| 9 | Too impressed with its own intelligence; contradictions explained in advance | Pattern | Same as E (visible design), already on the Book 2 watchlist | Same as E |
+
+Its five cold-reader questions are already in the second-reader questionnaire: protagonist (Q9, Q16, Q42), momentum (Q20), distinct inner lives (Q13, Q17), restraint versus suppression (Q34, Q35), ending for a reader indifferent to the themes (Q39, Q40). Agreed with its own advice: do not reopen Book One on this review; send the questionnaire to a cold reader and act only where that reader repeats a point.
+
 ## Held elsewhere
 
 Older items parked for a later round are in their own records: character-sheet fixes 15–21, storyboard fixes 5, 13 and 14, and reader 3 rows 25–30. They are not repeated here unless a new read raises them again.
