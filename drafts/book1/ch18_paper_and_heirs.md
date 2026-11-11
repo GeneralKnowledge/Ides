@@ -12,52 +12,62 @@ POV: L. Hordeonius Felix (F4)
 Date / place: Basilica stalls / Janus bankers’ orbit · ~18 March 44
 Canon refs: FS05 · SIDE-1 tablets
 Info ENTER: Uncertainty premium after Ides
-Info EXIT: Heir/garden rumour moves prices; SIDE-1 briefly useless as blackmail
+Info EXIT: Heir/garden rumour moves prices; a magistrate’s attendant tries to sell the Visellius tablets and is refused; Bucco’s stool gone
 Overhear risk: Medium
 
 ---
 
-Under the basilica shade among the Janus bankers’ stools, Hordeonius loved a crisis the way priests loved a festival: for the traffic more than the singing.
+Three days after the Ides there was a queue at every stool under the Janus, and Hordeonius had not got up from his since the second hour.
 
-In calm weather the Janus arcade smelled of ink and sweat. In a crisis it smelled of fear reckoned in twelfths.
+They came with sweat in their eyebrows. They wanted to know what land would be worth if Caesar’s gardens went to the people, and whether the bequests were real, and one man, a dyer, who was eleven weeks behind, wanted to know whether the amnesty meant that he could stop paying.
 
-He sat with his tablets open like a small, portable temple. Men came to him with sweat in their eyebrows and asked what land would be worth if Caesar’s gardens truly became the people’s, if the bequests were real, if the amnesty meant debtors could reinvent themselves as liberators and stop paying.
+Hordeonius laid a finger on the interest column and left it there.
 
-A man asked whether amnesty meant he could stop paying. Hordeonius tapped the interest column once, hard enough that Sosia looked up. “Amnesty doesn’t blot this,” he said. “Next.”
+“But the Senate has pardoned everyone,” the dyer said.
 
-“But the Senate has pardoned everyone,” said the man.
-
-“The Senate has pardoned murderers,” said Hordeonius. “I have never lent to a murderer. I am therefore under no obligation to forgive you.”
-
-Somebody at the next stall laughed too loudly. Sosia, on the next stool, did not laugh. The laugh wanted company; the stall offered rates instead.
+“The Senate has pardoned murderers. I have never lent to a murderer. I am therefore under no obligation to forgive you.” He said it kindly. “The Kalends, as before.”
 
 Rumour came to the stall in pieces and out of order, each customer bringing a different scrap. A fuller said *heir*. A woman buying a month on a lease said *the boy*, and then *Octavius*, and then, correcting herself, a name with a letter more in it. Somebody said *adoption* as if it were a sickness. A porter said three hundred sesterces a head, and Hordeonius did that sum while the man was still saying it: several months of a legionary’s pay, times every citizen on the grain list, and the list ran to hundreds of thousands. Gardens across the river, said someone else. It was nearly noon before a clerk from the Regia leaned on the board and said, with relish, that Decimus was in it too, in the second rank of the will, and the clerk was the first of them who could say how he knew. A fourth stack, softer and meaner, was the queen across the river, still in Caesar’s gardens with the child. Hordeonius did not certify the child. He certified that men were already treating her as a clause that might move leases.
 
-The laugher wiped his eyes. “You talk as if mourning were a price list.”
+Across the paving Bucco’s stool was gone. Hordeonius had looked for it at first light. The boards had been taken down in the night, and the soldiers’ widows who owed Bucco money were telling one another that he had gone south with his tablets before anybody thought to ask for them.
 
-“Then buy a list,” Hordeonius said, stylus already moving, “or tell me what you came for.”
+A little after noon a thin man came to the board who did not want to borrow. He had the look of an attendant, one of those who walk behind the three magistrates for night crimes and carry what they are given. He had something under his cloak. He set it on the board and opened his hand over it, and it was two tablets.
 
-He entered prices the way other men entered omens. Up a hair on river-adjacent leases. Down on properties too near Liberators’ doors. A man tried to sell him, quietly, a copy of Visellius’s old debt marks, the ghost of a ledger already closed, hinting Basilus and an Antonian name could still be made to squeal. Hordeonius had already looked for the Antonian name himself that morning. Bucco’s stool by the Janus stood empty, his boards taken down in the night, and the soldiers’ widows who owed him were telling each other he had gone south with his tablets before anyone thought to ask for them.
+Hordeonius knew them. One was in a small, neat hand, and the other had a corner gone. He had last seen them lying side by side on a table under a window, eleven days ago, where he had told Sosia to leave them.
 
-Hordeonius looked at the copy with the tenderness due a dead client who had once paid on the Kalends.
+“The praetor Basilus came down off the Capitol yesterday with the rest,” the thin man said, “and is in no case to object. And there is an Antonian name on the second that might pay well not to have it read. I thought of you first. You knew the man.”
 
-“This,” he said, gentle as a blessing, “was sacred when the man breathed. Now it is archaeology. Archaeology does not collect. Come back when your tablet can buy grain, not gossip.”
+“Where is the inquiry?”
 
-The whisperer bowed. “Of course. Sacred. Living seals only.” He took the tablet two pillars down, to someone who still believed the dead could squeal.
+“What inquiry?”
 
-He did mourn Visellius, as one mourned a punctual instrument. He kept that off his tongue. The basilica didn’t deserve his private liturgy.
+“A citizen was killed in his room.”
 
-“He says he mourns you,” Sosia said, without looking up from his own tablet.
+“A great many things have happened since the Nones.” The thin man smiled. “Nobody is asking after a freedman’s son this month.”
 
-“I do,” said Hordeonius. “He paid early. It is the most beautiful thing a man can do to another man.”
+“I left those for the magistrate.”
 
-By the fourth hour his hand ached from writing. He flexed the fingers and watched a knot of men run past with the bright eyes of those who had just learned a rich man’s last wishes.
+“The magistrate is busy.”
 
-“The boy inherits the name,” someone panted.
+Hordeonius did not touch the tablets. He folded his hands, so that it should be seen that he was not touching them.
 
-Hordeonius blotted a column and did not look up. “Then sell me who pays for it first,” he said. “Not the poetry.”
+“I will not buy a dead man’s hand from the man who was set to keep it. Take them back where they belong. If you cannot do that, take them off my board.”
 
-He waited for the next fool with a question and a purse.
+The thin man took them two pillars down, to a stool where they were less particular.
+
+“We have the copies,” Sosia said, after a time.
+
+“We have.”
+
+“You could have had the wax as well. He’d have taken forty.”
+
+“He paid early, Sosia. Six years. It is the most beautiful thing one man can do to another.” Hordeonius took up the stylus. He marked the river leases up a hair, and the houses that stood too near a Liberator’s door down, and blotted the column.
+
+A knot of men ran past with the bright eyes of those who have just heard a rich man’s last wishes. “The boy has the name,” one of them panted.
+
+“Go after them,” Hordeonius said. “Find out who is to pay the three hundred. Somebody must. It comes to seventy-five million.”
+
+Sosia went. Hordeonius looked across at the place where Bucco’s stool had stood. The paving was cleaner there, in a square.
 
 ---
 
@@ -79,49 +89,47 @@ Overhear risk: Extreme once leaked
 
 ### Antony
 
-Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame, the nearest thing Rome had to a vault with a conscience. He watched with the patience of a man watching a door that might hide either a feast or a knife.
+Antony watched the seal break in his own house. Piso’s request: Calpurnia’s father wanted his son-in-law’s paper read. The Vestals had kept it until now beside their flame. He watched with the patience of a man watching a door that might hide either a feast or a knife.
 
-Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the clauses finished being blows, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus being in the will at all would make the knife-men into a mime’s turn, and nobody laughed with him. Antony stood where a consul stands when he intends to own the consequences.
+Piso’s people made their legality faces. The room smelled of wax and wine. In the outer fringe, before the reading was done, a widow’s steward asked whether three hundred a head meant bread this Kalends or a story for wine shops. A freedman with one of Caesar’s old house-rings asked whether the freedmen were named. A junior laughed that Decimus being in the will at all would make the knife-men into a mime’s turn, and nobody laughed with him. Antony stood where a consul stands when he intends to own the consequences.
 
-The main lines came out like blows dressed as clauses. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Antony knew the law well enough to dislike it: a will could adopt, make a son from the grave, and pass him the name, the household gods and every client the dead man had. It was legal. It was also, for an eighteen-year-old great-nephew Antony had hardly noticed, a very large coat. Pinarius and Pedius, the other great-nephews, splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Then the heirs in the second degree, and among them, in the same flat reading voice, Decimus Albinus. “If the boy dies,” somebody murmured behind Antony, as if the boy might oblige. Antony looked at the door, as if Decimus might be standing in it.
+The main lines came out one after another. Young Octavius to three parts in four of the estate, and into the name, heir, son in the Roman paper sense that made old men spit. Antony knew the law well enough to dislike it: a will could adopt, make a son from the grave, and pass him the name, the household gods and every client the dead man had. It was legal. It was also, for an eighteen-year-old great-nephew Antony had hardly noticed, a very large coat. Pinarius and Pedius, the other great-nephews, splitting the remaining fourth like polite afterthoughts. The people remembered with gardens by the Tiber and three hundred sesterces a head. Then the heirs in the second degree, and among them, in the same flat reading voice, Decimus Albinus. “If the boy dies,” somebody murmured behind Antony, as if the boy might oblige. Antony looked at the door, as if Decimus might be standing in it.
 
 Antony laughed once, short, in recognition rather than mirth.
 
-“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule. Second degree, second line: the portico joke had grown teeth and ink.
+“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Loved you enough to write you into the will and die on your schedule.
 
-What mattered was the boy, and the name, and the crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony priced the boy the way he priced soft cohorts: thin shoes; a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer; a paper-son who had never fed a veteran: useful ink, not a rival. He filed that price without writing it down.
+What mattered was the boy, and the name, and the crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony tried to remember the boy, and got thin shoes, and a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer. The boy had never fed a veteran. Antony could not see anything there to be afraid of.
 
 “He is a child,” said one of Piso’s clerks, reading Antony’s face.
 
 “He is eighteen,” Antony said. “I was a child once, for a very short time. I recommend it.”
 
-“We will not hide this,” Antony said, consul-smooth for Piso’s legality faces. “Hiding makes it ours. Ours becomes theft. Theft becomes their excuse.”
+“We will not hide this,” Antony said, consul-smooth, for Piso’s people. “If we hide it, it is ours, and they will say that we stole it.”
 
 Someone urged delay until the city cooled, polite as a man offering a cloak in a fire.
 
-“The city is not cooling,” Antony said. “It is fermenting. Open the jar.”
+“The city is not cooling,” Antony said. “Read it out.”
 
 ### Nysa
 
-Nysa heard the will in pieces, which was how the poor always heard law.
+Nysa heard the will in the market, in pieces, while she was buying lentils.
 
-Gardens came first. A woman in the market wept as if she had already walked them. Then money for citizens. Then the boy: Caesar’s son now, paper-son, name-son, Octavius.
+The gardens came first. A woman at the next stall began to cry, and said that she had always wanted to see them. Then it was money, three hundred to every citizen, and the lentil-seller stopped with the scoop in the air to ask whether freedmen counted. Then it was the boy. He was Caesar’s son now, by the paper, and his name was Octavius, or had been.
 
-“And Decimus,” said a scribe’s attendant, hungry to be cruel, “written second. The one with the knife.”
+“And Decimus Brutus,” said a scribe’s attendant, who had a satchel and was pleased with himself. “Written second. The one who fetched him.”
 
-Nysa saw, for a blink, Decimus’s open morning face in the Domus atrium. She didn’t have a philosophy for it. She had a stomach.
+Nysa saw the basin on its stand inside the door, with the water gone cloudy and the towel thrown over the rim. Her stomach turned over.
 
 “What does second mean?” she asked the woman beside her, a washerwoman with chapped hands.
 
 “It means he was loved a little less than the boy,” the woman said. “And he killed him anyway.”
 
-Back at the Domus, Phileros had heard the same news at the vestibule. “The house will be stripped for keepsakes,” he whispered when she came in. Keepsakes were not the tragedy. The emptying was.
+Nysa paid for the lentils. She had been given the exact coin, and she counted it out.
 
-Calpurnia, somewhere deeper in the Domus, didn’t come out. Nysa was sent with water and found the cubiculum door shut like a verdict.
+At the Domus Phileros had it already, from the vestibule. He said that the house would be stripped now for keepsakes, and he looked at the door key in his hand. She was sent in with water for the mistress. The bedroom door was shut. She knocked, and waited, and set the jug down on the floor beside it, where it would be found.
 
-In the street the clauses mutated before sundown. The sum grew. The gardens acquired fountains. The boy acquired a future other people tried to sell as fate. Nysa didn’t buy. Fates were what rich men sold to each other when they were bored.
-
-She kept her incomplete wax. It had become a relic of a morning when paper still might have mattered differently.
+By dusk the sum had grown in the street, and the gardens had fountains. She carried neither of those home. The wax was still against her ribs.
 
 ---
 
@@ -131,3 +139,6 @@ She kept her incomplete wax. It had become a relic of a morning when paper still
 - **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-48 rewritten in full (the only rewrite in the Ides chapters): built round the attendant selling the two Visellius tablets Hordeonius left for the magistrate; the rumour paragraph and “He paid early” kept; he sends Sosia to find out who pays the seventy-five million. SC-49 heavy edit: Antony no longer ‘prices’ the boy; Nysa’s half rewritten in the Ch 2 manner (lentils, the basin Decimus washed in, the jug left at the shut door).

@@ -77,16 +77,14 @@ He found he did not want to be the one to tell the men about Brutus’s visitor,
 POV: Antony / F3 · Philippi plain · first engagement
 Date / place: 3 Oct 42 · Philippi plain, marsh edge
 Canon refs: A14 · M18 setup · fog pack, no fake OB · SIDE-1b OPEN-0 echo only
-Info ENTER: Two camps · EXIT: Fog; Cassius’ sector collapses *in reports*
+Info ENTER: Two camps · EXIT: Antony’s causeway reaches Cassius’s flank; Rufrius stands on Laberius’s left and holds him at the ditch; the boy’s camp is lost; Cassius’s sector collapses *in reports*
 Overhear risk: Dust/noise
 
 ---
 
 ### Antony
 
-Antony liked the plain’s honesty: kill or be rearranged. Marshes and hills broke sightlines; he liked that too, when it broke the other man’s map.
-
-He looked up at the two hills astride the road west, as he had every morning for a month: Brutus on the northern one, Cassius on the southern above the marsh, and behind them, where he could not see it and never stopped thinking of it, the sea, bringing them grain every morning. He had the plain, and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
+Antony looked up at the two hills astride the road west, as he had every morning for a month: Brutus on the northern one, Cassius on the southern above the marsh, and behind them, where he could not see it and never stopped thinking of it, the sea, bringing them grain every morning. He had the plain, and bread for less than a month. So he had given his men spades. For ten nights they had cut a causeway through the reeds toward Cassius’s flank, as quiet as men can be up to the thigh in water. This morning Cassius had seen it, and Antony had stopped being quiet.
 
 Before the trumpets a centurion of the Second came to his horse at the head of the cut, mud to the thigh, with a gap where his front teeth should have been. His century had dug for ten nights. He wanted it at the far end of the causeway, where the boy’s lent cohorts would come up out of the reeds beside Antony’s own.
 
@@ -94,25 +92,41 @@ Before the trumpets a centurion of the Second came to his horse at the head of t
 
 Antony had meant the Second for the push on the hill. He looked at the gap in the man’s teeth, and at the boy’s standards in the reeds where none of his own men wanted to stand, and laughed, the first time that day. “Take the end,” he said. “If he runs, put him back in the reeds yourself.” The Second went into the cut, and the hill waited a quarter of an hour for its weight.
 
-He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Do not chase the pretty gap. Fill it. Timing, not poetry.” The tribune’s mouth opened on a question; Antony was already past him. Omens were for the tents. On the field he trusted weight and the sound of men who still obeyed.
+He rode the near wing until the dust made faces into guesses. “Weight left,” he told a tribune, hand chopping air. “Don’t chase the gap. Fill it.” The tribune’s mouth opened on a question; Antony was already past him.
 
 Dust coated his teeth. He spat and pointed and the pointing became cohorts moving, not clean, not parade, but moving. Someone shouted Cassius’s name from a direction that might have been victory or panic. Antony didn’t pause to translate the shout. Another came down the line from the north, carried by a rider with no helmet: Brutus’s men were in the boy’s camp, cutting up the tents. The boy had a fever and Agrippa. Let them keep their own camp.
 
-A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip before the dip became a story.
+A standard dipped, rose, dipped again in the marsh glare. Antony cursed once, short, practical, and sent a second line into the dip.
 
-He did not think of Italian acres. For one breath a courier’s report from weeks ago surfaced anyway. Solvent men were sleeping badly on neighbours’ soil, and nobody had settled the auction quarrels. Antony shoved it under the next order. Italy would complain. Italy always complained. The plain was louder.
+A courier’s report from weeks ago came into his head, for no reason. Solvent men were sleeping badly on their neighbours’ soil, and nobody had settled the auction quarrels. He shoved it under the next order. Italy would complain. Italy always complained.
 
 ### Laberius
 
-Dust found every gap in Laberius’s teeth; the standard’s staff was the only upright fact he trusted. The young Caesar’s men had been lent to the spades, so it was Antony’s marsh his century stood in this morning. Behind him, from the north, the shouting said the boy’s own camp was gone, tents, mules and Laberius’s spare tunic with it. On his left, where Gaius used to stand, stood a gap-toothed centurion of the Second, who had come up out of the cut at first light and taken the place without asking. “Cordus,” Rufrius had said, and nothing else. Laberius had let him stand there. Antony’s man, the boy’s line: this morning it came to the same marsh.
+The young Caesar’s cohorts had been lent to the spades, so it was Antony’s marsh that Laberius stood in that morning, up to the shin, with the reeds over his head. From behind him, to the north, the shouting said that the boy’s own camp was gone. That was the tents, and the mules, and his spare tunic.
 
-He saw a signal, or thought he did: flags in dust, an eagle dipping toward a ditch that might have been a marsh yesterday. Vibius yelled that Cassius’s side was broken. Someone else yelled the opposite with equal faith and a different god’s name attached. Laberius believed the yell nearest his ear and the ache in his forearms.
+A century of the Second came up out of the cut at first light and formed on his left without being asked. Their centurion took the end place, the one beside him. It was where Gaius had stood for twenty years, and for a year and a half there had been nobody in it that Laberius could have named.
 
-He kept his century’s shield-line from becoming a rumour of its own. A javelin stuck in dirt near his foot; he left it. Men who stopped for trophies got killed.
+“Cordus,” Rufrius said. He still had the gap.
 
-His own standard still stood. He put his hand on the staff once: wood, sweat, the crack that had been there since Mutina’s ditch. He kept it there while the shouts about Cassius’s hill cancelled each other. He did not know Cassius’s hill. He knew thirst and the next order that might be wrong.
+“You dug this?”
 
-Pay would come later, if later existed: farms promised by dead men and living boys. For now the staff fit in a hand. That was enough for the dust.
+“Ten nights.”
+
+“It’s a bad ditch.”
+
+“It’s a causeway.” Rufrius looked down at the water, and at Laberius’s feet in it. He looked for some time. “Those are Gaius’s.”
+
+“Yes.”
+
+Rufrius did not ask. He moved half a pace nearer on the left, so that the shield rims touched.
+
+The trumpets went, and they came up out of the reeds on to hard ground under Cassius’s palisade, with the dust already in their teeth. There was a ditch. There was always a ditch. Laberius went down the near side and up the far, and the clay took his left foot from under him. It was the left one, with the heel that had been sewn at Bononia. He felt himself go, and felt the shield arm start out to save him.
+
+A hand had him by the back of the harness. It held him there, flat against the bank, with his shield where it ought to be, until he had got his feet.
+
+“Mule,” Rufrius said, through the gap.
+
+Then they were over. Vibius was yelling that Cassius’s side had broken. Somebody else was yelling the opposite, with as much faith, by a different god. Laberius did not know Cassius’s hill. He looked for the standard, and it was up. He looked left, and that was there too.
 
 ---
 
@@ -182,3 +196,6 @@ He did not wait to find out. Pindarus held the blade where Cassius set it. Cassi
 - **Plants → pays:** Italy and SIDE-1 only as an echo under Antony’s order (OPEN-0).
 - **Must not:** no casualty tables; no postcard from Rome; two cameras only.
 - **Graph pass 2026-10-24:** Rufrius (spared at Forum Gallorum, Ch 30) asks Antony to put the Second at the end of the causeway beside the boy’s lent cohorts: “I’d like him on my left.” Antony grants it at the cost of a quarter hour on the hill. Rufrius stands on Laberius’s left. Development touch in protected Philippi: only the two stitches; fog rules and two cameras kept.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-90: Antony’s half trimmed; Laberius’s half rewritten as an event (Rufrius on his left sees Gaius’s boots and holds him at the ditch: “Mule”).

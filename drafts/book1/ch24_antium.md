@@ -9,35 +9,45 @@
 
 POV: F3 Laberius · Italian veteran talk · FS10
 Date / place: May–June 44 · colony forum near Capua
-Info ENTER: Murder rage · EXIT: Listens for paymaster of the name
+Info ENTER: Murder rage · EXIT: The clerk has gone to Rome for the rolls; Antony’s man has wine, the boy’s man writes his name down; he goes with neither
 
 ---
 
-In a colony’s dusty forum Laberius heard two agents in one afternoon. The colony was still mostly surveyor’s stakes and a clerk’s promise; his plot near Capua was a line of twine that had not moved since Munda. He had come in to ask about the twine and found the town selling Caesar instead.
+Laberius walked in to the colony’s forum to ask about his twine.
 
-Antony’s man spoke of continuity, of the consul who still drank with soldiers, of land that would come if they held steady. His voice had the gravel of someone who had marched and meant to keep marching under a familiar eagle. Octavian’s man, younger, sharper, almost embarrassed by his own nerve, spoke the name *Caesar* like a donative already weighed. He kept touching a sealed tablet the way a man touches a charm.
+It was four miles and his knees knew each of them. The forum was a square of trodden dirt with surveyor’s stakes at the corners and one finished building, which was the clerk’s. His own plot lay out by the Volturnus road, the fourth line along, and it was still a length of twine between pegs, as it had been since a man read his name off a roll after Munda. He had come to ask when the twine would be stones.
 
-“Which one buried him?” a corporal asked.
+The clerk’s door was shut. A boy sitting against it said that the clerk had gone to Rome for the rolls, because the rolls were in the dead man’s cupboards and nobody could say now whose cupboards those were. He did not know when. He had been told to say a month.
+
+So Laberius was standing in the sun with nothing to do when the two agents came, one after the other, and a crowd of old soldiers gathered itself out of the wine shop to hear them.
+
+Antony’s man was first. He was grey, and had marched; you could tell by how he stood on the cart tail, with his weight back. He talked about the consul, who still drank with soldiers, and about holding steady, and the land that would come. He had a wineskin and it went round.
+
+The boy’s man was not five and twenty. He was sharp and quick and a little ashamed of his own nerve. He said *Caesar* often. He had a sealed tablet under his arm that he kept touching, and what he had to offer was dated after the harvest.
+
+“Which of them buried him?” a corporal asked. He was a young one, not of Laberius’s legion.
 
 “Neither,” Laberius said. “Philosophers buried him. These two are arguing over the will.”
 
-Dust stuck to his tongue. Somewhere a smith hammered a rhythm that could have been a march if you wanted it to be.
+The skin reached him. He drank, since it was there, and it was better than he had expected, and he passed it left from habit to a man he did not know.
 
-Antony’s man offered wine from a skin that had travelled. Octavian’s man offered a promise dated after a harvest that had not yet failed. Laberius drank neither. He listened for which purse sounded heavier when the agents stopped talking. Antony’s continuity had wine behind it. The boy’s name had hunger and speed.
+When the talking was done he went up to each of them and asked the same thing. He asked whether they knew where his plot was.
 
-“Walk with us,” Antony’s man said. “Old eagles know old roads.”
+“Hold steady, centurion, and it will come,” said Antony’s man. “Walk with us. Old eagles know the old roads.”
 
-“Stand with the name,” the boy’s man said. “The name still pays when the consul forgets.”
+The boy’s man did not know either. He admitted it, and went red, and asked for the name and wrote it down, *Laberius*, and the legion, and *twine*. “The name still pays,” he said, “when the consul has forgotten.” He had no wine.
 
-Laberius looked at both mouths and chose neither. Commitment got you the wrong eagle. He kept both men’s words in different pockets of his mind, wine in one, speed in the other, and walked away before either could call that friendship. Behind him the corporal laughed once, uncertain which joke he was in. Laberius didn’t turn. A turn would have been half a yes.
+Laberius thanked them both. He went with neither.
 
-On the road edge an older veteran, scar through the lip, no agent’s polish, spat dust and spoke to the corporal only after Laberius was far enough to overhear without being invited. “Old eagles don’t take the boy’s pay yet. Wine shops still call him a shadow with a seal. When the shadow learns to feed us, we’ll talk. Until then Antony’s skin tastes familiar.”
+There was a man of the Tenth by the well with a scar through his lip, whom Laberius knew to nod to. He had drunk from the skin too. He spat and wiped the scar with his thumb.
 
-“And the Liberators?” the corporal asked.
+“The old eagles won’t take the boy’s pay yet,” he said. “There isn’t any. In the wine shops they call him a shadow with a seal on it. When the shadow learns to feed us, we’ll talk. Till then I know the taste of Antony’s wine.”
 
-“Philosophers,” the scar said. “Down at Brutus’s sea house at Antium, the lot of them, and his mother’s clerks with them. Servilia’s already rewriting paper so her boys don’t have to carry corn like freedmen. You’ll hear it before the Senate does.”
+“He wrote my name down,” Laberius said.
 
-Laberius heard it without turning. Let the gentry talk behind his back. He had his pay to count.
+“They all write it down.”
+
+That was true. Laberius walked the four miles home. One of his pegs had lifted a little in the dry, and he trod it in again with his heel.
 
 ---
 
@@ -49,47 +59,39 @@ Info ENTER: Brutus asks advice · EXIT: Cassius rejects corn insult; Brutus aban
 
 ---
 
-Antium’s light was pretty. Pretty light made disasters look arranged. Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from Antium asking for counsel, and a man of station did not let Servilia’s son ask twice.
-
-In the colonnade before the room, two clients were already muttering what they would not say inside. “She’ll cut the clause,” one whispered, Servilia, unnamed because naming was courage. “Hilarus is halfway to the door already in his head.” The other snorted. “And Cassius won’t carry corn. Tell Cicero after he finishes painting tools. This house decides first and invites advice after.”
-
-Cicero heard enough to smile as if he hadn’t. Station required the smile. He carried both into the pretty light: eagles refused on dusty forums, a mother rewriting paper.
+Cicero had come the short way along the shore from his house at Astura, a morning’s ride, because Brutus had written from Antium asking for counsel, and a man of station did not let Servilia’s son ask twice. The light off the sea was very pretty.
 
 Brutus asked Cicero to speak as if speech could still be strategy. He had a tablet on his knee with the Senate’s seal broken, and he tapped it once. “You have read more decrees than the Senate ever wrote, Cicero. Tell me how this one reads.” He did not wait. “Grain buyers. Corn factors with a praetor’s ring.” The room held Porcia’s severity, Tertulla’s stillness, Favonius’s moral cough, and Servilia, who listened the way bankers listened to interest. Servilia had married that daughter to Cassius. One family, both knives; Cicero had always admired the economy. Favonius he remembered barefoot behind Cato in the Forum, copying the old man’s feet, and remembered the story that he had told Brutus last winter that a civil war was worse than a king. Nobody had handed him a dagger in March. He had come to Antium anyway, to cough. A steward, Hilarus if Cicero’s memory of names still worked, poured wine that nobody truly tasted.
 
-Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions, Asia’s scraps, Sicily’s corn, as tools rather than humiliations? Better tools than open war with empty hands. He heard himself navigating. He mistook navigation for statesmanship.
+Cicero began well. He always began well. Return to Rome under arms? He painted the danger without naming cowardice. Stay in Italy as moral monuments? He praised the idea just enough to bury it. Accept the Senate’s insulting commissions, Asia’s scraps, Sicily’s corn, as tools rather than humiliations? Better tools than open war with empty hands. He heard himself steering between them, and thought that it was going well.
 
 “And if Antony’s veterans keep the Forum as a camp?” Servilia asked, mild.
 
 “Then we do not gift them a massacre to justify,” Cicero said. “We keep the law’s face. Faces matter.”
 
-Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Absence was an argument. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
+Porcia’s mouth tightened at every compromise. Tertulla watched her husband’s empty place. Favonius coughed morality into the pauses until the pauses preferred Cassius’s dust to Favonius’s virtue.
 
-Cassius arrived mid-flow, late on purpose or by fate, either way a blade. There was dust on him and an impatience sharper than the dust. He didn’t apologise for being late.
+Cassius arrived in the middle of it. There was dust on him, and he did not apologise for being late.
 
-Cicero tried to resume. Cassius didn’t resume. He cut.
+Cicero tried to resume.
 
 “Sicily,” Cassius said, when the corn commission surfaced. “They want me to feed the city while Antony feeds on it. I will not carry grain like a freedman while men who spared him call it peace.”
 
 “Tools,” Cicero began again.
 
-“Tools for whom?” Cassius asked. “For your letters? Or for a war that already has a paymaster arguing the name in every dusty forum?”
+“Tools for whom?” Cassius asked. “For your letters?”
 
-Brutus’s face did the old slow collapse into resolve. The Rome-return balloon, Cicero’s prettiest paragraph, died in Brutus’s throat. East became less a choice than a harbour with a direction.
+Brutus had been about to say something about Rome. Cicero saw it leave his face. Nobody in the room said *east*, and after that nobody needed to.
 
-Servilia cut in, not loud. Loud was for men who needed to be seen cutting. “The corn clause in the decree,” she said, naming the thorn without asking permission. “It can come out. I will see it taken out.” No vote, no request. She held out her hand without looking round, and Brutus, after a moment, put the tablet with the broken seal into it, and she passed it over her shoulder to Hilarus. The steward took it in both hands and went out. Nobody else in the room moved. Cicero watched him go down the colonnade, past the two clients who had stopped muttering, out of the pretty light and into the plain sun of the yard, a man walking at an ordinary pace with the Senate’s decree under his arm, and he knew that the thing was decided and that he had not been the one to decide it.
+Servilia spoke then, not loudly. “The corn clause in the decree,” she said. “It can come out. I will see it taken out.” No vote, no request. She held out her hand without looking round, and Brutus, after a moment, put the tablet with the broken seal into it, and she passed it over her shoulder to Hilarus. The steward took it in both hands and went out. Nobody else in the room moved. Cicero watched him go down the colonnade, past two clients who were waiting there, out of the pretty light and into the plain sun of the yard, a man walking at an ordinary pace with the Senate’s decree under his arm, and he knew that the thing was decided and that he had not been the one to decide it.
 
-Cicero felt the ship take water. He had been invited to advise and had become a spare chair at a family council. Servilia rearranged his sentences after he spoke them.
+Favonius said something about the cost of civil war. Porcia was looking at Brutus.
 
-Favonius muttered about civil war’s cost. No one appointed him captain. Porcia looked at Brutus, measuring how much of Cato remained, and how much would survive a ship east.
-
-Outside, the sea kept being the sea. Inside, Cicero tasted the day’s fact. The Liberators wouldn’t recover the capital by cleverness alone. His cleverness had just been politely shelved. The name war outside Antium’s pretty light wouldn’t wait for his next letter to invent an army.
-
-He left praising everyone. Praise was the only exit from rooms that had already decided without you. On the road he began composing, already, the letter to Atticus that would make him central again on the page.
+He left praising everyone. On the road he began composing, already, the letter to Atticus that would make him central again on the page.
 
 ---
 
 ## Continuity
-- **Knows / learns:** at a colony forum near Capua, the eagle men refuse the boy’s pay; Laberius is there for his Capua twine; a scar-lipped veteran puts Brutus and Servilia’s clerks at the Antium sea house. Laberius refuses both offers, and refuses an Antony man’s “guard for safety” transfer: the Capua date stays in his boots. Antium, 8 June 44: Cicero rides from Astura on Brutus’s letter; Brutus’s decree is the grain-buying commissions (Asia, Sicily), a praetor’s excuse past ten nights; Tertulla is Servilia’s daughter, married to Cassius (Cicero’s “both knives”); Favonius, Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia rewrites the paper (the corn clause). Hilarus present. The East path is locked in.
+- **Knows / learns:** at a colony forum near Capua, the eagle men refuse the boy’s pay; Laberius is there for his Capua twine; the colony clerk has gone to Rome for the rolls (pays Ch 27, where the boy’s people bring them). 2026-11-11 (voice pass): SC-67 rewritten in full (he asks both agents where his plot is; the scar-lipped man is of the Tenth and no longer sets up Antium); SC-68a heavy edit (the colonnade whisperers and the narrator’s commentary cut; the Hilarus passage kept whole). Laberius refuses both offers, and refuses an Antony man’s “guard for safety” transfer: the Capua date stays in his boots. Antium, 8 June 44: Cicero rides from Astura on Brutus’s letter; Brutus’s decree is the grain-buying commissions (Asia, Sicily), a praetor’s excuse past ten nights; Tertulla is Servilia’s daughter, married to Cassius (Cicero’s “both knives”); Favonius, Cato’s barefoot copy, civil war worse than a king, no dagger; Servilia rewrites the paper (the corn clause). Hilarus present. The East path is locked in.
 - **Plants → pays:** the scar-lip veteran’s “when the shadow learns to feed us” and “which purse still dates dirt” (Ch 27 SC-70b, Ch 30).
 - **Must not:** not re-glossed: Laberius, Porcia, Cato, ten nights.

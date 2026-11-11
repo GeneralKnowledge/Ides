@@ -121,36 +121,64 @@ Gaius sat down by the fire and unwound the strip of hide from his heel. The boot
 # SC-80: Mud
 
 POV: F3 Laberius · Forum Gallorum / Mutina
-Date / place: April 43 · ditch / standard line
+Date / place: 21 April 43 · Antony’s lines under Mutina
 Canon refs: A11 · Galba letter energy · B4 · D4
-Info ENTER: Orders, mud, pay · EXIT: Tactical pressure on Antony; consuls falling
+Info ENTER: Orders, mud, pay · EXIT: Gaius killed in the ditch; Hirtius dead in Antony’s camp; Antony’s lines empty by dusk; Laberius takes Gaius’s boots
 Overhear risk: High camp
 
 ---
 
-Seven days after Forum Gallorum, Hirtius took the army out against Antony’s own lines under the walls of Mutina, to break the siege for good.
+Seven days after Forum Gallorum, Hirtius took the army out against Antony’s own lines under the walls of Mutina.
 
-This was not the road and the reeds. It was ploughland cut into ditches, Antony’s palisade running round the town a bowshot out, and above it the walls of Mutina with men on them: Decimus’s men, who had been watching Antony’s fires all winter.
+It was not the road and the reeds this time. It was ploughland, cut across with drains, and a bowshot out from the town Antony’s palisade ran right round it with a ditch in front. Above the palisade were the walls, and there were men on the walls. They were Decimus’s men. They had been looking at Antony’s fires all winter and now they were looking at this.
 
-“Second fight,” Vibius said, “and this one’s at his door.”
+“Second fight,” Vibius said. “And this one’s at his door.”
 
-Laberius’s world narrowed to mud and which standard still stood.
+Gaius had bound the split heel again that morning, with rag, since the hide was gone. He had been talking since they formed up. It was the girl at Bononia with the figs. He had worked out that if a man bought four and paid for three every day for a month she would be ruined by the Kalends and never know why, and he thought somebody ought to marry her before it happened.
 
-In rooms with clean sandals this would be named success before the mud dried. In the ditch it was screaming. Martians refusing to be held. Someone’s javelin nearly killing him until a voice yelled his century’s joke-name. Antony’s men came out of the palisade hard. Hard enough that Laberius smelled the old Spanish stubbornness again, the kind that did not care who Rome called consul. Hirtius hit harder when the day turned. Laberius didn’t see strategy. He saw a standard tilt. He saw Gaius open at the neck. Blood mixed with meltwater and ran pink off the rim of his shield.
+“You,” Vibius said.
 
-Vibius spat black grit. “Win,” he said. “Then count.”
+“I’m spoken for. I’ve a colony to found.”
 
-Yell-rumours arrived before facts. Someone claimed a consul down. Someone claimed both. Someone claimed a victory large enough to make the ditch look like a lie. Laberius believed the ache in his forearms and nothing else. Until mid-afternoon, when a staff officer he recognised from Hirtius’s tent came past on a blown horse, cloak dark with more than rain, and said to a tribune three paces from Laberius’s ear: “The consul Hirtius is dead. I held his shoulder. Do not invent a better story.”
+The trumpets went.
 
-That was one fact Laberius could keep: Hirtius down, confirmed by a man who had touched him. Pansa’s name still swam in the yell-water, wounded, dying, fine, poisoned, blessed. Vibius had run beside a litter a week ago and seen a curtain. Nobody had a shoulder.
+They crossed the ploughland at a walk and then not at a walk. The ditch was nine feet across and had meltwater standing in it. The front rank threw hurdles down and went over them and the hurdles sank. Laberius went down the near bank on his heels and through water to the thigh and up the far side on his hands and his shield rim. The clay was like soap. Things were coming down from the palisade the whole time. He got a knee over the lip and looked left, as he always looked left.
 
-Near dusk Antony’s near line pulled back toward the higher ground. Not a rout Laberius could swear to. Only a thinning of shields where shields had been thick. He saw that with his own eyes. A wounded Antonian left behind tried to crawl and was finished by someone Laberius did not know. Finishing was not glory either. Withdrawal or regroup: clerks would decide later. Laberius decided only that his century still had its standard. And a gap where a friend had been.
+Gaius was not there.
 
-Water ran into his boots. He had stopped noticing wet hours ago; noticing returned when the fighting thinned and the cold found room. Vibius pointed at Mutina’s wall, still closed. “Town’s still his,” Vibius said, meaning Decimus. Laberius grunted. Walls didn’t feed the ditch.
+He was a man’s length below, on the bank. The bad heel had gone from under him in the clay. Laberius saw him slide and saw him put the shield hand down to stop himself, the way anyone would. The shield went wide. The javelin came down from the palisade and took him at the join of the neck and the shoulder, above the mail.
 
-A mule train stuck in the same ditch as the dead. Drivers cursed gods and officers with equal accuracy. Laberius helped push because pushing was orders you could obey without understanding Senate talk. One mule went down and stayed down; they cut the traces and left it.
+He sat down in the water.
 
-He stacked a shield that was not his. The owner would not need it. Somewhere behind, gallopers already carried “great success” toward Rome. Laberius carried Gaius’s boots, the left one split at the heel, still warm somehow. He knew Hirtius was dead. He knew Antony’s near shields had thinned. What Rome would buy with those two facts, he left to the gallopers. He didn’t follow their dust.
+A centurion does not go back into a ditch. Laberius went. He heard Vibius shout his name, the whole of it, all three. He got an arm behind Gaius and the water round them was already the wrong colour, and Gaius looked at him, perfectly sensible, a little annoyed.
+
+He was trying to say something. He could not. It was in the throat, and nothing came but the breath and what came with it. He had talked all his life, to keep his fingers warm. He gave it up. He lifted one hand out of the water and pointed down, at his own foot, and raised his eyebrows.
+
+“It knew you walk like a mule,” Laberius said.
+
+Gaius’s mouth moved. It would have been the laugh. Then his head was heavy on Laberius’s arm, and he was still looking, and there was nobody doing it.
+
+Something took Laberius by the back of the harness and hauled. It was Vibius, with the staff under one arm, and he was not gentle.
+
+“Win,” Vibius said, into his ear. “Then count.”
+
+They won it. Laberius could not have said how. He was in it for hours and what he kept was his forearms, and a gap in the stakes with the Martians going through it, and Antony’s men coming out hard, as hard as the Spaniards had once, and then not so hard. A standard tilted and came up again. He did not see Hirtius. He did not see the boy, though somebody said afterwards that he had carried an eagle.
+
+In the middle of the afternoon a staff officer came down the line on a blown horse. Laberius knew him from Hirtius’s tent. His cloak was dark all down one side, and it had not rained. He pulled up by a tribune three paces off.
+
+“The consul is dead. Inside their camp, by Antony’s own tent. I held his shoulder.” He looked round at the faces. “Don’t let them make it a better story.”
+
+Toward dusk the shields in front of them were fewer than they had been. Nobody ran. They were only fewer, and then the palisade had no one on it. Up on the wall of Mutina they were cheering, and the gate was still shut.
+
+“Town’s still his,” Vibius said.
+
+A mule train had got itself into the ditch along with the dead, and the drivers were cursing the gods and the officers by turns. Laberius went down and put his shoulder to a cart, because it was something to push. One mule was down and would not get up. They cut the traces and left it.
+
+Then he walked along the ditch to the place.
+
+Somebody had pulled Gaius up on to the bank and laid his shield over him. Laberius moved it. He did not look at the neck. He unwound the rag from the left heel and took the boots off, both of them, and that took some time, because they were wet and the feet were already stiff. They were his own size. He had known that for twenty years.
+
+He knotted the laces and hung them round his neck. The left one gaped at the heel. It was still warm, somehow, inside.
 
 ---
 
@@ -159,32 +187,42 @@ He stacked a shield that was not his. The owner would not need it. Somewhere beh
 POV: F4 Hordeonius · rumour ledger / letter traffic
 Date / place: Late April 43 · Hordeonius’s stall, Rome
 Canon refs: AMB-2: not confirmed · M17 · FT11
-Info ENTER: Pansa dying · EXIT: Poison rumour spreads, unconfirmed
+Info ENTER: Pansa dying · EXIT: Poison rumour unconfirmed; Fulvia’s paper called in, in full, with a fee
 Overhear risk: Extreme rumour
 
 ---
 
-Hordeonius recorded three explanations for Pansa’s death before the man had finished dying:
+In the last week of April the Janus had two subjects. One was the consul Pansa, who lay at Bononia with the wound he had taken on the road and had been nine days dying of it, which the stalls thought longer than was natural. The other was Fulvia’s paper.
 
-1. *Battlefield medicine*
-2. *Antony’s smear*
-3. *The boy’s friends prefer fewer consuls*
+A client with a dinner to go to wanted the first settled before evening. He leaned on the board and counted off what he had. It was the wound, and nothing else. Or Antony’s people had put the tale about, to spoil the victory. Or the boy’s friends preferred fewer consuls, and the surgeon had been seen to. He liked the third. He wished to know what Hordeonius would say to it, as a man who heard things.
 
-He labelled all three *Rumour* in Greek abbreviation, because Latin made gossip look like evidence. A client wanted to buy the third as fact, wanted a price on conspiracy that would make his dinner clever. Sosia sat on the next stool with a cup; a runner from camp hovered with ink still wet.
+“I would not say anything to it.” Hordeonius did not raise his voice. “Nor to the others. A man is dying up there, and he has a wife in this city. You will not bring that to my board as something to be valued.”
 
-Hordeonius refused the sale and charged for the refusal.
+The client said that he had meant no harm, and that it was very properly put, and went away to his dinner with all three.
 
-“Do not sell poison as fact,” he told the man, gentle as a father closing a child’s eyes. “I keep seals. Seals are not dinner cleverness. Pay for the refusal if you want a clean margin.”
+“Dead consuls move the price of land,” Sosia said. “Whichever way they died.”
 
-The client bowed, grateful as a man receiving virtue. “Clean margins. Of course. Wisdom.”
+“Sosia.” Hordeonius watched the client as far as the arch. “How far has it moved?”
 
-Sosia tipped his cup toward Hordeonius without drinking. “Only you could make refusing a sale sound like a temple tax.”
+Sosia told him. He wrote it down.
 
-Hordeonius did not smile. “Silence clears. Cleverness does not.”
+Fulvia’s steward came a little before noon. He walked up from the Carinae himself; he had not sent a boy. He was a grey freedman in a good cloak, with a bag under it, and he stood until he was asked to sit. The Senate had voted his mistress’s husband an enemy of the state three days before. Since then every man on the Janus who held a note of hers had sent to her door, and he had been at each board in turn. He asked for a month.
 
-Sosia muttered, after, that dead consuls moved land prices either way. A letter from camp arrived with three different inks and one shared panic. Hirtius down as fact in one hand. Pansa still a menu of causes in another. Hordeonius priced land by the panic without crowning a cause and entered *Pansa: cause open*.
+“I am sorry for the lady’s trouble,” Hordeonius said. He was. “I have always found her exact. But I must have it in full, and today. There is a fee for the haste. It is the same fee I should ask of a baker.”
 
-Sosia brought a tablet up from the Carinae end of the Sacred Way: Fulvia’s paper, and her steward asking for a month. “The Senate has voted her husband an enemy,” Sosia said. “Everybody on the Janus is calling her in.” Hordeonius called it in, in full, charged the steward a fee for the haste, and wrote the fee under *prudence*. Sleep would argue with him later. For now the market argued louder.
+“She will remember who waited.”
+
+“I hope she will remember that I was civil.”
+
+The steward put the bag on the board. He had brought the whole sum with him, and the fee. He had known. He counted it out without a word and Sosia counted it after him, and he went away down the Sacred Way with his ears red.
+
+Sosia wrote it: *Fulvia, wife of M. Antonius, hostis: called, per Sosia, in full.* He put the fee beneath, under *prudence*.
+
+“Atticus hasn’t called his,” he said. “They say he has lent her more. Without interest.”
+
+“Atticus can afford his friends.” Hordeonius took up the cloth. “It is nothing to do with sides. I should have done the same to the other man’s wife.”
+
+He wiped his two fingers. Then, since the cloth was in his hand, he wiped the place on the board where the bag had stood.
 
 ---
 
@@ -253,3 +291,6 @@ Cicero thought about rebuking him and found he could not be bothered. He went to
 - **Plants → pays (T12):** Labeo carries it to Octavian and to Decimus (Ch 31–32); the word under Octavian’s count at Bononia (Ch 33).
 - **Must not:** no invented battle order; Laberius’s and Hordeonius’s “later” is guesswork in the present. Not re-glossed: the Martians, Hirtius, Pansa, Antony’s hundred.
 - **Graph pass 2026-10-24:** Mud trimmed of the Pansa-litter recap and the Capua/pay repetition that SC-79 now carries.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-80 rewritten in full to SC-79’s standard: Gaius dies on the page in the ditch (the split heel slips; a javelin above the mail; he cannot speak and points at the boot; “It knew you walk like a mule”); Vibius’s “Win. Then count.”; Hirtius dead inside Antony’s camp on the staff officer’s word; Laberius takes Gaius’s boots (worn Ch 38). SC-81 rewritten round Fulvia’s steward (he brings the whole sum and the fee; entry matches Ch 34).

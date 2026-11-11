@@ -18,23 +18,21 @@ Overhear risk: Camp
 
 Brutus pressed two fingers under his ribs where the reports had lodged and found no relief there.
 
-He knew now how it had happened, and that was worse than the versions had been. The horsemen Cassius saw from his hill were Brutus’s own, sent round to tell him the boy’s camp was taken, and they had pulled Titinius off his horse to embrace him. Titinius rode back up with a victor’s wreath on his head, found the tent, and killed himself beside it with his own sword. Cassius had died for want of one man riding back up a hill. The weight of that sat in the body first, breath short, ribs tight, the old courtesy habit wanting a sentence that would arrange grief into something useful. He had no sentence. He had a line that still needed bodies.
+He knew now how it had happened, and that was worse than the versions had been. The horsemen Cassius saw from his hill were Brutus’s own, sent round to tell him the boy’s camp was taken, and they had pulled Titinius off his horse to embrace him. Titinius rode back up with a victor’s wreath on his head, found the tent, and killed himself beside it with his own sword. Cassius had died for want of one man riding back up a hill. He wanted a sentence for it and had none.
 
 Twenty days since the first fight. He had sent Cassius’s body across the strait to Thasos by night, so the camp would not have to watch it burn and count what was left. Then he had sat on his hill and let the other side go hungry. The sea fed him; the plain fed no one. It had been a good plan and his officers could not bear it. Men slipped across to Antony’s fires after dark, and the ones who stayed called waiting cowardice to his face, in Cassius’s words, as if they had inherited them. This morning he had given them their battle.
 
-He didn’t deliver a speech about it. This was weight and breath and mud that took boots the way grief took time.
-
-He fought like a man hoping philosophy could stiffen a shield-wall. For a while it did. Faces that had minted *EID MAR* with him held because holding was what they still knew how to do. He moved among them with the old etiquette of a man who still believed posture mattered: nod, correct a gap, refuse the luxury of sitting when the men stood. Mud took his boots. Dust took his mouth. He tasted metal and did not ask whether it was blood or only fear. An aide offered water. Brutus took it, swallowed wrong, coughed once, ugly, human, and went back to the gap.
+He made no speech. For a while the line held. He went along it on foot, nodding to men he knew, closing a gap with his own hand, and he would not sit while they stood. Mud took his boots. Dust took his mouth, and there was a taste of metal in it. An aide offered water. Brutus took it, swallowed wrong, coughed once, ugly, human, and went back to the gap.
 
 Somewhere on his left, where the young men of good family had been put because they had asked to be, the line went back. One of them did not. Brutus saw him for a moment through the dust: his wife’s brother, Cato’s son, who at Utica had hidden his father’s sword and wept in the doorway. He was not giving ground. He was shouting, over and over, so that the men coming at him would know whom they were killing, his own name and his father’s. *Marcus Cato. Cato’s son.* Then the dust closed, and when it opened again there was a heap of men where he had stood, theirs and Antony’s together, and the shouting had stopped.
 
-Then mud and numbers undid the stiffening. He saw men who wanted tomorrow’s grain more than yesterday’s name. Both kinds broke when the plain insisted. An officer, face known from the minting days, caught his sleeve and begged him to pull back to a cleaner hill. The cleaner hill was visible, higher ground and fresher air, a place where the day might be lost slower and with more witnesses who could later invent dignity.
+Then it went. An officer whose face he knew from the mint tent caught his sleeve and begged him to fall back to the higher ground behind.
 
-Brutus looked at it. The cost of taking it was clear in the body. Abandon the knot that still held. Leave the men who still answered *EID MAR* with their shoulders. Cassius would have called delay contemptible. Cassius was not here to call anything.
+Brutus looked at it. It was not far. To reach it he would have to leave the knot of men in front of him, who were still holding. Cassius would have told him what to do, and with contempt. He found that he missed the contempt.
 
-“Hold what you can,” Brutus said. It was not a period or an antithesis, only an order with the paint worn off.
+“Hold what you can,” Brutus said.
 
-He refused the cleaner hill. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
+He stayed. The knot shrank. The officer’s face went from hope to something flatter. Only then, at dusk, with nothing left on the plain to hold, did Brutus take what remained up into the hills behind the line: the retreat the morning had refused, now with no day left to save.
 
 Night came down cold over a stream bed among rocks. A few hundred men had followed him; fewer were there by midnight. Somebody had to find out whether the camp still stood, and the only way to it was down through the enemy’s pickets. Statilius offered. He did not say anything about wise men and fools. He said that if he found the camp safe he would hold up a torch, and then he went down among the rocks into the dark, an Epicurean on a soldier’s errand. Brutus had kept his letter from Rome, two springs gone, the one about a thing that wanted a friend and not a cause.
 
@@ -48,17 +46,15 @@ He did not come. Volumnius, who had argued Plato with him for twenty years, refu
 
 Strato held it, a friend from the rhetoric schools in Athens, when rhetoric had seemed the hard part. Brutus took his hand first. Then he set the point under his ribs, where the reports had lodged and Cassius had been sitting all day, and leaned. He did not arrange his posture. There was no one left to arrange it for, only Strato, and Strato looked away.
 
-On the plain below, an *EID MAR* coin lay in the dust with the rest of the metal.
-
 ### Octavian
 
-Octavian was ill enough that credit became argument among healthier men.
+Octavian was ill.
 
 Fever made the tent canvas pulse. Twenty days ago Brutus’s men had come through this camp and run their swords through the litter he had left an hour before. His doctor had dreamed something and had him carried out into the marsh. Octavian remembered reeds, and lying very still, and being told afterwards that it had been prudence. Sweat ran into his eyes and made the map swim.
 
 For a while he was at Apollonia, in the room over the exercise ground, the winter the letter came. Then he was smaller than that, and it was Velitrae, and his mother’s hand was on his forehead, cool and dry, the way it had been every time he was ill as a boy, which had been often. She was saying his name, the old one, *Gaius*, not as a name but as something to hold on to. He wanted her hand there now more than he had wanted anything on the island at Bononia. He lay and wanted it, and did not think what the wanting was for, and the canvas went on breathing in and out above him.
 
-Then a courier was at the tent flap, asking for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He didn’t invent himself as genius of the plain. He survived noise. He survived other men’s versions of his usefulness.
+Then a courier was at the tent flap, asking for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He had seen none of it. Healthier men would argue afterwards about what he had done that day.
 
 Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
 
@@ -66,7 +62,7 @@ Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,�
 
 Fever eased, later, into a thin clarity on the road-edge of the camp. “They will want farms,” Agrippa said, Italian soil, promises already louder than the plain’s dust.
 
-“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering. Paper would not hold the soil still.
+“They will want farms that belong to someone else,” Octavian said. He didn’t dress it. He kept one hand flat on the list of promised acres until the paper stopped fluttering.
 
 ---
 
@@ -80,9 +76,7 @@ Overhear risk: Officers
 
 ---
 
-Antony drank the win without sweetness.
-
-Dust still lived in his teeth; wine only moved it around. “We divide,” he said. “I take the East. It has the money and it is coughing blood. The boy takes Italy and the veterans.” An officer asked after Lepidus. “Lepidus keeps Africa,” Antony said, “if it turns out he has not been writing letters to Sextus Pompey.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies.
+There was still dust in Antony’s teeth, and the wine only moved it about. “We divide,” he said. “I take the East. It has the money and it is coughing blood. The boy takes Italy and the veterans.” An officer asked after Lepidus. “Lepidus keeps Africa,” Antony said, “if it turns out he has not been writing letters to Sextus Pompey.” Officers congratulated him in the register soldiers used for men who had just rearranged a map with bodies.
 
 They had found Brutus in the morning, on the hill, with his own men’s cloaks under him. Antony had gone up to look. He had not expected to want to, and had wanted to, and had stood over the body a long time while the officers waited further down the slope, and then he had taken off his own cloak, the general’s purple, and laid it over the dead man from the chin down. He had told a freedman to see him burned properly and the ashes sent to his mother. He did not explain it to the officers. He was not sure he could have.
 
@@ -104,7 +98,7 @@ Gaius had been killed in the spring, quickly, without insult, as the order said,
 
 Nobody asked whether he meant the coast, which was a long way off, or whether he would be content with something nearer and quicker and a stone that would do. Antony did not tell them. Hortensius looked at him a moment longer, with his father’s eyes, and then the soldiers took him out, and Antony drank, and the officers began, carefully, to talk about the East.
 
-At the end of the table a clerk tried to enter victory in a clean column and stopped. The stylus had nothing honest to finish with. Antony saw the open wax and did not ask why. The East pulled at him. A list of promised acres lay under his cup, unread, the boy’s tomorrow.
+At the end of the table a clerk had the day’s tablet open and had not yet found a heading for it. Antony saw the open wax and did not ask. A list of promised acres lay under his cup, unread. It was the boy’s business, and tomorrow’s.
 
 ---
 
@@ -328,3 +322,6 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 - **Plants → pays:** sequel hooks only (SERIES-1): unpaid Italian acres (FS10), Sextus (FS11).
 - **Must not:** no Actium; Octavian ill and not a genius; no stacked sequel thesis.
 - **Graph pass 2026-10-24:** Open Wax: last winter Fulvia’s silver-woman asked Hordeonius his rate and did not borrow (pays Ch 35 ledger). Brutus, Octavian and Peak trimmed of restatements and one corridor line.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-92 heavy edit (the ‘cleaner hill’ passage and the closing coin caption cut; Brutus misses Cassius’s contempt); SC-93 light edit.

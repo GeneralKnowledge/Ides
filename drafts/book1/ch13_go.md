@@ -16,17 +16,17 @@ Overhear risk: N/A
 
 Cicero wrote to Atticus about games.
 
-Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway, because Atticus kept Cicero’s real opinions and nobody else would. The letters were Cicero’s habit as other men keep a temper: daily, compulsively, with relief.
+Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway, because Atticus kept Cicero’s real opinions and nobody else would. He wrote daily, and with relief.
 
-Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Games sat in the ink like a man pretending the city was still a holiday problem. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
+Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
 
 *The city is theatrical*, he wrote, then sharper: *Theatre is what remains when men of standing refuse to stage a Republic.*
 
-He read it back and was pleased. That was the danger of Cicero: he was nearly always pleased by the sentence in front of him, and rarely asked what it was for.
+He read it back and was pleased.
 
 He considered a sentence about Caesar’s departure east in a matter of days, and the offices stacked like bricks ahead of lesser men, a Republic leased out like a farm for the years he would be gone. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus, Hirtius’s secretary, had brought a note from his master about nothing that mattered and stayed for the wine. The camp gossip in it was thin. Cicero answered with courtesy that congratulated itself. Tomorrow the Senate sat in Pompey’s hall, and he would go, and be bored, and come home to write about it. He believed, with the confidence that had always been half his talent, that if blades were coming they would first have to pass through a speech he had not yet written.
+Sphaerus, Hirtius’s secretary, had brought a note from his master about nothing that mattered and stayed for the wine. The camp gossip in it was thin. Cicero answered it courteously and at length. Tomorrow the Senate sat in Pompey’s hall. If Cotta stood up with his motion, the speech against it was ready, and he had the first period by heart. If Cotta did not, he would be bored, and come home to write about it.
 
 “You look pleased,” said Sphaerus.
 
@@ -36,7 +36,7 @@ Sphaerus, Hirtius’s secretary, had brought a note from his master about nothin
 
 “Not until I have finished the sentence,” said Cicero.
 
-He sealed the letter. Sealing felt like action. Below the house a cart ground up the Palatine slope, and somewhere a thrush made a sound like a hinge. Cicero took it for spring.
+He sealed the letter. Below the house a cart ground up the Palatine slope, and somewhere a thrush made a sound like a hinge. Cicero took it for spring.
 
 ---
 
@@ -50,11 +50,33 @@ Overhear risk: Must be near-zero
 
 ---
 
-Names checked. Roles set, almost.
+They went through it once more, in the small room, with the door shut and one lamp. Cassius kept the list in his head and nowhere else. He said each name and waited, and Brutus said what the man was for.
 
-Tillius for the petition: Lucius Tillius Cimber, brother in exile, a respectable request on his tongue, and a respectable request was the best excuse in Rome for a crowd of men to gather round a chair. When Caesar refused, Tillius’s hands would take the toga at the neck and pull. The tug was the signal. Casca for first ugly courage, Publius Servilius Casca, the nerve the others needed someone else to spend. Decimus for the door of trust: he would walk Caesar in. Trebonius for Antony: the hold in the portico. The rest, the men who had said yes without making speeches, would simply be there. Cassius still owed Galba a brother’s winter for a torn patron seal, and did not ask whether the grain debt had already called Galba away.
+“Tillius.”
 
-Cassius’s finger stopped on one place in the list he kept only in his head. “Ligarius,” he said. “Fever, I hear. Fever comes very easily to pardoned men.”
+“The petition. His brother’s recall from exile.” It was a respectable thing to ask. A dozen men could stand close round a chair to support it and nobody would wonder at them. “When he is refused he takes the toga at the neck with both hands and pulls it down. That is the signal.”
+
+“Casca.”
+
+“Behind the chair. First.”
+
+“He has said so?”
+
+“He says he would sooner be first than watch.”
+
+“Decimus.”
+
+“Walks him in. Goes to the house, if he is late.”
+
+“Trebonius.”
+
+“Antony. In the portico, with the Gaul accounts.”
+
+“Galba.”
+
+Brutus did not know. Cassius answered that one himself. “His brother’s creditor has called the debt. He may come. He may be halfway to Tarracina. I promised him nothing.”
+
+“Ligarius,” Cassius said. “Fever, I hear. Fever comes very easily to pardoned men.”
 
 “I went this afternoon,” Brutus said.
 
@@ -66,33 +88,23 @@ Ligarius had got up on one elbow and taken his hand. “If you have anything in 
 
 “In a litter if he has to. He said he has been thanking Caesar since the pardon, and he would like to stop.”
 
-Cassius looked at him a moment longer, then moved his finger on.
+Cassius looked at him a moment longer. Brutus knew what he was not saying. In February, in his own dining room, he had told this man that he would ask nobody. Cassius went on.
 
-Outside the door a creditor’s soft cough advertised itself, polite, exact, the Kalends still smiling in a throat. The cough wanted an answer. Brutus gave none.
+Brutus had his lender’s note in the fold of his toga. It had come that afternoon, for the silver he had borrowed against his games of Apollo in July, and he had not answered it. He could still walk out of this room, and pay the man, and dine as a spared philosopher. He knew exactly how the letter of reply would go.
 
-Brutus’s money sat outside the door like a creditor not invited. The lender’s note had come that afternoon, for the silver Brutus had borrowed against his games of Apollo in July, and he had not answered it. He could still walk out of this room, pay the man, dine as a spared philosopher, and keep the masks as decoration instead of law.
+“If anyone talks between now and dawn,” Cassius said, “none of it happens, and we are all dead by the Kalends.”
 
-“If anyone talks between now and dawn,” Cassius said, “we are not liberators. We are a joke that bleeds.”
+Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. “For the Republic,” he said, and it sounded thin in so small a room.
 
-Brutus looked at his own hands. They were clean. He rubbed a thumb across the palm. Dirt might appear and explain him. It did not. “For the Republic,” he said, and the sentence landed thinner than the unpaid note outside the door.
+“Enough delay,” Cassius said. “Cotta stands up in Pompey’s hall on the Ides whether we do or not. Parthia will not wait for our conscience.”
 
-“Enough delay,” Cassius said. “Cotta stands up in Pompey’s hall on the Ides whether we do or not. Parthia will not wait for our conscience. Neither will your lender. Choose which fear runs you.”
+Brutus looked at the lamp. He was aware that Cassius had stopped breathing.
 
-“You make me sound like a man with only two fears.”
+“Go,” Brutus said.
 
-“I make you sound like a man with a calendar,” said Cassius.
+Cassius nodded. He said which door each of them would use in the morning, once, and then he stopped talking, which was not like him.
 
-The room was small enough that fear had to stand close. Brutus’s hesitation lasted a breath past comfort, then released.
-
-“GO,” Brutus said.
-
-The word tasted like metal and unpaid interest.
-
-Cassius’s nod was small. Small nods moved mornings. He named the redistributed door once, checked Trebonius’s leash in principle, and stopped talking before talk became a way to unmake the lock.
-
-Brutus nodded once. The ancestral gesture: the nod of a Junius.
-
-They left the room separately. Outside, a baker’s boy argued ordinary March prices with a customer and, in the same breath, that Caesar had already slipped the city for Parthia in the night, rumour with flour on it, already wrong. Neither man looked twice at the two who had just spent a breath on knives.
+They left the room separately. Outside, a baker’s boy argued ordinary March prices with a customer and, in the same breath, that Caesar had already slipped the city for Parthia in the night, rumour with flour on it, already wrong. Neither of them looked at Brutus as he went by.
 
 Porcia was awake when he came in. She sat in the small room off the atrium with one lamp and no work in her hands, and he knew from the way she did not look up that she had been sitting like that for some time.
 
@@ -112,9 +124,9 @@ He told her. All of it: the roster, the petition, the door, the portico, Treboni
 
 “Good,” she said. That was all.
 
-Cato’s daughter. He thought of her father tearing open his own wound in Utica rather than live forgiven, and was afraid, and could not have said for which of them.
+She was Cato’s daughter. He thought of her father tearing open his own wound in Utica rather than live forgiven, and was afraid, and could not have said for which of them.
 
-He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cassius, Brutus suspected, slept worse and called it planning. Porcia, beside him, did not sleep at all; he could tell by her breathing, and by her hand, which stayed in his until the window greyed.
+He did not sleep much after. Porcia, beside him, did not sleep at all; he could tell by her breathing, and by her hand, which stayed in his until the window greyed.
 
 ---
 
@@ -123,4 +135,4 @@ He didn’t sleep well after. Sleep was for mornings that weren’t knives. Cass
 - **Knows / learns:** Cicero is blindly calm (Atticus, Hirtius; elite rumour only). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
 - **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 4 → Ch 19).
 - **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.
-- **Decisions:** 2026-11-07 (storyboard fixes 6–7): SC-31 “Hold the Consul” cut (fourth planning of Trebonius’s hold; Ch 9 and Ch 15 carry it); SC-33 “Land Powder” cut (third telling of the undated colony; Ch 4 and Ch 19 carry it). 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.
+- **Decisions:** 2026-11-11 (continuity audit): Cicero remembers the speech he began against Cotta’s motion (Ch 11); Brutus is aware that he has broken his Ch 8 “I will not recruit”. 2026-11-11 (voice pass). SC-34 heavy edit: the roster is now spoken between the two men (Cassius names, Brutus says what each is for); the creditor’s cough is gone and the lender’s note is in the fold of Brutus’s toga (nothing added to his money); the calendar repartee and the lines after “Go” cut; the word is now “Go”, not capitals. SC-32 light edit: the narrator’s remarks on Cicero cut. 2026-11-07 (storyboard fixes 6–7): SC-31 “Hold the Consul” cut (fourth planning of Trebonius’s hold; Ch 9 and Ch 15 carry it); SC-33 “Land Powder” cut (third telling of the undated colony; Ch 4 and Ch 19 carry it). 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.

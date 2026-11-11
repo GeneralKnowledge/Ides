@@ -9,34 +9,52 @@
 POV: Cassius · Asia / Syria orbit
 Date / place: Winter 43–42 · a city’s audience hall, Asia
 Canon refs: Chain 8 · C3
-Info ENTER: Need pay · EXIT: Liberty felt as extraction
+Info ENTER: Need pay · EXIT: Tarsus pays half with two sons as sureties; the courier brings the Pedian court and Decimus’s death
 Overhear risk: Interpreters
 
 ---
 
-At Tarsus, that winter, Cassius listened to the city’s elders explain poverty with practised dignity.
+At Tarsus, that winter, Cassius counted the city’s elders as they came into the hall. There were fourteen of them and nine interpreters, which told him how they meant to go about it. He had the benches brought forward before anyone spoke. He could not see a face at that distance, and he would not bargain with voices.
 
-The hall smelled of oil and fear-sweat dressed as perfume. Outside, harbour noise argued with temple bells. A fly walked the rim of a cup. Elders in a half-circle, interpreters at their shoulders, a young clerk with a face already practising hatred. “Liberty costs,” Cassius said. “Rome’s disease is expensive. You will help cure it.” He didn’t raise his voice.
+He had twelve legions to feed. The Syrian garrisons had come over to him in the spring without a blow, and Dolabella’s men after Laodicea, and every one of them had come over hungry. He knew to the day what they cost. He had been a quaestor on this coast once before, eleven years ago, and had counted an army out across the Euphrates and counted what came back. He did not speak of that. He thought of it whenever a paymaster gave him a round number.
 
-Behind him, outside the city, legions ate. Syria’s garrison had come over to him in the spring without a blow, and Dolabella’s men after Laodicea. Legions that came over came over hungry.
+“Liberty costs,” he said. “Rome’s sickness is an expensive one. You will help to cure it.” He did not raise his voice.
 
-He let the silence work. The interpreters turned *pay* into *contribute* and *now* into *in due season*, and the elders filled the air with dates that were not dates.
+The elders explained their poverty, with dignity, at length. The interpreters turned *pay* into *contribute* and *now* into *in due season*. Cassius let them. He was watching the hands. There were two men on the left who wore no rings at all, and had the marks on their fingers where rings were usually worn.
 
-An elder with a staff stepped forward before the interpreters could varnish him. “We can send half by the Kalends,” he said in Greek plain enough that Cassius needed no cushion. “The other half after harvest. Take half now and we remain a city. Take all now and you march past hungry walls that will not open for your return.”
+An old man with a staff stood up before his interpreter could.
 
-The interpreter began, “What he means…”
+“We can send half by the Kalends,” he said, in a Greek plain enough to need no help. “The other half after the harvest. Take half and we remain a city. Take all, and you will march past walls that do not open when you come back this way.”
 
-“I heard what he means,” Cassius said. The elder did not look away. Cassius gave them a number: half now, sealed; the rest in thirty days, with hostages from two of the merchant houses in the hall. “Refuse the sureties,” he added, still quiet, “and I take the full claim today and leave your walls the problem of explaining hunger to your own people.”
+“What he means,” the interpreter began.
 
-The elder’s mouth worked. He took the half and the sureties with a bow that could have been gratitude. “The city’s thanks. Favourable gods on your road.” Hatred stayed on the young clerk’s face; survival stayed on the elder’s. On the hall’s outer step, with Cassius three paces below him, the elder’s thanks thinned for the clerk and the nearest merchant surety, not as quietly as the elder believed. “He weighs our hunger and calls it cure. Half now. Hostages. When he needs the road open again, remember what emptied the granaries.”
+“I heard him.” Cassius looked at the old man. “Whose are the two largest houses on the harbour?”
 
-Cassius signed for the ships.
+The old man did not want to say. He said. They were the two men without rings.
 
-Before the audience closed, a courier from the west came in, dust, salt, a seal cracked by too many hands, with three tablets that did not agree. Mutina won and lost. Lists in Italy. The boy with fasces, and a court that had condemned every man of March, Cassius among them, to empty benches. One tablet named Decimus without poetry: gone, or going.
+“Half now, under seal. The rest in thirty days. A son from each of those two houses stays with my staff until it is paid.”
 
-Cassius read none of it aloud to the hall. He didn’t halt the silver for a rumour’s sake. But the Decimus line cracked something the extraction had been keeping neat, and he found he had put Decimus beside Trebonius in his mind.
+Nobody spoke. The old man’s mouth worked. He did not look at Cassius. He looked at the two merchants, and they looked at the floor, and Cassius saw that he had been right about all three of them.
 
-An officer asked if they were becoming what they killed. Cassius watched the short-weight sack being restacked and said only, “We are becoming paid.” He didn’t offer the Forum a prettier noun. He dismissed the elders with a bow that meant *paid*. He did not look at the west courier again until the hall had emptied enough to pretend the crack was only dust.
+“The city’s thanks,” the old man said. “Favourable gods on your road.”
+
+A young clerk at the end of the bench had a face that did not trouble to hide anything. Cassius marked him too.
+
+The silver began to come in before the hall had emptied. He had it weighed in front of him. One of his officers, a decent man from Picenum, stood at his elbow and asked, low, whether they were becoming the thing they had killed.
+
+“Twelve legions,” Cassius said. “Do the sum, and then ask me again.”
+
+A courier from the west came in while the scales were working. He had salt on him, and a packet whose seal had been through too many hands. Cassius read it at the table. There were lists in Italy, with prices. The boy had been made consul. A court had sat, and had condemned every man of the Ides in his absence, Cassius among them, by name.
+
+There was one more line. Decimus Brutus had been killed in Gaul, at a ford, by a chieftain whose people he had once paid for remounts. His head had gone to Antony.
+
+He read that line a second time. There was nothing wrong with his eyes at that distance.
+
+Decimus had always shown his hands. They were open when he talked. Cassius found that he had set him down beside Trebonius, who had been put on his own chair in Smyrna. That was two. He began, without meaning to, to count who was left of the men who had stood round the other chair.
+
+“This sack is short,” the weigher said.
+
+“Weigh it again,” said Cassius, and did not look up.
 
 ---
 
@@ -50,21 +68,21 @@ Overhear risk: Officers
 
 ---
 
-The mint travelled with the army, and that winter in the camps of Macedonia it struck silver for the legions. The dies showed two daggers either side of a felt cap, and under them *EID MAR*, a date pretending to be a sacrament.
+The mint travelled with the army, and that winter in the camps of Macedonia it struck silver for the legions. The dies showed two daggers either side of a felt cap, and under them *EID MAR*.
 
 “The cap they set on a slave’s head the day he’s freed,” the mint-master said, tilting the die to the lamp as though Brutus had not drawn it himself. “Between the knives. The men like it. They say it means the Ides bought them out.”
 
 “It means the Ides bought Rome out,” Brutus said. The mint-master nodded the way men nod at a correction they will not pass on.
 
-Brutus held a fresh coin. The metal still held the heat of striking. His own head was on the other face. In the winter before the Ides he had turned one of Caesar’s new silver pieces over at his own table and called a living face on a coin a king’s habit. He turned this one so the profile lay against his palm. Around him, officers argued yields and marches with the same mouths that praised ancestors: two tribunes and a mint-master making a small Senate of appetite. One man weighed a sack and called the weight patriotic. Brutus’s thumb stayed on the *EID MAR* lettering and did not lift to correct the adjective. He thought of Porcia, of Lanuvium’s gravel, of the night he had said GO while a creditor coughed outside the door. He shut the thoughts before they became speeches no army would wait for.
+Brutus held a fresh coin. The metal still held the heat of striking. His own head was on the other face. In the winter before the Ides he had turned one of Caesar’s new silver pieces over at his own table and called a living face on a coin a king’s habit. He turned this one so the profile lay against his palm. Around him two tribunes and the mint-master were arguing yields and marches. One of them weighed a sack and called the weight patriotic. Brutus’s thumb stayed on the lettering, and he did not correct the word.
 
-“We are not pirates,” an officer said, too loud. Volume would not wash the tax roads clean.
+“We are not pirates,” an officer said, too loudly.
 
 “We are paying an army,” Brutus answered. “Call it what you must. The men still need grain and miles.”
 
-News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear. Brutus didn’t ask which version was true. One honest doubt crossed him, and it came with a number. Four in the hundred a month: his rate on the loan to Salamis in Cyprus, years ago, made in his agents’ names. Scaptius had collected it with cavalry, and kept the town council shut in their own meeting-house until five of them starved. Cicero, governing Cilicia then, had refused to enforce the bond, and Brutus had been offended by the refusal. *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out where the camp smelled of men who would spend *libertas* as wages without reading the Latin on the metal.
+News from Italy had reached the mint tent as gossip: lists, fasces, a boy paid in fear. Brutus didn’t ask which version was true. One honest doubt crossed him, and it came with a number. Four in the hundred a month: his rate on the loan to Salamis in Cyprus, years ago, made in his agents’ names. Scaptius had collected it with cavalry, and kept the town council shut in their own meeting-house until five of them starved. Cicero, governing Cilicia then, had refused to enforce the bond, and Brutus had been offended by the refusal. *If Cato could see the ledgers.* He shut it down and felt the shutting as shame, and kept the coin. He walked out into the camp.
 
-A mint worker burned his finger and cursed without poetry. Brutus gave him a nod that was almost kindness and walked on before kindness became a speech.
+A mint worker burned his finger and cursed without poetry. Brutus stopped, and asked to see the finger, and told him to put it in cold water, and walked on.
 
 In the dark he held the warm coin until it cooled, then put it away.
 
@@ -210,3 +228,6 @@ Cassius did not answer it. He went back to his own quarters and sat for a long t
 - **Decisions:** 2026-11-07 (storyboard fix 3): SC-87a “Laodicea” moved to Ch 31 (summer 43, after Brutus’s legion) so this chapter no longer rewinds six months and Cassius is on the page in mid-43; SC-87’s Laodicea recap trimmed to “Dolabella’s men after Laodicea”.
 - **Decisions:** 2026-11-04 (Reuben, examine-next round): the Decimus news trimmed in SC-87 (one line, beside Trebonius) and cut from SC-88, so SC-88b is where it lands.
 - **Graph pass 2026-10-24:** Amyntas does not tell Cassius about the orphans’ book (Ch 29). Necessity and EID MAR trimmed of the news recap and closing restatements.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-87 rewritten in full from Cassius’s counting (fourteen elders, nine interpreters; the two men without rings; Carrhae unspoken; he counts who is left). SC-88 heavy edit (nothing added to Brutus’s money).
