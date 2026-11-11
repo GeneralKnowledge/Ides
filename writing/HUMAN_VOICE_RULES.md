@@ -9,7 +9,9 @@
 - §4.10 and the preference for cuts over rewrites. A passage that “works” line by line can still be explaining the scene.
 - [`voice/POV_DICTION.md`](voice/POV_DICTION.md), [`voice/TONE_SPARTACUS_GRRM.md`](voice/TONE_SPARTACUS_GRRM.md) and [`voice/SAMPLE_F4_batiatus_chip.md`](voice/SAMPLE_F4_batiatus_chip.md) give way to the mind sheets wherever they differ. They are where the ledger maxims came from.
 
-**Still in force:** the history and the invariants; the Ides chapters handled last and lightly (§3.5); no em dashes (§3.8); no caption fragments (habit I); no quotas or bans (§4.8), which includes no ban on aphorisms; no explaining narrator. Pilot record: [`../drafts/pilot_voice_2026-11-11/`](../drafts/pilot_voice_2026-11-11/README.md).
+**Lifted 2026-11-11 (Reuben), after an unfenced cold read:** §3.5, the Ides chapters handled last and lightly. Ch 12–19 get a register pass: note-like, abstract or epigrammatic narration becomes the concrete register the rest of the book uses. The core beats and the plot do not change.
+
+**Still in force:** the history and the invariants; no em dashes (§3.8); no caption fragments (habit I); no quotas or bans (§4.8), which includes no ban on aphorisms; no explaining narrator. Pilot record: [`../drafts/pilot_voice_2026-11-11/`](../drafts/pilot_voice_2026-11-11/README.md).
 
 **Purpose:** Keep the novel feeling like rooms with bodies, not polished caption.  
 **Not:** A detector-optimisation programme. Detector flags are clues, not success metrics.

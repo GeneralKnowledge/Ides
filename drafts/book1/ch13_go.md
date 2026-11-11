@@ -18,7 +18,7 @@ Cicero wrote to Atticus about games.
 
 Atticus lived a short walk away on the Quirinal, and Cicero wrote to him anyway, because Atticus kept Cicero’s real opinions and nobody else would. He wrote daily, and with relief.
 
-Not only games: also a cousin’s lawsuit, a bookish slight, the eternal question of whether Rome still deserved his lungs. Elite rumour had brought him kingship talk, Sibylline trial balloons, Calpurnia’s household nerves as gossip with dinner. None of it arrived as a roster. None of it named a morning in Pompey’s Curia.
+Not only games. There was a cousin’s lawsuit, and a slight in somebody’s new book, and the old question of whether Rome still deserved his voice. Dinner had brought him the usual talk: the crown again; a verse somebody had found in the Sibylline books, that only a king could beat the Parthians; a story that Caesar’s wife was not sleeping. Nobody at dinner had said anything about tomorrow’s Senate, except that it would be long.
 
 *The city is theatrical*, he wrote, then sharper: *Theatre is what remains when men of standing refuse to stage a Republic.*
 
@@ -104,7 +104,7 @@ Brutus looked at the lamp. He was aware that Cassius had stopped breathing.
 
 Cassius nodded. He said which door each of them would use in the morning, once, and then he stopped talking, which was not like him.
 
-They left the room separately. Outside, a baker’s boy argued ordinary March prices with a customer and, in the same breath, that Caesar had already slipped the city for Parthia in the night, rumour with flour on it, already wrong. Neither of them looked at Brutus as he went by.
+They left the room separately. Outside, a baker’s boy was arguing the price of a loaf with a customer, and telling him in the same breath that Caesar had left for Parthia in the night. Neither of them looked at Brutus as he went by.
 
 Porcia was awake when he came in. She sat in the small room off the atrium with one lamp and no work in her hands, and he knew from the way she did not look up that she had been sitting like that for some time.
 

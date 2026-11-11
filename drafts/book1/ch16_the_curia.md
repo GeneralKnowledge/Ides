@@ -18,9 +18,9 @@ Overhear risk: Extreme inside
 
 In Pompey’s Curia the marble held last night’s cold. Cassius counted exits the way other men counted clients.
 
-There was one door, and there were too many togas. Benches ran along both sides in tiers. Pompey’s statue at the far end of the room, enemy’s face in marble, watching. Caesar came in with that slight forward lean of a man late for his own power. He sat, or half-sat. The golden chair made its small theatre of precedence: the Senate’s own vote, gilt above their benches, saying *you are a little more than we are*. Caesar had stopped hearing it as a rebuke. Cassius never had.
+There was one door, and there were too many togas. Benches ran along both sides in tiers. Pompey’s statue stood at the far end, his old enemy’s face in marble. Caesar came in leaning a little forward, as he did when he was late. He sat, or half-sat. The golden chair stood a step above the benches; the Senate had voted him that too. Caesar had long since stopped noticing it. Cassius never had.
 
-Tillius Cimber went forward first, as arranged, brother’s exile on his tongue, hands already dishonest with urgency. Cassius watched Caesar’s patience perform itself: the slight turn, the listening face.
+Tillius Cimber went forward first, as arranged, with his brother’s exile on his tongue and his hands already reaching. Caesar turned to him with his listening face.
 
 Other senators crowded round the chair with the careful, helpful faces of men who wanted to second the request. It was the natural thing to do. It also put twenty men within arm’s reach.
 
@@ -28,27 +28,27 @@ Now, Cassius thought, not as prayer.
 
 Tillius’s hands found the toga and pulled.
 
-The signal was ugly and ordinary: cloth, fist, the insult of touch. Cassius felt the room flinch at that before any blade appeared. In this house you did not lay hands on a senator’s toga; a fist in the cloth was already sacrilege. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
+It was an ugly, ordinary thing, a fist in a man’s toga, and Cassius felt the room flinch at it before any blade came out. Nobody laid hands on a senator in this house. Caesar’s surprise was real enough to please Cassius and frighten him. Real surprise meant the secret had held. Real surprise also meant a living man’s strength still in the shoulders.
 
 “This is violence,” Caesar said, mild with disbelief, to Tillius.
 
-Publius Casca struck at neck and shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. A question burst out of him, sharp with outrage, in the old register of men who still believed Senate rooms were safer than camps. “What is this violence?”
+Publius Casca struck at neck and shoulder, the awkward angle of a first wound made by a man who had practised on air. Caesar caught Casca’s arm. “Casca, you villain,” he shouted, “what are you doing?”
 
 “Brother, help!” Casca said, in Greek, to someone behind him. It came out thin. It was the sound of a man asking for the thing he had come to give.
 
 Cassius moved.
 
-He didn’t see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills. A body that might yet stand up and make this morning a botched thing. Cassius’s blade went in where flesh allowed it. Heat ran over his knuckles.
+He didn’t see a tyrant in that instant. He saw a body that had walked through Gaul and Alexandria and the stubborn Spanish hills. A body that might yet stand up and make this morning a botched thing. Cassius struck at the face, because the face was nearest. Heat ran over his knuckles.
 
-Senators who were not in it screamed anyway. Benches shrieked on stone. Someone fell without being struck, panic’s own casualty. Cassius smelled blood and dust and the sweet oil in Caesar’s hair. He kept his face tight.
+Senators who were not in it screamed anyway. Benches shrieked on stone. Someone fell without being struck. Cassius smelled blood and dust and the sweet oil in Caesar’s hair. He kept his face tight.
 
-The plan had been simple, and in the room it was not. There were more than sixty of them, and not all of them knew where to stand. Men struck at Caesar and at each other. A blade opened Brutus’s hand. The conspirators had sworn to be a surgery and they were, for a few breaths, a pack.
+The plan had been simple, and in the room it was not. There were more than sixty of them, and not all of them knew where to stand. They got in each other’s way. Men struck past Caesar and into each other; Cassius saw a blade go into Brutus’s hand and Brutus not notice it. Somebody’s knife caught Cassius’s own sleeve. Caesar was turning, trying to get his back to something, his toga dragging with the weight of the men who had hold of it.
 
-Caesar fought. Of course he fought. The man had never learned how to be an offering.
+Caesar fought them. He drove his stylus through Casca’s arm and got a hand on another man’s face.
 
-Cassius glimpsed Brutus on the far side of the storm, pale, committed, somehow still looking like a statue asked to commit a robbery. Then Caesar’s hand was on a blade and red and the marble of Pompey was closer than it should have been.
+Cassius saw Brutus on the far side of them, pale, his hand bleeding, looking at nobody. Then Caesar’s hand was on a blade and red and the marble of Pompey was closer than it should have been.
 
-Finish, Cassius told the morning. Finish before the door brings Antony.
+Finish it, Cassius thought. Finish it before Antony comes through that door.
 
 ---
 
@@ -63,25 +63,25 @@ Overhear risk: Extreme
 
 ---
 
-Brutus had told himself it would feel like law.
+Brutus had told himself it would feel like a court passing sentence.
 
-It felt like a bathhouse brawl with better cloth.
+It felt like a brawl in a bathhouse.
 
 Men he respected shoved. Men he did not respect shoved harder. Caesar’s mouth opened on pain and command at once. Brutus’s ancestors, imagined, arranged on their shelves at home, did not lean in to help. They watched, as masks watch.
 
 He had to step close. Distance was cowardice; closeness was the thing that would be written, if anything was written truly.
 
-His blade found Caesar because the room tilted that way, bodies made a funnel toward the statue’s base. Pompey’s marble face had no advice. Brutus struck as a man strikes when the alternative is being the only clean hand in a pile of red ones, filth either way.
+The press of bodies carried him toward the statue’s base, and Caesar was there, and Brutus struck him low, in the groin, because that was where the blade was when the space opened. He had not chosen the place. He would not have been able to say afterwards that he had chosen anything.
 
 Caesar looked at him.
 
 That was worse than knives.
 
-What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, the Greek for *you too*, perhaps only air leaving a throat that had spoken to the whole world. Beside him someone swore he heard *child* after it, the way a father says it to a son. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
+What Caesar said, if he said, Brutus already knew he would not keep the same as the man at his shoulder. He heard something broken, breath and consonant, perhaps *kai su*, the Greek for *you too*, perhaps only breath. Beside him someone swore he heard *child* after it, the way a father says it to a son. Someone else swore silence was cleaner, that Caesar had said nothing at all, that he had drawn his toga over his face as the last blow came, to die with dignity.
 
 Brutus did not answer.
 
-Caesar folded at the base of Pompey’s statue. The old dead rival had finally won a small, filthy trick. The toga drank. The floor drank. Brutus did not count the wounds. Counting would keep him in the room. He needed to leave as liberty, not as butcher.
+Caesar folded at the base of Pompey’s statue. The blood ran to the plinth and spread round it. Brutus did not count the wounds. If he counted them he would be a butcher, and he had come here to be something else.
 
 He found Cicero among the benches, grey, mouth open, already half risen to go, and called the name across the blood like a man calling a witness. “Cicero!” The old man stared at the dagger in his hand and did not come.
 
@@ -89,7 +89,7 @@ He found Cicero among the benches, grey, mouth open, already half risen to go, a
 
 No one arranged themselves into a people. They ran.
 
-Half the Senate was gone through the doors before he had finished the sentence. Men tangled in their own togas. Some left their shoes. One of the oldest members sat down on his bench and stayed there, white and quiet, as if he had come to observe a game he now realised had stakes.
+Half the Senate was gone through the doors before he had finished the sentence. Men tangled in their own togas. Some left their shoes. One of the oldest members sat down on his bench and stayed there, white and quiet, looking at his own hands.
 
 Cassius’s hand found Brutus’s elbow hard enough to bruise. “Capitol,” Cassius said, practical as salt, his face arranged for anyone still listening.
 
@@ -97,7 +97,7 @@ Brutus understood it a breath late. One steep road up, Jupiter’s walls at the 
 
 At the door Cassius said it again, low, for Brutus alone. “Capitol. Trebonius has Antony talking in the portico, and talk does not hold a consul long.”
 
-Brutus looked once more at the shape on the stones. Something rose in him that was not the abstract debt: the December evening of the praetorship, when Caesar had given him the first chair over Cassius and then kept him late anyway, as if he wanted the company. The leaking cistern. The laugh Brutus could not take back. The hand on his shoulder at the door. It did not leave when he named the body tyrant. He stood one breath longer than Cassius wanted. Then he crushed it the way he crushed unearned tears: privately, incompletely, with the lie that ancestors approved.
+Brutus looked once more at the shape on the stones. Something came up in him that was not the debt he had reasoned about all winter. It was the December evening of the praetorship, when Caesar had given him the first chair over Cassius and then kept him late anyway, as if he wanted the company: the cistern leaking in the corner, and Brutus laughing at something Caesar said and not able to take the laugh back, and Caesar’s hand on his shoulder at the door. It did not go when he called the body a tyrant. He stood one breath longer than Cassius wanted. Then he put it away, as he put away tears, and told himself his ancestors would have done the same.
 
 “Capitol,” Brutus said, and they went out into the light.
 
@@ -120,11 +120,11 @@ Overhear risk: She is the overhear
 
 ---
 
-Nysa hadn’t meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.” News was not a fishmonger’s tray. It still drew a crowd anyway.
+Nysa hadn’t meant to follow the litter far. Girls who followed too far became bodies in gutters. But the Domus had become unbreathable with Calpurnia’s silence, and Phileros had said, “If you are going to hover, hover where news comes.”
 
-She was still on the edge of the Campus crowd when the Curia began to spit men.
+She was still on the edge of the Campus crowd when men began to come out of the Curia.
 
-Men ran past with red on their togas and their dignity left on the benches. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name.
+Men ran past with red on their togas. A senator vomited against a column and wiped his mouth like a boy. Someone screamed Caesar’s name.
 
 “Knives!”
 “Brutus!”
@@ -143,7 +143,7 @@ The name *Antony* snagged. Nysa did not see Antony. She saw a gap where a large 
 
 Nysa’s mouth moved before her caution did. “Antony is dead?”
 
-“Dead as the dictator,” the first freedman said, happy to be source. “Tell them in the Subura before the bakers’ rumour cleans it.”
+“Dead as the dictator,” the first freedman said, pleased to be asked. “Tell them in the Subura before the bakers’ rumour cleans it.”
 
 She ran because standing still made you a witness, and witnesses were questioned. The wax fragment under her tunic knocked against her ribs.
 
@@ -153,7 +153,7 @@ The woman clutched the bread. “Both?”
 
 “Both,” Nysa said, and felt the story settle into the city like dust. She didn’t know if it was true. She thought she was being precise.
 
-By the time she reached the Subura’s first choke-point, the tale had grown a Dolabella. “The young one,” a fishwife told her, “that Caesar was making consul in his place when he went east. Loud. He was in it, or they killed him too, depending who’s selling.” And somehow, a list. There was always a list.
+By the time she reached the first narrow street of the Subura, the tale had grown a Dolabella. “The young one,” a fishwife told her, “that Caesar was making consul in his place when he went east. Loud. He was in it, or they killed him too, depending who’s selling.” Somebody else had a list of the dead.
 
 Nysa stopped under a balcony and vomited nothing. Then she wiped her mouth, as the senator had.
 
