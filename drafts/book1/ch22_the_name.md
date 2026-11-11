@@ -12,9 +12,7 @@ Info ENTER: Heir rumour thickening · EXIT: Accepts inheritance; followers say �
 
 ---
 
-Italy smelled different when you arrived as a claim.
-
-Octavian stood in Philippus’s villa light: sea glare, careful chairs, advice thick as oil. Agrippa stood at the terrace rail behind him and said nothing for now. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. They could not refuse a will either. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
+Octavian stood in his stepfather’s villa among the sea glare and the careful chairs, and everyone in the room had advice for him. Agrippa stood at the terrace rail behind him and said nothing for now. Octavian watched his mother rearrange the cushions for the second time, and knew what the cushions were for. Philippus spoke of safety, of refusal, of not taking a dead man’s quarrel into a living throat. Outside, a gardener clipped something that didn’t need clipping, for the noise.
 
 Below the terrace the villas ran one after another down the Campanian shore, every one of them a senator’s house with a senator’s ears. Philippus had been lifting Octavius onto this same rail since the boy was small enough to be lifted. In the war he had asked Caesar’s leave to stand near no one, got it, and lived. He was handing the boy that trick now as if it were an heirloom.
 
@@ -22,14 +20,14 @@ Below the terrace the villas ran one after another down the Campanian shore, eve
 
 Atia’s hands found the cushion seam and worried it open a thread. “They will kill you for the name,” she said. “Or use you until the name is empty and then kill what is left.”
 
-Octavius, he still heard himself as Octavius in the bones, looked at Agrippa. Agrippa didn’t nod. He waited, still as a vote cast without theatre. On the terrace rail a ring left a pale band on Octavian’s finger where he had twisted it too hard. He stopped twisting because that, too, was information.
+He looked at Agrippa. Agrippa didn’t nod. He waited. Octavian’s hand was on the terrace rail, and the ring had left a pale band on his finger where he had twisted it too hard. He stopped twisting, because that, too, was information.
 
-“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is theft from the dead.” He hated the polish. Rooms like this required it. “I will take what is mine. The name included.”
+“If I refuse,” Octavian said, stiff with the effort of not sounding eighteen, “I refuse what he wrote when he still breathed. That is theft from the dead.” He heard the polish on it, and knew everyone else had heard it too. “I will take what is mine. The name included.”
 
 
 Atia’s mouth opened and closed. Philippus looked toward the sea. The gardener’s shears stopped mid-clip.
 
-A follower came to the terrace door, young, dusty from the road, eyes already rehearsing loyalty. He bowed wrong, then corrected the bow, then spoke the word as if it were a password he had paid for:
+A follower came to the terrace door, young and dusty from the road. He bowed wrong, then corrected the bow, then spoke the word as if it were a password he had paid for:
 
 “Caesar.”
 
@@ -49,19 +47,19 @@ Cicero had walked over from his own house along the shore to return the boy’s 
 
 “Neither will I,” Cicero said lightly, as if it were a matter of taste.
 
-Octavian, alone for a stolen moment on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
+Octavian, alone for a stolen moment on the terrace, shook once, hard. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
 “I almost said it first,” Agrippa murmured. “Shadow. Old habit.”
 
-“Break it,” Octavian said. Then, quieter, the rare awkward warmth: “You may call me late to drill. Not that.”
+“Break it,” Octavian said. Then, quieter, and not looking at him: “You may call me late to drill. Not that.”
 
 Agrippa’s mouth twitched. “Late to drill, then, Caesar.” He stood within reach and didn’t look away.
 
-That evening they walked the villa’s outer path where the gardeners had gone in. There were ordinary noises: sea, a dog, someone’s dinner argument about fish. Octavian counted them the way he counted incompatible rumours, separate, useful. Agrippa kicked a loose stone and watched it roll.
+That evening they walked the villa’s outer path where the gardeners had gone in. There were ordinary noises: sea, a dog, someone’s dinner argument about fish. Octavian counted them out of habit. Agrippa kicked a loose stone and watched it roll.
 
 “Philippus still won’t say it,” Agrippa said. “The name.”
 
-“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him. He only matched pace.
+“He can keep Octavius for his cushions,” Octavian answered. “I am going to Rome.” It came out younger than he meant it. Agrippa did not rescue him. He only matched pace.
 
 ---
 

@@ -36,7 +36,7 @@ They stopped and looked at him. He knew what they saw. Quintus Fufius Calenus, c
 
 “To me. To the villa. Antony stops there when he goes south. He has stopped there for years. It is the one house in Italy where nobody will think to look for an enemy of Antony’s, because Antony sleeps in it.”
 
-Nobody said anything. Varro unfolded his hands.
+Varro unfolded his hands.
 
 “He took my house at Casinum,” Varro said. He said it mildly, as an antiquarian notes a date. “In the spring before last, when I was away. Cicero wrote that he held parties in my library. Gamblers and actresses, Cicero wrote. He said the books must have wondered what had happened to their master.” He looked at Calenus. “I imagine that is why my name is on the wood. A man doesn’t like to be reminded of a house he has taken. It is cheaper to take the owner off the books.”
 
@@ -192,7 +192,7 @@ Calenus watched the slaves. He could not help it. The cook’s boy brought the f
 
 The fish went round. The steward poured.
 
-“This is the good Falernian,” Antony said, holding up his cup to the lamp. “I know it is. You’re a generous man, Calenus. Generous men are getting rare.” He drank. “Do you know who had a cellar like this? Varro. That old pedant at Casinum. I had a month of it in the spring before last, and I tell you, the books were nothing, but the wine...”
+“This is the good Falernian,” Antony said, holding up his cup to the lamp. “I know it is. You’re a generous man, Calenus. Generous men are getting rare.” He drank. “Do you know who had a cellar like this? Varro. That old pedant at Casinum. I had a month of it in the spring before last, and I tell you, the books were nothing, but the wine…”
 
 “I’ve heard,” said Calenus.
 

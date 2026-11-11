@@ -23,6 +23,7 @@ No prose until the storyboard and the voice pilot pass.
 ## Authorities
 
 - Voice: `writing/voice/MIND_SHEETS.md` (Book 1 sheets carry over; Book 2 adds a short "since Philippi" note for each carried POV and new sheets for new POVs).
+- Act self-audit: the three tests, then the five questions in [voice/WATCHLIST.md](voice/WATCHLIST.md) (from the outside review of Book 1 Ch 1–6).
 - Standing rules carried from Book 1: history accuracy; real people first, invent only where the record is silent; no em dashes; no caption fragments; no narrator explainer sentences; no bans or quotas; DOCX only.
 - New for Book 2: no chapter or scene is protected from criticism (protect named beats only); chapter numbers are assigned at export from scene order; one changelog line per change, no pass logs.
 
@@ -44,6 +45,7 @@ One line per change.
 - 2026-11-11: Reuben picked all seven storyboard recommendations. Storyboard v2: Hordeonius II-06b and III-08b added, IV-11 cut (Nysa's wedding count ends the book), twine promise set (until the beans are in), one Nonius. Contract approved; hinge at 75%. Reader questionnaire (34 questions) and key.
 - 2026-11-11: Voice pilot written (I-01 Laberius, II-03 Fulvia, II-06 Lucius) and the blind packet built with three Book 1 scenes; key in project files only.
 - 2026-11-11: Voice pilot passed. B and F endings restored after the reader praised them; explaining lines trimmed in D and F; Laberius sheet asks for more particulars.
+- 2026-11-11: Drafting watchlist added from the outside review of Book 1 Ch 1–6 (no change to Book 1).
 - 2026-11-11: Act I drafted (I-01 to I-11, 17,100 words, 77% of budget), self-audited; new names Glycon, the Marcii, Antyllus, Iullus; export tool tools/export_book2_docx.py.
 - 2026-11-11: Reuben: the contract's 90,000 words is a ceiling; add length only where the act's outside reader finds it thin.
 - 2026-11-11: Reuben asked to build out the rest of the acts. Acts II to IV drafted (33 scenes, 49,900 words; pilot II-03 and II-06 carried in), self-audited, with a (check) list per act. New names Aemilius, Ahenobarbus, Marcellus, Vettius (invented). Book stands at 67,000 words, under the 90,000 ceiling.

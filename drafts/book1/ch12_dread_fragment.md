@@ -128,15 +128,17 @@ Overhear risk: Medium
 
 Caesar had the Parthian war on his table that month: ship lists, the grain at Brundisium, a map of Armenia with the passes inked twice because the first ink had been wrong. He also kept, without writing it down, a note of which men still laughed when he made a joke. His wife’s hands at night, the slaves making offerings at the hearth they had never made before, the haruspex and his Ides: he took the fear in the house the way he took March weather, as something real and inconvenient and no reason to stop the city’s work.
 
-He had sent away his Spanish bodyguard some months back, the picked men who had followed him from the war, and had said that he would rather die once than live always afraid of it. The Senate had sworn to guard him with their own bodies, which he had found very funny, and had accepted the oath without once looking at the oath-takers.
+That evening the secretary brought the letters in two piles, the ones that needed him and the ones that did not. In the second was a senator’s letter reminding him, at some length, that the whole House had sworn to guard him with their own bodies. Caesar had sent his Spanish guard away some months back, and had said that he would rather die once than live always afraid of it. He read the letter twice for the pleasure of it, had it answered warmly, and did not look at the name.
 
-Decimus came and went with the ease of a man who had earned doors. Caesar trusted that ease the way he trusted a bridge he had watched built.
+Decimus came in while the lamp was being trimmed, with the accounts for the games, and went out again with the ease of a man who had earned doors. Caesar trusted that ease the way he trusted a bridge he had watched built.
 
-“They say the Ides are rude,” Caesar remarked once, dry, when a secretary mentioned Spurinna.
+When he had gone the secretary mentioned Spurinna, carefully, as a thing being said in the Forum.
 
-The secretary did not know whether to smile. Caesar let him escape into tablets.
+“They say the Ides are rude,” Caesar said.
 
-“You are not worried?” the secretary asked, from the door, in the voice of a man who had been told not to ask.
+The secretary did not know whether to smile. Caesar let him escape into the tablets. At the door, with the answered pile, the secretary turned.
+
+“You are not worried?” he asked, in the voice of a man who had been told not to ask.
 
 “I am always worried,” Caesar said. “That is what the work is.”
 
@@ -145,5 +147,5 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 ## Continuity
 - **Knows / learns:** Calpurnia’s lesser nightmares, toward DREAM-1. Nysa hears a fragment (NOTE-1): incomplete, its emphasis misreadable, not Artemidorus’s note. Phileros nearly catches the linen; she hands it off later and safer. Caesar treats danger as weather (AMB-1), trusts Decimus by habit, dismisses the Spanish bodyguard, jokes about the Senate’s oath. The household’s small wants go on (Dama, Phileros, Pallas, Nysa).
 - **Plants → pays:** the pediment (Ch 14); dressing-room gossip about Spurinna and Decimus at the door.
-- **Decisions:** 2026-11-11 (continuity audit): Caesar’s “You are not usually like this” is now said once, on the Ides morning (Ch 14); here he says “You are not sleeping”. 2026-11-11 (voice pass). SC-29 rewritten in full: Nysa hears pieces of three sentences through a door-leaf while mending a latch; the attendant’s finished speech is gone; she thinks “the consul” may be the master; she writes the five words in her own letters because what is heard at a door gets asked for. Phileros’s near-catch kept. SC-28 heavy edit: the servants now report doors and a thumb on the bar, not sayings; Calpurnia orders the garden door barred; with Caesar she has one sentence (“The house is wrong”); the closing sum of omens is replaced by her going to the door. SC-30 light edit: opening pair and the last two paragraphs (the narrator knowing better) cut.
+- **Decisions:** 2026-11-11 (continuity audit): Caesar’s “You are not usually like this” is now said once, on the Ides morning (Ch 14); here he says “You are not sleeping”. 2026-11-11 (voice pass). SC-29 rewritten in full: Nysa hears pieces of three sentences through a door-leaf while mending a latch; the attendant’s finished speech is gone; she thinks “the consul” may be the master; she writes the five words in her own letters because what is heard at a door gets asked for. Phileros’s near-catch kept. SC-28 heavy edit: the servants now report doors and a thumb on the bar, not sayings; Calpurnia orders the garden door barred; with Caesar she has one sentence (“The house is wrong”); the closing sum of omens is replaced by her going to the door. SC-30 light edit: opening pair and the last two paragraphs (the narrator knowing better) cut. Later the same day (outside editorial read of Ch 12): SC-30 set on one evening; the Senate’s oath arrives as a letter on his table, the Spanish guard folded into it, Decimus brings the games accounts, the secretary’s question at the door.
 - **Must not:** the two notes are never merged; the pontifex’s office-house glossed once; no future winks.
