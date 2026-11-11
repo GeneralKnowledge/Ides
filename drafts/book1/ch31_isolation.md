@@ -154,7 +154,7 @@ Brutus watched from the gate of his quarters. He had a speech ready. He had had 
 
 “They want to be his brother’s,” Brutus said, “and they do not want to say so.”
 
-A rider came up the coast road in the middle of that, grey with dust, with his mother’s seal on the bag, and the guards let him through. It was Servilia’s freedman, the old one who had carried her letters for thirty years and had once carried Brutus on his shoulders round the atrium to look at the masks. He got down off the horse badly. He did not hand over the bag. He stood in front of Brutus with it held against his chest, and Brutus knew from the way he held it.
+A rider came up the coast road in the middle of that, grey with dust, with his mother’s seal on the bag, and the guards let him through. It was Servilia’s freedman, the old one who had carried her letters for forty years and had once carried Brutus on his shoulders round the atrium to look at the masks. He got down off the horse badly. He did not hand over the bag. He stood in front of Brutus with it held against his chest, and Brutus knew from the way he held it.
 
 “Tell me,” Brutus said.
 

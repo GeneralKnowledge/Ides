@@ -7,7 +7,7 @@
 # SC-87: Necessity
 
 POV: Cassius · Asia / Syria orbit
-Date / place: Winter 43–42 · a city’s audience hall, Asia
+Date / place: Winter 43–42 · the governor’s audience hall, Tarsus, Cilicia
 Canon refs: Chain 8 · C3
 Info ENTER: Need pay · EXIT: Tarsus pays half with two sons as sureties; the courier brings the Pedian court and Decimus’s death
 Overhear risk: Interpreters
@@ -145,7 +145,7 @@ He took the top letter out again and unrolled it and held it to the lamp, and th
 # SC-88c: Sardis
 
 POV: Cassius · Sardis
-Date / place: Early 42 · the armies’ meeting on the plain; a closed room in the governor’s house; the tribunal next day
+Date / place: Summer 42 · the armies’ meeting on the plain; a closed room in the governor’s house; the tribunal next day
 Canon refs: S1 · Plut. *Brut.* 30–35 · App. *BC* 4.63–65 · *Iliad* 1.259
 Info ENTER: Rhodes sacked by Cassius; Xanthus burned under Brutus; both armies paid in Asia’s silver · EXIT: The quarrel; Favonius; Lucius Pella condemned; “Remember the Ides”
 Overhear risk: Friends at the door; Favonius
@@ -174,7 +174,7 @@ Brutus’s face had gone white. Cassius had seen it go white like that once befo
 
 “No. You wanted them to be grateful. They preferred the fire.” Cassius sat down. His hands were shaking. He put them flat on the table. “Neither of us is clean, Brutus. We stopped being clean the morning we went into the Curia with knives. The difference between us is that I know it.”
 
-Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony, and the night of GO. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
+Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony, and the night in the small room. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
 
 Outside the door their friends stood in a knot in the corridor and listened to two commanders of the Republic shouting at each other like brothers dividing an inheritance, and did not dare go in.
 
@@ -212,7 +212,7 @@ Cassius waited.
 
 “We killed Caesar,” Brutus said, “not because he stole himself, but because he let his friends steal, and protected them. That was the charge. That was the whole charge, under the rest. If we let our own friends rob the cities in the name of the Republic, we had better have let Caesar live.”
 
-He said it quietly. He was not making a period. He meant it, Cassius saw, entirely, the way he had meant *GO*, and it was unanswerable, and it was also exactly the kind of sentence that loses wars.
+He said it quietly. He was not making a period. He meant it, Cassius saw, entirely, the way he had meant *Go*, and it was unanswerable, and it was also exactly the kind of sentence that loses wars.
 
 Cassius did not answer it. He went back to his own quarters and sat for a long time with the accounts for the march into Thrace, the grain and the pay and the ships, and found that every column came out the same whichever way he added it, and that none of them had a line for what Brutus had said.
 
@@ -231,3 +231,6 @@ Cassius did not answer it. He went back to his own quarters and sat for a long t
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-87 rewritten in full from Cassius’s counting (fourteen elders, nine interpreters; the two men without rings; Carrhae unspoken; he counts who is left). SC-88 heavy edit (nothing added to Brutus’s money).
+
+## Continuity audit 2026-11-11
+- **Decisions:** SC-87 place line names Tarsus, Cilicia, to match the prose. SC-88c dated summer 42 (after Rhodes and Xanthus, before the march to Abydos).

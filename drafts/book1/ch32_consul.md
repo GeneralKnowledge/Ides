@@ -108,7 +108,7 @@ He did not touch them. He sent a tribune with a guard and a clerk with tablets, 
 
 “Feed the line,” he said. “Then the honours.”
 
-One man in the line he remembered afterwards. A centurion in boots resoled more than once came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
+One man in the line he remembered afterwards. A centurion in old boots, newly stitched at the left heel, came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
 
 The line was fed on the second evening. The election was on the nineteenth.
 
@@ -208,6 +208,8 @@ On the second day the staff was smaller. One man had “gone for water” and no
 
 Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly.
 
+“Cassius’s friends,” the aide said, low.
+
 “Or anybody’s price,” Decimus said.
 
 He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible, for appearance’s sake, even here.
@@ -233,3 +235,6 @@ Camelus’s man struck once at the neck, and again.
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-83 and SC-82c light edits; SC-83 now ends on the plate.
+
+## Continuity audit 2026-11-11
+- **Decisions:** the pay-line centurion (Laberius, Aug 43) wears Gaius’s boots, his own size (Ch 30), newly stitched at the left heel (sewn at Bononia, Ch 37); resoled twice by Dec 43 (Ch 35).

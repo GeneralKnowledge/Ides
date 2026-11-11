@@ -7,7 +7,7 @@
 # SC-85b: The Contest
 
 POV: Calenus · his house in Rome, then his villa
-Date / place: Dec 43 · the night the lists went up, and the days after
+Date / place: Late Nov 43 · the night the lists went up, and the days after
 Canon refs: T11 · App. *BC* 4.47 (Varro hidden by Calenus; no slave informs) · Cic. *Phil.* 2.103–105 (Antony at Varro’s villa at Casinum) · *Phil.* 8, 10, 12 (Calenus as Antony’s man in the Senate)
 Info ENTER: Varro on the list · EXIT: Varro behind Calenus’s library; the household told and paid
 Overhear risk: The household
@@ -81,7 +81,7 @@ When they had gone back to their work he turned to his steward, who had stayed o
 # SC-85c: Surety
 
 POV: F4 Hordeonius · his stall under the Janus
-Date / place: Dec 43 · some days after the lists
+Date / place: Late Nov 43 · some days after the lists
 Canon refs: T11 · Nepos *Att.* 9–10 · App. *BC* 4.47 · Ch 30 ledger
 Info ENTER: Lists posted · EXIT: A loan entered as *clean*
 Overhear risk: Medium (the stalls)
@@ -231,3 +231,6 @@ Calenus did remember, now. He went out and shut the door on the draught, and wal
 - **SC-85c (Hordeonius):** Sosia: Antony wrote to Atticus in his own hand (hidden with Canus; both spared) because Atticus stood surety and lent to Fulvia without interest in spring 43 (Nepos *Att.* 9–10); Hordeonius called in her paper that month. Calenus’s steward borrows 3,000 denarii for “wages”, worn silver; Hordeonius does not ask why and takes Calenus’s plate as security. Entered *Calenus’s steward: lent* and, in cipher, *Clean*.
 - **SC-85d (Calenus, early Dec 43, so the chapter closes before Ch 35 opens on 7 Dec):** Antony stops at the villa on a two-day ride south; the good Falernian (Varro: “he drank my cellar at Casinum”); Antony names Varro on the list, “Old men. They don’t like being reminded”; Varro three walls away writing on the Latin language. The porter’s night round passes the door. Morning: Antony gone; “It was mine.” The steward counts sixty heaps of silver. No slave informs (App. *BC* 4.47).
 - **Must not (T11):** Calenus is not a hero (he is Antony’s friend throughout); Varro’s later fate not narrated.
+
+## Continuity audit 2026-11-11
+- **Decisions:** SC-85b and SC-85c dated late Nov 43 (the lists go up late November; SC-85d has Antony arrive before Cicero’s death on 7 Dec).

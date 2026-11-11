@@ -204,7 +204,7 @@ The freedman was sitting on the step in the cold with a list on his knees and hi
 
 “I’m looking for a freedwoman of the divine Julius,” he said. “Of the old household. Nysa.”
 
-She had been Nysa for most of her life. Before that she had been a name she did not remember, in a place she did not remember, and before the Ides she had been *girl* and *you* and the water-jug that walked. In law she had been something else since the day the old man touched her with the rod in front of the praetor, and she had never once said it out loud.
+She had been Nysa for most of her life. Before that she had been a name she did not remember, in a place she did not remember, and before the Ides she had been *girl* and *you* and the water-jug that walked. In law she had been something else since the day the old man’s will was read out to the house, and she had never once said it out loud.
 
 “Julia Nysa,” she said.
 
@@ -260,7 +260,7 @@ He stood at the end of it with his discharge tablet in his belt and Vibius besid
 
 “That’s it.”
 
-“It’s good dirt.” Vibius scuffed it with the toe of his boot. “It’s really good dirt, Cordus. Look at it.”
+“It’s good dirt.” Vibius scuffed it with the toe of his boot. “It’s really good dirt. Look at it.”
 
 Laberius looked at it, past his own feet in Gaius’s boots, which had been resoled at Thessalonica by a cobbler who charged double for a Roman and had walked from Mutina to Philippi and back without Gaius in them. It was good dirt, dark and loose and smelling of spring. There were beans in it. Rows of young beans, a hand high, running right up to the twine on one side and right on from the twine on the other side, as if the twine were not there.
 
@@ -325,3 +325,7 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-92 heavy edit (the ‘cleaner hill’ passage and the closing coin caption cut; Brutus misses Cassius’s contempt); SC-93 light edit.
+
+## Continuity audit 2026-11-11
+- **Decisions:** SC-95a: Nysa was freed by Caesar’s will (Ch 25), not by the rod before a praetor; the line now dates her freedom from the reading of the will.
+- SC-95b: Vibius does not call Laberius “Cordus”; only Rufrius uses the name (Ch 4, 30, 37).
