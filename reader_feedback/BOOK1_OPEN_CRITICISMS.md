@@ -6,7 +6,7 @@ Criticisms of Book 1 that are not being acted on now but should be counted when 
 
 **What "do something" means.** A bounded pass on named chapters with a hard stop, judged by the mind sheets' three tests and the questions in `book2/voice/WATCHLIST.md`. Never a ban or a quota, and never an aim to make the prose less polished or less articulate. The final image is not touched.
 
-**Sources, not mentions (11 Nov).** The six outside reads pasted on 11 Nov (Ch 1–6, Ch 12, Ch 6–12, Ch 13–18, Ch 19–24, Ch 25–30) share a format, a scoring scale and carried-over examples, so they probably come from one reviewer. Until Reuben says otherwise they count as **one source** however often they repeat a point. See the audit plan: https://claude.ai/artifact/VAw6JLYWHX2Ramo79VCapS
+**Sources, not mentions (11 Nov).** The seven outside reads pasted on 11 Nov (Ch 1–6, Ch 12, Ch 6–12, Ch 13–18, Ch 19–24, Ch 25–30, Ch 31–38) share a format, a scoring scale and carried-over examples, so they probably come from one reviewer. Until Reuben says otherwise they count as **one source** however often they repeat a point. See the audit plan: https://claude.ai/artifact/VAw6JLYWHX2Ramo79VCapS
 
 ## Ledger
 
@@ -29,7 +29,7 @@ Criticisms of Book 1 that are not being acted on now but should be counted when 
 
 Report-only read asked for by Reuben, on the text after the voice and register passes. Thirteen scenes. Overall the balance holds: the strongest scenes (Ch 8 Servilia's pearl, Ch 9 Decimus on the Sacra Via, Ch 10 Statilius walking home and Visellius's room, Ch 11 the service court, Ch 12 Nysa at the latch) are people wanting things from each other, and about half the scenes simply stop.
 
-- **Endings.** Gesture endings: Fulvia's cup, Servilia's pearl, Decimus counting paces, Cicero counting days, Calpurnia waiting at the door. Plain stops: Statilius not going back, the Nones, Visellius “doubtful”, the bar, Nysa's other side, Caesar's line. Two endings carried a tag after the ending and were trimmed: Ch 8 SC-20 (“Then he finally drank. The wine was ordinary. That pleased him.” cut, so it ends on “He had a use for it.”) and Ch 9 SC-23 (“though there was nothing on them yet” cut; he has wiped garden dirt off his palm a few lines earlier, so the washing now has its own reason).
+- **Endings.** Gesture endings: Fulvia's cup, Servilia's pearl, Decimus counting paces, Cicero counting days, Calpurnia waiting at the door. Plain stops: Statilius not going back, the Nones, Visellius “doubtful”, the bar, Nysa's other side, Caesar's line. Two endings carried a tag after the ending and were trimmed: Ch 8 SC-20 (“Then he finally drank. The wine was ordinary. That pleased him.” cut, so it ends on “He had a use for it.”) and Ch 9 SC-23 (“though there was nothing on them yet” was cut, then RESTORED the same day: it is the plant for Ch 32, where Decimus washes his hands in a horse-trough at the empty camp “though there was nothing on them”, and the cut broke that echo).
 - **Quotable lines.** Densest in the opening paragraph of Ch 7 (Antony's narration) and Ch 8 SC-20 (Cassius and Galba). Antony is a joker and Cassius's scene is a negotiation, so both stay; the SC-20 ending tag was the one cut.
 - **Ch 12 outside read: the missing “not”.** Checked and declined. The “not” belongs to “not the consul”: the attendant is saying the consul is not the target and is to be spared, which is the Spare Antony decision of Ch 9. Nysa's wax keeps that sense (*consul. spare.*) and her own thought in the scene already turns on it (“If he was the one to be spared, then somebody had thought of not sparing him”). Nobody else ever reads the wax: she tells Calpurnia she burned it (Ch 15), carries it through the Ides, and burns it in Ch 19 once she knows which consul. No later document depends on it. The Ch 6–12 read raised it again (same reader); still declined, with one possible clause held in reserve if a different reader trips on it: Nysa's own reckoning could open on *Not the consul* (not him, then; he was to be spared).
 
@@ -55,6 +55,22 @@ Checked; all hold. Antony watches the first brand leave the Forum for the Libera
 ## Ch 25–30 continuity checks (11 Nov)
 
 Checked; all hold. Gaius Antonius's lictors and freedom have consequences: the standing mutiny he works up (Ch 31), the ship, Brutus's order to Hortensius (Ch 36). *Tollendum* reaches Decimus through Segulius Labeo with Octavian's answer (Ch 31). Pansa's wound and the poison talk stay apart; the rumour is left unconfirmed (Ch 30 SC-81). Amyntas keeps the Nemesis dowry book back and says nothing of it to Cassius (Ch 29, Ch 31). Rufrius survives Forum Gallorum and holds Laberius at Philippi (Ch 37). The boots persist, resoled twice since Mutina (Ch 35). Fulvia's paper is called in with a fee (Ch 30) and Hordeonius's dealings with her side carry into Ch 34. No text change.
+
+## Ch 31–38 factual checks (11 Nov)
+
+The reviewer's seven high and medium checks, against the sources. All hold; no change.
+
+| Check | Text | Source |
+| --- | --- | --- |
+| Cularo and the Isara; Decimus's retreat and death | Decimus joins Plancus at Cularo in June; Plancus's legions cross the Isara bridge to Antony and Lepidus in September; Decimus is taken at a ford by the Gallic chief Camelus and killed on Antony's word | Cicero *Fam.* 10.15, 10.18, 10.23 (Plancus on the Isara, at Cularo); App. *BC* 3.97–98 (Camelus) |
+| Consulship, centurions, African legions, Pedian court | 400 centurions in July, “this will” (Suet. *Aug.* 26); two legions from Africa go over, Cornutus kills himself; elected 19 Aug with Pedius; the Pedian court condemns in absence | App. *BC* 3.88–95; Dio 46.42–49 |
+| Proscription rewards | 25,000 denarii a head; a slave 10,000 with freedom and his master's citizenship; informers the same | App. *BC* 4.11 gives Attic drachmas; the denarius was reckoned equal to the drachma, so the figures stand |
+| Varro, Calenus, Cicero, Julia | Varro hidden by Calenus; Cicero killed 7 Dec 43; Julia hides Lucius Caesar; Ch 34 re-dated early December on 4 Nov so it falls before Cicero's death | App. *BC* 4.37, 4.47; Plut. *Ant.* 20 |
+| Gaius Antonius, Hortensius, Xanthus | Brutus writes the order after the news of Cicero; Xanthus burns itself; Cassius throws it at him at Sardis | Plut. *Brut.* 28, 30–31; App. *BC* 4.76–80 |
+| Interval, deaths, torch, Hortensius | Twenty days between the battles; Statilius's torch and no return; Antony has Hortensius killed at his brother's grave | Plut. *Brut.* 47, 51; *Ant.* 22 |
+| Eighteen cities, Capua, compensation | “The land of eighteen cities … Capua is one of them. There'll be compensation.” “When?” Unanswered | App. *BC* 4.3; 5.12–13 |
+
+Visellius stays unsolved: Hordeonius keeps or burns the copies as a moral choice, not a solution. The twine ending stays open.
 
 ## Held elsewhere
 
