@@ -1,6 +1,6 @@
 # Names and duplicates
 
-**Rule:** one name, one person, for the reader. Where the sources give several men the same name, the book picks a single plain handle for each and never uses the bare name for more than one of them. The canon check script (`tools/book2_canon_check.py`) fails if a handle in the table appears twice.
+**Rule:** one name, one person, for the reader. Where the sources give several men the same name, the book picks a single plain handle for each and never uses the bare name for more than one of them. The canon check script (`tools/punic_canon_check.py`) fails if a handle in the table appears twice.
 
 ## Shared names
 
@@ -39,6 +39,9 @@
 
 Hannibal, Hasdrubal, Hamilcar, Maharbal, Himilco, Bomilcar, Mago, Hanno, Saguntum, Ticinus, Trebia, Trasimene, Cannae, Canusium, Venusia, Capua, Caleacte, Metaurus. List kept here so the audio exporter's table can be built from it.
 
-## Names reserved for nobody
+## Invented names
 
-The invented soldier's name is chosen at the storyboard and must not match any nomen in this file.
+| Name | Who | Notes |
+|---|---|---|
+| Lucius Vettius (**Vettius**) | The invented soldier of the Cannae legions | No Vettius in the record of 218–207; not used in Book 1 |
+| young Calavius | Pacuvius's son | Livy gives no personal name; Perolla is not used |

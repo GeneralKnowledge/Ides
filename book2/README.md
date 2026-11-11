@@ -1,36 +1,33 @@
-# Book 2: the Second Punic War
+# Book 2
 
-Working folder for the second book in the series: one novel from Hannibal's descent from the Alps (218 BC) to the Metaurus (207 BC). Book 1 (the Ides) is untouched by anything here.
+The second book of the series. It follows straight on from Book 1: it opens in spring 41 BC, the morning after Laberius steps over the twine near Capua, and runs to the peace of Brundisium in autumn 40 BC. Its war is the Perusine War.
 
-The method is the one in [Book 2 plan: lessons from Ides](https://claude.ai/artifact/XpDbPjMytLQwm5fhUsfENy): settle the shape and the facts first, draft each act once at full length, and put a stamped copy in front of an outside reader at the end of every act.
+(An earlier trial of the planning method on a different story, the Second Punic War, lives in `experiments/punic_war/`. Nothing in it is canon here.)
+
+The method is in [Book 2: starting where Book 1 ends](https://claude.ai/artifact/FBQquskjMXjX38ZkcVkY6r). In short: settle the handover, contract, canon, mind sheets and storyboard before any prose; pass a blind voice pilot against Book 1's model scenes; draft each act once at full length; check each act once (three-tests self-audit, continuity audit, one outside reader on a stamped copy); finish with a structure audit and one criticism-only cold read with nothing protected.
 
 ## Where things stand
 
 | Stage | What | Status |
 |---|---|---|
-| 1 | [Book contract](CONTRACT.md) | Merged (#203) |
-| 2 | Canon pack: [chronology](canon/chronology.md), [character sheets](canon/characters/README.md), [names](canon/names.md), [places](canon/places.md) | Merged (#203); Cannae and Metaurus passages still to check by hand |
-| 3 | [Storyboard](storyboard/README.md) and reader questionnaire | Storyboard first version (67 scenes), awaiting Reuben's pick of fixes |
-| 4 | Voice pilot (two chapters) | Not started |
-| 5 | Draft by act | Not started |
-| 6 | Readers and freeze | Not started |
+| 0 | [Handover from Book 1](canon/handover.md) | First version, for Reuben's check |
+| 1 | [Contract](CONTRACT.md) | Draft for Reuben's approval |
+| 2 | Canon pack: chronology 41–40 with sources, places and travel times, names across both books | Not started |
+| 3 | Mind sheets (carried and new POVs), storyboard, questionnaire | Not started |
+| 4 | Blind voice pilot (three scenes, shuffled with three Book 1 model scenes) | Not started |
+| 5 | Draft by act, one PR per act | Not started |
+| 6 | Structure audit, cold read, freeze (DOCX only) | Not started |
 
-No prose until stages 1 and 2 are approved.
+No prose until the storyboard and the voice pilot pass.
 
-## Checks
+## Authorities
 
-```
-python3 tools/book2_canon_check.py          # structure, sources, duplicate names
-python3 tools/book2_canon_check.py --strict # also fails on anything still marked "to check"
-python3 tools/book2_storyboard_check.py   # rewinds, POV gaps, act budgets, Cannae position
-```
-
-The canon check's `--strict` mode will be needed before the act that uses each "to check" line is drafted.
+- Voice: `writing/voice/MIND_SHEETS.md` (Book 1 sheets carry over; Book 2 adds a short "since Philippi" note for each carried POV and new sheets for new POVs).
+- Standing rules carried from Book 1: history accuracy; real people first, invent only where the record is silent; no em dashes; no caption fragments; no narrator explainer sentences; no bans or quotas; DOCX only.
+- New for Book 2: no chapter or scene is protected from criticism (protect named beats only); chapter numbers are assigned at export from scene order; one changelog line per change, no pass logs.
 
 ## Changelog
 
 One line per change.
 
-- 2026-11-07: Folder created. Contract drafted under Reuben's four decisions (Alps to Metaurus; Hannibal from outside; 100,000 words; this folder). Chronology, POV character sheets, major figures and names list drafted; first source check against Polybius and Livy.
-- 2026-11-07: POV open questions settled on the recommended answers (Reuben: "go with what makes most sense"): Varro gets an Etruria scene in 207; Fabius's toga story is hearsay; Ticinus told straight; Maharbal fades after Act III; Silenus sees the head; Pacuvius runs to Capua's fall; the soldier farms near the Via Latina.
-- 2026-11-07: Places and travel times added. Second source pass confirmed Liv. 21.12, 22.8, 22.25, 23.2, 26.8–9; Perolla dropped. Storyboard v1: 67 scenes, ~100k words, Cannae at 28%; storyboard check script.
+- 2026-11-11: Folder created. Reuben chose the span (spring 41 to Brundisium, autumn 40). Handover and contract drafted on the recommended answers for POVs, the twine opening and length, pending his check.

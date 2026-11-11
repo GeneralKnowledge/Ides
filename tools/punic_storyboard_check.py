@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Checks for the Book 2 storyboard (book2/storyboard/scenes.tsv).
+"""Checks for the Punic War experiment storyboard (experiments/punic_war/storyboard/scenes.tsv).
 
 Flags:
   - date rewinds (a scene dated before the one it follows, beyond a season)
@@ -16,7 +16,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent / "book2"
+ROOT = Path(__file__).resolve().parent.parent / "experiments" / "punic_war"
 ACT_BUDGET = {"I": 25000, "II": 20000, "III": 30000, "IV": 25000}
 SEASON = {"spring": 4, "summer": 7, "autumn": 10, "winter": 12}
 
