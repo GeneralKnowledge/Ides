@@ -21,7 +21,7 @@ Calpurnia was asleep in the Domus Publica’s master cubiculum when the house fe
 
 It fell the way a face falls when the muscles quit. Calpurnia had felt real earthquakes, the long grind under the Palatine; this was quieter and worse. The pediment above them, the painted front that told the street this was still a public house and not merely a husband’s bed, cracked along its smile and came down into her lap: dust, timber, the soft insult of painted wood pretending to be marble.
 
-Caesar was in her arms. She knew his bulk from years beside a man who didn’t truly sleep so much as pause. In the dream his blood was hot and absurdly ordinary, the same heat as a cut finger at a sacrifice. She tried to hold the wound closed with her palms. A body was not a letter. It would not reseal.
+Caesar was in her arms. She knew his bulk from years beside a man who didn’t truly sleep so much as pause. In the dream his blood was hot and absurdly ordinary, the same heat as a cut finger at a sacrifice. She tried to hold the wound closed with her palms.
 
 The bedroom door flew open. Wind that did not belong to March came through. She woke with her mouth already shaped around his name.
 
@@ -51,7 +51,7 @@ Caesar listened. He always listened to houses. He listened to armies the same wa
 
 He looked at the open door as if a slave might be standing there with a joke. No one stood there. Only the stripe of moon and the cold.
 
-Calpurnia’s hands found his forearm. She did not weep; weeping was for women who still believed tears were currency. She held on.
+Calpurnia’s hands found his forearm. She did not weep. She held on.
 
 “Stay,” she said. “Send them away. Call it illness. Call it the gods. Call it whatever you call things when you wish to live until the next Kalends.”
 
@@ -63,11 +63,9 @@ Caesar’s mouth twitched toward the cut-joke that made hard men laugh in camps,
 
 “We will see what the morning says,” he said.
 
-He did not commit while the threat still had a face. He never had.
-
 Calpurnia kept her hands on him until her fingers ached. Outside, the Domus Publica assembled its night noises into dawn noises: a cough, a scrape, someone’s prayer muttered too fast to be pious.
 
-She didn’t sleep again. Sleep had already spent what it meant to spend.
+She did not sleep again.
 
 ---
 
@@ -96,7 +94,7 @@ He sat on the edge of the bed and pressed his thumb into the opposite palm until
 
 “Water,” she told someone at the door.
 
-Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. Caesar noted her the way he noted doors: present, useful, not the point. He drank. The water tasted of cistern and night.
+Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. He drank. The water tasted of cistern and night.
 
 “You dreamed,” Calpurnia said. Not a question.
 
@@ -104,7 +102,7 @@ Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. C
 
 “Not like that. The door…”
 
-“Doors open,” Caesar said. “Slaves forget. Wind. Wood swells.” He heard how thin it sounded. He let it stand anyway. Thin explanations were still explanations; they kept the morning movable.
+“Doors open,” Caesar said. “Slaves forget. Wind. Wood swells.” He heard how thin it sounded. He let it stand anyway.
 
 “You have given me three explanations for one door.”
 
@@ -128,8 +126,6 @@ Caesar almost smiled then, fond, tired. “I have gone against worse.”
 
 Then Decimus was in the house with a schedule and an open face, as he always was, and Caesar’s shoulders eased a fraction before his mouth did.
 
-Caesar left the clouds where they belonged: behind his teeth.
-
 ---
 
 ## Continuity notes (SC-35b)
@@ -148,9 +144,9 @@ Overhear risk: High (Nysa, Phileros, household)
 
 ---
 
-Decimus washed his hands before he entered, not because they were unclean, but because clean hands were part of the costume of intimacy.
+Decimus washed his hands before he entered. They were not unclean.
 
-The Sacra Via was already loud. March mornings in Rome never waited for great men. Shop fronts were opening. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. Decimus’s heart sat in his throat like a swallowed coin.
+The Sacra Via was already loud. March mornings in Rome never waited for great men. Shop fronts were opening. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. His heart was in his throat.
 
 If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
 
@@ -160,13 +156,13 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 “He will,” Decimus said, pleasant. “I am here to make sure the Republic does not take offence at a late sleep.”
 
-“The Republic does not take offence,” Phileros said. “The Republic takes notes.”
+“The Republic does not take offence,” Phileros said.
 
 “Then I shall give it very good ones.”
 
 Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move.
 
-In the atrium Calpurnia’s fear was already a climate. Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted: Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys.
+In the atrium Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted: Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
@@ -176,7 +172,7 @@ The word *king* did what it always did in that house. Everyone in the atrium kne
 
 Decimus had to answer. Bowing without yielding would not hold against words. “Domina, I walk him to the Senate he summoned. If he dismisses them himself, your dream still gets heard. If he stays, the city writes a different dream for him, and neither of us will like the author.”
 
-Decimus had said *domina* to her at dinner for years. This morning it sounded like an alibi.
+Decimus had said *domina* to her at dinner for years. This morning he heard himself say it.
 
 Phileros cleared his throat for the keys’ dignity. “The litter is ready. Chickens were rude. That is not…”
 
@@ -256,19 +252,19 @@ Phileros’s lamp bobbed from the vestibule. “If it’s thieves…”
 
 “It isn’t,” Nysa said, and hated that she sounded sure.
 
-“Thieves do not usually rattle the god of war.”
+“Thieves do not usually rattle the god of war,” Phileros said.
 
-“Then it is the god of war,” Nysa said, “and you should be more afraid of him than of me.”
+She did not answer that. She did not know what did.
 
 In the cubiculum the air was colder than the corridor. She brought water when told. Her hands didn’t shake until she had turned away. She’d dreamed of nothing. She’d only listened, which was worse, because listening left you with pieces you couldn’t put back.
 
 Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Nysa, who had washed blood from floors after banquets, felt her stomach tip anyway, not at blood, at the way Calpurnia’s voice tried to stay private and failed.
 
-Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.” It was not unkind and not kind: a redirection of weather.
+Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.”
 
 In the service court the sky shifted from iron to dirty pearl.
 
-Against her ribs, under linen, the wax fragment held its few words. Pressed yesterday when a visitor’s attendant had muttered near the peristyle, wrong-ended: *friends*, *spare*, *stay*, *danger*, something like *consul*. She hadn’t understood the Senate shape of it. She understood enough to be afraid of Phileros finding it. Phileros believed door-knowledge was a priesthood, and priesthoods did not share.
+Against her ribs, under linen, the wax fragment held its few words. She had written them yesterday, after two cloak-men talked on the far side of a door: *friends*, *consul*, *spare*, *danger*, *stays*. She still did not know whose friends, or which consul. She understood enough to be afraid of Phileros finding it.
 
 When she returned to the atrium, Decimus was already there.
 
@@ -288,7 +284,7 @@ Decimus glanced at her the way men glanced at furniture that had moved an inch. 
 
 Nysa’s fingers found the linen over the wax and didn’t draw it out.
 
-What would she hand Caesar? A mutter? Against Decimus’s open hands and the Senate’s hunger for his attendance? Against Calpurnia’s broken weather, already spent?
+What would she hand Caesar? A mutter? Against Decimus’s open hands and the Senate’s hunger for his attendance? Against the mistress, who had already asked and been answered?
 
 The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa thought he would turn back. He looked at Calpurnia. He looked at Decimus. He didn’t look at Nysa.
 
@@ -302,8 +298,6 @@ Phileros exhaled, victorious over nothing. “If you have wax,” he said, not l
 
 Nysa didn’t put it in the fire. She returned it deeper against her skin.
 
-She knew only that her fragment had failed in a vestibule that smelled of onion, and that Decimus’s cheer still hung in the atrium like perfume after a guest has gone.
-
 ---
 
 ## Continuity notes (SC-35d)
@@ -312,3 +306,6 @@ She knew only that her fragment had failed in a vestibule that smelled of onion,
 - **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
+
+## Voice pass 2026-11-11
+- **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back.

@@ -41,7 +41,7 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 “Bring me what you have.”
 
-“I burned it,” Nysa said. Her hand went once to her ribs and came away empty. “I kept the habit.” Her eyes flicked once toward the street noise, then down again. “It wasn’t Senate shape. It was splinters.”
+“I burned it,” Nysa said. Her hand went once to her ribs and came away empty. “It was five words. They did not go together.”
 
 Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not someone.”
 
@@ -53,13 +53,13 @@ In the service court Dama swore the chickens were still sullen and that sullenne
 
 “He does not sell it by the hour,” the washerwoman said, wounded. “He gave it away free. That is why it spread. And the wren was this morning. I saw the mouths that sold it.”
 
-“Things given free always spread,” Calpurnia said. “It is the reason nobody gives away anything good.”
+“Things given free are always believed,” Calpurnia said.
 
-Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Pallas held the mantle and said nothing, loyalty that knew when silence was the only clean service.
+Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Pallas held the mantle and said nothing.
 
 Phileros tried again from the vestibule edge, softer. “Domina, if the college sends…”
 
-“If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if another splinter arrives at the door, you bring it to me before you burn it. Incomplete is still a shape.”
+“If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if you hear anything more at a door, you bring it to me before you burn it.”
 
 Nysa nodded once, too quickly. Calpurnia let the quickness go.
 
@@ -72,7 +72,7 @@ The bed did not argue. From the street rose the ordinary roar of the Ides. The l
 ---
 
 ## Continuity notes (SC-40)
-- **Knows / learns:** aftermath only: the stay was lost in Ch 14. The entrails and liver; the king-bird (wren) told here as Ides-morning tradition; Spurinna named back to Ch 11; omen gossip unproven (AMB-3). Calpurnia gives orders by name (Nysa, Phileros). Nysa’s “I burned it” is a lie: the fragment is still on her (burned Ch 19). Calpurnia does not search her.
+- **Knows / learns:** aftermath only: the stay was lost in Ch 14. The entrails and liver; the king-bird (wren) told here as Ides-morning tradition; Spurinna named back to Ch 11; omen gossip unproven (AMB-3). Calpurnia gives orders by name (Nysa, Phileros). Nysa’s “I burned it” is a lie (2026-11-11: she now says only “It was five words. They did not go together”): the fragment is still on her (burned Ch 19). Calpurnia does not search her.
 
 ---
 
@@ -97,13 +97,13 @@ The litter swayed. Caesar sat as he sat in triumphs and in mud, half present, ha
 
 “I have been both for years. They never complain when I am late.”
 
-Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule: petitions, lists, the city’s endless paper hunger. A Roman of his rank was petitioned in the street the way a river is fished: constantly, hopefully, by men who had nothing to lose by throwing a line. Decimus didn’t look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
+Caesar made a small sound that might have been assent. His hands rested on a stack of tablets and rolls someone had thrust in at the vestibule: petitions, lists, the city’s endless paper hunger. A man of his rank was petitioned in the street at every step. Decimus didn’t look too long at the stack. Men with knives under togas who stared at paper started sweating through wool.
 
 Near the turning toward the Campus, a man pressed in, Greek face, urgent manners, the particular sweat of someone who believed information could still alter a morning. Decimus placed him at once: one of the Greek teachers every great house kept for its sons, and this one had the look of a man who had come by a friend’s secret and could not carry it. He pushed a small sealed tablet toward Caesar’s hands.
 
 “Read this,” the man said, or something near it. “Read it now. Alone.”
 
-Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. For a breath the seal sat in the open, wax dull, string tight, the particular weight of a message that wanted to be a door. Decimus’s hand twitched toward the stack before his face did. Snatching would look like theft. Letting it ride would look like ease. Ease was the costume he was wearing.
+Caesar took it. Of course he took it. He took everything. Taking was cheaper than arguing in a crowd. For a breath the seal sat in the open, wax dull, string tight, the weight of a thing somebody had wanted read. Decimus’s hand twitched toward the stack before his face did. Snatching would look like theft. Letting it ride would look like ease.
 
 The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast. “Him. Alone.”
 
@@ -113,7 +113,7 @@ The man’s eyes found Decimus’s twitch. “Not you,” the man said, too fast
 
 Caesar’s thumb brushed the seal. Curiosity almost woke. Then he slid the tablet into the stack with the others, among other papers, and the litter moved on because litters moved on. The seal vanished under petitions and lists.
 
-Decimus felt a cold stitch under the ribs. He didn’t know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man whose trust he was currently wearing like a clean cloak. The almost-snatch would live longer in his wrist than in Caesar’s attention.
+Decimus felt a cold stitch under the ribs. He didn’t know what the tablet said. He knew only that something sealed had nearly cost him his face in front of the man who trusted him. The almost-snatch would live longer in his wrist than in Caesar’s attention.
 
 “Friends everywhere,” Decimus said lightly. “Even the street writes to you.”
 
@@ -129,7 +129,7 @@ Decimus helped Caesar down. Their hands met once more. Caesar’s palm was dry.
 
 He didn’t go in at once. Edges meant Antony. Edges meant keeping the consul’s body in the colonnade while the room inside did what rooms did when enough men had decided.
 
-Caesar entered the Curia of Pompey among men who loved him, hated him, owed him. Decimus knew with a clarity that felt like nausea: they needed him stopped before the Parthian clocks started again.
+Caesar entered the Curia of Pompey among men who loved him, hated him, owed him. Decimus felt sick. They needed him stopped before the Parthian clocks started again.
 
 Decimus wiped his clean hands on his tunic, once, where no one would see, and went to find Trebonius’s eye.
 
@@ -162,7 +162,7 @@ Trebonius found him before he reached the Curia door.
 
 Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.”
 
-“It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’s hand on Antony’s elbow was friendly. Friendly hands steered. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
+“It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’s hand on Antony’s elbow was friendly. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
 “You have a man in my debt who has news from Gaul,” Antony said.
 
@@ -206,7 +206,7 @@ Trebonius said something mild. Antony didn’t keep it.
 
 Antony ran toward the door, not toward philosophy, and the crowd ran with him and against him, a single animal with too many mouths.
 
-At the door Antony looked back once. Trebonius stood alone in the colonnade’s shoulder, and the warm face had come off him like a cloak. Market day had done its job. Antony would remember that face longer than the noise.
+At the door Antony looked back once. Trebonius stood alone in the colonnade’s shoulder, and the warm face had come off him like a cloak. Antony would remember that face longer than the noise.
 
 ---
 
@@ -217,3 +217,6 @@ At the door Antony looked back once. Trebonius stood alone in the colonnade’s 
 - **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
+
+## Voice pass 2026-11-11
+- **Decisions:** light line edits; Nysa says only “It was five words. They did not go together.”

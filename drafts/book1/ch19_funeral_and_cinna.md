@@ -21,11 +21,11 @@ The Senate had voted the funeral in the same sitting as the amnesty, and hoped, 
 
 The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard, the long list of titles and powers the Senate itself had voted, each one read aloud in a flat voice and sounding, in this light, like an accusation against the men who had voted it. He held up the bloodied cloth the way a soldier holds up a torn standard, evidence before poetry. The crowd’s anger was already in the air; he gave it a place to stand.
+Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard, the long list of titles and powers the Senate itself had voted, each one read aloud in a flat voice and sounding, in this light, like an accusation against the men who had voted it. He held up the bloodied cloth the way a soldier holds up a torn standard. The crowd’s anger was already in the air; he gave it a place to stand.
 
 “An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
 
-Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. The grief wanted a relic; the consul wanted a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was a usurper of grief.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. The grief wanted a relic; the consul wanted a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was cold.
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
@@ -58,9 +58,9 @@ Overhear risk: High
 
 ---
 
-Laberius had not loved Caesar like a poet. He had loved the idea that land and donatives arrived when Caesar’s name was on the wind.
+Laberius had come up from Capua for the funeral because it was Caesar’s name on his land, and nobody else’s.
 
-In the Forum he stood with men who smelled of leather and cheap wine, watching Antony lift cloth and hearing the will’s money clink in every syllable even when unspoken. A one-eyed corporal beside him said, “Philosophers did this.”
+In the Forum he stood with men who smelled of leather and cheap wine, watching Antony lift the cloth. A one-eyed corporal beside him said, “Philosophers did this.”
 
 “They’ll run,” Laberius said.
 
@@ -70,22 +70,22 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 “A bit like Capua,” said the corporal. “Everyone talks about it. Nobody has seen it.”
 
-When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He measured distances to the streets where Liberators’ doors would be, the old habit, distance before commitment. A brand left the pyre in a stranger’s fist and turned the corner toward those doors; the Forum’s fire had found legs.
+When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He looked, from habit, to see how far it was to the streets where the Liberators’ doors were. A brand left the pyre in a stranger’s fist and turned the corner toward them.
 
 Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell the vats on him, stale urine and trodden wool, the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-Laberius closed his fist on air, not wood. “I came for Capua,” he said: the land that had never once come with a date, and had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius took a mental note of who took torches. Notes survived campaigns.
+Laberius closed his fist on air, not wood. “I came for Capua,” he said: the land that had never once come with a date, and had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius looked to see who took torches.
 
 Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
 
-An older veteran, scar through the lip, no torch, caught Laberius’s sleeve once the surge thinned. “Capua was dirt with a date when he breathed,” the man said. “Now Capua is only dirt that walks. I take the torch because dirt without a paymaster still needs a street. You keep your note. Notes don’t feed boys.” He did not argue. Argument would have been a second yes.
+An older veteran, scar through the lip, no torch, caught Laberius’s sleeve once the surge thinned. “Capua had a date coming while he breathed,” the man said. “Now it’s only dirt. I’ll take the torch. A man has to do something with his hands.” Laberius did not argue with him.
 
-By dusk he knew the only Senate that mattered today was this crowd. The street had voted with smoke, and Laberius had kept his name off the first fire-list.
+By dusk the smoke stood over half the hill. He had not carried a torch. He did not yet know whether that would be counted for him or against.
 
 ---
 
 ## Continuity notes (SC-50)
-- **Knows / learns:** the funeral (FUNERAL-1, soft date 20 March); Antony calculating but not all-seeing; an officer pushes back on grain. Rostra and eulogy; the masks are actors (Ch 16); cremation belongs on the Campus, but the fire is in the Forum. Laberius refuses a torch. A fuller, a woman carrying water and a veteran: Capua is “dirt that walks” (D4). The fire leaves the pyre for the Liberators’ doors.
+- **Knows / learns:** the funeral (FUNERAL-1, soft date 20 March); Antony calculating but not all-seeing; an officer pushes back on grain. Rostra and eulogy; the masks are actors (Ch 16); cremation belongs on the Campus, but the fire is in the Forum. Laberius refuses a torch. A fuller, a woman carrying water and a veteran: Capua “had a date coming while he breathed. Now it’s only dirt” (D4; reworded 2026-11-11). The fire leaves the pyre for the Liberators’ doors.
 - **Plants → pays:** Capua unpaid (Ch 4) changes cost: the paymaster is dead; the market-day echo at the close.
 - **Decisions:** 2026-11-07 (storyboard fix 10): SC-50c “Water for No One” cut; Nysa’s day in the Forum is carried by SC-51.
 - **Must not:** Antony’s speech is a refrain, not blank verse; no Shakespeare.
@@ -103,7 +103,7 @@ Overhear risk: Extreme
 
 ---
 
-The name travelled faster than faces.
+Nysa heard the name before she saw anyone.
 
 “Cinna!”
 “He was in it…”
@@ -111,17 +111,17 @@ The name travelled faster than faces.
 “The poet…”
 “Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. Not the dagger. Only a throat full of syllables.
+Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. He was not one of the men with daggers.
 
 “I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. I am Helvius, not Cornelius, I am…”
 
-“Then you are a poet who killed him,” someone said, with the terrible logic of the afternoon.
+“Then you are a poet who killed him,” someone said.
 
-Nysa saw the first stone. She didn’t see the last. She saw enough to understand the lesson Phileros would never teach: information didn’t have to be true to kill. It only had to move faster than a face.
+Nysa saw the first stone. She didn’t see the last. She saw that there was ink under his thumbnail, black, on the hand he had put up in front of his face.
 
 Someone yelled that this Cinna had signed with the Liberators. Someone else yelled that he had insulted Caesar in a poem years ago. A third yelled nothing, only hit.
 
-When it was done, the street stepped around the shape as around spilled grain. Nysa’s legs took her toward the Domus because houses, even broken ones, were maps.
+When it was done, the street stepped round the shape. Nysa’s legs took her toward the Domus.
 
 On the Sacra Via a stranger asked her if Antony was still dead.
 
@@ -129,17 +129,13 @@ On the Sacra Via a stranger asked her if Antony was still dead.
 
 The stranger shrugged, disappointed, and went to find a better story.
 
-In the vestibule Phileros wanted details. Nysa gave him the only ones that mattered: Caesar’s body had become fire in the Forum; houses would burn; a poet had died for a name.
+In the vestibule Phileros wanted details. Nysa told him in order. The body had been burned in the Forum and not on the Campus. Men had gone off with torches toward the houses. A poet had been killed for his name.
 
-Calpurnia, hearing the poet part later, closed her eyes. “They will write that as omen,” she said.
+Calpurnia, hearing the poet part later, closed her eyes. “They will call that an omen,” she said.
 
-“They will write it as crowd,” Nysa said, and then, because it was safer: “Or omen. People prefer omen.”
+“He had ink under his nail,” Nysa said.
 
-She took the wax fragment from her tunic at last. She looked at its incomplete warning: danger from friends, a consul spared in someone’s mutter. She knew now which consul. She had watched him that afternoon on the Rostra with the torn gown in his hands, turning the city with it, while the men who had spared him ran for their doors. She set the wax on the charcoal until the letters drowned.
-
-It changed nothing. That was why she could finally burn it.
-
-Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty becoming a word you said while packing.
+She took the wax fragment from her tunic at last. She read her five words. She knew now which consul. She had watched him that afternoon on the Rostra, with the torn gown in his hands. She set the wax on the charcoal and stayed until the letters had gone.
 
 ---
 
@@ -148,3 +144,6 @@ Outside, Rome practised the new air: smoke, lists forming in mouths, amnesty bec
 - **Ides trim 2026-10-24:** restatements, corridor verdicts and thesis lines cut under the narrowed protection rule (HUMAN_VOICE_RULES §1); protected core untouched. See archive/pass_logs/ides_trim_2026-10-24.md.
 
 ---
+
+## Voice pass 2026-11-11
+- **Decisions:** line edits only. SC-50b: the ‘mental note’ and the scar-lipped man’s aphorisms cut; ends on not having carried a torch. SC-51: the stated lesson and the closing captions cut; Nysa sees the ink under his nail and burns the wax without saying why. SC-50a light edit.
