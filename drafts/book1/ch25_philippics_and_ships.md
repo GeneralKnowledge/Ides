@@ -118,39 +118,51 @@ Overhear risk: Ship crews
 
 ---
 
-Cassius boarded to see Brutus off, with contempt for the shoreline. His own keel would follow when he had ships enough.
+Cassius counted the ships at Velia from the quay, and then counted them again, because his eyes were poor at that distance and the second count had given him one more than the first. Brutus had six. His own were still fitting out down the coast. He had three so far and he wanted twelve.
 
-Pitch smelled honest. Italy smelled of appointments that had tried to turn Liberators into corn clerks. A harbour official wished them “favourable gods” in a voice that meant *please leave before you become my problem*. Cassius thanked him with teeth.
+He went aboard to see him off.
 
-“They offered us corn routes and called it honour,” he told Brutus on a deck that flexed under boots. “Honour is what we mint when we have silver.”
+He had been doing another sum all the way from Antium, and he did it again on the gangplank. Decimus had been given the Cisalpine province and two legions. Trebonius had been given Asia. Cimber had Bithynia. He and Brutus, who had been praetors of Rome in March, had been given a list of grain ports and a letter of thanks. He had not been able to make it come out differently.
 
-Brutus watched the shore as if it had already begun to shrink. A gull argued with another gull over a scrap that looked like neither bird’s. Brutus’s mouth twitched. “Even the birds have a lawsuit.”
+A harbour official wished them favourable gods and looked at the mooring rope while he said it.
 
-Cassius did not smile. “We leave so we can afford war if war is honest enough to come, not so we can become the cause of one we cannot pay.”
+Brutus was at the rail. Two gulls were disputing a scrap on the water that plainly belonged to neither. He watched them for some time.
 
-Crewmen cared about wind and the next meal. One asked whether it was true the praetor was bound for Athens, and whether Athens counted as fleeing. “Athens,” Brutus said. “Men still read there. Someone ought to.” Cassius said, “We are collecting.” Collecting sounded like bookkeeping. Bookkeeping kept his rage useful. The crewman snorted once, loud enough for the mate, and went back to rope. The snort was better than *fleeing* staying on the deck. Cassius already saw Asia’s taxes rearranging themselves, those fat coast cities across the Aegean that had paid Pompey, then Caesar, and would pay whoever arrived next with ships: cities as ledgers, ledgers as legions. Liberty would need pay. He didn’t say *tax terror*. He said *necessity*, the republican word for other people’s coin.
+“Even the birds have a lawsuit,” he said.
 
-Trebonius had written from Smyrna in June, and Cassius had the letter in his belt and had read it more often than it deserved. The figs were as good as promised. The walls were better. The province paid its dues on time, which no province had ever done for Trebonius before, and he suspected a trick. *Dolabella is still in Italy, borrowing*, he wrote. *When he comes through I shall feed him and wave. Come and eat my figs on your way to wherever you are going. Bring Brutus. Do not let him bring a book.* Cassius had not answered it yet. Asia would be the first place they went for silver, and the first door he knocked on there would be a friend’s.
+It was the only kind of joke he ever made. Cassius had heard perhaps six of them in twenty years, and he let this one stand.
 
-A factor from the quay, a Greek who bought and sold for three of those cities, came aboard with a tablet and a smile that wanted to be useful. Asia’s first advances, he said: cities ready to buy friendship with coin if the Liberators would stamp *libertas* on the receipts now, before the voyage even found a fair wind. Cassius reached for the stylus. The harbour felt like a ledger waiting to be corrected.
+One of the crew, coiling line, wanted to know whether it was true the praetor was bound for Athens, and whether Athens counted as running away.
 
-Brutus touched a rail. Salt crusted under his nails. “If we become what we killed…”
+“Athens,” Brutus said. “Men still read there. Somebody ought to.”
 
-“We become victors,” Cassius cut in. “Then we argue about purity. Purity is for after the triumph.”
+“We are going to collect what is owed,” said Cassius.
 
-The factor waited. The tablet waited. Pay versus purity, on a deck that still smelled of Italian appointments.
+The man snorted and went back to his rope. Cassius preferred the snort. It was better than leaving *running away* lying on the deck.
 
-Brutus looked at the numbers a long time. Cassius could watch him do the sum: honest enough to fund men, early enough to make the name look like a tax before it looked like a cause.
+He had Trebonius’s letter in his belt. It had come from Smyrna in June and he had read it more often than it deserved. The figs were as good as promised. The walls were better. The province paid its dues on time, which no province had ever done for Trebonius before, and he suspected a trick. *Dolabella is still in Italy, borrowing*, he wrote. *When he comes through I shall feed him and wave. Come and eat my figs on your way to wherever you are going. Bring Brutus. Do not let him bring a book.* Cassius had not answered it yet. Asia would be the first place they went for silver, and the first door he knocked at there would be a friend’s.
 
-“Not from this deck,” he said. “The Senate sent me out of Rome to buy corn like a clerk. I will not turn clerk for cities that want a seal more than a Republic. Collect when we have cities under our own count, not receipts that travel faster than we do.” He did not raise his voice. Courtesy made the refusal land harder. Cassius’s mouth tightened. The factor’s smile thinned, and he said to the mate, not as low as he thought: “They will sell the same coin to whoever stamps first.”
+A factor came aboard from the quay. He was a Greek who bought and sold for three of the coast cities, and he had a tablet and a wish to be useful. The cities were ready to advance money now, he said, today, before the wind served. They asked only that the word *libertas* should stand on the receipts.
 
-“Then let them hurry,” Brutus said. “We will not.”
+Cassius read the figure upside down. It would have kept a legion for a year. He put out his hand for the stylus.
 
-Cassius did not argue the purity speech. He took the cost as delay and hated delay. He kept Brutus’s refusal because the cause still needed Brutus’s face on it. He answered the mate’s shout about lines with a nod that meant *move*. Brutus answered the mate with courtesy that belonged to a different Republic, and had just spent a piece of that courtesy refusing easy silver.
+“If we become what we killed,” Brutus said, and did not go on.
 
-A crate labelled with someone’s grain promise tipped on the gangplank and righted itself. Brutus watched it the whole way. Cassius could not tell whether he was reading an omen or counting cargo, and did not ask.
+“We shall have that argument when we have won.”
 
-Cassius went down the plank before the lines came in. From the quay he watched Brutus’s ship stand out, and beyond it cities waiting to learn what *libertas* cost per head. One Liberator had already refused to price it in a harbour smile. Cassius had not.
+Brutus took the tablet. He looked at it for a long time. Cassius watched him and could see exactly where he was in it: the sum was honest, and it was needed, and it would make the name a tax before it had been anything else.
+
+“Not from this deck,” Brutus said. He gave the tablet back to the factor with both hands, as a thing of value. “The Senate sent me out of Rome to buy corn like a clerk. I will not turn clerk for cities that want a seal. When we are among them, we will ask.”
+
+The factor bowed. He said to the mate, not as low as he supposed, “They will sell the same coin to whoever stamps first.”
+
+“Then let them hurry,” Brutus said.
+
+Cassius did not argue it. He needed that face on the cause, and the face came with the scruple, and he had known the price when he chose it. He embraced him. Brutus held on a moment longer than he did.
+
+He went down the plank behind the factor. At the foot of it he asked the man, pleasantly, which house he kept at Smyrna, and whether he would be there in the autumn. The factor told him.
+
+From the quay he watched the six ships stand out. He could not see the rail at that distance. Somebody there seemed to have put up an arm. He put up his own, in case it was Brutus.
 
 ---
 
@@ -166,15 +178,13 @@ Overhear risk: Public when delivered
 
 By autumn Cicero had stopped pretending the middle existed.
 
-On the desk lay two drafts: one that named Antony a public enemy in music, and one that named him a mistake in manners. He chose music. Mistakes could be forgiven. Music recruited. He sanded a single adjective until it could cut without looking eager. He failed, because eagerness was the point.
+On the desk lay two drafts: one that named Antony a public enemy in music, and one that named him a mistake in manners. He chose music. He worked at a single adjective until it could cut without looking eager, and failed, and left it eager.
 
-Ink stained his fingers the colour of old wine. He felt the old consulship heat return. Heat was better than the villa coast’s polite despair. Heat made sentences arrive before caution could edit them into safety.
+Ink stained his fingers the colour of old wine. He felt the old consulship heat return. It was better than the polite despair of the villa coast.
 
 A friend came to warn him, dust on the man’s sandals, the smell of men who drilled near the temples. “You heard what he said in the Senate,” the friend said carefully. “Antony stood up with archers at the temple doors and named you the man who planned the Ides. Your chair was empty. Nobody in that room was brave enough to look at it.” He thought. “Except Calenus. Fufius Calenus, on the bench beside him, nodding at every line.”
 
-“Calenus nods for a living,” Cicero said. “He will stand up and answer me for Antony the day I am there to be answered. He has a good voice and a better cellar, and he thinks they are the same thing.”
-
-“He spoke to my empty chair,” Cicero said. “I will answer from his. In every house in Rome that can read.”
+“Calenus nods for a living,” Cicero said. “He will stand up and answer me for Antony the day I am there to be answered. He has a good voice and a better cellar, and he thinks they are the same thing. Antony spoke to my empty chair. I will answer from his. In every house in Rome that can read.”
 
 The friend lifted the top draft off the desk and weighed it like a brick. “And what do you call this, when the copyists ask?”
 
@@ -190,11 +200,11 @@ The friend did not laugh. “Athens lost, as I remember. And Demosthenes ended d
 
 “The Republic has your voice. That is not the same as legions.”
 
-“Legions listen to pay. Pay listens to panic. Panic listens to me if I am loud enough.” He heard how raw that sounded and didn’t unsay it. He waved the rest of the caution away with a gesture practised on juries.
+“Then it will have to be loud,” Cicero said. He waved the rest of the caution away with a gesture practised on juries.
 
-Octavian could be a sword pointed at Antony. Swords didn’t need to be loved. They needed to be aimed. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he joined them like carpentry.
+The boy could be pointed at Antony. He need not be loved for that. He drafted a period about Antony’s appetite and another about the state’s dignity. Then he joined them like carpentry.
 
-A courier waited with copies for men who would pretend they had not asked for copies. Cicero sealed the packets with a satisfaction that felt like courage and sent them into the city’s hungry mouths.
+A courier waited with copies for men who would pretend they had not asked for copies. Cicero sealed the packets himself and sent them out.
 
 One packet came back before dusk.
 
@@ -203,8 +213,6 @@ The seal was broken. The wax had been thumb-smeared and pressed again badly: an 
 The friend, still in the atrium, went pale and said nothing.
 
 Cicero held the scarred tablet until his fingers stopped pretending to be steady. He thought of Atticus, of audiences, of the Capitol’s first day enlarged by memory. Then he ordered fresh copies. “Circulate it wider,” he said. “If they can mark one, let them learn there are many.”
-
-He slept poorly and woke eager. Eager men wrote faster than wise ones. He noticed the difference and wrote anyway.
 
 ---
 
@@ -215,5 +223,5 @@ He slept poorly and woke eager. Eager men wrote faster than wise ones. He notice
 - **SC-68b (autumn 44):** told after SC-69 (the Philippics postdate the sailing). Philippics paid in a friend’s question: Demosthenes against Philip, Antony as Cicero’s Philip. Antony attacks Cicero’s empty chair in the Senate (archers, the Ides blame), which is why copies, not a speech. A marked copy comes back as a risk to his body; the friend’s Demosthenes-poison jab.
 - **Plants → pays:** Fulvia as the sharp reader of the house; Asia tax (Ch 36); Demosthenes (Ch 11, 35); comet ambiguity (T9).
 - **Must not:** the comet stays ambiguous; Cicero does not borrow Lanuvium. Not re-glossed: corn commissions (Ch 24), Macedonia and Syria (Ch 20), *young Caesar* (Ch 22).
-- **Decisions:** 2026-10-23 (Reuben): SC-68c added for T9.
+- **Decisions:** 2026-11-11 (voice pass): SC-69 rewritten in full from Cassius’s counting (ships; who was given which province); Trebonius’s letter kept; Brutus refuses the factor’s advance and Cassius asks the factor where he lodges at Smyrna. SC-68b heavy edit, ends on ordering more copies. 2026-10-23 (Reuben): SC-68c added for T9.
 - **Graph pass 2026-10-24:** Trebonius’s June letter from Smyrna in Cassius’s belt (figs, walls, Dolabella “still in Italy, borrowing… I shall feed him and wave”; “Bring Brutus. Do not let him bring a book.”). Pays Ch 21 market day; plants Ch 29.

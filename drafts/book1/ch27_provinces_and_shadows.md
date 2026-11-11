@@ -184,28 +184,26 @@ Overhear risk: Officers / couriers
 
 ---
 
-Decimus read Antony’s pressure in dispatches before he heard it in hoofbeats.
+Antony’s letters had been coming for a month. The last of them offered friendship and a date in the same sentence. Decimus kept it under a stone on the table, so that it should not blow out into the yard.
 
-The tablets arrived with seals that looked like courtesy and read like a hand on a throat. One letter offered friendship in the same sentence as a deadline. Decimus set that letter under a stone so it couldn’t blow into the yard and become gossip.
-
-At mid-morning an envoy came anyway, cloak clean, smile practised, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll. A levy clerk waited at the door with pay marks still wet. The room wanted to be polite. It was already a siege rehearsal.
+At mid-morning an envoy came anyway, cloak clean, smile practised, the sort of man who carried other men’s threats as if they were invitations to dinner. He stood in the command room where the wall map of the Via Aemilia still showed Decimus’s pins as facts. An aide hovered with a wax roll. A levy clerk waited at the door with pay marks still wet.
 
 “The consul asks only what the law already leans toward,” the envoy said. “Hand him Cisalpine in good order. Keep your honour. Keep your skin. Rome will find you another usefulness.”
 
-“Rome found me this one,” Decimus said. He didn’t offer a chair. Chairs made threats look like visits.
+“Rome found me this one,” Decimus said. He did not offer a chair.
 
 “He will call it a swap,” the envoy went on, mild. “You will call it wisdom. The Senate will call it clarification, when clarification arrives.”
 
 Decimus knew the swap because it had been done to him while he was on the road, by an assembly full of Antony’s veterans. The Senate had never voted it back.
 
-Decimus heard the gap in that sentence: *when*. Clarification that might never leave the stable. “Tell him I call it mine until the Senate says otherwise, or until he brings enough men to rename facts. He can call the renaming breakfast if he likes.”
+“Tell him it is mine until the Senate says otherwise,” Decimus said. “Or until he brings enough men to take it.”
 
 The envoy’s eyes flicked once to the levy roll on the table: names, marks for pay, a smudge where someone’s thumb had been nervous. “Your men still love Caesar’s pay more than your legality. My principal has a longer memory for that love than you do.”
 
-That was the first true thing said. Decimus felt it land under the sternum where the Ides still sat like a key he couldn’t return. “Get out,” he said. “If you return with an army, return with an army. Do not return with grammar.”
+That was the first true thing the man had said, and Decimus felt it in his stomach. “Get out,” he said. “If he wants the province he can come for it with an army. He need not send me any more letters.”
 
 
-The envoy paused at the threshold long enough for the room to hear the complaint under the courtesy: “He will remember the refusal more than the wit.” Then he left.
+The envoy stopped at the threshold. “He will remember that you refused,” he said, and left.
 
 After the man was gone, Decimus walked the gates. Hinges took oil.
 
@@ -217,13 +215,13 @@ In the yard he found the levy spokesman, an older miles with a Caesarian scar an
 
 Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly, honest about the bottom. He ordered a partial donative for the gate cohorts, coin he’d meant to hold for spring, and watched the spokesman’s shoulders drop half an inch.
 
-The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “That’s a word that tastes like next week’s apology.”
+The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “And the rest?”
 
-Decimus almost grinned, the old cheer that had opened mornings, and stopped it before it became a performance. “Then taste it and still hold the hinge. Next week’s apology is still coin I have to find.” The spokesman barked once, short, surprised, and the yard heard it as weather, not mutiny. Decimus scheduled the rest of the pay talk for morning.
+“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus scheduled the rest of the pay talk for morning.
 
-He wrote to Cicero with the stiff pride of a man who still believed praise from Rome was supply, and knew privately that praise was thinner than grain. The same week he wrote to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
+He wrote to Cicero, stiffly, with the figures rounded up. The same week he wrote to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
 
-The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on one boot and perfume still clinging to the other, Plancus’s weather made flesh. “He admires your hinges,” the man said, practising the pretty line. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *yet*, if you pressed. *Yet* is not a day on a road.” Decimus dismissed the man before admiration could invent another perfume. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
+The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on his boots and scent in his hair. “He admires your resolution,” the man said. He had practised it. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *not yet*, if you pressed.” It was not a day. Decimus sent the man to the kitchen. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
 
 The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. One word from him and Antony has friends at his back as well as a wall in front.”
 
@@ -247,7 +245,7 @@ Decimus did not wait to be caught on the open plain. He took his legions into Mu
 
 Inside Mutina he had the draught oxen killed and salted in the granary yard, every beast that could pull a cart, because a shut town had no use for carts and a great deal of use for meat. The butchers worked on past dark by torchlight. Brine and blood ran together in the gutter. The spokesman watched with his arms folded and did not say *partial*.
 
-Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest cut both ways. It had opened Caesar’s morning. It might yet open his own throat. He checked a hinge twice and didn’t tell the sentry why.
+Later he walked the wall and smelled snow coming. At the north gate he tried a hinge, and then tried it again, and did not tell the sentry why.
 
 ---
 
@@ -259,3 +257,6 @@ Later he walked Mutina’s wall-walk and tasted snow early. The key in his chest
 - **Plants → pays:** Ch 24 “which purse still dates dirt” and “when the shadow learns to feed us”; Ch 30 “had not moved the twine”; Lepidus joins Antony (Ch 31), the Bononia table (Ch 33).
 - **Must not:** no Cleopatra scene; no omniscient betrayal by Plancus.
 - **Decisions:** 2026-10-23 (Reuben, T9): SC-70a–c added; the chapter is no longer single-POV.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-70 heavy edit: the envoy’s and courier’s epigrams and the “key in his chest” image cut; the spokesman asks “And the rest?”; Decimus’s letter to Cicero has “the figures rounded up” (pays Ch 28).

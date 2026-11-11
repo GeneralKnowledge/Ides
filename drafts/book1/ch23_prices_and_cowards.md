@@ -14,31 +14,39 @@ Overhear risk: Extreme staff
 
 ---
 
-The Domus Publica filled with new footsteps wearing old authority.
+There were men in the house whom Nysa did not know, and they had the keys.
 
-Nysa packed what Calpurnia ordered packed and watched men she didn’t know break seals she had once guarded with her body. A steward appointed by Antony’s people, or by the house’s new legal fiction, spoke kindly while taking. Phileros hovered with the outer key. Dama watched from the chicken court. Birds made poor witnesses. Kindness that emptied chests still counted as kindness in the atrium’s mouth.
+They had come the day after the mistress’s women began to pack: a steward and two clerks, sent by the consul’s people, or by whoever the house belonged to now. Phileros said that it went with the priesthood, and the priesthood had gone to Lepidus, and Lepidus had it from Antony. She kept the first part of that and let the rest go. The steward was polite. He knocked at doors inside the house, which nobody had done before. He broke the seal on the linen cupboard with his thumbnail while he was asking her name.
 
-“These are the people’s now,” he said of a chest. “In a manner of speaking. You will find us careful. Careful is kindness in a house between masters.”
+“These are the people’s now,” he said, of a chest that she and Dama had carried out between them. “In a manner of speaking. You will find us careful.”
 
-Nysa bowed the bow the atrium taught. “We are grateful for the care.”
+“We are grateful for the care,” Nysa said, and bowed as the atrium had taught her.
 
-Phileros laughed once, short, too short for the steward’s kindness, and then looked at the outer key as if it had changed religion. Drink made him loyal to whoever held that key. Dama claimed the chickens had gone silent out of respect. Nysa put chickens with *noise* and chests with *danger* and kept walking.
+Phileros laughed. It was one short laugh. The steward looked at him, and Phileros looked down at the outer key in his own hand as if somebody else had done it. He had been drinking since the Ides. Now he began before noon.
 
-Phileros kept the short laugh for the stair, where no steward’s kindness could rewrite it. “People’s chest. People’s seals. People’s careful hands in our cupboards. Empty is empty. House goes with the priesthood, and the priesthood went to Lepidus with Antony holding the ladder. Chief priest’s house, chief priest’s cupboards. We were only ever furniture of the office.”
+She counted the chests out. Nobody had asked her to. She counted because she had counted the first ones, on the night of the Ides: eleven, by lamplight, which she had helped to carry as far as the gate, where the consul’s men had taken them on into the dark. *Safe*, the consul had said to the mistress. These were what safe had left behind. There were seven by midday.
 
-Nysa had carried the first chests herself as far as the gate, the night of the Ides, by lamplight, and watched Antony’s men take them into the dark. Safe, the consul had promised Calpurnia. These were the leftovers. Careful hands were collecting what safe had missed.
+Dama said from the chicken court that the hens had stopped laying out of respect. Nobody answered him.
 
-Dama muttered that the chickens had better taste than the new authority. Nysa did not join the joke loud enough to travel. She let it land as a breath through the nose, enough that Phileros saw he’d been heard. She thought of her burned fragment and touched the empty place in her tunic where it had sat. She hid one blank tablet there out of habit, then put it back on the shelf. Blank wax in the wrong hands had already become an entry in someone else’s daybook. The incomplete *spare*/*stay* splinter was ash. The house’s new seals were not. Danger continued without the old wax.
+On the stair, where the steward could not hear, Phileros said it over. “The people’s chest. The people’s hands in our cupboards. It is the chief priest’s house and they are the chief priest’s cupboards. We were the furniture of the office, girl. We were never anything else.”
 
-Between chests she tried one small want: a cracked oil flask Calpurnia had once filled with her own hands, worth nothing to the people’s inventory, worth a morning to Nysa. She set it behind a water jar. The steward’s clerk found it before the next prayer of inventory. “Careful includes corners,” he said, almost kind, and took the flask for the people’s pile. Nysa’s want failed without a speech. Phileros saw the take and did not laugh. Dama’s chickens made a sound like agreement.
+She had linen over her arm. “Which cupboard is next?”
 
-Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people, kindness that used her legs. “The Carinae,” he said. “Pompey’s old house. The consul’s now.” In the kitchen they said Antony had bought it at Caesar’s auction and never paid. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow.
+“All of them,” he said.
+
+She still carried her left arm a little away from her side. There had been nothing under it since the night she burned the wax. She noticed it when she passed the shelf of blank tablets, and made the arm go down.
+
+There was a cracked oil flask on the mistress’s washstand, which the mistress had used to fill with her own hands. It was worth nothing. Nysa put it behind the big water jar in the passage. The steward’s clerk found it within the hour.
+
+“Careful includes corners,” he said, not unkindly, and set it on the people’s pile in the atrium. She saw where on the pile.
+
+Before dusk the steward sent her across the Sacra Via with a sealed receipt for Antony’s people. “The Carinae,” he said. “Pompey’s old house. The consul’s now.” In the kitchen they said Antony had bought it at Caesar’s auction and never paid. The door she reached was not Domus. It smelled of different oil and men who borrowed authority. A clerk there took the seal without looking at her face. Then he offered, mild as a gift, that a careful girl might stay attached to the new inventory if she learned the new bow.
 
 Nysa looked past him into the atrium. Calpurnia’s women were already chosen for wherever Calpurnia went next, and Nysa was not one of them. The Domus was going to Lepidus’s people with its cupboards. The Subura had rooms, and rooms had rent. The clerk waited the way men wait who have already counted the answer.
 
 A kitchen girl came through the door behind her with a basket, and Nysa watched her bow to the clerk: shallower than the Domus bow, quicker, the eyes down before the head moved, a bow that took less time because in this house there were more people to give it to. Nysa gave it back to the clerk on the first try.
 
-He nodded as if a jar had been shelved. “The kitchen,” he said. “Tomorrow, before light. The steward likes to know who carries.”
+He nodded. “The kitchen,” he said. “Tomorrow, before light. The steward likes to know who carries.”
 
 She walked back across the Sacra Via for her bundle while the streets were still hers to cross. The cracked flask sat on top of the people’s pile in the atrium with nobody watching it, and she put it in the bundle with her tunics. She did not tell Phileros which bow she had given. He saw it anyway in the morning, when she gave it to him at the gate out of a night’s practice, and he laughed his short laugh, and this time it was not too short.
 
@@ -104,3 +112,6 @@ In the morning he gave it to a carrier going south and went back to his garden, 
 - **Plants → pays:** Antium (Ch 24); Statilius’s letter (Ch 38); Nysa in Antony’s house (Ch 25 SC-68c games count; Ch 33 lists).
 - **Must not:** not re-glossed: the bronze acts and amnesty (Ch 17, 21); the Domus Publica (Ch 12); NOTE-1 (Ch 12); Lepidus master of horse (Ch 17); Fulvia (Ch 7).
 - **Decisions:** 2026-11-07 (storyboard fix 10): SC-64 “Laws for Sale” cut; Ch 21’s courier carries the forged acts, SC-65 the chests to Antony. 2026-10-23 (Reuben, T9/T11): Nysa moves to Antony’s kitchen.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-65 heavy edit: the first two-thirds rewritten in the Ch 2 manner (the steward knocks at inside doors; she counts chests, eleven on the Ides night and seven now; the flask); the last third kept.

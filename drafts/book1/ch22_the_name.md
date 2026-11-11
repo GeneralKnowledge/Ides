@@ -33,7 +33,7 @@ A follower came to the terrace door, young, dusty from the road, eyes already re
 
 “Caesar.”
 
-He said it aloud, not under his breath, and the room flinched. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa’s stillness deepened, approval without theatre.
+He said it aloud, not under his breath, and the room flinched. Atia’s face did something private and then went blank. Philippus’s jaw set. Agrippa did not move.
 
 Octavian held the greeting without smiling. Smiling would have made him a boy delighted by a toy. “Tell the others,” he said. “The name stands. So does the will.”
 
@@ -51,17 +51,17 @@ Cicero had walked over from his own house along the shore to return the boy’s 
 
 Octavian, alone for a stolen moment on the terrace, shook once, hard, the body arguing with the decision. Then he stopped shaking and flattened both palms on the rail until the pale band on his finger stopped moving. He practised the name under his breath, wrong once, then closer. *Gaius Julius Caesar.* A lawyer would tack the old family on the end, *Octavianus*, so the papers showed which house the son had come out of. He left it off. Nobody calling him Caesar from a doorway was going to add it. Agrippa found him there.
 
-“I almost said it first,” Agrippa murmured, not apology, inventory. “Shadow. Old habit.”
+“I almost said it first,” Agrippa murmured. “Shadow. Old habit.”
 
 “Break it,” Octavian said. Then, quieter, the rare awkward warmth: “You may call me late to drill. Not that.”
 
 Agrippa’s mouth twitched. “Late to drill, then, Caesar.” He stood within reach and didn’t look away.
 
-That evening they walked the villa’s outer path where gardeners had stopped inventing courage with shears. Ordinary noises: sea, a dog, someone’s dinner argument about fish. Octavian counted them the way he counted incompatible rumours, separate, useful. Agrippa kicked a loose stone and watched it roll.
+That evening they walked the villa’s outer path where the gardeners had gone in. There were ordinary noises: sea, a dog, someone’s dinner argument about fish. Octavian counted them the way he counted incompatible rumours, separate, useful. Agrippa kicked a loose stone and watched it roll.
 
 “Philippus still won’t say it,” Agrippa said. “The name.”
 
-“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him. He only matched pace. That was the older friendship: not shadow, legs that kept the same count without announcing need.
+“He can keep Octavius for his cushions,” Octavian answered. “The road has already chosen.” He hated how young the sentence sounded. Agrippa did not rescue him. He only matched pace.
 
 ---
 
@@ -69,33 +69,25 @@ That evening they walked the villa’s outer path where gardeners had stopped in
 
 POV: Antony · Rome / Ops orbit · Canon: M13 · Fulvia
 Date / place: April 44 · Temple of Ops, Rome
-Info ENTER: Consul; veterans near · EXIT: Posts Caesar’s acts; underestimates Octavian
+Info ENTER: Consul; veterans near · EXIT: Hears the boy is calling himself Caesar and laughs; “who has the keys” (reduced to one beat 2026-11-11)
 
 ---
 
-Antony counted money the way he counted cohorts: roughly, with threats for arithmetic.
+The keys to the Temple of Ops hung on a clerk’s cord, and Antony had the clerk stand where he could see him. It was the Parthian war chest in there, seven hundred million under the harvest goddess, and since the Ides it had answered to the consul. He liked the noise the keys made when the man shifted his feet.
 
-The keys to the Temple of Ops hung on a clerk’s cord, and the clerk stood where Antony could see him. “Parthia’s money,” the clerk had said the first morning, “under the harvest goddess.” Since the Ides it had answered to the consul. Antony liked the sound the keys made.
+He was sweating. He had been at it since the second hour, with Fulvia beside him and a line of petitioners out into the sun: grants, exemptions, a veteran with wine on him and a claim to forty acres. He put his seal where Fulvia’s finger rested and did not read much.
 
-Around the temple the city’s paper heart still beat in Caesar’s rhythm: acts, grants, promises. Clerks moved tablets like bricks. A veteran waited with a petition that smelled of wine and land hunger. Antony meant to keep the rhythm. Rhythm kept veterans fed. Fed veterans kept consuls alive.
+An agent came in from the south with dust on him. “The boy is in Campania,” he said. “He is calling himself Caesar. The old soldiers come out on the road to look at him.”
 
-Fulvia listened to a client’s petition and priced it with her eyes before Antony opened his mouth: how much loyalty, how much cash, how much theatre. He almost smiled. Almost was marriage.
+Antony laughed. It was a real laugh and it went up into the roof and came back bigger. He remembered the great-nephew from a dinner, or thought he did: a thin boy, careful with his face, who had watched the older men’s hands. That boy did not hold Italy.
 
-“The boy is in Campania,” an agent said. “Calling himself Caesar. Followers thick as flies on a sweet stall. Some of ours asked whether his purse travels with the name.”
+“Let him. There is a Caesar in every wine shop this spring. When he wants money he will find out who has the keys.”
 
-Antony laughed, genuine. The laugh bounced off Ops’ stone and came back sounding larger than the boy. He had met the nephew when the nephew was still inventory. Great-nephew, strictly; Antony never spent the extra word. Too careful with his face. Too hungry for older men’s approval. A chest that looked wrong under a reserved place. That boy did not hold Italy. “Let him. Rome has many Caesars in wine shops. When he wants money, he will learn who holds the keys.”
+The veteran said something about a name and land. Antony waved him on to a clerk.
 
-The waiting veteran shifted. “If the name pays land,” he said carefully, “some will listen. Names do not fill bellies. Pay does. But names open doors to pay.”
+Fulvia had not laughed. She had turned her head, a very little, to look at the agent’s boots, and how much road was on them.
 
-Fulvia’s eyes flicked to Antony, price and risk and theatre, then away. Antony waved the veteran toward a clerk with a smaller petition and a larger chance of being forgotten. For a breath the veteran’s sentence almost interested him. Then Decimus’s Cisalpine hunger filled the interest the way a real war fills a map.
-
-“If the boy becomes loud,” Fulvia said, “buy his friends or break them. Do not wait until the wine shops stop laughing.”
-
-“He is a squeak,” Antony said. “I have Decimus to cage and a province to take. I don’t hunt squeaks.” The word was easy because it kept the boy small enough to mock. Mockery cost less than another front.
-
-Fulvia’s mouth almost smiled. “Squeaks grow teeth if you feed the wine shops. Call him shadow if it comforts you. Campania already stopped.”
-
-“Shadow,” Antony repeated, amused, tasting an officer’s old joke secondhand. “Even better. Shadows don’t hold fasces.”
+“Next,” Antony said.
 
 ---
 
@@ -178,3 +170,6 @@ The freedman held the first sale tablet ready. Octavian took off the ring, warme
 - **Plants → pays:** “hopeful shadow” called back (Ch 5); the veteran’s warning left unpaid in scene; SC-63 “who holds the keys” paid in SC-63b; Gaius Antonius (T8); Ch 28 “Philippus’s face”.
 - **Must not:** Octavian ≠ Augustus; no narrator preview of the cost. Not re-glossed: Brundisium, the posted acts, the city praetor (Ch 21); adoption law (Ch 18); fasces (Ch 7); Cisalpine (Ch 20).
 - **Decisions:** 2026-10-23 (Reuben): SC-63b added for T9.
+
+## Voice pass 2026-11-11
+- **Decisions:** SC-63 reduced to one beat (Antony hears the boy is calling himself Caesar, laughs, “who has the keys”; Fulvia looks at the agent’s boots); the veteran’s syllogism and the squeak/shadow exchange cut, since SC-63b does that work. SC-62 light edit.

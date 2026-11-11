@@ -17,48 +17,64 @@ Overhear risk: Clients
 
 ---
 
-Decimus smelled his own street before he saw the damage: pitch, cloth, the sweet rot of a smashed oil jar. Beyond the immediate wreck a wider smoke stood toward the Tiber and dirtied the March light. Rumour alone could make the river’s green claims look like they were burning. A client met him with both hands empty and both eyes apologising. A steward hovered with a half-burned inventory tablet. A door-slave still held a bucket. Water would not renegotiate veterans. The ruin wanted to be a house and would not be one again tonight.
+Decimus smelled his own street before he turned into it: pitch, and scorched cloth, and the sweet rot of a smashed oil jar. Further off a wider smoke stood toward the Tiber and dirtied the light.
 
-“They came for the door, not even for you,” the client said. “The door was enough.”
+They had done it properly. The door had been oak, four fingers thick, and they had poured the pitch down the hinge side, where the draught would take it up. The lintel was charred through. One upper shutter hung by a strap. He stood in the street and found that he was working out what it would cost to rehang, and how many days, and stopped.
 
-“Is there a door left?” said Decimus.
+A client met him with his hands empty. The steward was behind him with half an inventory tablet, burned across the middle. A door-slave was still holding a bucket.
 
-“There is a doorway, domine. It has an excellent view of the street.”
+“They came for the door,” the client said. “Not even for you, I think. The door was enough.”
 
-The steward added, careful as legality, that the second-line joke from the will had arrived in the street’s mouth before the pitch had: heir enough to hate, not enough to mourn. The crowd, which could not follow a sentence about inheritance, could follow a betrayal.
+“Is there any of it left?”
 
-A neighbour’s freedman, helping shift a scorched beam, offered the morning’s other merchandise without being asked. Calpurnia had dreamed the house into her lap, and Decimus had called the dream courage so the knives could keep their schedule. Or the gods had warned and Decimus had mocked the warning. Or there had been no dream, only a story Liberators needed after the Forum chose fire. There were three versions and one smell of pitch. Decimus filed them without crowning one. Crowning would have made him the dream’s author.
+“There is a doorway, sir. It has an excellent view of the street.”
 
-Decimus didn’t ask who “they” were: veterans, debtors, men who had loved Caesar’s name and needed a wooden face to hit. He sent the household out by the back ways with the same calm voice he had used on the Ides morning, then wiped pitch from his palm onto his cloak and found he couldn’t get the smell off.
+The steward said, carefully, that the crowd had been shouting a word when they came. They had it from the reading of the will. The word was *heir*.
 
-Decimus packed maps, not speeches. The top one was Cisalpine Gaul, the province Caesar had given him, and it no longer looked like a promotion. It was a wall with legions behind it, if he could reach it before Antony’s hunger for provinces became a noose. Antony had his own eye on those legions, and the Senate, which handed out provinces like favours, was already being asked to hand them elsewhere.
+Decimus had not known, until the will was opened, that the men in the portico had been right. He had been written in the second line. It was true. He had still not found anywhere to put it.
 
-Brutus found him in a courtyard that still had one unbroken pot of herbs.
+A neighbour’s freedman was helping to shift a beam, and he had the other thing the street was saying, and gave it without being asked. It was about the lady Calpurnia’s dream. On the morning, the story went, she had begged her husband to stay at home, and a friend had come to the house and laughed him out of it. Decimus listened to the end. It had taken four days to get from that atrium to this beam, and it had arrived very nearly whole.
 
-“East,” Brutus said. Not a question.
+He did not ask who *they* had been. He sent the household out by the back way, in threes, with what they could carry, and heard his own voice doing it. It was the voice he had used on that morning. He picked up a length of burned strap to move it and got pitch across his palm, and wiped it on his cloak, and it did not come off.
 
-“You and Cassius,” Decimus said. “How in Hades do two men stab the giver and keep the gift? Macedonia and Syria, still yours on his paper. Go and sit in them. That is where the legions are, and as far from the Forum as a man can sit. I take the nearer knife. Someone has to hold a road in Italy.”
+He packed the maps himself. The top one was the Cisalpine province: the great north road, the river crossings, Mutina with the ditch he had widened in his head a year ago. He had two legions waiting there, and a wall. Antony wanted both, and all Rome knew it.
 
-Brutus’s face was pale under soot. “They burned Helvius for a name. If you take Cisalpine now, you take Antony’s hunger with it. Come east with us first. Let the nearer knife wait until the Forum’s heat cools.”
+Brutus found him in the courtyard, where one pot of herbs was still unbroken. There was soot on his face. He had walked across the city without lictors.
 
-“If I wait, the road fills with his veterans,” Decimus said. “You want me safe. I want a gate that still opens for our side. Those are not the same schedule.”
+“Cassius and I are leaving,” Brutus said. “South first. Then east, when it can be done decently. Come with us.”
 
-“You have never once been on the same schedule as me.”
+“My province is north.”
 
-“I have been on yours since the knives,” said Decimus. “Look where it left my house.”
+“Antony means to have it.”
 
-Brutus looked at the broken street. “Then do not ask me to bless the nearer knife as wisdom.”
+“Then he will have to come and ask. You have Macedonia on Caesar’s paper and Cassius has Syria. Go and sit in them. Somebody ought to hold a road in Italy.”
 
-“I am not asking for a blessing.” Decimus clasped Brutus’s forearm once: friend, co-murderer, stranger already arguing about timing. “Do not wait for the Forum to love you. It loved a corpse more.”
+“They burned Helvius Cinna in the street. For his name. He wrote verses, Decimus. If they will do that,” and he looked at the place where the door had been.
 
-He left before philosophy answered, forearm clasp still warm. East was already a different country. The question he took north was unfinished on purpose: whose gate would still open when the Forum’s heat found a road. Smoke over the Tiber did not answer. It only dirtied the light toward gardens he could not hold.
+“I know what they will do. They have been here.” Decimus fastened the map case. “It is twelve days to Mutina with wagons. If I wait until the city is quiet, the road will be full of his veterans, and I shall not get there at all. I want to be behind that ditch before he has his letter from the Senate.”
 
-On the road north, while that smoke thinned behind him into other men’s problems, he sent one letter, to a man who owed Lepidus a favour, asking only for a safe night’s roof near Mutina’s approaches. Mutina, on the Via Aemilia, was the fortress he had built in his head a year ago, ditches and all. The Lepidus channel returned a messenger who wouldn’t meet his eyes, wouldn’t dismount long enough to take a second tablet back. Decimus folded the silence into the map-case hard enough that the wax edge bit his thumb. Nearer knives, he told himself, were still knives you could see. The will’s second line travelled with him like pitch he could not wipe.
+“I cannot call it wise.”
+
+“Don’t call it anything.”
+
+“You have never once kept the same hours as I do.”
+
+“I have kept yours for a month,” Decimus said. “Look at my house.”
+
+Brutus looked. He did not answer, and it was the right thing not to do. Decimus took his forearm and held it. He was a friend. He was the man who had stood at the other side of the chair. Already it was like taking the arm of somebody met on a journey.
+
+“Don’t wait in the city to be thanked, Marcus. Go while the gates still open for you.”
+
+He left by the back, as the household had.
+
+On the third day north he wrote to a man who owed Lepidus a favour, asking for one night’s roof near Mutina. The answer came back down the road on a horse. The rider would not look at him. He said that there was no reply, and that he was to say so, and he would not get down. Decimus had a second tablet ready and held it up to him. The man turned the horse.
+
+Decimus stood in the road with his arm out until they were round the bend. Then he put the tablet back in the case. There was a black thumbprint on the wax, and he looked at his palm.
 
 ---
 
 ## Continuity notes (SC-52)
-- **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Lepidus’s people will not take a reply tablet. The street misremembers Calpurnia’s dream (three versions). Property burns; which house is left generic.
+- **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Lepidus’s people will not take a reply tablet. The street has Calpurnia’s dream nearly whole within four days (one version: a friend laughed him out of staying). 2026-11-11 (voice pass): SC-52 rewritten in full from Decimus’s measuring eye; the “nearer knife” refrain is gone; he learns only now that the second-line rumour was true. Property burns; which house is left generic.
 - **Plants → pays:** Lepidus falls away (Ch 27, 31); the second heir. Plancus’s first letter cut 2026-11-07 (storyboard fix 9); Ch 27 introduces him.
 
 ---
@@ -142,34 +158,54 @@ Overhear risk: Companions (Agrippa orbit)
 
 ---
 
-The sea near Apollonia made its ordinary noises. Octavian liked ordinary noises. They told you when the wind would let a ship leave.
+They were going in to dinner when the man came up the steps.
 
-He was with men his age and men older who still called him by the soft names of kinship when they forgot to be careful. Agrippa listened more than he spoke. Octavian had stopped asking him to fill silences.
+Octavian knew him. He was one of his mother’s freedmen, who had carried her letters to Velitrae and to Spain, and he was grey to the knees with the road. He had come over from Brundisium on the first boat that would take him and up from the harbour on foot. He did not wait to be asked. He held out the letter and said it in the same breath, so that Octavian had the seal between his fingers when he heard.
 
-They had been going in to dinner when the man found them: a freedman with dust that didn’t match a calm road, and a letter’s weight in his manner even before the wax showed. Agrippa on one side; on the other Maecenas, a few years older, Etruscan money and too many books, still only the clever man who happened to be at the table. Companions enough that bad news had to choose a face.
+“Caesar is dead. In the Senate. They killed him in the Senate.”
 
-“Caesar,” the man said, and then the rest came broken. Knives. Senate. Pompey’s place. Brutus. Blood. The city upside down. A mother’s hand was in the urgency. Come home. She didn’t know what would happen next. There was smoke in the report, too: houses, Forum heat. Late, incomplete, the same dirty weather Italy was already breathing.
+Agrippa was on one side of him. On the other was Maecenas, a few years older, with Etruscan money and too many books, who had happened to be asked to dinner. Somebody behind them swore.
 
-Octavian felt the floor drop, the childish, humiliating sense that the adult arrangement of the world had been a prop. Then the colder part: who benefits, who moves, who lies in the first report.
+He broke the seal. He did it neatly, with the thumbnail under the edge, so that the wax could be used again; his mother had taught him that. It was her own hand and not a secretary’s. The lines sloped down to the right, which hers never did. *Killed in the Senate by Brutus and Cassius and the men with them.* She did not say how many men. *Come home. I do not know what will happen next.* It had no date. It said nothing of Antony, or of a will.
 
-“Names first,” he said. “Then places. Separate what you saw from what the road invented.”
+The floor was still there. He looked, to be sure.
 
-The courier tried again with a thinner story. Caesar dead. Liberators on a rock. Antony not clearly dead or alive in the first mouthful. No clean word of a will, only gardens and a boy muttered like prices without a seal. Smoke in Italy. A queen’s schedule unfinished in the same breath as the Forum’s heat. Road invention or not, Octavian thought, all of it was already on the same wind.
+He read it again for what was not in it.
 
-Agrippa’s jaw set. Someone cursed. Someone reached for Octavian’s shoulder as if touch could adopt him into safety. Octavian stood inside the silence, the curse, and the hand without choosing comfort.
+“When did you leave Rome?”
 
-Octavian didn’t shake the hand off. He also didn’t lean into it. He asked for ships, for letters, for which road still took a living messenger to Italy. His voice sounded stiff in his own ear, young. He hated that it sounded young. He did not reach for the old nickname anyone might offer. Hopeful shadows were for men who still thought inventory was a joke.
+“The same afternoon, sir. She wrote it standing up.”
 
-“We go when going is not suicide,” he said. “First we learn what name I still have, and whether gardens and a boy’s hours are already writing it without us.”
+“Then you do not know who holds the city.”
 
-He didn’t say *son*. The word sat unused behind his teeth: kinship soft, political poison until proven. He stood in Apollonia’s wind and practised breathing until breathing looked like command.
+“No, sir.”
 
-Behind his eyes, for one unguarded blink, he saw Caesar’s face as it had been in rarer kindnesses, and shut it away. Kindness wasn’t a plan; names came first.
+“Is the consul alive?”
+
+“I don’t know, sir.”
+
+“Who else was killed?”
+
+“I don’t know. There was shouting in the streets. People were running, they were putting up their shutters.” The man wet his lips. “I came the moment I had it in my hand.”
+
+Octavian heard himself then. It was the voice a magistrate used on a slave about a theft. The man had run the length of Italy and crossed in March to bring him this. He ought to say something. He looked for it, and what came out was, “See that he is fed,” to nobody, over his shoulder, and that was worse.
+
+A hand came down on his shoulder from behind. It was one of the older officers. He did not shake it off, and he did not lean into it, and after a while it went away.
+
+They went in, because the tables were laid. Nobody ate. Before the lamps were lit a tribune had come down from the camp to say that the legions in Macedonia were his if he wanted them, and half the room began to talk at once about ships.
+
+“We cross when we know which harbour is safe,” Octavian said. It came out stiff, and young, and he hated that it was young. “Not Brundisium. The garrison there may be theirs by now. Somewhere small. And with few.”
+
+Nobody called him anything. He noticed that. He noticed who looked at Agrippa before they answered.
+
+He found that he had folded the letter in half, and in half again, and again, until it was the size of a knucklebone and would fold no further. He put it down. He put both palms flat on the table on either side of it and kept them there. Agrippa reached across without a word and moved the lamp a little way down the board, so that his hands were out of the light.
+
+He thought, for no reason, of Spain. He had got there late and sick, after the battle, and had been asked whether the journey was bad. He had said, “No, sir.” It had been very bad. He wished now that he had told him so.
 
 ---
 
 ## Continuity notes (SC-54)
-- **Knows / learns:** news arrives late and incomplete; the will is not yet fully known. Octavian scared, learning, cold, not Augustus. Maecenas present; Agrippa light. He refuses a soft nickname (Ch 5 ban).
+- **Knows / learns:** news arrives late and incomplete; the will is not yet fully known. Octavian scared, learning, cold, not Augustus. Maecenas present; Agrippa light. Nobody calls him anything. 2026-11-11 (voice pass): SC-54 rewritten in full as the event (Atia’s freedman on the steps, her letter, his magistrate’s questions and the shame after, Agrippa moving the lamp, the tribune’s offer of the legions, “Not Brundisium”); ends on Caesar’s question in Spain (Ch 5).
 - **Must not:** no future-friend wink for Maecenas; no NOTE-1 echo here (Ch 15 only).
 
 ---
