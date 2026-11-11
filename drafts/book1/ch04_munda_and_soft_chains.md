@@ -14,7 +14,7 @@ Overhear risk: Contubernium gossip
 
 ---
 
-It had rained in the night and the ground had not finished with it. Laberius sat on his shield to keep his backside out of the wet and worked a piece of hardtack round to the side of his mouth that still had the teeth for it. They had come from Rome to the bottom of Spain in twenty-seven days. Somewhere about the twentieth he had stopped being able to feel the small toe of his left foot, and it had not come back.
+It had rained in the night and the ground had not finished with it. Laberius sat on his shield to keep his backside out of the wet and worked a piece of hardtack round to the side of his mouth that still had the teeth for it. Caesar had come from Rome to the bottom of Spain in twenty-seven days, men said. The legion had taken longer, and somewhere on that road he had stopped being able to feel the small toe of his left foot, and it had not come back.
 
 “Pompey’s dead,” said Gaius, on his left. He talked to keep his fingers warm. He had them tucked in his armpits and his chin down in his scarf. “Cato’s dead. Africa’s shut. And the two boys go and find the far end of the world to stand on, and every fool who’d sooner lose with a Pompey than live on a pardon goes and stands there with them. On a hill. Have you seen the hill?”
 

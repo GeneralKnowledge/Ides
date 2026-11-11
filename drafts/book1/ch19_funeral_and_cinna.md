@@ -76,7 +76,7 @@ Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell th
 
 Laberius closed his fist on air, not wood. “I came for Capua,” he said: the land that had never once come with a date, and had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius looked to see who took torches.
 
-Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, Domus-adjacent by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
+Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, one of Caesar’s household by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
 
 An older veteran, scar through the lip, no torch, caught Laberius’s sleeve once the surge thinned. “Capua had a date coming while he breathed,” the man said. “Now it’s only dirt. I’ll take the torch. A man has to do something with his hands.” Laberius did not argue with him.
 

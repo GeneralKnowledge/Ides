@@ -94,7 +94,7 @@ The clerk ran his thumb down a column, turned a leaf, ran it down again. “Labe
 
 “Twine,” Laberius said. “Still.”
 
-“The stones are a matter for after,” the clerk said, not unkindly. He had said it before that morning, many times. “The coin is now.” He wrote the day on a tablet, the fifth before the Ides of October, and Laberius’s name beside it, and pushed the tablet across for his mark.
+“The stones are a matter for after,” the clerk said, not unkindly. He had said it before that morning, many times. “The coin is now.” He wrote the day on a tablet, the seventh before the Kalends of November, and Laberius’s name beside it, and pushed the tablet across for his mark.
 
 Laberius looked at the date. He looked at the column where his name sat in someone else’s neat hand, his row of twine, the road, Munda. The boy had not bought his land; the clerk had said as much. But the boy’s people had gone into the dead man’s cupboards and come out with the rolls, and carried them down the Appian Way to a bridge on the Volturnus, so that a clerk with a cough could find a man’s twine with his thumb. Antony’s man in the spring had offered wine and a road. This one knew where the dirt was.
 
@@ -194,7 +194,7 @@ At mid-morning an envoy came anyway, cloak clean, smile practised, the sort of m
 
 “He will call it a swap,” the envoy went on, mild. “You will call it wisdom. The Senate will call it clarification, when clarification arrives.”
 
-Decimus knew the swap because it had been done to him while he was on the road, by an assembly full of Antony’s veterans. The Senate had never voted it back.
+Decimus knew the swap because it had been done to him in his absence, by an assembly full of Antony’s veterans. The Senate had never voted it back.
 
 “Tell him it is mine until the Senate says otherwise,” Decimus said. “Or until he brings enough men to take it.”
 

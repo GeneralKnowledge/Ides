@@ -45,7 +45,7 @@ Nysa’s arms tightened on the tablets. “A warning. Incomplete. Phileros would
 
 Calpurnia held the girl’s gaze until inventing an answer would have cost more than silence. She did not search the tunic. Searching would have made the lie into a trial, and the house already had enough theatre. “Then stay off omen theatre. If Phileros sells chickens as prophecy again, send him to me by name, not someone.”
 
-Phileros, still in the vestibule orbit, heard his name and looked insulted on cue. Calpurnia let it stand.
+Phileros, still hovering in the vestibule, heard his name and looked insulted on cue. Calpurnia let it stand.
 
 In the service court Dama swore the chickens were still sullen and that sullenness meant knives. A washerwoman from the next court leaned on the doorpost with Forum merchandise fresh that morning: Spurinna, beware, and a king-bird. “A wren,” she said. “The little one in the story that rode the eagle’s back and stole the crown. Flew into Pompey’s hall this morning with a sprig of laurel in its beak, and the other birds came after it and tore it to pieces on the step. Before the Senate even sat.” Pallas arrived with Calpurnia’s mantle. Dressing would not stop a morning.
 
@@ -164,7 +164,7 @@ Antony grinned. “If it’s market day, send a tribune. If it’s money, speak.
 
 “It’s a man in my debt who swears he has news from Gaul that won’t keep.” Trebonius’s hand on Antony’s elbow was friendly. Antony allowed himself to be steered a few paces into the portico’s shoulder, where the Senate’s murmur became a wall.
 
-“You have a man in my debt who has news from Gaul,” Antony said.
+“A man in your debt who has news from Gaul,” Antony said.
 
 “I have several. It is a great sorrow to me.”
 

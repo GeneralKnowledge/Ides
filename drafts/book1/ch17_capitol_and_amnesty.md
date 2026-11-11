@@ -29,7 +29,7 @@ Cassius did not choose between them yet. His eyes stayed on approaches. “Speak
 
 Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved.
 
-“We hold until the reports clarify,” Brutus said, public face, station calm. “Liberty does not run from its own Forum.”
+“We hold until the reports clarify,” Brutus said, in the voice he used from a tribunal. “Liberty does not run from its own Forum.”
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age.
 
@@ -86,7 +86,7 @@ Antony’s first clear desire was to kill everyone in a toga who had ever smiled
 
 His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped away from Pompey’s portico that morning in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
 
-Lepidus had a legion on the Tiber island, the only organised soldiers close to Rome. They could be in the Forum before dark. M. Pacuvius (scar through the eyebrow, Antony’s old donative contact) said as much, hopeful as a dog.
+Lepidus had a legion on the Tiber island, the only organised soldiers close to Rome. They could be in the Forum before dark. Pacuvius, who had carried Antony’s donatives to the legions before, said as much, hopeful as a dog.
 
 “Give the word,” Pacuvius said. “We take the Capitol before dark.”
 
