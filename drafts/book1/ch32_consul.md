@@ -198,29 +198,31 @@ Decimus watched from the bank of the ditch. He counted them as they went, from h
 
 That evening the camp was so quiet he could hear the river. He walked the lines alone with a lamp, past tents standing open with nobody in them, a pot still on a cold fire, a dice-board left in the middle of a game. At the end of the last row there was a horse-trough. He washed his hands in it, though there was nothing on them, and went back to the maps.
 
-Then he rode with dwindling staff into country that did not care who freed the Republic. Rain made the road a trough. An aide counted purses and got a number that made him quiet. Another asked whether they should wait for Cassius from the East.
+He left the next morning with what remained: the staff, and a guard of horse that was smaller by evening. He meant to go east under the mountains to Aquileia and then down to Brutus in Macedonia, where there were still legions. He had worked it out on the map before they started. So many days to the passes, so much grain, so many waterskins. It was the kind of sum he was good at.
 
-“If we wait here they will count us,” Decimus said. “We take the west fork before dark. The east ford is watched. I smelled horse-lines on the wind this morning.”
+Rain came on the first afternoon and did not stop. At a crossroads shrine someone had hung a wreath for the liberators, and the rain had taken the colour out of it. Decimus looked at it and rode on. At the halt he checked his horse’s mouth for sores and found none.
 
-At a crossroads shrine someone had left a cheap wreath for “the liberators.” Rain had ruined it. Decimus didn’t stop to fix it. He checked his horse’s mouth for sores and found none.
+They slept in a barn that smelled of wet hay. The older aide counted the purses by the last of the lamp and said the number, and then did not say anything else. Another asked whether they ought to wait for word from Brutus.
 
-They slept once in a barn that smelled of wet hay and someone else’s fear. In the dark Decimus thought, briefly, of Caesar’s atrium and the cheer he had worn on a March morning. He put the thought away the way he put away a broken strap: later, if later existed.
+“If we wait here they will count us,” Decimus said. “We take the west fork before dark. The east ford is watched.” He had smelled horse-lines on the wind that morning, and the wind had been from the east.
 
-On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search.
+In the dark he found himself in Caesar’s atrium on a March morning, holding out his hand. He put that away as he would have put away a broken strap, to be seen to later.
 
-Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly.
+On the second morning one man had gone for water and not come back. Decimus did not send after him. He counted the rest instead. Ten, and himself.
+
+Near a ford the map promised a man who could pass them toward the mountains. The man was three men with ordinary faces and a mule, and one of them smiled too quickly.
 
 “Cassius’s friends,” the aide said, low.
 
 “Or anybody’s price,” Decimus said.
 
-He still dismounted. Refusing the ford meant the open road behind, where Antony’s friends were thicker. He kept his hands visible, for appearance’s sake, even here.
+He got down all the same. Behind them was the open road, and Antony’s friends were thicker on it. He kept his hands where they could be seen.
 
-The man who came down to the water to meet them was a Gallic chief called Camelus, whose people Decimus had once paid in Caesar’s name for remounts. Camelus asked for his name. He already knew it. Decimus gave it because lying would have bought a few breaths instead of miles.
+The man who came down to the water to meet them was a Gallic chief called Camelus, whose people Decimus had once paid in Caesar’s name for remounts. He remembered the figure. Camelus asked his name, though he knew it. Decimus gave it. A lie would have bought him breaths, not miles.
 
 They kept him a night in a hut above the ford. In the morning a rider came up from the south, from Antony, and a purse changed hands: not his purse. Someone else’s coin for his head. He counted the pieces as they went from one hand to the other. He could not help it.
 
-There was no speech. He went for the horse. A hand caught his cloak. Mud took his knee at the ditch by the ford, shallow and ordinary: meltwater, a broken rein, the smell of wet wool. If he thought of Caesar’s laugh one last time, the thought stayed inside.
+There was no speech. He went for the horse. A hand caught his cloak, and he went down on one knee in the mud of the ditch by the ford: river water, a broken rein, the smell of wet wool.
 
 Camelus’s man struck once at the neck, and again.
 
