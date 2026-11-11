@@ -323,6 +323,9 @@
 
 // ---- The book --------------------------------------------------------------
 
+// Blank leaves before the half-title (the conventional flyleaf inside the
+// front endpaper). Each leaf is two pages, so the half-title stays a recto.
+#for _ in range(2 * meta.at("front_blank_leaves", default: 0)) { pagebreak() }
 #half-title()
 #title-page()
 #copyright-page()

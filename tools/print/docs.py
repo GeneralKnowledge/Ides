@@ -207,7 +207,7 @@ def spec(i: Info) -> str:
 {table(margin_rows)}
 == Signatures
 {table(sig_table(i), "(auto, auto, auto, auto, 1fr)", header=True)}
-Blank pad pages (if any) are added at the very end of the last signature; they sit after the historical note as the conventional blank leaves before the rear endpaper.
+Blank pages at the very end of the last signature sit after the back matter as the conventional blank leaves before the rear endpaper (at least `end_blank_pages_min` in `meta.json`, then enough to fill out the signature); `front_blank_leaves` blank leaves open the book before the half-title.
 
 == Estimates: not final
 #block(fill: luma(94%), inset: 8pt, radius: 2pt, width: 100%)[*These are estimates.* Paper caliper varies by brand and humidity, and sewing, gluing and pressing change the spine. Measure the actual sewn, glued and pressed text block before cutting boards or the spine stiffener; recompute with the formulas below.]
@@ -334,8 +334,11 @@ def fit_text(i: Info) -> str:
 def report(i: Info) -> str:
     lay = i.layout
     m = i.meta
+    decided_none = set(m.get("decided_none", []))
     missing = [k for k in ("copyright_line", "rights_statement", "publisher", "edition_statement", "isbn")
-               if not m.get(k)]
+               if not m.get(k) and k not in decided_none]
+    none_note = (f"Decided as none by the author (left off the page): {', '.join(sorted(decided_none))}."
+                 if decided_none else "")
     labels = {
         "copyright_line": "Copyright line (e.g. holder and year) for the copyright page",
         "rights_statement": "Rights statement (e.g. “All rights reserved”), if wanted",
@@ -386,12 +389,13 @@ Reported only; nothing was changed. Patterns searched: doubled words, double spa
 {listing(i.concerns, "None found.")}
 == Missing information for you to supply
 Edit `tools/print/meta.json` and rebuild. Nothing below was invented; the pages simply leave it out.
-{bullets([labels[k] for k in missing])}
-- No dedication, epigraph or acknowledgements exist in the manuscript, so none are set. Add them in `meta.json` if you want them (`dedication`, `epigraph`).
+{bullets([labels[k] for k in missing]) if missing else "Nothing outstanding."}
+
+{t(none_note)}
 
 == Decisions taken (all reversible)
 - *Title page:* “The Ides of March”, “Book 1” and “Reuben Dennison”, as on the existing DOCX reading copy.
-- *Copyright page:* carries only “Set in EB Garamond” and a line giving the manuscript revision the interior was set from, so a printed copy can be matched to the source. Set `show_revision_line` to false in `meta.json` to drop it.
+- *Copyright page:* {"the copyright, rights and edition lines from `meta.json`, then “Set in EB Garamond”" if m.get("copyright_line") else "carries only “Set in EB Garamond”"}{", and a line giving the manuscript revision the interior was set from (`show_revision_line`)" if m.get("show_revision_line") else ". The manuscript revision is not printed on the page (`show_revision_line` is false); it is recorded in this report, the specification, `spec.json` and `README.txt`"}.
 - *Contents:* included; the book has five acts and 37 titled chapters, which a reader of a book this long will use.
 - *Scene titles:* the manuscript titles every scene as a working label; since 2026-11-03 (Gate 3 reader 1) the reader sees only an unnamed break, in the print interior and the DOCX alike.
 - *Act pages:* one recto per act, as in the DOCX reading copy.

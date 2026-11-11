@@ -1,15 +1,24 @@
 {
-  "_comment": "Bibliographic details for the print interior. Fill in null fields when known; null fields are left off the page and listed as missing in the proofing report. Do not guess.",
+  "_comment": "Bibliographic details for the print interior. Null fields are left off the page. A null field listed in decided_none was decided as 'none' by the author and is not reported as missing; any other null field is listed as missing in the proofing report. Do not guess.",
   "title": "The Ides of March",
   "volume": "Book 1",
   "author": "Reuben Dennison",
-  "copyright_line": null,
-  "rights_statement": null,
+  "copyright_line": "Copyright © 2026 Reuben Dennison",
+  "rights_statement": "All rights reserved.",
   "publisher": null,
-  "edition_statement": null,
+  "edition_statement": "First edition, privately printed, 2026",
   "isbn": null,
   "dedication": null,
   "epigraph": null,
   "acknowledgements": null,
-  "show_revision_line": true
+  "show_revision_line": false,
+  "decided_none": [
+    "publisher",
+    "isbn",
+    "dedication",
+    "epigraph",
+    "acknowledgements"
+  ],
+  "front_blank_leaves": 1,
+  "end_blank_pages_min": 4
 }
