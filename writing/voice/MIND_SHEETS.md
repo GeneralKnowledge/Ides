@@ -1,11 +1,19 @@
 # Mind sheets — Book 1
 
-**Status:** Draft for the three-scene pilot, 2026-11-11. Descriptive, not prescriptive.
+**Status:** In use for the full-book voice pass, 2026-11-11 (the three-scene pilot was accepted). Descriptive, not prescriptive.
 **Why:** An outside reader of Ch 1–6 found that the viewpoint characters have different vocabularies but one way of thinking: each sees a thing, sorts it and states what it means. [`POV_DICTION.md`](POV_DICTION.md) lists what each person says. These sheets describe how each person’s attention works, so that a scene can be told from inside one particular head.
 
 **How to use them.** Read the sheet before writing or revising a scene, then put it away. Nothing here is a rule or a ban. People generalise; the sheets say when this person does and where the thought comes from. If a sentence could be moved into another character’s scene without anyone noticing, it probably belongs to the author and not to the character.
 
-**Two tests for any scene** (from the outside reader, 2026-11-11):
+**Three tests for a rewrite** (Reuben, 2026-11-11, after the pilot). A rewrite is not judged by whether it resembles the pilot scenes.
+
+1. **Action.** What actually happens in this scene, and what changes because of it?
+2. **Point of view.** What would this particular person notice, misunderstand, conceal or care about?
+3. **Explanation.** Is the narration telling the reader something the scene has already shown?
+
+The Nysa scene in Ch 2 is the benchmark for one thing only: whether a rewrite has moved the reader closer to the character. It is not a pattern for sentence shape or for length. No kind of line is banned. Hordeonius keeps his memorable lines and Cicero stays eloquent. The question is whether the line is this person’s, said to someone, with a consequence. Characters should not be made less articulate. They should be given more to do, more to conceal, and people on whom their words have an effect. A homely comparison from a character’s own world (Nysa’s big jar going over) works because it is rare.
+
+**Two tests for a scene’s ending** (from the outside reader, 2026-11-11):
 
 1. Take away the last sentence. Does the scene lose anything it needs? If not, the sentence may be an explanation.
 2. End on the physical action instead. What does the reader understand without being told?

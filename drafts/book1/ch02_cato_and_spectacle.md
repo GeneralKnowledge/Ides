@@ -82,78 +82,127 @@ By afternoon the stalls were still selling triumph weather: which streets had ch
 POV: F1 Nysa · Sacra Via / Domus Publica orbit · FS10
 Date / place: Late 46 · street past the Domus Publica (spectacle residue / land hangover)
 Canon refs: FS10 · household INF
-Info ENTER: Household prep · EXIT: Chooses what to report upstairs; land spit withheld
+Info ENTER: Oil errand and the count on the steps · EXIT: Reports the count and the objects; gives “elephants” for the street talk; the land grievance and Sosia’s name withheld
 Overhear risk: Extreme street
 **G1:** Second POV: collides with F4’s unfinished question (closed Africa → what victory costs on the street / at the house)
 
 ---
 
-Nysa carried bundles through a city that had not finished being drunk on spectacle.
+The oil-seller in the Velabrum tried the short measure on her, and she made him pour it again.
 
-Captives, gold and painted lies on wagons. Four triumphs in one month: Gaul, Egypt, Pontus, Africa. Rome had swallowed Caesar’s whole war in four courses, and Africa had been the last, and the taste was still on the street. Phileros had sent her for oil and eyes: watch who lingered near the Domus Publica’s public smile, count which clients arrived early to borrow the house’s favour. She understood tasks. She didn’t understand why men needed wagons to prove they had already won.
+He did it with his thumb. She had watched him do it to the woman in front, the thumb hooked inside the rim of the dipper where a thumb’s worth of oil should have been, and the woman had not cared. The woman had four jars and a porter to carry them, and she told the porter *the gardens* in a Greek that Nysa had to hear twice before it was Greek. When her own turn came Nysa held the jar back and looked at the thumb until he took it out. He said something about Greeks. She paid him the price Phileros had given her and not the price he asked, and walked off with the big jar on her left hip and the small one in the crook of her right arm, and was pleased with herself for about forty paces, until the weight started.
 
-A veteran along the route spat about land still promised. His spit hit stone and stayed. “They cheer the gold,” he told nobody and everybody. “Gold doesn’t plough.”
+There had been four triumphs in the one month, Gaul and Egypt and Pontus and Africa, and it was long enough since the last of them that the garlands had gone brown on the doorposts. One stand of benches on the Sacra Via had still not been taken down. Boys had got in underneath it. She could hear them.
 
-Nysa kept the spit with the cheers. Cheers were loud. Spit lasted.
+Phileros had given her two errands and called them one. She was to fetch the oil, and then come back by the front steps. *Count who is waiting before the second hour. Don’t try for names, you won’t know the names. Count, and look what they have in their hands.* He had said it twice, because he had been drinking, and he had kept hold of the door key the whole time he said it.
 
-“Africa’s triumph was for the king,” said a second veteran, younger, to the first. “Juba. You can’t triumph over Romans. Bad manners.”
+She did not know what the count was for. She knew it would be asked for.
 
-“Then who were the wagons for?”
+Two old soldiers were sitting on the bottom bench of the stand with a loaf between them. The older had one foot bound in rag. He spat as she came level, and it landed a hand’s width from her sandal.
 
-“Pictures of Romans. Who happened to be dead. Of their own free will.”
+“Not at you,” he said.
 
-A painted board had gone by showing Cato at the end. The street had groaned. Nysa did not know whether groaning was allowed. She kept it with the spit.
+She had not thought it was.
 
-Children screamed at elephants, or at the idea of elephants that had already passed. A woman in the crowd named a captive wrongly and was corrected with pride. Nysa kept both wrong names. Wrong names were how the street remembered.
+“Gold,” he said to the other one. “Wagons of it, four days running. You can’t plough gold.”
 
-Near the Domus steps a banker-looking man paused: ring, stylus, onion-and-money face. He watched the street the way a rate sheet watches numbers. Nysa did not know his name. She knew the look. Men who priced marble before it cooled. Phileros had warned her that such men sometimes bought household gossip by the cup. She kept her face blank and her oil upright.
+“You can’t plough. Your father sold fish.”
 
-The clerk at his elbow drifted over, palm open, two copper coins showing. “Oil jars are heavy. Gossip is light. I trade in light things.”
+“I’d learn.”
 
-Nysa shifted the jar on her hip. “I carry oil.”
+The younger one tore the loaf. “The last day wasn’t ours anyway. Africa was for the king. Juba. You don’t triumph over Romans.”
 
-“Everyone carries something. Whose oil?”
+“Then who was that on the boards?”
 
-“The kind that’s paid for.”
+“Romans.” He chewed. “Dead ones. It’s allowed if they did it themselves.”
 
-The clerk smiled, unoffended, and pocketed the coins. “Good answer. It will cost someone else more.”
+Nysa had seen the boards. Phileros had let the kitchen stand at the street door for the last day, and the painted panels had come past on carts, taller than the door: a man going into the sea, a man on a sword, and a man on a bed with a book by him and his belly open under his own hands. The street had made a sound at that one. It was low, and it came from everywhere, like the sound a household makes when the big jar goes over. She had not known who the man was. She had looked at Phileros to see whether the sound was allowed, and Phileros had been looking at his feet.
 
-Caesar passed at the edge of sight. Or a litter that might as well have been him. She saw only enough to know the house she served was tied to this noise. He didn’t look at her. She preferred it. Looking made you responsible for what you saw.
+There were five on the steps. She counted them in Greek, which was quicker, moving her thumb along her fingers under the small jar. Two had slaves with covered baskets. One had a boy with a writing case. Two had nothing in their hands at all and stood a little apart from each other in very clean togas, not talking, and one of those had a boil on his neck that he kept finding with his fingers.
 
-The younger veteran and the older one went back to arguing about colonies and whether Africa’s corpse meant Italy’s farms.
+At the foot of the steps, not on them, a heavy man in a good cloak was watching the door too. He had a ring, and ink on the first two fingers of his right hand, and he was not looking at the men who were waiting. He looked at each one who came out. A thinner man stood at his elbow with a satchel, and it was the thinner man who came across to her.
 
-“Which farms?” the older one said. “Every field in Italy already has a man standing on it.”
+“That’s heavy,” he said. “Where is it going? I’ll take the big one.”
 
-“Then they will have to move him.”
+“I have it.”
 
-“You go and ask him.”
+“You have it on one hip and you’re walking like a duck. Give it here.”
 
-Neither had a farm. Both had scars. The younger one glanced at her oil jars, then at the spit still drying on the stone, and shut his mouth.
+She did not give it. He walked beside her anyway, and when they were past the last man on the steps he opened his hand low down, by his belt. There were two coppers in it.
 
-Nysa walked between their voices and did not answer. Answering was how errands became politics. Politics was how basins got dropped.
+“How many went in this morning? I don’t want names.”
 
-Back inside she set down the oil. Dama waited with the inventory face. Phileros would want eyes: who lingered, which clients came early, what the street was selling.
+Nobody wanted names today.
 
-“Early clients?” Dama said, not looking up.
+“I went for oil,” she said.
 
-“Three at the Domus smile before the second hour. Two of them carrying nothing.”
+“I can see that.”
 
-“A man who carries nothing wants to be seen carrying nothing. Anyone else?”
+“So I wasn’t here.”
 
-“A banker by the steps. His clerk offered me coppers.”
+He thought about it, and then he laughed and shut his hand. “Tomorrow, then. Same steps. Ask for Sosia.” He went back to the heavy man, who had not looked round once.
+
+Two coppers was a sandal strap. She had been walking on a knotted one since the Kalends.
+
+The street changed before she reached the corner. Men with rods came down it two by two, and people went to the walls. She put her back against the end of the bench stand and held the big jar with both arms. She saw the rods, and the bearers’ legs, and a curtain that stayed shut, and then it was past. The two old soldiers had got up for it. They stood until it had gone by, the older one square on his bad foot, with their hands at their sides. Then they sat down again, and he went on from where he had stopped.
+
+“Italy land. He said it. Not some marsh in Africa.”
+
+“Which land in Italy? There’s a man standing in every field of it.”
+
+“Then they’ll move him.”
+
+“You go and ask him. On that foot.”
+
+The younger one saw her listening. “What about you, oil? Would you move, if they asked you?”
+
+She did not know what he was asking her. “I live here,” she said, and tipped her head at the house.
+
+They both looked at the house, and at the steps, and then at each other. The older one said, “Hercules,” quite quietly, and picked up what was left of the loaf, and neither of them said anything more while she could hear.
+
+She went round to the side door.
+
+Dama was on the flour bin. He was eleven, and when Phileros slept in the mornings Dama heard the errands for him and carried them through, and he did it with his hands on his knees.
+
+“Before the second hour?”
+
+“Five.”
+
+“Hands?”
+
+“Two with baskets. One with a boy and a writing case. Two with nothing.”
+
+“Nothing at all?”
+
+“Clean togas. They weren’t talking to each other.”
+
+Dama nodded as though that told him something. She did not think it did.
+
+“There was a man at the bottom of the steps who watched who came out. His clerk showed me two coppers.”
 
 “Did you take them?”
 
-“I am not stupid.”
+“I’m not stupid.”
 
-“Everyone is stupid for two coppers. That is why it is two.”
+“Phileros says everyone is stupid for two coppers. He says that’s why it’s two.” He slid down off the bin. “And talk? What were they saying in the street? He’ll ask.”
 
-She reported the early clients at the Domus smile, and the banker by the steps. She did not report the land spit. Carrying it upstairs made her the girl who brought politics in with the jars. Across the river, Phileros had muttered, a foreign household was learning Roman hours. She left that unsaid too. None of her oil. Parade noise still pressed the walls.
+The spit had landed a hand’s width from her sandal. *There’s a man standing in every field of it.*
+
+Chreste had slept where Nysa slept now. In the spring Chreste had brought home what a fishmonger said about the master’s debts, word for word, because it was funny, and she had been thanked for it. Then Phileros had asked her which fishmonger. The steward had asked her which stall, and who else was buying, and whether anyone had laughed, and whether she had. She had gone to the farm at Labici before the month was out. Nobody had laid a hand on her. Nysa had her blanket.
+
+“Elephants,” Nysa said.
+
+“Elephants?”
+
+“There were boys under the benches. They missed the elephants, so they were being them.”
+
+Dama waited for the rest. When there was no more he went to tell Phileros about elephants. Nysa lifted the big jar on to the shelf beside the others, sat down on the flour bin, and undid the knot in her strap to see whether there was enough of it left to tie again.
 
 ---
 
 ## Continuity
 - **Knows / learns:** late 46, after the Ch 1 dinner (not a spring flashback). Thapsus, Utica and Cato are learned in street talk; the four triumphs, Juba, the painted Cato, the colonies promise; Africa is “closed enough”. Queen and Transtiberim talk stays withheld rumour.
-- **Cast:** Hordeonius, Sosia (he), Nysa, Dama.
+- **Cast:** Hordeonius, Sosia (he), Nysa, Dama (eleven; hears errands for Phileros). Off page: Phileros, and Chreste, who slept where Nysa sleeps and was sent to the farm at Labici for repeating a fishmonger’s joke.
 - **Plants → pays:** Sosia’s stitch odds pay Ch 1 Tettius and the physician; a veteran’s spit seeds land hunger (FS10); Hordeonius’s wax “new ring: rate held / unpaid” carries into Ch 3.
+- **Decisions:** SC-02 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). Nysa counts five on the steps, does not know the man on the painted board, and meets Sosia (two coppers refused, “Ask for Sosia”). The queen’s household is only a woman buying oil for “the gardens”.
 - **Must not:** no Cleopatra POV; the Domus Publica glossed once only.

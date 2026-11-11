@@ -94,47 +94,105 @@ Overhear risk: Elite medium
 
 In a Tusculum doorway that smelled of wet stone and other men’s wine, *dictator perpetuo* landed like a joke told by men with swords.
 
-Cicero heard it and felt his face arrange itself into the old accommodation smile before his mind finished objecting. The mind objected in history, because that was where it lived. Six months: that was a dictator, once. A man the Republic hired in an emergency, handed every power, and thanked when he had put the fire out and gone home. Sulla had broken the habit. Caesar had stretched it, a year here, ten years there, and now some obliging senator had drafted the last clause: not for the crisis, but for good. The couriers had carried it up to Tusculum’s summer villas with the morning bread.
+It had rained on the hill for a week, and two neighbours brought the news up from Rome on foot, because no litter could take the path in that mud. They stood on Cicero’s threshold shaking the water off themselves while a slave went for wine. One was a fishpond man from the big villa above the road, who had done well out of every government since Sulla’s. The other had been praetor in a quiet year and lived below, and he kept looking back down the path. The fishpond man had brought his secretary to carry the cloaks.
 
-A colleague clapped as if forever were a festival. Another muttered *king* and then swallowed the word with wine. Somewhere behind them a clerk repeated the title carefully, practising the new mouth-shape of power.
+“You’ve heard,” said the fishpond man.
 
-“Say it again,” the clapper urged the clerk, cheerful. “If we practise forever, it becomes manners.”
+“I have heard nothing since the Kalends but my own roof.”
 
-“Manners,” the wine-mutterer said, “are what we call fear when it has learned Latin.”
+“Then hear this. They have voted him dictator again.” He let it stand, enjoying it. “*Perpetuo.*”
 
-“You are very brave in a doorway.”
+Cicero felt his face do it before he had told it to. The mouth went up at the corners and stayed there. It had been doing that for three years, in doorways and at dinners, and once, to his shame, alone, over a letter. Behind it the rest of him went where it always went, which was into the past. Six months: that had been a dictator, when Rome still made them properly, a man hired for one fire and handed every power in the state and thanked when he gave them back. Sulla had kept his until he was bored. Caesar had taken a year, and then ten years, the way a guest takes a second cup and then the jug. Now some obliging colleague had stood up in the Senate and found the one word that was left.
 
-“I am very brave in a doorway with a wall behind me.”
+“For life,” said the former praetor. “That is what it means. I asked.”
 
-“He has the wall and Cicero has the doorway,” said the clapper, “and between them they have a Republic.”
+“It means for good,” the fishpond man said cheerfully. He turned to the secretary. “Say it.” The secretary said it. “Again. You’ll be writing it on everything by the end of the month, we may as well all learn the shape of it. If we practise, it becomes manners.”
 
-Nobody laughed at that, which was the first honest thing anyone had said all morning.
+“Manners,” the former praetor said, “are what we call fear when it has learned Latin.”
 
-Cicero’s smile held. Holding was his craft. He had spent the last three years learning what the best speaker in Rome was worth when the only audience that mattered had stopped needing speeches. Caesar had pardoned him with a courtesy that left no mark and no way to answer it. In private he dissected: *forever* was what kings borrowed from temples, not a republican word. In public he complied, spoke carefully, saved his knives for wax and for Atticus, who had been reading the sentences Cicero could not say aloud for thirty years. He drafted a sentence about the city’s appetite for extraordinary medicine, then softened it until it could travel without getting him killed by courtesy.
+Nobody said anything. The secretary looked at the floor.
 
-He imagined Atticus reading the softened sentence and understanding the blade underneath. Friendship as cipher: the only legion he trusted. Formal office without steel still let him shape periods. Periods did not shape legions. He knew the difference. He hated knowing it in a doorway while lesser men clapped.
+“What was that?”
 
-The clerk tried the title once more, almost proud. The wine-mutterer asked whether *perpetuo* meant Parthia would wait forever or whether forever meant Parthia had to start now. Someone laughed as if logistics were wit. Cicero set the laugh beside the title. Forever, treated as a departure date, was still a clock.
+“Nothing.” The former praetor drank. He had gone a bad colour. “It is the wine. I said nothing, Marcus. You heard me say nothing.”
 
-He drafted a letter that recorded his disgust in a period Atticus would admire, then sanded the tablet and wrote the congratulatory note the hour actually required. When both were sealed he touched the disgusted draft once, still warm, and left it unsent in the drawer.
+“I heard nothing at all,” said Cicero, and smiled at him, and saw the man’s shoulders come down.
 
-A courier from Hirtius’s orbit arrived as the seals cooled. Cicero had once fed Hirtius at his own table and corrected his speeches over the fish; Caesar had since promised his officer a consulship. Cicero liked to think the one had helped with the other. The courier carried nothing urgent enough to be honest, only a question whether Cicero had “heard the eastern packing talk” and whether forever made the East safer or hungrier. Cicero gave the courier a softened sentence and no body, accommodation still arranged on his mouth.
+It was the best sentence anyone had made in his house that month. It had not been his, and he could not write it down.
 
-“Tell Hirtius,” said Cicero, “that I am delighted by both.”
+“And Parthia?” the former praetor asked, too quickly. “Does it change Parthia? If he is, if it is permanent, does he still go?”
 
-“Both?”
+“He goes in the spring,” said the fishpond man. “Sixteen legions. My nephew is buying mules for it. You cannot get a mule in Latium.”
 
-“Forever and Parthia. He will know which is which.”
+“For how long?”
 
-When the courier’s sandals had left the atrium stone, Cicero’s smile dropped for Tiro alone. Tiro’s stylus was already moving in the hooked shorthand he had invented to keep up with that mouth. He had been freed years ago. He had never stopped. “They clap forever into manners and ask me to sand the blade out of the letter. When Parthia packs, those same mouths will call the packing ordinary weather and ask for periods again.”
+“Three years. That is what Balbus tells people. Three years, and home the long way, through Scythia and the Germans.”
 
-Tiro did not laugh. He sanded. That was how you survived a master’s private complaint without becoming its audience in the street.
+They stayed until the rain slackened, which it did not do for some time, and talked about mules.
 
-“You are not going to ask what I think?” Cicero said, after a while.
+When they had gone Cicero went in to the table, where Tiro had the tablets out.
 
-“I have it already, master. It is in the drawer.”
+“To Atticus,” he said, and walked while he said it. He gave Atticus the whole morning: the mud, the fishpond man’s boots, the secretary made to recite. He gave him *perpetuo*, and what the word had been used for before this, which was vows and Vesta’s fire, and what it would be used for now. It ran to three periods and the third was very good. Tiro’s hand kept up with him in the hooked shorthand he had invented for the purpose; he had been freed years ago and had not slowed. Thirty years of Cicero’s real opinions had gone to Atticus this way, and Atticus had kept every one and shown them to nobody.
 
-Cicero looked at him a moment longer than the joke deserved.
+“Read me the third.”
+
+Tiro read him the third.
+
+“Yes,” said Cicero. He stood a moment longer with it. “Put that one in the drawer. Now. To Caesar.”
+
+Tiro took a clean tablet and waited.
+
+“*That the gods*,” Cicero said, and stopped. “*That the immortal gods and your own*,” and stopped again.
+
+“We used the gods and his own virtue for the third consulship, master,” Tiro said. “And again for the ten years.”
+
+“Did we?”
+
+“I have the copies.”
+
+“Then he has had the gods.” Cicero walked to the window and back. “Find me something he has not had. No. Give me Rome. *That Rome, which you have so often preserved, should now be assured of her preserver.*” He listened to it. It was not good. It was servile and it scanned, and it would do. Three years ago a sentence like that would have been wanted aloud, on his feet, before the whole Senate. Now it was wanted on a tablet, under his seal, for a secretary to put with the others.
+
+They had it sealed when the man from Hirtius came. Cicero had taught Hirtius to declaim, over a good many dinners; Caesar had since promised Hirtius a consulship, and Cicero liked to think the one had helped with the other. The man had a note that said nothing and a question that was not in it. Had Cicero heard the eastern talk, and what did he make of it, the title and the expedition both?
+
+“Tell Hirtius I am delighted by both.”
+
+“Both, master?”
+
+“The title and the expedition. He will know which is which.”
+
+The man moved his lips. “Delighted by both. He will know which is which.”
+
+“No. You don’t say that part. He will simply know.”
+
+“I’m to say he will know?”
+
+“You are to say *delighted by both* and then stop talking.”
+
+“Delighted by both.” The man looked unhappy. “And if he asks me which is which?”
+
+“Then he is not the man I taught,” said Cicero, and had him given something hot in the kitchen before the hill.
+
+When the man had gone he found that he felt better than he had all morning, and it took him a moment to see why.
+
+“Three years, Tiro.”
+
+“Master?”
+
+“It is three years to the Euphrates and back. If he comes back. Crassus did not, and Crassus had a quieter mind.” He sat down at last. “He may call it what he likes. He will be spending it in a tent on the far side of Syria, and the rest of us will be here, with the calendar. One can wait three years. I have outlived a dictator before.”
+
+Tiro did not say anything. He was squaring the tablets.
+
+“You are not going to ask me what I think of it all?”
+
+“I have that already, master. It is in the drawer.”
+
+Cicero laughed, which he had not expected to do that day. “Then lock the drawer.”
+
+“It doesn’t lock. You had the lock off in December, looking for the *Hortensius*.”
+
+“Then put something on top of it.”
+
+Tiro put the file copy of the letter to Caesar on top of it, and shut the drawer, and went to see about the roof.
 
 ---
 
@@ -150,35 +208,62 @@ Overhear risk: Medium
 
 ---
 
-“They have sold years in advance,” Hordeonius said, scandalised on behalf of ready coin. “Consulships sold forward, like olives still on the tree. A Republic should keep some offices for the living to bid on. Otherwise we are only clerks to a dead calendar.”
+“They have sold years in advance,” Hordeonius said, scandalised on behalf of ready coin.
 
-“Two a year,” a young senator’s agent muttered. “My master’s father stood for it three times and bought half the Velabrum doing it. Now he names them two years ahead because he will be in Parthia at election time, and we are to cheer the list.” He held up a tablet with the names already on it, passed hand to hand round the Forum like a price list for a game nobody had been invited to play. “It is not fair.”
+He had the list in front of him. Everyone in the Forum had it by now, copied small on a single leaf: the consuls for this year, and for next year, and for the year after that, named and settled, because the man who named them would be in Parthia when the elections fell due and did not mean to leave them lying about. Hordeonius had read it through twice, as he read anything with a term on it.
 
-Hordeonius heard politics and priced it. Sosia sniffed. Fairness smelled wrong to him.
+The young man across the board had not come about the list. He had come about a loan. He was agent to a senator who had borrowed four hundred thousand in the autumn, at one in the hundred a month, to stand for the consulship of the year after next.
 
-“Fairness,” said Sosia, “is what men call it when they are not on the list.”
+“It was borrowed to stand,” the young man said. “You knew that. You wrote it on the tablet yourself, *in the matter of the candidacy*. There is no candidacy. He has given it to Plancus and the other Brutus.”
 
-“And the list is very short,” said the agent.
+“It was borrowed,” Hordeonius agreed. “It falls on the Kalends of March.”
 
-“The list is always short. That is why it is a list.”
+“You are not listening. My master’s father stood three times. He bought half the Velabrum doing it, and lost twice, and he never once complained, because he could stand again. That is the whole, that is what it is *for*. You lay it out, and the tribes take it, and you have your chance. Now there is a list.” He hit the leaf with the backs of his fingers. “It is not fair.”
 
-“Late,” Hordeonius said, already reaching for the next tablet. “You want seats near the auction after the years are sold. I charge for that. Not for the sermon.”
+Sosia was on his stool behind the strongbox with his dinner in his lap. “Fairness is what men call it when they are not on the list.”
 
-A client repeated *dead calendar* with the pleasure of a man borrowing a blade. Another asked whether years sold forward meant bribes should be paid early. Hordeonius entered a number and waved the man on. Stopping other men’s metaphors was unpaid labour. Charging for them was craft. Listeners still left carrying a grievance into darker rooms. That was their business.
+“Sosia,” said Hordeonius.
 
-“And the East?” the young agent pressed. “I hear the Domus is packing crates like a clock. Maps, boots, grain for ships, months away treated as a neighbour’s farm. If forever has a title, does Parthia get a departure date?”
+“Chrysippus,” said Sosia, with his mouth full. “More or less.”
 
-Sosia grunted. “Crates don’t vote. Men with unpaid offices do.”
+Hordeonius turned the tablet round so that the young man could read his own master’s seal. He did it gently. He felt for the boy, and he felt for the father more.
 
-Hordeonius entered *Parthia: packing noise* beside *offices: closed forward*. He had not seen the Domus service rooms. He did not need to. Packing talk reached stalls faster than straps found themselves. A house aiming at a horizon with a name was a rate change in laundry’s clothes.
+“Thirty years I have lent for elections,” he said. “It is honest paper. A man borrows, he lays it out among the tribes, he wins or he loses, and either way he pays, because he will want to borrow again. I have buried clients who paid me out of the province they were robbing to do it, and I spoke well of them at the pyre.” His voice had gone thick. “I did not make this list. He has sold the consulships forward like olives on the tree and left the rest of us clerks to a dead calendar, and I think it a wicked thing to do to a market. But I lent on a seal. I did not lend on an election. The seal is here.”
 
-He felt the market’s mood thicken. Thick markets made people invent virtues, and virtues priced wrongly became recruitment talk before anyone admitted the word.
+“Dead calendar,” said a man at the next board, who had been listening without shame. He said it again to himself, more quietly, to keep it.
 
-The young agent folded his tablet of names into his sleeve and went off toward the baths, where men who were not on the list had begun to meet in the side rooms. Hordeonius marked him for interest, not for liberty.
+“So you will call it,” the young man said.
+
+“On the Kalends.”
+
+“He cannot pay it. It is laid out. It is in four hundred hands in thirty-five tribes. You cannot ask a tribe for its dinner back.”
+
+“No,” said Hordeonius, with real regret. “You cannot.” He let the boy stand in that. Then he moved the list aside and drew the wax to him and began on what he had meant to do from the start. “Two months more. Not at the one. At the one and a half, and I will have his father’s row in the Velabrum written under it. The four shops on the corner, not the back ones. He may send his own man to look at the wording.”
+
+The young man looked at the wax for some time. “I will have to ask him.”
+
+“Ask him today.”
+
+“He will be gone by spring, you know. Caesar. Three years, they say, and that list standing the whole time, and nobody in Rome to take it to.”
+
+“Leather is up a third,” Sosia said, to nobody. “Balbus’s people have bought every strap in the Argiletum. They are loading that house like a ship.”
+
+Hordeonius wrote *leather* on his own tablet, under *offices*.
+
+The young man put his copy of the list in his sleeve and went. He did not go toward the Argiletum and his master’s house. He went along the front of the basilica toward the baths. Two men got up from the next board, left their own business lying open on it, and went the same way without hurrying. One of them was the man who had liked the phrase.
+
+Hordeonius watched all three as far as the corner.
+
+“Find out who the other two are,” he said.
+
+“Why?”
+
+“Because they are going to want money. Men with a grievance always do, and three of them together are a better risk than one.” He wiped his fingers on the cloth, and under *leather* he wrote *the list: enquiries*, and felt, for the first time that day, that some good might come of it.
 
 ---
 
 ## Continuity
-- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (clapper, mutterer, clerk). Cicero: disgust and compliance, then a private word to Tiro. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. The gardens-across-the-river chorus was cut 2026-10-24; CLEO-1 rumour enters later.
+- **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (the fishpond man, the former praetor, the secretary made to recite). Cicero: the real opinion goes to Atticus and into the drawer, the compliment goes to Caesar, and he takes comfort in three years of Parthia. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. The gardens-across-the-river chorus was cut 2026-10-24; CLEO-1 rumour enters later.
 - **Plants → pays:** SC-11b (added 2026-10-24): Brutus gets the city praetorship over Cassius (“the juster claim”), paid in Ch 7 SC-15 and recalled at the Curia (Ch 16); the hand on the shoulder. Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
+- **Decisions:** SC-12 and SC-14 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). SC-14 names the consuls designated for 42 (Plancus and Decimus Brutus) and turns on one loan: 400,000 at one per cent a month, extended two months at one and a half against four shops in the Velabrum. Two men follow the agent toward the baths.
 - **Must not:** three POVs only (Brutus, Cicero, Hordeonius). CLEO-1 held. Caesar’s “this poor body” line is spoken once, here.

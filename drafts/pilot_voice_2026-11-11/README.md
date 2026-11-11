@@ -10,7 +10,7 @@ An outside reader of Ch 1–6 found that the narration sees a thing and then say
 | `sc12_cicero_forever.md` | Ch 6, SC-12 | Can talk and narration stop making the same point several times? |
 | `sc14_hordeonius_closed_market.md` | Ch 6, SC-14 | Can a witty character stay himself without a maxim in every paragraph? |
 
-**The book is not changed.** `drafts/book1/` and the tracked DOCX are as on main (225cefa). If the pilot is accepted, the scenes are spliced into their chapters, the chapter notes are updated as each file’s Notes section says, and the DOCX is regenerated.
+**Result (2026-11-11): accepted.** Reuben and the outside reader preferred the rewrite in all three scenes, read blind, and judged the extra length earned. The three scenes are now in `drafts/book1/` (Ch 2 SC-02, Ch 6 SC-12 and SC-14) and the DOCX is regenerated. The originals are in git history (main at 225cefa). The files here are kept as the record of the pilot.
 
 **How it is judged.** A reading copy with both versions of each scene, unlabelled and in mixed order, is in the project files (`exports_2026-11-11_voice_pilot/`), with a separate key. The question is whether the scene feels more like something happening to people. Fewer quotable lines is not the measure.
 
