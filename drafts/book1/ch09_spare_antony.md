@@ -130,7 +130,7 @@ Cassius walked half a step ahead, then without turning: “I got a living consul
 
 Nobody congratulated anybody. A man was coming up the lane with a handcart, and Cassius said, for him, that it would rain tomorrow.
 
-Where the lane met the street Decimus stopped at the fountain and washed his hands, though there was nothing on them yet. Brutus watched him do it and said nothing.
+Where the lane met the street Decimus stopped at the fountain and washed his hands. Brutus watched him do it and said nothing.
 
 ---
 

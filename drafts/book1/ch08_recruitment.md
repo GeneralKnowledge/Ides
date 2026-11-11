@@ -52,8 +52,6 @@ Cassius named two other doors Galba might tap, and did not name the full list. H
 
 When Galba reached the street, Cassius found that his hands wanted something to do, and that the back of his neck was wet. He knew what it was. Epicurus had a name for it, a disturbance of the soul, and a cure: look at the fear plainly, see that it is about something that has not happened, and let it go, as a man sets down a weight he has been carrying for no reason. He looked at it plainly. It was about something that had not happened. He did not let it go. He had a use for it.
 
-Then he finally drank. The wine was ordinary. That pleased him.
-
 ---
 
 # SC-21: The Room That Would Not Let Him Postpone
