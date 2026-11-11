@@ -15,15 +15,16 @@ Because Book 0 is written after Books 1 and 2, its handover runs backwards: it l
 | 2 | Canon pack: [chronology](canon/chronology.md), [places](canon/places.md), [names](canon/names.md) | First version; lines marked (check) still to confirm |
 | 3 | [Mind sheets](voice/MIND_SHEETS.md) ("before" notes), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Storyboard v1 approved with Reuben's six picks, 11 Nov |
 | 4 | [Blind voice pilot](pilot/README.md) | PASSED 11 Nov: Book 0 scenes ranked 1st to 3rd of six |
-| 5 | Draft by act | Next; waiting for Reuben's go |
+| 5 | Draft by act ([draft/](draft/)) | All four acts drafted 11 Nov: 42 scenes, about 76,700 words; one outside reader per act next |
 | 6 | Structure audit, cold read, freeze | Not started |
 
-No prose until the storyboard and the voice pilot pass.
+No prose until the storyboard and the voice pilot pass. (Both passed; the draft is in `draft/act1` to `draft/act4`.)
 
 ## Checks
 
 ```
 python3 tools/book0_storyboard_check.py
+python3 tools/export_book0_docx.py [--acts I,II]
 python3 tools/book2_names_check.py --names book0/canon/names.md
 ```
 
@@ -33,3 +34,4 @@ python3 tools/book2_names_check.py --names book0/canon/names.md
 - 2026-11-11: Reuben: "Lets go with your recommendations." Contract approved; storyboard choices settled (see storyboard README); Book 2 suggestions and the Labienus name fix passed to the Book 2 thread; pilot and prose wait for Book 2.
 - 2026-11-11: Book 2 already drafted, so the voice pilot ran: I-01 Antony, II-04 Laberius, III-10 Brutus, each paired blind with a Book 1 scene of the same person. Packet in project files.
 - 2026-11-11: Pilot PASSED (blind ranking B > D > F > E > A > C). Antony continuity note added to the mind sheets; no line edits, per the reader's advice.
+- 2026-11-11: Reuben: "Do that" (draft Book 0 to parity with Book 2, with the cast-check additions). All four acts drafted, each with a self-audit and its history checks in the act README. 42 scenes, about 76,700 words against the 90,000 ceiling; Pharsalus at about 66%. Pilot scenes used unchanged as I-01, II-04, III-10. IV-06 moved to August 47 (after Zela). Reading copy built with `tools/export_book0_docx.py`.
