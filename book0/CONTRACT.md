@@ -1,6 +1,6 @@
 # Book 0 contract
 
-**Status:** Working draft, 11 Nov 2026. Reuben asked for Book 0 to be built out like Book 2 ("We should build this out like book 2"). Every line below is the recommendation from the series plan ([Series plan and Book 0](https://claude.ai/artifact/B1rPPha17L6VAEmSPWJJZq)) and stands until Reuben changes it. Only Reuben approves it.
+**Status:** Approved by Reuben, 11 Nov 2026 ("Lets go with your recommendations"), on the recommendations of the series plan ([Series plan and Book 0](https://claude.ai/artifact/B1rPPha17L6VAEmSPWJJZq)) and the storyboard README. Only Reuben changes it.
 
 | Item | Decision |
 |---|---|
@@ -19,5 +19,5 @@
 | Debt in the prose | Literal only. A pardon is a dinner, a promise a speech with no date, a debt a tablet. No narrator metaphors of debt; Hordeonius keeps his maxims, in speech. |
 | Real over invented | Invent only where the record is silent. The invented cast is Book 1's own, younger. New invented names need a reason in [names.md](canon/names.md). |
 | Hindsight | None. Nobody foresees the Ides, Philippi or Actium. Octavian is not noticed. |
-| When it is written | Recommended: planning stages now; prose after Book 2 is drafted, so outside readers and continuity checks are not split between two books. |
+| When it is written | **Decided 11 Nov:** planning stages now; the voice pilot and the prose after Book 2 is drafted, so outside readers and continuity checks are not split between two books. |
 | Readers | One outside reader per act on a stamped DOCX; then a whole-book cold read with nothing protected. A reader who has not read Book 1 is preferred for at least one act: Book 0 must stand on its own. |

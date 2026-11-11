@@ -11,11 +11,11 @@ Because Book 0 is written after Books 1 and 2, its handover runs backwards: it l
 | Stage | What | Status |
 |---|---|---|
 | 0 | [Handover from Books 1 and 2](canon/handover.md) (what is already fixed) | First version, checked against Book 1's text |
-| 1 | [Contract](CONTRACT.md) | Working draft on the series-plan recommendations; awaiting Reuben |
+| 1 | [Contract](CONTRACT.md) | Approved by Reuben, 11 Nov |
 | 2 | Canon pack: [chronology](canon/chronology.md), [places](canon/places.md), [names](canon/names.md) | First version; lines marked (check) still to confirm |
-| 3 | [Mind sheets](voice/MIND_SHEETS.md) ("before" notes), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Storyboard v1 |
-| 4 | Blind voice pilot | Not started; needs Reuben's go |
-| 5 | Draft by act | Not started; recommended after Book 2 |
+| 3 | [Mind sheets](voice/MIND_SHEETS.md) ("before" notes), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Storyboard v1 approved with Reuben's six picks, 11 Nov |
+| 4 | Blind voice pilot | Waits until Book 2 is drafted (decided 11 Nov) |
+| 5 | Draft by act | After the pilot passes |
 | 6 | Structure audit, cold read, freeze | Not started |
 
 No prose until the storyboard and the voice pilot pass.
@@ -30,3 +30,4 @@ python3 tools/book2_names_check.py --names book0/canon/names.md
 ## Changelog
 
 - 2026-11-11: Folder created on Reuben's request to build Book 0 out like Book 2. Handover (backwards), contract draft, canon pack first version, mind-sheet "before" notes, storyboard v1, questionnaire and key, cross-book findings.
+- 2026-11-11: Reuben: "Lets go with your recommendations." Contract approved; storyboard choices settled (see storyboard README); Book 2 suggestions and the Labienus name fix passed to the Book 2 thread; pilot and prose wait for Book 2.
