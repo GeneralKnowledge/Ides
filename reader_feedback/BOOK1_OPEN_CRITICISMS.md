@@ -72,6 +72,12 @@ The reviewer's seven high and medium checks, against the sources. All hold; no c
 
 Visellius stays unsolved: Hordeonius keeps or burns the copies as a moral choice, not a solution. The twine ending stays open.
 
+## Pattern count (11 Nov, Reuben chose to run it before closing)
+
+112 scenes, 94,400 words, counted scene by scene (method and table in the audit plan doc). Endings: about 45 gesture or object, 30 closing widening line, 12 dialogue, 25 plain stop; the praised control endings split the same way, so gesture endings are only a problem in clusters. Reversals (B): 9 “It was not X. It was Y.” in the whole book, no scene over two; not borne out on the current text. Debt (G): 50 debt or owe sentences outside Hordeonius, nearly all literal money, about 8 figurative; not borne out. Quotable lines (A): the signature is the silence beat instead, 60 sentences starting “Nobody” (about 15 room silences), 23 “said nothing”, 13 “did not answer”. Walk-ons (D): one clear case, the Ch 18 washerwoman.
+
+Clusters and one-line fixes proposed: Ch 37 Abydos “They always did at this hour.” (ledger endings in three of six scenes, and two “always” endings in a row); Ch 14 Pediment “She did not sleep again.” (three of four endings on sleep, Ch 12–14); Ch 34 The Contest “Nobody said anything.” (two room silences in one scene); Ch 18 washerwoman made plain (“It means he gets it if the boy dies. And he fetched him.”). Each checked for later echoes. Awaiting Reuben.
+
 ## Held elsewhere
 
 Older items parked for a later round are in their own records: character-sheet fixes 15–21, storyboard fixes 5, 13 and 14, and reader 3 rows 25–30. They are not repeated here unless a new read raises them again.
