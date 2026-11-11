@@ -127,9 +127,13 @@ Nysa saw the basin on its stand inside the door, with the water gone cloudy and 
 
 Nysa paid for the lentils. She had been given the exact coin, and she counted it out.
 
-At the Domus Phileros had it already, from the vestibule. He said that the house would be stripped now for keepsakes, and he looked at the door key in his hand. She was sent in with water for the mistress. The bedroom door was shut. She knocked, and waited, and set the jug down on the floor beside it, where it would be found.
+At the Domus Phileros had it already, from the vestibule. He said that the house would be stripped now for keepsakes, and he looked at the door key in his hand. Then he said the other thing, in the voice he used for the oil accounts. There was a clause for the household. The old man’s own people, the ones under this roof on the day, were to be free, and to take his name.
 
-By dusk the sum had grown in the street, and the gardens had fountains. She carried neither of those home. The wax was still against her ribs.
+He did not look up from the key. “Take the mistress her water, Julia Nysa.”
+
+She took it. The bedroom door was shut. She knocked, and waited, and set the jug down on the floor beside it, where it would be found.
+
+By dusk the sum had grown in the street, and the gardens had fountains. She carried neither of those home. She did not know yet what to do with the name. The wax was still against her ribs.
 
 ---
 
