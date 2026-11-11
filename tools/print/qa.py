@@ -420,6 +420,8 @@ def source_concerns(data: dict) -> list[str]:
         for b in sec["blocks"]:
             t = plain(b["runs"])
             for name, rx in SOURCE_PATTERNS:
+                if name == "double space" and b.get("t") == "scene":
+                    continue  # the scene-break ornament is spaced on purpose
                 for m in rx.finditer(t):
                     if name == "doubled word" and m.group(0).lower() in ALLOWED_DOUBLES:
                         continue
