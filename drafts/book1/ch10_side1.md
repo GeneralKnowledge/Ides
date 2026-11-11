@@ -69,79 +69,130 @@ He walked home. He slept badly, which he blamed on the fig, and in the morning h
 # SC-25: Soften the Debt
 
 POV: F4 Hordeonius · taberna near Janus medius
-Date / place: Same week · afternoon ledgers
+Date / place: Kalends of March 44 · morning and afternoon at the board
 Canon refs: SIDE-1 overlap · Basilus orbit · TONE-1
-Info ENTER: Normal ledgers · EXIT: Asked to ease Basilus-orbit debt for “a friend of liberty”
+Info ENTER: Visellius pays his interest; his principal is out to a man of Basilus’s table · EXIT: Paullus asks a month’s grace for Visellius on behalf of “a friend of liberty”; Hordeonius refuses, for Visellius’s good name, and has told him to collect in person
 Overhear risk: Low–Medium
 
 ---
 
-L. Hordeonius Felix preferred numbers that arrived on the Kalends.
+On the Kalends of March Aulus Visellius Ralla came to the board before the second hour, as he did on every Kalends, and counted his interest out in stacks of ten.
 
-A. Visellius Ralla’s tablet sat among the honest ones, interest tidy, excuses few. Hordeonius respected a freedman’s son who paid. The father had been bought and freed; the son was a citizen with a good name and no ancestors to prove it, and men like that paid on time because they could not afford to be seen not paying. Respect, in his religion, was a rate.
+Hordeonius let him count. It was not necessary. In six years the count had never once been short, and Sosia would count it again afterwards, but Visellius liked it done under his creditor’s eye, and Hordeonius liked to watch it. He was a neat, narrow man of five and thirty with a clerk’s shoulders. His father had been bought, and freed, and had left him a good name with nothing behind it. He lent in a small way himself, up three flights in the Subura, with money he had from Hordeonius at one rate and put out at another. He had clean nails. He squared each stack with the side of his thumb.
 
-L. Statius Paullus arrived smelling of someone else’s perfume and spoke like a man borrowing virtue. “There is a friend of liberty,” Paullus said, “who would take it kindly if a certain Basilus-adjacent obligation breathed easier for a month. Soften the debt. Consider it piety toward the Republic.”
+“And the principal on the Nones,” Visellius said. “As written.”
 
-Hordeonius didn’t laugh. He slid Visellius’s tablet an inch closer to himself and let Paullus watch the wax refuse to travel.
+“You have it?”
 
-“I am a friend to the Republic in the only way that matters,” he said, arranging his face into temple seriousness. “I keep its ledgers honest. Softness is how cities drown. Who guarantees the softness?”
+“I have it out. It comes back to me before then.” He lowered his voice, though only Sosia was near. “To a gentleman who dines with the praetor Basilus. He has been slow. They are, at that table.”
 
-Paullus named no guarantor worth the wax. He named atmosphere. Atmosphere did not seal. He reached toward the tablet’s rim; Sosia’s hand was already on the stool-leg, ready to pull it. Hordeonius closed the tablet with a soft click that sounded like a door in a better house.
+“Then you will go yourself. Not a boy. A man of that sort will keep a boy standing in the yard until dark. He will not do it to the lender. Go in the morning, go to the front door and give your name.”
 
-“Seals are older than liberty,” he continued, gentle, like a man instructing a nephew who had tracked mud onto marble. “Seals will be here when liberty is a word sold by the jug. Bring me a name that can bleed money if the month goes wrong. Otherwise Visellius pays as written, and Basilus (if Basilus is in this bargain) pays as written too.”
+“I had thought of writing.”
 
-“You are a hard man,” said Paullus.
+“Go. I say it as your friend.”
 
-“I am a soft one with a hard ledger. It is the ledger you are negotiating with.”
+Visellius said that he would go. He took a small sealed pot from his satchel and set it on the board, a little to one side of the money so that it should not be confused with it. It was honey from his father’s patron’s farm. He had brought one on every Kalends since the old man died.
 
-Paullus left offended in the expensive way. Hordeonius blotted nothing. He only entered *inquiry, political softness, refuse* in a hand so neat it looked like virtue, then checked his ring.
+“For the lady of the house.”
 
-When the perfume had cleared, Sosia, his collector, jerked a chin at the empty stool. “And if someone softens Basilus anyway, for liberty?”
+“You are too good to us,” Hordeonius said, as he said every month, and moved the pot an inch nearer to himself.
 
-Hordeonius entered *soft hours, storm weather* without looking up. A consul walking free of a bad morning was the kind of morning he would not underwrite without an invoice. “I sell umbrellas. I do not join the rain.”
+In the afternoon Lucius Statius Paullus came. He smelled of a perfume that had been bought for somebody else, and he would not sit until the stool had been wiped. He spoke for some time about the season and the state of the city before he came to it.
 
-“You do not have to join it,” Sosia said. “You only have to charge the people standing in it.”
+“There is a friend of liberty,” he said, “who would take it kindly if Ralla’s note were let run a month past the Nones. Without remark. Ralla need not then go troubling a certain household this week. It is a week in which that household would prefer not to be troubled.”
 
-“That,” said Hordeonius, “is called religion.”
+Hordeonius drew Visellius’s tablet toward him and laid his hand on it.
+
+“Who sets his seal to the month?”
+
+Paullus spread his fingers. It was a matter of goodwill. Of the times. A man who obliged now would be remembered.
+
+“May I say how it looks from this side of the board?” Hordeonius folded his hands on the tablet. “Aulus Ralla has not asked me for a month. He has never asked me for a day. If I give him one he did not ask for, it will be known at the Janus by evening, and what will be said is that Ralla needed it. He has nothing in the world but that he pays. I cannot take that from him to oblige a gentleman who has not given me his name.”
+
+“It would be a kindness to him.”
+
+“Then let your friend do the kindness and pay him.”
+
+“You are a hard man.”
+
+“I am not thought so,” Hordeonius said, with some surprise. “Ask anyone.”
+
+“He lent to a poet once,” said Sosia.
+
+“Sosia.”
+
+Paullus went. He had left the smell behind him, and the stool had to be put out in the air. Hordeonius opened the tablet again and looked at the Nones on it, and found nothing there to trouble him.
+
+“Who’s the friend of liberty?” Sosia said.
+
+“A man who owes Ralla money and is not accustomed to being asked for it. There are a great many of them this year, and they have all found the same word.” He wiped his two fingers. “Take the honey up to the house. Say that it is from Ralla, she likes to know. And put him down for the Nones, early. He is always early.”
 
 ---
 
 # SC-25b: Body
 
 POV: F4 Hordeonius · Subura-edge insula
-Date / place: Two nights later · stair-stink, cheap lamp
+Date / place: Nones of March 44 · noon · third floor above a fuller’s
 Canon refs: SIDE-1 · OPEN-0 · D5 rhyme seed
-Info ENTER: Client late on interest · EXIT: Body; tablets name Basilus orbit + Antonian agent
+Info ENTER: Visellius does not come on the Nones · EXIT: Body; two tablets (a note sealed by a man of Basilus’s table; Bucco’s mark); the box empty; entered “doubtful”
 Overhear risk: High (neighbours → rumour)
 
 ---
 
-Visellius didn’t arrive on the Nones, the day his tablet named.
+Visellius did not come on the Nones.
 
-Hordeonius went himself, because a banker who only sent Sosia learned too late when a ledger had become a corpse. The room smelled of cheap oil, old wine, and the metal tang men pretend is only coins.
+By the second hour Hordeonius had looked up at the arch four times. By the fourth he had stopped pretending to read. At noon he shut the board and went himself, with Sosia, because it was not a thing to send a boy to, and all the way up the Argiletum he explained to Sosia the several ordinary reasons there might be: a fever, a death in the patron’s family, a gentleman who had kept a lender waiting in his yard.
 
-Visellius Ralla was on the floor with his throat opened by someone who hadn’t cared about neatness. Hordeonius washed his hands in a basin that wasn’t clean enough and still washed them.
+It was a tenement on the edge of the Subura, with a fuller’s on the ground floor. They went up three flights. The door was not barred.
 
-The tablets weren’t hidden. That was either stupidity or theatre. One line of marks pulled toward Minucius Basilus’s orbit, Paullus’s perfume talk made suddenly concrete. Another mark, different hand, tugged toward C. Septimius Bucco, a moneylender in Antony’s service whom Hordeonius knew from uglier markets: an Antonian cash-rat, a man who lent to soldiers at rates that made the soldiers’ widows pay.
+The room was very tidy. He saw that first. There was a table under the window with a lamp on it, burned dry, and two tablets lying open side by side, and he went to those. One was a note of hand in Visellius’s own neat writing, with the seal of a man he knew to be of Basilus’s table. On the other the hand was different, heavier. It carried the mark of Gaius Septimius Bucco, who kept a stool by the Janus and lent to soldiers against their pay, and was said to do it with Antony’s money. Hordeonius had not known that Visellius had ever spoken to Bucco. He read both through to the end. He looked for a date on the second and there was none.
 
-Neighbours already filled the stair with theories. Hordeonius filed them without choosing one. Seals were his trade, and a seal had been broken with a knife.
+There was a box under the bed with its lid back, and nothing in it.
 
-“He was,” Hordeonius told the silent mess, “a credit to his father’s manumission. Paid on the Kalends. Do you know how rare that is in this city of philosophers?”
+Then he looked at the floor, where Sosia had been looking from the doorway since they came in.
 
-He took copies, left the originals for whoever played magistrate this week, and entered *Visellius, A.: doubtful* with a care that felt like closing a child’s eyes. On the street he heard his own name already mutating into rumour, interest you paid without a contract.
+Visellius lay between the bed and the wall on his side. His throat had been opened. Whoever did it had not been good at it, and had needed more than one attempt. He had his outdoor shoes on. His satchel was under him.
 
-A water-carrier at the stair mouth, jug dripping, no stake in Basilus or Bucco, told a neighbour loud enough for Hordeonius’s ear: “Paid on the Kalends, throat opened for paper. Someone wanted the debt soft. Someone else wanted the soft man quiet. This stair will remember the smell longer than the Senate remembers the name.”
+There was a basin on the stand with water in it. Hordeonius washed his hands. The water was not clean and he had touched nothing but the tablets. He washed them a second time.
 
-“Who wanted him quiet?” the neighbour asked.
+“He was a credit to his father’s manumission,” he said. His voice came out as it did at the board. “He paid on the Kalends. Six years. Do you know how rare that is, in this city of philosophers?”
 
-“Everyone who owed him,” said the water-carrier. “Or everyone he owed. Same thing, with a ledger.”
+“He had his shoes on,” Sosia said. “He was going out, or he’d come back.”
 
-Hordeonius did not correct her. He filed her sentence beside the three stair theories and kept the one open question: killer still unknown, and the smell already in the stairwell.
+“Copy those. Both. Leave the wax where it lies for the magistrate.”
+
+Sosia copied them. It took a long time. Hordeonius stood at the window with his back to the bed and looked down into the fuller’s yard, where cloth was being trodden in the vats.
+
+The stair had filled by the time they came out. A man from the floor below had heard two come up after dark, and one of them wore good boots. A woman said it was one, and that he had gone up slowly, like someone who knew the house. A boy said everybody knew Ralla had debts. That was not so, and Hordeonius nearly turned and told him.
+
+The woman who carried water for the building was standing at the stair foot with her jar on the step. She had a wet hem and no opinion about boots.
+
+“He paid me on the day,” she said. “Every month. He’d have it ready in his hand. Who does that to a man who pays?”
+
+“Someone who owed him,” Hordeonius said.
+
+It was the only reason he could think of. She looked at him as if she had expected more from a man with a ring.
+
+In the street he found that he still had the cloth from the washstand in his hand. Sosia took it from him and did not know what to do with it either, and hung it on the fuller’s gate.
+
+“Paullus,” Sosia began.
+
+“We will not speak of Paullus in a street.”
+
+They walked as far as the Argiletum.
+
+“Write him doubtful,” Hordeonius said.
+
+“He’s dead.”
+
+“Write him doubtful. I will not write the other today.”
 
 ---
 
 ## Continuity
 - **Names:** this Labeo is Pacuvius Antistius Labeo (Plut. *Brut.* 12), called “Antistius Labeo” once (2026-11-07, storyboard fix 11) so he is not confused with Segulius Labeo (Ch 31–32); not “Pacuvius”, which is Antony’s officer.
-- **Knows / learns:** Brutus sounds out Favonius and Statilius at dinner as a philosophical question; Favonius: civil war worse than lawless monarchy; Statilius: a wise man does not risk himself for the foolish; Labeo argues against both and stays behind (Plut. *Brut.* 12). Statilius sees too late that it was not a game and does not go back. Basilus present (Gaul, a praetorship, no province), says little. (Replaces the retired Seius bath scene, 2026-10-24.) Statius Paullus asks Hordeonius to soften Visellius Ralla’s debt for a Basilus-adjacent friend; Hordeonius refuses. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
-- **Plants → pays:** Hordeonius prices a consul who walks free of a bad morning as an uninsured morning (Ch 15, no spoiler); the water-carrier remembers SIDE-1 as pressure later.
+- **Knows / learns:** Brutus sounds out Favonius and Statilius at dinner as a philosophical question; Favonius: civil war worse than lawless monarchy; Statilius: a wise man does not risk himself for the foolish; Labeo argues against both and stays behind (Plut. *Brut.* 12). Statilius sees too late that it was not a game and does not go back. Basilus present (Gaul, a praetorship, no province), says little. (Replaces the retired Seius bath scene, 2026-10-24.) Visellius Ralla (35, a freedman’s son, a small lender with Hordeonius’s money) pays his interest on the Kalends and brings honey; his principal, due on the Nones, is out to a man who dines with Basilus, and Hordeonius tells him to collect it in person. Statius Paullus asks Hordeonius to let Visellius’s note run a month for “a friend of liberty”; Hordeonius refuses, to protect Visellius’s name. The body (SIDE-1): tablets point to Basilus’s circle (praetor, Gaul, denied a province) and to Bucco; the killer is unknown, with at least three theories.
+- **Plants → pays:** “Paid on the Kalends” (Ch 18, Ch 38); the copies Sosia makes (Ch 18, burned Ch 38); Bucco’s stool by the Janus (Ch 18, Ch 38). Hordeonius does not say that he refused the month or that he sent Visellius to the door.
+- **Decisions:** 2026-11-11 (voice pass): SC-25 and SC-25b rewritten in full as a pair. Visellius is now on the page alive. The water-carrier’s speech is replaced by “Who does that to a man who pays?”
 - **Must not:** OPEN-0 held (no solution); don’t re-introduce Basilus later.

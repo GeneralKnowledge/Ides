@@ -8,60 +8,68 @@
 
 POV: Decimus · near Domus Publica / Campus
 Date / place: Late Feb 44 · Sacra Via
-Info ENTER: Caesar’s favour · EXIT: Inside conspiracy as access key (reluctant)
+Info ENTER: Caesar’s favour · EXIT: Gives the route, the side door and the hall before he understands the question; will bring Caesar, one man only; offers Trebonius’s Gaul accounts to hold Antony
 Overhear risk: Street
 
 ---
 
-They didn’t recruit Decimus with philosophy. They recruited him with a floor plan.
+Cassius and Brutus found him on the Sacra Via at the hour when the stalls were loudest. He was coming down from Caesar’s house with the Campus route in his head, and he was glad to see them. Cassius fell in on one side. Brutus walked half a step behind, and looked tired.
 
-Cassius and Brutus found him on the Sacra Via, where processions walked and the noise of a hundred stalls could drown a dangerous sentence. Cassius spoke first; Brutus stood half a step back, the name already tired of being used.
+“The old Senate house is in scaffolding,” Cassius said. “So the last sitting before he goes east will be in Pompey’s hall. You know the Campus better than any of us. How does he get there?”
 
-“He will not walk into the Curia for a stranger’s summons,” Cassius said. “He will walk if you ask. You know which door the litter uses when the Forum is thick. You have eaten in that atrium. You have joked him past bad omens in Spain.”
+Decimus knew the Campus. He had walked it with Caesar in the autumn before the light went, and had been reckoning it ever since for the games.
 
-It would be the Curia, though not the old one; that stood half torn down behind scaffolding while Caesar rebuilt it larger. The next sitting would be in the hall beside Pompey’s theatre, nine hundred senators, most of them Caesar’s new men, on the benches under Pompey’s own statue. Decimus thought that last thing and felt his stomach turn over.
+“By litter, if the Forum is thick. Out by the side door, not the front. The front steps put him straight into the crowd.” He showed them with the flat of his hand. “Along under the Capitol, through the Carmental gate, past the Flaminian circus. A third of an hour if the bearers are his own men. He gets down on the garden side, at the east portico, because the theatre end is all stairs. Thirty paces of colonnade and he is at the door of the hall.”
 
-Decimus looked toward the Domus Publica’s public face, the painted smile of a house that still pretended to belong to the city, and felt the warmth of being indispensable curdle. He knew the door. They wanted him for nothing else.
+“Who walks with him?”
 
-“You are asking me to use the hours he gives me,” Decimus said. “Not a vote. Not a speech. The hours.”
+“Since he sent the Spaniards home? The lictors in front. A secretary. Whoever has caught him on the steps with a petition.” He laughed. “He reads them walking. He reads better walking than sitting, he always did.”
 
-“Yes,” Brutus said, quiet. “If we are monsters, let the city at least see a clean cut. Without you, it becomes a stranger’s ambush, and then we are only a street.”
+“And inside,” Brutus said quietly.
 
-Decimus’s first answer was not yes. “Find another man he trusts.”
+“Nine hundred on the benches if they all come, which they never do. His chair is at the far end, on the dais, under,” and he stopped.
 
-“There isn’t one who will still look him in the face after,” Cassius said. “That is why it has to be you.”
+He had been going to say under Pompey. He had measured that hall once, for hangings, and he knew it was eleven feet from the chair to the plinth of the statue. He had his finger up. He had been drawing it for them on the air.
 
-“That is a compliment I would rather have had from a stranger.”
+A porter shouted at a mule. Decimus looked at Cassius, and then at Brutus, who did not look away.
 
-“Strangers do not know which door the litter uses.”
+“You were not asking about the games,” he said.
 
-A porter shouted at a mule. Decimus used the noise to breathe. He saw Caesar’s chin-tip: Campus, before the light goes dishonest. He hated how ordinary the memory was.
+“No.”
 
-“If I bring him,” Decimus said at last, “you finish clean. No massacre. No Antony first, unless you have already decided otherwise.”
+His stomach had gone cold and small. He put the hand down.
 
-“That is another question,” Cassius said.
+“He may not come,” he said. It was the first thing he could find, and it was true. “If the victims are bad, or he has one of his heads, he sends word and the House goes home.”
 
-“Then argue it before I walk him anywhere,” Decimus said. “I can walk him to the right threshold and give the signal. Trebonius can keep him with remounts and Gaul paper until the world ends. I will not supply a butcher’s yard and call it friendship.”
+“Then somebody he would listen to goes to the house,” Cassius said, “and tells him the House is sitting and it would look ill. Somebody who has eaten in that atrium. Somebody who knows the side door.”
 
-“Gaul paper,” Cassius said, almost amused. “Ten years of horse purchases and winter quarters.”
+“Find another man.”
 
-“Trebonius signed half of it. Antony spent a decade pretending to read it. It is the one subject that can hold a consul an hour without his noticing the hour has gone.”
+“There is not one.”
 
-“I will bring him,” Decimus said. “You do the rest without turning the Senate into meat. Or I am not your summons. I am only another corpse who used to know which jokes Caesar still liked.”
+“If it is done,” Brutus said, “I want it done in the Senate, by senators, once, where everyone can see what it was. Without you it is an ambush on a road. Then we are a street gang, and I will have no part in it.”
 
-Cassius nodded, once.
+Decimus looked along the Sacra Via toward the chief priest’s house. From here you could see the top of the door and the new gable the Senate had voted for it. He had come out of that door not a quarter of an hour ago. *Campus*, Caesar had said to him, in the autumn. *Before the light goes dishonest.* It had been an ordinary thing to say. He could not think why it should be that he remembered.
 
-Decimus turned away. Two steps on he heard Brutus catch Cassius’s sleeve, and the voices behind him were not as low as they believed.
+“If I bring him,” he said, “it is one man. I will not walk him into a butcher’s yard. Not Antony. Not anyone who gets up off a bench.”
 
-“He will hate us for using the laugh,” Brutus murmured.
+“That is another question,” said Cassius.
 
-“He already hates the choice,” Cassius said. “Hate is cheaper than finding another friend who still has his laugh.”
+“Then settle it before I walk him anywhere. Trebonius can hold Antony at the door. He has ten years of Gaul accounts, remounts and winter quarters, and Antony put his seal to half of them without reading. It would keep him an hour.”
 
-“That is a terrible thing to say.”
+He heard himself. He had done it again. They had given him a difficulty and he had measured it and handed it back solved.
 
-“It is also true.”
+Cassius did not smile. He had the decency for that.
 
-Decimus kept walking. He did not give them the satisfaction of a turned head.
+“I will bring him,” Decimus said.
+
+Cassius nodded once. Nobody clasped hands. Decimus walked on, because he had been walking, and he had gone four paces when he heard Brutus behind him, not as low as Brutus believed.
+
+“He will hate us for it.”
+
+“He already does,” Cassius said.
+
+Decimus did not turn his head. He found that he was counting his paces to the corner. It came out the same as it always did.
 
 ---
 
@@ -92,31 +100,25 @@ Brutus shook his head. “If we kill them in piles, we are not liberators. We ar
 
 “You are very sure of what Antony will do,” said Trebonius, from the wall.
 
-“I am sure of what I would do,” said Cassius, “in his sandals.”
+“I am sure of what I would do,” said Cassius, “in his place.”
 
-“You would not have the sandals,” Trebonius said. “That is why he is the consul and you are a praetor.”
+Nobody answered him.
 
-Decimus ticked thresholds off on his fingers, Curia lip, portico shoulder, as if he were pricing a route for mules. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius has his Gaul paper.”
+Decimus ticked them off on his fingers: the door of the hall, the turn of the portico. “Antony in the room means noise. Antony outside means a chance to speak after. Trebonius has his Gaul paper.”
 
 “I do have a gift,” said Trebonius.
 
 “And if Trebonius fails?” Cassius asked.
 
-“Then we improvise,” Decimus said, hating the word. Improvisation was what got men killed in Spain when the map lied.
+“Then we improvise,” Decimus said, and looked as if the word tasted bad.
 
 A slave came through the gap in the hedge with two empty pots on his hip, saw four senators standing in the cold, and stopped. Decimus told him to put the pots by the wall and go round by the kitchen. The man did, slowly, setting each pot down as if it might break, and they waited without a word until the kitchen door had closed behind him.
 
-“I will bring him,” Decimus said then, to Cassius, plainly, as if the slave had reminded him what plain sounded like. “I will not bring a butcher’s yard. If Antony dies on that floor, I walked Caesar in for nothing I can stand behind.”
+“I will bring him,” Decimus said then, to Cassius. “I will not bring a butcher’s yard. If Antony dies on that floor, I walked Caesar in for nothing I can stand behind.”
 
 Cassius looked at him a long moment, and then at Brutus, and let it go for now.
 
 A little later a foot scuffed beyond the hedge again, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
-
-“The chickens,” said Trebonius, as the foot faded, “are the great unsung heroes of the Republic.”
-
-“They will have their day,” said Cassius.
-
-So it was decided. Antony would live through the knives, and Trebonius would keep him outside the door.
 
 In the lane beyond the garden gate, still smiling as if cousins and chickens had satisfied them, Decimus wiped garden-dirt from his palm onto his tunic.
 
@@ -126,9 +128,7 @@ In the lane beyond the garden gate, still smiling as if cousins and chickens had
 
 Cassius walked half a step ahead, then without turning: “I got a living consul who will make funerals. Congratulations to both of you.”
 
-Decimus’s mouth twitched despite himself. “Say it louder when we are farther from the hedge.”
-
-“I am saying it now so you remember the price while your hands are still clean,” Cassius said. Then, brighter, for a passerby: “Yes, rain tomorrow, if the chickens agree.”
+Nobody congratulated anybody. A man was coming up the lane with a handcart, and Cassius said, for him, that it would rain tomorrow.
 
 At the garden gate Decimus stopped at the fountain and washed his hands, though there was nothing on them yet. Brutus watched him do it and said nothing.
 
@@ -138,3 +138,4 @@ At the garden gate Decimus stopped at the fountain and washed his hands, though 
 - **Knows / learns:** Decimus resists before he says yes; his access to Caesar is shown by doors, hours and Spain jokes. The cost of a living consul is spoken where Brutus can hear. Antony’s stake: the left wing at Pharsalus, co-consul, loved in the Forum.
 - **Plants → pays:** Trebonius’s delay (Ch 13, 15); Gaul paper as a market-day leash; the Curia in Pompey’s theatre and the statue (Ch 15, 16).
 - **Must not:** no “friendship was the key”; no modern weekdays.
+- **Decisions:** 2026-11-11 (voice pass). SC-22 rewritten in full: Cassius asks Decimus for the Campus route as if for the games, and Decimus answers as an engineer (side door, Carmental gate, east portico, the chair eleven feet from Pompey’s statue) before he sees what he has drawn; he also solves Antony for them. SC-23 light edits: “So it was decided”, the sandals exchange and the chickens repartee cut.

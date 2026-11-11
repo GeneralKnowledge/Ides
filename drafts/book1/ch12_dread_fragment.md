@@ -14,13 +14,13 @@ Overhear risk: Nysa possible
 
 ---
 
-In the Domus Publica cubiculum Calpurnia had begun to dread sleep the way other women dreaded childbirth.
+Calpurnia had begun to dread sleep.
 
 It was a small room, as the bedrooms in the old houses were, with garden birds painted on the wall by some pontifex’s wife long dead, whom nobody had thought to paint over; a lamp on a bronze stand that the slaves trimmed too short, so that it guttered and stank toward morning; a chest at the foot of the bed with her winter things folded in it and a sprig of something against the moth; and one window high up under the ceiling that let in the noise of the Sacra Via, carts and dogs and the first water-sellers, a long while before it let in any light.
 
-The lesser nightmares did not yet collapse the pediment. She had looked up at it every morning for months: a temple’s triangle over a house’s door, voted to Caesar’s roof by the Senate the way they voted him everything else. She would not look at it the same way again. For now the nightmares were smaller thefts: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets; and once she woke and lay counting his breaths until the counting itself had become a thing she was afraid to stop, and once she found that her own nails had cut little crescents into her palm while she slept, and she hid her hand in the blanket until he had gone out. The house’s night noises, latches, a dog, a courier’s wrong hour, had started arranging themselves into omens whether she invited them or not.
+The Senate had voted the house a pediment, a temple’s triangle over a house’s door, as they voted him everything else, and for months she had looked up at it each time she came in from the street. She did not dream of that. The dreams were smaller: Caesar walking into a room that had no floor; a sacrifice animal that stood up after the knife; doors that opened on their own and showed only March cold. She woke with her hands already shaped around his name and found him alive, sorting tablets; and once she woke and lay counting his breaths until the counting itself had become a thing she was afraid to stop, and once she found that her own nails had cut little crescents into her palm while she slept, and she hid her hand in the blanket until he had gone out. She had started to listen for the house’s night noises, a latch, a dog, a courier at the wrong hour, and to lie waiting for the next.
 
-Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn’t meet her eyes too long. In the dressing-room the three of them made a temporary country: mistress, dresser, water-carrier, no Senate, only cloth and the question nobody said aloud. Pallas’s fingers paused at a pin. Nysa’s jug paused at the lip of the basin. Calpurnia caught both pauses the way she caught March cold through a curtain.
+Pallas dressed her in the mornings with the quiet of someone who had learned not to ask. Nysa brought water and didn’t meet her eyes too long. Pallas’s fingers stopped at a pin. Nysa’s jug stopped at the lip of the basin. Calpurnia saw both.
 
 “The green has a mark on the hem from the Saturnalia,” Pallas said. “I have had it in vinegar twice. It will not come out.”
 
@@ -28,35 +28,33 @@ Pallas dressed her in the mornings with the quiet of someone who had learned not
 
 “The brown, mistress.” Pallas went to the chest for it and came back shaking out the folds, and for a little while nobody said anything that mattered, and Calpurnia was grateful for it.
 
-“You may speak in this room,” Calpurnia said, not looking at either face. “Not in the atrium. The atrium invents audiences.”
+Pallas chose the pin with more care than it needed. “The washerwomen are counting which doors Decimus Brutus uses, mistress.”
 
-Pallas chose the pin with unnecessary care. “The kitchen says Spurinna’s beware is being sold twice, once as piety, once as sport. The washerwomen have started counting which doors Decimus uses.”
+“Which does he use?”
 
-“Which doors does he use?”
+“All of them. On the Nones he came in by the garden. Phileros had not known it was unbarred.”
 
-“All of them, mistress. He is very thorough.”
+Nysa set the jug down. “The younger girl tries the street bar now,” she said. “With her thumb. When anyone says Spurinna. Nobody told her to.”
 
-Nysa set the jug down softer than water required. “The corridor says cheerful visitors. Cheerful men always mean schedules.”
+Calpurnia looked at the hem of the brown, which was clean.
 
-Calpurnia let both sentences sit. She did not thank them. “Dress me for a city that still pretends mornings are safe,” she said. “Then go back to looking like furniture.”
+“The garden door is to be barred at night. Tell Phileros it comes from me. The green can go to the kitchen.”
 
-“Which furniture, mistress?” said Pallas, very gently.
+They went. The latch fell behind them. Through the wall she heard one low word from Pallas, and then nothing.
 
-“The kind that hears everything and is never asked.”
+Later she found Caesar at the edge of the tablinum, among the records at the back of the atrium where he did his work. He looked up at once, as he always did for her, and put down what he was holding.
 
-They did. The latch fell behind them. Through the wall she heard one low word from Pallas, then nothing, which was worse.
+“You are not usually like this,” he said, quite mildly.
 
-Later Caesar found Calpurnia at the edge of the tablinum, among the records at the back of the atrium where he did his work. “You are not usually like this,” he said once, almost mildly, and she hated how often mildness was his kindness.
+“The house is wrong.”
 
-“The house listens,” she said. “So do I.”
+“The house is old. It has always made noises.”
 
-“The house has always listened. It is a house.”
+“It is wrong.”
 
-“It is listening to something new.”
+“It is March,” he said. “Everything is out of its place in March.” He touched her cheek with the backs of his fingers. It was kindly done. Then he went back to the tablets, and she saw that he believed he had answered her.
 
-“It is March,” he said. “Everything is listening to something new.”
-
-She didn’t have Senate words. She had body words, the ache behind the eyes, the taste of metal before dawn, the Domus Publica’s public smile on the Sacra Via looking like a painted lie about safety. Spurinna’s professional caution, Decimus’s open hand, the staff’s sudden piety: she stacked them beside the lesser nightmares and found the stack heavier than any one omen.
+She had nothing to say that would have done better. She had the ache behind her eyes and the taste of metal that came before dawn. She went to see for herself whether the garden door was barred. It was not, yet. She stood beside it until Phileros came with the bar.
 
 ---
 
@@ -65,42 +63,56 @@ She didn’t have Senate words. She had body words, the ache behind the eyes, th
 POV: F1 Nysa · Domus Publica corridor / door
 Date / place: Daytime, days before Ides · peristyle edge
 Canon refs: NOTE-1 prep · hour map
-Info ENTER: Partial conspiracy noise from visitor · EXIT: Holds dangerous half-truth
+Info ENTER: Partial conspiracy noise from visitor · EXIT: Five words on wax (friends, consul, spare, danger, stays), their order uncertain; Phileros nearly finds it; it stays on her overnight
 Overhear risk: She *is* the overhear
 
 ---
 
-Nysa was resetting a latch when the visitor’s attendant muttered.
+Nysa was on her knees at the door between the atrium passage and the garden colonnade with the latch off its plate. Phileros had said twice that it dropped. She had found the pin bent, and she was straightening it against the sill with the back of a kitchen knife.
 
-The visitor himself (someone Decimus-shaped, or Trebonius-shaped; she never got the face clean) was in the atrium speaking cheerfully about schedules. He praised the household’s order loud enough for any door-slave to sell later as loyalty. The attendant, waiting with a cloak, answered with the smile attendants wore when masters performed friendship, then, to another cloak, soft enough that stone might miss it:
+There was a visitor in the atrium. From where she knelt she had him from the knees down: red boots, the senators’ kind, well kept, standing easy with one foot turned out. She knew the voice. She had heard it in this house a hundred times and had never needed to put a name to it. It was cheerful. It was saying something about tomorrow and the hour, and that the household was the best run in Rome. She did not look up. A girl at a latch does not.
 
-“…not the consul, spare, no (friends first) danger, if he stays…”
+His two attendants were waiting in the passage with the cloaks. They were on the other side of the door-leaf she was holding, and their feet were a hand’s width from her knee. They talked low and fast, in Latin, as men do who have stood about together in a great many passages. Most of it went past her. Then the visitor laughed in the atrium, and under the laugh one of them said something to the other, and she got pieces of it.
 
-The words arrived wrong-ended, emphasis on *stays* or *spare* or *friends*: she couldn’t tell which noun owned the verb. The second cloak hissed that the visitor’s small talk was getting expensive. Phileros barked for mats. The attendant shut his mouth so hard Nysa heard teeth, then, once the visitor’s cheerful back had turned toward the tablinum, muttered to the cloak-friend, low and plain: “Spare, stay, friends, pick a noun before the house does. I’m tired of smiling at schedules that smell like knives.”
+“…not the consul. He’s to be spared, that was…”
 
-“Then stop smiling,” said the cloak-friend.
+“…friends first. I heard *friends*…”
 
-“And be the man who was seen not smiling? I have a wife.”
+“…danger if he stays. If he stays…”
 
-She walked on with empty hands and a full head. In the side room she pressed what she had into wax with a stylus that shook once and then obeyed: *friends · spare? · stay / danger · consul?* It came out incomplete and ugly, misfiled even as she wrote it: she put *friends* largest because the voice had bitten that word, and *consul* small because it might have been the thing spared or the thing ignored. Hers either way.
+The pin slipped off the sill and rang on the stone.
 
-She wrapped the fragment in linen and set it against her ribs. She didn’t understand Senate shapes, and she might already have the wrong half.
+They stopped. She saw one pair of feet turn.
 
-She had almost made the linen disappear under her tunic when Phileros turned the corner with a basket of mats and the look of a man hunting unfinished work.
+“It’s the girl. She’s Greek.”
 
-“What are you holding against your ribs?” he asked, not kindly.
+“They all have Latin when it suits them.”
 
-“A strap-end,” Nysa said, and opened her empty hand before the linen could speak. The fragment stayed pressed higher, under the fold, a hard grain against bone. Phileros stared at the empty palm, then at the latch she had been resetting, then grunted. Latches were his crime of choice.
+The feet moved off down the passage, not hurrying.
+
+She found the pin and went on with it. Her hands did that. She went through the words to see if she had them, as she went through a count, and found that they would not stay in their order. There were two consuls. The master was one. If he was the one to be spared, then somebody had thought of not sparing him, and somebody else had said no, and that might be the whole of it, a thing already settled. Or it was the other consul, the big one who laughed. She could not tell whose friends. She could not tell who stayed, or where.
+
+It was nothing she could carry to anyone. She knew what happened to a girl who carried half a thing. Chreste had only had half the fishmonger’s joke.
+
+But she knew also that what was heard at a door got asked for, sooner or later, by someone, and that to have it wrong then was worse than not to have it. She did not trust her Latin to keep overnight. When the latch was back on its plate she went into the side room where the day-lists were kept. There was a broken corner of a tablet on the shelf with the wax still good. She wrote the five words on it with the list stylus, small, in the letters she had: *friends. consul. spare. danger. stays.* She put *friends* first, though it had not come first, because that was the one he had said twice. Then she did not know whether she had spoiled it by moving it, and it was too late.
+
+She wrapped it in a bit of linen from the mending and put it inside her tunic, high, against the ribs, under the fold.
+
+Phileros came round the corner with a basket of mats while her hand was still coming away.
+
+“What are you holding against your ribs?”
+
+“A strap-end,” Nysa said. She opened the hand. It was empty.
+
+He looked at the hand. He looked at the door.
 
 “A strap-end that lives under your tunic.”
 
 “It keeps better there.”
 
-“You are a very careful girl,” Phileros said. He did not say it as praise.
+“You are a very careful girl.” He did not say it as praise. He put the basket down and tried the latch, lifting it and letting it go. It dropped clean. He tried it again, and she thought that he was sorry.
 
-“Mats,” he added. “Before the atrium invents another omen.”
-
-She went. The near-catch sat hotter than the muttered words. She had meant to leave the splinter somewhere safer before night, under a loose tile, behind a water jar, and Phileros’s basket had stolen the moment. In the court she passed Pallas again and neither named Calpurnia’s morning pauses. Medullina, if Nysa saw her in the Subura later, would want a trade, and Nysa would give her birds and chickens, not this.
+She had meant to put the wax behind the big water jar before night. He stood between her and the jar until he had sent her for lamp oil, and when she came back Pallas was sitting there with her sewing. So it stayed where it was. That night she slept on her other side.
 
 ---
 
@@ -114,9 +126,7 @@ Overhear risk: Medium
 
 ---
 
-Caesar didn’t keep an enemies list. He kept work.
-
-He kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional beware: he treated the fear in the house like March weather: real, inconvenient, and no reason to cancel the city’s work.
+Caesar kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional beware: he treated the fear in the house like March weather: real, inconvenient, and no reason to cancel the city’s work.
 
 He had sent away his Spanish bodyguard some months back, the picked men who had followed him from the war, and had said that he would rather die once than live always afraid of it. The Senate had sworn to guard him with their own bodies, which he had found very funny, and had accepted the oath without once looking at the oath-takers.
 
@@ -130,13 +140,10 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 
 “I am always worried,” Caesar said. “That is what the work is.”
 
-In the tablinum stack sat unfinished business and the temptation to believe unfinished business was immortality. He didn’t feel a plot as a plot. He felt the city’s nerves. Cities got nerves before campaigns. He’d lived through nerves before.
-
-If someone had handed him a clean list of knives, he might have read it. Nobody did.
-
 ---
 
 ## Continuity
 - **Knows / learns:** Calpurnia’s lesser nightmares, toward DREAM-1. Nysa hears a fragment (NOTE-1): incomplete, its emphasis misreadable, not Artemidorus’s note. Phileros nearly catches the linen; she hands it off later and safer. Caesar treats danger as weather (AMB-1), trusts Decimus by habit, dismisses the Spanish bodyguard, jokes about the Senate’s oath. The household’s small wants go on (Dama, Phileros, Pallas, Nysa).
 - **Plants → pays:** the pediment (Ch 14); dressing-room gossip about Spurinna and Decimus at the door.
+- **Decisions:** 2026-11-11 (voice pass). SC-29 rewritten in full: Nysa hears pieces of three sentences through a door-leaf while mending a latch; the attendant’s finished speech is gone; she thinks “the consul” may be the master; she writes the five words in her own letters because what is heard at a door gets asked for. Phileros’s near-catch kept. SC-28 heavy edit: the servants now report doors and a thumb on the bar, not sayings; Calpurnia orders the garden door barred; with Caesar she has one sentence (“The house is wrong”); the closing sum of omens is replaced by her going to the door. SC-30 light edit: opening pair and the last two paragraphs (the narrator knowing better) cut.
 - **Must not:** the two notes are never merged; the pontifex’s office-house glossed once; no future winks.

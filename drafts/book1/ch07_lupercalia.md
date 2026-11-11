@@ -27,13 +27,13 @@ He joked, slapped backs, played the old fertility chaos. The Lupercus strips stu
 
 “He has a chair. It is the same surprise as every year.”
 
-It was not. Antony had been told, on the way up the steps, by a man who would not say who had told him, that a certain object would be handed to him at the foot of the Rostra and that he would know what to do with it. He had not asked what. Asking was how you became the man who knew.
+It was not. Antony had been told, on the way up the steps, by a man who would not say who had told him, that a certain object would be handed to him at the foot of the Rostra and that he would know what to do with it. He had not asked what.
 
-When Antony came forward with the diadem, call it wreath, call it crown’s cousin, call it a test, the Forum’s noise changed pitch. White linen bound round laurel, light as nothing in his fist: the headband of every foreign king Rome had ever hated. Somewhere below the Rostra a voice shouted the tribunes’ names, the two who had torn the same white band off Caesar’s statue a fortnight back and lost their office for it. Nobody had yet decided who had been insulted. The offer hung, wool and metal. A child’s cry somewhere under the press. Antony’s grin was wide enough to hide whether he had been told to offer or had offered to see what broke.
+When Antony came forward with the thing in his fist, the Forum’s noise changed pitch. It was white linen bound round laurel, and it weighed nothing: the headband of every foreign king Rome had ever hated. Somewhere below the Rostra a voice shouted the tribunes’ names, the two who had torn the same white band off Caesar’s statue a fortnight back and lost their office for it. Nobody had yet decided who had been insulted. A child was crying somewhere under the press. Antony grinned, because he was holding it and everyone was looking, and held it up.
 
 Caesar refused.
 
-He refused more than once, and in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony offered it a second time and was refused a second time, louder, and there was a roar that was neither cheer nor protest. The third time, Caesar stood and said that Jupiter alone was king of the Romans, and had the wreath carried to the temple on the Capitol. Antony lowered the thing as if lowering a cup he had not meant to empty. The Forum exhaled wrong, half relief, half hunger.
+He refused more than once, and in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony offered it a second time and was refused a second time, louder, and there was a roar that was neither cheer nor protest. The third time, Caesar stood and said that Jupiter alone was king of the Romans, and had the wreath carried to the temple on the Capitol. Antony stood with his arm still half up. The noise that came back was not one he knew. It was not a cheer.
 
 “He will not be king!” someone shouted, relieved.
 
@@ -41,31 +41,25 @@ He refused more than once, and in a way that let every watcher invent a script: 
 
 Antony heard the word go up and understood, a beat late, that he had been the fool. *Rex.* Rome had thrown out its last king four and a half centuries ago and congratulated itself every year since. A man could hold every office and wear the purple without anyone saying *regnum* aloud, so long as nobody handed him the white band. Antony had just handed it to him three times.
 
-In the press Antony saw a familiar face go pale: Statilius, the Epicurean, who laughed at omens at every dinner in Rome. Statilius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony noted the pallor and kept it for later. He let the mouths blur back into Forum.
+In the press Antony saw a familiar face go pale: Statilius, the Epicurean, who laughed at omens at every dinner in Rome. Statilius’s mouth opened on festival noise and closed without a joke. Beside him a freedman was mouthing Parthia and crowns in the same breath, and a water-seller’s boy repeated *king* as if the word were a sweet. Antony had never seen the man without a joke ready, and it put him off his own.
 
-A client of the climbing sort pushed close enough to smell goat and ambition. “Brilliant theatre, consul,” the man said, smile wet with relief. “Rome will sleep easier for the refusal.”
+A client of the climbing sort got to him through the press, close enough to share the goat. “Brilliant, consul. Brilliant. Rome will sleep easier for it.”
 
-Antony clasped him like a brother of the afternoon. “Temporary symbol. Don’t make a new law out of a wreath.”
+“It was a festival,” Antony said, and clasped him, because the man was there to be clasped. “A wreath. A temporary sort of thing. Nobody makes a law out of a wreath.”
 
-The client’s smile held until Antony’s shoulder turned. Then, to the freedman and anyone else still listening for fear: “Temporary. That’s how they always name the thing that stays. He’ll wear it in Parthia and call it nothing.”
+He liked *temporary*. He said it again to the next man, and to the one after. He said it at the wine afterwards to a whole table that had wanted something to pull over its head, and they took it gratefully and passed it down. By the third cup he had half forgotten it was his. A man two couches off told it to him as news.
 
-“He refused it three times,” said the freedman.
+Nobody at the table asked who had given him the thing. He noticed that at about the fourth cup. He had been waiting for one of them to ask, so that he could laugh it off, and none of them did. He sat with the laugh ready and nowhere to put it.
 
-“Three is a number men use for a rehearsal.”
+He came home after dark still smelling of goat. Fulvia had buried two clever husbands before him. She did not come to the door. She was in the small room with the household accounts and a lamp, and the messenger he had sent ahead that afternoon was still standing in front of her with the dust on his sandals. She had kept him there. She said nothing to Antony while the man was in the room.
 
-“Or a prayer.”
+“You may go. You were quick. Thank you.”
 
-“Or a prayer,” the client agreed. “But nobody prays to a man who isn’t listening.”
+She waited for the latch.
 
-Antony heard the word *temporary* travel behind his back already rewriting the afternoon, and laughed louder so the rewrite would have to wait.
+“They say you called it temporary.”
 
-Afterwards he drank and said the symbol was temporary again, to men who wanted the word as a blanket. He could already hear what Fulvia would do with that word: weigh it, not correct it.
-
-By evening the city’s elite rooms had a new fear of *regnum*, whether or not a diadem had ever truly fit. Antony came home still smelling of goat and Forum heat. His wife had buried two clever husbands before him, and Fulvia had opinions on what a clever joke could cost. She did not meet him at the door with praise. She met him with a cup and a look that inventoried the laugh he had sent ahead by messenger.
-
-“They say you called it temporary,” she said.
-
-He grinned the public grin, smaller now. “It was a festival prop.”
+“It was a prop. It was a festival.” He had the public grin on, and felt it getting smaller. There was a jug on the table and one cup, and he poured for himself.
 
 “Who handed it to you?”
 
@@ -73,15 +67,11 @@ He grinned the public grin, smaller now. “It was a festival prop.”
 
 “What man?”
 
-“A man I could not describe to a magistrate.”
+He had the cup halfway up. He saw the cloth again, and the hands that had held it out to him, which had been clean, and the edge of a tunic. He could not get a face to go on top of them. He had been looking at the thing.
 
-“Convenient.”
+“A man I could not describe to a magistrate,” he said.
 
-She didn’t smile. She said nothing at all while the messenger still hovered with dust on his sandals; Antony knew that silence, the one she kept for guests so they could not repeat her. She dismissed the man with courtesy that could have been gratitude, waited until the latch settled, then set the cup down harder than wine required.
-
-“Temporary is a debt word,” she said. “Debts collect. Next time you invent a blanket for the Forum, invent one that doesn’t leave the house colder.”
-
-Antony drank anyway. He stored her sentence where he stored unpaid cohorts: not denied, not paid tonight.
+She did not say that it was convenient. She took the cup out of his hand before he had drunk from it, and set it down on the accounts.
 
 ---
 
@@ -101,11 +91,9 @@ Overhear risk: Medium-High
 
 ---
 
-They chose a colonnade off the Forum where shadows made faces careful. Goat-reek and diadem talk clung in the city’s teeth: the crowd’s half-cheer, Caesar’s refusal that somehow made kingship louder. A slave too near dusted a column that did not need dusting. A water-seller’s boy, same wrong age as the Forum’s sweet-sellers, loitered with ears that could turn politics into street candy. Cassius waited them both out of useful range before he spent a sentence.
+They walked in a colonnade off the Forum, on the shaded side. It was four days since the Lupercalia and the city was still talking of nothing else. A slave was dusting a column near them that did not need it, and a boy selling hot wine had stopped where he could hear. Cassius waited until both had moved off before he said anything worth carrying.
 
 His wife would ask tonight what her brother had said, and to any watching slave the stroll would look like family business. He walked and thought, as he often did now, about bows. He had been at Carrhae. He had seen what a Parthian could do from a running horse, and he had brought the survivors home, and Rome had given him no triumph for it. Caesar had given him a pardon instead, and this year a praetorship, the junior one. Brutus had the senior. Caesar had been kind about that too. That, Cassius thought, was what was wrong with him.
-
-He didn’t begin with murder. He began with the difference between name and power, the only door a careful man would open without smelling steel.
 
 “If he refuses the name and keeps the power,” Cassius said, almost idle, “what do we call the difference? A polite refusal that still sits in the special chair?”
 
@@ -113,7 +101,7 @@ Brutus walked half a step slower. Cassius matched the slower step and did not pu
 
 “We call it the Republic enduring,” Brutus said.
 
-“We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once at the emptied column, then at the boy now arguing a cup price with a muleteer. Ordinary noise was cover; he used it. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
+“We call it a man packing for Parthia with the Senate in his purse.” Cassius glanced once at the emptied column, then at the boy now arguing a cup price with a muleteer. “I have spoken to men who are tired of enduring. Galba will hear a winter price before he hears a hymn. Ligarius still owes a morning to his own pride. I am asking if you are one of them, or if you prefer to write essays about Cato while the rest of us choose a schedule.”
 
 “Galba carried a legion for Caesar in Gaul,” Brutus said. “Why would Galba?”
 
@@ -123,7 +111,7 @@ Brutus stopped walking.
 
 “I am not one of your mornings,” he said. “Not tonight. Not because a wreath made the Forum smell of panic. Panic is how gangs recruit.”
 
-“It is also how Rome recruits,” said Cassius. “The only difference is the standards.”
+Cassius had an answer to that, and it was a good one. He had learned what a good answer did to Brutus, and he kept it.
 
 A cart rattled past on the street beyond the columns; someone cursed a mule as if the mule were a tribune. Brutus went across to the boy by the column, bought two cups of hot wine, paid him too much, and came back and handed one over without asking. Cassius took it. His feet were cold through his boots. The Lupercalia always ended in wet feet. For a while they stood and drank and watched the muleteer lose his argument about the price of a cup, and neither of them said anything at all.
 
@@ -131,9 +119,9 @@ When the wine was half gone Cassius put the cup down on the column’s base.
 
 “Then give me the condition that would make you stop writing and start hearing,” Cassius said. “Or tell me plainly you mean to go on dining with him until he leaves for the East, and I will stop asking.”
 
-Brutus’s jaw worked, as if clemency were a coin under his tongue he had not chosen to swallow. The diadem’s fear still hung between them. Cassius watched it try to dress postponement up as virtue. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
+Brutus’s jaw worked. Cassius watched him look for a way of putting it off that he could respect. “If, only if, anything were ever done, it would have to be law’s face, not a street. I have not agreed to a plan. I have named the only face I could live with. That is not permission.”
 
-“Law’s face,” Cassius repeated, and did not smile. No daggers yet. Only a schedule beginning to grow underneath: men to speak to, rooms to choose, a friend of Caesar’s still unnamed who could walk him in. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
+“Law’s face,” Cassius repeated, and did not smile. He would bring company next time. Brutus was too good at turning two men into a philosophy lesson.
 
 “You will not tell Porcia,” said Brutus, abruptly.
 
@@ -141,27 +129,23 @@ Brutus’s jaw worked, as if clemency were a coin under his tongue he had not ch
 
 “That is what I am afraid of.”
 
-They walked on as if they had been talking about rain.
+They walked on.
 
 At the next corner Cassius left Brutus with festival courtesy, hand clasp, soft thanks for the stroll, a smile sized for anyone watching from a doorway. Ten paces on, the smile dropped. He found Trebonius loitering with a cup he was not drinking.
 
 Cassius had never once seen Trebonius drink the cup he carried. Gaul, Spain, a consulship from Caesar’s own hand: of every man in the circle he had the most to lose and the least habit of saying so, and the great gift of being underestimated by people who thought good manners were the same as good nature.
 
-“Well?” Trebonius asked, mild as market day.
+“Well?” Trebonius asked.
 
-“He refuses the street and has not accepted the surgery,” Cassius said. “He will need a room with more than my voice in it, or he will postpone until Parthia packs for him. I am tired of being his only argument.”
+“He won’t have it done in the street, and he hasn’t said he will have it done at all,” Cassius said. “He needs a room with more than my voice in it. I am tired of being his only argument.”
 
-Trebonius’s mouth twitched, audible almost, a dry sound of recognition. “Bring Casca. Short fuse, long grudge. Casca doesn’t do essays. He does the first ugly moment.”
+“Bring Casca. He’s a Servilius. Brutus can’t have the door shut on his mother’s name.” Trebonius looked into the cup. “And Casca doesn’t do essays. He does the first ugly moment.”
 
-Cassius let the twitch count as the joke landing. “And if Brutus still burns invitations?”
+“And Antony? If it comes to a day.”
 
-“Then we hold Antony with business while better men invent their courage,” Trebonius said, and finally sipped, making the joke look like thirst. “Market-day talk. Debt talk. The sort that makes a consul lean in. I am good at market days.”
+“Somebody keeps him at the door with business while it is done.” Trebonius sipped at last, a very little. “Market-day talk. Debts. The sort that makes a consul lean in. I am good at market days.”
 
-“You are good at lying about market days.”
-
-“That is what market day is for.”
-
-Cassius kept *market day* beside *Casca* and *law’s face* and did not go back to Brutus that night. Going back would have turned resistance into a second chance to postpone. He walked toward Galba’s winter and Ligarius’s pride. The Forum’s *temporary* was still on the city’s tongue. Brutus’s refusal was still warmer than any diadem.
+Cassius did not go back to Brutus that night. He went on toward Galba’s house, and thought on the way about how Ligarius would want to be asked.
 
 ---
 
@@ -169,3 +153,4 @@ Cassius kept *market day* beside *Casca* and *law’s face* and did not go back 
 - **Knows / learns:** after Lupercalia, the conspiracy begins to be spoken. Brutus resists aloud. Cassius uses Trebonius to bring in Casca.
 - **Plants → pays:** Galba (winter terms, consulship slight); Ligarius (pardoned after Africa); Casca (the first ugly moment); Trebonius (market day; holding Antony, Ch 15). Basilus, Cimber and Tillius come later.
 - **Must not:** no daggers yet.
+- **Decisions:** 2026-11-11 (voice pass, heavy edits). SC-16: the back half rewritten; the client and freedman’s exchange and Fulvia’s “Temporary is a debt word” cut; Antony spreads *temporary* himself, notices nobody asks who handed him the diadem, and the scene ends on Fulvia taking the cup from him after “A man I could not describe to a magistrate”. SC-15: opening captions and the Trebonius repartee trimmed; Cassius keeps his answer to “Panic is how gangs recruit”; Trebonius gives the reason for Casca (a Servilius).

@@ -9,41 +9,53 @@
 POV: F1 Nysa · Domus Publica service court
 Date / place: Late winter morning · kitchen / service court
 Canon refs: Suet. 81 gossip · E1 · Dama
-Info ENTER: Routine piety · EXIT: Hears Capys tablet / Spurinna talk; cannot parse; question travels uphill as politics
+Info ENTER: Routine piety · EXIT: Hears the Capys tablet and Spurinna’s warning; sees the girl try the street bar; gives Medullina chickens
 Overhear risk: Extreme (staff)
 **G1:** Primary POV
 
 ---
 
-Staff traded omens like recipes.
+Nysa was crossing the service court with the big basin, full, in both arms, when the washerwoman from the next house started on the tablet.
 
-“Upstairs,” the cook liked to say, “a two-headed calf goes to the Senate and the state pays for the cleansing. Down here we do it for the price of a cake, and nobody gets fined.”
+She stood where she always stood, with her shoulder against the post of the wash-house door and one foot over the sill. She had paid a copper for the story in the Forum and meant to have a copper’s worth out of it. There was a bronze tablet, she said. The new settlers at Capua had been breaking up old tombs for the stone, and they had found it in one of them. It said that when the bones of Capys were moved, a man of Trojan blood would be killed by his own people.
 
-Nysa carried a basin past Dama, the kitchen boy, who swore the sacred chickens had been sullen again. “Wouldn’t touch the grain,” he said. “When they won’t eat, nothing big gets done that day. Ask any priest.” Someone older, Pasiphile from the wash-court, said sullen chickens were a morning habit, not a prophecy. A washerwoman from the next court leaned on the doorpost with a story she had bought cheap in the Forum: a bronze tablet dug up at Capua, saying that when Capys’s bones were found, a man of Trojan blood would be killed by his friends.
+“Who’s Capys?” said Dama. He was sitting on the step with a bowl of beans to shell. He had not shelled one since she began.
 
-“Who’s Capys?” said Dama.
+“Founded Capua. In the old days.” She was pleased to have the name. “And Trojan blood is the Julii. Even you know that. Cornelius Balbus swears to it, and he’s the master’s own man.”
 
-“Founded Capua, in the old days,” she said, pleased to have the name and a boy who lacked it. “And Trojan blood is the Julii. Even you know they come down from Aeneas. Balbus swears the find is real.”
+Nysa needed the door. The washerwoman’s foot was in it. She stood with the basin and waited, and the water went up to the rim and back.
 
-“And Spurinna,” the washerwoman added, “the one who reads the livers, told him to beware until the Ides of March. Beware is a priest’s whole trade.”
+Dama said that the sacred chickens had been off their grain again this morning. He had it from the keeper’s boy. When they would not eat, nothing big got done that day, any priest would tell you. Pasiphile said from the copper that chickens were sullen every morning at this time of year, and so would she be if a priest stood over her while she ate.
 
-“The fifteenth,” Dama said, counting on his fingers, as if the gods had set him sums.
+“And Spurinna,” said the washerwoman. “The one who reads the livers. He’s told him to beware. Until the Ides of March.”
 
-“A bad day for debts, any month,” said Pasiphile. “He could have said it about the Kalends and been right as often.”
+“That’s the fifteenth,” Dama said. He began to count on his fingers how far off it was, and lost his place, and began again.
 
-Dama wanted the tablet to mean knives. Pasiphile wanted it to mean bad cheese. The washerwoman wanted it to mean she had been right to spend a coin on Forum talk. Nysa wanted the basin not to spill while three truths fought over one doorpost.
+When she said *beware* two of the kitchen girls looked at the street door. The younger one went across to it and put her thumb on the bar and pressed, and came back. Nobody had told her to. She did not try the garden door, or the lane door where the oil came in. It was only the one the gentlemen used.
 
-Nysa set the basin down more carefully than the water required. When the washerwoman said *beware*, two kitchen girls glanced at the service door and one checked the bar with her thumb, habit, not theology. Nysa noted which doors got the thumb.
+Nysa’s arms had begun to shake.
 
-Phileros passed through the court and sniffed, the outer keys at his belt and everyone’s mood with them. He moved among the staff like a tax that could hear. “If you have time for birds,” he said, “you have time for the vestibule mats.”
+“Your foot,” she said.
 
-“Mats don’t beware,” Dama muttered, just soft enough.
+The washerwoman looked down. “What about it?”
 
-Phileros heard anyway. “Mats feed you. Beware doesn’t.” He did not smile.
+“It’s where I’m going.”
 
-Nysa moved. In her tunic, against the ribs, there was not yet a wax fragment, only the habit of listening.
+The foot moved. Somebody laughed, and Nysa did not see why.
 
-Later, in the Subura, she told her friend Medullina that the house was full of birds and priests. Medullina wanted the names of senators. Nysa gave her chickens, which were safer. That night, wiping her hands on her apron, she wondered, not for the first time, who in the city was paid to make the gods talk.
+Phileros came through from the front of the house then, with the outer keys at his belt. He stopped. He looked at the bowl of beans, and at the washerwoman, and went on looking at her until she remembered that she lived next door.
+
+“If there is time for birds,” he said, “there is time for the vestibule mats.”
+
+“Mats don’t beware of anything,” Dama said to the beans.
+
+“The mats are what you are fed for.” He had heard, as he heard everything. His eye came round to Nysa and to the basin, which she had been holding the whole time. “That will be cold.”
+
+It was. She carried it in and tipped it, and went back to the copper for more.
+
+That evening she went down to the Subura with the mending money and saw Medullina, who wanted to know which senators had come to the house that week. Nysa told her about the chickens. She told it at length, the keeper’s boy and the grain and what Pasiphile had said. Medullina said that she was no use to anybody.
+
+Walking back up, she tried to remember whether the bar had gone down under the girl’s thumb or had only been touched. If it had gone down, it had been sitting loose. She thought that it had gone down. She would look in the morning, before Phileros was about.
 
 ---
 
@@ -58,11 +70,11 @@ Overhear risk: Elite
 
 ---
 
-Cicero sniffed the Sibylline talking-point the way he sniffed a bad period in someone else’s oration.
+Cicero did not believe in the Sibyl’s sudden interest in Parthia.
 
-Cicero had worn the augur’s robe himself and knew how a priestly college found what it was looking for. He had watched the Sibyl’s keepers go down to the vault under Jupiter’s temple when the city was frightened, and come back up with whatever the city had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety and ambition, like a fish in vine leaves. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
+He had worn the augur’s robe himself and knew how a priestly college found what it was looking for. He had watched the Sibyl’s keepers go down to the vault under Jupiter’s temple when the city was frightened, and come back up with whatever the city had been frightened into wanting. This year, someone always said, the books implied that only a king could conquer Parthia. The word arrived at dinner wrapped in piety. Caesarian flatterers had been testing kingship talk for weeks; Cicero could taste the test. Heaven, when it spoke this clearly in a politician’s interest, was usually a man with a throat.
 
-“Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s softer knives. They float crowns to see who salutes.”
+“Balbus,” he told the empty room, because Atticus wasn’t there and the room wouldn’t contradict him, “or one of Balbus’s people. They float crowns to see who salutes.”
 
 Cicero suspected Balbus of most things and had been right about perhaps half.
 
@@ -98,4 +110,4 @@ He did not imagine knives. He imagined speeches: the one he would make against t
 - **Knows / learns:** staff omens (the Capys tablet, Spurinna, the chickens) are unproven (AMB-3). The Ides are 15 March. The Sibylline king-for-Parthia talk is manufactured (OMEN-1); Cicero treats it as politics and guesses Balbus; Tiro brings the rumour’s date: Lucius Cotta of the Fifteen to move at the Ides sitting in Pompey’s hall that Caesar be called king outside Italy (Suet. *Jul.* 79.3; Cic. *Div.* 2.110, which scoffs at the rumour). Cicero says it will not happen and begins the speech against it; he counts the days. Hirtius courier cut 2026-11-04 (Ch 6 and Ch 13 carry that beat). (Calpurnia’s “running sleep” in the kitchen cut 2026-11-04, readers 5–6: Ch 12 carries it.)
 - **Plants → pays:** the haruspex; the dream packet before Ch 14; Demosthenes (in Cicero’s voice only; the word *Philippics* waits for Ch 25). The king-bird is told in Ch 15, not here.
 - **Must not:** no Calpurnia CV.
-- **Decisions:** 2026-11-04 (Reuben, examine-next round): the rumour gets its date (Cotta, the Ides sitting) in place of the narrator’s “He was wrong about the floater”; the Hirtius courier cut. Chapter length roughly unchanged; the settled cut size stands.
+- **Decisions:** 2026-11-11 (voice pass): SC-26 rewritten in full in the Ch 2 Nysa’s voice (she holds a full basin through the whole of it; the kitchen’s sayings are gone; she ends on whether the bar was loose). SC-27 light edit. 2026-11-04 (Reuben, examine-next round): the rumour gets its date (Cotta, the Ides sitting) in place of the narrator’s “He was wrong about the floater”; the Hirtius courier cut. Chapter length roughly unchanged; the settled cut size stands.

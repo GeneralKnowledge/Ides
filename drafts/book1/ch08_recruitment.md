@@ -14,13 +14,11 @@ Overhear risk: Medium
 
 ---
 
-Cassius treated the Lupercalia as proof the disease had symptoms in daylight.
-
-The diadem had been offered, refused, offered again, theatre that left his mouth dry and metallic. In the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius didn’t argue. The Forum would not vote a fever down.
+The diadem had been offered, and refused, and offered again, and in the street men still argued whether Caesar had wanted the crown or wanted the refusal. Cassius did not argue.
 
 The clock was simple, and he said it to himself every morning like a prayer. Caesar would leave for the East within weeks. When he went, he would take his legions, his Senate and his promises with him, and when he came back, if he came back, he would come as the man who had beaten Parthia, and no one in Rome would be in a position to say no to him again. If anything was going to be done, it would be done while he was still within reach of a Roman street.
 
-He walked his own portico until the tiles knew his step. Galba’s name sat in his mouth like a stone he meant to spit into the right palm. Ligarius next: gratitude was a door that opened from the inside. Then the others, a list he kept in his head, of men whose villas lined the Appian Way south of the city where the pardoned Pompeians had retired to be grateful in private, and who still smiled too hard at Caesarian dinners.
+He walked his own portico. Galba was first. Ligarius was next. Then the others, a list he kept in his head and not on wax, of men whose villas lined the Appian Way south of the city where the pardoned Pompeians had retired to be grateful in private, and who still smiled too hard at Caesarian dinners.
 
 He called for wine and didn’t drink it. He wanted his hands free.
 
@@ -28,13 +26,13 @@ Servius Galba came exactly at the hour Cassius had named, with the etiquette of 
 
 “You saw the Forum,” Cassius said.
 
-“I saw a joke that forgot it was a joke,” Galba answered.
+“I saw it,” Galba answered. “I did not know where to look.”
 
 Cassius watched Galba’s hands: no cup, no fidget, one ring turned once and stopped. “We need men who can stand in a room and finish what a petition starts.”
 
 Galba’s mouth tightened, in calculation rather than refusal. “And Brutus?”
 
-“Brutus is the name,” Cassius said. “Names do not recruit. They bless. I recruit. Tonight I make him listen with company, so he cannot pretend it was only my temper.”
+“Brutus is the name,” Cassius said. “I do the asking. Tonight I make him listen with company, so he cannot pretend it was only my temper.”
 
 “His temper is exactly what he will say it was.”
 
@@ -68,57 +66,66 @@ Overhear risk: High (Servilia); household
 
 ---
 
-Porcia had gone to bed with a headache that sat behind the eyes like watchfulness. The masks on the wall did what they always did: judged without moving. Servilia remained at the dining room’s edge, wine untouched.
+Porcia had gone to bed early with a pain behind her eyes, and so it was his mother who sat on with him after the meal. Servilia had come to dinner and had not yet called for her litter. She had a cup of the honeyed wine in front of her, untouched, and she was wearing the pearl.
 
-Cassius arrived with Publius Servilius Casca on the threshold as if they had met by chance. They had not. Brutus saw the choice at once: Casca was a Servilius, his mother’s name, and a Servilius could not be turned away at this door. He saw the rest too: Cassius had brought a second voice so the evening could not become a private essay.
+He had not seen it on her for some years. It was the single one, which all Rome knew the price of, and knew who had paid it. That had been fifteen years ago. He had been twenty-six, and it had been explained to him at the baths by a man who thought he was doing him a kindness. He wondered why she had put it on tonight, and decided that it was not a thing a son could ask.
 
-“We disturb a quiet house,” Cassius said, formal enough for station.
+The steward came to say that Gaius Cassius was at the door, and Publius Servilius Casca with him, and was the master at home to them.
 
-“Quiet houses are where Rome invents its courage,” Servilia answered, equally formal. She did not rise to kiss cheeks. She let them stand.
+“They will have met on the hill,” Servilia said.
 
-Brutus did not offer couches at once. Offering couches was how he postponed. “If this is about dinners,” he said, “I have already burned one invitation this winter. I can burn another.”
+They had not met on the hill. Brutus knew what he was being shown. Cassius alone could have been told that the household had retired. But Casca was a Servilius, of his mother’s name, and his mother was in the room, and there was no form of words that would shut the door on him. Cassius had counted on that. Brutus found that he minded the neatness of it more than the trespass.
 
-Casca smiled with his teeth. “We are not here to dine you into a better mood. We are here because the Forum still tastes of that wreath, and men who wait for Parthia will wake up subjects.”
+“We disturb a quiet house,” Cassius said, formally, from the doorway.
 
-Cassius set his cup down without drinking. “You told me law’s face. I am bringing you law’s face with a witness. Casca can stand in a room when a petition becomes a finished act. I cannot bless this alone, your name is the only one that makes a surgery look like tradition.”
+“You do. Sit down.” Servilia did not rise. She looked at Casca, who was some kind of cousin to her, as she would have looked at a bill.
 
-“Then find another tradition,” Brutus said, and heard his own voice go sharp. “I will not be the respectable front for a gang. Caesar spared me. That spare still sits in this house whether we like it or not.” He hated how thin *debt* sounded. The man had not only signed a tablet. He had kept a place for him at ordinary tables afterwards, hand on his shoulder like kinship that politics had not earned. Killing that hand later would be answering warmth with steel and calling the answer law.
+Brutus saw to the couches. Casca had come out without a cloak, and Brutus had the brazier moved nearer to him. He sent for the other wine, and for figs and the hard cheese, since the kitchen fire would be banked by now and it would be unkind to have it raked out. It took some time and he did it thoroughly. Cassius watched him do it. A cup was put in front of Cassius and he did not touch it.
 
-Servilia’s eyes flicked once to the masks, then to Cassius. “Debts to living men are not the same as debts to names. Do not confuse the two while my son is still practising courtesy as a career.”
+“If this is about dinners,” Brutus said, when there was nothing left to arrange, “I have already burned one invitation this winter. I can burn another.”
 
-“You are very fond of my courtesy, mother.”
+“It isn’t dinners.” Casca was a heavy man, short in the breath, and he had eaten the three figs nearest him before he spoke. “I was in the Forum for the wreath. All three times. I stood and cheered when he pushed it away, with everyone else, and then I went home and couldn’t eat. I have been cheering for ten years. I’m tired of it.”
 
-“I have invested in it.”
+“You told me law’s face,” Cassius said. “In the colonnade. So I have brought you a man who was there when you were not, and who will be there on whatever day it is. I cannot do this under my own name. They would say it was the praetorship.” He looked at the wall, where the cupboards were shut for the night. “Under yours it is what those did.”
 
-Casca leaned forward. “Courtesy is how we all stayed alive. It is also how the diadem got a second cheer. I am tired of surviving beautifully.”
+“Then you must find another name.” It came out sharper than he liked. “I will not be the respectable front of a gang. He spared me. I do not mean a tablet with a seal on it. I mean that at Larissa, when I came in,” and he had the sentence, he had it entire: that a benefit binds the man who receives it in the measure not of its size but of the spirit in which it was given. What he had instead, when he opened his mouth for it, was the weight of a hand on his left shoulder, walking him to a door, some weeks ago. He put his own hand up to the place. He took it down again.
 
-Brutus walked to the end of the room and back.
+“At Larissa he gave you dinner,” his mother said. “I know. He wrote to me that night.”
 
-“If it is done as murder,” he said, back still half-turned, “I am not with you. If it is done as a street, I am against you. I have not said yes. I have said I hate kings. Hating kings is not the same as opening a friend’s door with a knife behind it.”
+Nobody spoke. Casca looked at the pearl, and then with great care at the cheese.
 
-Silence held long enough for a slave’s foot to hesitate at the curtain and retreat.
+“He leaves within the month,” Servilia said. She said it to Cassius, as she might have told him the hour. “He told me so himself.” She got up. “I am going to see whether Porcia wants anything. I shall be some time.”
 
-Cassius pressed on, because a pause would only let Brutus compose. “Then hear this without poetry: we will choose a morning with you or without you. Without you, it still happens, and then the city will ask where the Brutus was while lesser men did the ugly arithmetic. With you, you can still demand surgery. Refuse the room entirely, and you get to write essays about Cato while Casca counts mornings.”
+Her hand rested on Brutus’s shoulder as she passed him, the other shoulder, and was gone.
 
-Casca added, almost mild, “I prefer your essays to your absence. Absence looks like approval of whatever we become.”
+He walked to the end of the room and came back.
 
-Brutus’s hands found the side table and the polite refusal draft still waiting, another dinner, another crown-talker. He did not burn it yet. Burning in front of them would have been theatre.
+“If it is done as a murder, I am not with you. If it is done in the street, I am against you. I have not said yes. I have said that I hate kings, which every man in this city says, and to hate kings is not,” and it went from him again. A slave’s foot came to the curtain, and waited, and went away.
 
-“I will not recruit,” he said. “I will not smile men into this. If, if, there is a Senate face to it, I will hear the plan. I will not hear massacre. I will not hear Antony stacked with the rest like cordwood. That is not courage. That is panic with ancestors painted on it.”
+“Then hear it without the rest,” Cassius said. “There will be a morning. With you or without you. Without you it still happens, and afterwards the city asks where the Brutus was. With you, you may say how it is done.”
 
-Cassius’s jaw worked once, interest stored. “Spare arguments later. Hearing is enough for tonight.”
+“I would sooner have you there saying no to things,” Casca said, quite mildly, “than at home.”
 
-Servilia rose. Her hand brushed Brutus’s shoulder, brief, private, not a blessing for Cassius to claim. “Worthy men sleep badly,” she said to the room, then to Cassius with perfect courtesy: “You have been heard. The house is tired.”
+“I will not recruit. I will not ask any man. If there is a Senate face to it, if there is, I will hear what is proposed. I will not hear a massacre. I will not hear Antony’s name put in with the rest like cordwood.”
 
-They left with festival manners intact, clasps, wishes for health, and Casca’s very old joke about the mule elected tribune that declined the honour because it would have to speak in public. Servilia’s mouth almost moved.
+“Nobody has said Antony.”
 
-When the door had shut on them, Brutus held the refusal draft over the lamp until names blurred, and set it down carefully.
+“Somebody will,” Brutus said, and that one he finished.
 
-He slept little. When he did, the Forum would not stop cheering, and a crown kept returning like a fly.
+Cassius stood. “Hearing is enough for tonight.” He had still not touched the cup.
+
+Servilia came back as they were taking their leave. She had been gone exactly long enough. At the door Casca told the joke about the mule that was elected tribune and declined the honour because it would have had to speak in public. He had been telling it since they were boys and he still told it badly. Servilia’s mouth almost moved.
+
+When the bar was down Brutus went to the side table. There was a refusal lying there in his own hand, to another dinner, written that afternoon; he had not touched it while they were in the room. He picked it up by the corner. He remembered the wax, and held it a moment, and put it down again where it had been.
+
+“Marcus. My fingers are stiff.”
+
+She had turned her back to him and bent her neck. He undid the clasp. It was a small gold hook, very fine, and it took him two attempts. The pearl came away into his palm, heavier than he had expected and warm from her, and he stood holding it until she put out her hand for it.
 
 ---
 
 ## Continuity
 - **Knows / learns:** Cassius recruits in person and Galba names his price. Brutus is worked on by Cassius, Casca and Servilia together; what he gives is a costly inch (he will hear it; no massacre; Antony not to be killed), not a clean yes. Servilia presses as a mother in the social season, not in operational detail. Galba is approached first; Ligarius is queued. Casca opens doors through the Servilius name.
 - **Plants → pays:** Galba’s winter terms (Ch 17 absence); Casca’s doors.
+- **Decisions:** 2026-11-11 (voice pass). SC-21 rewritten in full as an evening: Servilia has dined and is wearing Caesar’s pearl (Suet. *Jul.* 50); Casca cannot be refused because he is a Servilius and she is in the room; Brutus arranges couches and food and twice loses his sentence (the hand on his shoulder from Ch 6); Servilia says “He leaves within the month. He told me so himself” and leaves them to talk; his terms are unchanged (will hear it, no massacre, not Antony); he does not burn the refusal; he undoes the clasp of the pearl. SC-20 light edit.
 - **Must not:** no Ch 4 re-introduction of Servilia; no coda outside the POV; compartments held (FT13).
