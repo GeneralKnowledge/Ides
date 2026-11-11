@@ -187,16 +187,16 @@ He knotted the laces and hung them round his neck. The left one gaped at the hee
 POV: F4 Hordeonius · rumour ledger / letter traffic
 Date / place: Late April 43 · Hordeonius’s stall, Rome
 Canon refs: AMB-2: not confirmed · M17 · FT11
-Info ENTER: Pansa dying · EXIT: Poison rumour unconfirmed; Fulvia’s paper called in, in full, with a fee
+Info ENTER: Pansa dead · EXIT: Poison rumour unconfirmed; Fulvia’s paper called in, in full, with a fee
 Overhear risk: Extreme rumour
 
 ---
 
-In the last week of April the Janus had two subjects. One was the consul Pansa, who lay at Bononia with the wound he had taken on the road and had been nine days dying of it, which the stalls thought longer than was natural. The other was Fulvia’s paper.
+In the last week of April the Janus had two subjects. One was the consul Pansa, dead at Bononia of the wound he had taken on the road, and the stalls did not think it natural that a wound like that should have killed him. The other was Fulvia’s paper.
 
 A client with a dinner to go to wanted the first settled before evening. He leaned on the board and counted off what he had. It was the wound, and nothing else. Or Antony’s people had put the tale about, to spoil the victory. Or the boy’s friends preferred fewer consuls, and the surgeon had been seen to. He liked the third. He wished to know what Hordeonius would say to it, as a man who heard things.
 
-“I would not say anything to it.” Hordeonius did not raise his voice. “Nor to the others. A man is dying up there, and he has a wife in this city. You will not bring that to my board as something to be valued.”
+“I would not say anything to it.” Hordeonius did not raise his voice. “Nor to the others. A man has died up there, and he has a wife in this city. You will not bring that to my board as something to be valued.”
 
 The client said that he had meant no harm, and that it was very properly put, and went away to his dinner with all three.
 

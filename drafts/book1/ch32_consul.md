@@ -130,7 +130,7 @@ He felt sick after the count, stomach, not omen. A taste of metal rose; he swall
 
 There was one smaller vote first, which Antony had kept off the agenda through the whole of his consulship. The thirty lictors who stood for the city’s old wards were called to the Capitol and passed the adoption into law. It took less time than the auspices had. Octavian had been signing himself Caesar since the May before; now the clerks could write it without a note in the margin.
 
-Pedius had his first law ready before the lictors had learned the way to the new consul’s door: a court for the men of the Ides. It sat in a day. Nobody spoke for the absent, because nobody was fool enough to. Octavian read the list of the condemned at supper, and Decimus’s name was on it, and Casca’s, and Brutus’s and Cassius’s at the top, and he put the tablet face down beside his plate and ate what was on the plate, because his mother had told him to.
+Pedius had his first law ready before the lictors had learned the way to the new consul’s door: a court for the men of the Ides. It sat in a day. Nobody spoke for the absent, because nobody was fool enough to. Octavian read the list of the condemned at supper, and Decimus’s name was on it, and Casca’s, and Galba’s, and Brutus’s and Cassius’s at the top, and he put the tablet face down beside his plate and ate what was on the plate, because his mother had told him to.
 
 ---
 

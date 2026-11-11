@@ -162,7 +162,7 @@ A rider came up the coast road in the middle of that, grey with dust, with his m
 
 Brutus nodded. He found he was still nodding and stopped.
 
-“Your mother writes that she had been...”
+“Your mother writes that she had been…”
 
 “No,” Brutus said. “Not how. Not yet.”
 
