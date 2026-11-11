@@ -19,7 +19,7 @@ Overhear risk: High (attendants; walls)
 
 Calpurnia was asleep in the Domus Publica’s master cubiculum when the house fell inward.
 
-It fell the way a face falls when the muscles quit. Calpurnia had felt real earthquakes, the long grind under the Palatine; this was quieter and worse. This time it was the pediment above them, the painted front that told the street this was still a public house and not merely a husband’s bed, cracked along its smile and came down into her lap: dust, timber, the soft insult of painted wood pretending to be marble.
+It fell the way a face falls when the muscles quit. Calpurnia had felt real earthquakes, the long grind under the Palatine; this was quieter and worse. This time it was the pediment. The painted front over their door, the one that told the street this was the chief priest’s house and not only a husband’s bed, cracked along its smile and came down into her lap: dust, timber, painted wood pretending to be marble.
 
 Caesar was in her arms. She knew his bulk from years beside a man who didn’t truly sleep so much as pause. In the dream his blood was hot and absurdly ordinary, the same heat as a cut finger at a sacrifice. She tried to hold the wound closed with her palms.
 
@@ -27,7 +27,7 @@ The bedroom door flew open. Wind that did not belong to March came through. She 
 
 The door was open.
 
-Moonlight lay in a stripe across the bed. The little court beyond showed a slice of sky the colour of old iron. Caesar was upright on one elbow, hair flattened on one side, blinking the way powerful men blinked when the world refused to wait for them to put their faces back on.
+Moonlight lay in a stripe across the bed. The little court beyond showed a slice of sky the colour of old iron. Caesar was upright on one elbow, hair flattened on one side, blinking, his face not yet put back on for anyone.
 
 “It came down,” Calpurnia said. Her voice sounded scraped. “The front of the house. And you…”
 
@@ -39,7 +39,7 @@ She stopped. Words made it smaller. She didn’t want it smaller.
 
 “Then it is fortunate that I was beneath it only in your sleep. The carpenters have never been so well behaved.”
 
-Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter, then a settling. Something hung for war had remembered it was metal.
+Somewhere beyond the wall a board complained. Farther off, toward the atrium, or the shrine where the shields and spears of Mars lay in the chief priest’s keeping, metal spoke. Every nurse in Rome told every child the same thing: the war god’s arms rattled on their own before a great disaster. A clatter, then a settling.
 
 Out in the service passage a girl’s voice said *metal* and was hushed by an older one. Phileros’s keys answered from farther off.
 
@@ -59,11 +59,11 @@ Calpurnia’s hands found his forearm. She did not weep. She held on.
 
 “I am asking you to be a good deal more careful than ill.”
 
-Caesar’s mouth twitched toward the cut-joke that made hard men laugh in camps, then did not complete. He glanced at the wax tablets on the low chest, the eternal unfinished stack. Parthia would not climb out of the wax and solve his wife.
+Caesar’s mouth started on a joke and gave it up. He glanced at the tablets on the low chest, the stack he never finished. Nothing in them would tell him what to do about his wife.
 
 “We will see what the morning says,” he said.
 
-Calpurnia kept her hands on him until her fingers ached. Outside, the Domus Publica assembled its night noises into dawn noises: a cough, a scrape, someone’s prayer muttered too fast to be pious.
+Calpurnia kept her hands on him until her fingers ached. Outside, the night noises of the house turned into morning ones: a cough, a scrape, somebody praying too fast.
 
 She did not sleep again.
 
@@ -88,13 +88,13 @@ Overhear risk: Medium
 
 Caesar didn’t tell her about the clouds.
 
-In his sleep he had been lifted, not thrown, until Rome was a stain and the air was thin. Someone’s hand, vast as law, had closed around his. Jupiter’s, the dream insisted, with the shameless clarity of dreams. Caesar was chief priest; he knew the reading without looking it up. Taken by the hand of the best and greatest: either the highest honour a man could be paid, or notice that his use among the living was over. He had not felt triumph. He had felt the odd calm of finishing a list.
+In his sleep he had been lifted, not thrown, until Rome was a stain and the air was thin. A hand much larger than his own had closed around it. Jupiter’s, the dream insisted, with the shameless clarity of dreams. Caesar was chief priest; he knew the reading without looking it up. Taken by the hand of the best and greatest: either the highest honour a man could be paid, or notice that his use among the living was over. He had not felt triumph. He had felt the odd calm of finishing a list.
 
-He sat on the edge of the bed and pressed his thumb into the opposite palm until the dream’s altitude drained out of him. Calpurnia watched. He might tip backward into the mattress and never come up.
+He sat on the edge of the bed and pressed his thumb into the opposite palm until the dream’s altitude drained out of him. Calpurnia was watching him as if he might tip backward into the mattress and not come up.
 
 “Water,” she told someone at the door.
 
-Nysa came, the Greek girl with the quiet feet and the eyes that counted exits. He drank. The water tasted of cistern and night.
+Nysa came, the Greek girl who walked without a sound. He drank. The water tasted of cistern and night.
 
 “You dreamed,” Calpurnia said. Not a question.
 
@@ -110,9 +110,9 @@ Nysa came, the Greek girl with the quiet feet and the eyes that counted exits. H
 
 He rose and the room tilted a fraction, old enemy, the brief swim behind the eyes. A general who fainted in the field was a thing his enemies would have paid well to see. He waited it out without granting it a name. Physicians loved names. Names became reasons to stay in bed while other men voted.
 
-In the atrium the first clients would soon arrive, or pretend to: the morning crowd that made a house look like power. The Senate waited at Pompey’s theatre because he had put them there, on a day he had chosen, for business that required bodies in seats. Parthia didn’t move for a wife’s terror. Neither did the Forum’s appetite for a man who hid.
+The first clients would be in the atrium soon. The Senate was meeting in Pompey’s hall because he had called it there, on a day of his own choosing, and he needed the seats full before he went east. A man who called the Senate and then stayed in bed for his wife’s dream would be a joke in every barber’s shop by noon.
 
-He thought, without drama, that men had wanted him dead since he was young enough to find it flattering. The thought didn’t name faces. It named pressure, March pressure, familiar as camp rain. Sulla had wanted him dead once, when he was barely a man; pirates had held him for ransom and he had promised them crucifixion, and kept the promise. The list was old and he had stopped reading it.
+Men had wanted him dead since he was young enough to find it flattering. Sulla had wanted him dead once, when he was barely a man; pirates had held him for ransom and he had promised them crucifixion, and kept the promise. The list was old and he had stopped reading it.
 
 Calpurnia stood in the cubiculum doorway as if she could hold the lintel up with her shoulder.
 
@@ -146,7 +146,7 @@ Overhear risk: High (Nysa, Phileros, household)
 
 Decimus washed his hands before he entered. They were not unclean.
 
-The Sacra Via was already loud. March mornings in Rome never waited for great men. The shop fronts had been open two hours. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. His heart was in his throat.
+The Sacra Via was already loud. March mornings in Rome never waited for great men. The shop fronts had been open two hours. Someone argued about fish. Decimus walked through it with the cheer of a man sent to fetch a friend to dinner, and his heart was going hard.
 
 If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
 
@@ -162,49 +162,45 @@ Phileros was already in the vestibule with the sentence, onion and oil on his br
 
 Behind Phileros, Nysa stood with empty hands and a too-straight back, the posture of someone who had almost done something and been stopped. Phileros hissed without looking at her. “Mats. Not mornings.” Nysa did not move.
 
-In the atrium Caesar stood dressed enough for the street, the unfinished stack of tablets behind him like a second, quieter Senate. Nysa had followed as far as the useful edge. Decimus counted what the room wanted: Caesar’s ease, Calpurnia’s grip on the doorframe, Phileros’s keys.
+In the atrium Caesar stood dressed for the street, with his tablets stacked on the table behind him. Nysa had followed as far as the doorway. Calpurnia had hold of the doorframe.
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
-The word *king* did what it always did in that house. Everyone in the atrium knew what *king* meant since February. A man who stayed home for a woman’s dream could be called many things. A man who dismissed the Senate by whim could be called only one.
+Nobody in that house had said the word aloud since the Lupercalia. Calpurnia’s face changed.
 
-“Do not call my fear a king’s excuse,” Calpurnia said, not a sound, a cut. “You have walked him through ditches and laughed him past philosophy. Do not walk him past me as if I were weather.”
+“Do not call my fear a king’s excuse,” Calpurnia said. “You have walked him through ditches and laughed him past philosophy. Do not walk him past me as if I were weather.”
 
-Decimus had to answer. Bowing without yielding would not hold against words. “Domina, I walk him to the Senate he summoned. If he dismisses them himself, your dream still gets heard. If he stays, the city writes a different dream for him, and neither of us will like the author.”
+Decimus had to answer her. “Domina, I walk him to the Senate he summoned. If he dismisses them himself, your dream still gets heard. If he stays, the city writes a different dream for him, and neither of us will like the author.”
 
 Decimus had said *domina* to her at dinner for years. This morning he heard himself say it.
 
-Phileros cleared his throat for the keys’ dignity. “The litter is ready. Chickens were rude. That is not…”
+Phileros cleared his throat. “The litter is ready. Chickens were rude. That is not…”
 
 “Not your sentence,” Calpurnia said, without looking at him.
 
-Nysa’s voice arrived small and stubborn from the edge. “I have…”
-
-“Not now,” Phileros snapped.
-
-“Enough,” Caesar said, and the room rearranged around the word. His gaze flicked, doors, lists, Decimus’s face, Calpurnia’s knuckles white on wood. “The sacrifices have been sour.”
+“Enough,” Caesar said, and everyone stopped. He looked at the door, at Decimus, at his wife’s knuckles on the wood. “The sacrifices have been sour.”
 
 Decimus had heard it on the doorstep: the morning’s animal opened, the liver wrong, the haruspices sending word that the gods did not like the day.
 
-“Sacrifices are often sour,” Decimus said. “Birds are often rude. If we postpone for every rude bird, Parthia will send its own haruspices and laugh.” He stepped closer, into the radius where only friends stood, and felt Calpurnia’s cut still in the air, unpaid. “Come and dismiss them yourself if you must. Do not send a message that smells of terror. You are not a message.”
+“Sacrifices are often sour,” Decimus said. “Birds are often rude. If we postpone for every rude bird, Parthia will send its own haruspices and laugh.” He stepped closer, close enough that the slaves would not hear, and knew that Calpurnia had not finished with him. “Come and dismiss them yourself if you must. Do not send a message that smells of terror. You are not a message.”
 
 He heard how smooth he sounded and hated the smoothness, then used it anyway. Softness got men through Spanish gates when the wine was bad and the joke was worse. Softness would get Caesar through this door.
 
 Caesar was silent. The silence scared Decimus more than anger would have.
 
-“Make your own courage the omen,” Decimus said, quieter. Need made the sentence. “The Senate has sat since first light. Come.”
+“Make your own courage the omen,” Decimus said, quieter. “The Senate has sat since first light. Come.”
 
-He put out his hand, and his chin tipped, half a breath, the old road signal: ditch clear, philosophy later. Calpurnia saw it. Her mouth tightened. She recognised the habit that had always meant *he will go with this man*. Decimus felt the tip fail under her eyes, too small a betrayal to name, too large to take back, and held the hand open anyway without finishing the joke that used to follow the tip in Spain.
+He put out his hand, and his chin tipped half a breath toward the door, as it had on the road in Spain when a ditch was clear. Calpurnia saw it. Her mouth tightened. Decimus held the hand out anyway.
 
 Caesar took the hand.
 
-Not as a prisoner. As a man helped over a threshold he had crossed ten thousand times. The dry warmth of the palm arrived without the laugh that should have come with the chin-tip. Decimus kept his chin still after that.
+He took it the way he had taken it over a thousand thresholds, without looking. His palm was dry and warm. In Spain there would have been a joke next. Decimus kept his chin still.
 
 Calpurnia’s hand fell from the doorframe.
 
-They moved toward the vestibule. Litter poles knocked. Outside, the Forum’s throat was waking. Decimus counted the turn toward the Campus the way he had once counted ditch-edges for this man’s horse: half a breath early, so the friend never felt the drop. He hated that the count still worked.
+They moved toward the vestibule. Litter poles knocked. Outside, the Forum was filling. Decimus took the turn toward the Campus half a breath early, as he had once taken ditch-edges for this man’s horse, so that the friend never felt the drop. He hated that it still worked.
 
-Caesar didn’t speak. Decimus filled the air anyway with the chatter of loyalty: which way, how many, Antony would be, Antony would be held, which was Trebonius’s job. Decimus didn’t say that. He said, “It will be a short session,” and smiled.
+Caesar didn’t speak. Decimus thought of the portico, and of Trebonius waiting in it for Antony, and said, “It will be a short session,” and smiled.
 
 “You have not asked me what is on the agenda,” Caesar said at last.
 
@@ -214,7 +210,7 @@ Caesar didn’t speak. Decimus filled the air anyway with the chatter of loyalty
 
 “Then we shall be done by noon,” said Decimus, and felt the sentence curdle as it left his teeth.
 
-At the threshold Nysa stepped forward again with something like purpose. Phileros’s arm barred her, keys first, girl second. She did not cry out. She only looked at Decimus. Another door that closed.
+At the threshold Nysa stepped forward again. Phileros put out his arm, keys and all, and she stopped against it. She did not cry out. She only looked at Decimus.
 
 “We go,” Caesar said.
 
@@ -240,37 +236,17 @@ Overhear risk: Extreme (Phileros rivalry; Decimus glance)
 
 ---
 
-When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything since before it was light, since the house woke wrong.
+When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything since before it was light.
 
-She had woken because the house woke wrong.
-
-Not the usual wrong, the cook shouting, a client too early at the vestibule, Phileros cursing a dog in the Sacra Via. This was quieter: wood complaining, a door that should have stayed shut. Then metal, somewhere toward the priest-store, speaking once like a dropped tray and then pretending it had not.
-
-She was already on her feet in the side room off the atrium when Calpurnia’s voice came through the cubiculum wall, not words at first, only the sound a throat makes when it has been running in sleep.
-
-Phileros’s lamp bobbed from the vestibule. “If it’s thieves…”
-
-“It isn’t,” Nysa said, and hated that she sounded sure.
-
-“Thieves do not usually rattle the god of war,” Phileros said.
-
-She did not answer that. She did not know what did.
-
-In the cubiculum the air was colder than the corridor. She brought water when told. Her hands didn’t shake until she had turned away. She’d dreamed of nothing. She’d only listened, which was worse, because listening left you with pieces you couldn’t put back.
-
-Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Nysa, who had washed blood from floors after banquets, felt her stomach tip anyway, not at blood, at the way Calpurnia’s voice tried to stay private and failed.
-
-Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.”
-
-In the service court the sky shifted from iron to dirty pearl. Nobody came from the haruspices. She waited by the lane door until the sun was on the top of the wall, and still nobody came.
+Caesar had sent her to the lane door before it was light, to wait for word from the haruspices. She had waited there until the sun was on the top of the wall, and nobody had come.
 
 Against her ribs, under linen, the wax fragment held its few words. She had written them yesterday, after two cloak-men talked on the far side of a door: *friends*, *consul*, *spare*, *danger*, *stays*. She still did not know whose friends, or which consul. She understood enough to be afraid of Phileros finding it.
 
-When she returned to the atrium, Decimus was already there.
+When she came back to the atrium, Decimus was already there.
 
 He hadn’t come like a knife. He’d come like a friend with a schedule: cloak decent, face open, the particular cheer of a man who intends to move another man from one room to another. Nysa had seen him here a hundred times. She had no word for what was wrong with that. She had only the wax against her ribs.
 
-She heard him speak of waiting men, of fear, of kings who could not be spoken to. She saw him take Caesar’s hand. She saw Calpurnia’s shoulder fail against the doorframe.
+She heard him say *king*. She saw Calpurnia’s shoulder give against the doorframe.
 
 Nysa stepped forward.
 
@@ -280,11 +256,11 @@ Phileros stepped with her, faster, smelling of onion and the night brazier. “N
 
 “You have feet that forget their place,” Phileros hissed. “If it is water, I will send water. If it is sandals, I will send sandals. If it is a slave’s dream of being important, keep it for the kitchen.”
 
-Decimus glanced at her the way men glanced at furniture that had moved an inch. The glance weighed nothing and pinned everything.
+Decimus glanced at her the way a man glances at a stool somebody has moved.
 
 Nysa’s fingers found the linen over the wax and didn’t draw it out.
 
-What would she hand Caesar? A mutter? Against Decimus’s open hands and the Senate’s hunger for his attendance? Against the mistress, who had already asked and been answered?
+What would she give Caesar? A few words on a broken tablet, against Decimus’s open hands and a Senate waiting for him, and against the mistress, who had already asked and been answered?
 
 The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa thought he would turn back. He looked at Calpurnia. He looked at Decimus. He didn’t look at Nysa.
 
@@ -292,9 +268,9 @@ The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa
 
 They went.
 
-Nysa stood until the litter sound changed, swallowed by the Forum’s morning throat. Only then did she realise she was counting: steps, heartbeats, something.
+Nysa stood there until she could no longer hear the litter-poles over the noise from the Forum.
 
-Phileros exhaled, victorious over nothing. “If you have wax,” he said, not looking at her tunic, “put it in the fire. Houses burn for less.”
+Phileros let out his breath. “If you have wax,” he said, not looking at her tunic, “put it in the fire. Houses burn for less.”
 
 Nysa didn’t put it in the fire. She returned it deeper against her skin.
 

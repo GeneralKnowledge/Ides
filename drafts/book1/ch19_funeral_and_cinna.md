@@ -19,13 +19,13 @@ In the Forum Romanum Antony didn’t need a poet. He needed a corpse, a toga tha
 
 The Senate had voted the funeral in the same sitting as the amnesty, and hoped, without saying so, for dignified and brief. Antony had read the hope on their faces and declined it. He was the consul, the dead man’s colleague, and the one man in Rome with the right to stand up and speak.
 
-The Forum was a single throat. Heat rose off stone and people. Veterans stood in knots with the ugly patience of men who knew what blades weighed. Ordinary Romans came for money and gardens, for grief or spectacle, the city’s honest reasons.
+The Forum was packed to the temple steps. Heat came off the stone and off the people. Veterans stood in knots, waiting. Ordinary Romans had come for the money and the gardens, for grief, or to see.
 
-Antony spoke as a consul speaks when he intends the words to settle in the Forum: refrain more than verse. He named Caesar’s honours. He let the decrees be heard, the long list of titles and powers the Senate itself had voted, each one read aloud in a flat voice and sounding, in this light, like an accusation against the men who had voted it. He held up the bloodied cloth the way a soldier holds up a torn standard. The crowd’s anger was already in the air; he gave it a place to stand.
+Antony did not make much of a speech. He had a herald read out the decrees, the long run of honours and powers the Senate itself had voted, and then the oath by which every senator had sworn to guard Caesar’s person with his own body. Read in a flat voice, in that light, each one sounded like a charge against the men who had voted it. After each Antony added a few words of his own, no more. Then he held up the gown with the holes in it, the way a soldier holds up a torn standard. The crowd’s anger was already in the air; he gave it somewhere to stand.
 
-“An extraordinary man,” he said, and heard the phrase catch, repeat, become a chant without music. “An illustrious man…”
+“An extraordinary man,” he said, and heard the crowd take the words up and say them back to him. “An illustrious man…”
 
-Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the Forum became a wrestle over fabric. The grief wanted a relic; the consul wanted a steering oar. He kept his face between mourning and command. Too many tears and he was soft. Too few and he was cold.
+Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached for the cloth the way men reached for a donative. Antony’s arm did not yield. For a breath the two of them pulled at it. Antony kept his face between mourning and command. Too many tears and he was soft. Too few and he was cold.
 
 “Hold,” he told the nearest ranks, not loud. Holding looked like piety. It was also the only way the evidence stayed in one piece long enough to aim.
 
@@ -37,13 +37,13 @@ Someone sobbed. Someone cursed Brutus by name. A veteran near the front reached 
 
 Antony did not answer that.
 
-The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. Antony’s marshals had a pyre waiting out on the Campus. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, a grey Gallic-war veteran who had watched towns burn from the wrong side, caught his sleeve. “Hold the shops. Heat without bread turns on whoever holds the cloth. If you let the first street go, you do not get to choose the second.”
+The body was the point. Fire found it in the Forum because the Forum decided, or because men who liked fire decided for it. Antony’s marshals had a pyre waiting out on the Campus. The crowd had other ideas, and the other ideas arrived with benches, tables and the wood from the lawcourts. An officer at Antony’s shoulder, a grey Gallic-war veteran who had watched towns burn from the wrong side, caught his sleeve. “Keep them off the shops. If the bakers burn, the city is hungry by the Kalends, and it will be you they are hungry at.”
 
-A second officer, younger, smelling of oil and ambition, spoke across him. “Let it teach. The Liberators’ doors are the lesson. Grain can wait an hour.”
+A second officer, younger, smelling of oil and ambition, spoke across him. “Let them have the Liberators’ doors. That is what they came for.”
 
-Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Hold enough order to keep the grain,” he told the first officer. “Let the rest teach.” The first officer’s mouth flattened: permission he hadn’t wanted to hear. The second grinned like a man handed a torch by policy.
+Antony looked from cloth to pyre-smoke starting wrong and early. He didn’t pretend he owned every spark. “Keep them off the granaries,” he told the first officer. “Let the rest go where it likes.” The first officer’s mouth went flat. The second grinned.
 
-The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand toward the streets where Liberators kept doors: same heat, new address. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old campaign clarity and a newer friction. The enemy’s city had become the enemy. It was no longer waiting for his nod. The second officer was already too far forward to call back. Calling him would look like fear of his own heat.
+The pyre took. Benches fed it. A veteran dragged a brand from the Forum fire. Another man took the next brand off toward the streets where the Liberators lived. Antony watched the first flame leave the body for a house and did not call it back. When the first shops began to burn toward those doors anyway, farther and faster than the grain line, he felt the old clearness of a campaign, and something new under it that he did not like. The city was not waiting for his nod any more. The second officer was already too far forward to call back, and calling him back would have looked like fear.
 
 ---
 
@@ -72,9 +72,9 @@ In the Forum he stood with men who smelled of leather and cheap wine, watching A
 
 When the pyre caught, Laberius felt the heat on his teeth. He didn’t cry. He looked, from habit, to see how far it was to the streets where the Liberators’ doors were. A brand left the pyre in a stranger’s fist and turned the corner toward them.
 
-Someone shoved a torch into Quintus the fuller’s hand. Laberius could smell the vats on him, stale urine and trodden wool, the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
+Someone shoved a torch into the hand of a fuller called Quintus, who had stood next to Laberius since noon. Laberius could smell the vats on him, stale urine and trodden wool, the bottom of every neighbourhood’s smell. Quintus looked pleased, the particular pleasure of a man finally asked to do what he had always wanted permission for. The corporal shoved the next torch at Laberius.
 
-Laberius closed his fist on air, not wood. “I came for Capua,” he said: the land that had never once come with a date, and had just died with the paymaster. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius looked to see who took torches.
+Laberius closed his fist on air, not wood. “I came for Capua,” he said. The land had never once come with a date, and the man who had promised it was burning. “Not for which door burns first.” The corporal heard Capua and did not laugh. Laberius looked to see who took torches.
 
 Quintus the fuller shoved past with his torch already lit, robe wet from a spilled jar someone had meant as water for the pyre-line. “Water for the body,” a household woman shouted at him, jug still empty, one of Caesar’s household by the seal on her belt. “Not oil for doors.” Quintus laughed wrong. “Doors burn cleaner than philosophers.” The corporal took Quintus’s side with a shove. The jug fell and broke. Water that might have cooled cloth became a slick under veterans’ boots.
 
@@ -111,7 +111,7 @@ Nysa heard the name before she saw anyone.
 “The poet…”
 “Same filthy name…”
 
-Nysa was pinned in a side street’s mouth when the mob found a man who answered to Cinna because that was what he was called when he bought bread. Helvius the poet, ink under his nail, Caesar’s friend in some mouths. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. He was not one of the men with daggers.
+Nysa was pinned at the mouth of a side street when the mob found a man who answered to Cinna because that was what he was called when he bought bread. He was Helvius the poet, with ink under his nail, and some said he had been Caesar’s friend. He tried to say he was not Cornelius. Not the praetor who had spat on the dead man’s name in the Senate three days ago. He was not one of the men with daggers.
 
 “I am Helvius,” the man said. “Helvius Cinna. I write poems. I was his friend, I came to mourn him. I am Helvius, not Cornelius, I am…”
 

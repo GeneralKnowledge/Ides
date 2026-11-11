@@ -126,7 +126,7 @@ Overhear risk: Medium
 
 ---
 
-Caesar kept ships, grain, maps, the stubborn arithmetic of an eastern war, and the smaller arithmetic of which men still laughed when he cut a joke. Calpurnia’s hands, the staff’s sudden piety, Spurinna’s professional beware: he treated the fear in the house like March weather: real, inconvenient, and no reason to cancel the city’s work.
+Caesar had the Parthian war on his table that month: ship lists, the grain at Brundisium, a map of Armenia with the passes inked twice because the first ink had been wrong. He also kept, without writing it down, a note of which men still laughed when he made a joke. His wife’s hands at night, the slaves making offerings at the hearth they had never made before, the haruspex and his Ides: he took the fear in the house the way he took March weather, as real and inconvenient and no reason to stop the city’s work.
 
 He had sent away his Spanish bodyguard some months back, the picked men who had followed him from the war, and had said that he would rather die once than live always afraid of it. The Senate had sworn to guard him with their own bodies, which he had found very funny, and had accepted the oath without once looking at the oath-takers.
 

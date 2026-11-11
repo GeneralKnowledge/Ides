@@ -17,23 +17,23 @@ Overhear risk: Crowd below partial
 
 ---
 
-Brutus stood on the Capitol’s rock, above the Forum, where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades openly, theatre of virtue. Cassius kept his voice low and his eyes on approaches, and on faces that should have been there. Decimus kept looking north. Casca wiped at a spot that would not leave his knuckle.
+Brutus stood on the Capitol’s rock, above the Forum, where Rome could see him if Rome wished to look up. Some of the Liberators still held their blades up where the Forum could see them. Cassius kept his voice low and watched the paths up the hill. Decimus kept looking north. Casca wiped at a spot that would not leave his knuckle.
 
-Brutus spoke. He heard himself speak. The words were right (*libertas*, tyrant, law, ancestors), each one a stone from a good road. He had learned *libertas* as a schoolboy, in the same lesson as the first Brutus and the last king. Below, the Forum did not become a choir. Cheers happened in patches and died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain.
+Brutus spoke. He heard himself speak. The words were right (*libertas*, tyrant, law, ancestors), each one a stone from a good road. He had learned *libertas* as a schoolboy, in the same lesson as the first Brutus and the last king. Below, the Forum did not cheer. There were cheers in patches, and they died. Someone shouted for Caesar. Someone shouted for the dead man’s veterans. Someone shouted for grain.
 
-“They will come round,” Casca said, needing it true enough to keep the blade in the open.
+“They will come round,” Casca said.
 
 “They will come with torches,” Decimus said, not looking down.
 
-Cassius did not choose between them yet. His eyes stayed on approaches. “Speak again, or go down. One or the other.”
+Cassius did not choose between them yet. He was still watching the paths. “Speak again, or go down. One or the other.”
 
-Brutus watched a knot of women shove a knot of men and felt the first cold thought that was not philosophical: we have killed a man the city loved more than it loves our vocabulary. Under it, smaller and worse: I killed a man who forgave me and kept me close. The rock could not make private guilt public enough to share. He wanted, badly, to wait until the Forum rearranged itself into the audience the words deserved.
+Brutus watched a knot of women shove a knot of men and had his first thought of the day that did not come out of a book: the city had loved the man more than it would ever love the word. Under it there was another thought, smaller, and he did not let it finish. He wanted, badly, to wait until the Forum below turned into the crowd he had written the speech for.
 
 “We hold until the reports clarify,” Brutus said, in the voice he used from a tribunal. “Liberty does not run from its own Forum.”
 
 A runner brought nonsense: Antony dead; Antony marching; Lepidus burning houses; Cicero already writing the age.
 
-“Lepidus has a legion on the Tiber island,” Cassius said, eyes still on the approaches. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
+“Lepidus has a legion on the Tiber island,” Cassius said, still watching the paths. “Caesar’s master of the horse, with soldiers in reach. Any rumour about him will find a buyer.”
 
 “Cicero is writing the age?” Casca said. “Already?”
 
@@ -53,11 +53,11 @@ Toward evening the light went copper. The Capitol’s stone held heat. Brutus’
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
-“We can call it beginning,” Brutus said, still the public sentence.
+“We can call it a beginning,” Brutus said.
 
 Cassius waited until Casca had turned to the parapet. “Beginning,” he said, not for the crowd. “Decimus wants a road. Casca wants a cheer. You want it written down better than it went.”
 
-Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. Brutus remembered the small room, and Cassius saying that he had promised the man nothing. Cassius’s mouth went tight.
+Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance round the faces on the hill. “Galba isn’t here,” Casca said. Brutus remembered the small room, and Cassius saying that he had promised the man nothing. Cassius’s mouth went tight.
 
 “We stay, then,” Cassius said. “But say that it is because we are afraid. Do not make a period of it.”
 
@@ -84,7 +84,7 @@ Overhear risk: Officers
 
 Antony’s first clear desire was to kill everyone in a toga who had ever smiled at Brutus.
 
-His second, slower desire, the one that kept him consul instead of a corpse in an alley, was to count who still had swords that would move when he pointed. He had slipped away from Pompey’s portico that morning in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
+His second, slower one, which kept him alive, was to find out who still had swords that would move when he pointed. He had slipped away from Pompey’s portico that morning in a slave’s cloak, and the cloak had been the cleverest thing he had done since dawn.
 
 Lepidus had a legion on the Tiber island, the only organised soldiers close to Rome. They could be in the Forum before dark. Pacuvius, who had carried Antony’s donatives to the legions before, said as much, hopeful as a dog.
 
@@ -102,7 +102,7 @@ Antony looked at him. He wanted it too. He could feel in his arms how much he wa
 
 “They left me alive because Trebonius is a better liar than you are a soldier,” said Antony.
 
-Lepidus spoke carefully, as Lepidus always did when weight leaned on him. “Negotiation preserves options.”
+Lepidus had come across from the island with mud to the knee and had not sat down. He spoke carefully, as he always did when he was afraid of being asked for something. “If we talk, we keep our choices.”
 
 “Negotiation preserves my throat,” Antony said. “And yours. And the chance to make the people choose us when they see the body.”
 
@@ -136,11 +136,11 @@ Overhear risk: Elite high
 
 ---
 
-Cicero was sent for. Some of the rooms asked for him by name.
+Cicero was sent for, and for two days he went from house to house.
 
-The Senate met two days later, on the seventeenth, in the temple of Tellus near Antony’s house, at Antony’s call. That was the room in which the bargain would be sold. In the meantime, every evening was a smaller room.
+The Senate met two days later, on the seventeenth, in the temple of Tellus near Antony’s house, at Antony’s call. That was where the bargain would be made. Until then it was made in dining rooms.
 
-“If we do not settle this,” he told a cluster of faces that wanted settling, “we will have a second war before we have buried the first man’s meat.”
+“If we do not settle this,” he told a dining room full of men who wanted to hear it, “we will have a second war before we have buried the first man’s meat.”
 
 He enjoyed, privately, shamefully, the return of necessity. Necessity had always been his favourite climate. In necessity, eloquence looked like courage. He had been consul the year Catiline’s men meant to burn the city, and Rome had called him father of his country for stopping them; every crisis since had been, for him, a chance to be that man again.
 
@@ -168,7 +168,7 @@ A messenger muttered that Antony had not stormed the Capitol.
 
 He left the room with the praise still on his mouth. In the corridor a banker was telling a younger man that the leases on the gardens across the Tiber would move before anyone had opened the will, which was lying with the Vestals, unread. Cicero did not stop for it.
 
-He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, Rome buried rumour under rumour. Cicero slept two hours.
+He went home, or to someone’s home that would do, and dictated notes until his hand cramped. Outside, the rumours went on all night. Cicero slept two hours.
 
 On the seventeenth, when the bargain had begun to harden, he allowed himself a thin satisfaction and sanded a period until it shone.
 
