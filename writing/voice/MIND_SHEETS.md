@@ -87,18 +87,118 @@ Neither test is an order to cut endings. The Ligarius letter and the shared brea
 
 ---
 
+## Laberius
+
+**Notices first:** feet, boots, straps, what a man is carrying and whether he has eaten. Ground: where it is soft, where it rises, how far to the next dry place. Who is on his left and who is behind him.
+
+**How a thought moves:** from the body outwards and no further than the century. He knows a thing by having done it twenty times. He does not keep accounts in his head and does not “file” anything. He remembers days by what was wrong with his feet.
+
+**When he generalises:** after the twentieth time he has watched the same thing go wrong, and then it comes out as a joke about pay, said to Vibius or Gaius and not thought privately. “To whoever’s standing on your left” is the one saying he owns, and he is teased for it.
+
+**What he cannot or will not say:** that he is frightened, or that he loves the men. He checks their kit instead.
+
+**What he misunderstands:** why the gentlemen do anything. He thinks a promise with Caesar’s name on it is as good as a date. He thinks the land is empty. He does not need to know what a battle was for, and he distrusts anyone who explains it to him.
+
+**In talk:** short, flat, a beat late with the joke and better for it. Gaius does the talking. Vibius does the arithmetic and the cruelty. Laberius is the one they both look at.
+
+**Body:** forty-two at Munda. Knees. A shield arm that aches before rain. He eats when there is food because he has been where there was none.
+
+**Sounds like him:** “Laberius believed the fifth one.”
+**Does not:** “He filed *donative dated* beside *colony rumour* the way he filed water: needed, not guaranteed.” (A clerk’s mind. He would ask the clerk for the day and get no answer.)
+
+---
+
+## Brutus
+
+**Notices first:** what is fitting. How a thing will look, to the household, to the dead, to a reader a hundred years on. Faces on a wall. Who has been kept waiting and whether it was rude. He sees his own conduct from outside, as if it were already written down.
+
+**How a thought moves:** towards a sentence. He composes. He begins the philosophical period and the world interrupts it with something small and physical, a cup, a slave’s question, wax on his hand, and he attends to the small thing with great courtesy and never gets back to the sentence. In the best of his scenes the thought arrives later, on its own, as a memory of somebody’s hand.
+
+**When he generalises:** he starts to and cannot finish. When he does finish, in speech, it is noble, quite sincere, and it costs somebody else something.
+
+**What he cannot or will not say:** that he liked Caesar. That he needs money. That his mother arranges his life and he lets her.
+
+**What he misunderstands:** he believes an act can be kept clean by intending it cleanly, and that refusing a thing politely is the same as refusing it. He does not see who pays for his scruples: the freedman who carries the lie, the clients turned back at the gate, the cities, Cassius. He thinks the city will come to love the vocabulary.
+
+**In talk:** slow, exact, formal even with his wife. Almost no humour, and when he tries a joke it is about lawsuits. Porcia, Servilia and Cassius all finish his sentences for him, differently.
+
+**Body:** hands. He looks at them, washes them, does not know what to do with them. He weeps easily and is not ashamed of it.
+
+**Sounds like him:** “He found he had no feeling about that at all, and was a little frightened by how easily he had none.”
+**Does not:** “Clemency sat in the room like a soft chain.” (The author’s image, handed to him. He would see Caesar’s hand on his shoulder and be unable to put a name to it.)
+
+---
+
+## Cassius
+
+**Notices first:** who was given what, and what he was given instead. Hands: what a man does with a cup, a ring, a seal. Exits. He tests people and watches how they take it. His eyes are poor at distance and he has spent twenty years making other men’s reports do instead.
+
+**How a thought moves:** by counting, quickly, to a conclusion about a person, and then he trusts the conclusion more than the person. He is usually right about what a man is. He has Epicurus for the rest: a cool, tidy doctrine he really does hold and cannot always live in.
+
+**When he generalises:** aloud, as a blade, when he is cornered at a table. Rarely in his own head, where he is counting. Carrhae is his case for everything, and he does not tell it.
+
+**What he cannot or will not say:** that he wanted the thing he was not given. That he is fond of Brutus, or of Trebonius. He goes to see a friend off because a note told him not to.
+
+**What he misunderstands:** he thinks being right about a man is the same as knowing what he will do. He thinks contempt can stand in for the part of the report he does not have. He believes he is the one who is not fooled.
+
+**In talk:** dry, exact, courteous in a way that is meant to be felt. One good line and then he stops. He does not win every exchange, and the ones he loses he replays.
+
+**Body:** he makes a fist under the couch and opens it. He does not drink the wine he calls for. He counts with a thumb.
+
+**Sounds like him:** “Caesar had been kind about that too. That, Cassius thought, was what was wrong with him.”
+**Does not:** “Mercy made leftover Pompeians sound edible.” (A caption on the room. He would count which of them had been asked to Spain.)
+
+---
+
+## Decimus
+
+**Notices first:** measurements. Widths, hours, loads, the fall of a road, how long a bridge takes and what it will carry after rain. Doors and which way they open. He likes a thing to be the right size.
+
+**How a thought moves:** it does not move much. He likes a thing or dislikes it and gets on. A worry stays in his body as a tightness and he walks it off or washes his hands. He remembers ten years with Caesar as a list of works: the ships against the Veneti, Massilia, bridges.
+
+**When he generalises:** almost never. Once in a scene at most, about roads or about what gets men killed, and he means it literally.
+
+**What he cannot or will not say:** that he needs to be chosen. He says “useful” where another man would say “loved”.
+
+**What he misunderstands:** he thinks being useful to Caesar and being his friend are the same thing, and that because neither of them mentions what he is owed, nothing is. He thinks Caesar’s notice of him is private, when half the portico is trading in it. He thinks logistics can outrun politics, and that men who praise his letters will name a day.
+
+**In talk:** blunt, cheerful, numbers before compliments. He is easy company, and the ease is real, which is the trouble. Other men have the wit, and he gives them the measurements.
+
+**Body:** hands open and visible. He touches columns, hinges, a horse’s mouth. He puts a hand out before the step, half a breath early.
+
+**Sounds like him:** “He counted them as they went, from habit, and when the number stopped being a number he went to look at the maps.”
+**Does not:** “Decimus filed them without crowning one.” (Two borrowed minds at once. He would know how far each story had travelled and not care which was true.)
+
+---
+
+## Octavian
+
+**Notices first:** who was looked at and who was skipped. Where the reserved place went. What older men do with their hands and how they stand, which he copies without meaning to and then catches himself at. Lists, and his own name on them or not.
+
+**How a thought moves:** coldly, to a use, and then he is ashamed of the coldness, or sick. At seventeen and eighteen the shame is quick. By the consulship it is slower. The body tells on him: he shakes, he vomits, he gets a fever, and he treats each of these as information somebody else might read.
+
+**When he generalises:** to himself, as a rule for next time, and he dislikes how young it sounds. One such rule in a scene is him. One in a paragraph is the author.
+
+**What he cannot or will not say:** thank you. *Son.* That he wants his mother’s hand on his forehead.
+
+**What he misunderstands:** at seventeen, how much of a room’s indifference is about him. He thinks the old men are slighting him when they have not noticed him. He thinks getting the names right is the same as knowing what happened. Later he understands rooms very well and people a little less.
+
+**In talk:** stiff, correct, too polished, and he hears it. Agrippa is the one person he is short with, which is how the reader knows he trusts him.
+
+**Body:** thin shoes. A ring he twists. Palms flat on a table until the shaking stops.
+
+**Sounds like him:** “Octavian found that he was standing with his weight on one hip and a hand loose at his side, as the consul stood when he stood, and he set both feet square again.”
+**Does not:** “Weakness spoken aloud became other men’s tool.” (A maxim he has not earned yet. He would hide the weakness and be seen hiding it.)
+
+---
+
 ## First notes on the other viewpoints
 
 To be filled out and checked against the text when each one’s scenes come up. Each already has a **Misbelief** line in `continuity/character_profiles/`.
 
 | Viewpoint | Attention goes to | Generalises when | Misunderstands |
 |---|---|---|---|
-| **Cassius** | Who was given what; hands; who is tested and how they take it | Aloud, as a blade, when cornered at a table. Rarely in his own head, where he is counting | That being right about a man is the same as knowing what he will do |
-| **Brutus** | What is fitting; the dead; his own conduct seen from outside | He starts to and cannot finish. He reaches for the philosophical sentence and finds the cup | That an act can be kept clean by intending it cleanly; who is paying for his scruples |
-| **Decimus** | Measurements: widths, hours, loads, how long a bridge takes | Almost never. He likes or dislikes a thing and gets on | That being useful to Caesar and being his friend are the same, and that Caesar’s notice is not something other men can trade in |
-| **Laberius** | Kit, ground, feet, who has eaten; the men either side of him | After the twentieth time he has watched the same thing go wrong, and then as a joke about pay | Why the gentlemen do anything. He does not need to know and distrusts anyone who explains |
-| **Octavian** | Who was looked at and who was skipped; what older men do with their hands | To himself, coldly, and he is ashamed of it afterwards | At seventeen, how much of the room’s indifference is about him. Later, less |
 | **Antony** | Bodies, noise, whether a crowd is with him | Loudly, for effect, and he does not believe his own sayings | The boy |
 | **Calpurnia** | The house: sounds, who is up, what is out of place | Not at all. She knows things in her body and has no words that would persuade a man | That being right will be enough to be heard |
 
-Minor and occasional viewpoints (Statilius, Calenus, Amyntas, Porcia, Cleanthes, Caesar) get a sheet when their scenes are audited.
+Minor and occasional viewpoints (Statilius, Calenus, Amyntas, Porcia, Cleanthes, Cleopatra, Caesar) need no sheet for now. The audit of 2026-11-11 left all their scenes alone except Caesar’s two, which take light edits.
