@@ -23,6 +23,7 @@ No prose until the storyboard and the voice pilot pass.
 ## Authorities
 
 - Voice: `writing/voice/MIND_SHEETS.md` (Book 1 sheets carry over; Book 2 adds a short "since Philippi" note for each carried POV and new sheets for new POVs).
+- Act self-audit: the three tests, then the five questions in [voice/WATCHLIST.md](voice/WATCHLIST.md) (from the outside review of Book 1 Ch 1–6).
 - Standing rules carried from Book 1: history accuracy; real people first, invent only where the record is silent; no em dashes; no caption fragments; no narrator explainer sentences; no bans or quotas; DOCX only.
 - New for Book 2: no chapter or scene is protected from criticism (protect named beats only); chapter numbers are assigned at export from scene order; one changelog line per change, no pass logs.
 
@@ -41,3 +42,4 @@ One line per change.
 - 2026-11-11: Canon pack first version. Chronology 42–40 BC with sources (Appian *BC* 5, Dio 48, Suetonius *Aug.* 13–15, Plutarch *Ant.* 25–31 read in translation; Suetonius 62–73 not reachable, marked check). Places and travel times. Names across both books with a check script. Handover check lines confirmed against Book 1 (Rufrius not mentioned after Philippi; Lepidus and Africa; Calpurnia at her father's; Atia dead in 43).
 - 2026-11-11: Mind sheets for Book 2 (since-Philippi notes for Laberius, Nysa, Octavian, Hordeonius; new sheets for Fulvia and Lucius Antonius). Storyboard v1: 43 scenes, 87,000 words, Ides of March 40 at 72%; seven fixes for Reuben.
 - 2026-11-11: Reuben picked all seven storyboard recommendations. Storyboard v2: Hordeonius II-06b and III-08b added, IV-11 cut (Nysa's wedding count ends the book), twine promise set (until the beans are in), one Nonius. Contract approved; hinge at 75%. Reader questionnaire (34 questions) and key.
+- 2026-11-11: Drafting watchlist added from the outside review of Book 1 Ch 1–6 (no change to Book 1).
