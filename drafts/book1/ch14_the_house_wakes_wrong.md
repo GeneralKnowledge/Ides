@@ -94,7 +94,7 @@ He sat on the edge of the bed and pressed his thumb into the opposite palm until
 
 “Water,” she told someone at the door.
 
-Nysa came, the freedwoman with the quiet feet and the eyes that counted exits. He drank. The water tasted of cistern and night.
+Nysa came, the Greek girl with the quiet feet and the eyes that counted exits. He drank. The water tasted of cistern and night.
 
 “You dreamed,” Calpurnia said. Not a question.
 
@@ -192,7 +192,7 @@ He heard how smooth he sounded and hated the smoothness, then used it anyway. So
 
 Caesar was silent. The silence scared Decimus more than anger would have.
 
-“Make your own courage the omen,” Decimus said, quieter. Need made the sentence. “The Senate has sat since morning. Come.”
+“Make your own courage the omen,” Decimus said, quieter. Need made the sentence. “The Senate has sat since first light. Come.”
 
 He put out his hand, and his chin tipped, half a breath, the old road signal: ditch clear, philosophy later. Calpurnia saw it. Her mouth tightened. She recognised the habit that had always meant *he will go with this man*. Decimus felt the tip fail under her eyes, too small a betrayal to name, too large to take back, and held the hand open anyway without finishing the joke that used to follow the tip in Spain.
 
@@ -308,4 +308,4 @@ Nysa didn’t put it in the fire. She returned it deeper against her skin.
 ---
 
 ## Voice pass 2026-11-11
-- **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back.
+- **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back. Continuity audit (same day): Caesar no longer thinks of Nysa as a freedwoman (she is a slave until the will, Ch 25); Decimus says the Senate has sat “since first light”, since he arrives as the shops open.

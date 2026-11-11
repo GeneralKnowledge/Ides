@@ -44,7 +44,7 @@ They went. The latch fell behind them. Through the wall she heard one low word f
 
 Later she found Caesar at the edge of the tablinum, among the records at the back of the atrium where he did his work. He looked up at once, as he always did for her, and put down what he was holding.
 
-“You are not usually like this,” he said, quite mildly.
+“You are not sleeping,” he said, quite mildly.
 
 “The house is wrong.”
 
@@ -145,5 +145,5 @@ The secretary did not know whether to smile. Caesar let him escape into tablets.
 ## Continuity
 - **Knows / learns:** Calpurnia’s lesser nightmares, toward DREAM-1. Nysa hears a fragment (NOTE-1): incomplete, its emphasis misreadable, not Artemidorus’s note. Phileros nearly catches the linen; she hands it off later and safer. Caesar treats danger as weather (AMB-1), trusts Decimus by habit, dismisses the Spanish bodyguard, jokes about the Senate’s oath. The household’s small wants go on (Dama, Phileros, Pallas, Nysa).
 - **Plants → pays:** the pediment (Ch 14); dressing-room gossip about Spurinna and Decimus at the door.
-- **Decisions:** 2026-11-11 (voice pass). SC-29 rewritten in full: Nysa hears pieces of three sentences through a door-leaf while mending a latch; the attendant’s finished speech is gone; she thinks “the consul” may be the master; she writes the five words in her own letters because what is heard at a door gets asked for. Phileros’s near-catch kept. SC-28 heavy edit: the servants now report doors and a thumb on the bar, not sayings; Calpurnia orders the garden door barred; with Caesar she has one sentence (“The house is wrong”); the closing sum of omens is replaced by her going to the door. SC-30 light edit: opening pair and the last two paragraphs (the narrator knowing better) cut.
+- **Decisions:** 2026-11-11 (continuity audit): Caesar’s “You are not usually like this” is now said once, on the Ides morning (Ch 14); here he says “You are not sleeping”. 2026-11-11 (voice pass). SC-29 rewritten in full: Nysa hears pieces of three sentences through a door-leaf while mending a latch; the attendant’s finished speech is gone; she thinks “the consul” may be the master; she writes the five words in her own letters because what is heard at a door gets asked for. Phileros’s near-catch kept. SC-28 heavy edit: the servants now report doors and a thumb on the bar, not sayings; Calpurnia orders the garden door barred; with Caesar she has one sentence (“The house is wrong”); the closing sum of omens is replaced by her going to the door. SC-30 light edit: opening pair and the last two paragraphs (the narrator knowing better) cut.
 - **Must not:** the two notes are never merged; the pontifex’s office-house glossed once; no future winks.

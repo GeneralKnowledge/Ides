@@ -1,6 +1,6 @@
 # Chapter 11: Omens Manufactured
 
-**Scenes:** SC-26, SC-27 · OMEN-1 · Jan–Feb 44 · AMB-3 · G1
+**Scenes:** SC-26, SC-27 · OMEN-1 · late Feb–early Mar 44 · AMB-3 · G1
 
 ---
 

@@ -220,11 +220,11 @@ The young man across the board had not come about the list. He had come about a 
 
 “You are not listening. My master’s father stood three times. He bought half the Velabrum doing it, and lost twice, and he never once complained, because he could stand again. That is the whole, that is what it is *for*. You lay it out, and the tribes take it, and you have your chance. Now there is a list.” He hit the leaf with the backs of his fingers. “It is not fair.”
 
-Sosia was on his stool behind the strongbox with his dinner in his lap. “Fairness is what men call it when they are not on the list.”
+Sosia was on his stool behind the strongbox with his dinner in his lap. “The men on the list think it very fair.”
 
 “Sosia,” said Hordeonius.
 
-“Chrysippus,” said Sosia, with his mouth full. “More or less.”
+“I only say what they would say,” said Sosia, with his mouth full.
 
 Hordeonius turned the tablet round so that the young man could read his own master’s seal. He did it gently. He felt for the boy, and he felt for the father more.
 
@@ -265,5 +265,5 @@ Hordeonius watched all three as far as the corner.
 ## Continuity
 - **Knows / learns:** dictator for life: six months, then Sulla, then *perpetuo*, learned in the doorway (the fishpond man, the former praetor, the secretary made to recite). Cicero: the real opinion goes to Atticus and into the drawer, the compliment goes to Caesar, and he takes comfort in three years of Parthia. At the stalls, offices are sold forward like a crop on the tree (Hordeonius), which feeds recruitment. The gardens-across-the-river chorus was cut 2026-10-24; CLEO-1 rumour enters later.
 - **Plants → pays:** SC-11b (added 2026-10-24): Brutus gets the city praetorship over Cassius (“the juster claim”), paid in Ch 7 SC-15 and recalled at the Curia (Ch 16); the hand on the shoulder. Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
-- **Decisions:** SC-12 and SC-14 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). SC-14 names the consuls designated for 42 (Plancus and Decimus Brutus) and turns on one loan: 400,000 at one per cent a month, extended two months at one and a half against four shops in the Velabrum. Two men follow the agent toward the baths.
+- **Decisions:** 2026-11-11 (continuity audit): Sosia’s “Fairness is what men call it…” replaced, because it had the same shape as the former praetor’s line about manners in SC-12. SC-12 and SC-14 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). SC-14 names the consuls designated for 42 (Plancus and Decimus Brutus) and turns on one loan: 400,000 at one per cent a month, extended two months at one and a half against four shops in the Velabrum. Two men follow the agent toward the baths.
 - **Must not:** three POVs only (Brutus, Cicero, Hordeonius). CLEO-1 held. Caesar’s “this poor body” line is spoken once, here.

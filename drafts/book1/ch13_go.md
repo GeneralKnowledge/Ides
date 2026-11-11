@@ -26,7 +26,7 @@ He read it back and was pleased.
 
 He considered a sentence about Caesar’s departure east in a matter of days, and the offices stacked like bricks ahead of lesser men, a Republic leased out like a farm for the years he would be gone. He considered, briefly, whether Brutus looked tired at last dinner. Tired men were everywhere in March; that proved nothing.
 
-Sphaerus, Hirtius’s secretary, had brought a note from his master about nothing that mattered and stayed for the wine. The camp gossip in it was thin. Cicero answered it courteously and at length. Tomorrow the Senate sat in Pompey’s hall, and he would go, and be bored, and come home to write about it.
+Sphaerus, Hirtius’s secretary, had brought a note from his master about nothing that mattered and stayed for the wine. The camp gossip in it was thin. Cicero answered it courteously and at length. Tomorrow the Senate sat in Pompey’s hall. If Cotta stood up with his motion, the speech against it was ready, and he had the first period by heart. If Cotta did not, he would be bored, and come home to write about it.
 
 “You look pleased,” said Sphaerus.
 
@@ -88,7 +88,7 @@ Ligarius had got up on one elbow and taken his hand. “If you have anything in 
 
 “In a litter if he has to. He said he has been thanking Caesar since the pardon, and he would like to stop.”
 
-Cassius looked at him a moment longer, and went on.
+Cassius looked at him a moment longer. Brutus knew what he was not saying. In February, in his own dining room, he had told this man that he would ask nobody. Cassius went on.
 
 Brutus had his lender’s note in the fold of his toga. It had come that afternoon, for the silver he had borrowed against his games of Apollo in July, and he had not answered it. He could still walk out of this room, and pay the man, and dine as a spared philosopher. He knew exactly how the letter of reply would go.
 
@@ -135,4 +135,4 @@ He did not sleep much after. Porcia, beside him, did not sleep at all; he could 
 - **Knows / learns:** Cicero is blindly calm (Atticus, Hirtius; elite rumour only). Tillius Cimber: brother in exile, the petition, the toga-tug signal. GO is chosen, not counted: Ligarius rises from his sickbed for Brutus (Plut. *Brut.* 11; pays Ch 3, added 2026-10-24 final validation), a creditor at the door, one last doubt.
 - **Plants → pays:** the bakers as a rumour mill (already-wrong Parthia talk; Ch 16); Galba’s winter terms on the roster (Ch 17 absence); Capua unpaid (Ch 4 → Ch 19).
 - **Must not:** no hive mind; Antony spared; no Lupercalia re-telling.
-- **Decisions:** 2026-11-11 (voice pass). SC-34 heavy edit: the roster is now spoken between the two men (Cassius names, Brutus says what each is for); the creditor’s cough is gone and the lender’s note is in the fold of Brutus’s toga (nothing added to his money); the calendar repartee and the lines after “Go” cut; the word is now “Go”, not capitals. SC-32 light edit: the narrator’s remarks on Cicero cut. 2026-11-07 (storyboard fixes 6–7): SC-31 “Hold the Consul” cut (fourth planning of Trebonius’s hold; Ch 9 and Ch 15 carry it); SC-33 “Land Powder” cut (third telling of the undated colony; Ch 4 and Ch 19 carry it). 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.
+- **Decisions:** 2026-11-11 (continuity audit): Cicero remembers the speech he began against Cotta’s motion (Ch 11); Brutus is aware that he has broken his Ch 8 “I will not recruit”. 2026-11-11 (voice pass). SC-34 heavy edit: the roster is now spoken between the two men (Cassius names, Brutus says what each is for); the creditor’s cough is gone and the lender’s note is in the fold of Brutus’s toga (nothing added to his money); the calendar repartee and the lines after “Go” cut; the word is now “Go”, not capitals. SC-32 light edit: the narrator’s remarks on Cicero cut. 2026-11-07 (storyboard fixes 6–7): SC-31 “Hold the Consul” cut (fourth planning of Trebonius’s hold; Ch 9 and Ch 15 carry it); SC-33 “Land Powder” cut (third telling of the undated colony; Ch 4 and Ch 19 carry it). 2026-11-04 (Reuben, examine-next round): Cassius’s GO line points at Cotta’s Ides motion (Ch 11); the missing opening quotation mark restored; “rock and blade” replaced by Galba’s name.
