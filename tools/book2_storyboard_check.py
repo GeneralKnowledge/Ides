@@ -18,7 +18,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent / "book2"
-ACT_BUDGET = {"I": 22500, "II": 22500, "III": 22500, "IV": 22500}
+ACT_BUDGET = {"I": 22500, "II": 24000, "III": 22500, "IV": 20000}
 SEASON = {"spring": 4, "summer": 7, "autumn": 10, "winter": 12}
 
 
