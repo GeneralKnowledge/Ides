@@ -150,7 +150,7 @@ Something moved at the corner of Gaius’s mouth. It was almost the family joke,
 
 And Brutus heard himself answer.
 
-He heard it the way he had heard himself say *GO* in the dark a year ago: a voice slightly outside himself, very calm, very kind, already decided. He said that Gaius was a Roman magistrate, and would be treated as one. That he should keep his lictors and his rank. That he would have a house in the camp and his own servants and the freedom of the lines, and would dine with Brutus when he chose, and that the question of his future would wait upon the Senate, as was proper. That there would be no chains. That there was no need for chains between Romans.
+He heard it the way he had heard himself say *Go* in the small room a year ago: a voice slightly outside himself, very calm, very kind, already decided. He said that Gaius was a Roman magistrate, and would be treated as one. That he should keep his lictors and his rank. That he would have a house in the camp and his own servants and the freedom of the lines, and would dine with Brutus when he chose, and that the question of his future would wait upon the Senate, as was proper. That there would be no chains. That there was no need for chains between Romans.
 
 He said all this warmly. He meant it. And somewhere in the middle of saying it he recognised the warmth, and the hand he had raised without noticing to rest it on Gaius’s shoulder, and stopped the hand in the air, and lowered it.
 

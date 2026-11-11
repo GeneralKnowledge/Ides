@@ -174,7 +174,7 @@ Brutus’s face had gone white. Cassius had seen it go white like that once befo
 
 “No. You wanted them to be grateful. They preferred the fire.” Cassius sat down. His hands were shaking. He put them flat on the table. “Neither of us is clean, Brutus. We stopped being clean the morning we went into the Curia with knives. The difference between us is that I know it.”
 
-Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony, and the night of GO. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
+Brutus said something. Cassius said something worse. After a while neither of them was making periods any more. Brutus was crying, which he did easily and without shame, as he had in Athens over a line of Plato; Cassius was not, which cost him more. They said everything. The money Brutus had asked for at Smyrna, which Cassius had given, a third, against the advice of his officers. The letters each had written to Rome about the other. Antony, and the night in the small room. Porcia, once, from Cassius, and he was sorry the moment it was out, and did not say so.
 
 Outside the door their friends stood in a knot in the corridor and listened to two commanders of the Republic shouting at each other like brothers dividing an inheritance, and did not dare go in.
 
@@ -212,7 +212,7 @@ Cassius waited.
 
 “We killed Caesar,” Brutus said, “not because he stole himself, but because he let his friends steal, and protected them. That was the charge. That was the whole charge, under the rest. If we let our own friends rob the cities in the name of the Republic, we had better have let Caesar live.”
 
-He said it quietly. He was not making a period. He meant it, Cassius saw, entirely, the way he had meant *GO*, and it was unanswerable, and it was also exactly the kind of sentence that loses wars.
+He said it quietly. He was not making a period. He meant it, Cassius saw, entirely, the way he had meant *Go*, and it was unanswerable, and it was also exactly the kind of sentence that loses wars.
 
 Cassius did not answer it. He went back to his own quarters and sat for a long time with the accounts for the march into Thrace, the grain and the pay and the ships, and found that every column came out the same whichever way he added it, and that none of them had a line for what Brutus had said.
 

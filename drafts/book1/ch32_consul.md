@@ -108,7 +108,7 @@ He did not touch them. He sent a tribune with a guard and a clerk with tablets, 
 
 “Feed the line,” he said. “Then the honours.”
 
-One man in the line he remembered afterwards. A centurion in boots resoled more than once came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
+One man in the line he remembered afterwards. A centurion in boots that were not his size, newly resoled, came up with his century on the second afternoon, took his coin, made his mark, and then did not move on. He asked the clerk whether the roll still had his plot on it, by Capua, fourth line from the Volturnus road. The clerk found it with his thumb and said that the stones were a matter for after. The centurion nodded as if he had expected nothing else and went away with the coin in his fist. *Laberius*, the clerk had written. Octavian had the line copied on to a separate tablet and put it with the list of his father’s freedmen that Agrippa was making, and could not have said why.
 
 The line was fed on the second evening. The election was on the nineteenth.
 
@@ -207,6 +207,8 @@ They slept once in a barn that smelled of wet hay and someone else’s fear. In 
 On the second day the staff was smaller. One man had “gone for water” and not returned. Decimus didn’t send a search.
 
 Near a river ford the map promised a contact who could pass them toward the mountains and, beyond rumour, toward Cassius. The contact was three men with ordinary faces and a mule. One smiled too quickly.
+
+“Cassius’s friends,” the aide said, low.
 
 “Or anybody’s price,” Decimus said.
 
