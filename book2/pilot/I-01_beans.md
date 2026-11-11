@@ -91,10 +91,4 @@ Laberius went down the headland to the far corner of the field where the hedge w
 
 He went back along the rows to the nearest of the new stakes. It came up out of the ground with two pulls, clean and white, with the number burnt into its head and a little wet earth on the point. He carried it to the hedge and drove it into the gap with the flat of a stone, three blows, and wove two of the loose withies round it, and tried it with his foot. It held.
 
-Vibius had followed him down. He stood looking at the stake in the hedge.
-
-“That’s your boundary,” he said.
-
-“It’s a stake.”
-
-The boy had come too, at a distance. He looked at the stake, and at the hole in the rows where it had been, and then he went back up the field to his mother at a run, and the dog at the house door barked all the way.
+Vibius had followed him down. He looked at the stake in the hedge, and back up the field at the gap in the rows where it had been, and did not say anything. After a while he went back up to the cart to put his boots on.

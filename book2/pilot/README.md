@@ -16,6 +16,10 @@ An outside reader gets the three, shuffled with three Book 1 model scenes (Ch 2 
 
 The blind DOCX and the key are in project files, `exports_2026-11-11_book2_voice_pilot/`. The key is not in this repo, so the reader can be pointed here afterwards.
 
+## Watchlist pass (11 Nov)
+
+Read against `book2/voice/WATCHLIST.md` (PR #215, from the outside review of Book 1 Ch 1–6) before the packet went out. Two of the three endings now simply stop: Laberius's ends when Vibius goes to put his boots on, not on a closing exchange; Fulvia's ends on an ordinary instruction about the letters. Lucius's basket ending stays, because it is the scene's trouble. Nonius no longer gets a quotable line, and one not-X-but-Y turn at the gate is gone.
+
 ## Checked while writing
 
 - No em dashes; no caption fragments in narration (lists rewritten as sentences); no narrator explainers.

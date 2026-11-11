@@ -94,6 +94,4 @@ Her woman came in with a tablet and stood by the door, the one who counted the s
 
 “Shall I write to Alexandria again?” she said. “The ship from Puteoli goes on the Ides.”
 
-Fulvia looked at the sword on the table, with the leather of the grip gone dark where Marcus’s hand had been.
-
-“Count the silver first,” she said.
+“Write to both,” Fulvia said. “Alexandria and Ephesus. Say the same thing to each, and put the date on it.”

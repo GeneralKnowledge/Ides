@@ -18,11 +18,11 @@ It was Nonius. Lucius knew him a little, from the Forum, from the kind of dinner
 
 “Is it done?” Lucius said, and then wished he had said something else, something a consul says.
 
-“It’s open,” said Nonius. “The rest is yours.”
+“It’s open,” said Nonius. “I’d be quick about it, consul.”
 
 The cohorts went in past him in the dark, the hobnails loud on the stones under the arch and then quieter on the street, and Lucius rode in among them. The street was empty. A door opened a hand’s width on the left and shut again. A dog barked behind a wall and somebody hit it. Then they were in the city, in Rome, the consul of the Roman people coming into Rome at the head of soldiers in the middle of the night, and no one at all had tried to stop him.
 
-He had expected it to feel like something. It felt like a wet road.
+Somebody’s hearth had been put out with water, and the whole street smelled of wet ash.
 
 ---
 
@@ -38,7 +38,7 @@ He began with the law, because he always began with the law. He told them that t
 
 That was the part he had worried about in the night. He had his brother’s word in a letter that was eight months old and said nothing of the kind. But it was the kind of thing Marcus would say, if he were asked, and Marcus was not here to be asked, and the crowd cheered it so loudly that the pigeons went up off the Basilica all together and came down again on the other side.
 
-He felt it then, the thing he had expected to feel at the gate. He felt it go through him from the stones up.
+He felt it then, go through him from the stones up.
 
 He talked for longer than he meant to. He always did. He gave them the farmers of Cremona and of Capua, the old men on benches in the sun and the boundary stones their grandfathers had set, and he could see it landing, he could see faces in the front of the crowd go still the way faces did when a man said aloud the thing they had been saying to their wives. When he stopped they did not let him go. They called his name. Somebody called *Pietas*, the name he had taken for Marcus’s sake, and others took it up, and he raised his hand to them and did not trust himself to say anything.
 
