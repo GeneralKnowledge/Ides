@@ -47,3 +47,4 @@ One line per change.
 - 2026-11-11: Act I drafted (I-01 to I-11, 17,100 words, 77% of budget), self-audited; new names Glycon, the Marcii, Antyllus, Iullus; export tool tools/export_book2_docx.py.
 - 2026-11-11: Reuben: the contract's 90,000 words is a ceiling; add length only where the act's outside reader finds it thin.
 - 2026-11-11: Reuben asked to build out the rest of the acts. Acts II to IV drafted (33 scenes, 49,900 words; pilot II-03 and II-06 carried in), self-audited, with a (check) list per act. New names Aemilius, Ahenobarbus, Marcellus, Vettius (invented). Book stands at 67,000 words, under the 90,000 ceiling.
+- 2026-11-11: Reuben: follow Appian, Lucius goes to Spain after Perusia. IV-09 rewritten in Corduba, autumn 40; storyboard row updated.
