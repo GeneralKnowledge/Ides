@@ -68,7 +68,7 @@ Book 1 remembers Larissa four times. Book 0's scene must hold all of them:
 
 So: a tent; mud to the knees; expecting chains; dinner; Caesar kind; a hand on the shoulder; gratitude and hatred together; Caesar writes to Servilia the same night.
 
-Also: Brutus governed Cisalpine Gaul in 46 (Ch 6). Pompey had his father killed (Plut. *Brut.* 4, checked).
+Also: Brutus governed Cisalpine Gaul in 46 (Ch 6). Ch 6 remembers Nicaea, "two summers gone": Brutus spoke for King Deiotarus, and Caesar said "it matters a great deal what this young man wants. Because whatever he wants, he wants hard." Book 0 IV-06 must stage that and keep the line. Pompey had his father killed (Plut. *Brut.* 4, checked).
 
 ## Antony
 

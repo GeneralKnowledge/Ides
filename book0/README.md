@@ -14,7 +14,7 @@ Because Book 0 is written after Books 1 and 2, its handover runs backwards: it l
 | 1 | [Contract](CONTRACT.md) | Approved by Reuben, 11 Nov |
 | 2 | Canon pack: [chronology](canon/chronology.md), [places](canon/places.md), [names](canon/names.md) | First version; lines marked (check) still to confirm |
 | 3 | [Mind sheets](voice/MIND_SHEETS.md) ("before" notes), [storyboard](storyboard/README.md), [questionnaire](storyboard/questionnaire.md) | Storyboard v1 approved with Reuben's six picks, 11 Nov |
-| 4 | Blind voice pilot | Waits until Book 2 is drafted (decided 11 Nov) |
+| 4 | [Blind voice pilot](pilot/README.md) | Three scenes written; blind packet ready for one outside reader (11 Nov) |
 | 5 | Draft by act | After the pilot passes |
 | 6 | Structure audit, cold read, freeze | Not started |
 
@@ -31,3 +31,4 @@ python3 tools/book2_names_check.py --names book0/canon/names.md
 
 - 2026-11-11: Folder created on Reuben's request to build Book 0 out like Book 2. Handover (backwards), contract draft, canon pack first version, mind-sheet "before" notes, storyboard v1, questionnaire and key, cross-book findings.
 - 2026-11-11: Reuben: "Lets go with your recommendations." Contract approved; storyboard choices settled (see storyboard README); Book 2 suggestions and the Labienus name fix passed to the Book 2 thread; pilot and prose wait for Book 2.
+- 2026-11-11: Book 2 already drafted, so the voice pilot ran: I-01 Antony, II-04 Laberius, III-10 Brutus, each paired blind with a Book 1 scene of the same person. Packet in project files.
