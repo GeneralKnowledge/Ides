@@ -166,7 +166,7 @@ In the atrium Caesar stood dressed for the street, with his tablets stacked on t
 
 “They are waiting,” Decimus said, easy, as he had said a hundred easy things in this house. “The whole meeting. You called them. If you stay home for dreams, they will say you are afraid.” He let the next blade show, polite as a smile. “Or that you are becoming a king who cannot be spoken to, who dismisses men because his wife saw timber fall in her sleep.”
 
-Nobody in that house had said the word aloud since the Lupercalia. Calpurnia’s face changed.
+Calpurnia’s face changed.
 
 “Do not call my fear a king’s excuse,” Calpurnia said. “You have walked him through ditches and laughed him past philosophy. Do not walk him past me as if I were weather.”
 
@@ -210,7 +210,7 @@ Caesar didn’t speak. Decimus thought of the portico, and of Trebonius waiting 
 
 “Then we shall be done by noon,” said Decimus, and felt the sentence curdle as it left his teeth.
 
-At the threshold Nysa stepped forward again. Phileros put out his arm, keys and all, and she stopped against it. She did not cry out. She only looked at Decimus.
+At the threshold Nysa stepped forward. Phileros put out his arm, keys and all, and she stopped against it. She did not cry out. She only looked at Decimus.
 
 “We go,” Caesar said.
 
@@ -236,7 +236,7 @@ Overhear risk: Extreme (Phileros rivalry; Decimus glance)
 
 ---
 
-When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything since before it was light.
+When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything all morning.
 
 Caesar had sent her to the lane door before it was light, to wait for word from the haruspices. She had waited there until the sun was on the top of the wall, and nobody had come.
 
@@ -268,7 +268,7 @@ The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa
 
 They went.
 
-Nysa stood there until she could no longer hear the litter-poles over the noise from the Forum.
+Nysa stood there until she could no longer hear the litter poles over the noise from the Forum.
 
 Phileros let out his breath. “If you have wax,” he said, not looking at her tunic, “put it in the fire. Houses burn for less.”
 

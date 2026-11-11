@@ -97,7 +97,7 @@ The main lines came out one after another. Young Octavius to three parts in four
 
 Antony laughed once, short, in recognition rather than mirth.
 
-“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. He had loved him enough to put him in the will, and then to die on his schedule.
+“He loved you,” Antony said in Decimus’s general direction, though Decimus wasn’t there to receive it. Caesar had loved him enough to put him in the will, and then to die on Decimus’s schedule.
 
 What mattered was the boy, and the name, and the crowd’s three hundred reasons to remember Caesar as a father instead of a corpse produced by philosophers. Antony tried to remember the boy, and got thin shoes, and a careful mother, Caesar’s niece Atia, who kept her son near her and her opinions nearer. The boy had never fed a veteran. Antony could not see anything there to be afraid of.
 
