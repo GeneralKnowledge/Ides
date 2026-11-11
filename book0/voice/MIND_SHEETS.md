@@ -70,6 +70,8 @@ The risk common to all six is hindsight. Each of them is a person to whom the Id
 
 **The risk:** making him the drunk of the anecdotes. He is the best field officer in the book at Pharsalus and the worst governor of Rome in it a year later, and both are him.
 
+**Pilot note (outside reader, 11 Nov 2026):** the two Antonys read as the same man but were the least alike of the three pairs, and the reader wanted to see more of the connection. In drafting, let the man who calculates in Book 1 show under the soldier here: a sum done quickly before he smiles, a debt remembered while he is being liked. One such moment per Antony scene, not a speech about it.
+
 ---
 
 ## Not POVs

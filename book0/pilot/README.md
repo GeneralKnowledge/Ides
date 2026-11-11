@@ -26,3 +26,18 @@ The DOCX and the key are in project files, `exports_2026-11-11_book0_voice_pilot
 ## Invented in the pilot
 
 Rufrius's coming over at Ilerda, his wife's mother's olives, and Laberius's father's lame mule (a seed for "Mule", not explained). The farmer's son and wife near Larissa, the cookshop boy at Ariminum, and the young man from Fanum are unnamed. No new names.
+
+## Result: PASSED (11 Nov 2026)
+
+One outside reader, blind. Ranking B > D > F > E > A > C, so the three Book 0 scenes came first, second and third (B Brutus at Larissa, D Laberius at Ilerda, F Antony at Ariminum); the reader said the gap was not large. No scene read as a different writer, every pair read as the same person, and nobody found an error for the period. Favourite scene B; most admired D. Rufrius "remarkably effective".
+
+What the reader raised, and what we do with it:
+
+- **Antony was the least alike of the three pairs** and the reader wanted more of the link between the two versions. Added to the Antony note in `voice/MIND_SHEETS.md` for drafting. Scenes unchanged.
+- **Explaining lines:** two in B (the fig, and the later account of what Brutus understood), one in F ("He had not been the reason for anything before"), plus two in the Book 1 scenes. The reader said not to cut these automatically. Left as they are; the drafting self-audit keeps watching for them.
+- **Hindsight:** B, E and F carry the future as irony, which the reader took as intended; D carries a human cost instead. No change.
+- **Dialogue wit is similar across classes.** Carried into drafting as a check: soldiers and slaves should not be as quick as senators.
+- **Weakest ending: C** (Book 1, not touched).
+- **The reader's warning:** the scenes' strength is restraint, so do not over-edit them. No line edits made after the read.
+
+Book 1 needs no change from this read.
