@@ -1,6 +1,7 @@
 # Human-voice rules — Book 1
 
 **Status:** Standing craft law after the 2026-10-19 human-voice work; evidence, voice-survival and stopping rules for any final-stage change added 2026-10-22; revision vs development split (§1a) added 2026-10-23; protection narrowed to named cores, pass caps confined to style-only passes and repetition cuts made lighter 2026-10-24 (`archive/pass_logs/rules_review_2026-10-24.md`); habit I (caption fragments) added 2026-10-29 (`archive/pass_logs/one_word_sentence_pass_2026-10-29.md`).  
+**Suspended for the voice rewrite, 2026-11-11 (Reuben):** owner diction (§3.3), load-bearing brands (§3.4), the cap on passes (§3.7) and the preference for cuts over rewrites do not apply to scenes rewritten from [`voice/MIND_SHEETS.md`](voice/MIND_SHEETS.md). They were protecting the habit an outside reader found across Ch 1–6. Pilot: [`../drafts/pilot_voice_2026-11-11/`](../drafts/pilot_voice_2026-11-11/README.md).  
 **Purpose:** Keep the novel feeling like rooms with bodies, not polished caption.  
 **Not:** A detector-optimisation programme. Detector flags are clues, not success metrics.
 
