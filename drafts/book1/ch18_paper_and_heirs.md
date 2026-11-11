@@ -123,7 +123,7 @@ Nysa saw the basin on its stand inside the door, with the water gone cloudy and 
 
 “What does second mean?” she asked the woman beside her, a washerwoman with chapped hands.
 
-“It means he was loved a little less than the boy,” the woman said. “And he killed him anyway.”
+“It means he gets it if the boy dies,” the woman said. “And he fetched him.”
 
 Nysa paid for the lentils. She had been given the exact coin, and she counted it out.
 

@@ -68,7 +68,7 @@ He had told the truth. He did not believe in spirits. The senses deceived; the t
 
 He looked at the place on the map where his finger had been. The road between the mountain and the marsh. Two hills, one on each side of it. If it came to that, he would want the southern one, above the marsh, near the sea, where the ships could feed him.
 
-He found he did not want to be the one to tell the men about Brutus’s visitor, and that he would not tell them, and that he did not want Brutus to tell them either. He did not examine why. He picked up the grain tallies again and went on adding. The columns came out right. They always did at this hour.
+He found he did not want to be the one to tell the men about Brutus’s visitor, and that he would not tell them, and that he did not want Brutus to tell them either. He did not examine why. He picked up the grain tallies again and went on adding. The columns came out right.
 
 ---
 

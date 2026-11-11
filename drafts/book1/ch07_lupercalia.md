@@ -33,7 +33,7 @@ When Antony came forward with the thing in his fist, the Forum’s noise changed
 
 Caesar refused.
 
-He refused more than once, and in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony offered it a second time and was refused a second time, louder, and there was a roar that was neither cheer nor protest. The third time, Caesar stood and said that Jupiter alone was king of the Romans, and had the wreath carried to the temple on the Capitol. Antony stood with his arm still half up. The noise that came back was not one he knew. It was not a cheer.
+He refused more than once, and in a way that let every watcher invent a script: humility, theatre, or a trap dressed as a joke. Antony offered it a second time and was refused a second time, louder, and there was a roar that was neither cheer nor protest. The third time, Caesar stood and said that Jupiter alone was king of the Romans, and had the wreath carried to the temple on the Capitol. Antony stood with his arm still half up. The noise that came back was not one he knew.
 
 “He will not be king!” someone shouted, relieved.
 
