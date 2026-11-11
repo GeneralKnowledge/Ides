@@ -66,6 +66,14 @@ The tall man was in the burial party too. He was on the other side of the ditch 
 
 The tall man nodded, and went on to his own tent.
 
+He had his foot on the bank when the voice came down from the wall. It came from high up, near the gate, over four hundred paces of frozen ground, a big flat parade-ground voice with the breath of a starving man behind it, and it shouted one word.
+
+“*Mule!*”
+
+The men on the bank laughed. Somebody shouted back that the mules were all eaten up there, everyone knew it, and the bank laughed again. Laberius stood with one foot on the slope and looked up at the wall. He could not see who it was. There were thirty men on that stretch of parapet, small and grey against the sky, and any of them could have been anyone.
+
+He went on up the bank.
+
 Vibius was at the fifth tower with the dog, which had gone back under the platform and was lying on its sacking with its head on its paws. Vibius had a cut over one eye and was holding a rag to it and looking very pleased with himself.
 
 “Kalends of January,” Vibius said. “Happy new year, Centurion. They tell me you put one down on the bank with your bare hands.”

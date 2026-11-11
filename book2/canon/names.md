@@ -14,7 +14,7 @@ The **Near** column flags handles that are not identical but close enough to con
 | Sosia | Hordeonius's collector (a man) | 1 | Alive | |
 | Bucco | Gaius Septimius Bucco, Antony's cash agent | 1 | Alive, lending at the Janus | |
 | Vibius | Laberius's optio | 1 | Alive, Capua | Vibius Pansa (dead; always "Pansa") |
-| Rufrius | Laberius's old comrade (legion never named, by series rule); calls Laberius "Cordus" and "Mule" | 1 | Not mentioned after Philippi | Rufus (Salvidienus) |
+| Rufrius | Laberius's old comrade (legion never named, by series rule); calls Laberius "Cordus" and "Mule" | 1 | Inside Perusia with Lucius (II-10, III-03); with Ventidius at Brundisium (IV-08) | Rufus (Salvidienus) |
 | Gaius | Gaius of the split sandal, Laberius's tent-mate | 1 | Dead at Mutina | Octavian's old name, said only by his mother |
 | Phileros | Door-keeper of the Domus Publica | 1 | Alive **(check)** | |
 | Medullina | Nysa's Subura contact | 1 | Unexplained by decision | |
