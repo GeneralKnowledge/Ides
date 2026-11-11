@@ -18,7 +18,7 @@ Ten scenes, 15,000 words (74% of the 20,400 budget), drafted once on 11 Nov 2026
 ## Self-audit
 
 - **Action:** the cedar chest spilled on the quay; the promise of I-01 kept (Aulius's family still on the plot, the old man dead in his own house, the bronze god not given); the yellow room and the three days Nysa holds back Julia's departure; Antony's anger at Athens; the debt paid under the sphinx seal; the name said at Capua; Fulvia says the unsaid thing to Claudia; the soldiers make the peace across the ditch; Lucius in Spain gets the peace as news and a letter about horses; the count that nobody but a child asks for.
-- **Point of view:** Antony is seen only through Fulvia (IV-04) through a letter (IV-09) and from a distance (IV-10). Rufrius is alive, came back with Antony, and meets Laberius between the lines (the handover left his fate open).
+- **Point of view:** Antony is seen only through Fulvia (IV-04) through a letter (IV-09) and from a distance (IV-10). Rufrius was inside Perusia, walked north to Ventidius after the surrender, and meets Laberius between the lines (series plan).
 - **Payoffs from earlier acts:** the beans (I-01, IV-02); "Have you eaten?" (I-01, IV-02); the bone doll (I-08, I-09, IV-03, IV-07, IV-10); Calenus's steward's loan (Book 1 Ch 34, IV-05); the tribune with one ear (II-05, IV-08); Glycon as the paying freedman Hordeonius does not know (IV-05).
 - **Rooms going silent:** about twenty "Nobody / said nothing / did not answer" per act in II to IV; eight of the response-silences cut across Acts III and IV. IV-09 no longer repeats III-08's "the number of the grain".
 

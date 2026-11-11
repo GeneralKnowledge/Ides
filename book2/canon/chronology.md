@@ -57,7 +57,7 @@ The sources disagree on motive almost everywhere (Appian leans to Lucius as a ch
 | 40 | Antony finds Fulvia at Athens; blames her and Manius. | App. *BC* 5.52 | Checked |
 | 40 | Octavian asks Maecenas to arrange his marriage to Scribonia, sister of Libo, Sextus's father-in-law. | App. *BC* 5.53 | Checked |
 | 40 | Antony leaves Fulvia ill at Sicyon. She dies there. | App. *BC* 5.55, 5.59; Plut. *Ant.* 30.3 | Checked |
-| 40 | Parthians invade under Pacorus and Quintus Labienus; Saxa killed; Syria taken except Tyre; Labienus styles himself imperator and Parthicus. | Dio 48.24–26 | Checked |
+| 40 | Parthians invade under Pacorus and Quintus Labienus; Saxa killed; Syria taken except Tyre; Quintus Labienus styles himself imperator and Parthicus. | Dio 48.24–26 | Checked |
 | Autumn 40 | Peace of Brundisium. Pollio for Antony, Maecenas for Octavian, with Cocceius; amnesty; Octavia to be betrothed to Antony. | App. *BC* 5.64 | Checked; month (check) |
 | Autumn 40 | Partition at Scodra: Antony the East, Octavian the West, Lepidus Africa. | App. *BC* 5.65 | Checked |
 | Autumn 40 | Marriage of Antony and Octavia celebrated in Rome; the Senate waives the ten-month widow's rule for Octavia (Marcellus had died). Antony puts Manius to death. | App. *BC* 5.66; Plut. *Ant.* 31.3 | Checked |
@@ -65,5 +65,5 @@ The sources disagree on motive almost everywhere (Appian leans to Lucius as a ch
 ## Notes for drafting
 
 - **Pollio's name.** Appian calls him Asinius in the siege chapters and Pollio at Brundisium. Book 2's handle is **Pollio** throughout ([names.md](names.md)).
-- **Sources that disagree.** Plutarch *Ant.* 33.4 has Ventidius kill Labienus; Dio 48.40 has him captured by Demetrius. Outside this book's span, but do not let a character foretell either.
+- **Sources that disagree.** Plutarch *Ant.* 33.4 has Ventidius kill Quintus Labienus; Dio 48.40 has him captured by Demetrius. Outside this book's span, but do not let a character foretell either.
 - **Virgil.** The loss of his farm near Mantua comes from the ancient lives and the commentators on *Eclogues* 1 and 9, not from the historians. If used, a character can say it; the narration does not vouch for it **(check sources)**.

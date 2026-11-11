@@ -54,7 +54,7 @@ He was standing very straight, with his weight on both feet, the way soldiers st
 
 “You’ve a paper,” Lucius said.
 
-“Discharge.” The man held it so that Lucius could see the seal. “Second legion, under your brother. Philippi. My plot’s at Beneventum, by the river. Marked out in the spring.” He did not look at the crowd round them, the men with their wax deeds and their old men’s handwriting. “There’s a family on it still. They say the consul’s on their side. I’d like to know if the consul’s on mine.”
+“Discharge.” The man held it so that Lucius could see the seal. “Your brother’s army. Philippi. My plot’s at Beneventum, by the river. Marked out in the spring.” He did not look at the crowd round them, the men with their wax deeds and their old men’s handwriting. “There’s a family on it still. They say the consul’s on their side. I’d like to know if the consul’s on mine.”
 
 Lucius looked at the seal. It was a good seal, the triumvirs’ seal, clear and deep, the kind that had been cut by somebody who meant it to last.
 

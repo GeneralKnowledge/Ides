@@ -22,6 +22,8 @@ The Janus had been full since the morning the consul came in. Not with business.
 
 Hordeonius had told them he did not know. He had not known. He had sat on his stool on the first day with his shutter half down and watched the crowd and listened, and what he had listened for was not what the consul had said but what the young Caesar had done, which was nothing. The young Caesar’s house above the Ring-makers’ Stairs had its door shut. The young Caesar’s soldiers had gone out of the city. Lepidus, who had charge of Rome for the triumvirs, had gone too, quickly and without any speech, and nobody at the Janus could say in which direction.
 
+He had seen an Antonius hold Rome before. In the year after Pharsalus, with Caesar in Egypt, this consul’s brother had been Master of the Horse, and when Dolabella’s men filled the Forum wanting every debt in Rome cancelled, Antonius had brought his soldiers down off the Capitol and cut them down where they stood. The Janus had watched from behind its shutters. Most of the Janus had been grateful. Hordeonius had been grateful, and had not liked finding out what his gratitude looked like on the stones.
+
 On the second day the price of wheat in the market by the river had gone up by a fifth.
 
 That was what Hordeonius had noticed. Not the speech. The wheat. A city that is about to be fought over buys bread, and the dealers by the river knew it before the Senate did, and when the wheat went up he had drawn his shutter the rest of the way down and gone home early.
