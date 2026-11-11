@@ -18,5 +18,7 @@
     "dedication",
     "epigraph",
     "acknowledgements"
-  ]
+  ],
+  "front_blank_leaves": 1,
+  "end_blank_pages_min": 4
 }

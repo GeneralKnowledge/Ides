@@ -41,17 +41,18 @@ class Signature:
         return self.start + self.pages - 1
 
 
-def plan(total: int, size: int = 16) -> list[Signature]:
+def plan(total: int, size: int = 16, end_blank_min: int = 0) -> list[Signature]:
     """Signatures of `size` pages; a short tail is evened out, never thinner than 8.
 
-    The book is padded to a multiple of 4 with blank pages at the end. A
+    The book is padded with blank pages at the end: at least `end_blank_min`
+    (the blank leaves before the rear endpaper), then up to a multiple of 4. A
     remainder of 12 makes a 12-page last signature; 8 becomes 12 + 12 in
     place of the last 16 + 8; 4 becomes 12 + 8 in place of 16 + 4, so no
     signature is a single sheet (too thin to sew well).
     """
     if size % 4:
         raise ValueError("signature size must be a multiple of 4")
-    padded = -(-total // 4) * 4
+    padded = -(-(total + end_blank_min) // 4) * 4
     full, rem = divmod(padded, size)
     sizes = [size] * full
     if rem:

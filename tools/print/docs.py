@@ -207,7 +207,7 @@ def spec(i: Info) -> str:
 {table(margin_rows)}
 == Signatures
 {table(sig_table(i), "(auto, auto, auto, auto, 1fr)", header=True)}
-Blank pad pages (if any) are added at the very end of the last signature; they sit after the historical note as the conventional blank leaves before the rear endpaper.
+Blank pages at the very end of the last signature sit after the back matter as the conventional blank leaves before the rear endpaper (at least `end_blank_pages_min` in `meta.json`, then enough to fill out the signature); `front_blank_leaves` blank leaves open the book before the half-title.
 
 == Estimates: not final
 #block(fill: luma(94%), inset: 8pt, radius: 2pt, width: 100%)[*These are estimates.* Paper caliper varies by brand and humidity, and sewing, gluing and pressing change the spine. Measure the actual sewn, glued and pressed text block before cutting boards or the spine stiffener; recompute with the formulas below.]

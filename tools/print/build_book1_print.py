@@ -226,11 +226,13 @@ def main() -> None:
     checks.append(("Contents lists every section with its correct page number",
                    "pass" if not toc_bad else f"FAIL: {toc_bad}"))
 
-    blank_ok = all(n == 2 or (n + 1) in lay.openings for n in lay.blanks)
+    front_blank = 2 * meta.get("front_blank_leaves", 0)
+    allowed = set(range(1, front_blank + 1)) | {front_blank + 2}  # flyleaf, half-title verso
+    blank_ok = all(n in allowed or (n + 1) in lay.openings for n in lay.blanks)
     checks.append(("Blank pages carry no running head or folio, and each sits before a recto opening",
                    f"pass: {len(lay.blanks)} blank pages" if blank_ok and not lay.errors else "FAIL"))
     if not blank_ok:
-        hard.append(f"unexpected blank pages: {[n for n in lay.blanks if n != 2 and n + 1 not in lay.openings]}")
+        hard.append(f"unexpected blank pages: {[n for n in lay.blanks if n not in allowed and n + 1 not in lay.openings]}")
     checks.append(("Opening pages carry no running head; folios only where intended",
                    "pass" if not lay.errors else "FAIL"))
 
@@ -239,7 +241,7 @@ def main() -> None:
         fail(f"{len(hard)} check(s) failed; nothing written to {out}")
 
     # ---- C. Signatures ---------------------------------------------------------------
-    sigs = impose.plan(total, args.signature)
+    sigs = impose.plan(total, args.signature, meta.get("end_blank_pages_min", 0))
     padded = sigs[-1].end
     side_rows = []
     for sig in sigs:
