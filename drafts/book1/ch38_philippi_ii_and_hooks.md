@@ -204,7 +204,7 @@ The freedman was sitting on the step in the cold with a list on his knees and hi
 
 “I’m looking for a freedwoman of the divine Julius,” he said. “Of the old household. Nysa.”
 
-She had been Nysa for most of her life. Before that she had been a name she did not remember, in a place she did not remember, and before the Ides she had been *girl* and *you* and the water-jug that walked. In law she had been something else since the day the old man touched her with the rod in front of the praetor, and she had never once said it out loud.
+She had been Nysa for most of her life. Before that she had been a name she did not remember, in a place she did not remember, and before the Ides she had been *girl* and *you* and the water-jug that walked. In law she had been something else since the day the old man’s will was read out to the house, and she had never once said it out loud.
 
 “Julia Nysa,” she said.
 
@@ -325,3 +325,6 @@ Then he put it back, and stepped over the twine, and walked down between the bea
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-92 heavy edit (the ‘cleaner hill’ passage and the closing coin caption cut; Brutus misses Cassius’s contempt); SC-93 light edit.
+
+## Continuity audit 2026-11-11
+- **Decisions:** SC-95a: Nysa was freed by Caesar’s will (Ch 25), not by the rod before a praetor; the line now dates her freedom from the reading of the will.

@@ -7,7 +7,7 @@
 # SC-87: Necessity
 
 POV: Cassius · Asia / Syria orbit
-Date / place: Winter 43–42 · a city’s audience hall, Asia
+Date / place: Winter 43–42 · the governor’s audience hall, Tarsus, Cilicia
 Canon refs: Chain 8 · C3
 Info ENTER: Need pay · EXIT: Tarsus pays half with two sons as sureties; the courier brings the Pedian court and Decimus’s death
 Overhear risk: Interpreters
@@ -145,7 +145,7 @@ He took the top letter out again and unrolled it and held it to the lamp, and th
 # SC-88c: Sardis
 
 POV: Cassius · Sardis
-Date / place: Early 42 · the armies’ meeting on the plain; a closed room in the governor’s house; the tribunal next day
+Date / place: Summer 42 · the armies’ meeting on the plain; a closed room in the governor’s house; the tribunal next day
 Canon refs: S1 · Plut. *Brut.* 30–35 · App. *BC* 4.63–65 · *Iliad* 1.259
 Info ENTER: Rhodes sacked by Cassius; Xanthus burned under Brutus; both armies paid in Asia’s silver · EXIT: The quarrel; Favonius; Lucius Pella condemned; “Remember the Ides”
 Overhear risk: Friends at the door; Favonius
@@ -231,3 +231,6 @@ Cassius did not answer it. He went back to his own quarters and sat for a long t
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-87 rewritten in full from Cassius’s counting (fourteen elders, nine interpreters; the two men without rings; Carrhae unspoken; he counts who is left). SC-88 heavy edit (nothing added to Brutus’s money).
+
+## Continuity audit 2026-11-11
+- **Decisions:** SC-87 place line names Tarsus, Cilicia, to match the prose. SC-88c dated summer 42 (after Rhodes and Xanthus, before the march to Abydos).
