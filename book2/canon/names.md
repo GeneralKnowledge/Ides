@@ -14,7 +14,7 @@ The **Near** column flags handles that are not identical but close enough to con
 | Sosia | Hordeonius's collector (a man) | 1 | Alive | |
 | Bucco | Gaius Septimius Bucco, Antony's cash agent | 1 | Alive, lending at the Janus | |
 | Vibius | Laberius's optio | 1 | Alive, Capua | Vibius Pansa (dead; always "Pansa") |
-| Rufrius | Of the Second legion; calls Laberius "Cordus" and "Mule" | 1 | Not mentioned after Philippi | Rufus (Salvidienus) |
+| Rufrius | Laberius's old comrade (legion never named, by series rule); calls Laberius "Cordus" and "Mule" | 1 | Not mentioned after Philippi | Rufus (Salvidienus) |
 | Gaius | Gaius of the split sandal, Laberius's tent-mate | 1 | Dead at Mutina | Octavian's old name, said only by his mother |
 | Phileros | Door-keeper of the Domus Publica | 1 | Alive **(check)** | |
 | Medullina | Nysa's Subura contact | 1 | Unexplained by decision | |
@@ -62,7 +62,7 @@ Retired invented names, not to be reused: Seius, Seia Prima, Naevius, Gavius, Dr
 | Cestius | Of Perusia, "who called himself the Macedonian"; fires his house | App. *BC* 5.49 | |
 | Nero | Tiberius Claudius Nero, Livia's husband, flees in 40 | Suet. *Tib.* 4 | |
 | Livia | His wife, with the infant Tiberius | Suet. *Tib.* 4–6 | |
-| Labienus | Quintus Labienus, with the Parthians | Dio 48.24–26 | |
+| Quintus Labienus | Son of Book 1's Titus Labienus; with the Parthians. Always the full name in Book 2 | Dio 48.24–26 | Labienus (Titus, his father, Book 1) |
 | Pacorus | Parthian prince | Dio 48 | Pacuvius |
 | Virgil | Publius Vergilius Maro, if used | Ancient lives; *Eclogues* 1, 9 | |
 | Aemilius | Lucius Aemilius, Perusine councillor spared for having voted to punish Caesar's killers (III-10, as hearsay) | App. *BC* 5.48 | Lepidus (Marcus Aemilius Lepidus; always "Lepidus") |

@@ -50,3 +50,4 @@ One line per change.
 - 2026-11-11: Reuben: the contract's 90,000 words is a ceiling; add length only where the act's outside reader finds it thin.
 - 2026-11-11: Reuben asked to build out the rest of the acts. Acts II to IV drafted (33 scenes, 49,900 words; pilot II-03 and II-06 carried in), self-audited, with a (check) list per act. New names Aemilius, Ahenobarbus, Marcellus, Vettius (invented). Book stands at 67,000 words, under the 90,000 ceiling.
 - 2026-11-11: Reuben: follow Appian, Lucius goes to Spain after Perusia. IV-09 rewritten in Corduba, autumn 40; storyboard row updated.
+- 2026-11-11: Series rules from the Book 0 plan: Laberius's legion is never named (five "Second legion" mentions in I-07, II-01, II-06, II-10 reworded); Book 2's Labienus is always "Quintus Labienus" (Book 1's Labienus is his father, Titus).
