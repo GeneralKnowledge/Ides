@@ -33,11 +33,11 @@ The steward said, carefully, that the crowd had been shouting a word when they c
 
 Decimus had not known, until the will was opened, that the men in the portico had been right. He had been written in the second line. It was true. He had still not found anywhere to put it.
 
-A neighbour’s freedman was helping to shift a beam, and he had the other thing the street was saying, and gave it without being asked. It was about the lady Calpurnia’s dream. On the morning, the story went, she had begged her husband to stay at home, and a friend had come to the house and laughed him out of it. Decimus listened to the end. It had taken four days to get from that atrium to this beam, and it had arrived very nearly whole.
+A neighbour’s freedman was helping to shift a beam, and he had the other thing the street was saying, and gave it without being asked. It was about the lady Calpurnia’s dream. On the morning, the story went, she had begged her husband to stay at home, and a friend had come to the house and laughed him out of it. Decimus listened to the end. It had taken five days to get from that atrium to this beam, and it had arrived very nearly whole.
 
 He did not ask who *they* had been. He sent the household out by the back way, in threes, with what they could carry, and heard his own voice doing it. It was the voice he had used on that morning. He picked up a length of burned strap to move it and got pitch across his palm, and wiped it on his cloak, and it did not come off.
 
-He packed the maps himself. The top one was the Cisalpine province: the great north road, the river crossings, Mutina with the ditch he had widened in his head a year ago. He had two legions waiting there, and a wall. Antony wanted both, and all Rome knew it.
+He packed the maps himself. The top one was the Cisalpine province: the great north road, the river crossings, Mutina with the ditch he had widened in his head before the winter. He had two legions waiting there, and a wall. Antony wanted both, and all Rome knew it.
 
 Brutus found him in the courtyard, where one pot of herbs was still unbroken. There was soot on his face. He had walked across the city without lictors.
 
@@ -49,7 +49,7 @@ Brutus found him in the courtyard, where one pot of herbs was still unbroken. Th
 
 “Then he will have to come and ask. You have Macedonia on Caesar’s paper and Cassius has Syria. Go and sit in them. Somebody ought to hold a road in Italy.”
 
-“They burned Helvius Cinna in the street. For his name. He wrote verses, Decimus. If they will do that,” and he looked at the place where the door had been.
+“They killed Helvius Cinna in the street. For his name. He wrote verses, Decimus. If they will do that,” and he looked at the place where the door had been.
 
 “I know what they will do. They have been here.” Decimus fastened the map case. “It is twelve days to Mutina with wagons. If I wait until the city is quiet, the road will be full of his veterans, and I shall not get there at all. I want to be behind that ditch before he has his letter from the Senate.”
 
@@ -74,7 +74,7 @@ Decimus stood in the road with his arm out until they were round the bend. Then 
 ---
 
 ## Continuity notes (SC-52)
-- **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Lepidus’s people will not take a reply tablet. The street has Calpurnia’s dream nearly whole within four days (one version: a friend laughed him out of staying). 2026-11-11 (voice pass): SC-52 rewritten in full from Decimus’s measuring eye; the “nearer knife” refrain is gone; he learns only now that the second-line rumour was true. Property burns; which house is left generic.
+- **Knows / learns:** the split: Decimus to Cisalpine; Brutus and Cassius toward the East, Macedonia and Syria (EXIT-1). Antony wants the Cisalpine legions; Mutina on the Via Aemilia. Decimus and Brutus disagree on timing (east first or the nearer knife). Lepidus’s people will not take a reply tablet. The street has Calpurnia’s dream nearly whole within five days (one version: a friend laughed him out of staying). 2026-11-11 (voice pass): SC-52 rewritten in full from Decimus’s measuring eye; the “nearer knife” refrain is gone; he learns only now that the second-line rumour was true. Property burns; which house is left generic.
 - **Plants → pays:** Lepidus falls away (Ch 27, 31); the second heir. Plancus’s first letter cut 2026-11-07 (storyboard fix 9); Ch 27 introduces him.
 
 ---

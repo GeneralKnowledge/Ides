@@ -136,7 +136,7 @@ Then Decimus was in the house with a schedule and an open face, as he always was
 # SC-35c: A Friend with a Schedule
 
 POV: Decimus
-Date / place: Dawn 15 March 44 · Domus Publica atrium (DP-ATR) → vestibule
+Date / place: Morning 15 March 44, about the third hour · Domus Publica atrium (DP-ATR) → vestibule
 Canon refs: DEC-PERS-1 · M4 · M5 · CHOREO-1 (pre) · HOUSE-1
 Info ENTER: Conspiracy GO; delay = exposure; he is the fetch
 Info EXIT: Caesar attendance locked; Decimus leads him out
@@ -146,7 +146,7 @@ Overhear risk: High (Nysa, Phileros, household)
 
 Decimus washed his hands before he entered. They were not unclean.
 
-The Sacra Via was already loud. March mornings in Rome never waited for great men. Shop fronts were opening. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. His heart was in his throat.
+The Sacra Via was already loud. March mornings in Rome never waited for great men. The shop fronts had been open two hours. Someone argued about fish. Decimus walked through it with the cheer of a man sent to collect a friend for dinner. The dinner was the Senate. The friend was Caesar. His heart was in his throat.
 
 If Caesar stayed home, the day broke. Men with iron under their togas would look at one another too long. Someone would talk. Someone always talked.
 
@@ -262,7 +262,7 @@ Calpurnia spoke of blood in her lap, of holding him. She did not decorate it. Ny
 
 Caesar’s gaze flicked to Nysa once. “Go and see if the haruspices have sent anything.”
 
-In the service court the sky shifted from iron to dirty pearl.
+In the service court the sky shifted from iron to dirty pearl. Nobody came from the haruspices. She waited by the lane door until the sun was on the top of the wall, and still nobody came.
 
 Against her ribs, under linen, the wax fragment held its few words. She had written them yesterday, after two cloak-men talked on the far side of a door: *friends*, *consul*, *spare*, *danger*, *stays*. She still did not know whose friends, or which consul. She understood enough to be afraid of Phileros finding it.
 
@@ -308,4 +308,4 @@ Nysa didn’t put it in the fire. She returned it deeper against her skin.
 ---
 
 ## Voice pass 2026-11-11
-- **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back. Continuity audit (same day): Caesar no longer thinks of Nysa as a freedwoman (she is a slave until the will, Ch 25); Decimus says the Senate has sat “since first light”, since he arrives as the shops open.
+- **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back. Continuity audit (same day): Caesar no longer thinks of Nysa as a freedwoman (she is a slave until the will, Ch 25); Decimus says the Senate has sat “since first light”, since he arrives about the third hour (Nysa waits in the service court until the sun is on the wall; the shops have been open two hours), which agrees with Ch 13 “if he is late” and Ch 21, where Caesar leaves his house at the fourth hour.

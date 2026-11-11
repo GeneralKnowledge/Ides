@@ -35,7 +35,7 @@ A little after noon a thin man came to the board who did not want to borrow. He 
 
 Hordeonius knew them. One was in a small, neat hand, and the other had a corner gone. He had last seen them lying side by side on a table under a window, eleven days ago, where he had told Sosia to leave them.
 
-“The praetor Basilus is up on the Capitol with the rest,” the thin man said, “and in no case to object. And there is an Antonian name on the second that might pay well not to have it read. I thought of you first. You knew the man.”
+“The praetor Basilus came down off the Capitol yesterday with the rest,” the thin man said, “and is in no case to object. And there is an Antonian name on the second that might pay well not to have it read. I thought of you first. You knew the man.”
 
 “Where is the inquiry?”
 

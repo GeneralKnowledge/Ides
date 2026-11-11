@@ -44,7 +44,7 @@ Cicero had stopped guessing which were real and started counting.
 
 “And where is he,” Cicero asked, “while they bet on him?”
 
-“Off the Apollonia boat at Brundisium. Caesar’s old soldiers walked out on the road to look at him. Now he’s making for his stepfather’s villa on the bay, Philippus’s, near Naples.”
+“Off the Apollonia boat at some fishing place below Brundisium, to be safe. Then into Brundisium itself, when the garrison turned out to be his. Caesar’s old soldiers walked out on the road to look at him. Now he’s making for his stepfather’s villa on the bay, Philippus’s, near Naples.”
 
 Puteoli was on the same bay. Cicero did not enjoy the arithmetic.
 
@@ -88,7 +88,7 @@ It was the voice from the old days, before any of it, the voice that had walked 
 
 Cassius had never asked him what they talked about. He asked now.
 
-“The weather,” Trebonius said. “His mother’s health. A horse he wanted to buy off Lepidus.” He tightened a strap that did not need it. “He’s an easy man to talk to, Antony. That’s the trouble with him. I kept thinking he would ask me what I was doing, and he never did. He thought I was being friendly.”
+“A man who owed me money,” Trebonius said. “Remounts. Whether Hirtius writes better than he fights.” He tightened a strap that did not need it. “He’s an easy man to talk to, Antony. That’s the trouble with him. I kept thinking he would ask me what I was doing, and he never did. He thought I was being friendly.”
 
 “You were.”
 
@@ -184,7 +184,7 @@ The news of the column reached Puteoli on the last day of April, and Cicero read
 
 “He still owes you the dowry,” Tiro said, from the door.
 
-Cicero did not look up. Dolabella had married Tullia when she was twenty-eight and still hopeful, and been unfaithful to her before the wedding wreaths were dry, and divorced her in the end when she was carrying his child. She had died of the child at Tusculum in the February before last. Cicero had built a shrine for her in his head and never built it in stone. The dowry had been paid back in two instalments of three, and the third was overdue, and Dolabella wrote charming letters about it.
+Cicero did not look up. Dolabella had married Tullia when she was twenty-eight and still hopeful, and been unfaithful to her before the wedding wreaths were dry, and divorced her in the end when she was carrying his child. She had died of the child at Tusculum fifteen months ago, in February. Cicero had built a shrine for her in his head and never built it in stone. The dowry had been paid back in two instalments of three, and the third was overdue, and Dolabella wrote charming letters about it.
 
 “He was her husband,” Cicero said. “He is the consul. He pulled down the column. Those are three different facts, Tiro, and I am only writing about one of them.”
 
@@ -256,10 +256,10 @@ She went in. Brutus walked to the end of the gravel and back, and then again, an
 
 ## Continuity
 - **Knows / learns:** the Liberators bottled up in Latium; Cicero sees the gap in force through letters and objects. At Fundi, a neighbour and two couriers in one room: the coast road away from Antony’s Forum (Formiae, Puteoli next); the acts posted in bronze on the Capitol; the boy off the boat from Apollonia at Brundisium, now at Philippus’s villa on the Bay of Naples (the name-taking is Ch 22); the city praetor’s ten-nights excuse, moved by Antony. Wine-shop elders treat the boy as sport, and Brutus hears it echoed at Lanuvium (18 miles down the Appian Way). Cassius is at his own house nearer the coast. Brutus returns a purse unopened; a town clerk refuses his seal on a “liberty” record. Porcia, a steward and a client press him; a plan costs a refusal. **T13:** at dusk Porcia tells her Ides morning: boys sent to the theatre; at the fourth hour she fainted; the women began the wailing; a boy told Brutus in the porch she was dead (Plut. *Brut.* 15). He stayed through about a hundred breaths and has not thought of them since. “In case you thought it was only you who had a morning.” She tells the Lanuvium doctor the leg is an old fall. His stylus stops before he finishes calling Caesar a tyrant.
-- **SC-60a (Cassius, mid-April 44, T10):** Trebonius leaves for Asia before dawn from a posting station below Lanuvium (*Att.* 14.10); the market-day voice; on the Ides he talked with Antony about weather, his mother, a horse (“He thought I was being friendly.” “You were.” “That’s the part I think about.”). Dolabella, twenty-five, in debt, “I was at his wedding”; Smyrna has good walls. “We should have done him too.”
+- **SC-60a (Cassius, mid-April 44, T10):** Trebonius leaves for Asia before dawn from a posting station below Lanuvium (*Att.* 14.10); the market-day voice; on the Ides he talked with Antony about a debtor, remounts and Hirtius, as in Ch 15 (“He thought I was being friendly.” “You were.” “That’s the part I think about.”). Dolabella, twenty-five, in debt, “I was at his wedding”; Smyrna has good walls. “We should have done him too.”
 - **SC-60b (Nysa, mid → late April 44, T10/T1):** altar on the pyre site; offerings; *To the father of his country*; the false Marius leads prayers and curses the men of the Ides. The Numidian column goes up (Suet. *Jul.* 85). Antony has Marius killed without trial; crosses and the Rock (App. *BC* 3.2–3), the thread woman’s son. With Antony in Campania, Dolabella pulls the column down in person; more crosses and the Rock (Cic. *Phil.* 1.5). Nysa stands on the pale square at dusk, then buys the oil.
 - **SC-60c (Cicero, 1 May 44, Puteoli):** *O my wonderful Dolabella* (*Att.* 14.15); Tiro: the dowry (third instalment overdue); Tullia married at twenty-eight, divorced while carrying his child, died at Tusculum Feb 45; copy of the paragraph sent to Dolabella.
 - **Plants → pays:** Trebonius at Smyrna and Dolabella (Ch 29); Dolabella’s death (Ch 31 SC-87a); the name war (Ch 22).
 
 ## Voice pass 2026-11-11
-- **Decisions:** SC-60 heavy edit (the courier’s epigrams and “the Senate is a throat” cut; he hears himself sound like Cassius). SC-61 light edit.
+- **Decisions:** 2026-11-11 (continuity audit, Ch 15–23): Tullia’s death is now “fifteen months ago, in February” (Feb 45, unchanged, but a reader misread “the February before last”); the courier has Octavian land below Brundisium first (Ch 20 “Not Brundisium”); Trebonius’s account of his talk with Antony now matches Ch 15. SC-60 heavy edit (the courier’s epigrams and “the Senate is a throat” cut; he hears himself sound like Cassius). SC-61 light edit.

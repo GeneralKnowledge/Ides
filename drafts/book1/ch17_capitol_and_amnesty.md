@@ -49,7 +49,7 @@ He was not. An hour later he was on the steps, out of breath, in a clean toga, a
 
 “He will find the letter.”
 
-Toward evening the light went copper. The Capitol’s stone held heat. Brutus’s hands smelled of metal no matter how often he washed them in a basin someone had brought. He dried them on his toga and still would not look at his own palms. He began, in his head, the speech as it would be written down.
+Toward evening the light went copper. The Capitol’s stone held heat. Brutus’s hands smelled of metal no matter how often he washed them in a basin someone had brought, and each time the cut across his hand opened again. He dried them on his toga and still would not look at his own palms. He began, in his head, the speech as it would be written down.
 
 Cassius said, close enough that only Brutus and Decimus caught it, “We cannot sleep on this rock and call it victory.”
 
@@ -57,7 +57,7 @@ Cassius said, close enough that only Brutus and Decimus caught it, “We cannot 
 
 Cassius waited until Casca had turned to the parapet. “Beginning,” he said, not for the crowd. “Decimus wants a road. Casca wants a cheer. You want it written down better than it went.”
 
-Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. “His brother’s creditor called the debt this morning.” Brutus did not know what debt Casca meant. He saw only that Cassius’s mouth went tight at it.
+Casca’s knuckle still wouldn’t come clean. He followed Cassius’s glance along the incomplete ring of faces. “Galba isn’t here,” Casca said. Brutus remembered the small room, and Cassius saying that he had promised the man nothing. Cassius’s mouth went tight.
 
 “We stay, then,” Cassius said. “But say that it is because we are afraid. Do not make a period of it.”
 
@@ -66,7 +66,7 @@ Brutus did not answer. Below them the Forum was filling again, and nobody in it 
 ---
 
 ## Continuity notes (SC-45)
-- **Knows / learns:** Cicero visits the Capitol on the Ides afternoon and urges the praetors to summon the Senate (Ch 25, 35 “the Capitol’s first day”). The liberty speech fails to move the people. Waiting on the Capitol is a mistake shown as a want resisted (speak, wait, leave) under Casca, Decimus and Cassius. Lepidus: master of horse, a legion on the Tiber island. Brutus will not look at his palms. Galba is absent, his winter terms unpaid (Ch 8). Brutus does not know Galba’s terms.
+- **Knows / learns:** Cicero visits the Capitol on the Ides afternoon and urges the praetors to summon the Senate (Ch 25, 35 “the Capitol’s first day”). The liberty speech fails to move the people. Waiting on the Capitol is a mistake shown as a want resisted (speak, wait, leave) under Casca, Decimus and Cassius. Lepidus: master of horse, a legion on the Tiber island. Brutus will not look at his palms. Galba is absent, his winter terms unpaid (Ch 8). Brutus knows only what Cassius told him in Ch 13 (2026-11-11 continuity audit; he no longer “does not know what debt”). The cut on his hand (Ch 16) reopens when he washes.
 - **Must not:** no verbatim Capitol speech; no Jupiter treasury plaque (Ch 16); Cisalpine as northern-road shorthand only (Ch 4).
 
 ---

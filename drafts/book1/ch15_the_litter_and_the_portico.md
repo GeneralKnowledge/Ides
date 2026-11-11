@@ -59,7 +59,7 @@ Dama looked cheated of prophecy. The washerwoman looked cheated of a sale. Palla
 
 Phileros tried again from the vestibule edge, softer. “Domina, if the college sends…”
 
-“If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if you hear anything more at a door, you bring it to me before you burn it.”
+“If the college sends, they send to me by name,” Calpurnia said. “Not through your someone. And Nysa, if you hear anything more, you bring it to me before you burn it.”
 
 Nysa nodded once, too quickly. Calpurnia let the quickness go.
 
