@@ -24,8 +24,6 @@ Laberius went on to the next tent. It was the same. Table, couches, silver, flow
 
 He found that he was angry. He did not know at whom. He stood in the middle of the street in Pompey’s camp with his sword in his hand and his men behind him and the myrtle over his head, and he was so angry that he could hardly see. He thought of the chara root. He thought of four months of it, pounded on a stone, and the loaves going over the valley in the evening, and the horses dying on the other side, and his belt on the last hole; and he thought of these men sitting in these tents all those four months, under this ivy, on these cushions, drinking out of silver, while their horses died outside and his men starved. And then this morning, getting up, and having their slaves lay the tables, and mix the wine, and strew the flowers on the couches, for the dinner after. Because they had been sure. They had been so sure that they had put out the cups.
 
-It was an insult. It was the worst insult he had ever been offered, and the men who had offered it had not even known he was there.
-
 ---
 
 A tribune came down the street on a horse, shouting. The general’s order: nobody was to touch anything. Nobody was to stop. Pompey’s men had gone up into the hills behind the camp, a whole army of them, and they would come down again, or make a stand up there, if they were given time; the general wanted them followed now, before dark, before they could think, and anybody who stopped to plunder would be dealt with. The tribune said it three times, riding down the street, and the men stood back from the tent doorways to let him past and watched him go.
