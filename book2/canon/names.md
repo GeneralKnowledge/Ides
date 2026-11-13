@@ -16,7 +16,7 @@ The **Near** column flags handles that are not identical but close enough to con
 | Vibius | Laberius's optio | 1 | Alive, Capua | Vibius Pansa (dead; always "Pansa") |
 | Rufrius | Laberius's old comrade (legion never named, by series rule); calls Laberius "Cordus" and "Mule" | 1 | Inside Perusia with Lucius (II-10, III-03); with Ventidius at Brundisium (IV-08) | Rufus (Salvidienus) |
 | Gaius | Gaius of the split sandal, Laberius's tent-mate | 1 | Dead at Mutina | Octavian's old name, said only by his mother |
-| Phileros | Door-keeper of the Domus Publica | 1 | Alive **(check)** | |
+| Phileros | Door-keeper of the Domus Publica; Caesar's freedman by the will; asked for the Carinae door in Book 1 Ch 33 | 1 | Alive; porter at the Carinae since the winter of 43 (I-08) | |
 | Medullina | Nysa's Subura contact | 1 | Unexplained by decision | |
 | Gnaeus Aulius | The farmer on Laberius's plot | 1 | Alive | |
 | the scar-lipped veteran | Unnamed; plot two fields up, the vine | 1 | Alive | If named in Book 2, add the name here |
@@ -51,7 +51,7 @@ Retired invented names, not to be reused: Seius, Seia Prima, Naevius, Gavius, Dr
 |---|---|---|---|
 | Claudia | Fulvia's daughter by Clodius, Octavian's wife since 43, sent back 41 | Dio 48.5.3; Suet. *Aug.* 62 | Calpurnia |
 | Scribonia | Octavian's second wife, 40 | Suet. *Aug.* 62; App. *BC* 5.53 | |
-| Salvidienus | Quintus Salvidienus Rufus, Octavian's general | App. *BC* 5 | Rufrius |
+| Salvidienus | Quintus Salvidienus Rufus, Octavian's general; offers to desert to Antony, is given up by him after the peace, declared an enemy and dies, autumn 40 (IV-10) | App. *BC* 5.66; Dio 48.33 | Rufrius |
 | Ventidius | Publius Ventidius Bassus, Antony's general | App. *BC* 5 | Vibius |
 | Manius | Antony's agent in Italy; put to death by Antony, autumn 40 | App. *BC* 5.19, 5.22, 5.66 | |
 | Nonius | Opens the gates of Rome to Lucius | App. *BC* 5.30 | |

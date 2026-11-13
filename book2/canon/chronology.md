@@ -61,6 +61,7 @@ The sources disagree on motive almost everywhere (Appian leans to Lucius as a ch
 | Autumn 40 | Peace of Brundisium. Pollio for Antony, Maecenas for Octavian, with Cocceius; amnesty; Octavia to be betrothed to Antony. | App. *BC* 5.64 | Checked; month (check) |
 | Autumn 40 | Partition at Scodra: Antony the East, Octavian the West, Lepidus Africa. | App. *BC* 5.65 | Checked |
 | Autumn 40 | Marriage of Antony and Octavia celebrated in Rome; the Senate waives the ten-month widow's rule for Octavia (Marcellus had died). Antony puts Manius to death. | App. *BC* 5.66; Plut. *Ant.* 31.3 | Checked |
+| Autumn 40 | Antony tells Octavian that Salvidienus had offered to bring his army over during the Brundisium stand-off. Octavian summons him to Rome; the Senate declares him an enemy and he dies (suicide in Livy's epitome). | App. *BC* 5.66; Dio 48.33; Livy *Per.* 127; Suet. *Aug.* 66 | (check) |
 
 ## Notes for drafting
 

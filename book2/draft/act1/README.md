@@ -34,6 +34,7 @@ Eleven scenes, 17,100 words, drafted once at full length on 11 Nov 2026. Scene I
 - I-06: Lucius on the land board of seven in 44 and Cicero's jokes about it (Cic. *Phil.* 5, 6, 11).
 - I-09: Octavian's sphinx seal (Suet. *Aug.* 50) and "son of the god" on a private letter in 41.
 - I-11: Lucius's guard, and the senators and knights who joined Fulvia at Praeneste (App. *BC* 5.21; Dio 48.10); the numbers 214 and eleven are invented.
+- I-08: Phileros at the Carinae gate is Book 1's door-keeper (Ch 33 has him ask for that door; invented, the record is silent).
 - I-02, I-08: Claudia's age (about 15) and that the marriage was unconsummated (Suet. *Aug.* 62).
 
 ## Extra questions for the Act I reader
