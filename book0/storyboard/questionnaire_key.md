@@ -26,6 +26,6 @@ From the storyboard's `reader_knows_by_end` and `what_changes`. A miss on 1 to 2
 | 20 | From the street; statues pulled down | IV-02 |
 | 21 | Cancelling debts and rents; Antony's soldiers cleared the Forum | IV-04, IV-07 |
 | 22 | Got down, embraced him, walked with him alone | IV-08 |
-| 23 | Antony; that he will not pay | IV-10 |
+| 23 | Antony; that Caesar will make him pay (Sosia doubts it; IV-11 shows he won't) | IV-10 |
 | 24 | For discharge and the money and land promised | IV-09 |
-| 25 | Citizens, not soldiers; land from public holdings and his own, no owner put out; no date | IV-12 |
+| 25 | Citizens, not soldiers; land from public holdings and his own, no owner put out; after Africa, "when the wars were over", no day given | IV-12 |
