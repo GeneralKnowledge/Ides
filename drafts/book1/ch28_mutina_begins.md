@@ -16,7 +16,7 @@ Overhear risk: Sentinels / heralds
 
 Outside Mutina, in the first winter of the siege, Antony’s lines ran right round the town and Decimus sat inside its walls with his legions and his hinges. They met where the ditch stank of melt and horse and the kind of truce that lasted only as long as both sides wanted a witness.
 
-Snow threatened without committing. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
+It looked like snow and did not snow. A herald’s voice cracked on a title. Someone on Antony’s side laughed and was glared quiet. Pacuvius waited two spear-lengths back with the patience of a man who preferred storm to grammar. On Decimus’s side an aide held a tablet of Antony’s demands that had already been refused twice in writing.
 
 Antony came on foot the last stretch, body first, cloak open enough to show he was not hiding a sword he intended to use *yet*. Decimus came with clean hands and dirty boots.
 
@@ -66,7 +66,7 @@ Cicero read the motion in his court voice. Thanks to the Martian legion and the 
 
 “The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered *adoption* and *armies* in one breath, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
+Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod measured to obedience and nothing else. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Afterwards a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength.
 

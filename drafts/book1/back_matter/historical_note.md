@@ -17,6 +17,7 @@ Invented events:
 - The murder of Aulus Visellius Ralla and the tablets that implicate both sides.
 - Nysa’s warning tablet. It is a separate thing from the note pressed on Caesar on his way to the Senate, which comes from the ancient tradition.
 - The clause in Caesar’s will that frees the slaves of his household. The sources give the heirs, the gardens and the gift to every citizen, not the household.
+- Talk of the will’s contents in the winter of 45, before it was opened. Caesar sealed it in September and left it with the senior Vestal, and no source says anyone knew what was in it.
 - Galba’s absence from the Capitol on the afternoon of the Ides.
 - The parley between Antony and Decimus at the ditch outside Mutina in the first winter of the siege.
 - The loan that pays Calenus’s household while Varro hides. Appian says only that no slave betrayed him.
@@ -27,6 +28,7 @@ Invented events:
 
 ## Where the sources disagree
 
+- **The Lupercalia.** Cicero says Antony brought the diadem from home and offered it of his own accord. Plutarch and Dio have Antony offer it. Nicolaus of Damascus has others lay it at Caesar’s feet and on his knees before Antony comes up. The book leans toward Nicolaus: Antony is told on the way up the steps that something will be handed to him, and never learns whose idea it was.
 - **Caesar’s last words.** Suetonius reports that some said Caesar spoke in Greek, *kai su, teknon*. He also reports that most said Caesar said nothing. The book lets two witnesses hear different things.
 - **The order of the blows.** The order is a working choice. The twenty-three wounds are Suetonius’s count, not the narrator’s.
 - **Calpurnia’s dream.** The dream follows Suetonius. The talk of omens does not decide whether the gods sent them.
