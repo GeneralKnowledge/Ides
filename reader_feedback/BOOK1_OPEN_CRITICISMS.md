@@ -2,7 +2,7 @@
 
 Criticisms of Book 1 that are not being acted on now but should be counted when they come up again. Reuben's rule (11 Nov 2026): if we hear the same thing several times, it is time to do something.
 
-**How to count.** Add a source each time a separate read raises the point, with the date and whether it read the current text. A point is **due** when three separate reads have raised it and at least one of them read the text as it now stands (after the 11 Nov voice pass, PR #206). Earlier mentions still count, but they read text that has since been changed, so on their own they show only that the habit is persistent, not that it is still there.
+**How to count.** Add a source each time a separate read raises the point, with the date and whether it read the current text. A point is **due** when more than one independent reader has raised it and at least one of them read the text as it now stands (after the 11 Nov voice pass, PR #206). Reads of unknown or shared authorship count as one source, however many there are and however often they repeat a point (see the 11 Nov note below). Earlier mentions still count, but they read text that has since been changed, so on their own they show only that the habit is persistent, not that it is still there.
 
 **What "do something" means.** A bounded pass on named chapters with a hard stop, judged by the mind sheets' three tests and the questions in `book2/voice/WATCHLIST.md`. Never a ban or a quota, and never an aim to make the prose less polished or less articulate. The final image is not touched.
 
