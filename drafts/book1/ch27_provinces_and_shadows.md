@@ -164,7 +164,7 @@ Octavian put the tablet down.
 
 “And the Fourth,” the rider said. “Two days after. Antony came to the walls with money in his hand and talked about Brundisium as if they’d forgotten it. They hadn’t.”
 
-Agrippa let out a breath that was almost a laugh. Octavian did not laugh. He sat down at the table, because his knees wanted him to, and kept his hands flat on it until they were still.
+Agrippa let out a breath that was almost a laugh. Octavian did not laugh. He sat down at the table, because his knees wanted him to.
 
 “Pay them,” he said. “What I promised. Then the same again.”
 
@@ -215,7 +215,7 @@ In the yard he found the levy spokesman, an older miles with a Caesarian scar an
 
 Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly, honest about the bottom. He ordered a partial donative for the gate cohorts, coin he’d meant to hold for spring, and watched the spokesman’s shoulders drop half an inch.
 
-The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “And the rest?”
+The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “In Campania the boy pays five hundred a man, and he pays it all on the day. And the rest?”
 
 “When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus scheduled the rest of the pay talk for morning.
 
@@ -260,3 +260,6 @@ Later he walked the wall and smelled snow coming. At the north gate he tried a h
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-70 heavy edit: the envoy’s and courier’s epigrams and the “key in his chest” image cut; the spokesman asks “And the rest?”; Decimus’s letter to Cicero has “the figures rounded up” (pays Ch 28).
+
+## Focused editorial pass 2026-11-24
+- **SC-70c:** the flat-hands tell after the Alba news cut (“because his knees wanted him to” carries it); the tell stays in 20.3, 22.1 and 38.3. **SC-70:** the levy spokesman names the boy’s five hundred, paid on the day, against Decimus’s partial donative. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.
