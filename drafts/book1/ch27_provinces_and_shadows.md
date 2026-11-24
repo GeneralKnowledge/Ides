@@ -217,7 +217,7 @@ Decimus looked at the chest. Coin still rattled when the lid shifted, but shallo
 
 The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “And the rest?”
 
-“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus scheduled the rest of the pay talk for morning.
+“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus put the rest of the pay talk off until morning.
 
 He wrote to Cicero, stiffly, with the figures rounded up. The same week he wrote to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
 
