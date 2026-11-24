@@ -32,6 +32,15 @@ Facts used here are in the [handover](../canon/handover.md) and the [chronology]
 
 **The risk in her scenes:** making her a spy. She is not one. She is a woman who counts, in a house that has found out it needs counting.
 
+**From the Book 1 cold review and audit (24 Nov):** a cold reader felt that by the last act Nysa is always where history is. The audit found every move motivated on the page, but one device doing most of the moving: the steward sends her out to count, four times (Book 1 25.1, 33.5, 35.4, 38.6), and every errand lands her at a sourced event. None ever misses. Book 2 ends on a fifth count (IV-10), so the device has to earn it.
+
+- Every time she goes somewhere, the reason is on the page in her own terms: who sent her, why her and not another, what she was doing before. A reason the reader can see is what keeps a convenient placing from feeling convenient.
+- Vary the errands. Some are housework and stay housework (bread, a bundle, a lamp to trim); some send her and nothing happens; some she takes on herself, without being sent. At least one Book 2 errand should miss: she is sent, she counts, and history is somewhere else that day.
+- Counting is her one power and stays hers, but it should not be the only thing she does in a scene, and not every scene of hers should be a count. Book 1's heaviest counting scene had twelve counting words; that is the saturation to avoid.
+- The last count is the book's ending and should read as her choice, not one more errand: the count is the only thing she owns, and the scene should let the reader see her decide to make it.
+
+These are questions for the Act IV audit and the outside reader's notes on her seven scenes (I-02, I-08, II-04, II-07, III-05, IV-03, IV-10); they do not reopen the storyboard on their own.
+
 ### Octavian
 
 **What has changed:** he is triumvir, in charge of Italy and of paying the army in land, and almost everyone in Italy hates him for one half of that or the other. He has been ill again and rumoured dead.
@@ -41,6 +50,17 @@ Facts used here are in the [handover](../canon/handover.md) and the [chronology]
 **What he still misunderstands:** he believes that if he pays the soldiers, everything else can be survived. That turns out to be true, which is the worst thing that happens to him in this book.
 
 **The risk in his scenes:** the genius. He is not one. He is ill, frightened of the veterans, and right more often than he deserves. The Perusine altar story is told about him; he never confirms it to the reader.
+
+**From the Book 1 cold review and audit (24 Nov):** the cold reader's largest complaint was that Octavian is a set of tics rather than a mind. The audit found that true of Book 1's Act IV and not of Act V. Where he works (Apollonia, “The floor was still there. He looked, to be sure.”; the Castor oath that fails; the pay table; three days arguing for Cicero) he wants something, gets something wrong, fears something and decides something himself. Where he fails (Book 1 Ch 28.2, “The Senate's Sword”) he only observes, and the prose goes abstract and managerial (“calibrated”, “present enough to be aimed”, “listened to himself become a tool”). His transformation in Book 2 has to be experienced from inside, so in each of his scenes the reader should be able to answer four questions from the page, not from other people's advice about him:
+
+- **What he wants**, now, in this room: to be paid back for an insult, to be seen not to flinch, to keep the veterans from noticing he is ill, to have Agrippa think well of him.
+- **What he misreads**, about the people in front of him or about himself (the storyboard gives one per scene; it must be his error, felt as certainty, not the narrator's irony).
+- **What he fears losing**: the name's credit, the army's patience, being taken for a boy, his own body.
+- **What he decides that is his own**, not a reaction someone else set up. At least one such decision in each act, and he should get one of them wrong.
+
+The tells. Book 1 used hands flat on a surface in four of his nine scenes, the pale ring band three times and a voice that comes out stiff or young six times. By the last use the gesture was doing the work a thought should do. In Book 2 a physical tell may appear, once, where it reveals something; it is not his signature. Let the voice change instead: he is older, and the stiffness should be heard less and noticed more by others than by him. No managerial vocabulary in his head (see WATCHLIST question 9).
+
+Audit his six scenes (I-03, I-10, II-05, II-08, III-07, IV-06) against these after the outside reader's notes come in, not before. Book 1 itself is not changed; the Ch 28.2 test is a separate investigation.
 
 ### Hordeonius
 

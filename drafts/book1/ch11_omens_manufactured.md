@@ -84,6 +84,8 @@ Tiro, in the corner with his shorthand, did not look up. “You are talking to t
 
 “The room has no choice, master.”
 
+“Then the room agrees that Balbus has been down in the vault.”
+
 “It isn’t Balbus,” Tiro said, still writing. “Not this time. They were saying it at the booksellers’ this morning. Lucius Cotta.”
 
 Cicero turned round.

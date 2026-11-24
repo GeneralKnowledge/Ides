@@ -111,4 +111,4 @@
 - **Vibius**†, his optio
 - **Gaius of the split boot**†, of his century
 - **Rufrius**†, of the Second legion
-- **Gnaeus Aulius**†, who farms the plot at Capua
+- **Gnaeus Aulius**†, a farmer near Capua

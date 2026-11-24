@@ -217,11 +217,11 @@ Decimus looked at the chest. Coin still rattled when the lid shifted, but shallo
 
 The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “And the rest?”
 
-“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus scheduled the rest of the pay talk for morning.
+“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus put the rest of the pay talk off until morning.
 
 He wrote to Cicero, stiffly, with the figures rounded up. The same week he wrote to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
 
-The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on his boots and scent in his hair. “He admires your resolution,” the man said. He had practised it. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *not yet*, if you pressed.” It was not a day. Decimus sent the man to the kitchen. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
+The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on his boots and scent in his hair. “He admires your resolution,” the man said. He had practised it. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *not yet*, if you pressed.” It was not a day. Decimus sent the man to the kitchen. Lepidus had still sent nothing back, not by the men he had left on the road north, not by the roof near Mutina’s approaches, not by the messenger who would not meet his eyes. He did not send a second tablet to ask why.
 
 The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. One word from him and Antony has friends at his back as well as a wall in front.”
 

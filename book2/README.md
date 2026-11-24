@@ -23,7 +23,7 @@ No prose until the storyboard and the voice pilot pass.
 ## Authorities
 
 - Voice: `writing/voice/MIND_SHEETS.md` (Book 1 sheets carry over; Book 2 adds a short "since Philippi" note for each carried POV and new sheets for new POVs).
-- Act self-audit: the three tests, then the five questions in [voice/WATCHLIST.md](voice/WATCHLIST.md) (from the outside review of Book 1 Ch 1–6).
+- Act self-audit: the three tests, then the questions in [voice/WATCHLIST.md](voice/WATCHLIST.md) (from the outside review of Book 1 Ch 1–6 and the 24 Nov cold review of the whole book).
 - Standing rules carried from Book 1: history accuracy; real people first, invent only where the record is silent; no em dashes; no caption fragments; no narrator explainer sentences; no bans or quotas; DOCX only.
 - New for Book 2: no chapter or scene is protected from criticism (protect named beats only); chapter numbers are assigned at export from scene order; one changelog line per change, no pass logs.
 
@@ -53,3 +53,4 @@ One line per change.
 - 2026-11-11: Series rules from the Book 0 plan: Laberius's legion is never named (five "Second legion" mentions in I-07, II-01, II-06, II-10 reworded); Book 2's Labienus is always "Quintus Labienus" (Book 1's Labienus is his father, Titus).
 - 2026-11-11: Series plan items (Reuben approved, Book 0 thread): Rufrius inside Perusia (a voice in II-10, "Mule!" from the wall in III-03) and with Ventidius across the ditch at Brundisium (IV-08, "four times the other side of a line"); Caesar's 47 promise in Lucius's Forum speech (II-06; Suet. *Jul.* 38.1, Dio 42.54); the unpaid price of Pompey's house in Fulvia's chest (I-04; Plut. *Ant.* 10.2); Hordeonius remembers Antonius and Dolabella's debt riots in 47 (II-06b; Dio 42.32).
 - 2026-11-13: Cast-check gaps filled (Reuben approved): Phileros keeps the Carinae gate (I-08); Antony's letter tells Lucius he has put Manius to death (IV-09; App. *BC* 5.66); Salvidienus comes to the young Caesar's house, does not come out by the front, is declared an enemy and dies, given up by Antonius after the peace (IV-10; App. *BC* 5.66, Dio 48.33). Chronology and names updated.
+- 2026-11-24: Lessons from the cold critical review of Book 1 and its audit (Book 1 frozen, no change to it): WATCHLIST questions 6 to 9 (motif ownership, convergence, the act's question, period diction) and notes on aphorism density and runs of endings; Octavian sheet asks for his wants, misreadings, fears and own decisions from inside; Nysa sheet asks for reasons on the page and varied errands. Book 1 ledger updated.
