@@ -200,6 +200,8 @@ A client with a dinner to go to wanted the first settled before evening. He lean
 
 The client said that he had meant no harm, and that it was very properly put, and went away to his dinner with all three.
 
+There had been three stories on Visellius’s stair as well: two men or one, good boots or a man who knew the house. Hordeonius had carried none of them to a magistrate, and no magistrate had come to ask him.
+
 “Dead consuls move the price of land,” Sosia said. “Whichever way they died.”
 
 “Sosia.” Hordeonius watched the client as far as the arch. “How far has it moved?”
@@ -294,3 +296,6 @@ Cicero thought about rebuking him and found he could not be bothered. He went to
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-80 rewritten in full to SC-79’s standard: Gaius dies on the page in the ditch (the split heel slips; a javelin above the mail; he cannot speak and points at the boot; “It knew you walk like a mule”); Vibius’s “Win. Then count.”; Hirtius dead inside Antony’s camp on the staff officer’s word; Laberius takes Gaius’s boots (worn Ch 38). SC-81 rewritten round Fulvia’s steward (he brings the whole sum and the fee; entry matches Ch 34).
+
+## Focused editorial pass 2026-11-24
+- **SC-81:** one Visellius sentence after the client’s three versions of Pansa’s death: three stories on the stair too, none carried to a magistrate, none asked for. Signals that the question is being left, not forgotten; solves nothing. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.

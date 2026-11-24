@@ -56,19 +56,21 @@ Overhear risk: Curia
 
 ---
 
-A sweating senator on the end bench, near the doors, feared Antony more than boys. Octavian stood on the threshold among the men who listened through the open doors: not a senator, so not inside, and present enough to be aimed.
+A sweating senator on the end bench, near the doors, feared Antony more than boys. Octavian stood on the threshold among the men who listened through the open doors: not a senator, so not inside, and near enough to be pointed at.
 
 The consuls’ chairs had new men in them. Antony’s year was over; Antony was in a ditch outside Mutina. Hirtius sat wrapped too warmly, the spring’s sickness still in his cheekbones. Octavian had read his last book of the Gallic war at Arretium and privately thought it better than the dead man’s. Pansa sat beside him, broad and plain, a list of recruits and pay open on his knee before the auspices were cold. Cicero had two consuls and wanted a third blade to go with them.
 
 Cicero began with a letter. He held it up so the benches could see the seal, Decimus Brutus’s, brought out of Mutina by a swimmer, and read one line of it in a voice gone plain: the grain, in days. Octavian, on the threshold, heard the fathers hear it. Caesar’s murderer was hungry behind a wall, and his hunger was the best argument anyone had yet made for Caesar’s son.
 
-Cicero read the motion in his court voice. Thanks to the Martian legion and the Fourth, “who left the consul Antony and came over to the Senate and to Gaius Caesar.” Thanks to the veterans “whom Gaius Caesar raised at his own cost.” And for Gaius Caesar himself a praetor’s command and a seat among the fathers, so that the legions he already had would at last belong to a law. Octavian heard *at his own cost* and thought of the actual cost: five hundred denarii a man through the Campanian colonies in the autumn, Philippus’s face when the chests went out, Antony at Brundisium offering his own soldiers a hundred apiece and hearing the ranks laugh. The Senate was thanking him for a crime it had decided to need.
+Cicero read the motion in his court voice. Thanks to the Martian legion and the Fourth, “who left the consul Antony and came over to the Senate and to Gaius Caesar.” Thanks to the veterans “whom Gaius Caesar raised at his own cost.” And for Gaius Caesar himself a praetor’s command and a seat among the fathers, so that the legions he already had would at last belong to a law. Octavian heard *at his own cost* and thought of the actual cost: five hundred denarii a man through the Campanian colonies in the autumn, Philippus’s face when the chests went out, Antony at Brundisium offering his own soldiers a hundred apiece and hearing the ranks laugh. Antony’s edicts had called that treason. Now the Senate was thanking him for it.
 
 “The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered *adoption* and *armies* in one breath, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
 Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod calibrated to obedience and nothing else. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Afterwards a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength.
+
+The words *a praetor’s command* stayed with him, and he thought, before he could stop himself, of the Martians at Alba hearing a decree read out on their parade ground, with the Senate’s name at the head of it and his own lower down. What the Senate gave, the Senate could send to his camp by another man. He would pay them again before they marched, he decided, and sit at the table himself while it was done, so that every man who took the coin saw whose hand it came from. Then he was ashamed of how quickly he had thought it, with the senator’s grip still warm on his arm.
 
 “You’ll march to get Decimus out,” Agrippa said on the steps, low. It was not quite a question. “The man who walked him in.”
 
@@ -88,3 +90,6 @@ Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-73 heavy edit: parley plainer; Antony’s smoke count kept; Decimus: “He was out by four days.”; Antony: “He was always good company. That was the trouble with him.” SC-74 light edit.
+
+## Focused editorial pass 2026-11-24
+- **SC-74:** one interior beat after the session (the decree could be read in his camp by another man; he decides to pay again before they march and to sit at the table himself; shame at the speed of the thought). Plants the Act V pay table (Ch 32). “present enough to be aimed” and “a crime it had decided to need” replaced with plain statements. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.

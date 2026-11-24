@@ -224,7 +224,7 @@ Decimus kept his hand available until Caesar no longer needed it, then let go as
 # SC-35d: Wax Against the Ribs (NOTE-1)
 
 POV: Nysa (F1)
-Date / place: Same dawn · Domus Publica (DP-ALA / DP-VEST) → failed start toward street
+Date / place: Same morning, after the litter has gone · Domus Publica vestibule (DP-VEST), with the failed step at the threshold remembered
 Canon refs: NOTE-1 · D2 · D6 · SAMPLE-1 tone
 Info ENTER: Fragment warning on wax (from SC-29 mutter: danger from friends / spare consul energy); dream morning chaos
 Info EXIT: Delayed/blocked; tablet **not** delivered; **not** the unread Curia note
@@ -232,41 +232,25 @@ Overhear risk: Extreme (Phileros rivalry; Decimus glance)
 
 ---
 
-When they had gone, the basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. Nysa stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything all morning.
+Nysa stood in the vestibule until she could no longer hear the litter poles over the noise from the Forum.
+
+The basin Decimus had washed in was still on its stand inside the door, the water gone cloudy and a towel thrown over the rim. She stood over it with the wax still against her ribs and did not touch it. She had been a step behind everything all morning.
 
 Caesar had sent her to the lane door before it was light, to wait for word from the haruspices. She had waited there until the sun was on the top of the wall, and nobody had come.
 
 Against her ribs, under the linen, was the wax with its five words. She still did not know whose friends they meant, or which consul.
 
-When she came back to the atrium, Decimus was already there.
+When she came in from the lane, Decimus had been in the vestibule already, his cloak decent and his face open. She had seen him in this house a hundred times and he had looked as he always did. She could not have said what was wrong. She had heard him say *king*. She had seen Calpurnia’s shoulder give against the doorframe. At the threshold she had stepped forward, and Phileros’s arm had been there first, and Decimus had glanced at her the way a man glances at a stool somebody has moved. At the vestibule Caesar had paused, and for half a breath she had thought he would turn back. He had looked at Calpurnia, and at Decimus. He had not looked at her.
 
-His cloak was decent and his face was open. Nysa had seen him here a hundred times, and he looked as he always did. She could not have said what was wrong.
+Phileros came back from the door and let out his breath. He smelled of onion and the night brazier.
 
-She heard him say *king*. She saw Calpurnia’s shoulder give against the doorframe.
-
-Nysa stepped forward.
-
-Phileros stepped with her, faster, smelling of onion and the night brazier. “Not now.”
-
-“I have…”
-
-“You have feet that forget their place,” Phileros hissed. “If it is water, I will send water. If it is sandals, I will send sandals. If it is a slave’s dream of being important, keep it for the kitchen.”
-
-Decimus glanced at her the way a man glances at a stool somebody has moved.
+“You have feet that forget their place,” he said. “If it is water, I will send water. If it is sandals, I will send sandals. If it is a slave’s dream of being important, keep it for the kitchen.”
 
 Nysa’s fingers found the linen over the wax and didn’t draw it out.
 
-What would she give Caesar? A few words on a broken tablet, against Decimus’s open hands and a Senate waiting for him, and against the mistress, who had already asked and been answered?
+What would she have given Caesar? A few words on a broken tablet, against Decimus’s open hands and a Senate waiting for him, and against the mistress, who had already asked and been answered?
 
-The litter poles knocked. Caesar paused at the vestibule. For half a breath Nysa thought he would turn back. He looked at Calpurnia. He looked at Decimus. He didn’t look at Nysa.
-
-“We go,” he said.
-
-They went.
-
-Nysa stood there until she could no longer hear the litter poles over the noise from the Forum.
-
-Phileros let out his breath. “If you have wax,” he said, not looking at her tunic, “put it in the fire. Houses burn for less.”
+“If you have wax,” Phileros said, not looking at her tunic, “put it in the fire. Houses burn for less.”
 
 Nysa didn’t put it in the fire. She returned it deeper against her skin.
 
@@ -281,3 +265,6 @@ Nysa didn’t put it in the fire. She returned it deeper against her skin.
 
 ## Voice pass 2026-11-11
 - **Decisions:** light line edits in all four scenes; SC-35d now matches the Ch 12 wording of the fragment (friends, consul, spare, danger, stays) and Nysa no longer answers Phileros back. Continuity audit (same day): Caesar no longer thinks of Nysa as a freedwoman (she is a slave until the will, Ch 25); Decimus says the Senate has sat “since first light”, since he arrives about the third hour (Nysa waits in the service court until the sun is on the wall; the shops have been open two hours), which agrees with Ch 13 “if he is late” and Ch 21, where Caesar leaves his house at the fourth hour.
+
+## Focused editorial pass 2026-11-24
+- **SC-35d:** begins after the litter has gone. The departure (Nysa’s step, Phileros’s arm, “We go”) is told once, in SC-35c; Nysa remembers her blocked step in a few lines, and Phileros’s rebuke and the wax question now come after the house empties. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.
