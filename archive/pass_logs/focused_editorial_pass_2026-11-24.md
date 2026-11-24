@@ -167,5 +167,5 @@ Kept in view, not changed. The steward’s errand (25.1, 33.5, 35.4, 38.6) is a 
 
 ## After merge
 
-- The tracked reading export and the print package are not rebuilt in this PR, so the two PRs do not conflict on binary files. Rebuild once after both merge.
+- The tracked reading export is rebuilt here because CI checks it against the manuscript. Whichever of the two PRs merges second will need that export regenerated (a one-command rebuild). The print package is not rebuilt; rebuild it once after both merge.
 - Checked: this branch merges cleanly with the corrections branch (claude/project-thread-8b5ktv).
