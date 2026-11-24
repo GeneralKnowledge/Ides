@@ -240,7 +240,7 @@ Caesar had sent her to the lane door before it was light, to wait for word from 
 
 Against her ribs, under the linen, was the wax with its five words. She still did not know whose friends they meant, or which consul.
 
-When she came in from the lane, Decimus had been in the vestibule already, his cloak decent and his face open. She had seen him in this house a hundred times and he had looked as he always did. She could not have said what was wrong. She had heard him say *king*. She had seen Calpurnia’s shoulder give against the doorframe. At the threshold she had stepped forward, and Phileros’s arm had been there first, and Decimus had glanced at her the way a man glances at a stool somebody has moved. Caesar had not looked at her at all.
+When she came in from the lane, Decimus had been in the vestibule already, his cloak decent and his face open. She had seen him in this house a hundred times and he had looked as he always did. She could not have said what was wrong. She had heard him say *king*. She had seen Calpurnia’s shoulder give against the doorframe. At the threshold she had stepped forward, and Phileros’s arm had been there first, and Decimus had glanced at her the way a man glances at a stool somebody has moved. At the vestibule Caesar had paused, and for half a breath she had thought he would turn back. He had looked at Calpurnia, and at Decimus. He had not looked at her.
 
 Phileros came back from the door and let out his breath. He smelled of onion and the night brazier.
 

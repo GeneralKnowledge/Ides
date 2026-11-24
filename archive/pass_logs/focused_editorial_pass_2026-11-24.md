@@ -12,7 +12,7 @@ Left alone on purpose: the final bean-field sentence and final image, the scar-l
 
 **Finding (R26).** 14.3 (Decimus) and 14.4 (Nysa) both play the same beat in real time: Nysa steps forward, Phileros stops her, Caesar says “We go”, the litter poles knock.
 
-**Change.** 14.4 now opens after the litter has gone, with the moment that used to close it. Her blocked step is remembered in a few past-perfect lines, from her side only (the glance like a moved stool, Caesar not looking at her). Phileros’s rebuke, her question about what she would have given Caesar, and the wax ending now happen in the emptied vestibule. “We go” is spoken once in the chapter, in 14.3. Every line of her interior is kept. Small continuity tidy: she comes in from the lane to find Decimus in the vestibule, which is where 14.3 places her. Scene header date/place updated. 386 → 372 words.
+**Change.** 14.4 now opens after the litter has gone, with the moment that used to close it. Her blocked step is remembered in a few past-perfect lines, from her side only (the glance like a moved stool, Caesar not looking at her). Phileros’s rebuke, her question about what she would have given Caesar, and the wax ending now happen in the emptied vestibule. “We go” is spoken once in the chapter, in 14.3. Every line of her interior is kept; Caesar’s pause at the vestibule (“for half a breath”) survives as a memory. Small continuity tidy: she comes in from the lane to find Decimus in the vestibule, which is where 14.3 places her. Scene header date/place updated. 386 → 393 words.
 
 **Original**
 
@@ -64,7 +64,7 @@ Left alone on purpose: the final bean-field sentence and final image, the scar-l
 >
 > Against her ribs, under the linen, was the wax with its five words. She still did not know whose friends they meant, or which consul.
 >
-> When she came in from the lane, Decimus had been in the vestibule already, his cloak decent and his face open. She had seen him in this house a hundred times and he had looked as he always did. She could not have said what was wrong. She had heard him say *king*. She had seen Calpurnia’s shoulder give against the doorframe. At the threshold she had stepped forward, and Phileros’s arm had been there first, and Decimus had glanced at her the way a man glances at a stool somebody has moved. Caesar had not looked at her at all.
+> When she came in from the lane, Decimus had been in the vestibule already, his cloak decent and his face open. She had seen him in this house a hundred times and he had looked as he always did. She could not have said what was wrong. She had heard him say *king*. She had seen Calpurnia’s shoulder give against the doorframe. At the threshold she had stepped forward, and Phileros’s arm had been there first, and Decimus had glanced at her the way a man glances at a stool somebody has moved. At the vestibule Caesar had paused, and for half a breath she had thought he would turn back. He had looked at Calpurnia, and at Decimus. He had not looked at her.
 >
 > Phileros came back from the door and let out his breath. He smelled of onion and the night brazier.
 >
