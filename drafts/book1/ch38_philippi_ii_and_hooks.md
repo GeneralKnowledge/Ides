@@ -60,7 +60,7 @@ For a while he was at Apollonia, in the room over the exercise ground, the winte
 
 Then a courier was at the tent flap, asking for orders. Octavian gave two that mattered: hold the camp ditch; do not chase beyond the markers Agrippa had set. And one that only sounded like command, a sentence about courage he regretted as soon as it left his mouth. He had seen none of it. Healthier men would argue afterwards about what he had done that day.
 
-Agrippa’s reports arrived clearer than his own pulse. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
+Agrippa came in with mud to the knee. Octavian waited for the tent to stop tilting before he looked up. “Brutus is breaking,” Agrippa said, or something close enough that Octavian could act without pretending he had seen the break.
 
 “Then do not let our men become a rumour of victory before they are paid,” Octavian said. His voice cracked on *paid*. He hated the crack. Hating it did not stop it.
 

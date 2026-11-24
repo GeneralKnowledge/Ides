@@ -80,7 +80,7 @@ They had won, and they knew it, and they were tired the way only winners are tir
 
 Hirtius let them come close. Then the trumpets went again, and the twenty cohorts went into them off the march in the half dark.
 
-It was not a battle afterwards. Laberius had been in battles. This was a mugging. Antony’s men turned and tried to make a line on the causeway and the line would not hold, because men who think the day is over cannot be made to believe it has started again. Laberius’s century hit them on the left of the road where the ground was firm, and he put his shield into a man and felt the man go back, and stabbed low under the rim the way they had taught him when he was a recruit, and the man went down. He stepped over him. Gaius was on his left, shouting something about figs. Vibius was behind them, a hand in the small of Laberius’s back, pushing.
+It was not a battle afterwards. Laberius had been in battles. This was a beating. Antony’s men turned and tried to make a line on the causeway and the line would not hold, because men who think the day is over cannot be made to believe it has started again. Laberius’s century hit them on the left of the road where the ground was firm, and he put his shield into a man and felt the man go back, and stabbed low under the rim the way they had taught him when he was a recruit, and the man went down. He stepped over him. Gaius was on his left, shouting something about figs. Vibius was behind them, a hand in the small of Laberius’s back, pushing.
 
 They came out on the far side of a knot of Antonians and there was a man on the ground in front of Laberius with his helmet off and a cut across his scalp that had filled his eyes with blood. He was trying to get up on one knee. He wiped the blood out of his eyes with the back of his hand, and looked up, and Laberius knew him.
 
@@ -200,6 +200,8 @@ A client with a dinner to go to wanted the first settled before evening. He lean
 
 The client said that he had meant no harm, and that it was very properly put, and went away to his dinner with all three.
 
+There had been three stories on Visellius’s stair as well: two men or one, good boots or a man who knew the house. Hordeonius had carried none of them to a magistrate, and no magistrate had come to ask him.
+
 “Dead consuls move the price of land,” Sosia said. “Whichever way they died.”
 
 “Sosia.” Hordeonius watched the client as far as the arch. “How far has it moved?”
@@ -294,3 +296,6 @@ Cicero thought about rebuking him and found he could not be bothered. He went to
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-80 rewritten in full to SC-79’s standard: Gaius dies on the page in the ditch (the split heel slips; a javelin above the mail; he cannot speak and points at the boot; “It knew you walk like a mule”); Vibius’s “Win. Then count.”; Hirtius dead inside Antony’s camp on the staff officer’s word; Laberius takes Gaius’s boots (worn Ch 38). SC-81 rewritten round Fulvia’s steward (he brings the whole sum and the fee; entry matches Ch 34).
+
+## Focused editorial pass 2026-11-24
+- **SC-81:** one Visellius sentence after the client’s three versions of Pansa’s death: three stories on the stair too, none carried to a magistrate, none asked for. Signals that the question is being left, not forgotten; solves nothing. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.

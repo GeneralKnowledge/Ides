@@ -164,7 +164,7 @@ Octavian put the tablet down.
 
 “And the Fourth,” the rider said. “Two days after. Antony came to the walls with money in his hand and talked about Brundisium as if they’d forgotten it. They hadn’t.”
 
-Agrippa let out a breath that was almost a laugh. Octavian did not laugh. He sat down at the table, because his knees wanted him to, and kept his hands flat on it until they were still.
+Agrippa let out a breath that was almost a laugh. Octavian did not laugh. He sat down at the table, because his knees wanted him to.
 
 “Pay them,” he said. “What I promised. Then the same again.”
 
@@ -215,13 +215,13 @@ In the yard he found the levy spokesman, an older miles with a Caesarian scar an
 
 Decimus looked at the chest. Coin still rattled when the lid shifted, but shallowly, honest about the bottom. He ordered a partial donative for the gate cohorts, coin he’d meant to hold for spring, and watched the spokesman’s shoulders drop half an inch.
 
-The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “And the rest?”
+The spokesman weighed the purse with his eyes, not his hands. “Partial,” he said. “In Campania the boy pays five hundred a man, and he pays it all on the day. And the rest?”
 
-“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus scheduled the rest of the pay talk for morning.
+“When I have found it. I have not found it yet. I would sooner tell you that than give you a day.” The spokesman gave one short bark of a laugh, surprised out of him, and the yard heard it and went back to work. Decimus put the rest of the pay talk off until morning.
 
 He wrote to Cicero, stiffly, with the figures rounded up. The same week he wrote to Plancus across the Alps, whose letters were always very good and whose legions were always very close to home, asking for two cohorts’ worth of grain and a date, any date, for a meeting on the road.
 
-The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on his boots and scent in his hair. “He admires your resolution,” the man said. He had practised it. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *not yet*, if you pressed.” It was not a day. Decimus sent the man to the kitchen. The Lepidus channel he had seeded on the road north, a roof near Mutina’s approaches, a messenger who would not meet his eyes, still returned nothing. He did not send a second tablet to ask why.
+The answer did not arrive alone. A courier who had eaten at Plancus’s table stood in the yard with mud on his boots and scent in his hair. “He admires your resolution,” the man said. He had practised it. “He understands Antony’s appetite. His own theatre is unsettled. Grain and cohorts cannot be spared.” Decimus waited for a date. The courier’s eyes found the gate-hinge instead. “He told me to say *not yet*, if you pressed.” It was not a day. Decimus sent the man to the kitchen. Lepidus had still sent nothing back, not by the men he had left on the road north, not by the roof near Mutina’s approaches, not by the messenger who would not meet his eyes. He did not send a second tablet to ask why.
 
 The aide asked anyway, one finger holding open the empty slot in the letter-case. “Lepidus has more legions over the mountains than Plancus has. One word from him and Antony has friends at his back as well as a wall in front.”
 
@@ -260,3 +260,6 @@ Later he walked the wall and smelled snow coming. At the north gate he tried a h
 
 ## Voice pass 2026-11-11
 - **Decisions:** SC-70 heavy edit: the envoy’s and courier’s epigrams and the “key in his chest” image cut; the spokesman asks “And the rest?”; Decimus’s letter to Cicero has “the figures rounded up” (pays Ch 28).
+
+## Focused editorial pass 2026-11-24
+- **SC-70c:** the flat-hands tell after the Alba news cut (“because his knees wanted him to” carries it); the tell stays in 20.3, 22.1 and 38.3. **SC-70:** the levy spokesman names the boy’s five hundred, paid on the day, against Decimus’s partial donative. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.

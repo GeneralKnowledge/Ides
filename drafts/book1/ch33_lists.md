@@ -162,7 +162,7 @@ Julia came out of the inner room herself. She was small and straight, with Anton
 
 “My son sends wine,” she said. “Of course he does. Put it in the back room. My steward is doing the accounts there. Pour for him. He drinks slowly, and he forgets to ask.”
 
-The back room had a brazier, a table, a lamp, and a man of sixty in a plain brown tunic bent over a wax tablet as though accounts were the whole world. He looked up when she set the jar down.
+The back room had a brazier, a table, a lamp, and a man past sixty in a plain brown tunic bent over a wax tablet as though accounts were the whole world. He looked up when she set the jar down.
 
 Nysa had poured for this face before. It had come to the Domus Publica in the winter before the Ides, in a better tunic, and stood with Caesar under the pediment talking about a priesthood. It had the nose that all the Julii seemed to grow, and it had been on the first board in the Forum, near the top. The Carinae kitchen had talked about little else for two days. *The master has put his own uncle on it.* The cook had laughed. Nobody else had.
 
