@@ -28,6 +28,8 @@
 - **Statilius**, the Epicurean, who was not asked either
 - **Antistius Labeo**, who was asked
 - **Strato** of Aegae and **Publius Volumnius**, Brutus’s friends
+- **Acilius**, whose house at Velia Brutus and Porcia borrow
+- **Theomnestus**, of the Academy at Athens
 - **Quintus Horatius Flaccus**, the poet Horace, who joins Brutus at Athens
 - **Pindarus**, Cassius’s freedman; **Titinius**, his friend
 - **Lucius Pella**, an officer of Brutus’s
@@ -72,6 +74,7 @@
 - **Gaius Asinius Pollio**, governor in Spain
 - **Marcus Caecilius Cornutus**, urban praetor in 43
 - **Sextus Pompeius**, at sea
+- **Publius Vatinius**, who opens Dyrrachium to Brutus
 
 ## Gaul
 - **Camelus**, a Gallic chief once in Decimus’s pay
@@ -92,6 +95,8 @@
 ## The city
 - **Helvius Cinna**, poet, and **Lucius Cornelius Cinna**, praetor: two men with one name
 - **Hortensia**, who spoke for the taxed women
+- **Marius**, who called himself the great Marius’s grandson
+- **Tiberius Cannutius**, tribune of the plebs
 - **Marcus Terentius Varro**, scholar
 - **Quintus the fuller**†, at the funeral
 - **Medullina**†, of the Subura

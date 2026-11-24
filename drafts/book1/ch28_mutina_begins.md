@@ -40,7 +40,7 @@ They parted without clasping. The truce ended when the first boot left the ditch
 
 “He did not,” Decimus said. “He was out by four days.”
 
-Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held him off one more day. A scout reported smoke from the town’s edge, and it was cooking smoke still. Antony nodded. He was cold and he wanted his dinner. “He was always good company,” he said to Pacuvius. “That was the trouble with him.”
+Antony rode back smelling snow and horse and impatience. Pacuvius wanted storm now. Antony held him off one more day. A scout reported smoke from the town’s edge, and it was cooking smoke still. Antony nodded. He was cold and he wanted his dinner. “He was always good company,” he said to Pacuvius.
 
 That night Decimus wrote to Cicero, and for the first time he did not round. Grain for so many days at full ration, so many at half. The oxen salted. The horses next. He knew what the figure would do in Rome. It would frighten the fathers, and frightened fathers reached for the nearest army, and the nearest army belonged to a boy of nineteen who called himself Caesar’s son and had not forgiven anyone who stood in the Curia that morning. A rounder number would keep the boy out of it a month longer, and might starve the town. Decimus looked at the true one until the lamp guttered. Then he sealed it and gave it to a man who could swim the river under the ice with the tablet in a bladder at his neck. Below, Antony’s fires multiplied.
 
@@ -66,7 +66,7 @@ Cicero read the motion in his court voice. Thanks to the Martian legion and the 
 
 “The young Caesar,” Cicero said, and the name seemed to catch in his throat on the way out, “will march with the consuls and defend the state against Antony’s madness.” The senator muttered *adoption* and *armies* in one breath, then closed his mouth into agreement. Octavian watched Cicero take the closing for virtue’s return.
 
-Octavian listened to himself become a tool. When Cicero’s gaze sought approval, he gave a nod measured to obedience and nothing else. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
+Octavian stood and let them decide what he was for. When Cicero’s gaze sought approval, he gave a nod measured to obedience and nothing else. He thought *survive the week without looking grateful for their fear*. A clerk miswrote his age. He corrected the number and left the tone alone. Hirtius looked at him once, the look of a man who had copied out Caesar’s sentences for years and now found the name signed in a boy’s hand. Octavian held the look until Hirtius let it go. Pansa did not look up. He was counting.
 
 Afterwards a senator clasped his arm and called him the Republic’s luck. Octavian returned the clasp at half strength.
 
@@ -89,7 +89,7 @@ Outside, a vendor sold hot food and called no one Caesar. Octavian heard him and
 - **Graph pass 2026-10-24:** after the parley Decimus writes Cicero the true grain count in days, knowing it will push the Senate toward the boy; sent by a swimmer under the ice. Cicero opens the Senate debate by reading that line; Octavian hears Caesar’s murderer’s hunger argue for Caesar’s son. Agrippa: “You’ll march to get Decimus out.” Octavian: “I’ll march to be there when he comes out. Somebody should see his face.”
 
 ## Voice pass 2026-11-11
-- **Decisions:** SC-73 heavy edit: parley plainer; Antony’s smoke count kept; Decimus: “He was out by four days.”; Antony: “He was always good company. That was the trouble with him.” SC-74 light edit.
+- **Decisions:** SC-73 heavy edit: parley plainer; Antony’s smoke count kept; Decimus: “He was out by four days.”; Antony: “He was always good company.” (Second “That was the trouble with him” cut 2026-11-24; Ch 21 keeps Trebonius’s.) SC-74 light edit.
 
 ## Focused editorial pass 2026-11-24
 - **SC-74:** one interior beat after the session (the decree could be read in his camp by another man; he decides to pay again before they march and to sit at the table himself; shame at the speed of the thought). Plants the Act V pay table (Ch 32). “present enough to be aimed” and “a crime it had decided to need” replaced with plain statements. See archive/pass_logs/focused_editorial_pass_2026-11-24.md.
