@@ -2,7 +2,7 @@
 
 Scope: Reuben’s “investigate before changing” list from the review response audit (/mnt/project-files/reviews_2026-11-24_book1_cold_critic/Book1_review_response_audit_A4.docx). The confirmed corrections (tag slips, cast list, historical note, Lepidus phrase, modern words, column endings, 21.5 and 28.1 captions, “calibrated”) are in the separate corrections PR and are not repeated here.
 
-Structure, scene count (112), POVs and the ending are unchanged. No scene was moved. Nothing in Ch 37–38 changed. Net change about +150 words of reading text.
+Structure, scene count (112), POVs and the ending are unchanged. No scene was moved. Nothing in Ch 37–38 changed. Net change about +175 words of reading text.
 
 Left alone on purpose: the final bean-field sentence and final image, the scar-lipped veteran, Sardis, the minor-character threads, the Cicero and Brutus withdrawing scenes, aphorisms, counting, silences and gesture endings as patterns.
 
@@ -12,7 +12,7 @@ Left alone on purpose: the final bean-field sentence and final image, the scar-l
 
 **Finding (R26).** 14.3 (Decimus) and 14.4 (Nysa) both play the same beat in real time: Nysa steps forward, Phileros stops her, Caesar says “We go”, the litter poles knock.
 
-**Change.** 14.4 now opens after the litter has gone, with the moment that used to close it. Her blocked step is remembered in a few past-perfect lines, from her side only (the glance like a moved stool, Caesar not looking at her). Phileros’s rebuke, her question about what she would have given Caesar, and the wax ending now happen in the emptied vestibule. “We go” is spoken once in the chapter, in 14.3. Every line of her interior is kept; Caesar’s pause at the vestibule (“for half a breath”) survives as a memory. Small continuity tidy: she comes in from the lane to find Decimus in the vestibule, which is where 14.3 places her. Scene header date/place updated. 386 → 393 words.
+**Change.** 14.4 now opens after the litter has gone, with the moment that used to close it. Her blocked step is remembered in a few past-perfect lines, from her side only (the glance like a moved stool, Caesar not looking at her). Phileros’s rebuke, her question about what she would have given Caesar, and the wax ending now happen in the emptied vestibule. “We go” is spoken once in the chapter, in 14.3. Every line of her interior is kept; Caesar’s pause at the vestibule (“for half a breath”) survives as a memory. Small continuity tidy: she comes in from the lane to find Decimus in the vestibule, which is where 14.3 places her. Scene header date/place updated. 386 → 396 words.
 
 **Original**
 
