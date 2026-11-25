@@ -96,7 +96,7 @@ Brutus shook his head. “If we kill them in piles, we are not liberators. We ar
 
 “Then let them be wrong about the pile,” Brutus answered, and his eyes went to Decimus.
 
-“And Antony is not Caesar,” Brutus said. “Take Caesar away and he is a consul with a good name and a great hunger to be thanked. Give him the Republic to save and he may save it with us. Men like that go where the honour is.”
+“And Antony is not Caesar,” he went on. “Take Caesar away and he is a consul with a good name and a great hunger to be thanked. Give him the Republic to save and he may save it with us. Men like that go where the honour is.”
 
 “You are very sure of what Antony will do,” said Trebonius, from the wall.
 
@@ -118,7 +118,7 @@ A slave came through the gap in the hedge with two empty pots on his hip, saw fo
 
 Cassius looked at him a long moment, and then at Brutus, and let it go for now.
 
-A little later a foot scuffed beyond the hedge again, too near. Conversation became cover chat: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
+A little later a foot scuffed beyond the hedge again, too near. The talk turned to things anyone might hear: rain, a cousin’s wedding, whether the chickens had been rude. The foot retreated, or nearly did.
 
 In the lane beyond the garden gate, still smiling as if cousins and chickens had satisfied them, Decimus wiped garden-dirt from his palm onto his tunic.
 

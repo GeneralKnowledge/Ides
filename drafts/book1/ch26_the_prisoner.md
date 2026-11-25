@@ -40,13 +40,25 @@ Brutus had read some of those letters to the son. Half of Rome had. The father s
 
 “Everyone knows that too.” Marcus Cicero put out his hand. “I can ride. I can’t do much else. My father says I’m a disappointment to philosophy. Let me be one to Antony.”
 
-Brutus took the hand before he had decided to. That was how it went, that autumn. The young men of the schools came to him one at a time, sons of senators sent to Athens to be finished, who had heard about the Ides in a lecture hall and felt they had missed it. They came to him under the plane trees with their tablets and their good Greek and their fathers’ money running short, and asked for a command. He gave them commands. There were not many Romans in Athens, and those there were had been trained from birth to hold a sword and a law in the same hand.
+Brutus took the hand before he had decided to. By the end of the month there were others, senators’ sons sent to Athens to be finished, who had heard about the Ides in a lecture hall and felt they had missed it. He gave them commands. Each was easier to give than the one before.
 
-One of them asked for nothing. Statilius came in October, with the dust of the Piraeus road on him and no letter, because he had never needed one at Brutus’s table, and sat at the back of Theomnestus’s lectures as if those were what he had crossed the sea for. When Brutus asked what command he wanted he said none. He had come because a friend was here and he was not doing anything else. He took the couch nearest the door at dinner and argued with everyone, and he did not once mention that dinner.
+Statilius came in October, with the dust of the Piraeus road on him and no letter, because he had never needed one at Brutus’s table. He sat at the back of Theomnestus’s lectures as if those were what he had crossed the sea for. On the second evening Brutus had a command written out for him, the best he had left, and gave it to him across the table at dinner, where the others could see.
+
+Statilius read it. He put it down beside his plate, face up, and went on with the fish.
+
+“It is a good command,” Brutus said.
+
+“It’s a very good command. Give it to the Cicero boy. He wants a horse.”
+
+“I want you to have it.”
+
+“I know you do.” Statilius wiped his fingers. “I came because you were here and I wasn’t doing anything else. If I take that, I came for that.”
+
+The young men on the other couches had found things to look at. Brutus folded the appointment in half and then in half again, carefully, as though the size of it mattered, and put it under his cup. He was aware of how it had looked: that he had offered, in front of them all, and been refused, and he did not know yet what he would say about it afterwards. Statilius took the couch nearest the door every night after that and argued with everyone, and he did not once mention March.
 
 The last one he took was not a senator’s son.
 
-He was small and quick, with a round face and hair already going early at the temples, and he stood at the back of Theomnestus’s lectures and laughed a beat before anyone else at the jokes, as if he had seen them coming. Someone told Brutus his father had been a slave. A freedman from Venusia in Apulia, a collector at auctions, who had sold up everything to send his son to the best schools in Rome and then to Athens, and walked behind him to his lessons in the city with the boy’s satchel, as if he were the boy’s own slave.
+He was small and quick, with a round face and hair already going early at the temples, and he stood at the back of Theomnestus’s lectures and laughed a beat before anyone else at the jokes, as if he had seen them coming. Someone told Brutus his father had been a slave, and told it as a reason. A freedman from Venusia in Apulia, a collector at auctions, who had sold up everything to send his son to the best schools in Rome and then to Athens, and walked behind him to his lessons in the city with the boy’s satchel, as if he were the boy’s own slave.
 
 “Quintus Horatius,” the young man said, when Brutus sent for him. “Flaccus. Which means flap-eared, if you were being too polite to ask.”
 
@@ -61,6 +73,8 @@ Horace picked it up then. He read it twice, which Brutus liked, and put it in th
 “Then don’t write about me,” said Brutus.
 
 “No,” Horace agreed. “I don’t suppose I will.”
+
+Two of the senators’ sons came to Brutus that evening, separately, to ask very politely whether it was true about the auctioneer’s boy. He told the first that it was, and why, in a sentence he had taken some trouble over. He gave the second the same sentence.
 
 At the end of the autumn Quintus Hortensius came down from the north to dine with him.
 
@@ -90,3 +104,4 @@ So Macedonia came to Brutus in Athens, over the fifth course, from a man who cou
 - **Graph pass 2026-10-24:** Marcus Cicero says Trebonius dined with him in Athens in the spring on the way to Asia and wrote his father he was reformed (Cic. *Fam.* 12.16).
 - **Decisions:** 2026-11-07 (storyboard fix 4): SC-69b “Apollonia” moved to the end of Ch 29 (March 43, after Dolabella is declared an enemy) so it no longer runs ahead of Brundisium and Mutina; its notes went with it.
 - **Decisions:** 2026-11-04 (Reuben, examine-next round): Statilius arrives in Athens and asks for no command (pays his Ch 23 letter; sets up Ch 38 SC-92, the torch, Plut. *Brut.* 51).
+- **Dramatic revision 2026-11-25 (Reuben's assessment, row X):** the recruitment now escalates. The general paragraph on the young men cut to three sentences. Statilius refuses a command Brutus offers across the dinner table in front of the others (“If I take that, I came for that”); Brutus folds it under his cup, aware of how it looked. Horace's father is told to Brutus “as a reason”; two senators' sons ask that evening and get the same composed sentence. Hortensius and the last paragraph unchanged. No new recruit.

@@ -210,7 +210,7 @@ Overhear risk: Medium
 
 ---
 
-Caesar had kept him half an hour on roads.
+Caesar had kept Decimus half an hour on roads, standing at the clerks’ table in the room off the portico while the afternoon clients waited outside.
 
 “The ditch at Mutina,” Caesar said. He was signing as he talked, and a clerk took each sheet from under his hand. “How wide?”
 
@@ -292,3 +292,4 @@ Decimus fell in on his left. There was one step down from the portico to the str
 - **Plants → pays:** Gaius’s split heel (Ch 30 “Same boot, same heel”); Rufrius, the wine and the teeth (Ch 30, 37); the Capua list with no day (Ch 24, 27, 38); Brutus burns a different, late-45 dinner invitation (not Ch 1’s); the ancestors as his boyhood recitation; Caesar’s chin-tip, ditch timing and road trust, Decimus’s hand put out half a breath early (Ch 14); Mutina (Ch 20, 27); Decimus as second heir (Ch 18); FS05, FS21.
 - **Must not:** no Cleopatra POV.
 - **Decisions:** 2026-11-11 (voice pass): all three scenes rewritten in full. SC-05 now runs through the day of Munda from Laberius’s feet and kit (no “filing”). SC-07: the host of the burned invitation is Cornelius Balbus; Brutus dined with Lepidus on the Nones; the lie is “my cousin Servilius, at Tusculum”, and the freedman asks which cousin; “soft chain” dropped. SC-09: the roads talk is played as conversation (Mutina ditch, the Scultenna bridge, courier days, the mule on the Durius); Decimus first takes “second line” for a line of battle; Caesar’s exact lines kept. 2026-11-07 (storyboard fix 7): SC-06 “Sextus Slips” folded into the end of SC-05 (Labienus, Sextus to sea, Sextilius’s clean sandals, donative before boots dry). 2026-10-23: ancestors as Brutus’s recitation, Gaul in Decimus’s own record, will rumour in the laugher’s mouth (tightening pass).
+- **Dramatic revision 2026-11-25 (row W):** SC-09 opens with Decimus named and placed (the clerks' table in the room off the portico, the afternoon clients waiting), because it follows Marcus Brutus at home and “him” read as Brutus.

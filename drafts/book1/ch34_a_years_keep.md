@@ -38,7 +38,7 @@ They stopped and looked at him. He knew what they saw. Quintus Fufius Calenus, c
 
 Varro unfolded his hands.
 
-“He took my house at Casinum,” Varro said. He said it mildly, as an antiquarian notes a date. “In the spring before last, when I was away. Cicero wrote that he held parties in my library. Gamblers and actresses, Cicero wrote. He said the books must have wondered what had happened to their master.” He looked at Calenus. “I imagine that is why my name is on the wood. A man doesn’t like to be reminded of a house he has taken. It is cheaper to take the owner off the books.”
+“He took my house at Casinum,” Varro said. He said it mildly, as an antiquarian notes a date. “In the spring before last, when I was away. Cicero wrote that he held parties in my library. Gamblers and actresses, Cicero wrote. He said the books must have wondered what had happened to their master.” He looked at Calenus. “I imagine that is why my name is on the wood. A man doesn’t like to meet the owner of the books he has been standing his cup on.”
 
 “I imagine so,” said Calenus. He had imagined exactly that, at the foot of the board, and had not let himself finish the thought in the Forum.
 
@@ -116,7 +116,7 @@ He did not need the tablet. He remembered the entry: *Fulvia, wife of M. Antoniu
 
 A client came, a grain factor wanting to know what a proscribed man’s warehouse would fetch at auction. Hordeonius named a figure and refused to bid. He wrote the refusal under *prudence*, from habit, and then sat looking at the word.
 
-There was a kind of security that held when everything else failed, and it turned out to be the kind nobody on the Janus wrote down. Atticus had put kindness on the books when kindness was the worst risk in Rome, and now it had cleared, in Antony’s own hand, at a rate no banker could match. Hordeonius could not buy it now. You could not backdate a kindness. The market in it had closed in April, and he had been on the wrong side.
+Atticus had put kindness on the books when kindness was the worst risk in Rome, and now it had cleared, in Antony’s own hand. Hordeonius could not buy it now. The market in it had closed in April, and he had been on the wrong side.
 
 Calenus’s steward came at the third hour. Hordeonius knew him by sight: a grey, careful freedman who had paid his master’s bills on the Janus for ten years and never once haggled in public. He came the long way round, past the posted board, and stood at the stall with the face Hordeonius had seen on every borrower since the lists went up, the face of a man doing arithmetic he would rather not be seen doing.
 
@@ -234,3 +234,4 @@ Calenus did remember, now. He went out and shut the door on the draught, and wal
 
 ## Continuity audit 2026-11-11
 - **Decisions:** SC-85b and SC-85c dated late Nov 43 (the lists go up late November; SC-85d has Antony arrive before Cicero’s death on 7 Dec).
+- **Dramatic revision 2026-11-25 (P2):** Varro's line now his own (books, a cup) instead of a banker's (“cheaper to take the owner off the books”); Hordeonius's four maxims on Atticus's kindness cut to two sentences.

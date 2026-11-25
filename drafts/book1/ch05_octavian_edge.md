@@ -15,7 +15,7 @@ Overhear risk: Low–N/A
 
 ---
 
-“A Greek town with Italy’s heel for a view,” Agrippa had said from the boat rail, and that was description enough. Caesar had chosen Apollonia for the army and not for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria, where Crassus’s eagles still hung in some temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
+The drill ground at Apollonia lay under the town wall, with a baggage shed at one end and, on a clear day, the sea showing grey past the other. “A Greek town with Italy’s heel for a view,” Agrippa had said from the boat rail when they came in, and that was description enough. Caesar had chosen Apollonia for the army and not for him. Over the hills in Macedonia the army was gathering, and the officers who came down to the coast said the numbers the way other men said prayers: sixteen legions, ten thousand horse, the best of what Spain and Africa had left alive. Then Parthia, beyond Syria, where Crassus’s eagles still hung in some temple. Whoever brought the eagles home, the officers said, would be remembered longer than the man who had only won the war at home, and then they glanced to see whether the boy had heard.
 
 Somewhere in that plan, Caesar had given his great-nephew a place. Octavian was to study with the army and sail for the East beside the general’s staff. He was to learn the work of a master of the horse, the second chair, the man who rode behind the dictator. Nobody at the dinners had been told. If they had been, they would have laughed.
 
@@ -82,3 +82,4 @@ Before sleep they shared a heel of bread Agrippa had bullied from a cook who had
 - **Plants → pays:** the nickname “hopeful shadow”, which he hates and bans (Ch 20, 22); Agrippa (FS03); adoption and the name as paper (Ch 18 will).
 - **Must not:** no destiny voice; no future winks.
 - **Decisions:** 2026-11-11 (voice pass, heavy edit): one cold maxim kept (“Names that arrive early get spent”) with his shame after it; the other maxims, the future wink about the attendant’s bow and “He didn’t dream of crowns” cut; the bow made clear; he hides the cough and is seen hiding it.
+- **Dramatic revision 2026-11-25 (row W):** one opening sentence puts the reader on the drill ground under Apollonia's wall (baggage shed, the sea in the distance; Apollonia stands inland of the coast) before Agrippa's boat-rail line, now “when they came in”.

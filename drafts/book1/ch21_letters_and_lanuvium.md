@@ -208,7 +208,7 @@ Lanuvium was not exile. Exile came with a sentence. Lanuvium came with a road: e
 
 The Senate’s letter lay on the study table, moved by Antony, sealed in the Senate’s name. He was the city praetor. He was meant to be in the Forum hearing other men’s lawsuits, with ten nights outside the walls allowed him and no more. Now he might stay out as long as he liked. Brutus had read it twice and could not decide whether it was a kindness or a lock.
 
-Brutus walked the same garden paths until the gravel knew his sandals. Clients came to whisper loyalty and left before dusk. Rome was unreachable as Alexandria and louder in rumour than in reach. A steward reported which roads still carried Antonian veterans like dust that refused to settle. Brutus thanked him as if thanks were policy.
+Brutus walked the same garden paths until the gravel knew his sandals. Clients came to whisper loyalty and left before dusk. Rome was as far out of reach as Alexandria, and came to him only as rumour. A steward reported which roads still carried Antonian veterans like dust that refused to settle. Brutus thanked him by name.
 
 “They call you immortal in the same breath they ask you to be quiet,” Porcia said. “They call the boy temporary in the same breath they price his paper. Neither compliment is meant for your safety.”
 
@@ -220,7 +220,7 @@ Brutus drafted speeches for a city that would not let him deliver them. Ink drie
 
 Immortality, someone had written him, was better than peace. Brutus folded the sentence and didn’t burn it. Burning would have been a decision. He put the folded scrap under a weight shaped like a tiny Liberty, someone’s gift, someone’s joke, and hated how the joke still worked on him.
 
-Cassius’s letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. Care might still travel where he could not.
+Cassius’s letters, from his own house nearer the coast, smelled of ships and contempt. Brutus answered carefully, sentence by sentence. What he wrote could go where he could not.
 
 That afternoon a municipal clerk from a neighbouring town arrived with a blank tablet and a smile that wanted a signature. “Only a line,” the clerk said, “that we stood with liberty in March. For our records. If the winds change, the line protects us, or you.”
 
