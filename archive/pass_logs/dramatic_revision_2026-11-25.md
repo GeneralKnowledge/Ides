@@ -45,6 +45,10 @@ Not touched: Ch 38 (final image and the “which side of the line” sentence), 
 
 Read without names, most lines in Ch 26, 29, 32 and 34 belong to their speakers already: Marcus Cicero's cheek, Statilius's refusals, Amyntas's figures, Cornelius, Atia, Calenus's household. The ones that could have been anyone's were the Martian centurion's and Varro's (both sounded like Hordeonius) and the narrator's closing maxims in 29.2, 32.1 and 34.2. Those were changed; the rest were left.
 
+## Also
+
+`book2/voice/MIND_SHEETS.md` (Octavian, the tells): the two limits from #223 (“a physical tell may appear, once”; “No managerial vocabulary in his head”) rephrased as audit questions, to match the standing rule of no bans or quotas. Raised by the automated review.
+
 ## Exports
 
 `exports/Ides_Book1_FULL_Ch01-38.docx` regenerated (CI check). A4 and 6x9 copies in project files `exports_2026-11-25_dramatic_revision/`. The print package and EPUB are not rebuilt.

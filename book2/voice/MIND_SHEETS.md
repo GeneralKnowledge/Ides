@@ -58,7 +58,7 @@ These are questions for the Act IV audit and the outside reader's notes on her s
 - **What he fears losing**: the name's credit, the army's patience, being taken for a boy, his own body.
 - **What he decides that is his own**, not a reaction someone else set up. At least one such decision in each act, and he should get one of them wrong.
 
-The tells. Book 1 used hands flat on a surface in four of his nine scenes, the pale ring band three times and a voice that comes out stiff or young six times. By the last use the gesture was doing the work a thought should do. In Book 2 a physical tell may appear, once, where it reveals something; it is not his signature. Let the voice change instead: he is older, and the stiffness should be heard less and noticed more by others than by him. No managerial vocabulary in his head (see WATCHLIST question 9).
+The tells. Book 1 used hands flat on a surface in four of his nine scenes, the pale ring band three times and a voice that comes out stiff or young six times. By the last use the gesture was doing the work a thought should do. In Book 2 ask of each physical tell: does it reveal something here that a thought could not, or is it standing in for one? It should not become his signature. Let the voice change instead: he is older, and the stiffness should be heard less and noticed more by others than by him. Ask of any managerial word in his head whether he thinks in it or the writer is lending it to him (see WATCHLIST question 9).
 
 Audit his six scenes (I-03, I-10, II-05, II-08, III-07, IV-06) against these after the outside reader's notes come in, not before. Book 1 itself is not changed; the Ch 28.2 test is a separate investigation.
 
