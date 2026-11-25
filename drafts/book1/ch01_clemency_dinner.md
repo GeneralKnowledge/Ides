@@ -15,11 +15,11 @@ Overhear risk: Servants
 
 ---
 
-Cassius smiled with his teeth and counted who received what: commands, lands, praise.
+From the third couch in the host’s dining room, under lamps lit early against the winter dark, Cassius smiled with his teeth and counted who received what: commands, lands, praise.
 
 He had come for one thing. Caesar was going to Spain before the winter to finish Pompey’s sons, and the host was one of the men who drew up the names for his staff. A pardoned man who rode on the next campaign stopped being a pardoned man and became an officer again. Cassius had written to the host twice. Tonight he meant to hear the answer in the host’s voice, and he had decided on the way over that he would not ask.
 
-The host had given him the third couch, a seat chosen the way a man chooses which cloak to lend a stranger: not an insult, not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
+The couch had been chosen the way a man chooses which cloak to lend a stranger: not an insult, not an honour. Sextilius had the couch beside it, still pink from the bath and the afternoon’s flattery.
 
 “They have put us together as a lesson,” Sextilius murmured, tearing bread. “Here is the man who joined Caesar’s side early. Here is the man who joined it eventually. Observe the difference in the cushions.”
 
@@ -139,3 +139,4 @@ He read the sentence back. It was true. It sounded like a man thanking his chain
 - **Plants → pays:** Caesar’s grudge-death line and Tettius’s Cato question play against the prologue; Sextilius’s physician lines pay Cleanthes; the table’s Cato carries into Ch 2 street weather. Close: Cassius drafts to Cicero his Jan 45 line, rather the old clement master than a new cruel one (*Fam.* 15.19), scrapes it, and the scene ends on his writing it again. Whether and when it is sent is left to the letters.
 - **Must not:** no Actium; no narrator verdict on the child’s father; no Utica gloss (the prologue carries it); no knives yet. AMB-1 untouched; SIDE-1 not planted.
 - **Decisions:** 2026-11-11 (voice pass, heavy edit): captions on the room cut (“leftover Pompeians”, the favour that “shone”, “forgiven got said again”, the table’s “hole in itself”), the “forgiven into rooms” exchange and the seal exchange cut, Aebutius and Tettius allowed to be dull, the last sentence about Utica cut. 2026-10-23 (Reuben): Ch 1 reworked after the prologue. The petitioner is cut and his ignored-ask beat moved to Cassius.
+- **Dramatic revision 2026-11-25 (Reuben's assessment, row W):** first sentence now places Cassius on the third couch of the host's dining room, lamps lit against the winter dark; the later “third couch” sentence reworded to avoid the repeat. Nothing else changed.

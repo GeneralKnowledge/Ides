@@ -45,6 +45,10 @@ Protected by the same decision: the Act IV counterpoint (the Liberators withdraw
 | T | **Visellius goes silent mid-book.** A murder set up with every signal of a mystery is never solved. | **Cold critical review, Claude, current text (24 Nov)** | Nothing. Audit: the ending is right and stays open. The weakness is the gap: nothing between 18.1 and 33.3, fifteen chapters, and 33.3 is the first signal that the abandonment is the point. | Watch (one source). Reuben: an unresolved question, not a failed resolution; the delay before the book signals that the missing answer means something is the thing to remember. No explanatory material without reader evidence. If a reader feels cheated, the remedy would be a mid-book signal (a sentence in 30.3), not a solution, and it would be an editorial experiment. |
 | U | **Dialogue-tag slips.** Ch 9: two consecutive speeches tagged to Brutus (9.2). Ch 11: Tiro given two speeches in a row (11.2). | **Cold critical review, Claude, current text (24 Nov)** | Nothing. Audit confirms both. | Applied 24 Nov. R1: the second Brutus speech now tagged “he went on”. R2: Cicero answers between Tiro's two lines (“Then the room agrees that Balbus has been down in the vault.”). |
 | V | **Nysa always in the right place.** By the last act she is wherever history is. | **Cold critical review, Claude, current text (24 Nov)** | Nothing. Audit: every move is motivated on the page, and two are where the sources put Antony's household. The device is the steward sending her out to count, four times (25.1, 33.5, 35.4, 38.6), and it never misses. | Rejected for Book 1; accepted for the series (R12). Book 2 ends on a fifth count. Lesson carried into the Book 2 Nysa mind sheet and WATCHLIST question 6. |
+| W | **Orientation in the opening chapters.** Scenes in Ch 1–6 often begin with what someone wants or thinks and place the reader a few sentences later; the reading copy drops the date / place lines, so the prose has to carry it. | **Reuben, his own reading (25 Nov)** | Checked: `tools/export_book1_docx.py` strips “Date / place:” with the rest of the scene metadata, so the reader has no anchor but the prose. | Applied 25 Nov (Reuben's decision): one physical anchor in the opening sentences of 1.1, 4.3 (Decimus named, since the scene follows Marcus Brutus at home), 5.1 and 6.3. Prose only; the export is unchanged. The other Ch 1–6 openings already place the reader. |
+| X | **Ch 26 recruitment is a run of introductions.** Each recruit arrives, is assessed, and the story moves on. | **Reuben, his own reading (25 Nov)** | Nothing before. | Applied 25 Nov: the general paragraph on the young men compressed; Statilius refuses a command offered across the dinner table; Horace's appointment is objected to and Brutus answers twice in the same sentence; Hortensius and the closing paragraph unchanged. No new recruit. |
+| Y | **Decimus's abandonment summarised.** “The valley changed on its own” tells a social change the reader should see. | **Reuben, his own reading (25 Nov)** | Nothing before. | Applied 25 Nov: the senior centurion of the recruits stops bringing the morning return himself (32.2), before the Plancus sequence. No battle, no subplot. |
+| Z | **Ch 29 Apollonia delivers the next development.** The siege and surrender outweigh the decision to spare Gaius. | **Reuben, his own reading (25 Nov)** | Nothing before. | Applied 25 Nov, restrained: one paragraph in which the officers argue Gaius's fate (chains as a bargaining piece, a ship to Italy), so the decision at the gate has something to push against. Military material unchanged. |
 
 ## Ch 7–12 read (11 Nov, against the five questions)
 
@@ -142,6 +146,18 @@ Reuben asked for a review of Book 1 written as by a critic who had never read it
 **Next tests (not changes).** The Act IV cold-reader skim (row N) and the Ch 28.2 test (row M). Neither is a Book 1 edit; any change that came out of them would be an editorial experiment.
 
 **Revised the same day.** Reuben: “don't rewrite Book 1” is not “don't fix Book 1”. The confirmed corrections (R1 to R7, R31) were applied on 24 Nov, and the focused editorial pass (rows M, N, O, T and 21.5) runs as its own PR. See the section at the top.
+
+## Reuben's assessment (25 Nov)
+
+Reuben wrote a full editorial assessment of Book 1 on 25 Nov, keeping 3.5/5 and naming the gap to 4/5: “The strongest parts of Ides make history happen to people. The weaker parts sometimes make people carry the reader from one historical development to the next.” Dimension estimates: historical premise and architecture 4; character and ensemble 3.8; dramatic momentum 3.3; individuality of voice 3.4; orientation and accessibility 3.2; theme and ending 4.3.
+
+**Status.** This is Reuben's own reading, so it is his decision, not an outside reader, and it does not add a count under the repeat rule. It commissions one bounded editorial revision: rows W, X, Y and Z, and selective voice and parenthetical edits in Ch 26, 29, 32 and 34 (counted against A and L). He corrected his earlier advice: not “stop”, but stop low-value polishing and spend the remaining effort on these dramatic weaknesses.
+
+**Protected by the same assessment.** The Ch 38 ending entirely, including the final image and the “which side of the line” sentence; Ch 20–23 as a blanket exercise (22's name-taking and 23's Statilius refusal named as already improved); the six POVs and the structure. No new protagonist, no added battles, no large expansion.
+
+**Praised, to keep.** The statue opening of Ch 26; “He had disliked it then. He disliked it now, and kept it.”; Cornelius and “He had not told Cornelius to say it. He had not told him not to.”; Atia and Octavia; Cicero greeting last; the vultures; the bridge; Amyntas walking past the chair.
+
+**What was done.** See the changelog in `archive/pass_logs/dramatic_revision_2026-11-25.md`.
 
 ## Held elsewhere
 

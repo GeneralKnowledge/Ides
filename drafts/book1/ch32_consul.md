@@ -14,7 +14,7 @@ Overhear risk: Soldiers + Senate terror
 
 ---
 
-That summer, in his camp in the north and then on the road to Rome, Octavian entered the politics of force with hands that still remembered shaking in Apollonia.
+That summer Octavian kept his camp in the north, among tents that had stood since Mutina. His hands had shaken at Apollonia on the day the news came, and some mornings they still did.
 
 A courier brought the Senate’s thanks for Mutina, and the thanks were not for him. Decimus had the triumph and the dead consuls’ legions, the Martians among them. Octavian was to be thanked and left behind. He read the decree once and gave it to Agrippa, who read it twice.
 
@@ -26,7 +26,7 @@ Octavian’s throat tightened once, shame or fever; he didn’t sort it. He look
 
 He had the clerks open the nearest chest where Agrippa could see the count. When a tribune started a sentence about the Senate’s honours, Octavian cut him with a nod toward the queue of soldiers. “Honours after the line is fed.”
 
-A centurion from the Martians said it first, loud enough for the pay line: “They want us under the man who held Caesar’s door. Who feeds us now, old men with tablets, or Caesar’s name?” A tribune seconded without looking at Octavian’s face: the men would not march for an assassin on praise that arrived late and sweet. Agrippa translated the noise into one sentence Octavian could keep. The ranks wanted a consul who was *theirs*: paymaster, name, a face young enough to insult the old seats. Two chairs were empty.
+A centurion from the Martians said it first, loud enough for the pay line: “They want us under Decimus. Him that fetched Caesar out of his house that morning. And who pays us there?” A tribune said much the same at greater length, without looking at Octavian’s face. Afterwards Agrippa put the noise into one sentence Octavian could keep: the ranks wanted a consul who was *theirs*, who paid them, and who had the name. Two chairs were empty.
 
 Philippus wrote from Rome in the stepfather’s hand Octavian had learned to read sideways, every warning folded inside a piece of news. The House was frightened and could not say of what. Decimus was a Liberator with a triumph and a thinning army, not a consul. Antony was over the Alps with Lepidus’s legions. Some of the fathers wanted a consul who obeyed and would settle for one who was young. And then, as if he were only reminding a boy of his lessons: the law wanted forty-two years for the chair. *You have nineteen. Count them before anyone else does.*
 
@@ -47,8 +47,6 @@ The pay line roared. Octavian, at the chest, kept his face still and his fingers
 They crossed the little river at the border of Italy late in July, with the eight legions behind them. Octavian rode ahead with the picked cohorts. The water was low, the colour of weak wine, and the horses did not need to swim. He had expected to feel something at it, because it was the same river, and men in the column were already saying so to each other, *his father’s river*, as if it had been in the will with the gardens. He felt his horse’s shoulder shift under him on the stones. He felt the sun on the back of his neck. On the far side he reined in and let the cohorts go past, and watched the faces, and found that the men felt it for him, and that this was more use.
 
 The Senate sent envoys to meet him on the road with money. Two days later it sent riders after the envoys to take the money back, because two legions had landed from Africa and the fathers had found their courage again. Octavian heard both pieces of news in one evening, and laughed for the first time in a month, and could not stop until Agrippa put a cup in his hand.
-
-“They’re counting legions,” Agrippa said. “It’s progress.”
 
 The two African legions went over to him outside the walls. The urban praetor, Cornutus, who had been given the defence of the city with them, fell on his sword when he heard. Octavian was told this at a well on the Via Flaminia, and stood for a while with the dipper in his hand. He had not known Cornutus. He found he wanted to know what the man had looked like, and did not ask.
 
@@ -124,11 +122,11 @@ Agrippa had counted. He said six, and then six. He said it was a hot summer and 
 
 “Both, I should think.” Agrippa looked at the sky, which was empty now. “That’s the art.”
 
-Octavian looked at the empty sky a moment longer than he meant to. Six birds belonged to the augur. Twelve belonged to the camp, and the camp had made him a second Romulus before the centuries had finished making him a consul. He would not correct them.
+Octavian looked at the empty sky a moment longer than he meant to. He would not correct them.
 
 He felt sick after the count, stomach, not omen. A taste of metal rose; he swallowed it and kept his fingers on the chest lid until the shake stopped. Twelve lictors shouldered the bound rods and walked ahead of him, and men stepped out of the street for the rods before they looked to see whose face came behind. A herald stumbled over *consul* and *nineteen* in the same breath, as if the two words had never met. Octavian let him find his way to the end.
 
-There was one smaller vote first, which Antony had kept off the agenda through the whole of his consulship. The thirty lictors who stood for the city’s old wards were called to the Capitol and passed the adoption into law. It took less time than the auspices had. Octavian had been signing himself Caesar since the May before; now the clerks could write it without a note in the margin.
+There was one smaller vote first, which Antony had kept from coming to a vote through the whole of his consulship. The thirty lictors who stood for the city’s old wards were called to the Capitol and passed the adoption into law. It took less time than the auspices had. Octavian had been signing himself Caesar since the May before; now the clerks could write it without a note in the margin.
 
 Pedius had his first law ready before the lictors had learned the way to the new consul’s door: a court for the men of the Ides. It sat in a day. Nobody spoke for the absent, because nobody was fool enough to. Octavian read the list of the condemned at supper, and Decimus’s name was on it, and Casca’s, and Galba’s, and Brutus’s and Cassius’s at the top, and he put the tablet face down beside his plate and ate what was on the plate, because his mother had told him to.
 
@@ -160,7 +158,13 @@ His own name was there. He read it twice.
 
 “We told ourselves a great many things.” Plancus took the tablet back, and Decimus let him. “I am still your colleague, Decimus. Nothing in Rome changes the valley.”
 
-Nothing in Rome changed the valley. The valley changed on its own. After the news the recruits began talking in the evenings in a way they had not talked before. The veterans in Plancus’s lines stopped looking at Decimus with interest. And letters began coming for Plancus from the west, from Pollio in Spain, who had three legions and a habit of writing to everyone and committing to no one, under seals Decimus was not shown.
+Nothing in Rome changed the valley. The valley changed on its own.
+
+The senior centurion of the recruits was a Mutina man who had dug the inner ditch there with Decimus through the winter, and who liked to be told why a thing was the width it was. Every morning since the passes he had brought the strength return up to the tent himself, and stayed to ask about the bridge, or the ford below it, or how deep the Isara ran in October. The morning after the news the return came up with his optio, a boy of eighteen. The figures were correct and neatly written. The next morning it came with the boy again.
+
+On the third morning Decimus went down to the recruits’ lines himself. The centurion was at the ditch with a measuring rod. He saluted, correctly, and answered everything Decimus asked him, and asked nothing. Decimus told him the bank on the north side wanted another foot. The centurion said it would be done. It was done by evening, a foot exactly, and he did not come up to say so.
+
+The veterans in Plancus’s lines stopped looking at Decimus with interest. And letters began coming for Plancus from the west, from Pollio in Spain, who had three legions and a habit of writing to everyone and committing to no one, under seals Decimus was not shown.
 
 He did not ask to be shown them for three days. On the fourth he asked at dinner, because he could not bear the cup and the laugh one more evening without it.
 
@@ -243,3 +247,4 @@ Camelus’s man struck once at the neck, and again.
 ## Continuity audit 2026-11-11
 - **Decisions:** the pay-line centurion (Laberius, Aug 43) wears Gaius’s boots, his own size (Ch 30), newly stitched at the left heel (sewn at Bononia, Ch 37); resoled twice by Dec 43 (Ch 35).
 - **Decisions:** 2026-11-11 (outside read of Ch 19–24, inheritance check): SC-83 adds the curiate vote that made the adoption law after the election (App. *BC* 3.94; Dio 46.47), the step Antony had blocked since 44, so accepting the inheritance (Ch 22), paying the legacy (Ch 22) and the adoption are three separate acts on the page.
+- **Dramatic revision 2026-11-25 (row Y; P2):** SC-82c: after “The valley changed on its own”, the senior centurion of the recruits (a Mutina man) sends the morning return by his optio, then answers Decimus correctly and asks nothing; the extra foot on the bank is done, and he does not come up to say so. The summary sentence about recruits talking in the evenings cut. SC-83: opening sentence (“entered the politics of force”) made plain; the Martian centurion speaks like a soldier and Agrippa's sentence is reported plainly; Agrippa's “It's progress” cut; the two “belonged” sentences after the vultures cut (“He would not correct them” kept); “agenda” replaced. Cornelius and “He had not told him not to” unchanged.

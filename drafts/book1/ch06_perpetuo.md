@@ -210,7 +210,7 @@ Overhear risk: Medium
 
 “They have sold years in advance,” Hordeonius said, scandalised on behalf of ready coin.
 
-He had the list in front of him. Everyone in the Forum had it by now, copied small on a single leaf: the consuls for this year, and for next year, and for the year after that, named and settled, because the man who named them would be in Parthia when the elections fell due and did not mean to leave them lying about. Hordeonius had read it through twice, as he read anything with a term on it.
+He had the list flat on his board under the basilica arch, with a tablet on one corner against the wind. Everyone in the Forum had it by now, copied small on a single leaf: the consuls for this year, and for next year, and for the year after that, named and settled, because the man who named them would be in Parthia when the elections fell due and did not mean to leave them lying about. Hordeonius had read it through twice, as he read anything with a term on it.
 
 The young man across the board had not come about the list. He had come about a loan. He was agent to a senator who had borrowed four hundred thousand in the autumn, at one in the hundred a month, to stand for the consulship of the year after next.
 
@@ -267,3 +267,4 @@ Hordeonius watched all three as far as the corner.
 - **Plants → pays:** SC-11b (added 2026-10-24): Brutus gets the city praetorship over Cassius (“the juster claim”), paid in Ch 7 SC-15 and recalled at the Curia (Ch 16); the hand on the shoulder. Atticus, Tiro, Hirtius (the promised consulship); Parthia packing (FS22).
 - **Decisions:** 2026-11-11 (continuity audit): Sosia’s “Fairness is what men call it…” replaced, because it had the same shape as the former praetor’s line about manners in SC-12. SC-12 and SC-14 rewritten in full 2026-11-11 (voice pilot; see `writing/voice/MIND_SHEETS.md`). SC-14 names the consuls designated for 42 (Plancus and Decimus Brutus) and turns on one loan: 400,000 at one per cent a month, extended two months at one and a half against four shops in the Velabrum. Two men follow the agent toward the baths.
 - **Must not:** three POVs only (Brutus, Cicero, Hordeonius). CLEO-1 held. Caesar’s “this poor body” line is spoken once, here.
+- **Dramatic revision 2026-11-25 (row W):** SC-14 places Hordeonius's list on his board under the basilica arch in the second sentence, at the change from Cicero at Tusculum.

@@ -22,7 +22,7 @@ Gaius Trebonius said this in good Greek, with a Roman accent he did nothing to h
 
 So the treasury fed Dolabella.
 
-Amyntas wrote it down as he did everything. Barley, so many *medimni*. Wine, so many jars, the second quality; oil; fodder for four hundred horses. Sheep, live, driven out of the north gate each morning to the camp on the plain where the consul of last year, the proconsul of Syria, once the son-in-law of Cicero, sat with his legions and waited to be let in and was not. Each night the gates were shut and the watch doubled. Each morning the carts went out again. Amyntas entered the cost under a heading he invented for it, *hospitality to a passing magistrate*, and looked at it, and thought that the city had paid many kinds of hospitality to many Romans in his lifetime, and that this was the first he had been asked to pay from behind a locked gate.
+Amyntas wrote it down as he did everything. Barley, so many *medimni*. Wine, so many jars, the second quality; oil; fodder for four hundred horses. Sheep, live, driven out of the north gate each morning to the camp on the plain, where Dolabella sat with his legions and waited to be let in, and was not. The council had looked him up: consul last year, proconsul of Syria now, once the son-in-law of Cicero. Each night the gates were shut and the watch doubled. Each morning the carts went out again. Amyntas entered the cost under a heading he invented for it, *hospitality to a passing magistrate*, and looked at it, and thought that the city had paid many kinds of hospitality to many Romans in his lifetime, and that this was the first he had been asked to pay from behind a locked gate.
 
 Dolabella sent courteous letters. He understood entirely. He would not dream of troubling the city. He was on his way to his province and wanted only supplies and a little rest for his men. He sent the treasurer of Smyrna, by name, a cup of good silver as thanks for the barley, and Amyntas entered it in the books as a gift to the city and put it in the strongroom and did not drink from it.
 
@@ -98,8 +98,6 @@ Cicero sat down. His throat hurt from the speech. He thought, not for the first 
 
 “Yes.” Cicero held out his hand for a tablet. “The eleventh. Leave out the part about friend. It sounded rehearsed.”
 
-It had not been rehearsed. That was why it had to go.
-
 ---
 
 # SC-69b: Apollonia
@@ -112,7 +110,7 @@ Overhear risk: Officers; Gaius’s lictors
 
 ---
 
-By the end of the winter Brutus had an army, and it had been made almost entirely by other people changing their minds.
+By the end of the winter, on the road west across Macedonia, Brutus had an army, and it had been made almost entirely by other people changing their minds.
 
 Hortensius had given him Macedonia. The legion at Dyrrachium had come over with its commander, Vatinius, who opened the gates and said that he had always admired Brutus, which was untrue, and that his men had refused to fight, which was. Cavalry riding east through Thessaly to join Dolabella in Syria had stopped on the road and been talked round. And Piso, Gaius’s own legate, had surrendered his legion on the road to young Marcus Cicero, who had ridden at it with a few squadrons and more confidence than sense. Marcus had come back hoarse and delighted, and Brutus had written to his father about it in terms so warm he had read the letter over twice before sealing it, to be sure he meant them. He did. The boy rode well and was brave in the way that comes before a man has been hurt, and the men liked him, and he had stopped drinking at the eighth hour, mostly.
 
@@ -131,6 +129,8 @@ He did not storm the town. He did not need to. He camped on the plain within sig
 On the fourth day a cohort of Gaius’s men came out of the south gate in good order, shields covered, and walked down through the marsh along the causeway, and came over.
 
 On the sixth day the rest came.
+
+That evening the officers settled Gaius for him at dinner, one after another, while Brutus listened. The older men, who had been with Pompey, said chains. Antony had Decimus shut up in Mutina, and a brother in chains would be worth a legion when it came to bargaining. Vatinius, who had opened his own gates and wanted it forgotten, said a ship to Italy and good riddance. Marcus Cicero said that his father would know what to do, and then went red, because everyone at the table knew what his father would do. Brutus said he would decide when he had seen the man. The officers heard it as a decision put off, and the older ones looked at each other. He lay awake a long time afterwards, composing what he would say to Gaius, and could not get past the first sentence.
 
 Gaius came on the seventh. He came out of the main gate on foot with his six lictors walking ahead of him with the fasces on their shoulders, as if he were going down to the Forum to hear a case, and his toga properly folded, and the family jaw set, and nothing else at all. No soldiers. A secretary with a box. He walked down the road from the town to Brutus’s camp in the bright March cold, a mile or more, with the whole army watching him from the rampart, and nobody said anything, and the only sound was the lictors’ feet on the road.
 
@@ -183,3 +183,4 @@ Brutus did not answer. Down in the camp, in the good house he had given him, Gai
 - **Must not:** no Trebonius POV; torture told only as unconfirmed versions; Amyntas not a hero.
 - **Decisions:** 2026-10-24: drafted as insert chapter 27a (Reuben’s default); numbered Ch 29 in the renumbering pass the same day. Phil. 11 lands here, not in Ch 28 (Ch 28 ends at the Kalends of January).
 - **Graph pass 2026-10-24:** Amyntas keeps back the small book of the temple of Nemesis (orphans’ dowries, under his own floor). Pays Ch 36 (he says nothing to Cassius).
+- **Dramatic revision 2026-11-25 (rows Z, L; P2):** SC-69b opens “on the road west across Macedonia”. After the sixth day, one paragraph: the officers argue Gaius's fate at dinner (the Pompeians want chains, since Antony has Decimus shut in Mutina; Vatinius a ship; Marcus Cicero blushes); Brutus says he will decide when he has seen the man and lies awake unable to get past his first sentence. SC-74a: the stacked Dolabella appositives untangled into a second sentence. SC-74b: the last line (“It had not been rehearsed. That was why it had to go.”) cut; the scene stops on Cicero's instruction.
